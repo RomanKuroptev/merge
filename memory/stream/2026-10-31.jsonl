@@ -8,3 +8,5 @@
 {"id":"2026-10-31#8","at":"2026-10-31T16:43:17.114Z","kind":"step","text":"Started put_on (The house): Whatever I take from the clay goes straight into my storage at home, where I can see it.","verb":"put_on","objectId":"house","goalRef":"today:1"}
 {"id":"2026-10-31#9","at":"2026-10-31T16:53:15.686Z","kind":"trigger","text":"affection is at 0 of 100"}
 {"id":"2026-10-31#10","at":"2026-10-31T16:53:15.686Z","kind":"thought","text":"Affection is at zero, but no visitor is here to give it to me, so I will keep to my plan and stop thinking about it."}
+{"id":"2026-10-31#11","at":"2026-10-31T17:03:17.516Z","kind":"step","text":"put_on: put away clay from The house","verb":"put_on","objectId":"house"}
+{"id":"2026-10-31#12","at":"2026-10-31T17:03:17.516Z","kind":"step","text":"Started go_to (The telescope): The telescope is the biggest thing on this island and it has been ignoring me, so I will ignore it back from closer up.","verb":"go_to","objectId":"telescope","goalRef":"today:2"}

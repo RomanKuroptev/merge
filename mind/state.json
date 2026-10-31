@@ -23,7 +23,7 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-10-31",
-  "appliedStepAt": "2026-10-31T16:23:15.159Z",
+  "appliedStepAt": "2026-10-31T16:43:17.114Z",
   "lastThinkAt": "2026-10-31T16:53:15.686Z",
   "recent": [
     {
@@ -72,6 +72,11 @@
       "verb": "put_on",
       "targetId": "house",
       "at": "2026-10-31T16:43:17.114Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "telescope",
+      "at": "2026-10-31T17:03:17.516Z"
     }
   ],
   "memoryBatch": null,
