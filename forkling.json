@@ -3,25 +3,25 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 77.1,
-    "energy": 80.7,
-    "curiosity": 99.8,
-    "affection": 10.4
+    "hunger": 70.6,
+    "energy": 78.6,
+    "curiosity": 97.9,
+    "affection": 8.8
   },
   "position": [
-    20.5,
+    7.5,
     0,
     16.5
   ],
   "mood": "smug",
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-10-31T12:33:13.402Z",
-    "seed": 1968765597,
-    "reason": "Something on the sunny side of the beach smelled new, and I intend to investigate it without appearing interested.",
-    "goalRef": "today:1"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-10-31T13:02:13.999Z",
+    "seed": 704085128,
+    "reason": "There was a warm patch of sun and it was calling me."
   },
-  "lastTickAt": "2026-10-31T12:33:13.402Z",
+  "lastTickAt": "2026-10-31T13:03:15.600Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
