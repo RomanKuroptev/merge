@@ -23,7 +23,7 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-10-31",
-  "appliedStepAt": "2026-10-31T15:03:14.850Z",
+  "appliedStepAt": "2026-10-31T15:33:12.659Z",
   "lastThinkAt": "2026-10-31T15:51:28.961Z",
   "recent": [
     {
@@ -57,9 +57,19 @@
     {
       "verb": "explore",
       "at": "2026-10-31T15:33:12.659Z"
+    },
+    {
+      "verb": "cut",
+      "targetId": "clay-bank",
+      "at": "2026-10-31T16:03:24.230Z"
     }
   ],
   "memoryBatch": null,
+  "readings": {
+    "date": "2026-10-31",
+    "count": 0,
+    "skimmed": false
+  },
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",
@@ -67,10 +77,5 @@
         "step 7 (\"zoomies\") cannot happen then: it needs dusk"
       ]
     }
-  ],
-  "readings": {
-    "date": "2026-10-31",
-    "count": 0,
-    "skimmed": false
-  }
+  ]
 }

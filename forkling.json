@@ -3,30 +3,31 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 97.7,
-    "energy": 42.3,
-    "curiosity": 99.2,
+    "hunger": 90.9,
+    "energy": 64.1,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    10.5,
+    14,
     0,
-    19.5
+    20
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.45,
-    "arousal": 0.92
+    "valence": -0.43,
+    "arousal": 0.88
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-10-31T15:51:04.857Z",
-    "seed": 1870732332,
-    "reason": "There was a warm patch of sun and it was calling me."
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-10-31T16:03:24.230Z",
+    "seed": 1968901080,
+    "reason": "A piece of clay is a thing worth keeping, and I keep things.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T15:51:28.961Z",
+  "lastTickAt": "2026-10-31T16:03:24.230Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
