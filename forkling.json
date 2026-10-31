@@ -3,25 +3,24 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 74.7,
-    "energy": 75.9,
-    "curiosity": 99.7,
-    "affection": 21.9
+    "hunger": 96.8,
+    "energy": 88.9,
+    "curiosity": 98.7,
+    "affection": 15.3
   },
   "position": [
-    2.42,
+    -11.5,
     0,
-    14.3
+    29.5
   ],
   "mood": "sleepy",
   "intention": {
-    "type": "eat",
-    "targetId": "food",
-    "startedAt": "2026-10-31T10:45:57.099Z",
-    "seed": 240954291,
-    "reason": "My belly said it was time to eat."
+    "type": "lounge",
+    "startedAt": "2026-10-31T11:13:07.299Z",
+    "seed": 1467773222,
+    "reason": "I am resting my eyes. And the rest of me."
   },
-  "lastTickAt": "2026-10-31T10:46:07.195Z",
+  "lastTickAt": "2026-10-31T11:13:11.440Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
