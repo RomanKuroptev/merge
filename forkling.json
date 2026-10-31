@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 94.6,
-    "energy": 85.7,
-    "curiosity": 100,
+    "hunger": 97.7,
+    "energy": 42.3,
+    "curiosity": 99.2,
     "affection": 0
   },
   "position": [
-    5.5,
+    10.5,
     0,
-    20.5
+    19.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.16,
-    "arousal": 0.77
+    "valence": -0.45,
+    "arousal": 0.92
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-10-31T15:33:12.659Z",
-    "seed": 1968902316,
-    "reason": "The clay bank is near enough that I should go and see what it is doing.",
-    "goalRef": "today:2"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-10-31T15:51:04.857Z",
+    "seed": 1870732332,
+    "reason": "There was a warm patch of sun and it was calling me."
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T15:33:12.659Z",
+  "lastTickAt": "2026-10-31T15:51:28.961Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
