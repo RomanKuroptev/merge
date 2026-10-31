@@ -3,26 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 98.3,
-    "energy": 85.9,
-    "curiosity": 95.7,
+    "hunger": 78.4,
+    "energy": 72.6,
+    "curiosity": 95.5,
     "affection": 0
   },
   "position": [
-    13.5,
+    -14.5,
     0,
-    20.5
+    12.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.29,
+    "valence": -0.58,
     "arousal": 1
   },
   "intention": {
     "type": "put_on",
     "targetId": "house",
-    "startedAt": "2026-10-31T16:43:17.114Z",
-    "seed": 1968898097,
+    "startedAt": "2026-10-31T16:53:08.913Z",
+    "seed": 444915101,
     "reason": "Whatever I take from the clay goes straight into my storage at home, where I can see it.",
     "goalRef": "today:1"
   },
@@ -30,7 +30,7 @@
     "material": "clay"
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T16:43:17.114Z",
+  "lastTickAt": "2026-10-31T16:53:15.686Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
