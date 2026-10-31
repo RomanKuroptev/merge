@@ -1,10 +1,28 @@
 {
   "knownObjects": [
     "sunny-rock",
-    "tall-rock"
+    "tall-rock",
+    "bed",
+    "berry-bush",
+    "bookshelf",
+    "bowl",
+    "clay-bank",
+    "desk",
+    "driftwood",
+    "drum",
+    "garden",
+    "house",
+    "kitchen",
+    "meadow",
+    "pebbles",
+    "reeds",
+    "shells",
+    "telescope",
+    "water-bowl",
+    "workbench"
   ],
   "seenEventTypes": [],
-  "lastThinkAt": "2026-10-31T14:13:17.188Z",
+  "lastThinkAt": "2026-10-31T14:22:22.375Z",
   "recent": [
     {
       "verb": "perch",
@@ -19,6 +37,11 @@
       "verb": "nap",
       "targetId": "sunbeam",
       "at": "2026-10-31T13:23:24.639Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "workbench",
+      "at": "2026-10-31T14:22:22.375Z"
     }
   ],
   "rejections": [
@@ -28,5 +51,6 @@
         "step 7 (\"zoomies\") cannot happen then: it needs dusk"
       ]
     }
-  ]
+  ],
+  "lastPlanDate": "2026-10-31"
 }

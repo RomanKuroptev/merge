@@ -4,5 +4,65 @@
     "reason": "Anything with a view that high should belong to me, and I found it first.",
     "setAt": "2026-10-31T11:16:01.934Z",
     "reviewedAt": "2026-10-31T11:16:01.934Z"
+  },
+  "today": {
+    "date": "2026-10-31",
+    "steps": [
+      {
+        "verb": "go_to",
+        "targetId": "workbench",
+        "reason": "Something new with a flat top is worth sitting next to, and I will pretend I only came by accident.",
+        "minutes": 25
+      },
+      {
+        "verb": "inspect",
+        "targetId": "telescope",
+        "reason": "The sky is the biggest thing here, and someone should check whether it is looking back.",
+        "minutes": 40
+      },
+      {
+        "verb": "go_to",
+        "targetId": "clay-bank",
+        "reason": "Wet orange clay is the best material on the island, and I intend to have some before anyone asks.",
+        "minutes": 25
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "A piece of clay in my paws is a piece of clay I keep.",
+        "minutes": 20
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "clay cup",
+        "reason": "I will make something out of the clay so the workbench has a reason to exist.",
+        "minutes": 45
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Making things is tiring, and a warm patch of sun is owed to me.",
+        "minutes": 60
+      },
+      {
+        "verb": "explore",
+        "position": [
+          -2.5,
+          23.5
+        ],
+        "reason": "I will go and check that the lookout rock is still mine before the afternoon gets away from me.",
+        "minutes": 40
+      }
+    ],
+    "reason": "I will inspect the new things on the island, make something from clay, and finish by checking on the lookout rock, with a long nap in the sun in the middle."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-10-31T14:22:22.375Z",
+    "until": "2026-10-31T14:47:22.375Z"
   }
 }

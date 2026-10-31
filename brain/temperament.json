@@ -1,0 +1,44 @@
+{
+  "likes": [
+    {
+      "category": "weather",
+      "value": "snow"
+    },
+    {
+      "category": "sound",
+      "value": "silence"
+    },
+    {
+      "category": "material",
+      "value": "clay"
+    },
+    {
+      "category": "sound",
+      "value": "birdsong"
+    }
+  ],
+  "dislikes": [
+    {
+      "category": "food",
+      "value": "produce"
+    },
+    {
+      "category": "food",
+      "value": "dish"
+    },
+    {
+      "category": "sound",
+      "value": "thunder"
+    }
+  ],
+  "quirks": [
+    {
+      "id": "conspiracy-theorist",
+      "text": "Sees patterns in the island that nobody put there, and keeps notes on them."
+    },
+    {
+      "id": "hoarder",
+      "text": "Cannot leave a good thing behind, and has a pile for everything."
+    }
+  ]
+}
