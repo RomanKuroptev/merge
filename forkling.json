@@ -3,25 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 70.6,
-    "energy": 78.6,
-    "curiosity": 97.9,
-    "affection": 8.8
+    "hunger": 98.9,
+    "energy": 85.8,
+    "curiosity": 99.9,
+    "affection": 0
   },
   "position": [
-    7.5,
+    16.83,
     0,
-    16.5
+    22.09
   ],
   "mood": "smug",
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-10-31T13:02:13.999Z",
-    "seed": 704085128,
-    "reason": "There was a warm patch of sun and it was calling me."
+    "startedAt": "2026-10-31T13:23:24.639Z",
+    "seed": 1968763224,
+    "reason": "Exploring is tiring, and a warm patch of sun is owed to me.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-10-31T13:03:15.600Z",
+  "lastTickAt": "2026-10-31T13:23:24.639Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
