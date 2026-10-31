@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 92.1,
+    "hunger": 85.7,
     "energy": 100,
-    "curiosity": 93.1,
+    "curiosity": 86.7,
     "affection": 0
   },
   "position": [
@@ -17,12 +17,12 @@
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-10-31T13:32:56.599Z",
-    "seed": 1048005144,
+    "startedAt": "2026-10-31T14:02:05.099Z",
+    "seed": 1463188926,
     "reason": "Exploring is tiring, and a warm patch of sun is owed to me.",
     "goalRef": "today:2"
   },
-  "lastTickAt": "2026-10-31T13:33:22.623Z",
+  "lastTickAt": "2026-10-31T14:03:13.029Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
