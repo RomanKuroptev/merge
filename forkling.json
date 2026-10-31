@@ -3,31 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 92.1,
-    "energy": 86.5,
-    "curiosity": 100,
+    "hunger": 85.5,
+    "energy": 67.1,
+    "curiosity": 99.7,
     "affection": 0
   },
   "position": [
-    -21.5,
+    -6.5,
     0,
-    16.5
+    25.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.66,
-    "arousal": 0.92
+    "valence": -0.89,
+    "arousal": 1
   },
   "intention": {
     "type": "zoomies",
-    "startedAt": "2026-10-31T18:33:10.999Z",
-    "seed": 406390429,
-    "reason": "The evening hit me like a wave. I must run."
+    "startedAt": "2026-10-31T19:03:17.097Z",
+    "seed": 1968906721,
+    "reason": "Affection is empty, but I will not go looking for it; the zoomies are already calling me down the beach, and I will ignore whatever comes of it.",
+    "goalRef": "today:0"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T18:33:16.459Z",
+  "lastTickAt": "2026-10-31T19:03:17.097Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
