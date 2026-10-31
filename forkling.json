@@ -3,28 +3,27 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 82.1,
+    "hunger": 99.5,
     "energy": 0,
-    "curiosity": 99.3,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -15.5,
+    -9.5,
     0,
-    17.5
+    10.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.57,
-    "arousal": 0.99
+    "valence": -0.83,
+    "arousal": 1
   },
   "intention": {
-    "type": "observe",
-    "targetId": "telescope",
-    "startedAt": "2026-10-31T19:43:13.822Z",
-    "seed": 1968922181,
-    "reason": "Dusk is still on, so I will carry the lamp over and keep an eye on the sky through the telescope.",
-    "goalRef": "today:1"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-10-31T20:03:02.499Z",
+    "seed": 1916061667,
+    "reason": "Everything looks better from up high."
   },
   "holding": {
     "objectId": "reading-lamp"
@@ -32,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T19:43:13.822Z",
+  "lastTickAt": "2026-10-31T20:03:17.510Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
