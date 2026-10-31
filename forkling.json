@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 66.2,
+    "hunger": 82.1,
     "energy": 0,
-    "curiosity": 99.2,
+    "curiosity": 99.3,
     "affection": 0
   },
   "position": [
@@ -15,21 +15,24 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.64,
-    "arousal": 0.98
+    "valence": -0.57,
+    "arousal": 0.99
   },
   "intention": {
-    "type": "pick_up",
-    "targetId": "reading-lamp",
-    "startedAt": "2026-10-31T19:33:12.299Z",
-    "seed": 698541529,
-    "reason": "The lamp is new and close, and anything new on this island is mine once I have sat on it.",
-    "goalRef": "today:0"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-10-31T19:43:13.822Z",
+    "seed": 1968922181,
+    "reason": "Dusk is still on, so I will carry the lamp over and keep an eye on the sky through the telescope.",
+    "goalRef": "today:1"
+  },
+  "holding": {
+    "objectId": "reading-lamp"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T19:33:13.409Z",
+  "lastTickAt": "2026-10-31T19:43:13.822Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
