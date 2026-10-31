@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 78,
-    "energy": 82.3,
-    "curiosity": 99.8,
+    "hunger": 89.5,
+    "energy": 78,
+    "curiosity": 99.5,
     "affection": 0
   },
   "position": [
@@ -15,18 +15,19 @@
   ],
   "mood": "curious",
   "feelings": {
-    "valence": 0.14,
-    "arousal": 0.71
+    "valence": 0.13,
+    "arousal": 0.65
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-10-31T14:35:40.540Z",
-    "seed": 1968760360,
-    "reason": "The workbench has a flat top and I am already sitting beside it. Clay is my favourite material and the clay bank is close, so I can dig some and make something neat. I should also check the strange n…",
-    "goalRef": "today:0"
+    "type": "inspect",
+    "targetId": "workbench",
+    "startedAt": "2026-10-31T15:03:14.850Z",
+    "seed": 1968904614,
+    "reason": "Its flat top has been claimed by nobody, which is a problem I intend to solve.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T14:35:40.540Z",
+  "lastTickAt": "2026-10-31T15:03:14.850Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
