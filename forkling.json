@@ -3,32 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 85.5,
-    "energy": 67.1,
+    "hunger": 83.9,
+    "energy": 0,
     "curiosity": 99.7,
     "affection": 0
   },
   "position": [
-    -6.5,
+    -9.5,
     0,
-    25.5
+    9.98
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.89,
-    "arousal": 1
+    "valence": -0.82,
+    "arousal": 0.92
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-10-31T19:03:17.097Z",
-    "seed": 1968906721,
-    "reason": "Affection is empty, but I will not go looking for it; the zoomies are already calling me down the beach, and I will ignore whatever comes of it.",
-    "goalRef": "today:0"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-10-31T19:23:13.253Z",
+    "seed": 1968921269,
+    "reason": "Dusk is the only time the telescope is worth looking through, and I intend to keep an eye on it.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T19:03:17.097Z",
+  "lastTickAt": "2026-10-31T19:23:13.253Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
