@@ -12,6 +12,7 @@
     0,
     0
   ],
+  "scale": 1,
   "model": {
     "parts": [
       {
@@ -47,8 +48,14 @@
   "properties": {
     "size": 1.4,
     "weightKg": 900,
+    "carryable": false,
     "diggable": true,
-    "material": "clay"
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
   },
   "unlocks": [],
   "yields": {
@@ -56,5 +63,10 @@
     "max": 6,
     "respawnHours": 36
   },
+  "state": {
+    "stock": 5,
+    "stockAt": "2026-10-31T16:43:17.114Z"
+  },
+  "affordances": [],
   "reason": "Wet, orange and good for making things."
 }
