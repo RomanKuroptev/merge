@@ -1,1 +1,57 @@
-{}
+{
+  "long": {
+    "text": "Learn to shape clay into something worth keeping, and build a small collection of my own finds in the house.",
+    "reason": "Clay is good and so are things I have claimed, and I mean to have both in one place.",
+    "setAt": "2026-10-31T14:35:40.540Z",
+    "reviewedAt": "2026-10-31T14:35:40.540Z"
+  },
+  "today": {
+    "date": "2026-10-31",
+    "steps": [
+      {
+        "verb": "sit",
+        "reason": "I am already beside the workbench, so I may as well stay here and look like I planned it.",
+        "minutes": 20
+      },
+      {
+        "verb": "inspect",
+        "targetId": "workbench",
+        "reason": "Its flat top has been claimed by nobody, which is a problem I intend to solve.",
+        "minutes": 25
+      },
+      {
+        "verb": "explore",
+        "position": [
+          14,
+          20
+        ],
+        "reason": "The clay bank is near enough that I should go and see what it is doing.",
+        "minutes": 30
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "A piece of clay is a thing worth keeping, and I keep things.",
+        "minutes": 20
+      },
+      {
+        "verb": "put_on",
+        "targetId": "house",
+        "reason": "Storage at home is where good things belong, and I am not giving this one back.",
+        "minutes": 15
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "A warm patch of sun is owed to me after all that wandering.",
+        "minutes": 60
+      }
+    ],
+    "reason": "I will claim the workbench, collect some clay, and then nap somewhere warm before the evening comes."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-10-31T14:35:40.540Z",
+    "until": "2026-10-31T14:55:40.540Z"
+  }
+}
