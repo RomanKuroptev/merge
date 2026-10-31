@@ -1,0 +1,91 @@
+{
+  "id": "reading-lamp",
+  "kind": "lamp",
+  "name": "A reading lamp",
+  "position": [
+    -15.9,
+    0,
+    18
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.12,
+          0.04,
+          0.12
+        ],
+        "at": [
+          0,
+          0.02,
+          0
+        ],
+        "color": "#5a4a3a"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.03,
+          0.5,
+          0.03
+        ],
+        "at": [
+          0,
+          0.29,
+          0
+        ],
+        "color": "#7a6a5a"
+      },
+      {
+        "shape": "cone",
+        "size": [
+          0.22,
+          0.16,
+          0.22
+        ],
+        "at": [
+          0,
+          0.56,
+          0
+        ],
+        "color": "#e8d9a0"
+      },
+      {
+        "shape": "sphere",
+        "size": [
+          0.09,
+          0.09,
+          0.09
+        ],
+        "at": [
+          0,
+          0.5,
+          0
+        ],
+        "color": "#fff3b0"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.64,
+    "weightKg": 1.2,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "affordances": [],
+  "reason": "I want a light for the desk so I can read after dusk, and I am not going to pretend I need it less than I do."
+}
