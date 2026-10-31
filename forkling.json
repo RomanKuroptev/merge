@@ -3,26 +3,27 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 79.2,
+    "hunger": 77.7,
     "energy": 0,
-    "curiosity": 98.9,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
     -14.5,
     0,
-    12.5
+    18.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.8,
-    "arousal": 0.96
+    "valence": -0.75,
+    "arousal": 0.9
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-10-31T20:13:14.909Z",
-    "seed": 77362614,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-10-31T20:30:27.999Z",
+    "seed": 1805299332,
+    "reason": "Everything looks better from up high."
   },
   "holding": {
     "objectId": "reading-lamp"
@@ -30,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T20:13:25.226Z",
+  "lastTickAt": "2026-10-31T20:30:45.672Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
