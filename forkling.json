@@ -3,27 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 76.7,
-    "energy": 0,
-    "curiosity": 100,
+    "hunger": 70.2,
+    "energy": 57.6,
+    "curiosity": 93.9,
     "affection": 0
   },
   "position": [
-    -11.5,
+    -10.5,
     0,
-    11.5
+    9.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.85,
-    "arousal": 0.86
+    "valence": -0.76,
+    "arousal": 0.77
   },
   "intention": {
-    "type": "inspect",
-    "targetId": "for:inspect",
-    "startedAt": "2026-10-31T21:33:06.399Z",
-    "seed": 1760607974,
-    "reason": "That looks new. I will look at it properly."
+    "type": "sleep",
+    "startedAt": "2026-10-31T22:00:12.399Z",
+    "seed": 778547692,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "holding": {
     "objectId": "reading-lamp"
@@ -31,7 +30,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T21:33:14.499Z",
-  "asleep": false,
+  "lastTickAt": "2026-10-31T22:03:16.124Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }
