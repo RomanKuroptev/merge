@@ -3,33 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 72.6,
+    "hunger": 66.2,
     "energy": 0,
-    "curiosity": 100,
+    "curiosity": 99.2,
     "affection": 0
   },
   "position": [
-    -14.5,
+    -15.5,
     0,
-    18.5
+    17.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.65,
-    "arousal": 1
+    "valence": -0.64,
+    "arousal": 0.98
   },
   "intention": {
     "type": "pick_up",
     "targetId": "reading-lamp",
-    "startedAt": "2026-10-31T19:28:51.994Z",
-    "seed": 1968921575,
-    "reason": "A new object has appeared at the desk, so I will claim it before anyone else can, then go back to watching the sky while I hold it.",
+    "startedAt": "2026-10-31T19:33:12.299Z",
+    "seed": 698541529,
+    "reason": "The lamp is new and close, and anything new on this island is mine once I have sat on it.",
     "goalRef": "today:0"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T19:28:51.994Z",
+  "lastTickAt": "2026-10-31T19:33:13.409Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
