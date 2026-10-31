@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "b1",
+    "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+    "confidence": 0.6,
+    "evidence": [
+      "2026-10-31#21",
+      "2026-10-31#37"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "status": "active",
+    "history": []
+  },
+  {
+    "id": "b2",
+    "statement": "The clay bank gives clay that can be cut and stored at the house.",
+    "confidence": 0.65,
+    "evidence": [
+      "2026-10-31#7",
+      "2026-10-31#11"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "status": "active",
+    "history": []
+  },
+  {
+    "id": "b3",
+    "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
+    "confidence": 0.6,
+    "evidence": [
+      "2026-10-31#41"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "status": "active",
+    "history": []
+  }
+]

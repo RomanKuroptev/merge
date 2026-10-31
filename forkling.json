@@ -3,26 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 83.2,
+    "hunger": 76.7,
     "energy": 0,
-    "curiosity": 99.3,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -13.7,
+    -11.5,
     0,
-    18.66
+    11.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.95,
-    "arousal": 0.96
+    "valence": -0.85,
+    "arousal": 0.86
   },
   "intention": {
     "type": "inspect",
     "targetId": "for:inspect",
-    "startedAt": "2026-10-31T21:03:10.999Z",
-    "seed": 78202923,
+    "startedAt": "2026-10-31T21:33:06.399Z",
+    "seed": 1760607974,
     "reason": "That looks new. I will look at it properly."
   },
   "holding": {
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-10-31T21:03:15.715Z",
+  "lastTickAt": "2026-10-31T21:33:14.499Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
