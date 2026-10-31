@@ -3,31 +3,31 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 89.4,
-    "energy": 89.8,
-    "curiosity": 98.9,
+    "hunger": 82.9,
+    "energy": 85.5,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    4.5,
+    -6.5,
     0,
-    14.7
+    12.5
   ],
   "mood": "curious",
   "feelings": {
-    "valence": 0.15,
-    "arousal": 0.75
+    "valence": 0.14,
+    "arousal": 0.72
   },
   "intention": {
     "type": "go_to",
     "targetId": "workbench",
-    "startedAt": "2026-10-31T14:22:22.375Z",
-    "seed": 1968759562,
-    "reason": "The workbench is new and nobody has claimed it yet, so I will go and sit beside it before anyone else does.",
+    "startedAt": "2026-10-31T14:33:11.199Z",
+    "seed": 2090138471,
+    "reason": "Something new with a flat top is worth sitting next to, and I will pretend I only came by accident.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-10-31T14:22:22.375Z",
+  "lastTickAt": "2026-10-31T14:33:14.531Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
