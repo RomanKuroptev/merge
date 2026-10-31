@@ -3,24 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 91.1,
-    "energy": 73.1,
-    "curiosity": 99.5,
-    "affection": 13.9
+    "hunger": 83.5,
+    "energy": 97,
+    "curiosity": 91.9,
+    "affection": 12
   },
   "position": [
-    -15.5,
+    -13.5,
     0,
-    21.5
+    22.5
   ],
-  "mood": "sleepy",
+  "mood": "smug",
   "intention": {
-    "type": "lounge",
-    "startedAt": "2026-10-31T11:15:59.439Z",
-    "seed": 1725813219,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "perch",
+    "targetId": "tall-rock",
+    "startedAt": "2026-10-31T11:19:49.060Z",
+    "seed": 1968755777,
+    "reason": "The lookout rock is mine by right of finding it, and I want to be sitting on top of it before anything else gets ideas.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-10-31T11:16:01.934Z",
+  "lastTickAt": "2026-10-31T11:19:49.060Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
