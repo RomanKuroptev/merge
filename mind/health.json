@@ -1,37 +1,40 @@
 {
-  "updatedAt": "2026-11-01T15:43:15.037Z",
+  "updatedAt": "2026-11-01T15:53:12.409Z",
   "engine": "v0.8.0",
   "date": "2026-11-01",
   "lastTick": {
-    "at": "2026-11-01T15:43:15.037Z",
+    "at": "2026-11-01T15:53:12.409Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/7: go_to, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-01:d3be0006",
-    "stepsLeft": 0,
+    "planId": "2026-11-01:0f9244ab",
+    "stepsLeft": 6,
     "current": {
-      "index": 5,
+      "index": 0,
       "verb": "go_to",
-      "targetId": "tall-rock",
-      "until": "2026-11-01T15:48:12.540Z",
+      "targetId": "bookshelf",
+      "until": "2026-11-01T16:03:12.409Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-01T14:23:16.044Z",
+    "lastReplanAt": "2026-11-01T15:53:12.409Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 9,
-    "decideCalls": 1,
+    "ticks": 10,
+    "decideCalls": 2,
     "callsByKind": {
-      "decide": 1
+      "decide": 2
     },
     "triggersByKind": {
-      "replan": 1,
-      "stepDone": 5
+      "replan": 2,
+      "stepDone": 6
     },
     "failures": 0,
     "rejections": 0,
@@ -41,7 +44,8 @@
       "put_on house": 1,
       "go_to workbench": 1,
       "shape workbench": 1,
-      "go_to tall-rock": 1
+      "go_to tall-rock": 1,
+      "go_to bookshelf": 1
     },
     "longestGapMinutes": 10
   },
@@ -74,10 +78,10 @@
   },
   "mood": {
     "label": "delighted",
-    "minutes": 50
+    "minutes": 60
   },
   "spend": {
-    "monthUsd": 0.01807388,
+    "monthUsd": 0.02018811,
     "capUsd": 10,
     "paceUsd": 0.3333333333333333
   },

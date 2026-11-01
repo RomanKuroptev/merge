@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 79.3,
-    "energy": 84.1,
-    "curiosity": 100
+    "hunger": 98.4,
+    "energy": 70.5,
+    "curiosity": 99.6
   },
   "position": [
-    -18.5,
+    -14.5,
     0,
-    10.5
+    12.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 1
+    "valence": 0.93,
+    "arousal": 0.92
   },
   "intention": {
     "type": "go_to",
-    "targetId": "tall-rock",
-    "startedAt": "2026-11-01T15:33:12.540Z",
-    "seed": 1968849196,
-    "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
-    "goalRef": "today:5"
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-01T15:53:12.409Z",
+    "seed": 1968863996,
+    "reason": "Reading, drawing and photographing fill the light hours, and the telescope is worth the wait for dusk.",
+    "goalRef": "today:0"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T15:33:12.540Z",
+  "lastTickAt": "2026-11-01T15:53:12.409Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
