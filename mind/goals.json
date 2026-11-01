@@ -9,15 +9,9 @@
     "date": "2026-11-01",
     "steps": [
       {
-        "verb": "put_on",
-        "targetId": "desk",
-        "reason": "The lamp belongs on the desk where I can see it, and a desk is where things get kept.",
-        "minutes": 3
-      },
-      {
         "verb": "go_to",
         "targetId": "clay-bank",
-        "reason": "There is clay at the bank and I have decided to make something of it.",
+        "reason": "There is more clay at the bank, and I want a second piece to keep beside the first.",
         "because": [
           "b2"
         ],
@@ -26,7 +20,7 @@
       {
         "verb": "cut",
         "targetId": "clay-bank",
-        "reason": "I will take a piece of clay with empty paws and bring it home to keep.",
+        "reason": "I will take one piece of clay with empty paws and carry it home.",
         "because": [
           "b2"
         ],
@@ -35,7 +29,7 @@
       {
         "verb": "go_to",
         "targetId": "workbench",
-        "reason": "The workbench is where things get shaped, and I want to try shaping the clay.",
+        "reason": "The workbench is where clay gets shaped, and I have decided to try again.",
         "minutes": 10
       },
       {
@@ -44,17 +38,28 @@
         "materials": [
           "clay"
         ],
-        "makes": "a small clay dish",
-        "reason": "I will shape the clay into something worth keeping, which is my long goal.",
+        "makes": "a clay bowl",
+        "reason": "I will shape the clay into something worth keeping, which is the point of my long goal.",
         "minutes": 20
+      },
+      {
+        "verb": "go_to",
+        "targetId": "tall-rock",
+        "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
+        "minutes": 10
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
         "reason": "My energy is running low and a patch of sun is the right place to recover it.",
-        "minutes": 60
+        "minutes": 45
       }
     ],
-    "reason": "I will tidy the lamp away, bring clay home and try shaping it, then sleep in the sun before the evening."
+    "reason": "The lamp is already on the desk and I have nothing in my paws, so the old first step would be turned down; I will go straight for the clay."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-01T11:03:13.719Z",
+    "until": "2026-11-01T11:13:13.719Z"
   }
 }
