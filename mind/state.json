@@ -28,7 +28,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
   "appliedStepAt": "2026-11-01T20:13:13.696Z",
-  "lastThinkAt": "2026-11-01T20:43:15.229Z",
+  "lastThinkAt": "2026-11-01T21:23:13.857Z",
+  "replanAfter": "2026-11-01T22:23:13.857Z",
   "recent": [
     {
       "verb": "cut",
@@ -161,7 +162,12 @@
       "reasons": [
         "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
+    },
+    {
+      "at": "2026-11-01T21:23:13.857Z",
+      "reasons": [
+        "step 1 (\"sleep\") cannot happen then: it needs night"
+      ]
     }
-  ],
-  "replanAfter": "2026-11-01T21:43:15.229Z"
+  ]
 }
