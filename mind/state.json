@@ -27,14 +27,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T18:43:14.776Z",
+  "appliedStepAt": "2026-11-01T19:33:15.211Z",
   "lastThinkAt": "2026-11-01T19:33:15.211Z",
   "recent": [
-    {
-      "verb": "nap",
-      "targetId": "sunbeam",
-      "at": "2026-11-01T12:23:18.381Z"
-    },
     {
       "verb": "go_to",
       "targetId": "clay-bank",
@@ -127,6 +122,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-01T19:33:15.211Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "bed",
+      "at": "2026-11-01T19:53:16.736Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
@@ -148,7 +148,26 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "energy",
+      "at": "2026-11-01T19:36:39.110Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "energy",
+      "at": "2026-11-01T19:40:09.610Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "energy",
+      "at": "2026-11-01T19:44:09.210Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",

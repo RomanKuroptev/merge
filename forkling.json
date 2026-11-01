@@ -3,31 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 46.3,
-    "energy": 67.3,
-    "curiosity": 99.9
+    "hunger": 38.3,
+    "energy": 86,
+    "curiosity": 100
   },
   "position": [
-    -4.01,
+    -6.82,
     0,
-    -2.46
+    -3.46
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 0.78
+    "valence": 0.93,
+    "arousal": 0.73
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-01T19:33:15.211Z",
-    "seed": 1968867695,
-    "reason": "The last of the dusk restlessness has to go somewhere, and near the telescope is as good as anywhere.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "bed",
+    "startedAt": "2026-11-01T19:53:16.736Z",
+    "seed": 1968865848,
+    "reason": "The bed is soft and it is mine, so I will go and claim it properly.",
+    "goalRef": "today:2"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T19:33:15.211Z",
+  "lastTickAt": "2026-11-01T19:53:16.736Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
