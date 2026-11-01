@@ -40,3 +40,7 @@
 {"id":"2026-11-01#40","at":"2026-11-01T13:23:14.143Z","kind":"step","text":"Started cut (The clay bank): I will take one piece with empty paws and carry it home to put away.","verb":"cut","objectId":"clay-bank","goalRef":"today:1","beliefRefs":["b2"]}
 {"id":"2026-11-01#41","at":"2026-11-01T13:33:17.268Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
 {"id":"2026-11-01#42","at":"2026-11-01T13:33:17.268Z","kind":"step","text":"Started put_on (The house): Things I keep ought to be where I can see them, so the clay goes in the house.","verb":"put_on","objectId":"house","goalRef":"today:2"}
+{"id":"2026-11-01#43","at":"2026-11-01T13:43:13.621Z","kind":"step","text":"put_on: put away clay from The house","verb":"put_on","objectId":"house"}
+{"id":"2026-11-01#44","at":"2026-11-01T13:43:13.621Z","kind":"trigger","text":"affection is at 0 of 100"}
+{"id":"2026-11-01#45","at":"2026-11-01T13:43:13.621Z","kind":"thought","text":"I have put the clay where I can see it, so I will carry on to the lookout rock and claim the high place before anyone else does."}
+{"id":"2026-11-01#46","at":"2026-11-01T13:43:13.621Z","kind":"step","text":"Started go_to (The lookout rock): From the lookout rock I can see the whole beach, and I prefer high places.","verb":"go_to","objectId":"tall-rock","goalRef":"today:3"}
