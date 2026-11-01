@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 82.4,
-    "energy": 57.2,
+    "hunger": 78.4,
+    "energy": 99.9,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -7.48,
     0,
-    14.5
+    15.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.79,
-    "arousal": 0.8
+    "valence": 0.86,
+    "arousal": 0.82
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-01T16:32:56.299Z",
-    "seed": 1984814819,
-    "reason": "I want to know whether seeds that grow in unknown places are anything like the seeds on this island.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "desk",
+    "startedAt": "2026-11-01T16:43:16.134Z",
+    "seed": 1968862896,
+    "reason": "A flat place for ideas that need one, and I have claimed it already.",
+    "goalRef": "today:2"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T16:33:13.228Z",
+  "lastTickAt": "2026-11-01T16:43:16.134Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
