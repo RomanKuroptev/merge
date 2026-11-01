@@ -3,33 +3,31 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 95.7,
-    "energy": 86.8,
-    "curiosity": 99.4,
+    "hunger": 89.1,
+    "energy": 82.4,
+    "curiosity": 99.8,
     "affection": 0
   },
   "position": [
     -14.5,
     0,
-    9.5
+    12.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": 0.03,
-    "arousal": 1
+    "arousal": 0.92
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "tall-rock",
-    "startedAt": "2026-11-01T13:43:13.621Z",
-    "seed": 1968855909,
-    "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
-    "goalRef": "today:3"
+    "type": "sit",
+    "startedAt": "2026-11-01T14:03:11.399Z",
+    "seed": 2066237226,
+    "reason": "I am resting my eyes. And the rest of me."
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T13:43:13.621Z",
+  "lastTickAt": "2026-11-01T14:03:17.071Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
