@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 92.6,
-    "curiosity": 99.9
+    "energy": 100,
+    "curiosity": 99.4
   },
   "position": [
-    -2.62,
+    -13.06,
     0,
-    2.68
+    8.42
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.36,
-    "arousal": 0.73
+    "valence": 0.33,
+    "arousal": 0.68
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-01T21:33:03.999Z",
-    "seed": 245525732,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "pounce",
+    "startedAt": "2026-11-01T21:53:16.902Z",
+    "seed": 1095973221,
+    "reason": "Something moved. Probably. I pounced anyway."
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T21:33:16.804Z",
+  "lastTickAt": "2026-11-01T21:53:17.368Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

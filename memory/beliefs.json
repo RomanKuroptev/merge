@@ -2,35 +2,77 @@
   {
     "id": "b1",
     "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "evidence": [
       "2026-10-31#21",
-      "2026-10-31#37"
+      "2026-10-31#37",
+      "2026-11-01#73",
+      "2026-11-01#78"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 0.6,
+        "why": "Two dusk sessions at the telescope each left a labnote."
+      }
+    ],
+    "revisedAt": "2026-11-01T21:53:17.368Z"
   },
   {
     "id": "b2",
     "statement": "The clay bank gives clay that can be cut and stored at the house.",
-    "confidence": 0.65,
+    "confidence": 0.8,
     "evidence": [
       "2026-10-31#7",
-      "2026-10-31#11"
+      "2026-10-31#11",
+      "2026-11-01#41",
+      "2026-11-01#43",
+      "2026-11-01#53"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "The clay bank gives clay that can be cut and stored at the house.",
+        "confidence": 0.65,
+        "why": "I cut clay again and again and stored it at the house."
+      }
+    ],
+    "revisedAt": "2026-11-01T21:53:17.368Z"
   },
   {
     "id": "b3",
     "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
-    "confidence": 0.6,
+    "confidence": 0.4,
     "evidence": [
       "2026-10-31#41"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
+        "confidence": 0.6,
+        "why": "Sleep was refused at 22:23 even though it was past dusk, so the night rule is not as simple as I thought."
+      }
+    ],
+    "revisedAt": "2026-11-01T21:53:17.368Z"
+  },
+  {
+    "id": "b4",
+    "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+    "confidence": 0.7,
+    "evidence": [
+      "2026-11-01#14",
+      "2026-11-01#31",
+      "2026-11-01#56"
+    ],
+    "formedAt": "2026-11-01T21:53:17.368Z",
     "status": "active",
     "history": []
   }
