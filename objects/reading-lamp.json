@@ -3,9 +3,9 @@
   "kind": "lamp",
   "name": "A reading lamp",
   "position": [
-    -15.9,
+    -18,
     0,
-    18
+    12
   ],
   "rotation": [
     0,
@@ -85,9 +85,7 @@
     "storage": false
   },
   "unlocks": [],
-  "state": {
-    "held": true
-  },
+  "state": {},
   "affordances": [],
   "reason": "I want a light for the desk so I can read after dusk, and I am not going to pretend I need it less than I do."
 }

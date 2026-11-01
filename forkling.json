@@ -3,36 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 97.9,
-    "energy": 95.3,
-    "curiosity": 99.8,
+    "hunger": 77.8,
+    "energy": 95.2,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
     -11.5,
     0,
-    11.5
+    29.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.4,
-    "arousal": 0.52
+    "valence": -0.28,
+    "arousal": 0.56
   },
   "intention": {
-    "type": "put_on",
-    "targetId": "desk",
-    "startedAt": "2026-11-01T07:03:15.325Z",
-    "seed": 1968963239,
-    "reason": "My paws are full with the reading lamp, so I must put it down before cutting clay. I will start by putting the lamp on the desk, where it can be seen and is useful for reading later.",
-    "goalRef": "today:0"
-  },
-  "holding": {
-    "objectId": "reading-lamp"
+    "type": "go_to",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-01T07:13:17.282Z",
+    "seed": 1968962585,
+    "reason": "There is clay at the bank and I have decided to make something of it.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T07:03:15.325Z",
+  "lastTickAt": "2026-11-01T07:13:17.282Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
