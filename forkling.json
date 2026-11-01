@@ -3,33 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 46.1,
-    "energy": 100,
-    "curiosity": 66.8,
+    "hunger": 81.2,
+    "energy": 93.6,
+    "curiosity": 98.9,
     "affection": 0
   },
   "position": [
-    -4.5,
+    -10.5,
     0,
-    16.5
+    9.5
   ],
-  "mood": "upset",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.42,
-    "arousal": 0.92
+    "valence": -0.4,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-01T13:02:53.199Z",
-    "seed": 1118662094,
-    "reason": "My energy is running low and a patch of sun is the right place to recover it.",
-    "goalRef": "today:5"
+    "type": "go_to",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-01T13:13:13.292Z",
+    "seed": 1968840829,
+    "reason": "The nap is done and I have spent the morning on clay, so I will go back to the clay bank for more while the afternoon is still good.",
+    "goalRef": "today:0"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T13:03:17.108Z",
+  "lastTickAt": "2026-11-01T13:13:13.292Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

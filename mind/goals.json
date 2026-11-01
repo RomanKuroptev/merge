@@ -11,7 +11,7 @@
       {
         "verb": "go_to",
         "targetId": "clay-bank",
-        "reason": "There is more clay at the bank, and I want a second piece to keep beside the first.",
+        "reason": "I have a clay bowl and a dish already, and a second piece of clay is worth more than a nap I have just had.",
         "because": [
           "b2"
         ],
@@ -20,46 +20,30 @@
       {
         "verb": "cut",
         "targetId": "clay-bank",
-        "reason": "I will take one piece of clay with empty paws and carry it home.",
+        "reason": "I will take one piece with empty paws and carry it home to put away.",
         "because": [
           "b2"
         ],
         "minutes": 5
       },
       {
-        "verb": "go_to",
-        "targetId": "workbench",
-        "reason": "The workbench is where clay gets shaped, and I have decided to try again.",
-        "minutes": 10
-      },
-      {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "a clay bowl",
-        "reason": "I will shape the clay into something worth keeping, which is the point of my long goal.",
-        "minutes": 20
+        "verb": "put_on",
+        "targetId": "house",
+        "reason": "Things I keep ought to be where I can see them, so the clay goes in the house.",
+        "minutes": 5
       },
       {
         "verb": "go_to",
         "targetId": "tall-rock",
         "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
         "minutes": 10
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "My energy is running low and a patch of sun is the right place to recover it.",
-        "minutes": 45
       }
     ],
-    "reason": "The lamp is already on the desk and I have nothing in my paws, so the old first step would be turned down; I will go straight for the clay."
+    "reason": "The nap has already happened, so I am back to gathering clay for the collection."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-01T12:23:18.381Z",
-    "until": "2026-11-01T13:08:18.381Z"
+    "index": 0,
+    "startedAt": "2026-11-01T13:13:13.292Z",
+    "until": "2026-11-01T13:23:13.292Z"
   }
 }
