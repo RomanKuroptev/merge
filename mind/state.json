@@ -27,8 +27,8 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T19:53:16.736Z",
-  "lastThinkAt": "2026-11-01T19:33:15.211Z",
+  "appliedStepAt": "2026-11-01T20:13:13.696Z",
+  "lastThinkAt": "2026-11-01T20:43:15.229Z",
   "recent": [
     {
       "verb": "cut",
@@ -148,26 +148,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "energy",
-      "at": "2026-11-01T19:36:39.110Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "energy",
-      "at": "2026-11-01T19:40:09.610Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "energy",
-      "at": "2026-11-01T19:44:09.210Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",
@@ -181,5 +162,6 @@
         "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
     }
-  ]
+  ],
+  "replanAfter": "2026-11-01T21:43:15.229Z"
 }

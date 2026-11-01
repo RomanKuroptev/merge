@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 22.3,
+    "hunger": 18.3,
     "energy": 100,
-    "curiosity": 91.9
+    "curiosity": 87.9
   },
   "position": [
     -14.5,
@@ -14,21 +14,20 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.81,
-    "arousal": 0.65
+    "valence": 0.78,
+    "arousal": 0.63
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-01T20:32:05.199Z",
-    "seed": 1094508404,
-    "reason": "Energy has run low and the bed is the softest thing I own, so I will curl up in it.",
-    "goalRef": "today:3"
+    "startedAt": "2026-11-01T20:42:05.190Z",
+    "seed": 1702993532,
+    "reason": "Something soft was right there, and I was tired."
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T20:33:16.591Z",
+  "lastTickAt": "2026-11-01T20:43:15.229Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
