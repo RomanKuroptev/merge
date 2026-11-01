@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T22:23:16.825Z",
+  "updatedAt": "2026-11-01T23:03:13.377Z",
   "engine": "v0.8.0",
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-01T22:23:16.825Z",
+    "at": "2026-11-01T23:03:13.377Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,51 +18,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 51,
-    "decideCalls": 6,
+    "ticks": 1,
+    "decideCalls": 0,
     "callsByKind": {
-      "decide": 6,
-      "art": 3,
-      "bedtime": 1
+      "memory": 1
     },
-    "triggersByKind": {
-      "replan": 4,
-      "stepDone": 17,
-      "need": 2,
-      "bedtime": 1
-    },
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 1,
-    "stepsStarted": {
-      "go_to clay-bank": 1,
-      "cut clay-bank": 1,
-      "put_on house": 1,
-      "go_to workbench": 1,
-      "shape workbench": 1,
-      "go_to tall-rock": 1,
-      "go_to bookshelf": 1,
-      "read bookshelf": 1,
-      "go_to desk": 1,
-      "draw desk": 1,
-      "photograph telescope": 1,
-      "zoomies": 2,
-      "observe telescope": 2,
-      "go_to bed": 1,
-      "curl_up bed": 1
-    },
-    "longestGapMinutes": 10
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 3,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 1,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -81,12 +58,12 @@
   },
   "mood": {
     "label": "pleased",
-    "minutes": 60
+    "minutes": 100
   },
   "spend": {
-    "monthUsd": 0.05944309,
+    "monthUsd": 0.05994767,
     "capUsd": 10,
-    "paceUsd": 0.3333333333333333
+    "paceUsd": 0.6666666666666666
   },
   "openBuild": null,
   "warnings": []
