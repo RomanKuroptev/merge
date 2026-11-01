@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 70.3,
-    "energy": 78.2,
+    "hunger": 66.3,
+    "energy": 74.9,
     "curiosity": 100
   },
   "position": [
@@ -14,21 +14,21 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.85,
-    "arousal": 0.72
+    "valence": 1,
+    "arousal": 0.8
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-01T18:33:14.599Z",
-    "seed": 554257391,
-    "reason": "Watching the sky through the telescope at dusk is worth the effort, and I will keep what I see.",
-    "goalRef": "today:6"
+    "startedAt": "2026-11-01T18:43:14.776Z",
+    "seed": 1968870102,
+    "reason": "Dusk is nearly over and I have spent enough of the evening on the telescope to earn a warm bed, so I will watch the sky a little longer, run off the rest of my restlessness, and then sleep.",
+    "goalRef": "today:0"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T18:33:16.798Z",
+  "lastTickAt": "2026-11-01T18:43:14.776Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

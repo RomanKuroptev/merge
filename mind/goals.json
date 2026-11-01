@@ -9,37 +9,15 @@
     "date": "2026-11-01",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "Everything somebody else already worked out is on that shelf, and I have four sessions of it left.",
-        "minutes": 10
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "I want to know whether seeds that grow in unknown places are anything like the seeds on this island.",
-        "topic": "seeds that grow in unknown places",
-        "minutes": 30
-      },
-      {
-        "verb": "go_to",
-        "targetId": "desk",
-        "reason": "A flat place for ideas that need one, and I have claimed it already.",
-        "minutes": 10
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "moon drawing",
-        "reason": "The moon's colour has been bothering me, so I will put it down on paper before anyone asks.",
-        "topic": "the moon's colour",
-        "minutes": 25
-      },
-      {
-        "verb": "photograph",
+        "verb": "observe",
         "targetId": "telescope",
-        "reason": "The telescope is the biggest thing here and I am keeping a picture of it for myself.",
-        "minutes": 20
+        "makes": "telescope notes",
+        "reason": "The moon is still worth watching at dusk, and I will keep what I see.",
+        "topic": "the colour of the moon at dusk",
+        "because": [
+          "b1"
+        ],
+        "minutes": 40
       },
       {
         "verb": "zoomies",
@@ -47,24 +25,27 @@
           -12,
           18
         ],
-        "reason": "Dusk is when restlessness gets run off, and the telescope is already waiting for me.",
+        "reason": "The last of the dusk restlessness has to go somewhere, and near the telescope is as good as anywhere.",
         "minutes": 15
       },
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "telescope notes",
-        "reason": "Watching the sky through the telescope at dusk is worth the effort, and I will keep what I see.",
-        "topic": "the colour of the moon at dusk",
+        "verb": "go_to",
+        "targetId": "bed",
+        "reason": "The bed is soft and it is mine, so I will go and claim it properly.",
+        "minutes": 10
+      },
+      {
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "Energy has run low and the bed is the softest thing I own, so I will curl up in it.",
         "minutes": 30
       }
     ],
-    "reason": "The light hours are for reading and drawing, and the telescope at dusk is the reward for them."
+    "reason": "Dusk has a little time left, so I will spend it on the telescope and the zoomies, then curl up in the bed before the night properly begins."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-01T18:13:14.064Z",
-    "until": "2026-11-01T18:43:14.064Z",
-    "workedSec": 1202.6
+    "index": 0,
+    "startedAt": "2026-11-01T18:43:14.776Z",
+    "until": "2026-11-01T19:23:14.776Z"
   }
 }
