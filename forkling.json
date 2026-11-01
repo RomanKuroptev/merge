@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 2.3,
-    "energy": 79,
+    "hunger": 0,
+    "energy": 92.6,
     "curiosity": 99.9
   },
   "position": [
-    -7.5,
+    -2.62,
     0,
-    13.5
+    2.68
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.37,
-    "arousal": 0.76
+    "valence": 0.36,
+    "arousal": 0.73
   },
   "intention": {
-    "type": "stretch",
-    "startedAt": "2026-11-01T21:23:11.098Z",
-    "seed": 1140249080,
-    "reason": "Everything needed lengthening."
+    "type": "sit",
+    "startedAt": "2026-11-01T21:33:03.999Z",
+    "seed": 245525732,
+    "reason": "I am resting my eyes. And the rest of me."
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T21:23:13.857Z",
+  "lastTickAt": "2026-11-01T21:33:16.804Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
