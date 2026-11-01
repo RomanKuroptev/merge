@@ -26,14 +26,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T14:33:16.331Z",
+  "appliedStepAt": "2026-11-01T14:43:16.509Z",
   "lastThinkAt": "2026-11-01T14:23:16.044Z",
   "recent": [
-    {
-      "verb": "observe",
-      "targetId": "telescope",
-      "at": "2026-10-31T19:43:13.822Z"
-    },
     {
       "verb": "put_on",
       "targetId": "desk",
@@ -128,6 +123,11 @@
       "verb": "put_on",
       "targetId": "house",
       "at": "2026-11-01T14:43:16.509Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "workbench",
+      "at": "2026-11-01T14:53:13.137Z"
     }
   ],
   "lastReflectDate": "2026-10-31",

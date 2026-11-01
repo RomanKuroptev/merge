@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-01T14:43:16.509Z",
+  "updatedAt": "2026-11-01T14:53:13.137Z",
   "engine": "v0.8.0",
   "date": "2026-11-01",
   "lastTick": {
-    "at": "2026-11-01T14:43:16.509Z",
+    "at": "2026-11-01T14:53:13.137Z",
     "asleep": false,
-    "summary": "cut: gathered, step 3/6: put_on",
+    "summary": "put_on: put away, step 4/6: go_to",
     "think": null,
     "triggers": [
       "stepDone"
@@ -14,33 +14,34 @@
   },
   "plan": {
     "planId": "2026-11-01:d3be0006",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 2,
-      "verb": "put_on",
-      "targetId": "house",
-      "until": "2026-11-01T14:48:16.509Z",
+      "index": 3,
+      "verb": "go_to",
+      "targetId": "workbench",
+      "until": "2026-11-01T15:03:13.137Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-01T14:23:16.044Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 3,
+    "ticks": 4,
     "decideCalls": 1,
     "callsByKind": {
       "decide": 1
     },
     "triggersByKind": {
       "replan": 1,
-      "stepDone": 2
+      "stepDone": 3
     },
     "failures": 0,
     "rejections": 0,
     "stepsStarted": {
       "go_to clay-bank": 1,
       "cut clay-bank": 1,
-      "put_on house": 1
+      "put_on house": 1,
+      "go_to workbench": 1
     },
     "longestGapMinutes": 10
   },
@@ -72,7 +73,7 @@
     "curiosity": 0
   },
   "mood": {
-    "label": "pleased",
+    "label": "delighted",
     "minutes": 0
   },
   "spend": {

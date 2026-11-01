@@ -50,3 +50,5 @@
 {"id":"2026-11-01#50","at":"2026-11-01T14:33:16.331Z","kind":"step","text":"Started cut (The clay bank): With empty paws I can take one more piece of clay and put it with the rest.","verb":"cut","objectId":"clay-bank","goalRef":"today:1","beliefRefs":["b2"]}
 {"id":"2026-11-01#51","at":"2026-11-01T14:43:16.509Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
 {"id":"2026-11-01#52","at":"2026-11-01T14:43:16.509Z","kind":"step","text":"Started put_on (The house): Things I keep ought to be where I can see them, so the clay goes in the house.","verb":"put_on","objectId":"house","goalRef":"today:2"}
+{"id":"2026-11-01#53","at":"2026-11-01T14:53:13.137Z","kind":"step","text":"put_on: put away clay from The house","verb":"put_on","objectId":"house"}
+{"id":"2026-11-01#54","at":"2026-11-01T14:53:13.137Z","kind":"step","text":"Started go_to (The workbench): I have a clay bowl and a dish already, and the workbench is where I can make something from the clay.","verb":"go_to","objectId":"workbench","goalRef":"today:3"}
