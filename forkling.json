@@ -3,36 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 91.4,
-    "energy": 79.1,
-    "curiosity": 93.6,
+    "hunger": 99.3,
+    "energy": 81.6,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -6.5,
+    -11.5,
     0,
-    12.5
+    11.5
   ],
-  "mood": "upset",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.5,
-    "arousal": 0.89
+    "valence": -0.18,
+    "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-01T12:03:12.699Z",
-    "seed": 236561783,
-    "reason": "I will shape the clay into something worth keeping, which is the point of my long goal.",
-    "goalRef": "today:3"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "go_to",
+    "targetId": "tall-rock",
+    "startedAt": "2026-11-01T12:13:14.765Z",
+    "seed": 1968846414,
+    "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
+    "goalRef": "today:4"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T12:03:13.374Z",
+  "lastTickAt": "2026-11-01T12:13:14.765Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

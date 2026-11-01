@@ -1,0 +1,105 @@
+{
+  "id": "a-clay-bowl",
+  "kind": "made",
+  "name": "a clay bowl",
+  "position": [
+    -5.62,
+    0,
+    16.27
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.056,
+          0.056,
+          0.056
+        ],
+        "at": [
+          -0.005,
+          0.028,
+          -0.011
+        ],
+        "rotation": [
+          0.284,
+          -1.264,
+          0.032
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.055,
+          0.055,
+          0.055
+        ],
+        "at": [
+          0.013,
+          0.084,
+          -0.016
+        ],
+        "rotation": [
+          0.274,
+          -2.652,
+          -0.159
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.058,
+          0.058,
+          0.058
+        ],
+        "at": [
+          -0.021,
+          0.14,
+          -0.001
+        ],
+        "rotation": [
+          -0.185,
+          0.516,
+          0.142
+        ],
+        "color": "#c2703d"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.169,
+    "weightKg": 4,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "made": {
+    "verb": "shape",
+    "materials": [
+      "clay"
+    ],
+    "skill": 1,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-01T12:13:14.765Z",
+    "seed": 1968846414
+  },
+  "affordances": [],
+  "reason": "I will shape the clay into something worth keeping, which is the point of my long goal."
+}
