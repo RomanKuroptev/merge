@@ -3,26 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 97.1,
-    "energy": 81.5,
-    "curiosity": 99.4,
+    "hunger": 90.6,
+    "energy": 77.2,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -13.5,
+    -6.5,
     0,
-    13.5
+    12.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.27,
+    "valence": -0.56,
     "arousal": 1
   },
   "intention": {
     "type": "go_to",
     "targetId": "workbench",
-    "startedAt": "2026-11-01T11:23:16.937Z",
-    "seed": 1968847792,
+    "startedAt": "2026-11-01T11:33:08.399Z",
+    "seed": 1499182681,
     "reason": "The workbench is where clay gets shaped, and I have decided to try again.",
     "goalRef": "today:2"
   },
@@ -32,7 +32,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T11:23:16.937Z",
+  "lastTickAt": "2026-11-01T11:33:13.804Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
