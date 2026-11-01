@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-01T21:53:17.368Z",
+  "updatedAt": "2026-11-01T22:03:14.788Z",
   "engine": "v0.8.0",
   "date": "2026-11-01",
   "lastTick": {
-    "at": "2026-11-01T21:53:17.368Z",
+    "at": "2026-11-01T22:03:14.788Z",
     "asleep": false,
-    "summary": "wrote the journal, 4 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "need",
-      "bedtime"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -18,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-01T18:43:14.776Z",
-    "idleMinutes": 80
+    "idleMinutes": 90
   },
   "today": {
-    "ticks": 48,
+    "ticks": 49,
     "decideCalls": 6,
     "callsByKind": {
       "decide": 6,
@@ -78,13 +75,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 66,
+    "hunger": 76,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "pleased",
-    "minutes": 30
+    "minutes": 40
   },
   "spend": {
     "monthUsd": 0.05944309,
@@ -93,7 +90,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 66 minutes while awake",
-    "no step in progress for 80 minutes while awake"
+    "hunger has been under 15 for 76 minutes while awake",
+    "no step in progress for 90 minutes while awake"
   ]
 }
