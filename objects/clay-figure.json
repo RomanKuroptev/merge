@@ -1,0 +1,105 @@
+{
+  "id": "clay-figure",
+  "kind": "made",
+  "name": "clay figure",
+  "position": [
+    -4.39,
+    0,
+    12.36
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.075,
+          0.075,
+          0.075
+        ],
+        "at": [
+          -0.001,
+          0.038,
+          -0.028
+        ],
+        "rotation": [
+          0.065,
+          0.756,
+          0.132
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.077,
+          0.077,
+          0.077
+        ],
+        "at": [
+          0.008,
+          0.114,
+          -0.022
+        ],
+        "rotation": [
+          0.097,
+          -0.638,
+          0.076
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.045,
+          0.045,
+          0.045
+        ],
+        "at": [
+          -0.001,
+          0.175,
+          -0.013
+        ],
+        "rotation": [
+          0.264,
+          -1.7,
+          -0.217
+        ],
+        "color": "#c2703d"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.198,
+    "weightKg": 4,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "made": {
+    "verb": "shape",
+    "materials": [
+      "clay"
+    ],
+    "skill": 2,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-01T15:33:12.540Z",
+    "seed": 1968849196
+  },
+  "affordances": [],
+  "reason": "I will try shaping the clay into something worth keeping, though I am not yet good at it."
+}

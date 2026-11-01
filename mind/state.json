@@ -22,18 +22,14 @@
     "workbench",
     "reading-lamp",
     "a-small-clay-dish",
-    "a-clay-bowl"
+    "a-clay-bowl",
+    "clay-figure"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T14:53:13.137Z",
+  "appliedStepAt": "2026-11-01T15:03:16.769Z",
   "lastThinkAt": "2026-11-01T14:23:16.044Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "clay-bank",
-      "at": "2026-11-01T07:13:17.282Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -128,6 +124,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-01T15:03:16.769Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "tall-rock",
+      "at": "2026-11-01T15:33:12.540Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
