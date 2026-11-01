@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 78.4,
-    "energy": 99.9,
+    "hunger": 74.4,
+    "energy": 96.6,
     "curiosity": 100
   },
   "position": [
-    -7.48,
+    -18.5,
     0,
-    15.5
+    10.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.86,
-    "arousal": 0.82
+    "valence": 0.83,
+    "arousal": 0.79
   },
   "intention": {
-    "type": "go_to",
+    "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-01T16:43:16.134Z",
-    "seed": 1968862896,
-    "reason": "A flat place for ideas that need one, and I have claimed it already.",
-    "goalRef": "today:2"
+    "startedAt": "2026-11-01T16:53:17.190Z",
+    "seed": 1968862441,
+    "reason": "The moon's colour has been bothering me, so I will put it down on paper before anyone asks.",
+    "goalRef": "today:3"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T16:43:16.134Z",
+  "lastTickAt": "2026-11-01T16:53:17.190Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
