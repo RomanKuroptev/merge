@@ -27,12 +27,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
   "appliedStepAt": "2026-11-01T13:43:13.621Z",
-  "lastThinkAt": "2026-11-01T14:03:17.071Z",
+  "lastThinkAt": "2026-11-01T14:23:16.044Z",
   "recent": [
-    {
-      "verb": "zoomies",
-      "at": "2026-10-31T19:03:17.097Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -127,6 +123,11 @@
       "verb": "go_to",
       "targetId": "tall-rock",
       "at": "2026-11-01T13:43:13.621Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "clay-bank",
+      "at": "2026-11-01T14:23:16.044Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
@@ -147,6 +148,8 @@
     "queue": []
   },
   "openBuild": null,
+  "openCode": null,
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",

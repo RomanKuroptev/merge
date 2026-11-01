@@ -11,7 +11,7 @@
       {
         "verb": "go_to",
         "targetId": "clay-bank",
-        "reason": "I have a clay bowl and a dish already, and a second piece of clay is worth more than a nap I have just had.",
+        "reason": "I claimed the clay bank already, and I want to see whether anything else has turned up there.",
         "because": [
           "b2"
         ],
@@ -20,7 +20,7 @@
       {
         "verb": "cut",
         "targetId": "clay-bank",
-        "reason": "I will take one piece with empty paws and carry it home to put away.",
+        "reason": "With empty paws I can take one more piece of clay and put it with the rest.",
         "because": [
           "b2"
         ],
@@ -34,11 +34,32 @@
       },
       {
         "verb": "go_to",
+        "targetId": "workbench",
+        "reason": "I have a clay bowl and a dish already, and the workbench is where I can make something from the clay.",
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "clay figure",
+        "reason": "I will try shaping the clay into something worth keeping, though I am not yet good at it.",
+        "minutes": 20
+      },
+      {
+        "verb": "go_to",
         "targetId": "tall-rock",
         "reason": "From the lookout rock I can see the whole beach, and I prefer high places.",
-        "minutes": 10
+        "minutes": 15
       }
     ],
-    "reason": "The nap has already happened, so I am back to gathering clay for the collection."
+    "reason": "My curiosity is full and the clay has a purpose, so I will gather it, put it away, and try shaping it at the workbench."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-01T14:23:16.044Z",
+    "until": "2026-11-01T14:33:16.044Z"
   }
 }
