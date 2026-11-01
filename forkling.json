@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 34.3,
-    "energy": 82.7,
-    "curiosity": 100
+    "hunger": 30.3,
+    "energy": 73.4,
+    "curiosity": 99.9
   },
   "position": [
-    -14.5,
+    4.14,
     0,
-    9.5
+    7.78
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.9,
-    "arousal": 0.71
+    "valence": 0.87,
+    "arousal": 0.69
   },
   "intention": {
-    "type": "go_to",
+    "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-01T20:03:13.299Z",
-    "seed": 660243911,
-    "reason": "The bed is soft and it is mine, so I will go and claim it properly.",
-    "goalRef": "today:2"
+    "startedAt": "2026-11-01T20:13:13.696Z",
+    "seed": 1968867277,
+    "reason": "Energy has run low and the bed is the softest thing I own, so I will curl up in it.",
+    "goalRef": "today:3"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T20:03:13.764Z",
+  "lastTickAt": "2026-11-01T20:13:13.696Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

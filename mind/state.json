@@ -27,14 +27,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T19:33:15.211Z",
+  "appliedStepAt": "2026-11-01T19:53:16.736Z",
   "lastThinkAt": "2026-11-01T19:33:15.211Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "clay-bank",
-      "at": "2026-11-01T13:13:13.292Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -127,6 +122,11 @@
       "verb": "go_to",
       "targetId": "bed",
       "at": "2026-11-01T19:53:16.736Z"
+    },
+    {
+      "verb": "curl_up",
+      "targetId": "bed",
+      "at": "2026-11-01T20:13:13.696Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
