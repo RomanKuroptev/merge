@@ -12,6 +12,7 @@
     0,
     0
   ],
+  "scale": 1,
   "model": {
     "parts": [
       {
@@ -47,9 +48,19 @@
   "properties": {
     "size": 0.35,
     "weightKg": 1,
+    "carryable": false,
+    "diggable": false,
+    "canHide": false,
     "edible": true,
+    "soft": false,
+    "high": false,
+    "storage": false,
     "portions": 3
   },
   "unlocks": [],
+  "state": {
+    "portionsLeft": 2
+  },
+  "affordances": [],
   "reason": "A little dinner is put here each morning, and it is gone when it is gone."
 }

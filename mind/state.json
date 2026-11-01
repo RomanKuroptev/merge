@@ -26,14 +26,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T14:23:16.044Z",
+  "appliedStepAt": "2026-11-01T14:33:16.331Z",
   "lastThinkAt": "2026-11-01T14:23:16.044Z",
   "recent": [
-    {
-      "verb": "pick_up",
-      "targetId": "reading-lamp",
-      "at": "2026-10-31T19:28:51.994Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -128,6 +123,11 @@
       "verb": "cut",
       "targetId": "clay-bank",
       "at": "2026-11-01T14:33:16.331Z"
+    },
+    {
+      "verb": "put_on",
+      "targetId": "house",
+      "at": "2026-11-01T14:43:16.509Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
