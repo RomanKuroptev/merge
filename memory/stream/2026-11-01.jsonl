@@ -61,3 +61,6 @@
 {"id":"2026-11-01#61","at":"2026-11-01T16:43:16.134Z","kind":"step","text":"read: read at The bookshelf","verb":"read","objectId":"bookshelf"}
 {"id":"2026-11-01#62","at":"2026-11-01T16:43:16.134Z","kind":"step","text":"Started go_to (The desk): A flat place for ideas that need one, and I have claimed it already.","verb":"go_to","objectId":"desk","goalRef":"today:2"}
 {"id":"2026-11-01#63","at":"2026-11-01T16:53:17.190Z","kind":"step","text":"Started draw (The desk): The moon's colour has been bothering me, so I will put it down on paper before anyone asks.","verb":"draw","objectId":"desk","goalRef":"today:3"}
+{"id":"2026-11-01#64","at":"2026-11-01T17:23:16.222Z","kind":"step","text":"draw: made something at The desk","verb":"draw","objectId":"desk"}
+{"id":"2026-11-01#65","at":"2026-11-01T17:23:16.222Z","kind":"step","text":"Started photograph (The telescope): The telescope is the biggest thing here and I am keeping a picture of it for myself.","verb":"photograph","objectId":"telescope","goalRef":"today:4"}
+{"id":"2026-11-01#66","at":"2026-11-01T17:23:16.222Z","kind":"made","text":"Made a drawing: \"The Moon, Probably Grey-Gold\"","verb":"draw","goalRef":"today:3"}

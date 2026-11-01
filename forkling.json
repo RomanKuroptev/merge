@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 70.4,
-    "energy": 93.3,
-    "curiosity": 100
+    "hunger": 98.3,
+    "energy": 100,
+    "curiosity": 99.6
   },
   "position": [
-    -18.5,
+    -13.5,
     0,
-    10.5
+    -4.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.8,
-    "arousal": 0.76
+    "valence": 1,
+    "arousal": 0.81
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-01T17:03:07.199Z",
-    "seed": 423110916,
-    "reason": "The moon's colour has been bothering me, so I will put it down on paper before anyone asks.",
-    "goalRef": "today:3"
+    "type": "photograph",
+    "targetId": "telescope",
+    "startedAt": "2026-11-01T17:23:16.222Z",
+    "seed": 1968860944,
+    "reason": "The telescope is the biggest thing here and I am keeping a picture of it for myself.",
+    "goalRef": "today:4"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T17:03:12.891Z",
+  "lastTickAt": "2026-11-01T17:23:16.222Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
