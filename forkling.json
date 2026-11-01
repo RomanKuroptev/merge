@@ -3,27 +3,26 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 37.2,
-    "energy": 99.9,
-    "curiosity": 60.9,
+    "hunger": 85.7,
+    "energy": 100,
+    "curiosity": 54.4,
     "affection": 0
   },
   "position": [
-    -10.39,
+    -11.5,
     0,
-    9.5
+    11.5
   ],
   "mood": "uneasy",
   "feelings": {
-    "valence": -0.24,
-    "arousal": 0.38
+    "valence": -0.19,
+    "arousal": 0.36
   },
   "intention": {
-    "type": "eat",
-    "targetId": "for:eat",
-    "startedAt": "2026-11-01T03:03:16.599Z",
-    "seed": 1579845568,
-    "reason": "My belly said it was time to eat."
+    "type": "sleep",
+    "startedAt": "2026-11-01T04:00:23.899Z",
+    "seed": 1075551893,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "holding": {
     "objectId": "reading-lamp"
@@ -31,7 +30,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T03:03:16.739Z",
+  "lastTickAt": "2026-11-01T04:03:13.775Z",
   "asleep": true,
   "timezone": "Europe/Stockholm"
 }
