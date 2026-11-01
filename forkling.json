@@ -3,33 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 81.2,
-    "energy": 93.6,
-    "curiosity": 98.9,
+    "hunger": 91.5,
+    "energy": 80.2,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -10.5,
+    13.5,
     0,
-    9.5
+    20.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.4,
-    "arousal": 0.89
+    "valence": -0.38,
+    "arousal": 0.86
   },
   "intention": {
-    "type": "go_to",
+    "type": "cut",
     "targetId": "clay-bank",
-    "startedAt": "2026-11-01T13:13:13.292Z",
-    "seed": 1968840829,
-    "reason": "The nap is done and I have spent the morning on clay, so I will go back to the clay bank for more while the afternoon is still good.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-01T13:23:14.143Z",
+    "seed": 1968842710,
+    "reason": "I will take one piece with empty paws and carry it home to put away.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T13:13:13.292Z",
+  "lastTickAt": "2026-11-01T13:23:14.143Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
