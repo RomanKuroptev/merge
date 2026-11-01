@@ -1,5 +1,32 @@
 {
-  "topics": {},
+  "topics": {
+    "unknown seeds that grow": {
+      "weight": 0.24,
+      "firstSeen": "2026-11-01T07:03:15.325Z",
+      "lastFed": "2026-11-01T07:03:15.325Z",
+      "sources": [
+        {
+          "id": "hn:50320963",
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "at": "2026-11-01T07:03:15.325Z"
+        }
+      ]
+    },
+    "the moon's colour": {
+      "weight": 0.16,
+      "firstSeen": "2026-11-01T07:03:15.325Z",
+      "lastFed": "2026-11-01T07:03:15.325Z",
+      "sources": [
+        {
+          "id": "sky:apod:2026-11-01",
+          "title": "NASA Science",
+          "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+          "at": "2026-11-01T07:03:15.325Z"
+        }
+      ]
+    }
+  },
   "current": null,
   "past": []
 }

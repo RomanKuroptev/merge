@@ -23,9 +23,9 @@
     "reading-lamp"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-10-31",
+  "lastPlanDate": "2026-11-01",
   "appliedStepAt": "2026-10-31T19:43:13.822Z",
-  "lastThinkAt": "2026-10-31T21:33:14.499Z",
+  "lastThinkAt": "2026-11-01T07:03:15.325Z",
   "recent": [
     {
       "verb": "perch",
@@ -111,15 +111,20 @@
       "verb": "observe",
       "targetId": "telescope",
       "at": "2026-10-31T19:43:13.822Z"
+    },
+    {
+      "verb": "put_on",
+      "targetId": "desk",
+      "at": "2026-11-01T07:03:15.325Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
   "lastMemoryDate": "2026-10-31",
   "memoryBatch": null,
   "readings": {
-    "date": "2026-10-31",
-    "count": 0,
-    "skimmed": false
+    "date": "2026-11-01",
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-01",

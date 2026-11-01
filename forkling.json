@@ -3,27 +3,28 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 72.6,
-    "energy": 99.6,
-    "curiosity": 48.8,
+    "hunger": 97.9,
+    "energy": 95.3,
+    "curiosity": 99.8,
     "affection": 0
   },
   "position": [
-    -13.5,
+    -11.5,
     0,
-    15.5
+    11.5
   ],
-  "mood": "calm",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.12,
-    "arousal": 0.33
+    "valence": -0.4,
+    "arousal": 0.52
   },
   "intention": {
-    "type": "play",
-    "targetId": "for:play",
-    "startedAt": "2026-11-01T06:03:02.599Z",
-    "seed": 271208583,
-    "reason": "I want to hear it, not think about it."
+    "type": "put_on",
+    "targetId": "desk",
+    "startedAt": "2026-11-01T07:03:15.325Z",
+    "seed": 1968963239,
+    "reason": "My paws are full with the reading lamp, so I must put it down before cutting clay. I will start by putting the lamp on the desk, where it can be seen and is useful for reading later.",
+    "goalRef": "today:0"
   },
   "holding": {
     "objectId": "reading-lamp"
@@ -31,7 +32,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T06:03:16.859Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-01T07:03:15.325Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

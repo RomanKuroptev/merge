@@ -6,23 +6,60 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "steps": [
       {
-        "verb": "pick_up",
-        "targetId": "reading-lamp",
-        "reason": "The lamp is new and close, and anything new on this island is mine once I have sat on it.",
+        "verb": "put_on",
+        "targetId": "desk",
+        "reason": "The lamp belongs on the desk where I can see it, and a desk is where things get kept.",
+        "minutes": 3
+      },
+      {
+        "verb": "go_to",
+        "targetId": "clay-bank",
+        "reason": "There is clay at the bank and I have decided to make something of it.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 10
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "I will take a piece of clay with empty paws and bring it home to keep.",
+        "because": [
+          "b2"
+        ],
         "minutes": 5
       },
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "a note on the sky",
-        "reason": "Dusk is still on, so I will carry the lamp over and keep an eye on the sky through the telescope.",
-        "topic": "the first stars over the island",
-        "minutes": 25
+        "verb": "go_to",
+        "targetId": "workbench",
+        "reason": "The workbench is where things get shaped, and I want to try shaping the clay.",
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay dish",
+        "reason": "I will shape the clay into something worth keeping, which is my long goal.",
+        "minutes": 20
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "My energy is running low and a patch of sun is the right place to recover it.",
+        "minutes": 60
       }
     ],
-    "reason": "The reading lamp is a new object within reach and I want it before the dusk is over; then the telescope, as before."
+    "reason": "I will tidy the lamp away, bring clay home and try shaping it, then sleep in the sun before the evening."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-01T07:03:15.325Z",
+    "until": "2026-11-01T07:06:15.325Z"
   }
 }
