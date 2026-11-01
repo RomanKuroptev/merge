@@ -3,31 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 51,
-    "energy": 99.8,
-    "curiosity": 69,
+    "hunger": 44.5,
+    "energy": 100,
+    "curiosity": 94.9,
     "affection": 0
   },
   "position": [
-    -17.69,
+    -7.5,
     0,
-    7.33
+    -1.5
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.16,
-    "arousal": 1
+    "valence": -0.15,
+    "arousal": 0.93
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-01T09:45:24.755Z",
-    "seed": 2000503031,
-    "reason": "I wanted to see what was over there."
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-01T10:01:58.899Z",
+    "seed": 1352058452,
+    "reason": "My energy is running low and a patch of sun is the right place to recover it.",
+    "goalRef": "today:5"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T09:45:30.989Z",
+  "lastTickAt": "2026-11-01T10:03:13.804Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
