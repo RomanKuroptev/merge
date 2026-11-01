@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 98.4,
-    "energy": 70.5,
-    "curiosity": 99.6
+    "hunger": 94.4,
+    "energy": 67.2,
+    "curiosity": 100
   },
   "position": [
-    -14.5,
+    -18.5,
     0,
-    12.5
+    14.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.93,
-    "arousal": 0.92
+    "valence": 0.89,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "go_to",
+    "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-01T15:53:12.409Z",
-    "seed": 1968863996,
-    "reason": "Reading, drawing and photographing fill the light hours, and the telescope is worth the wait for dusk.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-01T16:03:13.953Z",
+    "seed": 1968863317,
+    "reason": "I want to know whether seeds that grow in unknown places are anything like the seeds on this island.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T15:53:12.409Z",
+  "lastTickAt": "2026-11-01T16:03:13.953Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
