@@ -27,14 +27,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T17:23:16.222Z",
+  "appliedStepAt": "2026-11-01T17:53:20.085Z",
   "lastThinkAt": "2026-11-01T17:23:16.222Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "workbench",
-      "at": "2026-11-01T11:23:16.937Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -128,6 +123,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-01T17:53:20.085Z"
+    },
+    {
+      "verb": "observe",
+      "targetId": "telescope",
+      "at": "2026-11-01T18:13:14.064Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
@@ -161,6 +161,12 @@
       "verb": "nap",
       "need": "energy",
       "at": "2026-11-01T18:01:38.799Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "nap",
+      "need": "energy",
+      "at": "2026-11-01T18:05:55.072Z"
     }
   ],
   "rejections": [

@@ -3,31 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 82.3,
-    "energy": 55.2,
+    "hunger": 78.3,
+    "energy": 84.9,
     "curiosity": 100
   },
   "position": [
-    -12,
+    -18.5,
     0,
-    18
+    10.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.96,
-    "arousal": 0.8
+    "valence": 0.92,
+    "arousal": 0.77
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-01T18:03:11.799Z",
-    "seed": 1511885373,
-    "reason": "Dusk is when restlessness gets run off, and the telescope is already waiting for me.",
-    "goalRef": "today:5"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-11-01T18:13:14.064Z",
+    "seed": 1968872366,
+    "reason": "Watching the sky through the telescope at dusk is worth the effort, and I will keep what I see.",
+    "goalRef": "today:6"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-01T18:03:14.673Z",
+  "lastTickAt": "2026-11-01T18:13:14.064Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
