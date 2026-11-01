@@ -26,14 +26,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-01",
-  "appliedStepAt": "2026-11-01T14:43:16.509Z",
+  "appliedStepAt": "2026-11-01T14:53:13.137Z",
   "lastThinkAt": "2026-11-01T14:23:16.044Z",
   "recent": [
-    {
-      "verb": "put_on",
-      "targetId": "desk",
-      "at": "2026-11-01T07:03:15.325Z"
-    },
     {
       "verb": "go_to",
       "targetId": "clay-bank",
@@ -128,6 +123,11 @@
       "verb": "go_to",
       "targetId": "workbench",
       "at": "2026-11-01T14:53:13.137Z"
+    },
+    {
+      "verb": "shape",
+      "targetId": "workbench",
+      "at": "2026-11-01T15:03:16.769Z"
     }
   ],
   "lastReflectDate": "2026-10-31",
