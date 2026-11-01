@@ -3,36 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 81,
-    "energy": 81.3,
-    "curiosity": 99.8,
+    "hunger": 82,
+    "energy": 87,
+    "curiosity": 100,
     "affection": 0
   },
   "position": [
-    -6.5,
+    -11.5,
     0,
-    12.5
+    11.5
   ],
-  "mood": "frustrated",
+  "mood": "pleased",
   "feelings": {
-    "valence": -0.18,
-    "arousal": 0.81
+    "valence": 0.16,
+    "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-01T08:03:11.999Z",
-    "seed": 1961004194,
-    "reason": "I will shape the clay into something worth keeping, which is my long goal.",
-    "goalRef": "today:4"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-01T09:13:15.657Z",
+    "seed": 1968838719,
+    "reason": "My energy is running low and a patch of sun is the right place to recover it.",
+    "goalRef": "today:5"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-01T08:03:16.572Z",
+  "lastTickAt": "2026-11-01T09:13:15.657Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
