@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 43.3,
-    "energy": 68.7,
+    "hunger": 86.3,
+    "energy": 84.2,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -4.5,
     0,
-    14.5
+    0.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": 0.04,
-    "arousal": 0.31
+    "valence": 0.14,
+    "arousal": 0.36
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-02T07:33:17.199Z",
-    "seed": 1173978860,
-    "reason": "I want to know which seeds grow where nobody planted them, and I will not be told only the easy part.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "workbench",
+    "startedAt": "2026-11-02T08:03:21.213Z",
+    "seed": 1968527709,
+    "reason": "The clay I stored at home is best used where things are shaped, and the workbench is mine by sitting on it.",
+    "goalRef": "today:2"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-02T07:33:19.371Z",
+  "lastTickAt": "2026-11-02T08:03:21.213Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

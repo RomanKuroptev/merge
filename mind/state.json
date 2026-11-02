@@ -27,14 +27,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T07:03:15.458Z",
+  "appliedStepAt": "2026-11-02T07:13:17.559Z",
   "lastThinkAt": "2026-11-02T07:03:15.458Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "tall-rock",
-      "at": "2026-11-01T13:43:13.621Z"
-    },
     {
       "verb": "go_to",
       "targetId": "clay-bank",
@@ -127,6 +122,11 @@
       "verb": "study",
       "targetId": "bookshelf",
       "at": "2026-11-02T07:13:17.559Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "workbench",
+      "at": "2026-11-02T08:03:21.213Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
