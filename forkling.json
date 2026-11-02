@@ -3,31 +3,31 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 97.3,
-    "energy": 90.5,
-    "curiosity": 99.9
+    "hunger": 93.4,
+    "energy": 43.5,
+    "curiosity": 100
   },
   "position": [
-    4.72,
+    5.5,
     0,
-    18.5
+    10.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.58,
-    "arousal": 0.51
+    "valence": 0.56,
+    "arousal": 0.5
   },
   "intention": {
     "type": "explore",
-    "startedAt": "2026-11-02T09:53:28.658Z",
-    "seed": 1968523020,
+    "startedAt": "2026-11-02T10:02:43.799Z",
+    "seed": 1700202616,
     "reason": "The flower meadow has colour and I want to see whether anything there is growing that I have not yet claimed.",
     "goalRef": "today:5"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T09:53:28.658Z",
+  "lastTickAt": "2026-11-02T10:03:14.388Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
