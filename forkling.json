@@ -4,25 +4,26 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 80.9,
-    "curiosity": 91.9
+    "energy": 84.6,
+    "curiosity": 100
   },
   "position": [
-    -14.5,
+    -4.58,
     0,
-    18.5
+    16.75
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.51,
-    "arousal": 0.8
+    "valence": -0.49,
+    "arousal": 0.77
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-02T14:43:07.999Z",
-    "seed": 616165665,
-    "reason": "I will sit beside the telescope and wait for the light to change, and nobody needs to know why.",
-    "goalRef": "today:0"
+    "type": "read",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-02T14:53:17.900Z",
+    "seed": 1968552265,
+    "reason": "Those seeds from the Italian attic have been on my mind more than is reasonable, so I will read about them.",
+    "goalRef": "today:1"
   },
   "holding": {
     "material": "flowers"
@@ -30,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T14:43:22.293Z",
+  "lastTickAt": "2026-11-02T14:53:17.900Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
