@@ -3,32 +3,31 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 50.3,
-    "energy": 100,
-    "curiosity": 71.9
+    "hunger": 97.3,
+    "energy": 90.5,
+    "curiosity": 99.9
   },
   "position": [
-    -19.5,
+    4.72,
     0,
-    1.5
+    18.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.63,
-    "arousal": 0.54
+    "valence": 0.58,
+    "arousal": 0.51
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-02T09:33:26.199Z",
-    "seed": 132394989,
-    "reason": "Shaping is tiring and a patch of sun is the correct place to recover from it.",
-    "goalRef": "today:4"
+    "type": "explore",
+    "startedAt": "2026-11-02T09:53:28.658Z",
+    "seed": 1968523020,
+    "reason": "The flower meadow has colour and I want to see whether anything there is growing that I have not yet claimed.",
+    "goalRef": "today:5"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T09:33:34.884Z",
+  "lastTickAt": "2026-11-02T09:53:28.658Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
