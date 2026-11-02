@@ -3,25 +3,25 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 61.3,
-    "energy": 71.2,
-    "curiosity": 96
+    "hunger": 57.4,
+    "energy": 100,
+    "curiosity": 92.1
   },
   "position": [
-    5.5,
+    -14.5,
     0,
-    10.5
+    9.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.5,
-    "arousal": 0.47
+    "valence": 0.48,
+    "arousal": 0.46
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-02T11:23:28.265Z",
-    "seed": 1968531492,
+    "startedAt": "2026-11-02T11:32:27.299Z",
+    "seed": 1814826071,
     "reason": "Inspecting meadows is tiring, and the bed is the correct place to recover from it.",
     "goalRef": "today:3"
   },
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T11:23:28.265Z",
+  "lastTickAt": "2026-11-02T11:33:14.252Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
