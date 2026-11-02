@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02T18:43:16.361Z",
+  "updatedAt": "2026-11-02T18:53:16.261Z",
   "engine": "v0.8.0",
   "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-02T18:43:16.361Z",
+    "at": "2026-11-02T18:53:16.261Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -23,7 +23,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 79,
+    "ticks": 80,
     "decideCalls": 15,
     "callsByKind": {
       "memory": 1,
@@ -87,13 +87,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 329,
-    "energy": 0,
+    "hunger": 339,
+    "energy": 10,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 259
+    "minutes": 269
   },
   "spend": {
     "monthUsd": 0.085415,
@@ -102,7 +102,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 329 minutes while awake",
+    "hunger has been under 15 for 339 minutes while awake",
     "started \"go_to telescope\" 3 times today"
   ]
 }
