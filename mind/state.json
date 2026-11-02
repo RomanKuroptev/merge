@@ -28,8 +28,8 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T18:33:25.219Z",
-  "lastThinkAt": "2026-11-02T19:03:28.824Z",
+  "appliedStepAt": "2026-11-02T19:03:28.824Z",
+  "lastThinkAt": "2026-11-02T19:43:14.243Z",
   "recent": [
     {
       "verb": "inspect",
@@ -140,7 +140,7 @@
   },
   "arts": {
     "date": "2026-11-02",
-    "count": 1
+    "count": 2
   },
   "photos": {
     "date": "2026-11-02",
@@ -174,6 +174,13 @@
       "reasons": [
         "step 1: The bowl is empty"
       ]
+    },
+    {
+      "at": "2026-11-02T19:43:14.243Z",
+      "reasons": [
+        "the plan would make 3 things, but there is room for 2 more today"
+      ]
     }
-  ]
+  ],
+  "replanAfter": "2026-11-02T20:43:14.243Z"
 }

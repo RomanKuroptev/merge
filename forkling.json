@@ -4,26 +4,24 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 57.1,
-    "curiosity": 100
+    "energy": 94.1,
+    "curiosity": 99.6
   },
   "position": [
-    -14.5,
+    17.5,
     0,
-    18.5
+    14.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.89,
-    "arousal": 0.89
+    "valence": -0.86,
+    "arousal": 1
   },
   "intention": {
-    "type": "observe",
-    "targetId": "telescope",
-    "startedAt": "2026-11-02T19:33:06.799Z",
-    "seed": 1323485630,
-    "reason": "The moon is up now, and I want to put down what its colour looks like before anyone else does.",
-    "goalRef": "today:1"
+    "type": "curl_up",
+    "startedAt": "2026-11-02T19:42:11.909Z",
+    "seed": 1747303930,
+    "reason": "Something soft was right there, and I was tired."
   },
   "holding": {
     "material": "flowers"
@@ -31,7 +29,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T19:33:18.110Z",
+  "lastTickAt": "2026-11-02T19:43:14.243Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
