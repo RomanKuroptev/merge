@@ -9,26 +9,30 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "zoomies",
-        "position": [
-          -2.5,
-          20
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
         ],
-        "reason": "The dusk restlessness has to go somewhere, and the lookout rock is a good place to run toward.",
-        "minutes": 20
+        "makes": "a small clay bowl",
+        "reason": "I have one piece of clay put away at home, and the workbench is where it becomes something worth keeping.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 35
       },
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "labnotes on the moon's colour",
-        "reason": "The moon is up now, and I want to put down what its colour looks like before anyone else does.",
-        "topic": "the moon's colour through the telescope",
-        "because": [
-          "b1"
-        ],
-        "minutes": 30
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "Energy is running down and the bed is soft, so I will sit in it until bedtime, since sleep will not be allowed yet.",
+        "minutes": 25
       }
     ],
-    "reason": "Hunger cannot be fixed until the bowl is filled in the morning, so I will spend the dusk on zoomies and then on the telescope."
+    "reason": "Sleep is turned down before night, and the bowl cannot be filled, so I will make something at the workbench and rest on the bed."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-02T20:43:18.145Z",
+    "until": "2026-11-02T21:18:18.145Z"
   }
 }
