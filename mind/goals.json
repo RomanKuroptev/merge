@@ -10,52 +10,49 @@
     "steps": [
       {
         "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "I have decided to read about the moon's colour, and the bookshelf is where that is done.",
+        "targetId": "bowl",
+        "reason": "I am hungry and the bowl is where dinner is, though it is empty for now, so I will check it anyway.",
+        "minutes": 10
+      },
+      {
+        "verb": "go_to",
+        "targetId": "desk",
+        "reason": "The reading lamp is on the desk and it is mine, and I want to see it is still there.",
         "minutes": 10
       },
       {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "The moon's colour is a question I have not been told the answer to, and that is annoying in a useful way.",
-        "topic": "the moon's colour",
+        "reason": "I have not finished with the seeds, and the unknown ones still need an answer.",
+        "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "I will keep a picture of the telescope, since I claimed it first.",
-        "minutes": 10
-      },
-      {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "From up high I can see everything arriving on the island before anyone else does.",
-        "minutes": 20
-      },
-      {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The sky is getting dark enough to be worth looking at, and the telescope is mine.",
-        "minutes": 10
-      },
-      {
-        "verb": "observe",
-        "targetId": "telescope",
-        "reason": "I will look at the moon through the telescope and see whether its colour matches what I have read.",
-        "topic": "the moon's colour",
+        "verb": "write",
+        "targetId": "desk",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a note on the moon's colour",
+        "reason": "I have observed the moon and I will put the result down before anyone else can claim it.",
+        "topic": "the moon through the telescope",
         "because": [
           "b1"
         ],
         "minutes": 30
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "My energy is running low and a patch of sun is the proper remedy for it.",
+        "minutes": 40
       }
     ],
-    "reason": "Food is unavailable until morning, so I will fill the afternoon with reading and high watching, then use the telescope once dusk arrives."
+    "reason": "Hunger has run down and the bowl is empty until morning, so I will check on it, then go back to reading and writing up what I saw, and rest in the sun after."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-02T17:23:28.957Z",
-    "until": "2026-11-02T17:53:28.957Z",
-    "workedSec": 590.8
+    "index": 0,
+    "startedAt": "2026-11-02T18:03:17.591Z",
+    "until": "2026-11-02T18:13:17.591Z"
   }
 }

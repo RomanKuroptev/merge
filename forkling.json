@@ -4,26 +4,26 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 84,
+    "energy": 95.1,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -13.97,
     0,
-    18.5
+    17.47
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.95,
-    "arousal": 0.96
+    "valence": -0.85,
+    "arousal": 1
   },
   "intention": {
-    "type": "observe",
-    "targetId": "telescope",
-    "startedAt": "2026-11-02T17:33:18.999Z",
-    "seed": 1737901596,
-    "reason": "I will look at the moon through the telescope and see whether its colour matches what I have read.",
-    "goalRef": "today:5"
+    "type": "go_to",
+    "targetId": "bowl",
+    "startedAt": "2026-11-02T18:03:17.591Z",
+    "seed": 1968556785,
+    "reason": "The moon observation is done and hunger has run down, so I will eat first thing and then get back to my own work at the telescope and desk.",
+    "goalRef": "today:0"
   },
   "holding": {
     "material": "flowers"
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T17:33:19.874Z",
+  "lastTickAt": "2026-11-02T18:03:17.591Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

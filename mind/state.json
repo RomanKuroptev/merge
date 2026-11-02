@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T17:03:20.971Z",
-  "lastThinkAt": "2026-11-02T17:23:28.957Z",
+  "appliedStepAt": "2026-11-02T17:23:28.957Z",
+  "lastThinkAt": "2026-11-02T18:03:17.591Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "workbench",
-      "at": "2026-11-02T08:03:21.213Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -128,6 +123,11 @@
       "verb": "observe",
       "targetId": "telescope",
       "at": "2026-11-02T17:23:28.957Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "bowl",
+      "at": "2026-11-02T18:03:17.591Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
@@ -140,7 +140,7 @@
   },
   "arts": {
     "date": "2026-11-02",
-    "count": 0
+    "count": 1
   },
   "photos": {
     "date": "2026-11-02",
