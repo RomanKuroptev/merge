@@ -4,24 +4,24 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 70.8,
+    "energy": 67.4,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -9.5,
     0,
-    18.5
+    10.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.5,
+    "valence": -0.78,
     "arousal": 1
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-02T16:43:19.767Z",
-    "seed": 1968547635,
+    "startedAt": "2026-11-02T16:52:39.066Z",
+    "seed": 1159944854,
     "reason": "From up high I can see everything arriving on the island before anyone else does.",
     "goalRef": "today:3"
   },
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T16:43:19.767Z",
+  "lastTickAt": "2026-11-02T16:53:27.702Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
