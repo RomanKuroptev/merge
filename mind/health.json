@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T22:03:14.910Z",
+  "updatedAt": "2026-11-02T23:03:14.698Z",
   "engine": "v0.8.0",
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-02T22:03:14.910Z",
+    "at": "2026-11-02T23:03:14.698Z",
     "asleep": true,
-    "summary": "rewrote its memory",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,66 +18,32 @@
       "verb": "curl_up",
       "targetId": "bed",
       "until": "2026-11-02T21:48:15.037Z",
-      "overdueMinutes": 14
+      "overdueMinutes": 74
     },
     "lastReplanAt": "2026-11-02T20:43:18.145Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 99,
-    "decideCalls": 23,
-    "callsByKind": {
-      "memory": 2,
-      "read": 1,
-      "morning": 1,
-      "decide": 22,
-      "art": 2,
-      "bedtime": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 27,
-      "replan": 4,
-      "need": 15,
-      "bedtime": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 2,
-    "stepsStarted": {
-      "go_to bookshelf": 2,
-      "study bookshelf": 1,
-      "go_to workbench": 1,
-      "shape workbench": 2,
-      "nap sunbeam": 2,
-      "explore": 1,
-      "inspect meadow": 1,
-      "sniff meadow": 1,
-      "pick_up meadow": 1,
-      "curl_up bed": 2,
-      "go_to telescope": 3,
-      "sit": 1,
-      "read bookshelf": 2,
-      "go_to tall-rock": 1,
-      "photograph telescope": 1,
-      "watch perch": 1,
-      "observe telescope": 2,
-      "go_to bowl": 1,
-      "go_to desk": 1,
-      "zoomies": 1
-    },
-    "longestGapMinutes": 13
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 1,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -96,16 +62,13 @@
   },
   "mood": {
     "label": "frustrated",
-    "minutes": 40
+    "minutes": 100
   },
   "spend": {
     "monthUsd": 0.127027,
     "capUsd": 10,
-    "paceUsd": 0.6666666666666666
+    "paceUsd": 1
   },
   "openBuild": null,
-  "warnings": [
-    "started \"go_to telescope\" 3 times today",
-    "23 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
