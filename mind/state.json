@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T17:23:28.957Z",
+  "appliedStepAt": "2026-11-02T18:03:17.591Z",
   "lastThinkAt": "2026-11-02T18:03:17.591Z",
   "recent": [
-    {
-      "verb": "shape",
-      "targetId": "workbench",
-      "at": "2026-11-02T08:23:13.641Z"
-    },
     {
       "verb": "nap",
       "targetId": "sunbeam",
@@ -128,6 +123,11 @@
       "verb": "go_to",
       "targetId": "bowl",
       "at": "2026-11-02T18:03:17.591Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "desk",
+      "at": "2026-11-02T18:23:14.002Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
