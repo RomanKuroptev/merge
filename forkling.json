@@ -4,25 +4,24 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 94.2,
-    "curiosity": 100
+    "energy": 87.5,
+    "curiosity": 99.9
   },
   "position": [
     -14.5,
     0,
     18.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.27,
-    "arousal": 0.71
+    "valence": -0.55,
+    "arousal": 0.86
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "telescope",
-    "startedAt": "2026-11-02T14:03:17.199Z",
-    "seed": 1739765401,
-    "reason": "The telescope is mine to sit beside until dusk, and I am not explaining that to anyone.",
+    "type": "sit",
+    "startedAt": "2026-11-02T14:23:28.341Z",
+    "seed": 1968539252,
+    "reason": "Hunger is at zero and the bowl is empty until morning, so I will keep to the things I can do now and leave the food for later.",
     "goalRef": "today:0"
   },
   "holding": {
@@ -31,7 +30,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T14:03:17.824Z",
+  "lastTickAt": "2026-11-02T14:23:28.341Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

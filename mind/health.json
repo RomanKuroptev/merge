@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-02T14:13:23.678Z",
+  "updatedAt": "2026-11-02T14:23:28.341Z",
   "engine": "v0.8.0",
   "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-02T14:13:23.678Z",
+    "at": "2026-11-02T14:23:28.341Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, step 1/5: sit, new plan",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-02:ddfe9711",
+    "planId": "2026-11-02:8df8bed1",
     "stepsLeft": 4,
     "current": {
       "index": 0,
-      "verb": "go_to",
-      "targetId": "telescope",
-      "until": "2026-11-02T14:23:17.317Z",
+      "verb": "sit",
+      "until": "2026-11-02T14:43:28.341Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-02T13:53:17.317Z",
+    "lastReplanAt": "2026-11-02T14:23:28.341Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 52,
-    "decideCalls": 6,
+    "ticks": 53,
+    "decideCalls": 8,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "decide": 5
+      "decide": 7
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 1,
-      "need": 2
+      "need": 3
     },
     "failures": 0,
     "rejections": 1,
@@ -51,7 +53,8 @@
       "sniff meadow": 1,
       "pick_up meadow": 1,
       "curl_up bed": 1,
-      "go_to telescope": 2
+      "go_to telescope": 2,
+      "sit": 1
     },
     "longestGapMinutes": 10
   },
@@ -78,19 +81,21 @@
     }
   },
   "needsCritical": {
-    "hunger": 60,
+    "hunger": 70,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "frustrated",
-    "minutes": 20
+    "label": "upset",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.0708825,
+    "monthUsd": 0.07365756,
     "capUsd": 10,
     "paceUsd": 0.6666666666666666
   },
   "openBuild": null,
-  "warnings": []
+  "warnings": [
+    "hunger has been under 15 for 70 minutes while awake"
+  ]
 }

@@ -23,3 +23,6 @@
 {"id":"2026-11-02#23","at":"2026-11-02T13:53:17.317Z","kind":"trigger","text":"hunger is at 1 of 100"}
 {"id":"2026-11-02#24","at":"2026-11-02T13:53:17.317Z","kind":"thought","text":"I am hungry, and the bowl is empty until morning, so I will spend the afternoon where I can see the sky and keep an eye on the bowl."}
 {"id":"2026-11-02#25","at":"2026-11-02T13:53:17.317Z","kind":"step","text":"Started go_to (The telescope): I am hungry, and the bowl is empty until morning, so I will spend the afternoon where I can see the sky and keep an eye on the bowl.","verb":"go_to","objectId":"telescope","goalRef":"today:0","beliefRefs":["b1"]}
+{"id":"2026-11-02#26","at":"2026-11-02T14:23:28.341Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-02#27","at":"2026-11-02T14:23:28.341Z","kind":"thought","text":"Hunger is at zero and the bowl is empty until morning, so I will keep to the things I can do now and leave the food for later."}
+{"id":"2026-11-02#28","at":"2026-11-02T14:23:28.341Z","kind":"step","text":"Started sit: Hunger is at zero and the bowl is empty until morning, so I will keep to the things I can do now and leave the food for later.","verb":"sit","goalRef":"today:0","beliefRefs":["b1"]}

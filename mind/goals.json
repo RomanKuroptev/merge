@@ -9,19 +9,12 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The telescope is mine to sit beside until dusk, and I am not explaining that to anyone.",
+        "verb": "sit",
+        "reason": "I will sit beside the telescope and wait for the light to change, and nobody needs to know why.",
         "because": [
           "b1"
         ],
-        "minutes": 30
-      },
-      {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "I will keep a picture of the telescope, since I claimed it first.",
-        "minutes": 10
+        "minutes": 20
       },
       {
         "verb": "read",
@@ -31,23 +24,29 @@
         "minutes": 30
       },
       {
+        "verb": "go_to",
+        "targetId": "tall-rock",
+        "reason": "I will claim the lookout rock again, since I found it first.",
+        "minutes": 10
+      },
+      {
         "verb": "watch",
         "targetId": "perch",
-        "reason": "The high perch lets me see everything arriving on the island, and I prefer to see it first.",
+        "reason": "From up high I can see everything arriving on the island before anyone else does.",
         "minutes": 25
       },
       {
-        "verb": "sit",
-        "reason": "I will sit where I can see the telescope and wait for the light to change.",
-        "minutes": 20
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "I will keep a picture of the telescope, since I claimed it first.",
+        "minutes": 10
       }
     ],
-    "reason": "The bowl is empty until morning, and the eat step was turned down, so I will keep to the telescope, the bookshelf and the high perch instead."
+    "reason": "Eating was turned down because the bowl is empty until morning, so I will read, watch from high places and sit by the telescope instead, without going to the same place twice in a row."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-02T13:53:17.317Z",
-    "until": "2026-11-02T14:23:17.317Z",
-    "workedSec": 600.4
+    "startedAt": "2026-11-02T14:23:28.341Z",
+    "until": "2026-11-02T14:43:28.341Z"
   }
 }
