@@ -4,26 +4,25 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 84.6,
-    "curiosity": 99.9
+    "energy": 81.2,
+    "curiosity": 100
   },
   "position": [
-    -5.67,
+    -18.5,
     0,
-    -0.45
+    10.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.79,
-    "arousal": 0.92
+    "valence": -1,
+    "arousal": 1
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "desk",
-    "startedAt": "2026-11-02T18:23:14.002Z",
-    "seed": 1968557958,
-    "reason": "The reading lamp is on the desk and it is mine, and I want to see it is still there.",
-    "goalRef": "today:1"
+    "type": "zoomies",
+    "startedAt": "2026-11-02T18:33:25.219Z",
+    "seed": 1968557537,
+    "reason": "It is dusk and my restlessness wants running off, then the telescope wants looking at while the light lasts.",
+    "goalRef": "today:0"
   },
   "holding": {
     "material": "flowers"
@@ -31,7 +30,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T18:23:14.002Z",
+  "lastTickAt": "2026-11-02T18:33:25.219Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

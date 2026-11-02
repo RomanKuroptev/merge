@@ -1,45 +1,45 @@
 {
-  "updatedAt": "2026-11-02T18:23:14.002Z",
+  "updatedAt": "2026-11-02T18:33:25.219Z",
   "engine": "v0.8.0",
   "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-02T18:23:14.002Z",
+    "at": "2026-11-02T18:33:25.219Z",
     "asleep": false,
-    "summary": "step 2/5: go_to",
-    "think": null,
+    "summary": "thought about need, step 1/2: zoomies, new plan",
+    "think": "decide",
     "triggers": [
+      "need",
       "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-02:af2b3990",
-    "stepsLeft": 3,
+    "planId": "2026-11-02:633412c8",
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "go_to",
-      "targetId": "desk",
-      "until": "2026-11-02T18:33:14.002Z",
+      "index": 0,
+      "verb": "zoomies",
+      "until": "2026-11-02T18:53:25.219Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-02T18:03:17.591Z",
+    "lastReplanAt": "2026-11-02T18:33:25.219Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 77,
-    "decideCalls": 14,
+    "ticks": 78,
+    "decideCalls": 15,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "decide": 13,
+      "decide": 14,
       "art": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 23,
+      "stepDone": 24,
       "replan": 2,
-      "need": 9
+      "need": 10
     },
     "failures": 0,
     "rejections": 1,
@@ -62,7 +62,8 @@
       "watch perch": 1,
       "observe telescope": 1,
       "go_to bowl": 1,
-      "go_to desk": 1
+      "go_to desk": 1,
+      "zoomies": 1
     },
     "longestGapMinutes": 13
   },
@@ -89,22 +90,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 309,
+    "hunger": 319,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 239
+    "minutes": 249
   },
   "spend": {
-    "monthUsd": 0.08374298,
+    "monthUsd": 0.085415,
     "capUsd": 10,
     "paceUsd": 0.6666666666666666
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 309 minutes while awake",
+    "hunger has been under 15 for 319 minutes while awake",
     "started \"go_to telescope\" 3 times today"
   ]
 }

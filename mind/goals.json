@@ -9,50 +9,31 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "bowl",
-        "reason": "I am hungry and the bowl is where dinner is, though it is empty for now, so I will check it anyway.",
-        "minutes": 10
-      },
-      {
-        "verb": "go_to",
-        "targetId": "desk",
-        "reason": "The reading lamp is on the desk and it is mine, and I want to see it is still there.",
-        "minutes": 10
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "I have not finished with the seeds, and the unknown ones still need an answer.",
-        "topic": "unknown seeds that grow",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "desk",
-        "materials": [
-          "clay"
+        "verb": "zoomies",
+        "position": [
+          -2.5,
+          20
         ],
-        "makes": "a note on the moon's colour",
-        "reason": "I have observed the moon and I will put the result down before anyone else can claim it.",
-        "topic": "the moon through the telescope",
+        "reason": "The dusk restlessness has to go somewhere, and the lookout rock is a good place to run toward.",
+        "minutes": 20
+      },
+      {
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "labnotes on the moon's colour",
+        "reason": "The moon is up now, and I want to put down what its colour looks like before anyone else does.",
+        "topic": "the moon's colour through the telescope",
         "because": [
           "b1"
         ],
         "minutes": 30
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "My energy is running low and a patch of sun is the proper remedy for it.",
-        "minutes": 40
       }
     ],
-    "reason": "Hunger has run down and the bowl is empty until morning, so I will check on it, then go back to reading and writing up what I saw, and rest in the sun after."
+    "reason": "Hunger cannot be fixed until the bowl is filled in the morning, so I will spend the dusk on zoomies and then on the telescope."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-02T18:23:14.002Z",
-    "until": "2026-11-02T18:33:14.002Z"
+    "index": 0,
+    "startedAt": "2026-11-02T18:33:25.219Z",
+    "until": "2026-11-02T18:53:25.219Z"
   }
 }
