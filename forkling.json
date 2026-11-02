@@ -4,34 +4,32 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 66.1,
-    "curiosity": 88
+    "energy": 92.8,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    6.92,
     0,
-    12.5
+    -2.03
   ],
-  "mood": "upset",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -1,
+    "valence": -0.36,
     "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-02T21:13:17.447Z",
-    "seed": 1594935064,
-    "reason": "I have one piece of clay put away at home, and the workbench is where it becomes something worth keeping.",
-    "goalRef": "today:0"
+    "type": "curl_up",
+    "targetId": "bed",
+    "startedAt": "2026-11-02T21:23:15.037Z",
+    "seed": 1968563671,
+    "reason": "Energy is running down and the bed is soft, so I will sit in it until bedtime, since sleep will not be allowed yet.",
+    "goalRef": "today:1"
   },
   "holding": {
     "material": "flowers"
   },
-  "stored": {
-    "clay": 1
-  },
-  "lastTickAt": "2026-11-02T21:13:20.572Z",
+  "stored": {},
+  "lastTickAt": "2026-11-02T21:23:15.037Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
