@@ -4,24 +4,24 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 67,
+    "energy": 57.1,
     "curiosity": 100
   },
   "position": [
-    5.47,
+    -14.5,
     0,
-    14.68
+    18.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -1,
-    "arousal": 1
+    "valence": -0.89,
+    "arousal": 0.89
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-02T19:03:28.824Z",
-    "seed": 1968555028,
+    "startedAt": "2026-11-02T19:33:06.799Z",
+    "seed": 1323485630,
     "reason": "The moon is up now, and I want to put down what its colour looks like before anyone else does.",
     "goalRef": "today:1"
   },
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T19:03:28.824Z",
+  "lastTickAt": "2026-11-02T19:33:18.110Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
