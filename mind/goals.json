@@ -6,41 +6,64 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "steps": [
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "telescope notes",
-        "reason": "The moon is still worth watching at dusk, and I will keep what I see.",
-        "topic": "the colour of the moon at dusk",
+        "verb": "go_to",
+        "targetId": "bookshelf",
+        "reason": "The seeds have been on my mind since I read about them, and the bookshelf is where things get explained.",
+        "minutes": 10
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "I want to know which seeds grow where nobody planted them, and I will not be told only the easy part.",
+        "topic": "unknown seeds that grow",
+        "minutes": 40
+      },
+      {
+        "verb": "go_to",
+        "targetId": "workbench",
+        "reason": "The clay I stored at home is best used where things are shaped, and the workbench is mine by sitting on it.",
         "because": [
-          "b1"
+          "b4"
+        ],
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "small clay bowl",
+        "reason": "Shaping clay turns one piece into a finished small object, and I intend to keep the result where I can see it.",
+        "because": [
+          "b4"
         ],
         "minutes": 40
       },
       {
-        "verb": "zoomies",
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Shaping is tiring and a patch of sun is the correct place to recover from it.",
+        "minutes": 45
+      },
+      {
+        "verb": "explore",
         "position": [
-          -12,
-          18
+          6,
+          12
         ],
-        "reason": "The last of the dusk restlessness has to go somewhere, and near the telescope is as good as anywhere.",
-        "minutes": 15
-      },
-      {
-        "verb": "go_to",
-        "targetId": "bed",
-        "reason": "The bed is soft and it is mine, so I will go and claim it properly.",
-        "minutes": 10
-      },
-      {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "Energy has run low and the bed is the softest thing I own, so I will curl up in it.",
+        "reason": "The flower meadow has colour and I want to see whether anything there is growing that I have not yet claimed.",
         "minutes": 30
       }
     ],
-    "reason": "Dusk has a little time left, so I will spend it on the telescope and the zoomies, then curl up in the bed before the night properly begins."
+    "reason": "I will spend the morning learning about seeds, making one clay object, and napping in the sun, leaving the afternoon loose for whatever I notice."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-02T07:03:15.458Z",
+    "until": "2026-11-02T07:13:15.458Z"
   }
 }

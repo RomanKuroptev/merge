@@ -4,29 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 53.3
+    "energy": 78.7,
+    "curiosity": 99.8
   },
   "position": [
-    11.5,
+    -2.92,
     0,
-    16.5
+    -5.84
   ],
   "mood": "calm",
   "feelings": {
-    "valence": 0.05,
-    "arousal": 0.32
+    "valence": 0.04,
+    "arousal": 0.31
   },
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-02T06:00:00.100Z",
-    "seed": 802250504,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "go_to",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-02T07:03:15.458Z",
+    "seed": 1968516903,
+    "reason": "I woke with my curiosity full and nothing to eat, so I will start with the bookshelf and the seeds that keep bothering me, then make something from the clay I have stored.",
+    "goalRef": "today:0"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-02T06:03:13.743Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-02T07:03:15.458Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

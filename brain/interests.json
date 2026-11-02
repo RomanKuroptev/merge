@@ -1,15 +1,21 @@
 {
   "topics": {
     "unknown seeds that grow": {
-      "weight": 0.24,
+      "weight": 0.48,
       "firstSeen": "2026-11-01T07:03:15.325Z",
-      "lastFed": "2026-11-01T07:03:15.325Z",
+      "lastFed": "2026-11-02T07:03:15.458Z",
       "sources": [
         {
           "id": "hn:50320963",
           "title": "An Italian farmer found some unknown seeds in his attic and planted them",
           "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
           "at": "2026-11-01T07:03:15.325Z"
+        },
+        {
+          "id": "lemmy:53852314",
+          "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and, With Nothing to Lose, Planted Them. The Result Was Almost…",
+          "url": "https://lemmy.sdf.org/post/61231546",
+          "at": "2026-11-02T07:03:15.458Z"
         }
       ]
     },
@@ -23,6 +29,19 @@
           "title": "NASA Science",
           "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
           "at": "2026-11-01T07:03:15.325Z"
+        }
+      ]
+    },
+    "long cloud on mars": {
+      "weight": 0.12,
+      "firstSeen": "2026-11-02T07:03:15.458Z",
+      "lastFed": "2026-11-02T07:03:15.458Z",
+      "sources": [
+        {
+          "id": "sky:apod:2026-11-02",
+          "title": "NASA Science",
+          "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+          "at": "2026-11-02T07:03:15.458Z"
         }
       ]
     }

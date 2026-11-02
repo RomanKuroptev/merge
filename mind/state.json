@@ -26,16 +26,10 @@
     "clay-figure"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-01",
+  "lastPlanDate": "2026-11-02",
   "appliedStepAt": "2026-11-01T20:13:13.696Z",
-  "lastThinkAt": "2026-11-01T21:53:17.368Z",
-  "replanAfter": "2026-11-01T22:23:13.857Z",
+  "lastThinkAt": "2026-11-02T07:03:15.458Z",
   "recent": [
-    {
-      "verb": "cut",
-      "targetId": "clay-bank",
-      "at": "2026-11-01T13:23:14.143Z"
-    },
     {
       "verb": "put_on",
       "targetId": "house",
@@ -128,6 +122,11 @@
       "verb": "curl_up",
       "targetId": "bed",
       "at": "2026-11-01T20:13:13.696Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "at": "2026-11-02T07:03:15.458Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
@@ -135,8 +134,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-02",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-02",
