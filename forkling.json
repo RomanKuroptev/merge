@@ -4,26 +4,26 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 91.7,
+    "energy": 85.3,
     "curiosity": 100
   },
   "position": [
-    -29.5,
+    -6.79,
     0,
-    3.5
+    24.76
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.59,
-    "arousal": 0.89
+    "valence": -0.87,
+    "arousal": 1
   },
   "intention": {
     "type": "go_to",
-    "targetId": "tall-rock",
-    "startedAt": "2026-11-02T15:33:13.856Z",
-    "seed": 1968551853,
-    "reason": "I will claim the lookout rock again, since I found it first.",
-    "goalRef": "today:2"
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-02T15:43:29.031Z",
+    "seed": 1968551221,
+    "reason": "The bowl is empty until morning and the day is nearly done, so I will spend the afternoon reading and watching, then take the telescope at dusk.",
+    "goalRef": "today:0"
   },
   "holding": {
     "material": "flowers"
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T15:33:13.856Z",
+  "lastTickAt": "2026-11-02T15:43:29.031Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

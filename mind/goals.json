@@ -9,44 +9,52 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "sit",
-        "reason": "I will sit beside the telescope and wait for the light to change, and nobody needs to know why.",
-        "because": [
-          "b1"
-        ],
-        "minutes": 20
+        "verb": "go_to",
+        "targetId": "bookshelf",
+        "reason": "I have decided to read about the moon's colour, and the bookshelf is where that is done.",
+        "minutes": 10
       },
       {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "Those seeds from the Italian attic have been on my mind more than is reasonable, so I will read about them.",
-        "topic": "unknown seeds that grow",
+        "reason": "The moon's colour is a question I have not been told the answer to, and that is annoying in a useful way.",
+        "topic": "the moon's colour",
         "minutes": 30
-      },
-      {
-        "verb": "go_to",
-        "targetId": "tall-rock",
-        "reason": "I will claim the lookout rock again, since I found it first.",
-        "minutes": 10
-      },
-      {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "From up high I can see everything arriving on the island before anyone else does.",
-        "minutes": 25
       },
       {
         "verb": "photograph",
         "targetId": "telescope",
         "reason": "I will keep a picture of the telescope, since I claimed it first.",
         "minutes": 10
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "From up high I can see everything arriving on the island before anyone else does.",
+        "minutes": 20
+      },
+      {
+        "verb": "go_to",
+        "targetId": "telescope",
+        "reason": "The sky is getting dark enough to be worth looking at, and the telescope is mine.",
+        "minutes": 10
+      },
+      {
+        "verb": "observe",
+        "targetId": "telescope",
+        "reason": "I will look at the moon through the telescope and see whether its colour matches what I have read.",
+        "topic": "the moon's colour",
+        "because": [
+          "b1"
+        ],
+        "minutes": 30
       }
     ],
-    "reason": "Eating was turned down because the bowl is empty until morning, so I will read, watch from high places and sit by the telescope instead, without going to the same place twice in a row."
+    "reason": "Food is unavailable until morning, so I will fill the afternoon with reading and high watching, then use the telescope once dusk arrives."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-02T15:33:13.856Z",
-    "until": "2026-11-02T15:43:13.856Z"
+    "index": 0,
+    "startedAt": "2026-11-02T15:43:29.031Z",
+    "until": "2026-11-02T15:53:29.031Z"
   }
 }
