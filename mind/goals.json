@@ -9,51 +9,44 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "inspect",
-        "targetId": "meadow",
-        "reason": "The flowers are at the meadow and I want to see what is growing there before anyone else does.",
-        "minutes": 20
-      },
-      {
-        "verb": "sniff",
-        "targetId": "meadow",
-        "reason": "Whatever is growing there ought to be sniffed before I decide whether it is mine.",
-        "minutes": 10
-      },
-      {
-        "verb": "pick_up",
-        "targetId": "meadow",
-        "reason": "A few flowers would look well on the windowsill, and I am not asking anyone's permission.",
-        "minutes": 10
-      },
-      {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "Inspecting meadows is tiring, and the bed is the correct place to recover from it.",
-        "minutes": 45
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "A patch of sun is where I take my rest once the meadow has been dealt with.",
-        "minutes": 60
-      },
-      {
         "verb": "go_to",
         "targetId": "telescope",
-        "reason": "The telescope is the biggest thing here, and I will be at it when dusk comes.",
+        "reason": "The telescope is mine to sit beside until dusk, and I am not explaining that to anyone.",
         "because": [
           "b1"
         ],
         "minutes": 30
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "I will keep a picture of the telescope, since I claimed it first.",
+        "minutes": 10
+      },
+      {
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "Those seeds from the Italian attic have been on my mind more than is reasonable, so I will read about them.",
+        "topic": "unknown seeds that grow",
+        "minutes": 30
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "The high perch lets me see everything arriving on the island, and I prefer to see it first.",
+        "minutes": 25
+      },
+      {
+        "verb": "sit",
+        "reason": "I will sit where I can see the telescope and wait for the light to change.",
+        "minutes": 20
       }
     ],
-    "reason": "The meadow has colour and I have not yet claimed anything in it, so I will look it over properly, then rest, then go to the telescope for dusk."
+    "reason": "The bowl is empty until morning, and the eat step was turned down, so I will keep to the telescope, the bookshelf and the high perch instead."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-02T13:13:28.961Z",
-    "until": "2026-11-02T13:43:28.961Z",
-    "workedSec": 1187.4
+    "index": 0,
+    "startedAt": "2026-11-02T13:53:17.317Z",
+    "until": "2026-11-02T14:23:17.317Z"
   }
 }

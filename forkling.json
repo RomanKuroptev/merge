@@ -3,27 +3,27 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 9.4,
-    "energy": 93.4,
+    "hunger": 1.4,
+    "energy": 97.5,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -10.5,
     0,
-    18.5
+    9.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0.02,
-    "arousal": 0.56
+    "valence": -0.28,
+    "arousal": 0.73
   },
   "intention": {
     "type": "go_to",
     "targetId": "telescope",
-    "startedAt": "2026-11-02T13:33:13.799Z",
-    "seed": 393558245,
-    "reason": "The telescope is the biggest thing here, and I will be at it when dusk comes.",
-    "goalRef": "today:5"
+    "startedAt": "2026-11-02T13:53:17.317Z",
+    "seed": 1968541529,
+    "reason": "I am hungry, and the bowl is empty until morning, so I will spend the afternoon where I can see the sky and keep an eye on the bowl.",
+    "goalRef": "today:0"
   },
   "holding": {
     "material": "flowers"
@@ -31,7 +31,7 @@
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T13:33:16.401Z",
+  "lastTickAt": "2026-11-02T13:53:17.317Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
