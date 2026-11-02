@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T14:23:28.341Z",
+  "appliedStepAt": "2026-11-02T14:53:17.900Z",
   "lastThinkAt": "2026-11-02T15:03:19.414Z",
   "recent": [
-    {
-      "verb": "observe",
-      "targetId": "telescope",
-      "at": "2026-11-01T18:13:14.064Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -127,6 +122,11 @@
       "verb": "read",
       "targetId": "bookshelf",
       "at": "2026-11-02T14:53:17.900Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "tall-rock",
+      "at": "2026-11-02T15:33:13.856Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
