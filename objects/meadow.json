@@ -12,6 +12,7 @@
     0,
     0
   ],
+  "scale": 1,
   "model": {
     "parts": [
       {
@@ -103,8 +104,14 @@
   "properties": {
     "size": 1.6,
     "weightKg": 100,
+    "carryable": false,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
     "soft": true,
-    "material": "flowers"
+    "high": false,
+    "material": "flowers",
+    "storage": false
   },
   "unlocks": [],
   "yields": {
@@ -112,5 +119,10 @@
     "max": 8,
     "respawnHours": 24
   },
+  "state": {
+    "stock": 7,
+    "stockAt": "2026-11-02T11:23:28.265Z"
+  },
+  "affordances": [],
   "reason": "Colour for no reason, which is the best reason."
 }

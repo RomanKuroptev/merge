@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T11:13:23.856Z",
+  "updatedAt": "2026-11-02T11:23:28.265Z",
   "engine": "v0.8.0",
   "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-02T11:13:23.856Z",
+    "at": "2026-11-02T11:23:28.265Z",
     "asleep": false,
-    "summary": "step 3/6: pick_up",
+    "summary": "pick_up: gathered, step 4/6: curl_up",
     "think": null,
     "triggers": [
       "stepDone"
@@ -14,19 +14,19 @@
   },
   "plan": {
     "planId": "2026-11-02:79e43ba4",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 2,
-      "verb": "pick_up",
-      "targetId": "meadow",
-      "until": "2026-11-02T11:23:23.856Z",
+      "index": 3,
+      "verb": "curl_up",
+      "targetId": "bed",
+      "until": "2026-11-02T12:08:28.265Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-02T10:33:22.467Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 34,
+    "ticks": 35,
     "decideCalls": 2,
     "callsByKind": {
       "memory": 1,
@@ -36,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "replan": 1
     },
     "failures": 0,
@@ -50,7 +50,8 @@
       "explore": 1,
       "inspect meadow": 1,
       "sniff meadow": 1,
-      "pick_up meadow": 1
+      "pick_up meadow": 1,
+      "curl_up bed": 1
     },
     "longestGapMinutes": 10
   },
@@ -83,7 +84,7 @@
   },
   "mood": {
     "label": "content",
-    "minutes": 100
+    "minutes": 110
   },
   "spend": {
     "monthUsd": 0.06484478,

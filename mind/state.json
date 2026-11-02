@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T10:53:27.933Z",
+  "appliedStepAt": "2026-11-02T11:13:23.856Z",
   "lastThinkAt": "2026-11-02T10:33:22.467Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "bookshelf",
-      "at": "2026-11-01T15:53:12.409Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -127,6 +122,11 @@
       "verb": "pick_up",
       "targetId": "meadow",
       "at": "2026-11-02T11:13:23.856Z"
+    },
+    {
+      "verb": "curl_up",
+      "targetId": "bed",
+      "at": "2026-11-02T11:23:28.265Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
