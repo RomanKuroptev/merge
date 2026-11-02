@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 81.3,
-    "energy": 77.5,
-    "curiosity": 99.9
+    "hunger": 73.3,
+    "energy": 70.8,
+    "curiosity": 100
   },
   "position": [
-    -22.28,
+    3.75,
     0,
-    10.8
+    14.4
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.5,
-    "arousal": 0.47
+    "valence": 0.46,
+    "arousal": 0.45
   },
   "intention": {
-    "type": "inspect",
+    "type": "sniff",
     "targetId": "meadow",
-    "startedAt": "2026-11-02T10:33:22.467Z",
-    "seed": 1968536678,
-    "reason": "The meadow is unclaimed ground and I mean to see whether anything in it is growing that I have not yet claimed, so I will go on from here.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-02T10:53:27.933Z",
+    "seed": 1968533811,
+    "reason": "Whatever is growing there ought to be sniffed before I decide whether it is mine.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 1
   },
-  "lastTickAt": "2026-11-02T10:33:22.467Z",
+  "lastTickAt": "2026-11-02T10:53:27.933Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
