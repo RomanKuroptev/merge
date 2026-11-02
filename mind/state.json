@@ -27,14 +27,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-01T20:13:13.696Z",
+  "appliedStepAt": "2026-11-02T07:03:15.458Z",
   "lastThinkAt": "2026-11-02T07:03:15.458Z",
   "recent": [
-    {
-      "verb": "put_on",
-      "targetId": "house",
-      "at": "2026-11-01T13:33:17.268Z"
-    },
     {
       "verb": "go_to",
       "targetId": "tall-rock",
@@ -127,6 +122,11 @@
       "verb": "go_to",
       "targetId": "bookshelf",
       "at": "2026-11-02T07:03:15.458Z"
+    },
+    {
+      "verb": "study",
+      "targetId": "bookshelf",
+      "at": "2026-11-02T07:13:17.559Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
@@ -148,7 +148,14 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "go_to",
+      "verb": "eat",
+      "need": "hunger",
+      "at": "2026-11-02T07:03:49.857Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",

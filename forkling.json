@@ -3,14 +3,14 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 0,
-    "energy": 78.7,
-    "curiosity": 99.8
+    "hunger": 51.3,
+    "energy": 75.4,
+    "curiosity": 100
   },
   "position": [
-    -2.92,
+    -18.5,
     0,
-    -5.84
+    14.5
   ],
   "mood": "calm",
   "feelings": {
@@ -18,17 +18,17 @@
     "arousal": 0.31
   },
   "intention": {
-    "type": "go_to",
+    "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-02T07:03:15.458Z",
-    "seed": 1968516903,
-    "reason": "I woke with my curiosity full and nothing to eat, so I will start with the bookshelf and the seeds that keep bothering me, then make something from the clay I have stored.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-02T07:13:17.559Z",
+    "seed": 1968513689,
+    "reason": "I want to know which seeds grow where nobody planted them, and I will not be told only the easy part.",
+    "goalRef": "today:1"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-02T07:03:15.458Z",
+  "lastTickAt": "2026-11-02T07:13:17.559Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
