@@ -28,13 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T15:33:13.856Z",
+  "appliedStepAt": "2026-11-02T15:43:29.031Z",
   "lastThinkAt": "2026-11-02T15:43:29.031Z",
   "recent": [
-    {
-      "verb": "zoomies",
-      "at": "2026-11-01T19:33:15.211Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bed",
@@ -127,6 +123,11 @@
       "verb": "go_to",
       "targetId": "bookshelf",
       "at": "2026-11-02T15:43:29.031Z"
+    },
+    {
+      "verb": "read",
+      "targetId": "bookshelf",
+      "at": "2026-11-02T16:03:16.209Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
