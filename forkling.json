@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 74.3,
-    "energy": 90.8,
-    "curiosity": 95.9
+    "hunger": 62.4,
+    "energy": 80.9,
+    "curiosity": 84
   },
   "position": [
     -6.5,
     0,
     12.5
   ],
-  "mood": "calm",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.12,
-    "arousal": 0.35
+    "valence": 0.71,
+    "arousal": 0.59
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-02T08:33:23.499Z",
-    "seed": 489989805,
-    "reason": "Shaping clay turns one piece into a finished small object, and I intend to keep the result where I can see it.",
-    "goalRef": "today:3"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-02T09:03:14.267Z",
+    "seed": 1968524102,
+    "reason": "Shaping is tiring and a patch of sun is the correct place to recover from it.",
+    "goalRef": "today:4"
   },
   "stored": {
-    "clay": 2
+    "clay": 1
   },
-  "lastTickAt": "2026-11-02T08:33:26.910Z",
+  "lastTickAt": "2026-11-02T09:03:14.267Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -6,3 +6,5 @@
 {"id":"2026-11-02#6","at":"2026-11-02T08:03:21.213Z","kind":"step","text":"study: read at The bookshelf","verb":"study","objectId":"bookshelf"}
 {"id":"2026-11-02#7","at":"2026-11-02T08:03:21.213Z","kind":"step","text":"Started go_to (The workbench): The clay I stored at home is best used where things are shaped, and the workbench is mine by sitting on it.","verb":"go_to","objectId":"workbench","goalRef":"today:2","beliefRefs":["b4"]}
 {"id":"2026-11-02#8","at":"2026-11-02T08:23:13.641Z","kind":"step","text":"Started shape (The workbench): Shaping clay turns one piece into a finished small object, and I intend to keep the result where I can see it.","verb":"shape","objectId":"workbench","goalRef":"today:3","beliefRefs":["b4"]}
+{"id":"2026-11-02#9","at":"2026-11-02T09:03:14.267Z","kind":"made","text":"shape: finished small clay bowl","verb":"shape","objectId":"small-clay-bowl"}
+{"id":"2026-11-02#10","at":"2026-11-02T09:03:14.267Z","kind":"step","text":"Started nap (sunbeam): Shaping is tiring and a patch of sun is the correct place to recover from it.","verb":"nap","goalRef":"today:4"}

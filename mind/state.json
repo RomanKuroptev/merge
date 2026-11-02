@@ -23,18 +23,14 @@
     "reading-lamp",
     "a-small-clay-dish",
     "a-clay-bowl",
-    "clay-figure"
+    "clay-figure",
+    "small-clay-bowl"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T08:03:21.213Z",
+  "appliedStepAt": "2026-11-02T08:23:13.641Z",
   "lastThinkAt": "2026-11-02T07:03:15.458Z",
   "recent": [
-    {
-      "verb": "cut",
-      "targetId": "clay-bank",
-      "at": "2026-11-01T14:33:16.331Z"
-    },
     {
       "verb": "put_on",
       "targetId": "house",
@@ -127,6 +123,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-02T08:23:13.641Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-02T09:03:14.267Z"
     }
   ],
   "lastReflectDate": "2026-11-01",

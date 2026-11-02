@@ -1,0 +1,105 @@
+{
+  "id": "small-clay-bowl",
+  "kind": "made",
+  "name": "small clay bowl",
+  "position": [
+    -7.65,
+    0,
+    12.4
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.085,
+          0.085,
+          0.085
+        ],
+        "at": [
+          -0.009,
+          0.042,
+          0.032
+        ],
+        "rotation": [
+          0.206,
+          0.713,
+          0.024
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.054,
+          0.054,
+          0.054
+        ],
+        "at": [
+          -0.007,
+          0.112,
+          0.014
+        ],
+        "rotation": [
+          0.152,
+          2.328,
+          0.067
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.062,
+          0.062,
+          0.062
+        ],
+        "at": [
+          0.024,
+          0.17,
+          -0.001
+        ],
+        "rotation": [
+          0.111,
+          -1.612,
+          -0.279
+        ],
+        "color": "#c2703d"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.201,
+    "weightKg": 4,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "made": {
+    "verb": "shape",
+    "materials": [
+      "clay"
+    ],
+    "skill": 2,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-02T09:03:14.267Z",
+    "seed": 1968524102
+  },
+  "affordances": [],
+  "reason": "Shaping clay turns one piece into a finished small object, and I intend to keep the result where I can see it."
+}
