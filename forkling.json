@@ -4,24 +4,24 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 92.8,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 95.9
   },
   "position": [
-    6.92,
+    -14.5,
     0,
-    -2.03
+    9.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.36,
-    "arousal": 1
+    "valence": -0.35,
+    "arousal": 0.96
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-02T21:23:15.037Z",
-    "seed": 1968563671,
+    "startedAt": "2026-11-02T21:32:40.299Z",
+    "seed": 578770175,
     "reason": "Energy is running down and the bed is soft, so I will sit in it until bedtime, since sleep will not be allowed yet.",
     "goalRef": "today:1"
   },
@@ -29,7 +29,7 @@
     "material": "flowers"
   },
   "stored": {},
-  "lastTickAt": "2026-11-02T21:23:15.037Z",
+  "lastTickAt": "2026-11-02T21:33:23.829Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
