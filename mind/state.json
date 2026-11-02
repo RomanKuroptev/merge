@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T16:03:16.209Z",
+  "appliedStepAt": "2026-11-02T16:33:18.664Z",
   "lastThinkAt": "2026-11-02T16:13:33.800Z",
   "recent": [
-    {
-      "verb": "curl_up",
-      "targetId": "bed",
-      "at": "2026-11-01T20:13:13.696Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bookshelf",
@@ -128,6 +123,11 @@
       "verb": "photograph",
       "targetId": "telescope",
       "at": "2026-11-02T16:33:18.664Z"
+    },
+    {
+      "verb": "watch",
+      "targetId": "perch",
+      "at": "2026-11-02T16:43:19.767Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
@@ -143,7 +143,7 @@
     "count": 0
   },
   "photos": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "count": 1,
     "queue": []
   },
