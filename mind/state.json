@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T10:33:22.467Z",
+  "appliedStepAt": "2026-11-02T10:53:27.933Z",
   "lastThinkAt": "2026-11-02T10:33:22.467Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "tall-rock",
-      "at": "2026-11-01T15:33:12.540Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bookshelf",
@@ -127,6 +122,11 @@
       "verb": "sniff",
       "targetId": "meadow",
       "at": "2026-11-02T10:53:27.933Z"
+    },
+    {
+      "verb": "pick_up",
+      "targetId": "meadow",
+      "at": "2026-11-02T11:13:23.856Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
