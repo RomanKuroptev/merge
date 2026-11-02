@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 95.9
+    "curiosity": 90.1
   },
   "position": [
     -14.5,
@@ -14,22 +14,20 @@
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.35,
-    "arousal": 0.96
+    "valence": -0.32,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "curl_up",
-    "targetId": "bed",
-    "startedAt": "2026-11-02T21:32:40.299Z",
-    "seed": 578770175,
-    "reason": "Energy is running down and the bed is soft, so I will sit in it until bedtime, since sleep will not be allowed yet.",
-    "goalRef": "today:1"
+    "type": "sleep",
+    "startedAt": "2026-11-02T21:53:01.427Z",
+    "seed": 1114519521,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "holding": {
     "material": "flowers"
   },
   "stored": {},
-  "lastTickAt": "2026-11-02T21:33:23.829Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-02T21:53:18.147Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }

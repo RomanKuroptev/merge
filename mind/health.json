@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-02T21:43:15.511Z",
+  "updatedAt": "2026-11-02T21:53:18.147Z",
   "engine": "v0.8.0",
   "date": "2026-11-02",
   "lastTick": {
-    "at": "2026-11-02T21:43:15.511Z",
-    "asleep": false,
-    "summary": "",
+    "at": "2026-11-02T21:53:18.147Z",
+    "asleep": true,
+    "summary": "sent its memory off to be rewritten, went to bed",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,13 +18,13 @@
       "verb": "curl_up",
       "targetId": "bed",
       "until": "2026-11-02T21:48:15.037Z",
-      "overdueMinutes": 0
+      "overdueMinutes": 5
     },
     "lastReplanAt": "2026-11-02T20:43:18.145Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 97,
+    "ticks": 98,
     "decideCalls": 23,
     "callsByKind": {
       "memory": 1,
@@ -90,13 +90,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 509,
+    "hunger": 0,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "frustrated",
-    "minutes": 20
+    "minutes": 30
   },
   "spend": {
     "monthUsd": 0.12648817,
@@ -105,7 +105,6 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 509 minutes while awake",
     "started \"go_to telescope\" 3 times today",
     "23 decide calls today (more than 15)"
   ]
