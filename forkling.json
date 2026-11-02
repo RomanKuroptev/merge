@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 51.3,
-    "energy": 75.4,
+    "hunger": 43.3,
+    "energy": 68.7,
     "curiosity": 100
   },
   "position": [
@@ -20,15 +20,15 @@
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-02T07:13:17.559Z",
-    "seed": 1968513689,
+    "startedAt": "2026-11-02T07:33:17.199Z",
+    "seed": 1173978860,
     "reason": "I want to know which seeds grow where nobody planted them, and I will not be told only the easy part.",
     "goalRef": "today:1"
   },
   "stored": {
     "clay": 2
   },
-  "lastTickAt": "2026-11-02T07:13:17.559Z",
+  "lastTickAt": "2026-11-02T07:33:19.371Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
