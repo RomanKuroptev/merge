@@ -28,14 +28,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-02",
-  "appliedStepAt": "2026-11-02T09:03:14.267Z",
-  "lastThinkAt": "2026-11-02T07:03:15.458Z",
+  "appliedStepAt": "2026-11-02T09:53:28.658Z",
+  "lastThinkAt": "2026-11-02T10:33:22.467Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "workbench",
-      "at": "2026-11-01T14:53:13.137Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -127,6 +122,11 @@
     {
       "verb": "explore",
       "at": "2026-11-02T09:53:28.658Z"
+    },
+    {
+      "verb": "inspect",
+      "targetId": "meadow",
+      "at": "2026-11-02T10:33:22.467Z"
     }
   ],
   "lastReflectDate": "2026-11-01",
@@ -148,14 +148,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "go_to",
-      "verb": "eat",
-      "need": "hunger",
-      "at": "2026-11-02T07:03:49.857Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-10-31T11:16:01.934Z",

@@ -9,62 +9,50 @@
     "date": "2026-11-02",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "The seeds have been on my mind since I read about them, and the bookshelf is where things get explained.",
+        "verb": "inspect",
+        "targetId": "meadow",
+        "reason": "The flowers are at the meadow and I want to see what is growing there before anyone else does.",
+        "minutes": 20
+      },
+      {
+        "verb": "sniff",
+        "targetId": "meadow",
+        "reason": "Whatever is growing there ought to be sniffed before I decide whether it is mine.",
         "minutes": 10
       },
       {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "I want to know which seeds grow where nobody planted them, and I will not be told only the easy part.",
-        "topic": "unknown seeds that grow",
-        "minutes": 40
-      },
-      {
-        "verb": "go_to",
-        "targetId": "workbench",
-        "reason": "The clay I stored at home is best used where things are shaped, and the workbench is mine by sitting on it.",
-        "because": [
-          "b4"
-        ],
+        "verb": "pick_up",
+        "targetId": "meadow",
+        "reason": "A few flowers would look well on the windowsill, and I am not asking anyone's permission.",
         "minutes": 10
       },
       {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "small clay bowl",
-        "reason": "Shaping clay turns one piece into a finished small object, and I intend to keep the result where I can see it.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 40
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "Inspecting meadows is tiring, and the bed is the correct place to recover from it.",
+        "minutes": 45
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "Shaping is tiring and a patch of sun is the correct place to recover from it.",
-        "minutes": 45
+        "reason": "A patch of sun is where I take my rest once the meadow has been dealt with.",
+        "minutes": 60
       },
       {
-        "verb": "explore",
-        "position": [
-          6,
-          12
+        "verb": "go_to",
+        "targetId": "telescope",
+        "reason": "The telescope is the biggest thing here, and I will be at it when dusk comes.",
+        "because": [
+          "b1"
         ],
-        "reason": "The flower meadow has colour and I want to see whether anything there is growing that I have not yet claimed.",
         "minutes": 30
       }
     ],
-    "reason": "I will spend the morning learning about seeds, making one clay object, and napping in the sun, leaving the afternoon loose for whatever I notice."
+    "reason": "The meadow has colour and I have not yet claimed anything in it, so I will look it over properly, then rest, then go to the telescope for dusk."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-02T09:53:28.658Z",
-    "until": "2026-11-02T10:23:28.658Z",
-    "workedSec": 585.6
+    "index": 0,
+    "startedAt": "2026-11-02T10:33:22.467Z",
+    "until": "2026-11-02T10:53:22.467Z"
   }
 }
