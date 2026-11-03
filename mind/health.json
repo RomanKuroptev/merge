@@ -1,33 +1,32 @@
 {
-  "updatedAt": "2026-11-03T14:03:19.988Z",
+  "updatedAt": "2026-11-03T14:13:17.991Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T14:03:19.988Z",
+    "at": "2026-11-03T14:13:17.991Z",
     "asleep": false,
-    "summary": "photograph: made something at, took a photo, thought about replan, step 1/10: go_to, new plan",
-    "think": "decide",
+    "summary": "step 2/10: draw",
+    "think": null,
     "triggers": [
-      "replan",
       "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-03:a6e568c9",
-    "stepsLeft": 9,
+    "stepsLeft": 8,
     "current": {
-      "index": 0,
-      "verb": "go_to",
+      "index": 1,
+      "verb": "draw",
       "targetId": "desk",
-      "until": "2026-11-03T14:08:19.988Z",
+      "until": "2026-11-03T14:33:17.991Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-03T14:03:19.988Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 56,
+    "ticks": 57,
     "decideCalls": 12,
     "callsByKind": {
       "read": 1,
@@ -38,7 +37,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 18,
+      "stepDone": 19,
       "need": 6
     },
     "failures": 0,
@@ -48,7 +47,7 @@
       "go_to bookshelf": 2,
       "read bookshelf": 2,
       "go_to desk": 2,
-      "draw desk": 1,
+      "draw desk": 2,
       "photograph telescope": 1,
       "watch perch": 2,
       "go_to clay-bank": 1,
@@ -85,21 +84,21 @@
     }
   },
   "needsCritical": {
-    "hunger": 200,
+    "hunger": 210,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
-    "monthUsd": 0.15075521,
+    "monthUsd": 0.15141004,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 200 minutes while awake"
+    "hunger has been under 15 for 210 minutes while awake"
   ]
 }

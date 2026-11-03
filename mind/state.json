@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T13:53:17.100Z",
+  "appliedStepAt": "2026-11-03T14:03:19.988Z",
   "lastThinkAt": "2026-11-03T14:03:19.988Z",
   "recent": [
-    {
-      "verb": "curl_up",
-      "targetId": "bed",
-      "at": "2026-11-02T21:23:15.037Z"
-    },
     {
       "verb": "put_on",
       "targetId": "house",
@@ -132,6 +127,11 @@
       "verb": "go_to",
       "targetId": "desk",
       "at": "2026-11-03T14:03:19.988Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-03T14:13:17.991Z"
     }
   ],
   "lastReflectDate": "2026-11-02",

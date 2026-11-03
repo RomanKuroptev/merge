@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 60.4,
+    "energy": 90.8,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -17.79,
     0,
-    14.5
+    9.01
   ],
   "mood": "curious",
   "feelings": {
     "valence": -0.01,
-    "arousal": 1
+    "arousal": 0.96
   },
   "intention": {
-    "type": "go_to",
+    "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-03T14:03:19.988Z",
-    "seed": 1968501555,
-    "reason": "I am wound up and the bowl is empty, so I will sit high, claim the desk and read until the restlessness settles.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-03T14:13:17.991Z",
+    "seed": 1968501097,
+    "reason": "The moon was grey-gold last time, and I want to see whether it still is.",
+    "goalRef": "today:1"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T14:03:19.988Z",
+  "lastTickAt": "2026-11-03T14:13:17.991Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
