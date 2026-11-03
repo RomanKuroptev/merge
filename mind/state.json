@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T13:23:16.663Z",
-  "lastThinkAt": "2026-11-03T13:53:17.100Z",
+  "appliedStepAt": "2026-11-03T13:53:17.100Z",
+  "lastThinkAt": "2026-11-03T14:03:19.988Z",
   "recent": [
-    {
-      "verb": "shape",
-      "targetId": "workbench",
-      "at": "2026-11-02T20:43:18.145Z"
-    },
     {
       "verb": "curl_up",
       "targetId": "bed",
@@ -132,6 +127,11 @@
       "verb": "photograph",
       "targetId": "bookshelf",
       "at": "2026-11-03T13:53:17.100Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "desk",
+      "at": "2026-11-03T14:03:19.988Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -148,7 +148,7 @@
   },
   "photos": {
     "date": "2026-11-03",
-    "count": 2,
+    "count": 3,
     "queue": []
   },
   "openBuild": null,

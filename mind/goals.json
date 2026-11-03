@@ -9,36 +9,78 @@
     "date": "2026-11-03",
     "steps": [
       {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "I will sit up high again and see what has moved while I was asleep.",
-        "minutes": 30
+        "verb": "go_to",
+        "targetId": "desk",
+        "reason": "The desk is near the lamp I took, and I want to be seen to be busy there.",
+        "minutes": 5
       },
       {
-        "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "Something on the bookshelf is more useful than sitting here wondering about seeds.",
-        "minutes": 5
+        "verb": "draw",
+        "targetId": "desk",
+        "makes": "a drawing of the moon",
+        "reason": "The moon was grey-gold last time, and I want to see whether it still is.",
+        "topic": "the moon's colour",
+        "because": [
+          "b1"
+        ],
+        "minutes": 20
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "I will sit up high and see what has moved while I was busy.",
+        "minutes": 25
       },
       {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "An unknown seed that grows is a mystery, and I intend to find out more about it than the farmer did.",
+        "reason": "Seeds that grow unbidden are still bothering me, and I intend to know more about them than the farmer did.",
         "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
-        "verb": "photograph",
-        "targetId": "bookshelf",
-        "reason": "I am recording my reading so that it is seen to have happened.",
+        "verb": "play",
+        "targetId": "drum",
+        "reason": "The drum makes a sound when hit, and I would like the island to hear that I am not pleased.",
         "minutes": 10
+      },
+      {
+        "verb": "photograph",
+        "targetId": "garden",
+        "reason": "The garden plot is dirt that wants something planted in it, and I am claiming it on film.",
+        "minutes": 10
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "My energy is running down and the sunbeam is the warmest thing I have found, so I will take it.",
+        "minutes": 40
+      },
+      {
+        "verb": "write",
+        "targetId": "desk",
+        "makes": "a note on the attic seeds",
+        "reason": "I have thoughts about the attic seeds that deserve to be kept, and I will not be the one to lose them.",
+        "topic": "seeds found in an attic that grew",
+        "minutes": 20
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is the biggest thing on the island and it is mine, so it should be recorded.",
+        "minutes": 10
+      },
+      {
+        "verb": "stretch",
+        "reason": "I have been sitting still too long and the island needs to see me stretch.",
+        "minutes": 5
       }
     ],
-    "reason": "The nap is done and the bowl is empty, so I will watch from the perch, then spend my reading time on the seeds I cannot stop thinking about."
+    "reason": "The bookshelf can only come up three times in a row, so I have spread my reading out with a drawing, a note, a nap and some photographs between."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-03T13:53:17.100Z",
-    "until": "2026-11-03T14:03:17.100Z"
+    "index": 0,
+    "startedAt": "2026-11-03T14:03:19.988Z",
+    "until": "2026-11-03T14:08:19.988Z"
   }
 }
