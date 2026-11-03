@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T22:33:16.915Z",
+  "updatedAt": "2026-11-03T23:03:15.855Z",
   "engine": "v0.8.0",
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "lastTick": {
-    "at": "2026-11-03T22:33:16.915Z",
+    "at": "2026-11-03T23:03:15.855Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,58 +18,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 108,
-    "decideCalls": 32,
+    "ticks": 1,
+    "decideCalls": 0,
     "callsByKind": {
-      "read": 1,
-      "morning": 2,
-      "decide": 30,
-      "art": 4,
-      "bedtime": 1
+      "memory": 1
     },
-    "triggersByKind": {
-      "newDay": 1,
-      "replan": 5,
-      "stepDone": 29,
-      "need": 18,
-      "bedtime": 1
-    },
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 6,
-    "stepsStarted": {
-      "put_on house": 1,
-      "go_to bookshelf": 2,
-      "read bookshelf": 4,
-      "go_to desk": 3,
-      "draw desk": 3,
-      "photograph telescope": 1,
-      "watch perch": 4,
-      "go_to clay-bank": 1,
-      "cut clay-bank": 1,
-      "go_to workbench": 1,
-      "shape workbench": 1,
-      "go_to tall-rock": 1,
-      "photograph tall-rock": 1,
-      "nap sunbeam": 2,
-      "photograph bookshelf": 1,
-      "play drum": 1,
-      "photograph garden": 1,
-      "observe telescope": 1,
-      "zoomies": 1
-    },
-    "longestGapMinutes": 14
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 4,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -88,20 +58,13 @@
   },
   "mood": {
     "label": "upset",
-    "minutes": 321
+    "minutes": 351
   },
   "spend": {
-    "monthUsd": 0.21658113,
+    "monthUsd": 0.21715101,
     "capUsd": 10,
-    "paceUsd": 1
+    "paceUsd": 1.3333333333333333
   },
   "openBuild": null,
-  "warnings": [
-    "started \"read bookshelf\" 4 times today",
-    "started \"go_to desk\" 3 times today",
-    "started \"draw desk\" 3 times today",
-    "started \"watch perch\" 4 times today",
-    "32 decide calls today (more than 15)",
-    "6 plans turned down today"
-  ]
+  "warnings": []
 }
