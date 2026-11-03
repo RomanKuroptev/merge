@@ -1,35 +1,47 @@
 {
-  "updatedAt": "2026-11-03T06:53:14.995Z",
+  "updatedAt": "2026-11-03T07:03:26.982Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T06:53:14.995Z",
+    "at": "2026-11-03T07:03:26.982Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/7: put_on, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": null,
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-02T20:43:18.145Z",
-    "idleMinutes": 110
+    "planId": "2026-11-03:daae61f7",
+    "stepsLeft": 6,
+    "current": {
+      "index": 0,
+      "verb": "put_on",
+      "targetId": "house",
+      "until": "2026-11-03T07:08:26.982Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-03T07:03:26.982Z",
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 13,
-    "decideCalls": 2,
+    "ticks": 14,
+    "decideCalls": 3,
     "callsByKind": {
       "read": 1,
-      "morning": 2
+      "morning": 2,
+      "decide": 1
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 1,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "put_on house": 1
+    },
     "longestGapMinutes": 10
   },
   "quotas": {
@@ -61,15 +73,13 @@
   },
   "mood": {
     "label": "calm",
-    "minutes": 290
+    "minutes": 300
   },
   "spend": {
-    "monthUsd": 0.13214661,
+    "monthUsd": 0.13417553,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
-  "warnings": [
-    "no step in progress for 110 minutes while awake"
-  ]
+  "warnings": []
 }

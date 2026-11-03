@@ -30,13 +30,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
   "appliedStepAt": "2026-11-02T20:43:18.145Z",
-  "lastThinkAt": "2026-11-03T06:03:16.460Z",
+  "lastThinkAt": "2026-11-03T07:03:26.982Z",
   "recent": [
-    {
-      "verb": "pick_up",
-      "targetId": "meadow",
-      "at": "2026-11-02T11:13:23.856Z"
-    },
     {
       "verb": "curl_up",
       "targetId": "bed",
@@ -129,6 +124,11 @@
       "verb": "curl_up",
       "targetId": "bed",
       "at": "2026-11-02T21:23:15.037Z"
+    },
+    {
+      "verb": "put_on",
+      "targetId": "house",
+      "at": "2026-11-03T07:03:26.982Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -189,6 +189,5 @@
         "step 7 (\"zoomies\") cannot happen then: it needs dusk"
       ]
     }
-  ],
-  "replanAfter": "2026-11-03T07:03:16.460Z"
+  ]
 }

@@ -4,5 +4,61 @@
     "reason": "Clay is good and so are things I have claimed, and I mean to have both in one place.",
     "setAt": "2026-10-31T14:35:40.540Z",
     "reviewedAt": "2026-10-31T14:35:40.540Z"
+  },
+  "today": {
+    "date": "2026-11-03",
+    "steps": [
+      {
+        "verb": "put_on",
+        "targetId": "house",
+        "reason": "I am keeping these flowers somewhere safe, because I do not leave good things lying about.",
+        "minutes": 5
+      },
+      {
+        "verb": "go_to",
+        "targetId": "bookshelf",
+        "reason": "Going to the shelf where the unknown seeds can be read about, since I have not stopped thinking about them.",
+        "minutes": 5
+      },
+      {
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "I want to know how seeds that nobody has named manage to grow.",
+        "topic": "unknown seeds that grow",
+        "minutes": 45
+      },
+      {
+        "verb": "go_to",
+        "targetId": "desk",
+        "reason": "The desk has my reading lamp on it, and I am keeping an eye on it.",
+        "minutes": 5
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "makes": "a drawing of the moon's colour",
+        "reason": "The moon was grey-gold last time and I want to check whether it still is.",
+        "topic": "the moon's colour",
+        "minutes": 40
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is mine and it should be seen in daylight too.",
+        "minutes": 20
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "I will sit up high and watch the island, where nothing gets past me.",
+        "minutes": 30
+      }
+    ],
+    "reason": "My curiosity is full, so I will spend the morning on the seeds and the moon, then claim a high place to watch from."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-03T07:03:26.982Z",
+    "until": "2026-11-03T07:08:26.982Z"
   }
 }
