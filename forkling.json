@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 55.4,
-    "energy": 72.2,
-    "curiosity": 100
+    "hunger": 43.4,
+    "energy": 95.3,
+    "curiosity": 99.7
   },
   "position": [
-    -18.5,
+    -18.67,
     0,
-    10.5
+    8.61
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.42,
-    "arousal": 0.48
+    "valence": 0.67,
+    "arousal": 0.55
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-03T09:03:18.589Z",
-    "seed": 1968486850,
-    "reason": "The telescope is mine and it should be seen in daylight too.",
-    "goalRef": "today:5"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-03T09:33:14.418Z",
+    "seed": 1968484558,
+    "reason": "I will sit up high and watch the island, where nothing gets past me.",
+    "goalRef": "today:6"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T09:03:18.589Z",
+  "lastTickAt": "2026-11-03T09:33:14.418Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
