@@ -20,3 +20,5 @@
 {"id":"2026-11-03#20","at":"2026-11-03T10:03:18.366Z","kind":"thought","text":"Clay is still the thing I want, and the bank is close enough to fetch it myself, so I will make something worth keeping before my energy wanders off."}
 {"id":"2026-11-03#21","at":"2026-11-03T10:03:18.366Z","kind":"step","text":"Started go_to (The clay bank): Clay is still the thing I want, and the bank is close enough to fetch it myself, so I will make something worth keeping before my energy wanders off.","verb":"go_to","objectId":"clay-bank","goalRef":"today:0"}
 {"id":"2026-11-03#22","at":"2026-11-03T10:13:17.180Z","kind":"step","text":"Started cut (The clay bank): One piece of clay in my paws is worth more than a sermon about it.","verb":"cut","objectId":"clay-bank","goalRef":"today:1","beliefRefs":["b2"]}
+{"id":"2026-11-03#23","at":"2026-11-03T10:33:13.362Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
+{"id":"2026-11-03#24","at":"2026-11-03T10:33:13.362Z","kind":"step","text":"Started go_to (The workbench): The workbench is where clay becomes something I can keep.","verb":"go_to","objectId":"workbench","goalRef":"today:2"}
