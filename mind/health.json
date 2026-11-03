@@ -1,42 +1,45 @@
 {
-  "updatedAt": "2026-11-03T16:23:20.459Z",
+  "updatedAt": "2026-11-03T16:34:02.265Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T16:23:20.459Z",
+    "at": "2026-11-03T16:34:02.265Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "draw: made something at, made a drawing, thought about need, step 3/9: watch",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-03:5f1d1347",
-    "stepsLeft": 7,
+    "stepsLeft": 6,
     "current": {
-      "index": 1,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-03T16:33:15.179Z",
+      "index": 2,
+      "verb": "watch",
+      "targetId": "perch",
+      "until": "2026-11-03T16:59:02.265Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-03T16:03:15.818Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 70,
-    "decideCalls": 17,
+    "ticks": 71,
+    "decideCalls": 18,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 15,
-      "art": 2
+      "decide": 16,
+      "art": 3
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 23,
-      "need": 9
+      "stepDone": 24,
+      "need": 10
     },
     "failures": 0,
     "rejections": 2,
@@ -47,7 +50,7 @@
       "go_to desk": 3,
       "draw desk": 3,
       "photograph telescope": 1,
-      "watch perch": 3,
+      "watch perch": 4,
       "go_to clay-bank": 1,
       "cut clay-bank": 1,
       "go_to workbench": 1,
@@ -66,7 +69,7 @@
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 3,
       "max": 4
     },
     "photos": {
@@ -83,26 +86,26 @@
     }
   },
   "needsCritical": {
-    "hunger": 340,
+    "hunger": 351,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 20
+    "minutes": 31
   },
   "spend": {
-    "monthUsd": 0.16023606,
+    "monthUsd": 0.16264877,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 340 minutes while awake",
+    "hunger has been under 15 for 351 minutes while awake",
     "started \"read bookshelf\" 3 times today",
     "started \"go_to desk\" 3 times today",
     "started \"draw desk\" 3 times today",
-    "started \"watch perch\" 3 times today",
-    "17 decide calls today (more than 15)"
+    "started \"watch perch\" 4 times today",
+    "18 decide calls today (more than 15)"
   ]
 }

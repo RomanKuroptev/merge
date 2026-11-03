@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 99.9,
-    "curiosity": 99.2
+    "energy": 91,
+    "curiosity": 100
   },
   "position": [
-    3.25,
+    -17.6,
     0,
-    9.34
+    0.48
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.45,
-    "arousal": 0.96
+    "valence": -0.42,
+    "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-03T16:13:15.179Z",
-    "seed": 1968640655,
-    "reason": "The moon was grey-gold last time, and I want to see whether it still is.",
-    "goalRef": "today:1"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-03T16:34:02.265Z",
+    "seed": 1968641646,
+    "reason": "I will sit up high and see what has moved while I was busy.",
+    "goalRef": "today:2"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T16:13:15.179Z",
+  "lastTickAt": "2026-11-03T16:34:02.265Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
