@@ -2,17 +2,19 @@
   {
     "id": "b1",
     "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
-    "confidence": 0.9,
+    "confidence": 1,
     "evidence": [
       "2026-10-31#21",
       "2026-10-31#37",
       "2026-11-01#73",
       "2026-11-01#78",
       "2026-11-02#53",
-      "2026-11-02#65"
+      "2026-11-02#65",
+      "2026-11-03#89",
+      "2026-11-03#91"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
-    "revisedAt": "2026-11-02T21:23:15.037Z",
+    "revisedAt": "2026-11-03T22:03:21.079Z",
     "status": "active",
     "history": [
       {
@@ -26,22 +28,29 @@
         "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
         "confidence": 0.75,
         "why": "Two dusk observations at the telescope each left a labnote."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 0.9,
+        "why": "The telescope at dusk gave another labnote."
       }
     ]
   },
   {
     "id": "b2",
     "statement": "The clay bank gives clay that can be cut and stored at the house.",
-    "confidence": 0.8,
+    "confidence": 0.95,
     "evidence": [
       "2026-10-31#7",
       "2026-10-31#11",
       "2026-11-01#41",
       "2026-11-01#43",
-      "2026-11-01#53"
+      "2026-11-01#53",
+      "2026-11-03#23"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
-    "revisedAt": "2026-11-01T21:53:17.368Z",
+    "revisedAt": "2026-11-03T22:03:21.079Z",
     "status": "active",
     "history": [
       {
@@ -49,6 +58,12 @@
         "statement": "The clay bank gives clay that can be cut and stored at the house.",
         "confidence": 0.65,
         "why": "I cut clay again and again and stored it at the house."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "The clay bank gives clay that can be cut and stored at the house.",
+        "confidence": 0.8,
+        "why": "I gathered clay from the bank again."
       }
     ]
   },
@@ -74,14 +89,17 @@
   {
     "id": "b4",
     "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-01#14",
       "2026-11-01#31",
       "2026-11-01#56",
-      "2026-11-02#9"
+      "2026-11-02#9",
+      "2026-11-03#25",
+      "2026-11-03#28"
     ],
     "formedAt": "2026-11-01T21:53:17.368Z",
+    "revisedAt": "2026-11-03T22:03:21.079Z",
     "status": "active",
     "history": [
       {
@@ -89,8 +107,13 @@
         "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
         "confidence": 0.7,
         "why": "Shaping clay at the workbench again finished a small bowl."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 0.85,
+        "why": "One piece of clay became a finished bowl again."
       }
-    ],
-    "revisedAt": "2026-11-02T21:23:15.037Z"
+    ]
   }
 ]
