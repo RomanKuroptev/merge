@@ -9,56 +9,69 @@
     "date": "2026-11-03",
     "steps": [
       {
-        "verb": "put_on",
-        "targetId": "house",
-        "reason": "I am keeping these flowers somewhere safe, because I do not leave good things lying about.",
+        "verb": "go_to",
+        "targetId": "clay-bank",
+        "reason": "The clay bank is where the clay is, and I am going to hold some of it before anyone else does.",
         "minutes": 5
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "One piece of clay in my paws is worth more than a sermon about it.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 10
       },
       {
         "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "Going to the shelf where the unknown seeds can be read about, since I have not stopped thinking about them.",
+        "targetId": "workbench",
+        "reason": "The workbench is where clay becomes something I can keep.",
         "minutes": 5
       },
       {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "I want to know how seeds that nobody has named manage to grow.",
-        "topic": "unknown seeds that grow",
-        "minutes": 45
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay bowl",
+        "reason": "Shaping one piece of clay gives a finished small object, and I intend to keep it where I can see it.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 30
       },
       {
         "verb": "go_to",
-        "targetId": "desk",
-        "reason": "The desk has my reading lamp on it, and I am keeping an eye on it.",
+        "targetId": "tall-rock",
+        "reason": "The lookout rock is mine, and it should be seen from the sea side too.",
         "minutes": 5
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "a drawing of the moon's colour",
-        "reason": "The moon was grey-gold last time and I want to check whether it still is.",
-        "topic": "the moon's colour",
-        "minutes": 40
       },
       {
         "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is mine and it should be seen in daylight too.",
-        "minutes": 20
+        "targetId": "tall-rock",
+        "reason": "I claimed it by sitting on it, so I am recording the claim.",
+        "minutes": 10
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Energy is running down, and a patch of sun will sort that out.",
+        "minutes": 60
       },
       {
         "verb": "watch",
         "targetId": "perch",
-        "reason": "I will sit up high and watch the island, where nothing gets past me.",
+        "reason": "I will sit up high again once I have had my sleep, where I can see what has moved.",
         "minutes": 30
       }
     ],
-    "reason": "My curiosity is full, so I will spend the morning on the seeds and the moon, then claim a high place to watch from."
+    "reason": "My earlier plan ran out and clay is still what I want, so I will fetch some, shape it into something I keep, and nap in the sun afterwards."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-03T09:33:14.418Z",
-    "until": "2026-11-03T10:03:14.418Z"
+    "index": 0,
+    "startedAt": "2026-11-03T10:03:18.366Z",
+    "until": "2026-11-03T10:08:18.366Z"
   }
 }
