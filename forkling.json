@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 84.8,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 91.9
   },
   "position": [
-    -4.5,
+    -10.5,
     0,
-    16.5
+    19.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.5,
-    "arousal": 1
+    "valence": -0.46,
+    "arousal": 0.92
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-03T17:43:23.627Z",
-    "seed": 1968637871,
+    "startedAt": "2026-11-03T18:03:37.699Z",
+    "seed": 28069214,
     "reason": "My energy is running down and the sunbeam is the warmest thing I have found, so I will take it.",
     "goalRef": "today:5"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T17:43:23.627Z",
+  "lastTickAt": "2026-11-03T18:03:38.150Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
