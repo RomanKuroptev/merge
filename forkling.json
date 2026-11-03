@@ -3,33 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 76.7,
-    "energy": 99.7,
+    "hunger": 99.4,
+    "energy": 86.4,
     "curiosity": 100
   },
   "position": [
-    -19.5,
+    -9.5,
     0,
-    5.5
+    15.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": -0.04,
-    "arousal": 0.33
+    "valence": 0.06,
+    "arousal": 0.38
   },
   "intention": {
-    "type": "put_on",
-    "targetId": "house",
-    "startedAt": "2026-11-03T07:03:26.982Z",
-    "seed": 1968479658,
-    "reason": "Everything here is new enough to deserve a proper look, and the seeds still have my attention.",
-    "goalRef": "today:0"
+    "type": "go_to",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-03T07:13:13.656Z",
+    "seed": 1968476957,
+    "reason": "Going to the shelf where the unknown seeds can be read about, since I have not stopped thinking about them.",
+    "goalRef": "today:1"
   },
-  "holding": {
-    "material": "flowers"
+  "stored": {
+    "flowers": 1
   },
-  "stored": {},
-  "lastTickAt": "2026-11-03T07:03:26.982Z",
+  "lastTickAt": "2026-11-03T07:13:13.656Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
