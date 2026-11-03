@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T14:13:17.991Z",
+  "appliedStepAt": "2026-11-03T14:43:20.147Z",
   "lastThinkAt": "2026-11-03T14:43:20.147Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "bookshelf",
-      "at": "2026-11-03T07:13:13.656Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -132,6 +127,11 @@
       "verb": "watch",
       "targetId": "perch",
       "at": "2026-11-03T14:43:20.147Z"
+    },
+    {
+      "verb": "read",
+      "targetId": "bookshelf",
+      "at": "2026-11-03T15:13:17.824Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
