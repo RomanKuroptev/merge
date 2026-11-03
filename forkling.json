@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 98.1,
-    "curiosity": 99.7
+    "energy": 94.8,
+    "curiosity": 100
   },
   "position": [
-    -4.5,
+    -18.5,
     0,
-    10.5
+    14.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.38,
-    "arousal": 0.89
+    "valence": -0.67,
+    "arousal": 1
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-03T17:03:15.057Z",
-    "seed": 1968638279,
+    "startedAt": "2026-11-03T17:13:04.556Z",
+    "seed": 911536902,
     "reason": "Seeds that grow unbidden are still bothering me, and I intend to know more about them than the farmer did.",
     "goalRef": "today:3"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T17:03:15.057Z",
+  "lastTickAt": "2026-11-03T17:13:14.830Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
