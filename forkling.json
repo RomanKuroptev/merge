@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 75.4,
-    "energy": 96.9,
+    "hunger": 71.4,
+    "energy": 85.6,
     "curiosity": 100
   },
   "position": [
-    -8.5,
+    -18.5,
     0,
-    12.5
+    10.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": 0.15,
-    "arousal": 0.42
+    "valence": 0.14,
+    "arousal": 0.41
   },
   "intention": {
-    "type": "go_to",
+    "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-03T08:13:18.688Z",
-    "seed": 1968475402,
-    "reason": "The desk has my reading lamp on it, and I am keeping an eye on it.",
-    "goalRef": "today:3"
+    "startedAt": "2026-11-03T08:23:13.783Z",
+    "seed": 1968472933,
+    "reason": "The moon was grey-gold last time and I want to check whether it still is.",
+    "goalRef": "today:4"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T08:13:18.688Z",
+  "lastTickAt": "2026-11-03T08:23:13.783Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

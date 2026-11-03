@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T08:13:18.688Z",
+  "updatedAt": "2026-11-03T08:23:13.783Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T08:13:18.688Z",
+    "at": "2026-11-03T08:23:13.783Z",
     "asleep": false,
-    "summary": "read: read at, step 4/7: go_to",
+    "summary": "step 5/7: draw",
     "think": null,
     "triggers": [
       "stepDone"
@@ -14,19 +14,19 @@
   },
   "plan": {
     "planId": "2026-11-03:daae61f7",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 3,
-      "verb": "go_to",
+      "index": 4,
+      "verb": "draw",
       "targetId": "desk",
-      "until": "2026-11-03T08:18:18.688Z",
+      "until": "2026-11-03T09:03:13.783Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-03T07:03:26.982Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 21,
+    "ticks": 22,
     "decideCalls": 3,
     "callsByKind": {
       "read": 1,
@@ -36,7 +36,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 1,
-      "stepDone": 3
+      "stepDone": 4
     },
     "failures": 0,
     "rejections": 1,
@@ -44,7 +44,8 @@
       "put_on house": 1,
       "go_to bookshelf": 1,
       "read bookshelf": 1,
-      "go_to desk": 1
+      "go_to desk": 1,
+      "draw desk": 1
     },
     "longestGapMinutes": 10
   },
@@ -77,7 +78,7 @@
   },
   "mood": {
     "label": "calm",
-    "minutes": 370
+    "minutes": 380
   },
   "spend": {
     "monthUsd": 0.13417553,

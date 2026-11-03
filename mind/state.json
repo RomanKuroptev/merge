@@ -29,14 +29,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T07:23:17.392Z",
+  "appliedStepAt": "2026-11-03T08:13:18.688Z",
   "lastThinkAt": "2026-11-03T07:03:26.982Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "telescope",
-      "at": "2026-11-02T13:53:17.317Z"
-    },
     {
       "verb": "sit",
       "at": "2026-11-02T14:23:28.341Z"
@@ -129,6 +124,11 @@
       "verb": "go_to",
       "targetId": "desk",
       "at": "2026-11-03T08:13:18.688Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-03T08:23:13.783Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
