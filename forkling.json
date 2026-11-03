@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 70.3,
+    "energy": 99.8,
     "curiosity": 100
   },
   "position": [
-    -6.5,
+    -3.14,
     0,
-    12.5
+    10.78
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.68,
+    "valence": 0.94,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "tall-rock",
-    "startedAt": "2026-11-03T11:29:17.983Z",
-    "seed": 1968496409,
-    "reason": "I claimed it by sitting on it, so I am recording the claim.",
-    "goalRef": "today:5"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-03T11:43:13.922Z",
+    "seed": 1968493125,
+    "reason": "Energy is running down, and a patch of sun will sort that out.",
+    "goalRef": "today:6"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T11:29:17.983Z",
+  "lastTickAt": "2026-11-03T11:43:13.922Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

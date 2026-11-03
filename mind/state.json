@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T11:23:15.800Z",
+  "appliedStepAt": "2026-11-03T11:29:17.983Z",
   "lastThinkAt": "2026-11-03T11:29:17.983Z",
   "recent": [
-    {
-      "verb": "observe",
-      "targetId": "telescope",
-      "at": "2026-11-02T17:23:28.957Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bowl",
@@ -131,6 +126,11 @@
       "verb": "photograph",
       "targetId": "tall-rock",
       "at": "2026-11-03T11:29:17.983Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-03T11:43:13.922Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -147,7 +147,7 @@
   },
   "photos": {
     "date": "2026-11-03",
-    "count": 1,
+    "count": 2,
     "queue": []
   },
   "openBuild": null,
