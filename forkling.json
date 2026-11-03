@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 67.4,
-    "energy": 82.2,
+    "hunger": 55.4,
+    "energy": 72.2,
     "curiosity": 100
   },
   "position": [
@@ -12,23 +12,23 @@
     0,
     10.5
   ],
-  "mood": "calm",
+  "mood": "content",
   "feelings": {
-    "valence": 0.13,
-    "arousal": 0.4
+    "valence": 0.42,
+    "arousal": 0.48
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-03T08:33:07.099Z",
-    "seed": 1475039654,
-    "reason": "The moon was grey-gold last time and I want to check whether it still is.",
-    "goalRef": "today:4"
+    "type": "photograph",
+    "targetId": "telescope",
+    "startedAt": "2026-11-03T09:03:18.589Z",
+    "seed": 1968486850,
+    "reason": "The telescope is mine and it should be seen in daylight too.",
+    "goalRef": "today:5"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T08:33:17.356Z",
+  "lastTickAt": "2026-11-03T09:03:18.589Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
