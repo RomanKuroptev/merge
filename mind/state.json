@@ -31,7 +31,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
   "appliedStepAt": "2026-11-03T18:43:40.178Z",
-  "lastThinkAt": "2026-11-03T19:03:21.535Z",
+  "lastThinkAt": "2026-11-03T19:33:44.119Z",
+  "replanAfter": "2026-11-03T20:03:21.535Z",
   "recent": [
     {
       "verb": "go_to",
@@ -203,6 +204,5 @@
         "step 2 (\"sleep\") cannot happen then: it needs night"
       ]
     }
-  ],
-  "replanAfter": "2026-11-03T20:03:21.535Z"
+  ]
 }
