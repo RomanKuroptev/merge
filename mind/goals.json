@@ -9,73 +9,31 @@
     "date": "2026-11-03",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "desk",
-        "reason": "The desk is near the lamp I took, and I want to be seen to be busy there.",
-        "minutes": 5
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "a drawing of the moon",
-        "reason": "The moon was grey-gold last time, and I want to see whether it still is.",
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "a labnote on the moon's colour",
+        "reason": "It is dusk and the telescope is mine, so I will look at the moon's colour through it before anyone else does.",
         "topic": "the moon's colour",
         "because": [
           "b1"
         ],
-        "minutes": 20
-      },
-      {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "I will sit up high and see what has moved while I was busy.",
-        "minutes": 25
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow unbidden are still bothering me, and I intend to know more about them than the farmer did.",
-        "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
-        "verb": "photograph",
-        "targetId": "garden",
-        "reason": "The garden plot is dirt that wants something planted in it, and I am claiming it on film.",
-        "minutes": 10
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "My energy is running down and the sunbeam is the warmest thing I have found, so I will take it.",
-        "minutes": 40
-      },
-      {
-        "verb": "write",
-        "targetId": "desk",
-        "makes": "a note on the attic seeds",
-        "reason": "I have thoughts about the attic seeds that deserve to be kept, and I will not be the one to lose them.",
-        "topic": "seeds found in an attic that grew",
-        "minutes": 20
-      },
-      {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is the biggest thing on the island and it is mine, so it should be recorded.",
-        "minutes": 10
-      },
-      {
-        "verb": "stretch",
-        "reason": "I have been sitting still too long and the island needs to see me stretch.",
-        "minutes": 5
+        "verb": "zoomies",
+        "position": [
+          -10,
+          18
+        ],
+        "reason": "The moon has been looked at enough for one evening, so I will run it off across the island.",
+        "minutes": 15
       }
     ],
-    "reason": "The harvest step could not be done at the berry bush, so I have taken it out and kept the rest of the afternoon as it was."
+    "reason": "The bowl is empty until morning and it is dusk, so the only things I can do now are the telescope and zoomies."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-03T17:43:23.627Z",
-    "until": "2026-11-03T18:23:23.627Z",
-    "workedSec": 1214.4
+    "index": 0,
+    "startedAt": "2026-11-03T18:13:29.865Z",
+    "until": "2026-11-03T18:43:29.865Z"
   }
 }
