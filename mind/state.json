@@ -30,14 +30,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T14:43:20.147Z",
+  "appliedStepAt": "2026-11-03T15:13:17.824Z",
   "lastThinkAt": "2026-11-03T15:23:17.065Z",
+  "replanAfter": "2026-11-03T16:23:17.065Z",
   "recent": [
-    {
-      "verb": "read",
-      "targetId": "bookshelf",
-      "at": "2026-11-03T07:23:17.392Z"
-    },
     {
       "verb": "go_to",
       "targetId": "desk",
@@ -132,6 +128,11 @@
       "verb": "read",
       "targetId": "bookshelf",
       "at": "2026-11-03T15:13:17.824Z"
+    },
+    {
+      "verb": "play",
+      "targetId": "drum",
+      "at": "2026-11-03T15:53:16.263Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -198,6 +199,5 @@
         "step 1: The bowl is empty"
       ]
     }
-  ],
-  "replanAfter": "2026-11-03T16:23:17.065Z"
+  ]
 }
