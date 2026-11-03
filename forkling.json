@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 83.1
+    "curiosity": 77.1
   },
   "position": [
     -14.5,
@@ -14,20 +14,20 @@
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.25,
-    "arousal": 0.7
+    "valence": -0.2,
+    "arousal": 0.58
   },
   "intention": {
     "type": "sleep",
-    "startedAt": "2026-11-02T23:00:00.100Z",
-    "seed": 1482055294,
+    "startedAt": "2026-11-03T00:00:00.100Z",
+    "seed": 620079167,
     "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "holding": {
     "material": "flowers"
   },
   "stored": {},
-  "lastTickAt": "2026-11-02T23:03:14.698Z",
+  "lastTickAt": "2026-11-03T00:03:29.905Z",
   "asleep": true,
   "timezone": "Europe/Stockholm"
 }
