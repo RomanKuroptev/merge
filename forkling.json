@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.5,
+    "energy": 80.8,
     "curiosity": 100
   },
   "position": [
-    2.44,
+    -14.5,
     0,
-    19.4
+    18.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": -0.01,
-    "arousal": 1
+    "arousal": 0.92
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-03T14:43:20.147Z",
-    "seed": 1968499100,
+    "startedAt": "2026-11-03T15:03:05.099Z",
+    "seed": 166262985,
     "reason": "I will sit up high and see what has moved while I was busy.",
     "goalRef": "today:2"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T14:43:20.147Z",
+  "lastTickAt": "2026-11-03T15:03:19.391Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
