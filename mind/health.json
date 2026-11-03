@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-03T21:03:21.284Z",
+  "updatedAt": "2026-11-03T21:13:31.038Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T21:03:21.284Z",
+    "at": "2026-11-03T21:13:31.038Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, plan rejected",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -15,25 +17,25 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-03T18:13:29.865Z",
-    "idleMinutes": 131
+    "idleMinutes": 141
   },
   "today": {
-    "ticks": 99,
-    "decideCalls": 28,
+    "ticks": 100,
+    "decideCalls": 30,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 26,
+      "decide": 28,
       "art": 4
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
       "stepDone": 29,
-      "need": 16
+      "need": 17
     },
     "failures": 0,
-    "rejections": 4,
+    "rejections": 5,
     "stepsStarted": {
       "put_on house": 1,
       "go_to bookshelf": 2,
@@ -80,28 +82,28 @@
     }
   },
   "needsCritical": {
-    "hunger": 621,
+    "hunger": 631,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 231
+    "minutes": 241
   },
   "spend": {
-    "monthUsd": 0.17830101,
+    "monthUsd": 0.18060157,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 621 minutes while awake",
-    "no step in progress for 131 minutes while awake",
+    "hunger has been under 15 for 631 minutes while awake",
+    "no step in progress for 141 minutes while awake",
     "started \"read bookshelf\" 4 times today",
     "started \"go_to desk\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"watch perch\" 4 times today",
-    "28 decide calls today (more than 15)",
-    "4 plans turned down today"
+    "30 decide calls today (more than 15)",
+    "5 plans turned down today"
   ]
 }

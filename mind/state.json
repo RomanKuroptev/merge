@@ -31,8 +31,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
   "appliedStepAt": "2026-11-03T18:43:40.178Z",
-  "lastThinkAt": "2026-11-03T20:34:00.367Z",
-  "replanAfter": "2026-11-03T21:34:00.367Z",
+  "lastThinkAt": "2026-11-03T21:13:31.038Z",
+  "replanAfter": "2026-11-03T22:13:31.038Z",
   "recent": [
     {
       "verb": "go_to",
@@ -208,6 +208,12 @@
       "at": "2026-11-03T20:34:00.367Z",
       "reasons": [
         "step 1 (\"sleep\") goes nowhere in particular, so it takes no target",
+        "step 1 (\"sleep\") cannot happen then: it needs night"
+      ]
+    },
+    {
+      "at": "2026-11-03T21:13:31.038Z",
+      "reasons": [
         "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
     }

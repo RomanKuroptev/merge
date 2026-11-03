@@ -4,29 +4,30 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 71.8,
+    "energy": 94.6,
     "curiosity": 100
   },
   "position": [
-    -5.5,
+    5.5,
     0,
-    29.5
+    20.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.86,
-    "arousal": 0.89
+    "valence": -1,
+    "arousal": 1
   },
   "intention": {
-    "type": "pounce",
-    "startedAt": "2026-11-03T21:03:19.599Z",
-    "seed": 1158840925,
-    "reason": "Something moved. Probably. I pounced anyway."
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-03T21:13:18.783Z",
+    "seed": 1607671364,
+    "reason": "Everything looks better from up high."
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T21:03:21.284Z",
+  "lastTickAt": "2026-11-03T21:13:31.038Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
