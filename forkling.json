@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 70.4,
+    "energy": 63.7,
     "curiosity": 100
   },
   "position": [
@@ -12,23 +12,23 @@
     0,
     14.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.13,
-    "arousal": 0.92
+    "valence": -0.32,
+    "arousal": 1
   },
   "intention": {
-    "type": "read",
+    "type": "photograph",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-03T13:33:01.699Z",
-    "seed": 1839345574,
-    "reason": "An unknown seed that grows is a mystery, and I intend to find out more about it than the farmer did.",
-    "goalRef": "today:2"
+    "startedAt": "2026-11-03T13:53:17.100Z",
+    "seed": 1968504281,
+    "reason": "I am recording my reading so that it is seen to have happened.",
+    "goalRef": "today:3"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T13:33:13.769Z",
+  "lastTickAt": "2026-11-03T13:53:17.100Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
