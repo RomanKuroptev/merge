@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 79.4,
-    "energy": 66.7,
+    "hunger": 75.4,
+    "energy": 96.9,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -8.5,
     0,
-    14.5
+    12.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": 0.05,
-    "arousal": 0.37
+    "valence": 0.15,
+    "arousal": 0.42
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-03T08:03:18.799Z",
-    "seed": 2066306230,
-    "reason": "I want to know how seeds that nobody has named manage to grow.",
-    "goalRef": "today:2"
+    "type": "go_to",
+    "targetId": "desk",
+    "startedAt": "2026-11-03T08:13:18.688Z",
+    "seed": 1968475402,
+    "reason": "The desk has my reading lamp on it, and I am keeping an eye on it.",
+    "goalRef": "today:3"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T08:03:19.239Z",
+  "lastTickAt": "2026-11-03T08:13:18.688Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
