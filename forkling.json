@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 76
+    "energy": 93.3,
+    "curiosity": 100
   },
   "position": [
-    -19.5,
+    -9.5,
     0,
-    7.5
+    10.5
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.19,
-    "arousal": 1
+    "valence": 0.18,
+    "arousal": 0.92
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-03T12:43:14.695Z",
-    "seed": 1968491638,
-    "reason": "My paws are empty and my stomach is too, but the bowl is empty until morning, so I will sit up high first and then go and read about the seeds that keep bothering me.",
+    "startedAt": "2026-11-03T13:02:53.799Z",
+    "seed": 51844167,
+    "reason": "I will sit up high again and see what has moved while I was asleep.",
     "goalRef": "today:0"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T12:43:14.695Z",
+  "lastTickAt": "2026-11-03T13:03:18.169Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
