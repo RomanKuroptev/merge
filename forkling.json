@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 84.2,
+    "energy": 80.9,
     "curiosity": 100
   },
   "position": [
-    5.5,
+    -13.5,
     0,
-    10.5
+    15.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.18,
-    "arousal": 0.94
+    "valence": -0.47,
+    "arousal": 1
   },
   "intention": {
-    "type": "play",
-    "targetId": "drum",
-    "startedAt": "2026-11-03T15:53:16.263Z",
-    "seed": 1968642552,
-    "reason": "The drum makes a sound when hit, and I would like the island to hear that I am not pleased.",
-    "goalRef": "today:4"
+    "type": "go_to",
+    "targetId": "desk",
+    "startedAt": "2026-11-03T16:03:15.818Z",
+    "seed": 1968643927,
+    "reason": "I am hungry but the bowl is empty until morning, so I will keep to the afternoon I had planned and let the body sort itself out.",
+    "goalRef": "today:0"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T15:53:16.263Z",
+  "lastTickAt": "2026-11-03T16:03:15.818Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

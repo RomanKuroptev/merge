@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-11-03T15:53:16.263Z",
+  "updatedAt": "2026-11-03T16:03:15.818Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T15:53:16.263Z",
+    "at": "2026-11-03T16:03:15.818Z",
     "asleep": false,
-    "summary": "read: read at, step 5/10: play",
-    "think": null,
+    "summary": "thought about need, step 1/9: go_to, new plan",
+    "think": "decide",
     "triggers": [
-      "stepDone"
+      "need"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-03:a6e568c9",
-    "stepsLeft": 5,
+    "planId": "2026-11-03:5f1d1347",
+    "stepsLeft": 8,
     "current": {
-      "index": 4,
-      "verb": "play",
-      "targetId": "drum",
-      "until": "2026-11-03T16:03:16.263Z",
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "desk",
+      "until": "2026-11-03T16:08:15.818Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-03T14:03:19.988Z",
+    "lastReplanAt": "2026-11-03T16:03:15.818Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 67,
-    "decideCalls": 15,
+    "ticks": 68,
+    "decideCalls": 17,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 13,
+      "decide": 15,
       "art": 2
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
       "stepDone": 22,
-      "need": 8
+      "need": 9
     },
     "failures": 0,
     "rejections": 2,
@@ -46,7 +46,7 @@
       "put_on house": 1,
       "go_to bookshelf": 2,
       "read bookshelf": 3,
-      "go_to desk": 2,
+      "go_to desk": 3,
       "draw desk": 2,
       "photograph telescope": 1,
       "watch perch": 3,
@@ -85,23 +85,25 @@
     }
   },
   "needsCritical": {
-    "hunger": 310,
+    "hunger": 320,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "frustrated",
-    "minutes": 30
+    "label": "upset",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.1569419,
+    "monthUsd": 0.16023606,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 310 minutes while awake",
+    "hunger has been under 15 for 320 minutes while awake",
     "started \"read bookshelf\" 3 times today",
-    "started \"watch perch\" 3 times today"
+    "started \"go_to desk\" 3 times today",
+    "started \"watch perch\" 3 times today",
+    "17 decide calls today (more than 15)"
   ]
 }
