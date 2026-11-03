@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 99.8,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 92
   },
   "position": [
-    -3.14,
+    -7.5,
     0,
-    10.78
+    1.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.94,
+    "valence": 0.57,
     "arousal": 1
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-03T11:43:13.922Z",
-    "seed": 1968493125,
+    "startedAt": "2026-11-03T12:02:57.699Z",
+    "seed": 693230398,
     "reason": "Energy is running down, and a patch of sun will sort that out.",
     "goalRef": "today:6"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T11:43:13.922Z",
+  "lastTickAt": "2026-11-03T12:03:14.367Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
