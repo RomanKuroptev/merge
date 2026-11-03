@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-03T11:43:13.922Z",
+  "updatedAt": "2026-11-03T11:53:14.197Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T11:43:13.922Z",
+    "at": "2026-11-03T11:53:14.197Z",
     "asleep": false,
-    "summary": "photograph: made something at, step 7/8: nap, took a photo",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 42,
+    "ticks": 43,
     "decideCalls": 6,
     "callsByKind": {
       "read": 1,
@@ -83,19 +81,21 @@
     }
   },
   "needsCritical": {
-    "hunger": 60,
+    "hunger": 70,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 70
+    "minutes": 80
   },
   "spend": {
-    "monthUsd": 0.14077262,
+    "monthUsd": 0.14141574,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
-  "warnings": []
+  "warnings": [
+    "hunger has been under 15 for 70 minutes while awake"
+  ]
 }
