@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-03T15:13:17.824Z",
+  "updatedAt": "2026-11-03T15:23:17.065Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T15:13:17.824Z",
+    "at": "2026-11-03T15:23:17.065Z",
     "asleep": false,
-    "summary": "step 4/10: read",
-    "think": null,
+    "summary": "thought about need, plan rejected",
+    "think": "decide",
     "triggers": [
-      "stepDone"
+      "need"
     ],
     "callsFailed": 0
   },
@@ -26,22 +26,22 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 63,
-    "decideCalls": 13,
+    "ticks": 64,
+    "decideCalls": 15,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 11,
+      "decide": 13,
       "art": 2
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
       "stepDone": 21,
-      "need": 7
+      "need": 8
     },
     "failures": 0,
-    "rejections": 1,
+    "rejections": 2,
     "stepsStarted": {
       "put_on house": 1,
       "go_to bookshelf": 2,
@@ -84,22 +84,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 270,
+    "hunger": 280,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "curious",
-    "minutes": 70
+    "label": "frustrated",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.15376335,
+    "monthUsd": 0.1569419,
     "capUsd": 10,
     "paceUsd": 1
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 270 minutes while awake",
+    "hunger has been under 15 for 280 minutes while awake",
     "started \"read bookshelf\" 3 times today",
     "started \"watch perch\" 3 times today"
   ]
