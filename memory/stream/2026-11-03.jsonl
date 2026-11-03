@@ -25,3 +25,5 @@
 {"id":"2026-11-03#25","at":"2026-11-03T10:43:17.856Z","kind":"step","text":"Started shape (The workbench): Shaping one piece of clay gives a finished small object, and I intend to keep it where I can see it.","verb":"shape","objectId":"workbench","goalRef":"today:3","beliefRefs":["b4"]}
 {"id":"2026-11-03#26","at":"2026-11-03T10:53:16.649Z","kind":"trigger","text":"hunger is at 11 of 100"}
 {"id":"2026-11-03#27","at":"2026-11-03T10:53:16.649Z","kind":"thought","text":"Hunger is low, but the body eats between steps and the bowl is empty until morning, so I will carry on with the clay and let the food come when it comes."}
+{"id":"2026-11-03#28","at":"2026-11-03T11:23:15.800Z","kind":"made","text":"shape: finished a small clay bowl","verb":"shape","objectId":"a-small-clay-bowl-2"}
+{"id":"2026-11-03#29","at":"2026-11-03T11:23:15.800Z","kind":"step","text":"Started go_to (The lookout rock): The lookout rock is mine, and it should be seen from the sea side too.","verb":"go_to","objectId":"tall-rock","goalRef":"today:4"}

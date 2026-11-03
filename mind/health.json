@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-03T11:13:14.573Z",
+  "updatedAt": "2026-11-03T11:23:15.800Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T11:13:14.573Z",
+    "at": "2026-11-03T11:23:15.800Z",
     "asleep": false,
-    "summary": "",
+    "summary": "shape: finished, step 5/8: go_to",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-03:d15f6b71",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "shape",
-      "targetId": "workbench",
-      "until": "2026-11-03T11:13:17.856Z",
+      "index": 4,
+      "verb": "go_to",
+      "targetId": "tall-rock",
+      "until": "2026-11-03T11:28:15.800Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-03T10:03:18.366Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 39,
+    "ticks": 40,
     "decideCalls": 5,
     "callsByKind": {
       "read": 1,
@@ -35,7 +37,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 10,
+      "stepDone": 11,
       "need": 1
     },
     "failures": 0,
@@ -51,7 +53,8 @@
       "go_to clay-bank": 1,
       "cut clay-bank": 1,
       "go_to workbench": 1,
-      "shape workbench": 1
+      "shape workbench": 1,
+      "go_to tall-rock": 1
     },
     "longestGapMinutes": 10
   },
@@ -78,13 +81,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 30,
+    "hunger": 40,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 40
+    "minutes": 50
   },
   "spend": {
     "monthUsd": 0.1394268,
