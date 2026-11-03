@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-03T07:13:13.656Z",
+  "updatedAt": "2026-11-03T07:23:17.392Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T07:13:13.656Z",
+    "at": "2026-11-03T07:23:17.392Z",
     "asleep": false,
-    "summary": "put_on: put away, step 2/7: go_to",
+    "summary": "step 3/7: read",
     "think": null,
     "triggers": [
       "stepDone"
@@ -14,19 +14,19 @@
   },
   "plan": {
     "planId": "2026-11-03:daae61f7",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 1,
-      "verb": "go_to",
+      "index": 2,
+      "verb": "read",
       "targetId": "bookshelf",
-      "until": "2026-11-03T07:18:13.656Z",
+      "until": "2026-11-03T08:08:17.392Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-03T07:03:26.982Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 15,
+    "ticks": 16,
     "decideCalls": 3,
     "callsByKind": {
       "read": 1,
@@ -36,13 +36,14 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 1,
-      "stepDone": 1
+      "stepDone": 2
     },
     "failures": 0,
     "rejections": 1,
     "stepsStarted": {
       "put_on house": 1,
-      "go_to bookshelf": 1
+      "go_to bookshelf": 1,
+      "read bookshelf": 1
     },
     "longestGapMinutes": 10
   },
@@ -75,7 +76,7 @@
   },
   "mood": {
     "label": "calm",
-    "minutes": 310
+    "minutes": 320
   },
   "spend": {
     "monthUsd": 0.13417553,

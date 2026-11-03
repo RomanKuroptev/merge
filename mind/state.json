@@ -29,14 +29,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T07:03:26.982Z",
+  "appliedStepAt": "2026-11-03T07:13:13.656Z",
   "lastThinkAt": "2026-11-03T07:03:26.982Z",
   "recent": [
-    {
-      "verb": "nap",
-      "targetId": "sunbeam",
-      "at": "2026-11-02T12:13:15.371Z"
-    },
     {
       "verb": "go_to",
       "targetId": "telescope",
@@ -129,6 +124,11 @@
       "verb": "go_to",
       "targetId": "bookshelf",
       "at": "2026-11-03T07:13:13.656Z"
+    },
+    {
+      "verb": "read",
+      "targetId": "bookshelf",
+      "at": "2026-11-03T07:23:17.392Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
