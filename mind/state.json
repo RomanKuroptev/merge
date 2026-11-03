@@ -28,9 +28,9 @@
     "a-small-clay-bowl"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-02",
+  "lastPlanDate": "2026-11-03",
   "appliedStepAt": "2026-11-02T20:43:18.145Z",
-  "lastThinkAt": "2026-11-02T21:23:15.037Z",
+  "lastThinkAt": "2026-11-03T06:03:16.460Z",
   "recent": [
     {
       "verb": "pick_up",
@@ -136,8 +136,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-03",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-03",
@@ -181,6 +181,14 @@
       "reasons": [
         "the plan would make 3 things, but there is room for 2 more today"
       ]
+    },
+    {
+      "at": "2026-11-03T06:03:16.460Z",
+      "reasons": [
+        "step 6 (\"observe\") cannot happen then: it needs dusk",
+        "step 7 (\"zoomies\") cannot happen then: it needs dusk"
+      ]
     }
-  ]
+  ],
+  "replanAfter": "2026-11-03T07:03:16.460Z"
 }
