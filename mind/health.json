@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-03T00:03:29.905Z",
+  "updatedAt": "2026-11-03T01:03:24.974Z",
   "engine": "v0.8.0",
   "date": "2026-11-03",
   "lastTick": {
-    "at": "2026-11-03T00:03:29.905Z",
+    "at": "2026-11-03T01:03:24.974Z",
     "asleep": true,
     "summary": "sync",
     "think": null,
@@ -18,13 +18,13 @@
       "verb": "curl_up",
       "targetId": "bed",
       "until": "2026-11-02T21:48:15.037Z",
-      "overdueMinutes": 135
+      "overdueMinutes": 195
     },
     "lastReplanAt": "2026-11-02T20:43:18.145Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2,
+    "ticks": 3,
     "decideCalls": 0,
     "callsByKind": {},
     "triggersByKind": {},
@@ -61,8 +61,8 @@
     "curiosity": 0
   },
   "mood": {
-    "label": "frustrated",
-    "minutes": 160
+    "label": "uneasy",
+    "minutes": 0
   },
   "spend": {
     "monthUsd": 0.127027,
