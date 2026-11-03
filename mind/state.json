@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T14:03:19.988Z",
-  "lastThinkAt": "2026-11-03T14:03:19.988Z",
+  "appliedStepAt": "2026-11-03T14:13:17.991Z",
+  "lastThinkAt": "2026-11-03T14:43:20.147Z",
   "recent": [
-    {
-      "verb": "put_on",
-      "targetId": "house",
-      "at": "2026-11-03T07:03:26.982Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bookshelf",
@@ -132,6 +127,11 @@
       "verb": "draw",
       "targetId": "desk",
       "at": "2026-11-03T14:13:17.991Z"
+    },
+    {
+      "verb": "watch",
+      "targetId": "perch",
+      "at": "2026-11-03T14:43:20.147Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -144,7 +144,7 @@
   },
   "arts": {
     "date": "2026-11-03",
-    "count": 1
+    "count": 2
   },
   "photos": {
     "date": "2026-11-03",
