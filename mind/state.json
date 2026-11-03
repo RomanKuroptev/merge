@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-03",
-  "appliedStepAt": "2026-11-03T17:03:15.057Z",
-  "lastThinkAt": "2026-11-03T17:13:14.830Z",
+  "appliedStepAt": "2026-11-03T17:33:22.170Z",
+  "lastThinkAt": "2026-11-03T17:43:23.627Z",
   "recent": [
-    {
-      "verb": "cut",
-      "targetId": "clay-bank",
-      "at": "2026-11-03T10:13:17.180Z"
-    },
     {
       "verb": "go_to",
       "targetId": "workbench",
@@ -132,6 +127,11 @@
       "verb": "photograph",
       "targetId": "garden",
       "at": "2026-11-03T17:33:22.170Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-03T17:43:23.627Z"
     }
   ],
   "lastReflectDate": "2026-11-02",
@@ -148,7 +148,7 @@
   },
   "photos": {
     "date": "2026-11-03",
-    "count": 3,
+    "count": 4,
     "queue": []
   },
   "openBuild": null,

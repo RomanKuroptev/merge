@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 88.1,
+    "energy": 84.8,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -4.5,
     0,
-    14.5
+    16.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.52,
-    "arousal": 0.97
+    "valence": -0.5,
+    "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "garden",
-    "startedAt": "2026-11-03T17:33:22.170Z",
-    "seed": 1968636022,
-    "reason": "The garden plot is dirt that wants something planted in it, and I am claiming it on film.",
-    "goalRef": "today:4"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-03T17:43:23.627Z",
+    "seed": 1968637871,
+    "reason": "My energy is running down and the sunbeam is the warmest thing I have found, so I will take it.",
+    "goalRef": "today:5"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-03T17:33:22.170Z",
+  "lastTickAt": "2026-11-03T17:43:23.627Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
