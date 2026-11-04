@@ -1,0 +1,82 @@
+{
+  "id": "a-flowers-plant-2",
+  "kind": "plant",
+  "name": "a flowers plant",
+  "position": [
+    -5.8,
+    0,
+    20.37
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.05,
+          0.3,
+          0.05
+        ],
+        "at": [
+          0,
+          0.15,
+          0
+        ],
+        "color": "#4f7d3a"
+      },
+      {
+        "shape": "sphere",
+        "size": [
+          0.18,
+          0.18,
+          0.18
+        ],
+        "at": [
+          0,
+          0.36,
+          0
+        ],
+        "color": "#e86fa0"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.45,
+    "weightKg": 0.5,
+    "carryable": false,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": true,
+    "high": false,
+    "material": "flowers",
+    "storage": false
+  },
+  "unlocks": [],
+  "grows": {
+    "hours": 48,
+    "gives": "flowers"
+  },
+  "state": {
+    "plantedAt": "2026-11-04T16:03:17.680Z"
+  },
+  "made": {
+    "verb": "plant",
+    "materials": [
+      "flowers"
+    ],
+    "skill": 0,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-04T16:03:17.680Z",
+    "seed": 1968590289
+  },
+  "affordances": [],
+  "reason": "I will put my one stored flower in the garden and see whether anything unknown grows from it, without asking anyone's permission."
+}

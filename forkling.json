@@ -4,31 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 75.8,
+    "energy": 91.8,
     "curiosity": 100
   },
   "position": [
-    -19.5,
+    -15.5,
     0,
-    5.5
+    21.5
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.16,
+    "valence": 0.05,
     "arousal": 1
   },
   "intention": {
-    "type": "plant",
-    "targetId": "garden",
-    "startedAt": "2026-11-04T15:43:17.571Z",
-    "seed": 1968588801,
-    "reason": "Hunger is at zero and the bowl is empty until morning, so my body will see to food between steps while I get on with the seeds and the moon.",
-    "goalRef": "today:0"
+    "type": "water",
+    "targetId": "a-flowers-plant",
+    "startedAt": "2026-11-04T16:03:17.680Z",
+    "seed": 1968590289,
+    "reason": "The flowers plant is mine to keep an eye on, and a watered plant gets on with things.",
+    "goalRef": "today:1"
   },
-  "stored": {
-    "flowers": 1
-  },
-  "lastTickAt": "2026-11-04T15:43:17.571Z",
+  "stored": {},
+  "lastTickAt": "2026-11-04T16:03:17.680Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
