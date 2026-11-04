@@ -29,16 +29,10 @@
     "a-small-clay-bowl-2"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-03",
+  "lastPlanDate": "2026-11-04",
   "appliedStepAt": "2026-11-03T18:43:40.178Z",
-  "lastThinkAt": "2026-11-03T22:03:21.079Z",
-  "replanAfter": "2026-11-03T22:53:19.605Z",
+  "lastThinkAt": "2026-11-04T07:03:15.168Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "tall-rock",
-      "at": "2026-11-03T11:23:15.800Z"
-    },
     {
       "verb": "photograph",
       "targetId": "tall-rock",
@@ -132,6 +126,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-03T18:43:40.178Z"
+    },
+    {
+      "verb": "cut",
+      "targetId": "meadow",
+      "at": "2026-11-04T07:03:15.168Z"
     }
   ],
   "lastReflectDate": "2026-11-03",
@@ -139,8 +138,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-04",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-04",

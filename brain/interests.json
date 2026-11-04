@@ -20,28 +20,40 @@
       ]
     },
     "the moon's colour": {
-      "weight": 0.16,
+      "weight": 0.2,
       "firstSeen": "2026-11-01T07:03:15.325Z",
-      "lastFed": "2026-11-01T07:03:15.325Z",
+      "lastFed": "2026-11-04T07:03:15.168Z",
       "sources": [
         {
           "id": "sky:apod:2026-11-01",
           "title": "NASA Science",
           "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
           "at": "2026-11-01T07:03:15.325Z"
+        },
+        {
+          "id": "sky:moon:2026-11-04",
+          "title": "Tonight's moon: last quarter",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-04T07:03:15.168Z"
         }
       ]
     },
     "long cloud on mars": {
-      "weight": 0.12,
+      "weight": 0.2,
       "firstSeen": "2026-11-02T07:03:15.458Z",
-      "lastFed": "2026-11-02T07:03:15.458Z",
+      "lastFed": "2026-11-04T07:03:15.168Z",
       "sources": [
         {
           "id": "sky:apod:2026-11-02",
           "title": "NASA Science",
           "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
           "at": "2026-11-02T07:03:15.458Z"
+        },
+        {
+          "id": "hn:50360573",
+          "title": "Giant canyon on Mars is still tectonically active",
+          "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+          "at": "2026-11-04T07:03:15.168Z"
         }
       ]
     },

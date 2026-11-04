@@ -6,29 +6,64 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "steps": [
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "a labnote on the moon's colour",
-        "reason": "It is dusk and the telescope is mine, so I will look at the moon's colour through it before anyone else does.",
-        "topic": "the moon's colour",
-        "because": [
-          "b1"
+        "verb": "cut",
+        "targetId": "meadow",
+        "reason": "I will take flowers from the meadow without asking, which is how I like to get things.",
+        "minutes": 10
+      },
+      {
+        "verb": "plant",
+        "targetId": "garden",
+        "materials": [
+          "flowers"
         ],
+        "reason": "I will plant the flowers in the garden to see whether anything unknown grows from them.",
+        "minutes": 15
+      },
+      {
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without anyone's permission are worth reading about, and I am not yet done with them.",
+        "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
-        "verb": "zoomies",
-        "position": [
-          -10,
-          18
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Reading has tired me, and a patch of sun is the correct place to recover.",
+        "minutes": 60
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "I will take one piece of the clay bank's wet orange clay, since clay is good and I mean to keep something made from it.",
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
         ],
-        "reason": "The moon has been looked at enough for one evening, so I will run it off across the island.",
-        "minutes": 15
+        "makes": "a small clay bowl",
+        "reason": "At the workbench one piece of clay can become a small bowl worth keeping where I can see it.",
+        "minutes": 30
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "From a high place I can see everything that has not yet been claimed by me.",
+        "minutes": 20
       }
     ],
-    "reason": "The bowl is empty until morning and it is dusk, so the only things I can do now are the telescope and zoomies."
+    "reason": "The day is for flowers, seeds and clay, with a long nap in the sun and a high place to watch from, all of it on my own terms."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-04T07:03:15.168Z",
+    "until": "2026-11-04T07:13:15.168Z"
   }
 }
