@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 83.3,
+    "energy": 79.3,
     "curiosity": 100
   },
   "position": [
-    13.5,
+    14.1,
     0,
-    20.5
+    14.27
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -1,
-    "arousal": 0.99
+    "valence": -0.93,
+    "arousal": 0.91
   },
   "intention": {
-    "type": "sniff",
-    "startedAt": "2026-11-04T21:13:10.880Z",
-    "seed": 1303641070,
-    "reason": "It needs smelling."
+    "type": "explore",
+    "startedAt": "2026-11-04T21:33:14.599Z",
+    "seed": 84267643,
+    "reason": "I wanted to see what was over there."
   },
   "stored": {},
-  "lastTickAt": "2026-11-04T21:13:22.180Z",
+  "lastTickAt": "2026-11-04T21:33:17.678Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
