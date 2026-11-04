@@ -4,28 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 86.7,
-    "curiosity": 100
+    "energy": 39.2,
+    "curiosity": 99.6
   },
   "position": [
-    -14.5,
+    -6.5,
     0,
-    18.5
+    19.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.5,
-    "arousal": 1
+    "valence": -0.48,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-04T18:53:20.880Z",
-    "seed": 1968596404,
-    "reason": "The restlessness needs running off before I settle, and I will do it where I can see the telescope.",
-    "goalRef": "today:1"
+    "type": "curl_up",
+    "startedAt": "2026-11-04T19:02:17.199Z",
+    "seed": 151751827,
+    "reason": "Something soft was right there, and I was tired."
   },
   "stored": {},
-  "lastTickAt": "2026-11-04T18:53:20.880Z",
+  "lastTickAt": "2026-11-04T19:03:17.791Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
