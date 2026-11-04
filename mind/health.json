@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-04T14:33:16.952Z",
+  "updatedAt": "2026-11-04T14:43:16.840Z",
   "engine": "v0.8.0",
   "date": "2026-11-04",
   "lastTick": {
-    "at": "2026-11-04T14:33:16.952Z",
+    "at": "2026-11-04T14:43:16.840Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
-    "triggers": [
-      "need"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 50,
+    "ticks": 51,
     "decideCalls": 7,
     "callsByKind": {
       "memory": 1,
@@ -82,13 +80,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 110,
+    "hunger": 120,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 40
+    "minutes": 50
   },
   "spend": {
     "monthUsd": 0.23296469,
@@ -97,7 +95,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 110 minutes while awake",
+    "hunger has been under 15 for 120 minutes while awake",
     "started \"read bookshelf\" 3 times today"
   ]
 }
