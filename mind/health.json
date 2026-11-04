@@ -1,46 +1,51 @@
 {
-  "updatedAt": "2026-11-04T10:23:14.867Z",
+  "updatedAt": "2026-11-04T10:33:35.460Z",
   "engine": "v0.8.0",
   "date": "2026-11-04",
   "lastTick": {
-    "at": "2026-11-04T10:23:14.867Z",
+    "at": "2026-11-04T10:33:35.460Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/7: read, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-04:fedd6101",
-    "stepsLeft": 0,
+    "planId": "2026-11-04:359ffe10",
+    "stepsLeft": 6,
     "current": {
-      "index": 6,
-      "verb": "watch",
-      "targetId": "perch",
-      "until": "2026-11-04T10:33:15.288Z",
+      "index": 0,
+      "verb": "read",
+      "targetId": "bookshelf",
+      "until": "2026-11-04T11:03:35.460Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-04T07:03:15.168Z",
+    "lastReplanAt": "2026-11-04T10:33:35.460Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 27,
-    "decideCalls": 1,
+    "ticks": 28,
+    "decideCalls": 2,
     "callsByKind": {
       "memory": 1,
       "read": 1,
-      "morning": 1
+      "morning": 1,
+      "decide": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 6
+      "stepDone": 7,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
     "stepsStarted": {
       "cut meadow": 1,
       "plant garden": 1,
-      "read bookshelf": 1,
+      "read bookshelf": 2,
       "nap sunbeam": 1,
       "cut clay-bank": 1,
       "shape workbench": 1,
@@ -77,10 +82,10 @@
   },
   "mood": {
     "label": "delighted",
-    "minutes": 10
+    "minutes": 20
   },
   "spend": {
-    "monthUsd": 0.22058529,
+    "monthUsd": 0.22217092,
     "capUsd": 10,
     "paceUsd": 1.3333333333333333
   },
