@@ -3,25 +3,25 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 24.5,
-    "energy": 75.6,
-    "curiosity": 100
+    "hunger": 20.5,
+    "energy": 72.3,
+    "curiosity": 96
   },
   "position": [
-    4.23,
+    -6.5,
     0,
-    15.83
+    12.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 0.87
+    "valence": 0.96,
+    "arousal": 0.84
   },
   "intention": {
     "type": "shape",
     "targetId": "workbench",
-    "startedAt": "2026-11-04T12:23:19.629Z",
-    "seed": 1968584995,
+    "startedAt": "2026-11-04T12:33:15.699Z",
+    "seed": 1613846350,
     "reason": "One piece of clay becomes a finished bowl at the workbench, and I keep what is mine.",
     "goalRef": "today:4"
   },
@@ -31,7 +31,7 @@
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-04T12:23:19.629Z",
+  "lastTickAt": "2026-11-04T12:33:21.701Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
