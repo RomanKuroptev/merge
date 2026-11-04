@@ -67,3 +67,6 @@
 {"id":"2026-11-04#67","at":"2026-11-04T17:13:16.655Z","kind":"step","text":"draw: made something at The desk","verb":"draw","objectId":"desk"}
 {"id":"2026-11-04#68","at":"2026-11-04T17:13:16.655Z","kind":"step","text":"Started nap (sunbeam): Thinking is tiring, and a patch of sun is the correct place to recover from it.","verb":"nap","goalRef":"today:4"}
 {"id":"2026-11-04#69","at":"2026-11-04T17:13:16.655Z","kind":"made","text":"Made a drawing: \"The Moon, Undecided, Kept on the Desk\"","verb":"draw","goalRef":"today:3"}
+{"id":"2026-11-04#70","at":"2026-11-04T17:43:18.348Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-04#71","at":"2026-11-04T17:43:18.348Z","kind":"thought","text":"My bowl is empty and my hunger is at zero, so I will eat from the berry bush before anything else, then look at the sky at dusk."}
+{"id":"2026-11-04#72","at":"2026-11-04T17:43:18.348Z","kind":"rejected","text":"A plan was turned down: step 1 (\"eat\"): eat cannot be done with \"berry-bush\": eat works on something else (try: bowl)"}

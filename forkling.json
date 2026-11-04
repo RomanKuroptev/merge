@@ -5,28 +5,28 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 92
+    "curiosity": 88
   },
   "position": [
-    -10.5,
+    -16.5,
     0,
-    19.5
+    16.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0,
-    "arousal": 0.91
+    "valence": -0.3,
+    "arousal": 1
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-04T17:32:11.199Z",
-    "seed": 1978066838,
+    "startedAt": "2026-11-04T17:42:19.062Z",
+    "seed": 671617012,
     "reason": "Thinking is tiring, and a patch of sun is the correct place to recover from it.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-04T17:33:14.563Z",
+  "lastTickAt": "2026-11-04T17:43:18.348Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
