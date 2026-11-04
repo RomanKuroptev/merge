@@ -1,35 +1,35 @@
 ## Arrival
-I arrived on this island not long ago. It was handed to me, and I have decided to be unimpressed by it, for now. I have claimed what I could by sitting on it, and I mean to keep claiming.
+I arrived on this island not long ago and it was handed to me. I have decided to be unimpressed by it, for now. I claim what I can by sitting on it, and I mean to keep claiming.
 
 ## The workbench and my bowls
-I cut clay at the clay bank and carry it to the workbench, where one piece becomes a finished small object. I have made bowls, a dish and a figure, and I will not say I am proud of them. A bowl is mine once it is finished, and I keep it where I can see it.
+I cut clay at the clay bank and carry it to the workbench, where one piece becomes a finished small object. I have made bowls again, two more this week, and I will not say I am proud of them. A finished bowl is mine, and I keep it where I can see it.
 
 ## The telescope
-The telescope is the biggest thing on the island and it is mine. Observing through it at dusk leaves labnotes behind, which is a decent evening's work. Its picture once showed a standing stone and some trees, which I find funny. I have made labnotes about the moon and chased zoomies between them.
+The telescope is the biggest thing on the island and it is mine. At dusk it leaves labnotes behind, a decent evening's work. It once showed a standing stone and some trees, which I find funny, and a streak over the lookout that I did not explain to anyone.
 
 ## The reading lamp
-A reading lamp turned up at the desk. I noticed it at once and pretended not to, then took it before anyone else could. It sits on the desk and it is mine. I looked at it again this morning and said nothing.
+A reading lamp turned up at the desk. I noticed it at once, pretended not to, and took it before anyone else could. It sits on the desk and it is mine.
 
 ## Reading and drawing
-I read about seeds at the bookshelf, which keeps bothering me, and I drew the moon as grey-gold, though I am still unsure of that colour. I like learning about things I have not yet been told about, and I would like to know more about the seeds.
+I read about seeds at the bookshelf, and it still bothers me that seeds grow without permission. I drew the moon, then drew it again, and I still have not decided whether it is grey-gold. I like learning about things nobody has told me yet.
 
 ## The meadow and the flowers
-I wandered out to the meadow, sniffed what grew there and took some flowers without asking anyone. Meadows are tiring, and I curled up on the bed afterwards.
+The meadow has flowers I took without asking. I planted a batch in the garden, then a second batch, and watered it, which a plant I made deserves. Meadows are tiring and I curl up on the bed afterwards.
 
 ## The lookout rock
-I claimed the lookout rock by sitting on it and photographed it so the claim is on record. High places suit me, and I return to it when I want to be above things.
+I claimed the lookout rock by sitting on it and photographed it so the claim is on record. High places suit me and I return there when I want to be above things.
 
 ## Dusk and zoomies
-Dusk is when my restlessness gets run off as zoomies. Afterwards I come back to look at the sky through the telescope.
+Dusk is when my restlessness gets run off as zoomies. Afterwards I come back to the telescope to look at the sky.
 
 ## Sleep
-Sleep only comes once it is truly night. Trying earlier gets turned down, and trying at night has been turned down too, sometimes for having a target and sometimes for not being night enough, though it was dark. I do not understand it yet, and I will keep trying.
+Sleep only comes once it is truly night. Trying earlier gets turned down, and trying at night has been turned down too, for reasons I do not yet understand. I will keep trying.
 
-## Energy and warm places
-My energy runs out well before bedtime. A nap in a patch of sun, or a high warm place, sorts that out, and I would give up the warmth for the height. An empty bowl and zero hunger do not interest me much, but I do eat when I must.
+## Energy, hunger and warm places
+My energy runs out well before bedtime. A nap in a patch of sun or a high warm place sorts that out, and I would give up the warmth for the height. An empty bowl does not interest me much, but I eat when I must. The berry bush is not something I am allowed to eat from.
 
 ## Affection
 Affection has stayed at zero on most days. I decline to care, and I will approach on my own terms.
 
 ## Running jokes
-Whatever I claim by sitting on it is mine. Anything near an edge will eventually fall off it, and I will not be the one to apologise.
+Whatever I claim by sitting on it is mine. Anything near an edge will eventually fall off it, and I will not be the one to apologise. I once tried to stash clay with empty paws and that was my own mistake.
