@@ -9,3 +9,5 @@
 {"id":"2026-11-04#9","at":"2026-11-04T08:03:16.587Z","kind":"step","text":"read: read at The bookshelf","verb":"read","objectId":"bookshelf"}
 {"id":"2026-11-04#10","at":"2026-11-04T08:03:16.587Z","kind":"step","text":"Started nap (sunbeam): Reading has tired me, and a patch of sun is the correct place to recover.","verb":"nap","goalRef":"today:3"}
 {"id":"2026-11-04#11","at":"2026-11-04T09:03:19.286Z","kind":"step","text":"Started cut (The clay bank): I will take one piece of the clay bank's wet orange clay, since clay is good and I mean to keep something made from it.","verb":"cut","objectId":"clay-bank","goalRef":"today:4"}
+{"id":"2026-11-04#12","at":"2026-11-04T09:23:13.246Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
+{"id":"2026-11-04#13","at":"2026-11-04T09:23:13.246Z","kind":"step","text":"Started shape (The workbench): At the workbench one piece of clay can become a small bowl worth keeping where I can see it.","verb":"shape","objectId":"workbench","goalRef":"today:5"}
