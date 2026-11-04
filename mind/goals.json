@@ -9,29 +9,26 @@
     "date": "2026-11-04",
     "steps": [
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "labnotes about meteors and comets",
-        "reason": "It is dusk, the telescope is mine, and the sky is worth keeping a note of.",
-        "topic": "meteors and comets",
-        "minutes": 30
-      },
-      {
         "verb": "zoomies",
         "position": [
           -12,
           18
         ],
-        "reason": "The restlessness needs running off before I settle, and I will do it where I can see the telescope.",
+        "reason": "The restlessness needs running off before I settle, and dusk is the only time for it.",
         "minutes": 15
+      },
+      {
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "Something soft is there, and I have earned it after all that running.",
+        "minutes": 60
       }
     ],
-    "reason": "Hunger cannot be met until the bowl is filled in the morning, and dusk is the time for the telescope and zoomies rather than naps and drawing."
+    "reason": "The day's making is used up, so I will keep to running and resting."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-04T18:53:20.880Z",
-    "until": "2026-11-04T19:08:20.880Z",
-    "workedSec": 441.3
+    "index": 0,
+    "startedAt": "2026-11-04T19:13:13.273Z",
+    "until": "2026-11-04T19:28:13.273Z"
   }
 }

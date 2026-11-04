@@ -34,15 +34,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-04",
-  "appliedStepAt": "2026-11-04T18:23:15.539Z",
-  "lastThinkAt": "2026-11-04T18:53:20.880Z",
+  "appliedStepAt": "2026-11-04T18:53:20.880Z",
+  "lastThinkAt": "2026-11-04T19:13:13.273Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "watch",
-      "targetId": "perch",
-      "at": "2026-11-04T10:13:15.288Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -136,6 +131,10 @@
     {
       "verb": "zoomies",
       "at": "2026-11-04T18:53:20.880Z"
+    },
+    {
+      "verb": "zoomies",
+      "at": "2026-11-04T19:13:13.273Z"
     }
   ],
   "lastReflectDate": "2026-11-03",
@@ -157,20 +156,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-04T18:58:08.279Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-04T19:02:17.199Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-11-02T13:23:14.177Z",
