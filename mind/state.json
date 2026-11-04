@@ -34,15 +34,11 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-04",
-  "appliedStepAt": "2026-11-04T16:03:17.680Z",
-  "lastThinkAt": "2026-11-04T16:13:18.226Z",
+  "appliedStepAt": "2026-11-04T16:13:18.226Z",
+  "lastThinkAt": "2026-11-04T16:43:19.233Z",
+  "replanAfter": "2026-11-04T17:13:18.226Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "plant",
-      "targetId": "garden",
-      "at": "2026-11-04T07:13:21.781Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -137,6 +133,11 @@
       "verb": "study",
       "targetId": "bookshelf",
       "at": "2026-11-04T16:13:18.226Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-04T16:43:19.233Z"
     }
   ],
   "lastReflectDate": "2026-11-03",
@@ -222,6 +223,5 @@
         "step 1: The bowl is empty"
       ]
     }
-  ],
-  "replanAfter": "2026-11-04T17:13:18.226Z"
+  ]
 }
