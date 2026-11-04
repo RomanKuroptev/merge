@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-04T22:03:16.555Z",
+  "updatedAt": "2026-11-04T22:13:15.175Z",
   "engine": "v0.8.0",
   "date": "2026-11-04",
   "lastTick": {
-    "at": "2026-11-04T22:03:16.555Z",
+    "at": "2026-11-04T22:13:15.175Z",
     "asleep": false,
-    "summary": "wrote the journal, 2 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "bedtime"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -17,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-04T19:13:13.273Z",
-    "idleMinutes": 100
+    "idleMinutes": 110
   },
   "today": {
-    "ticks": 96,
+    "ticks": 97,
     "decideCalls": 24,
     "callsByKind": {
       "memory": 1,
@@ -83,13 +81,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 560,
+    "hunger": 570,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 220
+    "minutes": 230
   },
   "spend": {
     "monthUsd": 0.29174807,
@@ -98,8 +96,8 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 560 minutes while awake",
-    "no step in progress for 100 minutes while awake",
+    "hunger has been under 15 for 570 minutes while awake",
+    "no step in progress for 110 minutes while awake",
     "started \"read bookshelf\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
     "started \"watch perch\" 3 times today",
