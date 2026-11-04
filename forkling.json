@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 76
+    "energy": 96.7,
+    "curiosity": 100
   },
   "position": [
-    -28.5,
+    -9.5,
     0,
-    10.5
+    20.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.27,
-    "arousal": 0.89
+    "valence": -0.56,
+    "arousal": 1
   },
   "intention": {
-    "type": "watch",
-    "targetId": "perch",
-    "startedAt": "2026-11-04T18:13:17.298Z",
-    "seed": 1968598825,
-    "reason": "From a high place I can see everything that has not yet been claimed by me.",
-    "goalRef": "today:5"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-11-04T18:23:15.539Z",
+    "seed": 1968595591,
+    "reason": "The bowl is empty until morning, so hunger can wait, and it is dusk now, which suits the telescope.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-04T18:13:17.298Z",
+  "lastTickAt": "2026-11-04T18:23:15.539Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
