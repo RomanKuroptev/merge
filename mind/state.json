@@ -28,18 +28,14 @@
     "a-small-clay-bowl",
     "a-small-clay-bowl-2",
     "a-flowers-plant",
-    "a-small-clay-bowl-3"
+    "a-small-clay-bowl-3",
+    "a-small-clay-bowl-4"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-04",
-  "appliedStepAt": "2026-11-04T12:03:18.135Z",
-  "lastThinkAt": "2026-11-04T11:43:19.042Z",
+  "appliedStepAt": "2026-11-04T12:23:19.629Z",
+  "lastThinkAt": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "desk",
-      "at": "2026-11-03T16:03:15.818Z"
-    },
     {
       "verb": "draw",
       "targetId": "desk",
@@ -133,6 +129,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-04T12:23:19.629Z"
+    },
+    {
+      "verb": "put_on",
+      "targetId": "house",
+      "at": "2026-11-04T12:53:13.926Z"
     }
   ],
   "lastReflectDate": "2026-11-03",

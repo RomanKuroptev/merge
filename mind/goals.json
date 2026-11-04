@@ -9,54 +9,41 @@
     "date": "2026-11-04",
     "steps": [
       {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "Unknown seeds that grow without permission keep bothering me, and I want to know more than I have been told.",
-        "topic": "unknown seeds that grow",
+        "verb": "put_on",
+        "targetId": "house",
+        "materials": [
+          "clay"
+        ],
+        "reason": "I will keep my clay at home where I can see it, not carry it about like a fool.",
         "because": [
           "b2"
         ],
+        "minutes": 5
+      },
+      {
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "Unknown seeds that grow without permission still bother me, and I want to know more than I have been told.",
+        "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
         "verb": "draw",
         "targetId": "desk",
-        "reason": "I will draw the moon in the colour I am still unsure of, and keep the drawing where I can see it.",
+        "reason": "I will draw the moon in the colour I am still unsure of, and keep it where I can see it.",
         "topic": "the moon's colour",
         "minutes": 20
       },
       {
         "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, and a picture of it on record makes the claim stick.",
+        "targetId": "tall-rock",
+        "reason": "The lookout rock is mine, and a picture on record makes the claim stick.",
         "minutes": 10
-      },
-      {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "Clay is good and I mean to keep something made from it, so I will take one more piece.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 10
-      },
-      {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "a small clay bowl",
-        "reason": "One piece of clay becomes a finished bowl at the workbench, and I keep what is mine.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 30
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "Making things is tiring, and a patch of sun is the correct place to recover.",
+        "reason": "Thinking is tiring, and a patch of sun is the correct place to recover.",
         "minutes": 60
       },
       {
@@ -66,12 +53,11 @@
         "minutes": 20
       }
     ],
-    "reason": "The earlier plan is done, so I will read, draw and make one more bowl before a nap and a high watch, all on my own terms."
+    "reason": "The earlier plan used a bowl that is empty and a dine that cannot work on it, so I am starting again with what I can actually do."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-04T12:23:19.629Z",
-    "until": "2026-11-04T12:53:19.629Z",
-    "workedSec": 602
+    "index": 0,
+    "startedAt": "2026-11-04T12:53:13.926Z",
+    "until": "2026-11-04T12:58:13.926Z"
   }
 }
