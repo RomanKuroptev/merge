@@ -30,14 +30,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-04",
-  "appliedStepAt": "2026-11-03T18:43:40.178Z",
+  "appliedStepAt": "2026-11-04T07:03:15.168Z",
   "lastThinkAt": "2026-11-04T07:03:15.168Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "tall-rock",
-      "at": "2026-11-03T11:29:17.983Z"
-    },
     {
       "verb": "nap",
       "targetId": "sunbeam",
@@ -131,6 +126,11 @@
       "verb": "cut",
       "targetId": "meadow",
       "at": "2026-11-04T07:03:15.168Z"
+    },
+    {
+      "verb": "plant",
+      "targetId": "garden",
+      "at": "2026-11-04T07:13:21.781Z"
     }
   ],
   "lastReflectDate": "2026-11-03",
@@ -152,7 +152,14 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "cut",
+      "verb": "eat",
+      "need": "hunger",
+      "at": "2026-11-04T07:03:23.467Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-10-31T20:53:17.358Z",
