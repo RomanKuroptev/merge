@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 74.2,
+    "hunger": 62.2,
     "energy": 100,
-    "curiosity": 88
+    "curiosity": 76
   },
   "position": [
-    -16.5,
+    -25.5,
     0,
-    4.5
+    -1.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.23,
-    "arousal": 0.46
+    "valence": 0.2,
+    "arousal": 0.43
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-04T08:32:38.099Z",
-    "seed": 183062170,
-    "reason": "Reading has tired me, and a patch of sun is the correct place to recover.",
-    "goalRef": "today:3"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-04T09:03:19.286Z",
+    "seed": 1968696899,
+    "reason": "I will take one piece of the clay bank's wet orange clay, since clay is good and I mean to keep something made from it.",
+    "goalRef": "today:4"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-04T08:33:13.970Z",
+  "lastTickAt": "2026-11-04T09:03:19.286Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
