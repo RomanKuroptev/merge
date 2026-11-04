@@ -1,42 +1,39 @@
 {
-  "updatedAt": "2026-11-04T20:23:16.215Z",
+  "updatedAt": "2026-11-04T20:33:19.618Z",
   "engine": "v0.8.0",
   "date": "2026-11-04",
   "lastTick": {
-    "at": "2026-11-04T20:23:16.215Z",
+    "at": "2026-11-04T20:33:19.618Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-04:227c5b8f",
     "stepsLeft": 0,
-    "current": {
-      "index": 1,
-      "verb": "curl_up",
-      "targetId": "bed",
-      "until": "2026-11-04T20:33:16.365Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-04T19:13:13.273Z",
-    "idleMinutes": 0
+    "idleMinutes": 10
   },
   "today": {
-    "ticks": 86,
-    "decideCalls": 20,
+    "ticks": 87,
+    "decideCalls": 21,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "decide": 19,
+      "decide": 20,
       "art": 4
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 25,
-      "replan": 3,
+      "stepDone": 26,
+      "replan": 4,
       "need": 12,
       "blocked": 1
     },
@@ -85,26 +82,26 @@
     }
   },
   "needsCritical": {
-    "hunger": 460,
+    "hunger": 470,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 120
+    "minutes": 130
   },
   "spend": {
-    "monthUsd": 0.25424906,
+    "monthUsd": 0.25564509,
     "capUsd": 10,
     "paceUsd": 1.3333333333333333
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 460 minutes while awake",
+    "hunger has been under 15 for 470 minutes while awake",
     "started \"read bookshelf\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
     "started \"watch perch\" 3 times today",
     "started \"draw desk\" 3 times today",
-    "20 decide calls today (more than 15)"
+    "21 decide calls today (more than 15)"
   ]
 }
