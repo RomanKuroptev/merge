@@ -30,3 +30,7 @@
 {"id":"2026-11-04#30","at":"2026-11-04T12:53:13.926Z","kind":"thought","text":"I am hungry, but the bowl is empty and eating is the body's business, so I will stash my clay and carry on with my own afternoon."}
 {"id":"2026-11-04#31","at":"2026-11-04T12:53:13.926Z","kind":"made","text":"shape: finished a small clay bowl","verb":"shape","objectId":"a-small-clay-bowl-4"}
 {"id":"2026-11-04#32","at":"2026-11-04T12:53:13.926Z","kind":"step","text":"Started put_on (The house): I am hungry, but the bowl is empty and eating is the body's business, so I will stash my clay and carry on with my own afternoon.","verb":"put_on","objectId":"house","goalRef":"today:0","beliefRefs":["b2"]}
+{"id":"2026-11-04#33","at":"2026-11-04T13:03:15.146Z","kind":"event","text":"put_on did not work out: put_on needs something in its paws, but its paws are empty","verb":"put_on"}
+{"id":"2026-11-04#34","at":"2026-11-04T13:03:15.146Z","kind":"trigger","text":"put_on did not work out: put_on needs something in its paws, but its paws are empty"}
+{"id":"2026-11-04#35","at":"2026-11-04T13:03:15.146Z","kind":"thought","text":"My paws were empty and the clay is already shaped, so the stash was never going to work; I will get on with my afternoon instead."}
+{"id":"2026-11-04#36","at":"2026-11-04T13:03:15.146Z","kind":"step","text":"Started read (The bookshelf): My paws were empty and the clay is already shaped, so the stash was never going to work; I will get on with my afternoon instead.","verb":"read","objectId":"bookshelf","goalRef":"today:0"}

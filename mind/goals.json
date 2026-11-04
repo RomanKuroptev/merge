@@ -9,18 +9,6 @@
     "date": "2026-11-04",
     "steps": [
       {
-        "verb": "put_on",
-        "targetId": "house",
-        "materials": [
-          "clay"
-        ],
-        "reason": "I will keep my clay at home where I can see it, not carry it about like a fool.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 5
-      },
-      {
         "verb": "read",
         "targetId": "bookshelf",
         "reason": "Unknown seeds that grow without permission still bother me, and I want to know more than I have been told.",
@@ -53,11 +41,11 @@
         "minutes": 20
       }
     ],
-    "reason": "The earlier plan used a bowl that is empty and a dine that cannot work on it, so I am starting again with what I can actually do."
+    "reason": "The stash step cannot work with empty paws and the clay is already shaped, so I am dropping it and keeping to the reading, drawing, photographing, napping and watching."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-04T12:53:13.926Z",
-    "until": "2026-11-04T12:58:13.926Z"
+    "startedAt": "2026-11-04T13:03:15.146Z",
+    "until": "2026-11-04T13:33:15.146Z"
   }
 }
