@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 88
+    "curiosity": 84
   },
   "position": [
     -14.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.66,
-    "arousal": 0.92
+    "valence": -0.94,
+    "arousal": 1
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-04T20:02:20.599Z",
-    "seed": 547069031,
+    "startedAt": "2026-11-04T20:13:08.633Z",
+    "seed": 1072780053,
     "reason": "Something soft is there, and I have earned it after all that running.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-04T20:03:18.334Z",
+  "lastTickAt": "2026-11-04T20:13:17.624Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
