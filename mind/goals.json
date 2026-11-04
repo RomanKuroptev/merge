@@ -9,29 +9,39 @@
     "date": "2026-11-04",
     "steps": [
       {
-        "verb": "read",
+        "verb": "plant",
+        "targetId": "garden",
+        "materials": [
+          "flowers"
+        ],
+        "reason": "I will put my one stored flower in the garden and see whether anything unknown grows from it, without asking anyone's permission.",
+        "minutes": 15
+      },
+      {
+        "verb": "water",
+        "targetId": "a-flowers-plant",
+        "reason": "The flowers plant is mine to keep an eye on, and a watered plant gets on with things.",
+        "minutes": 10
+      },
+      {
+        "verb": "study",
         "targetId": "bookshelf",
-        "reason": "Unknown seeds that grow without permission still bother me, and I want to know more than I have been told.",
+        "reason": "Unknown seeds that grow on their own still bother me, and I intend to learn more about them than the first page told me.",
         "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
         "verb": "draw",
         "targetId": "desk",
-        "reason": "I will draw the moon in the colour I am still unsure of, and keep it where I can see it.",
+        "makes": "drawing of the moon",
+        "reason": "I will draw the moon in the colour I am still unsure of, and keep it on the desk where it is mine.",
         "topic": "the moon's colour",
         "minutes": 20
       },
       {
-        "verb": "photograph",
-        "targetId": "tall-rock",
-        "reason": "The lookout rock is mine, and a picture on record makes the claim stick.",
-        "minutes": 10
-      },
-      {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "Thinking is tiring, and a patch of sun is the correct place to recover.",
+        "reason": "Thinking is tiring, and a patch of sun is the correct place to recover from it.",
         "minutes": 60
       },
       {
@@ -41,12 +51,11 @@
         "minutes": 20
       }
     ],
-    "reason": "The stash step cannot work with empty paws and the clay is already shaped, so I am dropping it and keeping to the reading, drawing, photographing, napping and watching."
+    "reason": "Hunger has nothing to eat until the bowl is filled, so I am spending the afternoon on the seeds, the moon and a nap, and I will plant my flower to test the seeds question."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-04T15:23:17.376Z",
-    "until": "2026-11-04T15:43:17.376Z",
-    "workedSec": 599.7
+    "index": 0,
+    "startedAt": "2026-11-04T15:43:17.571Z",
+    "until": "2026-11-04T15:58:17.571Z"
   }
 }

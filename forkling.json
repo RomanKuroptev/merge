@@ -4,31 +4,31 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 79.1,
+    "energy": 75.8,
     "curiosity": 100
   },
   "position": [
-    -9.5,
+    -19.5,
     0,
-    20.5
+    5.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0.15,
-    "arousal": 0.92
+    "valence": -0.16,
+    "arousal": 1
   },
   "intention": {
-    "type": "watch",
-    "targetId": "perch",
-    "startedAt": "2026-11-04T15:32:12.499Z",
-    "seed": 594864760,
-    "reason": "From a high place I can see everything that has not yet been claimed by me.",
-    "goalRef": "today:4"
+    "type": "plant",
+    "targetId": "garden",
+    "startedAt": "2026-11-04T15:43:17.571Z",
+    "seed": 1968588801,
+    "reason": "Hunger is at zero and the bowl is empty until morning, so my body will see to food between steps while I get on with the seeds and the moon.",
+    "goalRef": "today:0"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-04T15:33:17.103Z",
+  "lastTickAt": "2026-11-04T15:43:17.571Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
