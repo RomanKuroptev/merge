@@ -11,10 +11,12 @@
       "2026-11-02#53",
       "2026-11-02#65",
       "2026-11-03#89",
-      "2026-11-03#91"
+      "2026-11-03#91",
+      "2026-11-04#77",
+      "2026-11-04#79"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
-    "revisedAt": "2026-11-03T22:03:21.079Z",
+    "revisedAt": "2026-11-04T22:03:16.555Z",
     "status": "active",
     "history": [
       {
@@ -34,6 +36,12 @@
         "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
         "confidence": 0.9,
         "why": "The telescope at dusk gave another labnote."
+      },
+      {
+        "at": "2026-11-04T22:03:16.555Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "The telescope gave another labnote at dusk."
       }
     ]
   },
@@ -96,10 +104,12 @@
       "2026-11-01#56",
       "2026-11-02#9",
       "2026-11-03#25",
-      "2026-11-03#28"
+      "2026-11-03#28",
+      "2026-11-04#14",
+      "2026-11-04#31"
     ],
     "formedAt": "2026-11-01T21:53:17.368Z",
-    "revisedAt": "2026-11-03T22:03:21.079Z",
+    "revisedAt": "2026-11-04T22:03:16.555Z",
     "status": "active",
     "history": [
       {
@@ -113,6 +123,12 @@
         "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
         "confidence": 0.85,
         "why": "One piece of clay became a finished bowl again."
+      },
+      {
+        "at": "2026-11-04T22:03:16.555Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Two more pieces of clay became finished bowls."
       }
     ]
   }
