@@ -3,32 +3,32 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 98.2,
-    "energy": 97.3,
+    "hunger": 86.2,
+    "energy": 87.3,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -18.5,
     0,
-    18.5
+    14.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.18,
-    "arousal": 0.47
+    "valence": 0.26,
+    "arousal": 0.49
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-04T07:33:14.246Z",
-    "seed": 1968686382,
-    "reason": "Seeds that grow without anyone's permission are worth reading about, and I am not yet done with them.",
-    "goalRef": "today:2"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-04T08:03:16.587Z",
+    "seed": 1968700496,
+    "reason": "Reading has tired me, and a patch of sun is the correct place to recover.",
+    "goalRef": "today:3"
   },
   "stored": {
     "flowers": 1
   },
-  "lastTickAt": "2026-11-04T07:33:14.246Z",
+  "lastTickAt": "2026-11-04T08:03:16.587Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
