@@ -10,42 +10,27 @@
     "steps": [
       {
         "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "Something about unknown seeds is still bothering me, and the bookshelf is where that gets answered.",
-        "minutes": 10
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "Seeds grow without permission and I want to know how they manage it.",
-        "topic": "unknown seeds that grow",
-        "minutes": 25
-      },
-      {
-        "verb": "photograph",
         "targetId": "telescope",
-        "reason": "The telescope is mine, and a picture of it keeps the claim on record.",
-        "minutes": 15
+        "reason": "The telescope is mine and dusk is close, so I will go and sit by it before anyone else thinks of it.",
+        "minutes": 7
       },
       {
-        "verb": "go_to",
-        "targetId": "tall-rock",
-        "reason": "Being above things settles me better than anything else on this island.",
-        "minutes": 10
-      },
-      {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "From up here I can see who is coming up the beach, and I can pretend I was not looking for them.",
-        "minutes": 20
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "labnotes on the moon",
+        "reason": "The moon is only a thin crescent tonight, but I will stare at it through my telescope anyway and keep notes.",
+        "topic": "the moon's colour",
+        "because": [
+          "b1"
+        ],
+        "minutes": 30
       }
     ],
-    "reason": "The bowl is empty and the bookshelf and the telescope are where my curiosity is pulling me, so I will read, photograph and then take the high ground while the light lasts."
+    "reason": "The observing has to start at dusk, so I will walk to the telescope first and only then look up."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-05T16:23:25.328Z",
-    "until": "2026-11-05T16:48:25.328Z",
-    "workedSec": 588.9
+    "index": 0,
+    "startedAt": "2026-11-05T16:53:32.206Z",
+    "until": "2026-11-05T17:00:32.206Z"
   }
 }
