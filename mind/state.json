@@ -34,15 +34,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-05",
-  "appliedStepAt": "2026-11-05T08:13:17.297Z",
+  "appliedStepAt": "2026-11-05T08:53:16.815Z",
   "lastThinkAt": "2026-11-05T08:53:16.815Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "put_on",
-      "targetId": "house",
-      "at": "2026-11-04T12:53:13.926Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -135,6 +130,11 @@
       "verb": "photograph",
       "targetId": "reading-lamp",
       "at": "2026-11-05T08:53:16.815Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-05T09:13:15.216Z"
     }
   ],
   "lastReflectDate": "2026-11-04",
@@ -150,8 +150,8 @@
     "count": 1
   },
   "photos": {
-    "date": "2026-11-04",
-    "count": 2,
+    "date": "2026-11-05",
+    "count": 1,
     "queue": []
   },
   "openBuild": null,
