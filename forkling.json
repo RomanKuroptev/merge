@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 70.1,
-    "energy": 93.2,
-    "curiosity": 100
+    "hunger": 62.1,
+    "energy": 88.6,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    -23.5,
     0,
-    10.5
+    14.5
   ],
-  "mood": "calm",
+  "mood": "content",
   "feelings": {
-    "valence": 0.01,
-    "arousal": 0.36
+    "valence": 0.31,
+    "arousal": 0.45
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-05T08:33:06.299Z",
-    "seed": 640154713,
-    "reason": "The desk is mine and I have a drawing of seeds in me that needs putting down.",
-    "goalRef": "today:2"
+    "type": "photograph",
+    "targetId": "reading-lamp",
+    "startedAt": "2026-11-05T08:53:16.815Z",
+    "seed": 1968265576,
+    "reason": "The lamp is mine, so I will keep a picture of it on record.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T08:33:15.697Z",
+  "lastTickAt": "2026-11-05T08:53:16.815Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
