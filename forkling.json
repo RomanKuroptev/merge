@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 77.4,
+    "energy": 92.5,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -12.9,
     0,
-    18.5
+    -21.38
   ],
-  "mood": "curious",
+  "mood": "pleased",
   "feelings": {
-    "valence": -0.11,
-    "arousal": 0.8
+    "valence": 0.19,
+    "arousal": 0.87
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-05T11:33:08.999Z",
-    "seed": 362257236,
-    "reason": "The telescope is mine, so it goes on record before anyone can argue.",
-    "goalRef": "today:1"
+    "type": "write",
+    "targetId": "desk",
+    "startedAt": "2026-11-05T11:43:13.632Z",
+    "seed": 1968271685,
+    "reason": "Whoever comes up the beach should know I was watching, so I will put it down in words.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T11:33:14.355Z",
+  "lastTickAt": "2026-11-05T11:43:13.632Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
