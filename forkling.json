@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.3,
-    "curiosity": 100
+    "energy": 74,
+    "curiosity": 99.9
   },
   "position": [
-    5.5,
+    12.59,
     0,
-    10.5
+    16.56
   ],
-  "mood": "curious",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.13,
-    "arousal": 0.96
+    "valence": 0.43,
+    "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "meadow",
-    "startedAt": "2026-11-05T13:03:12.999Z",
-    "seed": 2099540869,
-    "reason": "The flowers are colour for no reason, which is the best reason, so I will keep a picture.",
-    "goalRef": "today:5"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-05T13:13:14.770Z",
+    "seed": 1968282238,
+    "reason": "A high place above the island is where I am most comfortable, and I can keep an eye on things from there.",
+    "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T13:03:17.023Z",
+  "lastTickAt": "2026-11-05T13:13:14.770Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
