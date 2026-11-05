@@ -9,28 +9,32 @@
     "date": "2026-11-05",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The telescope is mine and dusk is close, so I will go and sit by it before anyone else thinks of it.",
-        "minutes": 7
+        "verb": "zoomies",
+        "position": [
+          -9,
+          15
+        ],
+        "reason": "The bowl is empty and my restlessness needs somewhere to go, so I will run it off here at dusk.",
+        "minutes": 20
       },
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "labnotes on the moon",
-        "reason": "The moon is only a thin crescent tonight, but I will stare at it through my telescope anyway and keep notes.",
-        "topic": "the moon's colour",
-        "because": [
-          "b1"
-        ],
-        "minutes": 30
+        "verb": "go_to",
+        "targetId": "bed",
+        "reason": "Once I have run it off, the bed is soft and near the water, so I will claim it for the evening.",
+        "minutes": 5
+      },
+      {
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "I will curl up on the bed and wait for morning, when the bowl is filled again and nobody gets to tell me otherwise.",
+        "minutes": 60
       }
     ],
-    "reason": "The observing has to start at dusk, so I will walk to the telescope first and only then look up."
+    "reason": "The bowl is empty until I wake, so I will spend the evening running off restlessness and then resting on the bed."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-05T17:03:15.678Z",
-    "until": "2026-11-05T17:33:15.678Z"
+    "index": 0,
+    "startedAt": "2026-11-05T17:33:15.751Z",
+    "until": "2026-11-05T17:53:15.751Z"
   }
 }

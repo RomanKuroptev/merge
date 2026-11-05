@@ -1,43 +1,46 @@
 {
-  "updatedAt": "2026-11-05T17:23:15.341Z",
+  "updatedAt": "2026-11-05T17:33:15.751Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T17:23:15.341Z",
+    "at": "2026-11-05T17:33:15.751Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "observe: made something at, made a labnote, thought about need, step 1/3: zoomies, new plan",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-05:443e2d9e",
-    "stepsLeft": 0,
+    "planId": "2026-11-05:1c53f55f",
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "observe",
-      "targetId": "telescope",
-      "until": "2026-11-05T17:33:15.678Z",
+      "index": 0,
+      "verb": "zoomies",
+      "until": "2026-11-05T17:53:15.751Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-05T16:53:32.206Z",
+    "lastReplanAt": "2026-11-05T17:33:15.751Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 71,
-    "decideCalls": 13,
+    "ticks": 72,
+    "decideCalls": 14,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "art": 3,
-      "decide": 12
+      "art": 4,
+      "decide": 13
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 22,
-      "need": 10,
-      "replan": 3
+      "stepDone": 23,
+      "need": 11,
+      "replan": 4
     },
     "failures": 0,
     "rejections": 0,
@@ -59,7 +62,8 @@
       "sit": 2,
       "go_to bookshelf": 1,
       "go_to telescope": 1,
-      "observe telescope": 1
+      "observe telescope": 1,
+      "zoomies": 1
     },
     "longestGapMinutes": 20
   },
@@ -69,7 +73,7 @@
       "max": 5
     },
     "creative": {
-      "used": 3,
+      "used": 4,
       "max": 4
     },
     "photos": {
@@ -86,22 +90,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 400,
+    "hunger": 410,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 110
+    "minutes": 120
   },
   "spend": {
-    "monthUsd": 0.32007988,
+    "monthUsd": 0.32274203,
     "capUsd": 10,
     "paceUsd": 1.6666666666666667
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 400 minutes while awake",
+    "hunger has been under 15 for 410 minutes while awake",
     "started \"draw desk\" 3 times today",
     "started \"read bookshelf\" 3 times today"
   ]
