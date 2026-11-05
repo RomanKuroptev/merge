@@ -1,34 +1,32 @@
 {
-  "updatedAt": "2026-11-05T16:13:22.642Z",
+  "updatedAt": "2026-11-05T16:23:25.328Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T16:13:22.642Z",
+    "at": "2026-11-05T16:23:25.328Z",
     "asleep": false,
-    "summary": "draw: made something at, made a drawing, thought about need, step 1/5: go_to, new plan",
-    "think": "decide",
+    "summary": "step 2/5: read",
+    "think": null,
     "triggers": [
-      "need",
-      "replan",
       "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-05:4b5a62ce",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "go_to",
+      "index": 1,
+      "verb": "read",
       "targetId": "bookshelf",
-      "until": "2026-11-05T16:23:22.642Z",
+      "until": "2026-11-05T16:48:25.328Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-05T16:13:22.642Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 64,
+    "ticks": 65,
     "decideCalls": 11,
     "callsByKind": {
       "memory": 1,
@@ -39,7 +37,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 19,
+      "stepDone": 20,
       "need": 9,
       "replan": 3
     },
@@ -52,7 +50,7 @@
       "photograph reading-lamp": 1,
       "nap sunbeam": 1,
       "explore": 1,
-      "read bookshelf": 2,
+      "read bookshelf": 3,
       "photograph telescope": 1,
       "write desk": 1,
       "photograph sunny-rock": 1,
@@ -88,13 +86,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 330,
+    "hunger": 340,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 40
+    "minutes": 50
   },
   "spend": {
     "monthUsd": 0.31715632,
@@ -103,7 +101,8 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 330 minutes while awake",
-    "started \"draw desk\" 3 times today"
+    "hunger has been under 15 for 340 minutes while awake",
+    "started \"draw desk\" 3 times today",
+    "started \"read bookshelf\" 3 times today"
   ]
 }
