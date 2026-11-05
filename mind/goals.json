@@ -14,22 +14,21 @@
           -9,
           15
         ],
-        "reason": "The bowl is empty and my restlessness needs running off before I rest.",
-        "minutes": 20
+        "reason": "The dusk is still here and my restlessness needs running off before I rest.",
+        "minutes": 15
       },
       {
         "verb": "curl_up",
         "targetId": "bed",
-        "reason": "Once the zoomies are out of me, the soft bed is where I will wait for morning and the filled bowl.",
-        "minutes": 60
+        "reason": "The bed is soft and the bowl is filled when I wake, so I will wait there.",
+        "minutes": 120
       }
     ],
-    "reason": "The plan with a made thing was turned down because there is no room left for another making today, so I am keeping to running and resting."
+    "reason": "There is no room left for another making today, so I am keeping to the dusk zoomies and then resting on the bed until morning."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-05T18:33:20.132Z",
-    "until": "2026-11-05T19:33:20.132Z",
-    "workedSec": 3006.4
+    "index": 0,
+    "startedAt": "2026-11-05T19:33:20.346Z",
+    "until": "2026-11-05T19:48:20.346Z"
   }
 }
