@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 2.1,
-    "energy": 80.7,
+    "hunger": 0,
+    "energy": 77.4,
     "curiosity": 100
   },
   "position": [
-    20.59,
+    -14.5,
     0,
-    12.64
+    18.5
   ],
-  "mood": "pleased",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.2,
-    "arousal": 0.62
+    "valence": -0.11,
+    "arousal": 0.8
   },
   "intention": {
     "type": "photograph",
     "targetId": "telescope",
-    "startedAt": "2026-11-05T11:23:13.499Z",
-    "seed": 1968274869,
+    "startedAt": "2026-11-05T11:33:08.999Z",
+    "seed": 362257236,
     "reason": "The telescope is mine, so it goes on record before anyone can argue.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T11:23:13.499Z",
+  "lastTickAt": "2026-11-05T11:33:14.355Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
