@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T11:03:14.698Z",
+  "updatedAt": "2026-11-05T11:13:12.819Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T11:03:14.698Z",
+    "at": "2026-11-05T11:13:12.819Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -24,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 33,
+    "ticks": 34,
     "decideCalls": 2,
     "callsByKind": {
       "memory": 1,
@@ -75,13 +75,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 20,
+    "hunger": 30,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 10
+    "minutes": 20
   },
   "spend": {
     "monthUsd": 0.29938567,
