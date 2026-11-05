@@ -9,53 +9,56 @@
     "date": "2026-11-05",
     "steps": [
       {
-        "verb": "eat",
-        "targetId": "bowl",
-        "reason": "The bowl has been filled again and I am empty, which is not a thing I will ignore.",
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "The moon's colour is still unsettled, and I would rather read the answer than guess.",
+        "topic": "the moon's colour",
+        "minutes": 20
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is mine, so it goes on record before anyone can argue.",
         "minutes": 15
       },
       {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without anyone's permission are still bothering me, so I will find out more about them.",
-        "topic": "unknown seeds that grow",
-        "minutes": 40
-      },
-      {
-        "verb": "draw",
+        "verb": "write",
         "targetId": "desk",
-        "reason": "The desk is mine and I have a drawing of seeds in me that needs putting down.",
-        "topic": "seeds that grow unasked",
+        "makes": "a note on the lookout",
+        "reason": "Whoever comes up the beach should know I was watching, so I will put it down in words.",
+        "topic": "the lookout rock and who comes up the beach",
         "minutes": 30
       },
       {
         "verb": "photograph",
-        "targetId": "reading-lamp",
-        "reason": "The lamp is mine, so I will keep a picture of it on record.",
+        "targetId": "sunny-rock",
+        "reason": "The sunny rock catches the morning light first, and that is worth a picture.",
         "minutes": 15
       },
       {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "Studying and drawing have worn me out, and a patch of sun is the right place to recover.",
-        "minutes": 60
+        "verb": "go_to",
+        "targetId": "meadow",
+        "reason": "The meadow has flowers I took without asking, and I want to check they are still mine.",
+        "minutes": 20
       },
       {
-        "verb": "explore",
-        "position": [
-          -2.5,
-          23.5
-        ],
-        "reason": "I will check the lookout rock again, since I claimed it and high places suit me.",
+        "verb": "photograph",
+        "targetId": "meadow",
+        "reason": "The flowers are colour for no reason, which is the best reason, so I will keep a picture.",
+        "minutes": 15
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "A high place above the island is where I am most comfortable, and I can keep an eye on things from there.",
         "minutes": 30
       }
     ],
-    "reason": "A slow, sunny day of eating, reading, drawing and claiming things, with the telescope saved for dusk."
+    "reason": "The rest of the day is for reading, writing and photographing what is mine, with the telescope saved for dusk."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-05T10:13:17.103Z",
-    "until": "2026-11-05T10:43:17.103Z",
-    "workedSec": 1128.1
+    "index": 0,
+    "startedAt": "2026-11-05T10:53:16.496Z",
+    "until": "2026-11-05T11:13:16.496Z"
   }
 }
