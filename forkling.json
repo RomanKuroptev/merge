@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 97.3,
-    "curiosity": 99.9
+    "energy": 90.6,
+    "curiosity": 100
   },
   "position": [
-    -12.82,
+    6.38,
     0,
-    12.5
+    10.5
   ],
-  "mood": "delighted",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.47,
+    "valence": 0.14,
     "arousal": 1
   },
   "intention": {
-    "type": "go_to",
+    "type": "photograph",
     "targetId": "meadow",
-    "startedAt": "2026-11-05T12:33:13.708Z",
-    "seed": 1968270621,
-    "reason": "The meadow has flowers I took without asking, and I want to check they are still mine.",
-    "goalRef": "today:4"
+    "startedAt": "2026-11-05T12:53:18.327Z",
+    "seed": 1968268970,
+    "reason": "The flowers are colour for no reason, which is the best reason, so I will keep a picture.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T12:33:13.708Z",
+  "lastTickAt": "2026-11-05T12:53:18.327Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
