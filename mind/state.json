@@ -155,7 +155,14 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "explore",
+      "verb": "nap",
+      "need": "energy",
+      "at": "2026-11-05T10:30:55.599Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-02T13:23:14.177Z",

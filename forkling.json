@@ -3,29 +3,29 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 30.1,
-    "energy": 100,
-    "curiosity": 75.7
+    "hunger": 22.1,
+    "energy": 58.4,
+    "curiosity": 100
   },
   "position": [
-    -22.5,
+    -2.5,
     0,
-    -7.5
+    21.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.47,
-    "arousal": 0.46
+    "valence": 0.44,
+    "arousal": 0.44
   },
   "intention": {
     "type": "explore",
-    "startedAt": "2026-11-05T10:13:17.103Z",
-    "seed": 1968262185,
+    "startedAt": "2026-11-05T10:33:01.599Z",
+    "seed": 1037482639,
     "reason": "I will check the lookout rock again, since I claimed it and high places suit me.",
     "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T10:13:17.103Z",
+  "lastTickAt": "2026-11-05T10:33:14.203Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
