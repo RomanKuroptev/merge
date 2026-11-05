@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 14.1,
-    "energy": 80,
+    "hunger": 10.1,
+    "energy": 76.7,
     "curiosity": 100
   },
   "position": [
-    -5.5,
+    -18.5,
     0,
-    29.5
+    14.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": 0.11,
-    "arousal": 0.62
+    "arousal": 0.6
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-05T10:53:16.496Z",
-    "seed": 1968274056,
-    "reason": "I have a lot of the day left and a lot of things still to claim, so I will spend it looking, reading and writing down what I find.",
+    "startedAt": "2026-11-05T11:03:00.399Z",
+    "seed": 1684689270,
+    "reason": "The moon's colour is still unsettled, and I would rather read the answer than guess.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T10:53:16.496Z",
+  "lastTickAt": "2026-11-05T11:03:14.698Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
