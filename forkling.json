@@ -4,29 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.3,
-    "curiosity": 100
+    "energy": 70,
+    "curiosity": 99.8
   },
   "position": [
-    -11.5,
+    -6.5,
     0,
-    11.5
+    25.17
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.4,
-    "arousal": 0.97
+    "valence": -0.38,
+    "arousal": 0.93
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "bowl",
-    "startedAt": "2026-11-05T15:03:14.499Z",
-    "seed": 390542756,
-    "reason": "The bowl is empty and my hunger is at zero, so I will sit beside it and see what turns up.",
-    "goalRef": "today:0"
+    "type": "sit",
+    "startedAt": "2026-11-05T15:13:15.419Z",
+    "seed": 1968277407,
+    "reason": "Sitting next to the bowl claims the spot, and I am not going to pretend I am waiting for anything.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T15:03:19.016Z",
+  "lastTickAt": "2026-11-05T15:13:15.419Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
