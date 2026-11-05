@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T22:03:16.425Z",
+  "updatedAt": "2026-11-05T23:03:16.769Z",
   "engine": "v0.8.0",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-05T22:03:16.425Z",
+    "at": "2026-11-05T23:03:16.769Z",
     "asleep": true,
-    "summary": "rewrote its memory",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,66 +18,32 @@
       "verb": "curl_up",
       "targetId": "bed",
       "until": "2026-11-05T21:53:22.352Z",
-      "overdueMinutes": 9
+      "overdueMinutes": 69
     },
     "lastReplanAt": "2026-11-05T19:33:20.346Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 99,
-    "decideCalls": 22,
-    "callsByKind": {
-      "memory": 2,
-      "read": 1,
-      "morning": 1,
-      "art": 4,
-      "decide": 21,
-      "bedtime": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 27,
-      "need": 16,
-      "replan": 5,
-      "bedtime": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
-    "stepsStarted": {
-      "eat bowl": 1,
-      "study bookshelf": 1,
-      "draw desk": 3,
-      "photograph reading-lamp": 1,
-      "nap sunbeam": 1,
-      "explore": 1,
-      "read bookshelf": 3,
-      "photograph telescope": 1,
-      "write desk": 1,
-      "photograph sunny-rock": 1,
-      "go_to meadow": 1,
-      "photograph meadow": 1,
-      "watch perch": 1,
-      "go_to bowl": 2,
-      "sit": 2,
-      "go_to bookshelf": 1,
-      "go_to telescope": 1,
-      "observe telescope": 1,
-      "zoomies": 3,
-      "curl_up bed": 2
-    },
-    "longestGapMinutes": 20
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 4,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -96,18 +62,13 @@
   },
   "mood": {
     "label": "upset",
-    "minutes": 390
+    "minutes": 450
   },
   "spend": {
     "monthUsd": 0.3655077,
     "capUsd": 10,
-    "paceUsd": 1.6666666666666667
+    "paceUsd": 2
   },
   "openBuild": null,
-  "warnings": [
-    "started \"draw desk\" 3 times today",
-    "started \"read bookshelf\" 3 times today",
-    "started \"zoomies\" 3 times today",
-    "22 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
