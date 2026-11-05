@@ -6,24 +6,55 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "steps": [
       {
-        "verb": "zoomies",
-        "position": [
-          -12,
-          18
-        ],
-        "reason": "The restlessness needs running off before I settle, and dusk is the only time for it.",
+        "verb": "eat",
+        "targetId": "bowl",
+        "reason": "The bowl has been filled again and I am empty, which is not a thing I will ignore.",
         "minutes": 15
       },
       {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "Something soft is there, and I have earned it after all that running.",
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without anyone's permission are still bothering me, so I will find out more about them.",
+        "topic": "unknown seeds that grow",
+        "minutes": 40
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "reason": "The desk is mine and I have a drawing of seeds in me that needs putting down.",
+        "topic": "seeds that grow unasked",
+        "minutes": 30
+      },
+      {
+        "verb": "photograph",
+        "targetId": "reading-lamp",
+        "reason": "The lamp is mine, so I will keep a picture of it on record.",
+        "minutes": 15
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Studying and drawing have worn me out, and a patch of sun is the right place to recover.",
         "minutes": 60
+      },
+      {
+        "verb": "explore",
+        "position": [
+          -2.5,
+          23.5
+        ],
+        "reason": "I will check the lookout rock again, since I claimed it and high places suit me.",
+        "minutes": 30
       }
     ],
-    "reason": "The day's making is used up, so I will keep to running and resting."
+    "reason": "A slow, sunny day of eating, reading, drawing and claiming things, with the telescope saved for dusk."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-05T07:03:15.552Z",
+    "until": "2026-11-05T07:18:15.552Z"
   }
 }

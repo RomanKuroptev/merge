@@ -1,9 +1,9 @@
 {
   "topics": {
     "unknown seeds that grow": {
-      "weight": 0.48,
+      "weight": 0.52,
       "firstSeen": "2026-11-01T07:03:15.325Z",
-      "lastFed": "2026-11-02T07:03:15.458Z",
+      "lastFed": "2026-11-05T07:03:15.552Z",
       "sources": [
         {
           "id": "hn:50320963",
@@ -16,6 +16,12 @@
           "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and, With Nothing to Lose, Planted Them. The Result Was Almost…",
           "url": "https://lemmy.sdf.org/post/61231546",
           "at": "2026-11-02T07:03:15.458Z"
+        },
+        {
+          "id": "lemmy:53980541",
+          "title": "High Tide on the Saltmarsh Reflecting Fall Colors - 7 shot vertical panoramic",
+          "url": "https://pixelfed.social/p/tcgoetz/1023584061762776902",
+          "at": "2026-11-05T07:03:15.552Z"
         }
       ]
     },
@@ -58,15 +64,21 @@
       ]
     },
     "meteors and comets": {
-      "weight": 0.12,
+      "weight": 0.16,
       "firstSeen": "2026-11-03T06:03:16.460Z",
-      "lastFed": "2026-11-03T06:03:16.460Z",
+      "lastFed": "2026-11-05T07:03:15.552Z",
       "sources": [
         {
           "id": "sky:apod:2026-11-03",
           "title": "NASA Science",
           "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
           "at": "2026-11-03T06:03:16.460Z"
+        },
+        {
+          "id": "lemmy:28274527",
+          "title": "Detailed map of dust in the Milky Way",
+          "url": "https://pawb.social/post/22984370",
+          "at": "2026-11-05T07:03:15.552Z"
         }
       ]
     },
@@ -93,6 +105,32 @@
           "title": "Show HN: Subvocal – Talk to your computer without making noise",
           "url": "https://news.ycombinator.com/item?id=50340088",
           "at": "2026-11-03T06:03:16.460Z"
+        }
+      ]
+    },
+    "hidden networks and patterns nobody placed": {
+      "weight": 0.16,
+      "firstSeen": "2026-11-05T07:03:15.552Z",
+      "lastFed": "2026-11-05T07:03:15.552Z",
+      "sources": [
+        {
+          "id": "hn:50371246",
+          "title": "Residential proxies detected on White House network",
+          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "at": "2026-11-05T07:03:15.552Z"
+        }
+      ]
+    },
+    "moon's colour": {
+      "weight": 0.08,
+      "firstSeen": "2026-11-05T07:03:15.552Z",
+      "lastFed": "2026-11-05T07:03:15.552Z",
+      "sources": [
+        {
+          "id": "sky:moon:2026-11-05",
+          "title": "Tonight's moon: waning crescent",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-05T07:03:15.552Z"
         }
       ]
     }

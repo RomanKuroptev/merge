@@ -1,37 +1,51 @@
 {
-  "updatedAt": "2026-11-05T06:03:16.088Z",
+  "updatedAt": "2026-11-05T07:03:15.552Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T06:03:16.088Z",
-    "asleep": true,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-05T07:03:15.552Z",
+    "asleep": false,
+    "summary": "skimmed the feeds, morning plan, step 1/6: eat, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-04:227c5b8f",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-04T19:13:13.273Z",
+    "planId": "2026-11-05:3cbccacf",
+    "stepsLeft": 5,
+    "current": {
+      "index": 0,
+      "verb": "eat",
+      "targetId": "bowl",
+      "until": "2026-11-05T07:18:15.552Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-05T07:03:15.552Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 8,
-    "decideCalls": 0,
+    "ticks": 9,
+    "decideCalls": 1,
     "callsByKind": {
-      "memory": 1
+      "memory": 1,
+      "read": 1,
+      "morning": 1
     },
-    "triggersByKind": {},
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "eat bowl": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 1,
       "max": 5
     },
     "creative": {
@@ -52,16 +66,16 @@
     }
   },
   "needsCritical": {
-    "hunger": 0,
+    "hunger": 60,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "calm",
-    "minutes": 0
+    "minutes": 60
   },
   "spend": {
-    "monthUsd": 0.29232155,
+    "monthUsd": 0.29549143,
     "capUsd": 10,
     "paceUsd": 1.6666666666666667
   },

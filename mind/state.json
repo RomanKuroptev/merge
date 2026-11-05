@@ -33,17 +33,11 @@
     "a-flowers-plant-2"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-04",
+  "lastPlanDate": "2026-11-05",
   "appliedStepAt": "2026-11-04T19:33:16.365Z",
-  "lastThinkAt": "2026-11-04T22:03:16.555Z",
-  "replanAfter": "2026-11-04T22:43:18.974Z",
+  "lastThinkAt": "2026-11-05T07:03:15.552Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "draw",
-      "targetId": "desk",
-      "at": "2026-11-04T11:22:36.647Z"
-    },
     {
       "verb": "photograph",
       "targetId": "telescope",
@@ -136,6 +130,11 @@
       "verb": "curl_up",
       "targetId": "bed",
       "at": "2026-11-04T19:33:16.365Z"
+    },
+    {
+      "verb": "eat",
+      "targetId": "bowl",
+      "at": "2026-11-05T07:03:15.552Z"
     }
   ],
   "lastReflectDate": "2026-11-04",
@@ -143,8 +142,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-05",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-05",
