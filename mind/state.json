@@ -35,7 +35,7 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-05",
   "appliedStepAt": "2026-11-05T18:03:21.301Z",
-  "lastThinkAt": "2026-11-05T18:03:21.301Z",
+  "lastThinkAt": "2026-11-05T18:43:14.631Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -154,32 +154,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-05T18:06:54.700Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "nap",
-      "need": "hunger",
-      "at": "2026-11-05T18:10:30.900Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-05T18:15:14.800Z"
-    },
-    {
-      "step": "zoomies",
-      "verb": "nap",
-      "need": "hunger",
-      "at": "2026-11-05T18:19:29.600Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-11-02T13:23:14.177Z",
