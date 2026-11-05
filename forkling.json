@@ -3,14 +3,14 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 0,
-    "energy": 100,
-    "curiosity": 99.5
+    "hunger": 100,
+    "energy": 96.7,
+    "curiosity": 95.5
   },
   "position": [
-    -10.5,
+    -11.5,
     0,
-    22.5
+    11.5
   ],
   "mood": "calm",
   "feelings": {
@@ -20,13 +20,13 @@
   "intention": {
     "type": "eat",
     "targetId": "bowl",
-    "startedAt": "2026-11-05T07:03:15.552Z",
-    "seed": 1968255143,
-    "reason": "I woke hungry and the bowl has been filled again, so I eat first before anything else.",
+    "startedAt": "2026-11-05T07:13:04.751Z",
+    "seed": 379562224,
+    "reason": "The bowl has been filled again and I am empty, which is not a thing I will ignore.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T07:03:15.552Z",
+  "lastTickAt": "2026-11-05T07:13:13.362Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
