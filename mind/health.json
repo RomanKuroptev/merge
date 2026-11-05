@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-05T21:43:17.292Z",
+  "updatedAt": "2026-11-05T22:03:16.425Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T21:43:17.292Z",
+    "at": "2026-11-05T22:03:16.425Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,16 +18,16 @@
       "verb": "curl_up",
       "targetId": "bed",
       "until": "2026-11-05T21:53:22.352Z",
-      "overdueMinutes": 0
+      "overdueMinutes": 9
     },
     "lastReplanAt": "2026-11-05T19:33:20.346Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 98,
+    "ticks": 99,
     "decideCalls": 22,
     "callsByKind": {
-      "memory": 1,
+      "memory": 2,
       "read": 1,
       "morning": 1,
       "art": 4,
@@ -96,10 +96,10 @@
   },
   "mood": {
     "label": "upset",
-    "minutes": 370
+    "minutes": 390
   },
   "spend": {
-    "monthUsd": 0.36494287,
+    "monthUsd": 0.3655077,
     "capUsd": 10,
     "paceUsd": 1.6666666666666667
   },
