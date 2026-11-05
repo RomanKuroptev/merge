@@ -34,15 +34,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-05",
-  "appliedStepAt": "2026-11-05T18:33:20.132Z",
+  "appliedStepAt": "2026-11-05T19:33:20.346Z",
   "lastThinkAt": "2026-11-05T19:33:20.346Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "desk",
-      "at": "2026-11-05T11:43:13.632Z"
-    },
     {
       "verb": "photograph",
       "targetId": "sunny-rock",
@@ -132,6 +127,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-05T19:33:20.346Z"
+    },
+    {
+      "verb": "curl_up",
+      "targetId": "bed",
+      "at": "2026-11-05T19:53:22.352Z"
     }
   ],
   "lastReflectDate": "2026-11-04",
@@ -153,7 +153,26 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-05T19:38:36.445Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-05T19:42:41.545Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-05T19:46:05.445Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-02T13:23:14.177Z",

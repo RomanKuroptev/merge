@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-05T19:43:14.594Z",
+  "updatedAt": "2026-11-05T19:53:22.352Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T19:43:14.594Z",
+    "at": "2026-11-05T19:53:22.352Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/2: curl_up",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-05:6085b3a3",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 0,
-      "verb": "zoomies",
-      "until": "2026-11-05T19:48:20.346Z",
+      "index": 1,
+      "verb": "curl_up",
+      "targetId": "bed",
+      "until": "2026-11-05T21:53:22.352Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-05T19:33:20.346Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 85,
+    "ticks": 86,
     "decideCalls": 20,
     "callsByKind": {
       "memory": 1,
@@ -34,7 +37,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 26,
+      "stepDone": 27,
       "need": 14,
       "replan": 5
     },
@@ -60,7 +63,7 @@
       "go_to telescope": 1,
       "observe telescope": 1,
       "zoomies": 3,
-      "curl_up bed": 1
+      "curl_up bed": 2
     },
     "longestGapMinutes": 20
   },
@@ -87,13 +90,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 540,
+    "hunger": 550,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 250
+    "minutes": 260
   },
   "spend": {
     "monthUsd": 0.33152421,
@@ -102,7 +105,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 540 minutes while awake",
+    "hunger has been under 15 for 550 minutes while awake",
     "started \"draw desk\" 3 times today",
     "started \"read bookshelf\" 3 times today",
     "started \"zoomies\" 3 times today",
