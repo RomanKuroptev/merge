@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-05T19:13:13.533Z",
+  "updatedAt": "2026-11-05T19:23:26.812Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T19:13:13.533Z",
+    "at": "2026-11-05T19:23:26.812Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -24,19 +26,19 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 82,
-    "decideCalls": 17,
+    "ticks": 83,
+    "decideCalls": 18,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
       "art": 4,
-      "decide": 16
+      "decide": 17
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 25,
-      "need": 13,
+      "need": 14,
       "replan": 4
     },
     "failures": 0,
@@ -88,24 +90,24 @@
     }
   },
   "needsCritical": {
-    "hunger": 510,
+    "hunger": 520,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 220
+    "minutes": 230
   },
   "spend": {
-    "monthUsd": 0.32714922,
+    "monthUsd": 0.32869775,
     "capUsd": 10,
     "paceUsd": 1.6666666666666667
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 510 minutes while awake",
+    "hunger has been under 15 for 520 minutes while awake",
     "started \"draw desk\" 3 times today",
     "started \"read bookshelf\" 3 times today",
-    "17 decide calls today (more than 15)"
+    "18 decide calls today (more than 15)"
   ]
 }
