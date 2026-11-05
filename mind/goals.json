@@ -14,27 +14,21 @@
           -9,
           15
         ],
-        "reason": "The bowl is empty and my restlessness needs somewhere to go, so I will run it off here at dusk.",
+        "reason": "The bowl is empty and my restlessness needs running off before I rest.",
         "minutes": 20
-      },
-      {
-        "verb": "go_to",
-        "targetId": "bed",
-        "reason": "Once I have run it off, the bed is soft and near the water, so I will claim it for the evening.",
-        "minutes": 5
       },
       {
         "verb": "curl_up",
         "targetId": "bed",
-        "reason": "I will curl up on the bed and wait for morning, when the bowl is filled again and nobody gets to tell me otherwise.",
+        "reason": "Once the zoomies are out of me, the soft bed is where I will wait for morning and the filled bowl.",
         "minutes": 60
       }
     ],
-    "reason": "The bowl is empty until I wake, so I will spend the evening running off restlessness and then resting on the bed."
+    "reason": "The plan with a made thing was turned down because there is no room left for another making today, so I am keeping to running and resting."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-05T17:33:15.751Z",
-    "until": "2026-11-05T17:53:15.751Z"
+    "startedAt": "2026-11-05T18:03:21.301Z",
+    "until": "2026-11-05T18:23:21.301Z"
   }
 }

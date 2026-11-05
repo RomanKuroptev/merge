@@ -4,28 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 63.5,
+    "energy": 71.5,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -17.07,
     0,
-    18.5
+    0.97
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.59,
+    "valence": -0.83,
     "arousal": 1
   },
   "intention": {
     "type": "zoomies",
-    "startedAt": "2026-11-05T17:33:15.751Z",
-    "seed": 1968285519,
-    "reason": "The bowl is empty until morning and my restlessness needs running off, so I will burn it at dusk and then rest where I can see the room.",
+    "startedAt": "2026-11-05T18:03:21.301Z",
+    "seed": 1968299645,
+    "reason": "Dusk is nearly done, the bowl is empty, and nothing I can make fits in today's room, so I will run off the restlessness and then curl up on the bed.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T17:33:15.751Z",
+  "lastTickAt": "2026-11-05T18:03:21.301Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
