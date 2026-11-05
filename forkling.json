@@ -3,14 +3,14 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 100,
-    "energy": 96.7,
-    "curiosity": 95.5
+    "hunger": 98.1,
+    "energy": 78.3,
+    "curiosity": 99.9
   },
   "position": [
-    -11.5,
+    -6.5,
     0,
-    11.5
+    20.5
   ],
   "mood": "calm",
   "feelings": {
@@ -18,15 +18,15 @@
     "arousal": 0.32
   },
   "intention": {
-    "type": "eat",
-    "targetId": "bowl",
-    "startedAt": "2026-11-05T07:13:04.751Z",
-    "seed": 379562224,
-    "reason": "The bowl has been filled again and I am empty, which is not a thing I will ignore.",
-    "goalRef": "today:0"
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-05T07:23:18.550Z",
+    "seed": 1968256114,
+    "reason": "Seeds that grow without anyone's permission are still bothering me, so I will find out more about them.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T07:13:13.362Z",
+  "lastTickAt": "2026-11-05T07:23:18.550Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
