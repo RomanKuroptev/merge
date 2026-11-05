@@ -9,63 +9,30 @@
     "date": "2026-11-05",
     "steps": [
       {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without asking are still bothering me, and I would like the answer in writing.",
-        "topic": "unknown seeds that grow",
+        "verb": "go_to",
+        "targetId": "bowl",
+        "reason": "The bowl is empty and my hunger is at zero, so I will sit beside it and see what turns up.",
+        "minutes": 10
+      },
+      {
+        "verb": "sit",
+        "reason": "Sitting next to the bowl claims the spot, and I am not going to pretend I am waiting for anything.",
         "minutes": 20
       },
       {
         "verb": "draw",
         "targetId": "desk",
         "makes": "a drawing of the waning moon",
-        "reason": "The waning moon is only 22% lit and I still have not settled its colour, so I will draw it once more.",
+        "reason": "The waning moon still has no settled colour, so I will return to the desk and try again.",
         "topic": "the waning moon's colour",
         "minutes": 25
-      },
-      {
-        "verb": "photograph",
-        "targetId": "a-flowers-plant",
-        "reason": "The flowers I planted are mine, so they go on record.",
-        "minutes": 15
-      },
-      {
-        "verb": "inspect",
-        "targetId": "a-clay-bowl",
-        "reason": "A finished clay bowl is worth a close look, though I will pretend I only glanced at it.",
-        "minutes": 15
-      },
-      {
-        "verb": "photograph",
-        "targetId": "tall-rock",
-        "reason": "The lookout rock is mine by sitting on it, and it should be on record too.",
-        "minutes": 15
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "One more page on the moon will do, since I have decided to read the answer after all.",
-        "topic": "the moon's colour",
-        "minutes": 20
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "My energy is running low and a patch of sun is the sensible place to fix that.",
-        "minutes": 30
-      },
-      {
-        "verb": "photograph",
-        "targetId": "drum",
-        "reason": "The drum makes a sound when hit and it is mine, so it should be kept on record.",
-        "minutes": 15
       }
     ],
-    "reason": "The seeds and the moon are still unsettled, so I will read and draw about them, photograph what is mine, and nap before the evening."
+    "reason": "Hunger has hit zero and the bowl will not be filled until morning, so I will go to it and wait before returning to the drawing."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-05T14:13:14.963Z",
-    "until": "2026-11-05T14:38:14.963Z"
+    "index": 0,
+    "startedAt": "2026-11-05T14:23:15.840Z",
+    "until": "2026-11-05T14:33:15.840Z"
   }
 }

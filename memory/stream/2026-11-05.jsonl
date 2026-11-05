@@ -46,3 +46,7 @@
 {"id":"2026-11-05#46","at":"2026-11-05T13:43:15.353Z","kind":"step","text":"Started read (The bookshelf): Seeds that grow without permission still bother me, and the moon has not been settled, so I will find out myself.","verb":"read","objectId":"bookshelf","goalRef":"today:0"}
 {"id":"2026-11-05#47","at":"2026-11-05T14:13:14.963Z","kind":"step","text":"read: read at The bookshelf","verb":"read","objectId":"bookshelf"}
 {"id":"2026-11-05#48","at":"2026-11-05T14:13:14.963Z","kind":"step","text":"Started draw (The desk): The waning moon is only 22% lit and I still have not settled its colour, so I will draw it once more.","verb":"draw","objectId":"desk","goalRef":"today:1"}
+{"id":"2026-11-05#49","at":"2026-11-05T14:23:15.840Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-05#50","at":"2026-11-05T14:23:15.840Z","kind":"thought","text":"My hunger is at zero and the bowl is empty until morning, so I will go and wait by it on my own terms, then get back to the drawing."}
+{"id":"2026-11-05#51","at":"2026-11-05T14:23:15.840Z","kind":"event","text":"Left draw unfinished: the body spent 10 of 25 minutes on it.","verb":"draw"}
+{"id":"2026-11-05#52","at":"2026-11-05T14:23:15.840Z","kind":"step","text":"Started go_to (The bowl): My hunger is at zero and the bowl is empty until morning, so I will go and wait by it on my own terms, then get back to the drawing.","verb":"go_to","objectId":"bowl","goalRef":"today:0"}

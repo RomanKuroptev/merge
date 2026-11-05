@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 69,
+    "energy": 65.7,
     "curiosity": 100
   },
   "position": [
-    6.5,
+    -18.5,
     0,
-    14.5
+    10.5
   ],
-  "mood": "pleased",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.19,
-    "arousal": 0.91
+    "valence": -0.12,
+    "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-05T14:13:14.963Z",
-    "seed": 1968280686,
-    "reason": "The waning moon is only 22% lit and I still have not settled its colour, so I will draw it once more.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "bowl",
+    "startedAt": "2026-11-05T14:23:15.840Z",
+    "seed": 1968278471,
+    "reason": "My hunger is at zero and the bowl is empty until morning, so I will go and wait by it on my own terms, then get back to the drawing.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T14:13:14.963Z",
+  "lastTickAt": "2026-11-05T14:23:15.840Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
