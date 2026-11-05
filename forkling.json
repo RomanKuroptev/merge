@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 88.7,
-    "curiosity": 99.9
+    "energy": 73.5,
+    "curiosity": 100
   },
   "position": [
-    15.01,
+    -15.98,
     0,
-    5.49
+    -16.4
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.68,
-    "arousal": 1
+    "valence": -0.66,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "go_to",
+    "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-05T16:53:32.206Z",
-    "seed": 1968287256,
-    "reason": "Dusk is nearly here and the telescope is mine, so I will walk over and watch the sky while the light goes.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-05T17:03:15.678Z",
+    "seed": 1968286791,
+    "reason": "The moon is only a thin crescent tonight, but I will stare at it through my telescope anyway and keep notes.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T16:53:32.206Z",
+  "lastTickAt": "2026-11-05T17:03:15.678Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
