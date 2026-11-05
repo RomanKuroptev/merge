@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 78.1,
-    "energy": 99.9,
-    "curiosity": 99.4
+    "hunger": 70.1,
+    "energy": 93.2,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    -18.5,
     0,
-    19.5
+    10.5
   ],
   "mood": "calm",
   "feelings": {
     "valence": 0.01,
-    "arousal": 0.37
+    "arousal": 0.36
   },
   "intention": {
     "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-05T08:13:17.297Z",
-    "seed": 1968250889,
+    "startedAt": "2026-11-05T08:33:06.299Z",
+    "seed": 640154713,
     "reason": "The desk is mine and I have a drawing of seeds in me that needs putting down.",
     "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T08:13:17.297Z",
+  "lastTickAt": "2026-11-05T08:33:15.697Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
