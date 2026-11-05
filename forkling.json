@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 95.8
+    "curiosity": 87.8
   },
   "position": [
     -14.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -1,
-    "arousal": 1
+    "valence": -0.93,
+    "arousal": 0.92
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-05T18:42:49.031Z",
-    "seed": 1180677294,
+    "startedAt": "2026-11-05T19:02:12.799Z",
+    "seed": 226157612,
     "reason": "Once the zoomies are out of me, the soft bed is where I will wait for morning and the filled bowl.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T18:43:14.631Z",
+  "lastTickAt": "2026-11-05T19:03:14.482Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
