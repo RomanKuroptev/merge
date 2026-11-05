@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 54.1,
-    "energy": 98,
-    "curiosity": 99.7
+    "hunger": 46.1,
+    "energy": 100,
+    "curiosity": 91.7
   },
   "position": [
     -28.5,
     0,
-    10.5
+    -1.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.59,
-    "arousal": 0.53
+    "valence": 0.55,
+    "arousal": 0.5
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-05T09:13:15.216Z",
-    "seed": 1968263743,
+    "startedAt": "2026-11-05T09:32:22.299Z",
+    "seed": 88939646,
     "reason": "Studying and drawing have worn me out, and a patch of sun is the right place to recover.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T09:13:15.216Z",
+  "lastTickAt": "2026-11-05T09:33:13.021Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
