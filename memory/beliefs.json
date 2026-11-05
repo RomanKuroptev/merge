@@ -13,10 +13,12 @@
       "2026-11-03#89",
       "2026-11-03#91",
       "2026-11-04#77",
-      "2026-11-04#79"
+      "2026-11-04#79",
+      "2026-11-05#71",
+      "2026-11-05#73"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
-    "revisedAt": "2026-11-04T22:03:16.555Z",
+    "revisedAt": "2026-11-05T21:13:14.798Z",
     "status": "active",
     "history": [
       {
@@ -42,6 +44,12 @@
         "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
         "confidence": 1,
         "why": "The telescope gave another labnote at dusk."
+      },
+      {
+        "at": "2026-11-05T21:13:14.798Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk left a labnote again."
       }
     ]
   },
