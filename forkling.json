@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 10.1,
-    "energy": 76.7,
+    "hunger": 2.1,
+    "energy": 80.7,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    20.59,
     0,
-    14.5
+    12.64
   ],
-  "mood": "curious",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.11,
-    "arousal": 0.6
+    "valence": 0.2,
+    "arousal": 0.62
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-05T11:03:00.399Z",
-    "seed": 1684689270,
-    "reason": "The moon's colour is still unsettled, and I would rather read the answer than guess.",
-    "goalRef": "today:0"
+    "type": "photograph",
+    "targetId": "telescope",
+    "startedAt": "2026-11-05T11:23:13.499Z",
+    "seed": 1968274869,
+    "reason": "The telescope is mine, so it goes on record before anyone can argue.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T11:03:14.698Z",
+  "lastTickAt": "2026-11-05T11:23:13.499Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
