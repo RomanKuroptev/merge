@@ -1,43 +1,47 @@
 {
-  "updatedAt": "2026-11-05T15:53:15.851Z",
+  "updatedAt": "2026-11-05T16:13:22.642Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T15:53:15.851Z",
+    "at": "2026-11-05T16:13:22.642Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "draw: made something at, made a drawing, thought about need, step 1/5: go_to, new plan",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-05:a4bda333",
-    "stepsLeft": 0,
+    "planId": "2026-11-05:4b5a62ce",
+    "stepsLeft": 4,
     "current": {
-      "index": 2,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-05T15:58:16.086Z",
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "until": "2026-11-05T16:23:22.642Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-05T14:23:15.840Z",
+    "lastReplanAt": "2026-11-05T16:13:22.642Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 63,
-    "decideCalls": 10,
+    "ticks": 64,
+    "decideCalls": 11,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "art": 2,
-      "decide": 9
+      "art": 3,
+      "decide": 10
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
-      "need": 8,
-      "replan": 2
+      "stepDone": 19,
+      "need": 9,
+      "replan": 3
     },
     "failures": 0,
     "rejections": 0,
@@ -56,9 +60,10 @@
       "photograph meadow": 1,
       "watch perch": 1,
       "go_to bowl": 2,
-      "sit": 2
+      "sit": 2,
+      "go_to bookshelf": 1
     },
-    "longestGapMinutes": 10
+    "longestGapMinutes": 20
   },
   "quotas": {
     "readings": {
@@ -66,7 +71,7 @@
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 3,
       "max": 4
     },
     "photos": {
@@ -83,22 +88,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 310,
+    "hunger": 330,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 20
+    "minutes": 40
   },
   "spend": {
-    "monthUsd": 0.31433202,
+    "monthUsd": 0.31715632,
     "capUsd": 10,
     "paceUsd": 1.6666666666666667
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 310 minutes while awake",
+    "hunger has been under 15 for 330 minutes while awake",
     "started \"draw desk\" 3 times today"
   ]
 }
