@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 82.5,
-    "curiosity": 100
+    "energy": 97.3,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    -12.82,
     0,
-    10.5
+    12.5
   ],
-  "mood": "pleased",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.18,
+    "valence": 0.47,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "sunny-rock",
-    "startedAt": "2026-11-05T12:13:16.163Z",
-    "seed": 1968269384,
-    "reason": "The sunny rock catches the morning light first, and that is worth a picture.",
-    "goalRef": "today:3"
+    "type": "go_to",
+    "targetId": "meadow",
+    "startedAt": "2026-11-05T12:33:13.708Z",
+    "seed": 1968270621,
+    "reason": "The meadow has flowers I took without asking, and I want to check they are still mine.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T12:13:16.163Z",
+  "lastTickAt": "2026-11-05T12:33:13.708Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
