@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 67.9
+    "curiosity": 59.8
   },
   "position": [
     -14.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.92,
-    "arousal": 0.92
+    "valence": -0.85,
+    "arousal": 0.85
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-05T21:12:40.340Z",
-    "seed": 1278594903,
+    "startedAt": "2026-11-05T21:33:17.999Z",
+    "seed": 157056778,
     "reason": "The bed is soft and the bowl is filled when I wake, so I will wait there.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T21:13:14.798Z",
+  "lastTickAt": "2026-11-05T21:33:22.555Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
