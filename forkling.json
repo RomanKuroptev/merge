@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 62.1,
-    "energy": 88.6,
-    "curiosity": 99.9
+    "hunger": 58.1,
+    "energy": 85.3,
+    "curiosity": 100
   },
   "position": [
-    -23.5,
+    -18.5,
     0,
-    14.5
+    10.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.31,
-    "arousal": 0.45
+    "valence": 0.3,
+    "arousal": 0.44
   },
   "intention": {
     "type": "photograph",
     "targetId": "reading-lamp",
-    "startedAt": "2026-11-05T08:53:16.815Z",
-    "seed": 1968265576,
+    "startedAt": "2026-11-05T09:03:12.199Z",
+    "seed": 675991675,
     "reason": "The lamp is mine, so I will keep a picture of it on record.",
     "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T08:53:16.815Z",
+  "lastTickAt": "2026-11-05T09:03:17.237Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
