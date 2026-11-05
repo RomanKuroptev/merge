@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 71.5,
-    "curiosity": 100
+    "energy": 80,
+    "curiosity": 99.8
   },
   "position": [
-    -17.07,
+    -0.59,
     0,
-    0.97
+    3.31
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.83,
-    "arousal": 1
+    "valence": -0.74,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-05T18:03:21.301Z",
-    "seed": 1968299645,
-    "reason": "Dusk is nearly done, the bowl is empty, and nothing I can make fits in today's room, so I will run off the restlessness and then curl up on the bed.",
-    "goalRef": "today:0"
+    "type": "curl_up",
+    "targetId": "bed",
+    "startedAt": "2026-11-05T18:33:20.132Z",
+    "seed": 1968296292,
+    "reason": "Once the zoomies are out of me, the soft bed is where I will wait for morning and the filled bowl.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T18:03:21.301Z",
+  "lastTickAt": "2026-11-05T18:33:20.132Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
