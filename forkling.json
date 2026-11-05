@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 74,
-    "curiosity": 99.9
+    "energy": 67.3,
+    "curiosity": 100
   },
   "position": [
-    12.59,
+    -9.5,
     0,
-    16.56
+    15.5
   ],
-  "mood": "delighted",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.43,
+    "valence": 0.1,
     "arousal": 1
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-05T13:13:14.770Z",
-    "seed": 1968282238,
+    "startedAt": "2026-11-05T13:32:43.399Z",
+    "seed": 1311803912,
     "reason": "A high place above the island is where I am most comfortable, and I can keep an eye on things from there.",
     "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-05T13:13:14.770Z",
+  "lastTickAt": "2026-11-05T13:33:17.202Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
