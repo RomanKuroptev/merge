@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-11-05T17:33:15.751Z",
+  "updatedAt": "2026-11-05T17:43:18.943Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T17:33:15.751Z",
+    "at": "2026-11-05T17:43:18.943Z",
     "asleep": false,
-    "summary": "observe: made something at, made a labnote, thought about need, step 1/3: zoomies, new plan",
-    "think": "decide",
-    "triggers": [
-      "need",
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,7 +23,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 72,
+    "ticks": 73,
     "decideCalls": 14,
     "callsByKind": {
       "memory": 1,
@@ -90,13 +86,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 410,
+    "hunger": 420,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 120
+    "minutes": 130
   },
   "spend": {
     "monthUsd": 0.32274203,
@@ -105,7 +101,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 410 minutes while awake",
+    "hunger has been under 15 for 420 minutes while awake",
     "started \"draw desk\" 3 times today",
     "started \"read bookshelf\" 3 times today"
   ]
