@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-05T14:43:14.503Z",
+  "updatedAt": "2026-11-05T14:53:14.637Z",
   "engine": "v0.8.0",
   "date": "2026-11-05",
   "lastTick": {
-    "at": "2026-11-05T14:43:14.503Z",
+    "at": "2026-11-05T14:53:14.637Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -23,7 +23,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 55,
+    "ticks": 56,
     "decideCalls": 8,
     "callsByKind": {
       "memory": 1,
@@ -82,13 +82,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 240,
+    "hunger": 250,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 20
+    "minutes": 30
   },
   "spend": {
     "monthUsd": 0.31148876,
@@ -97,6 +97,6 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 240 minutes while awake"
+    "hunger has been under 15 for 250 minutes while awake"
   ]
 }
