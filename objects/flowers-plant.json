@@ -1,0 +1,82 @@
+{
+  "id": "flowers-plant",
+  "kind": "plant",
+  "name": "flowers plant",
+  "position": [
+    -4.17,
+    0,
+    15.64
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.05,
+          0.3,
+          0.05
+        ],
+        "at": [
+          0,
+          0.15,
+          0
+        ],
+        "color": "#4f7d3a"
+      },
+      {
+        "shape": "sphere",
+        "size": [
+          0.18,
+          0.18,
+          0.18
+        ],
+        "at": [
+          0,
+          0.36,
+          0
+        ],
+        "color": "#e86fa0"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.45,
+    "weightKg": 0.5,
+    "carryable": false,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": true,
+    "high": false,
+    "material": "flowers",
+    "storage": false
+  },
+  "unlocks": [],
+  "grows": {
+    "hours": 48,
+    "gives": "flowers"
+  },
+  "state": {
+    "plantedAt": "2026-11-06T07:53:17.491Z"
+  },
+  "made": {
+    "verb": "plant",
+    "materials": [
+      "flowers"
+    ],
+    "skill": 1,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-06T07:53:17.491Z",
+    "seed": 1968217593
+  },
+  "affordances": [],
+  "reason": "The flowers I am carrying will go in the garden plot where I can watch them."
+}
