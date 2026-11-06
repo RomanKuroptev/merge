@@ -156,12 +156,12 @@
     "count": 5,
     "queue": []
   },
-  "openBuild": null,
-  "openCode": {
-    "id": "the-pattern-nobody-placed",
-    "kind": "code",
-    "requestedAt": "2026-11-06T16:03:17.061Z"
+  "codeWeek": {
+    "week": "2026-W45",
+    "count": 0
   },
+  "openBuild": null,
+  "openCode": null,
   "brokenOff": [],
   "rejections": [
     {
@@ -227,9 +227,5 @@
         "the plan would make 2 things, but there is room for 1 more today"
       ]
     }
-  ],
-  "codeWeek": {
-    "week": "2026-W45",
-    "count": 1
-  }
+  ]
 }
