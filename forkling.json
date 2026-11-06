@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 14.1,
-    "energy": 73.6,
+    "hunger": 10.1,
+    "energy": 70.3,
     "curiosity": 100
   },
   "position": [
     -18.5,
     0,
-    10.5
+    14.5
   ],
   "mood": "curious",
   "feelings": {
-    "valence": 0.14,
-    "arousal": 0.69
+    "valence": 0.13,
+    "arousal": 0.67
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-06T09:53:16.351Z",
-    "seed": 1968224536,
-    "reason": "The bowl is empty until morning, so I cannot eat now; I will spend the rest of the day on what is still owed to my reading and photographs.",
+    "startedAt": "2026-11-06T10:03:05.299Z",
+    "seed": 319643161,
+    "reason": "Seeds that grow without permission still bother me, so I want to know how they do it.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T09:53:16.351Z",
+  "lastTickAt": "2026-11-06T10:03:14.057Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
