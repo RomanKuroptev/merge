@@ -36,15 +36,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-06",
-  "appliedStepAt": "2026-11-06T15:23:13.198Z",
-  "lastThinkAt": "2026-11-06T15:53:14.571Z",
+  "appliedStepAt": "2026-11-06T15:33:14.937Z",
+  "lastThinkAt": "2026-11-06T16:03:17.061Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "eat",
-      "targetId": "bowl",
-      "at": "2026-11-06T06:03:23.400Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -137,6 +132,11 @@
       "verb": "code",
       "targetId": "desk",
       "at": "2026-11-06T15:33:14.937Z"
+    },
+    {
+      "verb": "photograph",
+      "targetId": "a-flowers-plant-2",
+      "at": "2026-11-06T16:03:17.061Z"
     }
   ],
   "lastReflectDate": "2026-11-05",
@@ -157,7 +157,11 @@
     "queue": []
   },
   "openBuild": null,
-  "openCode": null,
+  "openCode": {
+    "id": "the-pattern-nobody-placed",
+    "kind": "code",
+    "requestedAt": "2026-11-06T16:03:17.061Z"
+  },
   "brokenOff": [],
   "rejections": [
     {
@@ -223,5 +227,9 @@
         "the plan would make 2 things, but there is room for 1 more today"
       ]
     }
-  ]
+  ],
+  "codeWeek": {
+    "week": "2026-W45",
+    "count": 1
+  }
 }
