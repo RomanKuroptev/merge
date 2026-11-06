@@ -1,0 +1,105 @@
+{
+  "id": "a-small-clay-bowl-5",
+  "kind": "made",
+  "name": "a small clay bowl",
+  "position": [
+    -7.15,
+    0,
+    15.99
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.104,
+          0.104,
+          0.104
+        ],
+        "at": [
+          0.025,
+          0.052,
+          0.003
+        ],
+        "rotation": [
+          -0.035,
+          -1.164,
+          0.061
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.078,
+          0.078,
+          0.078
+        ],
+        "at": [
+          -0.017,
+          0.143,
+          -0.012
+        ],
+        "rotation": [
+          0.154,
+          0.074,
+          -0.115
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.077,
+          0.077,
+          0.077
+        ],
+        "at": [
+          -0.019,
+          0.22,
+          0.007
+        ],
+        "rotation": [
+          -0.155,
+          1.838,
+          -0.001
+        ],
+        "color": "#c2703d"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.258,
+    "weightKg": 4,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "made": {
+    "verb": "shape",
+    "materials": [
+      "clay"
+    ],
+    "skill": 4,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-06T15:23:13.198Z",
+    "seed": 1968237173
+  },
+  "affordances": [],
+  "reason": "One piece of clay becomes a finished small object at the workbench, and I will keep it where I can see it."
+}

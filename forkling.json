@@ -4,32 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 69.4,
-    "curiosity": 92
+    "energy": 83.4,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    -10.45,
     0,
-    12.5
+    6.79
   ],
-  "mood": "frustrated",
+  "mood": "pleased",
   "feelings": {
-    "valence": -0.28,
+    "valence": 0.33,
     "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-06T15:13:10.209Z",
-    "seed": 984560041,
-    "reason": "One piece of clay becomes a finished small object at the workbench, and I will keep it where I can see it.",
-    "goalRef": "today:3"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "photograph",
+    "targetId": "reading-lamp",
+    "startedAt": "2026-11-06T15:23:13.198Z",
+    "seed": 1968237173,
+    "reason": "The reading lamp is mine and the claim should be on record again.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T15:13:14.655Z",
+  "lastTickAt": "2026-11-06T15:23:13.198Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
