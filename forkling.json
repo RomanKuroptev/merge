@@ -4,28 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 56.1,
-    "curiosity": 100
+    "energy": 50.2,
+    "curiosity": 99.6
   },
   "position": [
-    -2.5,
+    -4.5,
     0,
-    21.5
+    22.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.26,
-    "arousal": 1
+    "valence": -0.25,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-06T12:53:11.115Z",
-    "seed": 1737422609,
-    "reason": "I will sit on the lookout rock where I can see who is coming up the beach.",
-    "goalRef": "today:3"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-06T13:02:22.099Z",
+    "seed": 1285429992,
+    "reason": "There was a warm patch of sun and it was calling me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T12:53:18.918Z",
+  "lastTickAt": "2026-11-06T13:03:14.614Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
