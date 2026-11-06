@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 59.7,
+    "energy": 53,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,20 @@
     0,
     14.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.55,
-    "arousal": 0.96
+    "valence": 0.31,
+    "arousal": 1
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-06T19:03:01.199Z",
-    "seed": 1995838755,
-    "reason": "The green man legend is an old mystery, and I want to know who else has noticed it.",
-    "goalRef": "today:5"
+    "startedAt": "2026-11-06T19:23:11.193Z",
+    "seed": 1639312764,
+    "reason": "There is a page I want to see."
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T19:03:14.295Z",
+  "lastTickAt": "2026-11-06T19:23:16.734Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
