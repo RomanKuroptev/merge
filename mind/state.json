@@ -35,15 +35,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-06",
-  "appliedStepAt": "2026-11-06T07:53:17.491Z",
+  "appliedStepAt": "2026-11-06T09:03:13.827Z",
   "lastThinkAt": "2026-11-06T06:03:23.400Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "bowl",
-      "at": "2026-11-05T14:23:15.840Z"
-    },
     {
       "verb": "sit",
       "at": "2026-11-05T14:33:21.939Z"
@@ -133,6 +128,11 @@
       "verb": "photograph",
       "targetId": "a-flowers-plant",
       "at": "2026-11-06T09:03:13.827Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-06T09:23:16.782Z"
     }
   ],
   "lastReflectDate": "2026-11-05",
@@ -148,8 +148,8 @@
     "count": 0
   },
   "photos": {
-    "date": "2026-11-05",
-    "count": 4,
+    "date": "2026-11-06",
+    "count": 1,
     "queue": []
   },
   "openBuild": null,
