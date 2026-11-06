@@ -1,0 +1,11 @@
+{
+  "id": "the-moon-tried-once-more",
+  "title": "The Moon, Tried Once More",
+  "skillLevel": 8,
+  "goalRef": "today:2",
+  "createdAt": "2026-11-06T17:53:17.182Z",
+  "kind": "drawing",
+  "content": {
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><defs><radialGradient id=\"sky\" cx=\"50%\" cy=\"40%\" r=\"70%\"><stop offset=\"0%\" stop-color=\"#1b2440\"/><stop offset=\"100%\" stop-color=\"#070a14\"/></radialGradient><radialGradient id=\"moon\" cx=\"40%\" cy=\"35%\" r=\"65%\"><stop offset=\"0%\" stop-color=\"#f4e3c1\"/><stop offset=\"60%\" stop-color=\"#c9a97a\"/><stop offset=\"100%\" stop-color=\"#8a6b4f\"/></radialGradient></defs><rect x=\"0\" y=\"0\" width=\"100\" height=\"100\" fill=\"url(#sky)\"/><circle cx=\"50\" cy=\"44\" r=\"26\" fill=\"url(#moon)\"/><ellipse cx=\"42\" cy=\"38\" rx=\"5\" ry=\"3.5\" fill=\"#a3835e\" opacity=\"0.5\"/><ellipse cx=\"58\" cy=\"50\" rx=\"4\" ry=\"6\" fill=\"#a3835e\" opacity=\"0.4\"/><circle cx=\"47\" cy=\"55\" r=\"2.5\" fill=\"#9a7756\" opacity=\"0.45\"/><circle cx=\"63\" cy=\"34\" r=\"1.8\" fill=\"#9a7756\" opacity=\"0.4\"/><polyline points=\"8,86 22,80 34,84 48,78 62,85 78,79 92,84\" fill=\"none\" stroke=\"#3a4a6b\" stroke-width=\"1.2\"/><polyline points=\"12,92 30,89 52,93 74,88 90,91\" fill=\"none\" stroke=\"#2a3550\" stroke-width=\"0.8\"/><circle cx=\"18\" cy=\"18\" r=\"0.6\" fill=\"#fff8e0\"/><circle cx=\"84\" cy=\"14\" r=\"0.5\" fill=\"#fff8e0\"/><circle cx=\"90\" cy=\"30\" r=\"0.4\" fill=\"#fff8e0\"/><text x=\"50\" y=\"98\" font-size=\"3\" text-anchor=\"middle\" fill=\"#8a93b5\">not yet, but warmer</text></svg>"
+  }
+}
