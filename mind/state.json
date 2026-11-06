@@ -37,8 +37,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-06",
   "appliedStepAt": "2026-11-06T18:53:15.521Z",
-  "lastThinkAt": "2026-11-06T20:33:17.652Z",
-  "replanAfter": "2026-11-06T21:33:17.652Z",
+  "lastThinkAt": "2026-11-06T21:13:15.720Z",
+  "replanAfter": "2026-11-06T22:13:15.720Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -166,12 +166,6 @@
   "brokenOff": [],
   "rejections": [
     {
-      "at": "2026-11-02T19:43:14.243Z",
-      "reasons": [
-        "the plan would make 3 things, but there is room for 2 more today"
-      ]
-    },
-    {
       "at": "2026-11-03T06:03:16.460Z",
       "reasons": [
         "step 6 (\"observe\") cannot happen then: it needs dusk",
@@ -226,6 +220,12 @@
       "at": "2026-11-06T20:33:17.652Z",
       "reasons": [
         "step 2 (\"sleep\") cannot happen then: it needs night"
+      ]
+    },
+    {
+      "at": "2026-11-06T21:13:15.720Z",
+      "reasons": [
+        "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
     }
   ]
