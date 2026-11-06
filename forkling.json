@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 63,
+    "energy": 59.7,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -18.5,
     0,
-    18.5
+    14.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.57,
-    "arousal": 1
+    "valence": 0.55,
+    "arousal": 0.96
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-06T18:53:15.521Z",
-    "seed": 1968388239,
+    "startedAt": "2026-11-06T19:03:01.199Z",
+    "seed": 1995838755,
     "reason": "The green man legend is an old mystery, and I want to know who else has noticed it.",
     "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T18:53:15.521Z",
+  "lastTickAt": "2026-11-06T19:03:14.295Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
