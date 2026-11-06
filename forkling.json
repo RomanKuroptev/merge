@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 99.2
+    "energy": 96.7,
+    "curiosity": 100
   },
   "position": [
-    -2.46,
+    -14.5,
     0,
-    17.93
+    18.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.52,
-    "arousal": 1
+    "valence": 0.5,
+    "arousal": 0.96
   },
   "intention": {
     "type": "photograph",
     "targetId": "telescope",
-    "startedAt": "2026-11-06T16:53:14.309Z",
-    "seed": 1968381806,
+    "startedAt": "2026-11-06T17:03:07.799Z",
+    "seed": 96212861,
     "reason": "The telescope is the biggest thing here and it is mine, so it goes on record.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T16:53:14.309Z",
+  "lastTickAt": "2026-11-06T17:03:13.783Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
