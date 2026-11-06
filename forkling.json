@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73.1,
-    "curiosity": 99.7
+    "energy": 88.1,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    -8.81,
     0,
-    20.5
+    22.65
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.54,
-    "arousal": 0.92
+    "valence": -0.5,
+    "arousal": 0.85
   },
   "intention": {
-    "type": "curl_up",
-    "startedAt": "2026-11-06T21:33:05.599Z",
-    "seed": 254782708,
-    "reason": "Something soft was right there, and I was tired."
+    "type": "sleep",
+    "startedAt": "2026-11-06T21:53:06.744Z",
+    "seed": 1704964354,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T21:33:17.246Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-06T21:53:15.634Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }
