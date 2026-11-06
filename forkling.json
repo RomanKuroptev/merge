@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73,
+    "energy": 69.7,
     "curiosity": 100
   },
   "position": [
-    -4.22,
+    -14.5,
     0,
-    -0.87
+    18.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.61,
-    "arousal": 0.89
+    "valence": 0.29,
+    "arousal": 1
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-06T18:23:14.109Z",
-    "seed": 1968374150,
+    "startedAt": "2026-11-06T18:33:12.799Z",
+    "seed": 454163175,
     "reason": "Dusk has come, and the sky is worth looking at through what is mine.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T18:23:14.109Z",
+  "lastTickAt": "2026-11-06T18:33:15.410Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
