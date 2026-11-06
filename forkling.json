@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 56.3,
+    "energy": 71.2,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -14.78,
     0,
-    14.5
+    -17.74
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.22,
-    "arousal": 0.86
+    "valence": -0.4,
+    "arousal": 1
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-06T13:33:09.399Z",
-    "seed": 354798209,
-    "reason": "Hidden patterns that nobody placed are exactly the sort of thing I keep notes on, so I will find out what others have written.",
-    "goalRef": "today:0"
+    "type": "draw",
+    "targetId": "desk",
+    "startedAt": "2026-11-06T14:03:18.097Z",
+    "seed": 1968227506,
+    "reason": "I have still not settled the moon's colour, so I will try again on the desk.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T13:33:17.411Z",
+  "lastTickAt": "2026-11-06T14:03:18.097Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
