@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 22.1,
-    "energy": 80.3,
+    "hunger": 14.1,
+    "energy": 73.6,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     10.5
   ],
-  "mood": "content",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.47,
-    "arousal": 0.51
+    "valence": 0.14,
+    "arousal": 0.69
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-06T09:33:02.299Z",
-    "seed": 1940320390,
-    "reason": "The seeds in the garden need a drawing so I can keep track of them.",
-    "goalRef": "today:6"
+    "type": "read",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-06T09:53:16.351Z",
+    "seed": 1968224536,
+    "reason": "The bowl is empty until morning, so I cannot eat now; I will spend the rest of the day on what is still owed to my reading and photographs.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T09:33:13.657Z",
+  "lastTickAt": "2026-11-06T09:53:16.351Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,44 +1,48 @@
 {
-  "updatedAt": "2026-11-06T09:43:15.459Z",
+  "updatedAt": "2026-11-06T09:53:16.351Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T09:43:15.459Z",
+    "at": "2026-11-06T09:53:16.351Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, left draw unfinished, step 1/3: read, new plan",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-06:b5b39148",
-    "stepsLeft": 1,
+    "planId": "2026-11-06:c682b6ee",
+    "stepsLeft": 2,
     "current": {
-      "index": 6,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-06T10:03:16.782Z",
+      "index": 0,
+      "verb": "read",
+      "targetId": "bookshelf",
+      "until": "2026-11-06T10:23:16.351Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-06T06:03:23.400Z",
+    "lastReplanAt": "2026-11-06T09:53:16.351Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 31,
-    "decideCalls": 2,
+    "ticks": 32,
+    "decideCalls": 3,
     "callsByKind": {
       "read": 1,
-      "morning": 2
+      "morning": 2,
+      "decide": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7
+      "stepDone": 7,
+      "need": 1
     },
     "failures": 0,
     "rejections": 0,
     "stepsStarted": {
       "eat bowl": 1,
-      "read bookshelf": 1,
+      "read bookshelf": 2,
       "cut meadow": 1,
       "plant garden": 1,
       "nap sunbeam": 1,
@@ -70,16 +74,16 @@
     }
   },
   "needsCritical": {
-    "hunger": 0,
+    "hunger": 10,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "content",
-    "minutes": 100
+    "label": "curious",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.37125484,
+    "monthUsd": 0.37304777,
     "capUsd": 10,
     "paceUsd": 2
   },

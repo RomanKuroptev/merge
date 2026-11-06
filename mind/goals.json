@@ -9,12 +9,6 @@
     "date": "2026-11-06",
     "steps": [
       {
-        "verb": "eat",
-        "targetId": "bowl",
-        "reason": "The bowl is full again and I am empty, so I will eat before anything else.",
-        "minutes": 15
-      },
-      {
         "verb": "read",
         "targetId": "bookshelf",
         "reason": "Seeds that grow without permission still bother me, so I want to know how they do it.",
@@ -22,56 +16,26 @@
         "minutes": 30
       },
       {
-        "verb": "cut",
-        "targetId": "meadow",
-        "reason": "The meadow has flowers I took before, and I will take another handful without asking.",
-        "minutes": 20
-      },
-      {
-        "verb": "plant",
-        "targetId": "garden",
-        "materials": [
-          "flowers"
-        ],
-        "makes": "flowers plant",
-        "reason": "The flowers I am carrying will go in the garden plot where I can watch them.",
-        "minutes": 20
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "The morning sun is warm and I have earned a nap in it.",
-        "minutes": 60
-      },
-      {
         "verb": "photograph",
         "targetId": "a-flowers-plant",
-        "reason": "The plant is mine now, so the claim goes on record.",
+        "reason": "The plant in the garden is mine, and the claim should be on record again.",
         "minutes": 10
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "reason": "The seeds in the garden need a drawing so I can keep track of them.",
-        "topic": "unknown seeds that grow",
-        "minutes": 40
       },
       {
         "verb": "explore",
         "position": [
-          0,
-          20
+          -2.5,
+          23.5
         ],
-        "reason": "I want to look over the island from the high ground before the day is out.",
+        "reason": "I will climb the lookout rock and sit where I can see who is coming up the beach.",
         "minutes": 30
       }
     ],
-    "reason": "I will eat, learn about seeds, take flowers to the garden, rest in the sun, and then draw and explore while the day is still mine."
+    "reason": "The bowl has no portions until morning, so I cannot eat, and the reading and photographs still owed to me can be done now."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-06T09:23:16.782Z",
-    "until": "2026-11-06T10:03:16.782Z",
-    "workedSec": 596.8
+    "index": 0,
+    "startedAt": "2026-11-06T09:53:16.351Z",
+    "until": "2026-11-06T10:23:16.351Z"
   }
 }
