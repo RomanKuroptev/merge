@@ -35,15 +35,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-06",
-  "appliedStepAt": "2026-11-06T11:53:17.063Z",
-  "lastThinkAt": "2026-11-06T11:53:17.063Z",
+  "appliedStepAt": "2026-11-06T12:13:14.002Z",
+  "lastThinkAt": "2026-11-06T12:23:17.224Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "telescope",
-      "at": "2026-11-05T16:53:32.206Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -134,6 +129,10 @@
       "verb": "photograph",
       "targetId": "tall-rock",
       "at": "2026-11-06T12:13:14.002Z"
+    },
+    {
+      "verb": "explore",
+      "at": "2026-11-06T12:23:17.224Z"
     }
   ],
   "lastReflectDate": "2026-11-05",
@@ -150,7 +149,7 @@
   },
   "photos": {
     "date": "2026-11-06",
-    "count": 3,
+    "count": 4,
     "queue": []
   },
   "openBuild": null,
