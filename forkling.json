@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 86.3,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 99.2
   },
   "position": [
-    -18.5,
+    -2.46,
     0,
-    14.5
+    17.93
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.78,
-    "arousal": 0.94
+    "valence": 0.52,
+    "arousal": 1
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-06T16:33:11.199Z",
-    "seed": 41501524,
-    "reason": "Seeds that grow without permission still bother me, so I will find out what others have written about them.",
-    "goalRef": "today:0"
+    "type": "photograph",
+    "targetId": "telescope",
+    "startedAt": "2026-11-06T16:53:14.309Z",
+    "seed": 1968381806,
+    "reason": "The telescope is the biggest thing here and it is mine, so it goes on record.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T16:33:22.001Z",
+  "lastTickAt": "2026-11-06T16:53:14.309Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
