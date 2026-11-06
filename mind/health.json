@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T22:03:12.283Z",
+  "updatedAt": "2026-11-06T23:03:14.741Z",
   "engine": "v0.8.0",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-06T22:03:12.283Z",
+    "at": "2026-11-06T23:03:14.741Z",
     "asleep": true,
-    "summary": "rewrote its memory",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,57 +18,26 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 105,
-    "decideCalls": 24,
-    "callsByKind": {
-      "read": 1,
-      "morning": 2,
-      "decide": 22,
-      "art": 4,
-      "bedtime": 1,
-      "memory": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 27,
-      "need": 17,
-      "replan": 5,
-      "bedtime": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 2,
-    "stepsStarted": {
-      "eat bowl": 1,
-      "read bookshelf": 6,
-      "cut meadow": 1,
-      "plant garden": 1,
-      "nap sunbeam": 1,
-      "photograph a-flowers-plant": 2,
-      "draw desk": 3,
-      "explore": 2,
-      "photograph a-flowers-plant-2": 2,
-      "photograph tall-rock": 1,
-      "cut clay-bank": 1,
-      "shape workbench": 1,
-      "photograph reading-lamp": 1,
-      "code desk": 1,
-      "photograph telescope": 1,
-      "watch perch": 1,
-      "observe telescope": 1
-    },
-    "longestGapMinutes": 20
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 3,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 7,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -86,18 +55,14 @@
     "curiosity": 0
   },
   "mood": {
-    "label": "upset",
-    "minutes": 50
+    "label": "frustrated",
+    "minutes": 0
   },
   "spend": {
     "monthUsd": 0.44764016,
     "capUsd": 10,
-    "paceUsd": 2
+    "paceUsd": 2.3333333333333335
   },
   "openBuild": null,
-  "warnings": [
-    "started \"read bookshelf\" 6 times today",
-    "started \"draw desk\" 3 times today",
-    "24 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
