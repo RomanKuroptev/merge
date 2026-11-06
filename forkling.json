@@ -4,28 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 53,
-    "curiosity": 100
+    "energy": 63.4,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    -10.36,
     0,
-    14.5
+    7.45
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.31,
-    "arousal": 1
+    "valence": 0.3,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-06T19:23:11.193Z",
-    "seed": 1639312764,
-    "reason": "There is a page I want to see."
+    "type": "sniff",
+    "startedAt": "2026-11-06T19:32:54.899Z",
+    "seed": 1761824924,
+    "reason": "It needs smelling."
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T19:23:16.734Z",
+  "lastTickAt": "2026-11-06T19:33:14.186Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
