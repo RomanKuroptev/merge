@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 78,
+    "energy": 91.1,
     "curiosity": 100
   },
   "position": [
-    -6.5,
+    -2.5,
     0,
-    20.5
+    21.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.54,
-    "arousal": 0.96
+    "valence": 0.83,
+    "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "a-flowers-plant-2",
-    "startedAt": "2026-11-06T16:13:11.960Z",
-    "seed": 1206638116,
-    "reason": "The garden flowers are mine, so I will put them on record once more.",
-    "goalRef": "today:6"
+    "type": "read",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-06T16:18:52.472Z",
+    "seed": 1968236408,
+    "reason": "Reading and drawing are still owed to me, and the seeds and moon have not been settled, so I will go back to both before dusk brings the telescope.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T16:13:13.986Z",
+  "lastTickAt": "2026-11-06T16:18:52.472Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
