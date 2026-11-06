@@ -11,38 +11,68 @@
       {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will find out how they do it.",
-        "topic": "unknown seeds that grow",
+        "reason": "Hidden patterns that nobody placed are exactly the sort of thing I keep notes on, so I will find out what others have written.",
+        "topic": "hidden networks and patterns nobody placed",
         "minutes": 30
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "makes": "a drawing of the moon",
+        "reason": "I have still not settled the moon's colour, so I will try again on the desk.",
+        "topic": "the moon's colour",
+        "minutes": 30
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "materials": [
+          "clay"
+        ],
+        "reason": "Clay is good and the clay bank is mine to take from, so I will take a piece with empty paws.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay bowl",
+        "reason": "One piece of clay becomes a finished small object at the workbench, and I will keep it where I can see it.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 20
+      },
+      {
+        "verb": "photograph",
+        "targetId": "reading-lamp",
+        "reason": "The reading lamp is mine and the claim should be on record again.",
+        "minutes": 10
+      },
+      {
+        "verb": "code",
+        "targetId": "desk",
+        "reason": "Something on this island is arranged in a pattern, and I will write it down before anyone else notices.",
+        "topic": "patterns on the island",
+        "minutes": 20
       },
       {
         "verb": "photograph",
         "targetId": "a-flowers-plant-2",
-        "reason": "The flowers in the garden are mine, and I want the claim on record again.",
+        "reason": "The garden flowers are mine, so I will put them on record once more.",
         "minutes": 10
-      },
-      {
-        "verb": "photograph",
-        "targetId": "tall-rock",
-        "reason": "The lookout rock is mine, and it should be on record too.",
-        "minutes": 10
-      },
-      {
-        "verb": "explore",
-        "position": [
-          -2.5,
-          23.5
-        ],
-        "reason": "I will sit on the lookout rock where I can see who is coming up the beach.",
-        "minutes": 60
       }
     ],
-    "reason": "The reading and photographs still owed to me can be done now, and then I will take the high place for the rest of the afternoon."
+    "reason": "The reading, drawing and photographs still owed to me are done first, with a bit of clay work in between, so that the afternoon is full and mine."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-06T12:23:17.224Z",
-    "until": "2026-11-06T13:23:17.224Z",
-    "workedSec": 2215.4
+    "index": 0,
+    "startedAt": "2026-11-06T13:23:18.444Z",
+    "until": "2026-11-06T13:53:18.444Z"
   }
 }

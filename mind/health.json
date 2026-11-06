@@ -1,46 +1,50 @@
 {
-  "updatedAt": "2026-11-06T13:13:14.040Z",
+  "updatedAt": "2026-11-06T13:23:18.444Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T13:13:14.040Z",
+    "at": "2026-11-06T13:23:18.444Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/7: read, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-06:1cecab42",
-    "stepsLeft": 0,
+    "planId": "2026-11-06:034c6c31",
+    "stepsLeft": 6,
     "current": {
-      "index": 3,
-      "verb": "explore",
-      "until": "2026-11-06T13:23:17.224Z",
+      "index": 0,
+      "verb": "read",
+      "targetId": "bookshelf",
+      "until": "2026-11-06T13:53:18.444Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-06T11:23:16.668Z",
+    "lastReplanAt": "2026-11-06T13:23:18.444Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 52,
-    "decideCalls": 9,
+    "ticks": 53,
+    "decideCalls": 10,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 7
+      "decide": 8
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
+      "stepDone": 14,
       "need": 6,
-      "replan": 1
+      "replan": 2
     },
     "failures": 0,
     "rejections": 0,
     "stepsStarted": {
       "eat bowl": 1,
-      "read bookshelf": 3,
+      "read bookshelf": 4,
       "cut meadow": 1,
       "plant garden": 1,
       "nap sunbeam": 1,
@@ -75,22 +79,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 210,
+    "hunger": 220,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "frustrated",
-    "minutes": 20
+    "minutes": 30
   },
   "spend": {
-    "monthUsd": 0.38367614,
+    "monthUsd": 0.38597097,
     "capUsd": 10,
     "paceUsd": 2
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 210 minutes while awake",
-    "started \"read bookshelf\" 3 times today"
+    "hunger has been under 15 for 220 minutes while awake",
+    "started \"read bookshelf\" 4 times today"
   ]
 }

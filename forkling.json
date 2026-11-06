@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 50.2,
-    "curiosity": 99.6
+    "energy": 59.6,
+    "curiosity": 100
   },
   "position": [
-    -4.5,
+    -2.5,
     0,
-    22.5
+    21.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.25,
-    "arousal": 0.96
+    "valence": -0.23,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-06T13:02:22.099Z",
-    "seed": 1285429992,
-    "reason": "There was a warm patch of sun and it was calling me."
+    "type": "read",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-06T13:23:18.444Z",
+    "seed": 1968229970,
+    "reason": "The day's reading, drawing, photographs and coding are still owed to me, and clay is the thing I want to shape, so I will do those while the sun is still on the desk.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T13:03:14.614Z",
+  "lastTickAt": "2026-11-06T13:23:18.444Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
