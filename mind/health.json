@@ -1,40 +1,43 @@
 {
-  "updatedAt": "2026-11-06T10:13:15.899Z",
+  "updatedAt": "2026-11-06T10:23:17.644Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T10:13:15.899Z",
+    "at": "2026-11-06T10:23:17.644Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "read: read at, thought about need, step 2/3: photograph",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-06:c682b6ee",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "read",
-      "targetId": "bookshelf",
-      "until": "2026-11-06T10:23:16.351Z",
+      "index": 1,
+      "verb": "photograph",
+      "targetId": "a-flowers-plant",
+      "until": "2026-11-06T10:33:17.644Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-06T09:53:16.351Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 34,
-    "decideCalls": 3,
+    "ticks": 35,
+    "decideCalls": 4,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 1
+      "decide": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7,
-      "need": 1
+      "stepDone": 8,
+      "need": 2
     },
     "failures": 0,
     "rejections": 0,
@@ -44,7 +47,7 @@
       "cut meadow": 1,
       "plant garden": 1,
       "nap sunbeam": 1,
-      "photograph a-flowers-plant": 1,
+      "photograph a-flowers-plant": 2,
       "draw desk": 1
     },
     "longestGapMinutes": 10
@@ -72,16 +75,16 @@
     }
   },
   "needsCritical": {
-    "hunger": 30,
+    "hunger": 40,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 20
+    "minutes": 30
   },
   "spend": {
-    "monthUsd": 0.37304777,
+    "monthUsd": 0.3744447,
     "capUsd": 10,
     "paceUsd": 2
   },
