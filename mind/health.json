@@ -1,40 +1,44 @@
 {
-  "updatedAt": "2026-11-06T14:23:17.231Z",
+  "updatedAt": "2026-11-06T14:33:18.852Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T14:23:17.231Z",
+    "at": "2026-11-06T14:33:18.852Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "draw: made something at, made a drawing, thought about need, step 3/7: cut",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-06:034c6c31",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 1,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-06T14:33:18.097Z",
+      "index": 2,
+      "verb": "cut",
+      "targetId": "clay-bank",
+      "until": "2026-11-06T14:43:18.852Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-06T13:23:18.444Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 59,
-    "decideCalls": 11,
+    "ticks": 60,
+    "decideCalls": 12,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 9
+      "decide": 10,
+      "art": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
-      "need": 7,
+      "stepDone": 16,
+      "need": 8,
       "replan": 2
     },
     "failures": 0,
@@ -49,7 +53,8 @@
       "draw desk": 2,
       "explore": 2,
       "photograph a-flowers-plant-2": 1,
-      "photograph tall-rock": 1
+      "photograph tall-rock": 1,
+      "cut clay-bank": 1
     },
     "longestGapMinutes": 10
   },
@@ -59,7 +64,7 @@
       "max": 5
     },
     "creative": {
-      "used": 0,
+      "used": 1,
       "max": 4
     },
     "photos": {
@@ -76,22 +81,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 280,
+    "hunger": 290,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "frustrated",
-    "minutes": 90
+    "minutes": 100
   },
   "spend": {
-    "monthUsd": 0.387407,
+    "monthUsd": 0.38979831,
     "capUsd": 10,
     "paceUsd": 2
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 280 minutes while awake",
+    "hunger has been under 15 for 290 minutes while awake",
     "started \"read bookshelf\" 4 times today"
   ]
 }

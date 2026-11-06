@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 71.2,
+    "energy": 61.2,
     "curiosity": 100
   },
   "position": [
-    -14.78,
+    -18.5,
     0,
-    -17.74
+    10.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.4,
+    "valence": -0.36,
     "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-06T14:03:18.097Z",
-    "seed": 1968227506,
-    "reason": "I have still not settled the moon's colour, so I will try again on the desk.",
-    "goalRef": "today:1"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-06T14:33:18.852Z",
+    "seed": 1968242618,
+    "reason": "Clay is good and the clay bank is mine to take from, so I will take a piece with empty paws.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T14:03:18.097Z",
+  "lastTickAt": "2026-11-06T14:33:18.852Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
