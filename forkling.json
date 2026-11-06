@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 82.3,
-    "curiosity": 99.8
+    "energy": 79,
+    "curiosity": 100
   },
   "position": [
-    7.5,
+    -2.5,
     0,
-    22.5
+    21.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.69,
-    "arousal": 1
+    "valence": 0.66,
+    "arousal": 0.96
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-06T17:53:17.182Z",
-    "seed": 1968377497,
+    "startedAt": "2026-11-06T18:03:01.199Z",
+    "seed": 250890456,
     "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
     "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T17:53:17.182Z",
+  "lastTickAt": "2026-11-06T18:03:20.040Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
