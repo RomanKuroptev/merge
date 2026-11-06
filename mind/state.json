@@ -37,8 +37,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-06",
   "appliedStepAt": "2026-11-06T18:53:15.521Z",
-  "lastThinkAt": "2026-11-06T20:03:17.224Z",
-  "replanAfter": "2026-11-06T20:23:16.734Z",
+  "lastThinkAt": "2026-11-06T20:33:17.652Z",
+  "replanAfter": "2026-11-06T21:33:17.652Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -166,12 +166,6 @@
   "brokenOff": [],
   "rejections": [
     {
-      "at": "2026-11-02T13:23:14.177Z",
-      "reasons": [
-        "step 1: The bowl is empty"
-      ]
-    },
-    {
       "at": "2026-11-02T19:43:14.243Z",
       "reasons": [
         "the plan would make 3 things, but there is room for 2 more today"
@@ -226,6 +220,12 @@
       "reasons": [
         "step 1 (\"eat\"): eat cannot be done with \"berry-bush\": eat works on something else (try: bowl)",
         "the plan would make 2 things, but there is room for 1 more today"
+      ]
+    },
+    {
+      "at": "2026-11-06T20:33:17.652Z",
+      "reasons": [
+        "step 2 (\"sleep\") cannot happen then: it needs night"
       ]
     }
   ]
