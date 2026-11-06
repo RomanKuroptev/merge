@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 59.6,
+    "energy": 56.3,
     "curiosity": 100
   },
   "position": [
-    -2.5,
+    -18.5,
     0,
-    21.5
+    14.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.23,
-    "arousal": 0.89
+    "valence": -0.22,
+    "arousal": 0.86
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-06T13:23:18.444Z",
-    "seed": 1968229970,
-    "reason": "The day's reading, drawing, photographs and coding are still owed to me, and clay is the thing I want to shape, so I will do those while the sun is still on the desk.",
+    "startedAt": "2026-11-06T13:33:09.399Z",
+    "seed": 354798209,
+    "reason": "Hidden patterns that nobody placed are exactly the sort of thing I keep notes on, so I will find out what others have written.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T13:23:18.444Z",
+  "lastTickAt": "2026-11-06T13:33:17.411Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
