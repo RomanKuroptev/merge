@@ -3,14 +3,14 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 98.1,
-    "energy": 82.7,
+    "hunger": 94.1,
+    "energy": 79.4,
     "curiosity": 100
   },
   "position": [
-    -4.5,
+    -18.5,
     0,
-    16.5
+    14.5
   ],
   "mood": "calm",
   "feelings": {
@@ -20,13 +20,13 @@
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-06T06:23:18.954Z",
-    "seed": 1968203970,
+    "startedAt": "2026-11-06T06:33:06.699Z",
+    "seed": 2070139656,
     "reason": "Seeds that grow without permission still bother me, so I want to know how they do it.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T06:23:18.954Z",
+  "lastTickAt": "2026-11-06T06:33:14.250Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
