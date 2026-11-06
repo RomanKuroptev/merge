@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 43.2,
+    "energy": 56.1,
     "curiosity": 100
   },
   "position": [
@@ -12,20 +12,20 @@
     0,
     21.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0.04,
-    "arousal": 0.96
+    "valence": -0.26,
+    "arousal": 1
   },
   "intention": {
     "type": "explore",
-    "startedAt": "2026-11-06T12:32:47.899Z",
-    "seed": 1093932088,
+    "startedAt": "2026-11-06T12:53:11.115Z",
+    "seed": 1737422609,
     "reason": "I will sit on the lookout rock where I can see who is coming up the beach.",
     "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T12:33:19.317Z",
+  "lastTickAt": "2026-11-06T12:53:18.918Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
