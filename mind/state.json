@@ -33,16 +33,11 @@
     "a-flowers-plant-2"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-05",
-  "appliedStepAt": "2026-11-05T19:33:20.346Z",
-  "lastThinkAt": "2026-11-05T21:13:14.798Z",
+  "lastPlanDate": "2026-11-06",
+  "appliedStepAt": "2026-11-05T19:53:22.352Z",
+  "lastThinkAt": "2026-11-06T06:03:23.400Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "sunny-rock",
-      "at": "2026-11-05T12:13:16.163Z"
-    },
     {
       "verb": "go_to",
       "targetId": "meadow",
@@ -132,6 +127,11 @@
       "verb": "curl_up",
       "targetId": "bed",
       "at": "2026-11-05T19:53:22.352Z"
+    },
+    {
+      "verb": "eat",
+      "targetId": "bowl",
+      "at": "2026-11-06T06:03:23.400Z"
     }
   ],
   "lastReflectDate": "2026-11-05",
@@ -139,8 +139,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-06",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-06",

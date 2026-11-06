@@ -109,9 +109,9 @@
       ]
     },
     "hidden networks and patterns nobody placed": {
-      "weight": 0.16,
+      "weight": 0.22,
       "firstSeen": "2026-11-05T07:03:15.552Z",
-      "lastFed": "2026-11-05T07:03:15.552Z",
+      "lastFed": "2026-11-06T06:03:23.400Z",
       "sources": [
         {
           "id": "hn:50371246",
@@ -131,6 +131,32 @@
           "title": "Tonight's moon: waning crescent",
           "url": "https://science.nasa.gov/moon/moon-phases/",
           "at": "2026-11-05T07:03:15.552Z"
+        }
+      ]
+    },
+    "moon's colour and phases": {
+      "weight": 0.12,
+      "firstSeen": "2026-11-06T06:03:23.400Z",
+      "lastFed": "2026-11-06T06:03:23.400Z",
+      "sources": [
+        {
+          "id": "sky:moon:2026-11-06",
+          "title": "Tonight's moon: waning crescent",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-06T06:03:23.400Z"
+        }
+      ]
+    },
+    "satellites falling back to earth": {
+      "weight": 0.1,
+      "firstSeen": "2026-11-06T06:03:23.400Z",
+      "lastFed": "2026-11-06T06:03:23.400Z",
+      "sources": [
+        {
+          "id": "sky:apod:2026-11-06",
+          "title": "NASA Science",
+          "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+          "at": "2026-11-06T06:03:23.400Z"
         }
       ]
     }

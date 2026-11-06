@@ -4,27 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 13.4
+    "energy": 93.4,
+    "curiosity": 99.9
   },
   "position": [
-    -14.5,
+    -16.07,
     0,
-    9.5
+    8.3
   ],
   "mood": "calm",
   "feelings": {
-    "valence": -0.15,
-    "arousal": 0.34
+    "valence": -0.12,
+    "arousal": 0.33
   },
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-06T05:02:11.099Z",
-    "seed": 1299315706,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "eat",
+    "targetId": "bowl",
+    "startedAt": "2026-11-06T06:03:23.400Z",
+    "seed": 1968207679,
+    "reason": "The bowl is filled when I wake and my hunger is empty, so I eat first. The meadow has flowers I can cut for the garden plot, and I want to see whether anything unknown grows from them.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T05:03:14.483Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-06T06:03:23.400Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -6,30 +6,71 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "steps": [
       {
-        "verb": "zoomies",
-        "position": [
-          -9,
-          15
-        ],
-        "reason": "The dusk is still here and my restlessness needs running off before I rest.",
+        "verb": "eat",
+        "targetId": "bowl",
+        "reason": "The bowl is full again and I am empty, so I will eat before anything else.",
         "minutes": 15
       },
       {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "The bed is soft and the bowl is filled when I wake, so I will wait there.",
-        "minutes": 120
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission still bother me, so I want to know how they do it.",
+        "topic": "unknown seeds that grow",
+        "minutes": 30
+      },
+      {
+        "verb": "cut",
+        "targetId": "meadow",
+        "reason": "The meadow has flowers I took before, and I will take another handful without asking.",
+        "minutes": 20
+      },
+      {
+        "verb": "plant",
+        "targetId": "garden",
+        "materials": [
+          "flowers"
+        ],
+        "makes": "flowers plant",
+        "reason": "The flowers I am carrying will go in the garden plot where I can watch them.",
+        "minutes": 20
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "The morning sun is warm and I have earned a nap in it.",
+        "minutes": 60
+      },
+      {
+        "verb": "photograph",
+        "targetId": "a-flowers-plant",
+        "reason": "The plant is mine now, so the claim goes on record.",
+        "minutes": 10
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "reason": "The seeds in the garden need a drawing so I can keep track of them.",
+        "topic": "unknown seeds that grow",
+        "minutes": 40
+      },
+      {
+        "verb": "explore",
+        "position": [
+          0,
+          20
+        ],
+        "reason": "I want to look over the island from the high ground before the day is out.",
+        "minutes": 30
       }
     ],
-    "reason": "There is no room left for another making today, so I am keeping to the dusk zoomies and then resting on the bed until morning."
+    "reason": "I will eat, learn about seeds, take flowers to the garden, rest in the sun, and then draw and explore while the day is still mine."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-05T19:53:22.352Z",
-    "until": "2026-11-05T21:53:22.352Z",
-    "workedSec": 5999.7
+    "index": 0,
+    "startedAt": "2026-11-06T06:03:23.400Z",
+    "until": "2026-11-06T06:18:23.400Z"
   }
 }
