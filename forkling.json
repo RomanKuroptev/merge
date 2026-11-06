@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 58.1,
+    "hunger": 46.1,
     "energy": 100,
-    "curiosity": 88
+    "curiosity": 76
   },
   "position": [
     -10.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.27,
-    "arousal": 0.5
+    "valence": 0.24,
+    "arousal": 0.47
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-06T08:02:07.199Z",
-    "seed": 14278779,
+    "startedAt": "2026-11-06T08:32:22.799Z",
+    "seed": 1054005147,
     "reason": "The morning sun is warm and I have earned a nap in it.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T08:03:19.691Z",
+  "lastTickAt": "2026-11-06T08:33:14.319Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
