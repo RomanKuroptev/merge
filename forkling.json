@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.1,
+    "energy": 80.4,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     14.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.09,
-    "arousal": 0.89
+    "valence": -0.28,
+    "arousal": 1
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-06T11:33:08.399Z",
-    "seed": 1432985631,
-    "reason": "Seeds that grow without permission still bother me, so I will find out how they do it.",
-    "goalRef": "today:0"
+    "type": "photograph",
+    "targetId": "a-flowers-plant-2",
+    "startedAt": "2026-11-06T11:53:17.063Z",
+    "seed": 1968219449,
+    "reason": "The flowers in the garden are mine, and I want the claim on record again.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T11:33:13.855Z",
+  "lastTickAt": "2026-11-06T11:53:17.063Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

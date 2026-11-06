@@ -1,40 +1,43 @@
 {
-  "updatedAt": "2026-11-06T11:43:18.220Z",
+  "updatedAt": "2026-11-06T11:53:17.063Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T11:43:18.220Z",
+    "at": "2026-11-06T11:53:17.063Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "read: read at, thought about need, step 2/4: photograph",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-06:1cecab42",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "read",
-      "targetId": "bookshelf",
-      "until": "2026-11-06T11:53:16.668Z",
+      "index": 1,
+      "verb": "photograph",
+      "targetId": "a-flowers-plant-2",
+      "until": "2026-11-06T12:03:17.063Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-06T11:23:16.668Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 43,
-    "decideCalls": 6,
+    "ticks": 44,
+    "decideCalls": 7,
     "callsByKind": {
       "read": 1,
       "morning": 2,
-      "decide": 4
+      "decide": 5
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
-      "need": 3,
+      "stepDone": 11,
+      "need": 4,
       "replan": 1
     },
     "failures": 0,
@@ -47,7 +50,8 @@
       "nap sunbeam": 1,
       "photograph a-flowers-plant": 2,
       "draw desk": 1,
-      "explore": 1
+      "explore": 1,
+      "photograph a-flowers-plant-2": 1
     },
     "longestGapMinutes": 10
   },
@@ -74,22 +78,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 120,
+    "hunger": 130,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "curious",
-    "minutes": 40
+    "label": "frustrated",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.37819729,
+    "monthUsd": 0.37960182,
     "capUsd": 10,
     "paceUsd": 2
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 120 minutes while awake",
+    "hunger has been under 15 for 130 minutes while awake",
     "started \"read bookshelf\" 3 times today"
   ]
 }
