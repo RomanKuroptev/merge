@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T13:33:17.411Z",
+  "updatedAt": "2026-11-06T13:43:13.521Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T13:33:17.411Z",
+    "at": "2026-11-06T13:43:13.521Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -24,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 54,
+    "ticks": 55,
     "decideCalls": 10,
     "callsByKind": {
       "read": 1,
@@ -76,13 +76,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 230,
+    "hunger": 240,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "frustrated",
-    "minutes": 40
+    "minutes": 50
   },
   "spend": {
     "monthUsd": 0.38597097,
@@ -91,7 +91,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 230 minutes while awake",
+    "hunger has been under 15 for 240 minutes while awake",
     "started \"read bookshelf\" 4 times today"
   ]
 }
