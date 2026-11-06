@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-06T21:23:17.305Z",
+  "updatedAt": "2026-11-06T21:33:17.246Z",
   "engine": "v0.8.0",
   "date": "2026-11-06",
   "lastTick": {
-    "at": "2026-11-06T21:23:17.305Z",
+    "at": "2026-11-06T21:33:17.246Z",
     "asleep": false,
-    "summary": "wrote the journal, 4 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "bedtime"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -17,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-06T16:18:52.472Z",
-    "idleMinutes": 130
+    "idleMinutes": 140
   },
   "today": {
-    "ticks": 101,
+    "ticks": 102,
     "decideCalls": 24,
     "callsByKind": {
       "read": 1,
@@ -82,13 +80,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 700,
+    "hunger": 710,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 10
+    "minutes": 20
   },
   "spend": {
     "monthUsd": 0.44706188,
@@ -97,8 +95,8 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 700 minutes while awake",
-    "no step in progress for 130 minutes while awake",
+    "hunger has been under 15 for 710 minutes while awake",
+    "no step in progress for 140 minutes while awake",
     "started \"read bookshelf\" 6 times today",
     "started \"draw desk\" 3 times today",
     "24 decide calls today (more than 15)"
