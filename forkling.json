@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 96.8,
+    "energy": 74.5,
     "curiosity": 100
   },
   "position": [
-    -5.5,
+    17.5,
     0,
-    12.5
+    14.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.33,
-    "arousal": 1
+    "valence": -0.29,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-06T20:33:15.499Z",
-    "seed": 618503542,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "inspect",
+    "startedAt": "2026-11-06T21:03:06.099Z",
+    "seed": 1867974065,
+    "reason": "That looks new. I will look at it properly."
   },
   "stored": {},
-  "lastTickAt": "2026-11-06T20:33:17.652Z",
+  "lastTickAt": "2026-11-06T21:03:16.071Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
