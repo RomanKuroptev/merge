@@ -11,14 +11,20 @@
       {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I want to know how they do it.",
+        "reason": "Seeds that grow without permission still bother me, so I will find out how they do it.",
         "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
         "verb": "photograph",
-        "targetId": "a-flowers-plant",
-        "reason": "The plant in the garden is mine, and the claim should be on record again.",
+        "targetId": "a-flowers-plant-2",
+        "reason": "The flowers in the garden are mine, and I want the claim on record again.",
+        "minutes": 10
+      },
+      {
+        "verb": "photograph",
+        "targetId": "tall-rock",
+        "reason": "The lookout rock is mine, and it should be on record too.",
         "minutes": 10
       },
       {
@@ -27,16 +33,15 @@
           -2.5,
           23.5
         ],
-        "reason": "I will climb the lookout rock and sit where I can see who is coming up the beach.",
-        "minutes": 30
+        "reason": "I will sit on the lookout rock where I can see who is coming up the beach.",
+        "minutes": 60
       }
     ],
-    "reason": "The bowl has no portions until morning, so I cannot eat, and the reading and photographs still owed to me can be done now."
+    "reason": "The reading and photographs still owed to me can be done now, and then I will take the high place for the rest of the afternoon."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-06T10:43:20.639Z",
-    "until": "2026-11-06T11:13:20.639Z",
-    "workedSec": 1108.3
+    "index": 0,
+    "startedAt": "2026-11-06T11:23:16.668Z",
+    "until": "2026-11-06T11:53:16.668Z"
   }
 }
