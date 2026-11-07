@@ -162,7 +162,14 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "read",
+      "verb": "eat",
+      "need": "hunger",
+      "at": "2026-11-07T07:03:50.429Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T06:03:16.460Z",
