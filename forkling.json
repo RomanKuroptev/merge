@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 86.5,
-    "curiosity": 100
+    "energy": 88.6,
+    "curiosity": 99.9
   },
   "position": [
-    -13.37,
+    13.42,
     0,
-    18.73
+    20.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.09,
-    "arousal": 0.96
+    "valence": -0.38,
+    "arousal": 1
   },
   "intention": {
-    "type": "watch",
-    "targetId": "perch",
-    "startedAt": "2026-11-07T16:03:12.299Z",
-    "seed": 1463029478,
-    "reason": "The bowl is empty until morning, so I will take the high place and keep an eye on the beach.",
-    "goalRef": "today:0"
+    "type": "go_to",
+    "targetId": "telescope",
+    "startedAt": "2026-11-07T16:33:13.856Z",
+    "seed": 1968326749,
+    "reason": "Once dusk comes I will go to the telescope, since the sky is worth looking at.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T16:03:16.730Z",
+  "lastTickAt": "2026-11-07T16:33:13.856Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
