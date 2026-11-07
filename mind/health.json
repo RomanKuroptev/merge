@@ -1,40 +1,43 @@
 {
-  "updatedAt": "2026-11-07T12:13:14.531Z",
+  "updatedAt": "2026-11-07T12:23:13.396Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T12:13:14.531Z",
+    "at": "2026-11-07T12:23:13.396Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/6: study, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-07:f66386a3",
-    "stepsLeft": 0,
+    "planId": "2026-11-07:34f4b24c",
+    "stepsLeft": 5,
     "current": {
-      "index": 4,
-      "verb": "watch",
-      "targetId": "perch",
-      "until": "2026-11-07T12:13:16.801Z",
+      "index": 0,
+      "verb": "study",
+      "targetId": "bookshelf",
+      "until": "2026-11-07T12:53:13.396Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-07T07:03:14.530Z",
+    "lastReplanAt": "2026-11-07T12:23:13.396Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 40,
-    "decideCalls": 2,
+    "ticks": 41,
+    "decideCalls": 3,
     "callsByKind": {
       "read": 1,
       "morning": 1,
-      "decide": 1
+      "decide": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
-      "replan": 1
+      "stepDone": 10,
+      "replan": 2
     },
     "failures": 0,
     "rejections": 0,
@@ -43,7 +46,8 @@
       "cut clay-bank": 2,
       "shape workbench": 2,
       "nap sunbeam": 2,
-      "watch perch": 2
+      "watch perch": 2,
+      "study bookshelf": 1
     },
     "longestGapMinutes": 11
   },
@@ -76,10 +80,10 @@
   },
   "mood": {
     "label": "delighted",
-    "minutes": 120
+    "minutes": 130
   },
   "spend": {
-    "monthUsd": 0.45254237,
+    "monthUsd": 0.4541204,
     "capUsd": 10,
     "paceUsd": 2.3333333333333335
   },

@@ -9,16 +9,25 @@
     "date": "2026-11-07",
     "steps": [
       {
-        "verb": "read",
+        "verb": "study",
         "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will find out what others have written about them.",
+        "reason": "Seeds that grow without permission still bother me, so I will read further into them than the first page allowed.",
         "topic": "unknown seeds that grow",
+        "because": [
+          "b1"
+        ],
         "minutes": 30
+      },
+      {
+        "verb": "photograph",
+        "targetId": "reading-lamp",
+        "reason": "The lamp is mine and the claim should be on record again.",
+        "minutes": 10
       },
       {
         "verb": "cut",
         "targetId": "clay-bank",
-        "reason": "The clay bank is wet and orange, and one piece of it is worth taking home to make something of.",
+        "reason": "The clay bank is wet and orange, and one more piece is worth taking home.",
         "because": [
           "b2"
         ],
@@ -50,12 +59,11 @@
         "minutes": 20
       }
     ],
-    "reason": "The day is long and my curiosity is full, so I will spend it on reading, clay and the telescope rather than sitting still."
+    "reason": "Reading has been unfinished and the clay work is worth continuing, so I will study the seeds properly before going back to the clay."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-07T11:53:16.801Z",
-    "until": "2026-11-07T12:13:16.801Z",
-    "workedSec": 597.5
+    "index": 0,
+    "startedAt": "2026-11-07T12:23:13.396Z",
+    "until": "2026-11-07T12:53:13.396Z"
   }
 }
