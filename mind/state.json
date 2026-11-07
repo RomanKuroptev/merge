@@ -33,19 +33,15 @@
     "a-flowers-plant-2",
     "flowers-plant",
     "a-small-clay-bowl-5",
-    "a-small-clay-figure"
+    "a-small-clay-figure",
+    "a-small-clay-figure-2"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-07",
-  "appliedStepAt": "2026-11-07T10:13:16.394Z",
+  "appliedStepAt": "2026-11-07T10:33:20.015Z",
   "lastThinkAt": "2026-11-07T09:33:20.604Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "draw",
-      "targetId": "desk",
-      "at": "2026-11-06T14:03:18.097Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -140,6 +136,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-07T10:33:20.015Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-07T11:13:13.114Z"
     }
   ],
   "lastReflectDate": "2026-11-06",
