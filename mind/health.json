@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T20:43:12.398Z",
+  "updatedAt": "2026-11-07T20:53:16.601Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T20:43:12.398Z",
+    "at": "2026-11-07T20:53:16.601Z",
     "asleep": false,
-    "summary": "draw: made something at, step 5/5: photograph, made a drawing",
+    "summary": "photograph: made something at, took a photo",
     "think": null,
     "triggers": [
       "stepDone"
@@ -15,18 +15,12 @@
   "plan": {
     "planId": "2026-11-07:e4745845",
     "stepsLeft": 0,
-    "current": {
-      "index": 4,
-      "verb": "photograph",
-      "targetId": "reading-lamp",
-      "until": "2026-11-07T20:53:12.398Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-07T18:53:12.946Z",
-    "idleMinutes": 0
+    "idleMinutes": 10
   },
   "today": {
-    "ticks": 93,
+    "ticks": 94,
     "decideCalls": 16,
     "callsByKind": {
       "read": 1,
@@ -37,7 +31,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 28,
+      "stepDone": 29,
       "replan": 4,
       "need": 12,
       "weekly": 1
@@ -73,7 +67,7 @@
       "max": 4
     },
     "photos": {
-      "used": 3,
+      "used": 4,
       "max": 12
     },
     "builds": {
@@ -86,12 +80,12 @@
     }
   },
   "needsCritical": {
-    "hunger": 490,
+    "hunger": 500,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "curious",
+    "label": "pleased",
     "minutes": 0
   },
   "spend": {
@@ -101,7 +95,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 490 minutes while awake",
+    "hunger has been under 15 for 500 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
