@@ -1,42 +1,45 @@
 {
-  "updatedAt": "2026-11-07T17:33:13.136Z",
+  "updatedAt": "2026-11-07T17:43:17.472Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T17:33:13.136Z",
+    "at": "2026-11-07T17:43:17.472Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "study: read at, thought about need, step 2/4: draw",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-07:9ef26c5c",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "study",
-      "targetId": "bookshelf",
-      "until": "2026-11-07T17:43:13.130Z",
+      "index": 1,
+      "verb": "draw",
+      "targetId": "desk",
+      "until": "2026-11-07T18:03:17.472Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-07T17:13:13.130Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 73,
-    "decideCalls": 11,
+    "ticks": 74,
+    "decideCalls": 12,
     "callsByKind": {
       "read": 1,
       "morning": 1,
-      "decide": 10,
+      "decide": 11,
       "weekly": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 20,
+      "stepDone": 21,
       "replan": 3,
-      "need": 7,
+      "need": 8,
       "weekly": 1
     },
     "failures": 0,
@@ -52,7 +55,8 @@
       "go_to bowl": 1,
       "sit": 1,
       "go_to telescope": 1,
-      "inspect telescope": 1
+      "inspect telescope": 1,
+      "draw desk": 1
     },
     "longestGapMinutes": 11
   },
@@ -79,22 +83,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 300,
+    "hunger": 310,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 30
+    "minutes": 40
   },
   "spend": {
-    "monthUsd": 0.49378097,
+    "monthUsd": 0.4953044,
     "capUsd": 10,
     "paceUsd": 2.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 300 minutes while awake",
+    "hunger has been under 15 for 310 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
