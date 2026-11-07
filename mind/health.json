@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-07T19:43:12.441Z",
+  "updatedAt": "2026-11-07T19:53:14.359Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T19:43:12.441Z",
+    "at": "2026-11-07T19:53:14.359Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -24,12 +26,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 87,
-    "decideCalls": 14,
+    "ticks": 88,
+    "decideCalls": 15,
     "callsByKind": {
       "read": 1,
       "morning": 1,
-      "decide": 13,
+      "decide": 14,
       "weekly": 1,
       "art": 2
     },
@@ -37,7 +39,7 @@
       "newDay": 1,
       "stepDone": 26,
       "replan": 4,
-      "need": 10,
+      "need": 11,
       "weekly": 1
     },
     "failures": 0,
@@ -84,22 +86,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 430,
+    "hunger": 440,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "curious",
-    "minutes": 10
+    "label": "frustrated",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.50155543,
+    "monthUsd": 0.50307166,
     "capUsd": 10,
     "paceUsd": 2.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 430 minutes while awake",
+    "hunger has been under 15 for 440 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
