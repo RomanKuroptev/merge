@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 85.3,
+    "energy": 78.6,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     18.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.37,
-    "arousal": 0.96
+    "valence": -0.64,
+    "arousal": 1
   },
   "intention": {
     "type": "inspect",
     "targetId": "telescope",
-    "startedAt": "2026-11-07T16:43:16.224Z",
-    "seed": 1968328624,
+    "startedAt": "2026-11-07T17:03:13.999Z",
+    "seed": 1117975730,
     "reason": "I will look over the telescope while nobody is watching, as if I had not been waiting for it.",
     "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T16:43:16.224Z",
+  "lastTickAt": "2026-11-07T17:03:16.169Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
