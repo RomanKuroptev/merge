@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-07T21:13:16.321Z",
+  "updatedAt": "2026-11-07T21:23:14.332Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T21:13:16.321Z",
+    "at": "2026-11-07T21:23:14.332Z",
     "asleep": false,
-    "summary": "wrote the journal, 2 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "need",
-      "bedtime"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -18,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-07T18:53:12.946Z",
-    "idleMinutes": 30
+    "idleMinutes": 40
   },
   "today": {
-    "ticks": 96,
+    "ticks": 97,
     "decideCalls": 16,
     "callsByKind": {
       "read": 1,
@@ -83,13 +80,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 520,
+    "hunger": 530,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.5377403,
@@ -98,7 +95,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 520 minutes while awake",
+    "hunger has been under 15 for 530 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
