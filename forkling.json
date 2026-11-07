@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 33,
-    "energy": 100,
-    "curiosity": 84
+    "hunger": 29,
+    "energy": 96.7,
+    "curiosity": 100
   },
   "position": [
-    -28.5,
+    -14.5,
     0,
-    -1.5
+    5.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.86,
-    "arousal": 0.75
+    "valence": 0.83,
+    "arousal": 0.72
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-07T11:53:16.801Z",
-    "seed": 1968311224,
+    "startedAt": "2026-11-07T12:02:45.399Z",
+    "seed": 1760532804,
     "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T11:53:16.801Z",
+  "lastTickAt": "2026-11-07T12:03:14.417Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
