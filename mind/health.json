@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-07T15:13:11.930Z",
+  "updatedAt": "2026-11-07T15:23:11.718Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T15:13:11.930Z",
+    "at": "2026-11-07T15:23:11.718Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, step 1/3: go_to, new plan",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-07:34f4b24c",
-    "stepsLeft": 0,
+    "planId": "2026-11-07:a59e004b",
+    "stepsLeft": 2,
     "current": {
-      "index": 5,
-      "verb": "watch",
-      "targetId": "perch",
-      "until": "2026-11-07T15:23:14.688Z",
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "bowl",
+      "until": "2026-11-07T15:33:11.718Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-07T12:23:13.396Z",
+    "lastReplanAt": "2026-11-07T15:23:11.718Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 59,
-    "decideCalls": 6,
+    "ticks": 60,
+    "decideCalls": 7,
     "callsByKind": {
       "read": 1,
       "morning": 1,
-      "decide": 5,
+      "decide": 6,
       "weekly": 1
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 15,
       "replan": 2,
-      "need": 3,
+      "need": 4,
       "weekly": 1
     },
     "failures": 0,
@@ -48,7 +50,8 @@
       "nap sunbeam": 3,
       "watch perch": 3,
       "study bookshelf": 1,
-      "photograph reading-lamp": 1
+      "photograph reading-lamp": 1,
+      "go_to bowl": 1
     },
     "longestGapMinutes": 11
   },
@@ -75,22 +78,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 160,
+    "hunger": 170,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "delighted",
-    "minutes": 300
+    "label": "pleased",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.48603212,
+    "monthUsd": 0.48789985,
     "capUsd": 10,
     "paceUsd": 2.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 160 minutes while awake",
+    "hunger has been under 15 for 170 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",

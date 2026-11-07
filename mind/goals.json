@@ -9,61 +9,28 @@
     "date": "2026-11-07",
     "steps": [
       {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will read further into them than the first page allowed.",
-        "topic": "unknown seeds that grow",
-        "because": [
-          "b1"
-        ],
-        "minutes": 30
-      },
-      {
-        "verb": "photograph",
-        "targetId": "reading-lamp",
-        "reason": "The lamp is mine and the claim should be on record again.",
+        "verb": "go_to",
+        "targetId": "bowl",
+        "reason": "My hunger has run out, and the bowl is where food is kept, even if it is not much.",
         "minutes": 10
       },
       {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "The clay bank is wet and orange, and one more piece is worth taking home.",
-        "because": [
-          "b2"
-        ],
+        "verb": "sit",
+        "reason": "I will sit next to the bowl until something is put in it, and I will look like I did not come for the food.",
         "minutes": 15
-      },
-      {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "a small clay figure",
-        "reason": "One piece of clay becomes a small figure at the workbench, and I will keep it where I can see it.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 30
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "Making things is tiring, and a patch of sun is the correct place to recover from it.",
-        "minutes": 40
       },
       {
         "verb": "watch",
         "targetId": "perch",
-        "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
+        "reason": "Once I have eaten, I will return to the high place and keep an eye on the beach.",
         "minutes": 20
       }
     ],
-    "reason": "Reading has been unfinished and the clay work is worth continuing, so I will study the seeds properly before going back to the clay."
+    "reason": "Hunger has hit zero, so I am putting the bowl first, then returning to my high place."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-07T15:03:14.688Z",
-    "until": "2026-11-07T15:23:14.688Z"
+    "index": 0,
+    "startedAt": "2026-11-07T15:23:11.718Z",
+    "until": "2026-11-07T15:33:11.718Z"
   }
 }
