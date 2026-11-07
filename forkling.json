@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 77,
-    "energy": 63.6,
-    "curiosity": 100
+    "hunger": 73,
+    "energy": 81.1,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    11.5,
     0,
-    14.5
+    16.5
   ],
-  "mood": "content",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.64,
-    "arousal": 0.54
+    "valence": 0.72,
+    "arousal": 0.58
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-07T10:03:03.699Z",
-    "seed": 2023032677,
-    "reason": "Seeds that grow without permission still bother me, so I will find out what others have written about them.",
-    "goalRef": "today:0"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-07T10:13:16.394Z",
+    "seed": 1968431912,
+    "reason": "The clay bank is wet and orange, and one piece of it is worth taking home to make something of.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T10:03:14.430Z",
+  "lastTickAt": "2026-11-07T10:13:16.394Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
