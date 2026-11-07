@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.9,
+    "energy": 81.2,
     "curiosity": 100
   },
   "position": [
-    12.5,
+    -18.5,
     0,
-    6.5
+    14.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.62,
-    "arousal": 0.96
+    "valence": -0.57,
+    "arousal": 0.89
   },
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-07T17:13:13.130Z",
-    "seed": 1968326333,
-    "reason": "Curiosity is full and the day is nearly done, so I should spend the remaining evening on things I have not yet done, like reading about seeds and photographing, before the dusk zoomies and the telesc…",
+    "startedAt": "2026-11-07T17:33:08.699Z",
+    "seed": 698688736,
+    "reason": "Seeds that grow without permission still bother me, so I want to know more about them.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T17:13:13.130Z",
+  "lastTickAt": "2026-11-07T17:33:13.136Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
