@@ -4,28 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 76.1,
-    "curiosity": 100
+    "energy": 81.7,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    -9.5,
     0,
     10.5
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.17,
-    "arousal": 1
+    "valence": 0.16,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "reading-lamp",
-    "startedAt": "2026-11-07T20:53:06.097Z",
-    "seed": 1984629650,
-    "reason": "I want to keep how this looks right now."
+    "type": "sit",
+    "startedAt": "2026-11-07T21:03:00.099Z",
+    "seed": 1219080855,
+    "reason": "I am resting my eyes. And the rest of me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T20:53:16.601Z",
+  "lastTickAt": "2026-11-07T21:03:14.479Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
