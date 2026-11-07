@@ -9,33 +9,40 @@
     "date": "2026-11-07",
     "steps": [
       {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "The bowl is empty until morning, so I will take the high place and keep an eye on the beach.",
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission still bother me, so I want to know more about them.",
+        "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
-        "verb": "go_to",
+        "verb": "draw",
+        "targetId": "desk",
+        "reason": "I have not settled the moon's colour yet, and a drawing might help me decide.",
+        "topic": "the moon's colour",
+        "minutes": 20
+      },
+      {
+        "verb": "photograph",
         "targetId": "telescope",
-        "reason": "Once dusk comes I will go to the telescope, since the sky is worth looking at.",
-        "because": [
-          "b1"
-        ],
+        "reason": "The telescope is mine and the claim should be on record before dusk.",
         "minutes": 10
       },
       {
-        "verb": "inspect",
-        "targetId": "telescope",
-        "reason": "I will look over the telescope while nobody is watching, as if I had not been waiting for it.",
+        "verb": "zoomies",
+        "position": [
+          -2,
+          18
+        ],
+        "reason": "Dusk is here and my restlessness needs running off across the island.",
         "minutes": 20
       }
     ],
-    "reason": "Sitting by the empty bowl gets me nothing until morning, so I am moving to the high place and then the telescope."
+    "reason": "Reading and drawing are still owed for today, and I want them done before the telescope and the dusk run."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-07T16:43:16.224Z",
-    "until": "2026-11-07T17:03:16.224Z",
-    "workedSec": 1199.8
+    "index": 0,
+    "startedAt": "2026-11-07T17:13:13.130Z",
+    "until": "2026-11-07T17:43:13.130Z"
   }
 }
