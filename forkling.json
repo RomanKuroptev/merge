@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 88
+    "energy": 76.8,
+    "curiosity": 100
   },
   "position": [
-    -1.5,
+    11.5,
     0,
-    16.5
+    -2.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.63,
-    "arousal": 0.89
+    "valence": 0.58,
+    "arousal": 0.83
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-07T14:42:52.161Z",
-    "seed": 74262347,
-    "reason": "Making things is tiring, and a patch of sun is the correct place to recover from it.",
-    "goalRef": "today:4"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-07T15:03:14.688Z",
+    "seed": 1968318246,
+    "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T14:43:14.001Z",
+  "lastTickAt": "2026-11-07T15:03:14.688Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
