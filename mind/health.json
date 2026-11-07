@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-07T22:03:12.448Z",
+  "updatedAt": "2026-11-07T23:03:14.450Z",
   "engine": "v0.8.0",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-07T22:03:12.448Z",
+    "at": "2026-11-07T23:03:14.450Z",
     "asleep": true,
-    "summary": "rewrote its memory",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,57 +18,26 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 100,
-    "decideCalls": 16,
-    "callsByKind": {
-      "read": 1,
-      "morning": 1,
-      "decide": 15,
-      "weekly": 1,
-      "art": 3,
-      "bedtime": 1,
-      "memory": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 29,
-      "replan": 4,
-      "need": 13,
-      "weekly": 1,
-      "bedtime": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
-    "stepsStarted": {
-      "read bookshelf": 2,
-      "cut clay-bank": 3,
-      "shape workbench": 3,
-      "nap sunbeam": 3,
-      "watch perch": 4,
-      "study bookshelf": 3,
-      "photograph reading-lamp": 2,
-      "go_to bowl": 1,
-      "sit": 1,
-      "go_to telescope": 1,
-      "inspect telescope": 1,
-      "draw desk": 2,
-      "photograph telescope": 2,
-      "zoomies": 1,
-      "observe telescope": 1
-    },
-    "longestGapMinutes": 11
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 3,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -87,20 +56,13 @@
   },
   "mood": {
     "label": "curious",
-    "minutes": 50
+    "minutes": 110
   },
   "spend": {
     "monthUsd": 0.53831663,
     "capUsd": 10,
-    "paceUsd": 2.3333333333333335
+    "paceUsd": 2.6666666666666665
   },
   "openBuild": null,
-  "warnings": [
-    "started \"cut clay-bank\" 3 times today",
-    "started \"shape workbench\" 3 times today",
-    "started \"nap sunbeam\" 3 times today",
-    "started \"watch perch\" 4 times today",
-    "started \"study bookshelf\" 3 times today",
-    "16 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
