@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 88.6,
-    "curiosity": 99.9
+    "energy": 85.3,
+    "curiosity": 100
   },
   "position": [
-    13.42,
+    -14.5,
     0,
-    20.5
+    18.5
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.38,
-    "arousal": 1
+    "valence": -0.37,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "go_to",
+    "type": "inspect",
     "targetId": "telescope",
-    "startedAt": "2026-11-07T16:33:13.856Z",
-    "seed": 1968326749,
-    "reason": "Once dusk comes I will go to the telescope, since the sky is worth looking at.",
-    "goalRef": "today:1"
+    "startedAt": "2026-11-07T16:43:16.224Z",
+    "seed": 1968328624,
+    "reason": "I will look over the telescope while nobody is watching, as if I had not been waiting for it.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T16:33:13.856Z",
+  "lastTickAt": "2026-11-07T16:43:16.224Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
