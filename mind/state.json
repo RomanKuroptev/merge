@@ -39,15 +39,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-07",
-  "appliedStepAt": "2026-11-07T15:03:14.688Z",
+  "appliedStepAt": "2026-11-07T15:23:11.718Z",
   "lastThinkAt": "2026-11-07T15:23:11.718Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "watch",
-      "targetId": "perch",
-      "at": "2026-11-06T17:53:17.182Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -142,6 +137,10 @@
       "verb": "go_to",
       "targetId": "bowl",
       "at": "2026-11-07T15:23:11.718Z"
+    },
+    {
+      "verb": "sit",
+      "at": "2026-11-07T15:33:14.820Z"
     }
   ],
   "lastReflectDate": "2026-11-06",
