@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 77.8,
+    "energy": 71.2,
     "curiosity": 100
   },
   "position": [
     -18.5,
     0,
-    14.5
+    10.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.75,
-    "arousal": 1
+    "valence": -0.69,
+    "arousal": 0.92
   },
   "intention": {
     "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-07T17:43:17.472Z",
-    "seed": 1968339361,
+    "startedAt": "2026-11-07T18:03:04.699Z",
+    "seed": 1319682045,
     "reason": "I have not settled the moon's colour yet, and a drawing might help me decide.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T17:43:17.472Z",
+  "lastTickAt": "2026-11-07T18:03:13.459Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
