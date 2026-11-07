@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73.5,
+    "energy": 79.5,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -9.5,
     0,
-    10.5
+    15.5
   ],
-  "mood": "upset",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.46,
+    "valence": -0.14,
     "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-07T20:33:03.399Z",
-    "seed": 1402017883,
-    "reason": "I have not settled the moon's colour, and a drawing might help me decide.",
-    "goalRef": "today:3"
+    "type": "photograph",
+    "targetId": "reading-lamp",
+    "startedAt": "2026-11-07T20:43:12.398Z",
+    "seed": 1968347124,
+    "reason": "The lamp on the desk is mine, and I want the claim on record.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T20:33:12.600Z",
+  "lastTickAt": "2026-11-07T20:43:12.398Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

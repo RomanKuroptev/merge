@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-07T20:33:12.600Z",
+  "updatedAt": "2026-11-07T20:43:12.398Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T20:33:12.600Z",
+    "at": "2026-11-07T20:43:12.398Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
+    "summary": "draw: made something at, step 5/5: photograph, made a drawing",
+    "think": null,
     "triggers": [
-      "need"
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-07:e4745845",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-07T20:33:15.847Z",
+      "index": 4,
+      "verb": "photograph",
+      "targetId": "reading-lamp",
+      "until": "2026-11-07T20:53:12.398Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-07T18:53:12.946Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 92,
+    "ticks": 93,
     "decideCalls": 16,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "decide": 15,
       "weekly": 1,
-      "art": 2
+      "art": 3
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 27,
+      "stepDone": 28,
       "replan": 4,
       "need": 12,
       "weekly": 1
@@ -51,7 +51,7 @@
       "nap sunbeam": 3,
       "watch perch": 4,
       "study bookshelf": 3,
-      "photograph reading-lamp": 1,
+      "photograph reading-lamp": 2,
       "go_to bowl": 1,
       "sit": 1,
       "go_to telescope": 1,
@@ -69,7 +69,7 @@
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 3,
       "max": 4
     },
     "photos": {
@@ -86,22 +86,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 480,
+    "hunger": 490,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "upset",
+    "label": "curious",
     "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.50452019,
+    "monthUsd": 0.50553917,
     "capUsd": 10,
     "paceUsd": 2.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 480 minutes while awake",
+    "hunger has been under 15 for 490 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
