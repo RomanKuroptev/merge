@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 41,
+    "hunger": 33,
     "energy": 100,
-    "curiosity": 92
+    "curiosity": 84
   },
   "position": [
     -28.5,
     0,
-    4.5
+    -1.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.93,
-    "arousal": 0.81
+    "valence": 0.86,
+    "arousal": 0.75
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-07T11:32:59.799Z",
-    "seed": 668317696,
-    "reason": "Making things is tiring, and a patch of sun is the correct place to recover from it.",
-    "goalRef": "today:3"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-07T11:53:16.801Z",
+    "seed": 1968311224,
+    "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T11:33:14.358Z",
+  "lastTickAt": "2026-11-07T11:53:16.801Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
