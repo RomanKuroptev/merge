@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 41.5,
+    "energy": 38.2,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     18.5
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.3,
+    "valence": 0.01,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-07T19:23:12.949Z",
-    "seed": 1968332852,
-    "reason": "The telescope is mine, and the claim should be on record.",
-    "goalRef": "today:1"
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-07T19:33:15.230Z",
+    "seed": 1968334447,
+    "reason": "Seeds that grow without permission still bother me, so I want to know more about them.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T19:23:12.949Z",
+  "lastTickAt": "2026-11-07T19:33:15.230Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
