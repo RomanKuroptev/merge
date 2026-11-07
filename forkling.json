@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 66.9,
+    "energy": 89.8,
     "curiosity": 100
   },
   "position": [
-    -11.55,
+    -19.5,
     0,
-    11.4
+    17.5
   ],
-  "mood": "pleased",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.23,
-    "arousal": 0.93
+    "valence": -0.09,
+    "arousal": 1
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-07T15:33:14.820Z",
-    "seed": 1968332334,
-    "reason": "I will sit next to the bowl until something is put in it, and I will look like I did not come for the food.",
-    "goalRef": "today:1"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-07T15:53:17.914Z",
+    "seed": 1968329721,
+    "reason": "The bowl is empty until morning, so sitting beside it is pointless; I will take my high place and watch the beach instead.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T15:33:14.820Z",
+  "lastTickAt": "2026-11-07T15:53:17.914Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

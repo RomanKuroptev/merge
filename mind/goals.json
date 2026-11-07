@@ -9,28 +9,32 @@
     "date": "2026-11-07",
     "steps": [
       {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "The bowl is empty until morning, so I will take the high place and keep an eye on the beach.",
+        "minutes": 30
+      },
+      {
         "verb": "go_to",
-        "targetId": "bowl",
-        "reason": "My hunger has run out, and the bowl is where food is kept, even if it is not much.",
+        "targetId": "telescope",
+        "reason": "Once dusk comes I will go to the telescope, since the sky is worth looking at.",
+        "because": [
+          "b1"
+        ],
         "minutes": 10
       },
       {
-        "verb": "sit",
-        "reason": "I will sit next to the bowl until something is put in it, and I will look like I did not come for the food.",
-        "minutes": 15
-      },
-      {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "Once I have eaten, I will return to the high place and keep an eye on the beach.",
+        "verb": "inspect",
+        "targetId": "telescope",
+        "reason": "I will look over the telescope while nobody is watching, as if I had not been waiting for it.",
         "minutes": 20
       }
     ],
-    "reason": "Hunger has hit zero, so I am putting the bowl first, then returning to my high place."
+    "reason": "Sitting by the empty bowl gets me nothing until morning, so I am moving to the high place and then the telescope."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-07T15:33:14.820Z",
-    "until": "2026-11-07T15:48:14.820Z"
+    "index": 0,
+    "startedAt": "2026-11-07T15:53:17.914Z",
+    "until": "2026-11-07T16:23:17.914Z"
   }
 }
