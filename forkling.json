@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 5,
-    "energy": 85.6,
+    "hunger": 1,
+    "energy": 73.3,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -16.5,
     0,
-    10.5
+    7.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.46,
-    "arousal": 0.83
+    "valence": 0.74,
+    "arousal": 0.9
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "reading-lamp",
-    "startedAt": "2026-11-07T13:03:06.999Z",
-    "seed": 146595446,
-    "reason": "The lamp is mine and the claim should be on record again.",
-    "goalRef": "today:1"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-07T13:13:14.598Z",
+    "seed": 1968322942,
+    "reason": "The clay bank is wet and orange, and one more piece is worth taking home.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T13:03:13.679Z",
+  "lastTickAt": "2026-11-07T13:13:14.598Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
