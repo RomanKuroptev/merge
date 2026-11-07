@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-07T13:33:16.763Z",
+  "updatedAt": "2026-11-07T13:43:14.802Z",
   "engine": "v0.8.0",
   "date": "2026-11-07",
   "lastTick": {
-    "at": "2026-11-07T13:33:16.763Z",
+    "at": "2026-11-07T13:43:14.802Z",
     "asleep": false,
-    "summary": "cut: gathered, thought about need, step 4/6: shape",
-    "think": "decide",
-    "triggers": [
-      "need",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 48,
+    "ticks": 49,
     "decideCalls": 5,
     "callsByKind": {
       "read": 1,
@@ -76,13 +73,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 60,
+    "hunger": 70,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 200
+    "minutes": 210
   },
   "spend": {
     "monthUsd": 0.45769959,
@@ -91,6 +88,7 @@
   },
   "openBuild": null,
   "warnings": [
+    "hunger has been under 15 for 70 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 3 times today"
   ]
