@@ -6,7 +6,7 @@
     "reviewedAt": "2026-10-31T14:35:40.540Z"
   },
   "today": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "steps": [
       {
         "verb": "read",
@@ -16,41 +16,45 @@
         "minutes": 30
       },
       {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is the biggest thing here and it is mine, so it goes on record.",
-        "minutes": 10
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "The clay bank is wet and orange, and one piece of it is worth taking home to make something of.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 15
       },
       {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "a drawing of the moon",
-        "reason": "I have still not settled the moon's colour, so I will try once more.",
-        "topic": "the moon's colour",
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay figure",
+        "reason": "One piece of clay becomes a small figure at the workbench, and I will keep it where I can see it.",
+        "because": [
+          "b4"
+        ],
         "minutes": 30
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Making things is tiring, and a patch of sun is the correct place to recover from it.",
+        "minutes": 40
       },
       {
         "verb": "watch",
         "targetId": "perch",
         "reason": "From a high place I can see who is coming up the beach, and I intend to be the one looking.",
         "minutes": 20
-      },
-      {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "a note on the moon",
-        "reason": "Dusk has come, and the sky is worth looking at through what is mine.",
-        "topic": "a thin crescent moon",
-        "minutes": 30
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "The green man legend is an old mystery, and I want to know who else has noticed it.",
-        "topic": "the green man legend",
-        "minutes": 30
       }
     ],
-    "reason": "The seeds and the moon are still open questions, so the reading and drawing come first, and the telescope waits for dusk."
+    "reason": "A quiet morning of reading and clay, a long nap in the sun, and some watching from high up before the evening."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-07T07:03:14.530Z",
+    "until": "2026-11-07T07:33:14.530Z"
   }
 }
