@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T22:13:13.660Z",
+  "updatedAt": "2026-11-08T23:03:15.153Z",
   "engine": "v0.8.0",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-08T22:13:13.660Z",
+    "at": "2026-11-08T23:03:15.153Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,52 +18,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 101,
-    "decideCalls": 22,
+    "ticks": 1,
+    "decideCalls": 0,
     "callsByKind": {
-      "read": 1,
-      "morning": 1,
-      "art": 4,
-      "decide": 21,
-      "bedtime": 1
+      "memory": 1
     },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 24,
-      "replan": 5,
-      "need": 13,
-      "bedtime": 1
-    },
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 2,
-    "stepsStarted": {
-      "study bookshelf": 3,
-      "photograph bookshelf": 1,
-      "draw desk": 3,
-      "explore": 3,
-      "nap sunbeam": 3,
-      "cut clay-bank": 2,
-      "shape workbench": 2,
-      "photograph workbench": 2,
-      "read bookshelf": 2,
-      "zoomies": 1,
-      "observe telescope": 1,
-      "photograph telescope": 1,
-      "curl_up bed": 1
-    },
-    "longestGapMinutes": 14
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 4,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -82,19 +58,13 @@
   },
   "mood": {
     "label": "upset",
-    "minutes": 150
+    "minutes": 200
   },
   "spend": {
-    "monthUsd": 0.61134464,
+    "monthUsd": 0.61192307,
     "capUsd": 10,
-    "paceUsd": 2.6666666666666665
+    "paceUsd": 3
   },
   "openBuild": null,
-  "warnings": [
-    "started \"study bookshelf\" 3 times today",
-    "started \"draw desk\" 3 times today",
-    "started \"explore\" 3 times today",
-    "started \"nap sunbeam\" 3 times today",
-    "22 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
