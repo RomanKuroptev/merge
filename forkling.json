@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 3.3,
-    "energy": 37.6,
-    "curiosity": 100
+    "hunger": 0,
+    "energy": 100,
+    "curiosity": 96
   },
   "position": [
-    -2.5,
+    -10.5,
     0,
-    21.5
+    19.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.64,
-    "arousal": 0.93
+    "valence": 0.62,
+    "arousal": 0.89
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-08T12:53:17.273Z",
-    "seed": 1968007721,
+    "startedAt": "2026-11-08T13:03:07.399Z",
+    "seed": 193058614,
     "reason": "Enough thinking for one morning, and the sun is warm.",
     "goalRef": "today:7"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T12:53:17.273Z",
+  "lastTickAt": "2026-11-08T13:03:14.391Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
