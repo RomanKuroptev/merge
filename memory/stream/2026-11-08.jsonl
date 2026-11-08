@@ -38,3 +38,5 @@
 {"id":"2026-11-08#38","at":"2026-11-08T13:23:12.851Z","kind":"step","text":"Started cut (The clay bank): My hunger is at zero and the bowl is empty until morning, so I will keep to the day's work and let the body take care of food between steps.","verb":"cut","objectId":"clay-bank","goalRef":"today:0","beliefRefs":["b2"]}
 {"id":"2026-11-08#39","at":"2026-11-08T13:43:14.781Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
 {"id":"2026-11-08#40","at":"2026-11-08T13:43:14.781Z","kind":"step","text":"Started shape (The workbench): One piece of clay becomes a figure at the workbench, and I will keep the result where I can see it.","verb":"shape","objectId":"workbench","goalRef":"today:1","beliefRefs":["b4"]}
+{"id":"2026-11-08#41","at":"2026-11-08T13:53:20.249Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-08#42","at":"2026-11-08T13:53:20.249Z","kind":"thought","text":"The bowl is empty until morning and the berry bush is off limits, so there is nothing to eat now and I will carry on with the clay figure."}
