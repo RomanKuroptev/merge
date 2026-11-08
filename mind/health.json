@@ -1,31 +1,32 @@
 {
-  "updatedAt": "2026-11-08T16:03:14.376Z",
+  "updatedAt": "2026-11-08T16:13:15.856Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T16:03:14.376Z",
+    "at": "2026-11-08T16:13:15.856Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
+    "summary": "step 8/8: nap",
+    "think": null,
     "triggers": [
-      "need"
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-08:0a1f2c31",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 6,
-      "verb": "explore",
-      "until": "2026-11-08T16:03:19.091Z",
+      "index": 7,
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "until": "2026-11-08T17:13:15.856Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-08T13:23:12.851Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 63,
+    "ticks": 64,
     "decideCalls": 10,
     "callsByKind": {
       "read": 1,
@@ -35,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
+      "stepDone": 19,
       "replan": 1,
       "need": 6
     },
@@ -46,7 +47,7 @@
       "photograph bookshelf": 1,
       "draw desk": 3,
       "explore": 3,
-      "nap sunbeam": 2,
+      "nap sunbeam": 3,
       "cut clay-bank": 2,
       "shape workbench": 2,
       "photograph workbench": 2,
@@ -77,13 +78,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 220,
+    "hunger": 230,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "pleased",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.56051886,
@@ -92,9 +93,10 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 220 minutes while awake",
+    "hunger has been under 15 for 230 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
-    "started \"explore\" 3 times today"
+    "started \"explore\" 3 times today",
+    "started \"nap sunbeam\" 3 times today"
   ]
 }
