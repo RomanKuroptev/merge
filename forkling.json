@@ -5,26 +5,26 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 91.1
+    "curiosity": 85.1
   },
   "position": [
     -26.5,
     0,
     -14.5
   ],
-  "mood": "curious",
+  "mood": "calm",
   "feelings": {
-    "valence": 0.1,
-    "arousal": 0.63
+    "valence": 0.08,
+    "arousal": 0.53
   },
   "intention": {
     "type": "sleep",
-    "startedAt": "2026-11-07T23:03:07.799Z",
-    "seed": 397676419,
+    "startedAt": "2026-11-08T00:00:00.100Z",
+    "seed": 527186561,
     "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-07T23:03:14.450Z",
+  "lastTickAt": "2026-11-08T00:03:15.288Z",
   "asleep": true,
   "timezone": "Europe/Stockholm"
 }
