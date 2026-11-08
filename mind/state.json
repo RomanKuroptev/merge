@@ -40,15 +40,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-08",
-  "appliedStepAt": "2026-11-08T10:13:13.791Z",
+  "appliedStepAt": "2026-11-08T10:43:20.083Z",
   "lastThinkAt": "2026-11-08T09:53:16.655Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "watch",
-      "targetId": "perch",
-      "at": "2026-11-07T15:53:17.914Z"
-    },
     {
       "verb": "go_to",
       "targetId": "telescope",
@@ -141,6 +136,11 @@
       "verb": "photograph",
       "targetId": "workbench",
       "at": "2026-11-08T10:43:20.083Z"
+    },
+    {
+      "verb": "study",
+      "targetId": "bookshelf",
+      "at": "2026-11-08T11:03:16.563Z"
     }
   ],
   "lastReflectDate": "2026-11-07",
@@ -157,7 +157,7 @@
   },
   "photos": {
     "date": "2026-11-08",
-    "count": 1,
+    "count": 2,
     "queue": []
   },
   "codeWeek": {
