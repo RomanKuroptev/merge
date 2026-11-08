@@ -4,28 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 83.4,
+    "energy": 41.7,
     "curiosity": 100
   },
   "position": [
-    -23.4,
+    -2.5,
     0,
-    -3.09
+    21.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.73,
-    "arousal": 0.97
+    "valence": 0.38,
+    "arousal": 1
   },
   "intention": {
     "type": "explore",
-    "startedAt": "2026-11-08T15:43:19.091Z",
-    "seed": 1968013827,
+    "startedAt": "2026-11-08T16:02:43.699Z",
+    "seed": 2129336311,
     "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
     "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T15:43:19.091Z",
+  "lastTickAt": "2026-11-08T16:03:14.376Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
