@@ -3,33 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 59.3,
-    "energy": 87.1,
-    "curiosity": 91.9
+    "hunger": 55.3,
+    "energy": 76.8,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    -8.9,
     0,
-    12.5
+    15.61
   ],
-  "mood": "content",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.74,
-    "arousal": 0.54
+    "valence": 1,
+    "arousal": 0.78
   },
   "intention": {
-    "type": "shape",
+    "type": "photograph",
     "targetId": "workbench",
-    "startedAt": "2026-11-08T10:33:23.499Z",
-    "seed": 2048592878,
-    "reason": "One piece of clay becomes a figure at the workbench, and I will keep the result where I can see it.",
-    "goalRef": "today:1"
-  },
-  "holding": {
-    "material": "clay"
+    "startedAt": "2026-11-08T10:43:20.083Z",
+    "seed": 1967999196,
+    "reason": "The new figure is mine, and the claim should be on record.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T10:33:26.761Z",
+  "lastTickAt": "2026-11-08T10:43:20.083Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
