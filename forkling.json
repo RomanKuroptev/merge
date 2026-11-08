@@ -3,29 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 70.3,
-    "energy": 50.4,
+    "hunger": 99.4,
+    "energy": 97.3,
     "curiosity": 100
   },
   "position": [
-    -4.5,
+    -3.17,
     0,
-    16.5
+    6.07
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.63,
-    "arousal": 0.51
+    "valence": 0.61,
+    "arousal": 0.5
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-08T08:43:05.699Z",
-    "seed": 1181879306,
-    "reason": "The garden plot is mine to inspect, and I want to see whether anything there has started.",
-    "goalRef": "today:3"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-08T08:53:13.725Z",
+    "seed": 1967989485,
+    "reason": "A patch of sun is the right place to rest once I have done enough thinking.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T08:43:17.084Z",
+  "lastTickAt": "2026-11-08T08:53:13.725Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

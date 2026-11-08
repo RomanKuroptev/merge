@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-08T08:43:17.084Z",
+  "updatedAt": "2026-11-08T08:53:13.725Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T08:43:17.084Z",
+    "at": "2026-11-08T08:53:13.725Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/5: nap",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-08:bdd68813",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "explore",
-      "until": "2026-11-08T08:48:18.844Z",
+      "index": 4,
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "until": "2026-11-08T09:53:13.725Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-08T07:03:13.678Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 19,
+    "ticks": 20,
     "decideCalls": 1,
     "callsByKind": {
       "read": 1,
@@ -32,7 +35,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3
+      "stepDone": 4
     },
     "failures": 0,
     "rejections": 0,
@@ -40,7 +43,8 @@
       "study bookshelf": 1,
       "photograph bookshelf": 1,
       "draw desk": 1,
-      "explore": 1
+      "explore": 1,
+      "nap sunbeam": 1
     },
     "longestGapMinutes": 14
   },
@@ -73,7 +77,7 @@
   },
   "mood": {
     "label": "content",
-    "minutes": 40
+    "minutes": 50
   },
   "spend": {
     "monthUsd": 0.5433115,
