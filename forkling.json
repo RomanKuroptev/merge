@@ -3,14 +3,14 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 19.3,
-    "energy": 92.3,
-    "curiosity": 100
+    "hunger": 11.3,
+    "energy": 90.1,
+    "curiosity": 99.7
   },
   "position": [
-    3.5,
+    -7.5,
     0,
-    24.5
+    13.5
   ],
   "mood": "delighted",
   "feelings": {
@@ -18,15 +18,14 @@
     "arousal": 0.8
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-08T12:13:18.734Z",
-    "seed": 1968012746,
-    "reason": "The moon is hiding something, and I want to know what somebody has already noticed about it.",
-    "goalRef": "today:5"
+    "type": "explore",
+    "startedAt": "2026-11-08T12:33:16.991Z",
+    "seed": 1968010904,
+    "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
+    "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T12:13:18.734Z",
+  "lastTickAt": "2026-11-08T12:33:16.991Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
