@@ -1,31 +1,32 @@
 {
-  "updatedAt": "2026-11-08T12:43:19.841Z",
+  "updatedAt": "2026-11-08T12:53:17.273Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T12:43:19.841Z",
+    "at": "2026-11-08T12:53:17.273Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
+    "summary": "step 8/8: nap",
+    "think": null,
     "triggers": [
-      "need"
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-08:cff0cf99",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 6,
-      "verb": "explore",
-      "until": "2026-11-08T12:53:16.991Z",
+      "index": 7,
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "until": "2026-11-08T13:53:17.273Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-08T09:53:16.655Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 43,
+    "ticks": 44,
     "decideCalls": 4,
     "callsByKind": {
       "read": 1,
@@ -35,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "replan": 1,
       "need": 1
     },
@@ -46,7 +47,7 @@
       "photograph bookshelf": 1,
       "draw desk": 2,
       "explore": 2,
-      "nap sunbeam": 1,
+      "nap sunbeam": 2,
       "cut clay-bank": 1,
       "shape workbench": 1,
       "photograph workbench": 1,
@@ -77,13 +78,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 20,
+    "hunger": 30,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 120
+    "minutes": 130
   },
   "spend": {
     "monthUsd": 0.54971849,

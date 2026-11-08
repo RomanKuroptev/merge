@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 7.3,
-    "energy": 41,
+    "hunger": 3.3,
+    "energy": 37.6,
     "curiosity": 100
   },
   "position": [
@@ -14,18 +14,19 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.66,
-    "arousal": 0.97
+    "valence": 0.64,
+    "arousal": 0.93
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-08T12:42:55.490Z",
-    "seed": 1855616483,
-    "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
-    "goalRef": "today:6"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-08T12:53:17.273Z",
+    "seed": 1968007721,
+    "reason": "Enough thinking for one morning, and the sun is warm.",
+    "goalRef": "today:7"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T12:43:19.841Z",
+  "lastTickAt": "2026-11-08T12:53:17.273Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
