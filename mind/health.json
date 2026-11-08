@@ -1,45 +1,42 @@
 {
-  "updatedAt": "2026-11-08T18:23:15.236Z",
+  "updatedAt": "2026-11-08T18:33:19.663Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T18:23:15.236Z",
+    "at": "2026-11-08T18:33:19.663Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "photograph: made something at, took a photo, thought about replan, plan rejected",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-08:26e53b5c",
     "stepsLeft": 0,
-    "current": {
-      "index": 2,
-      "verb": "photograph",
-      "targetId": "telescope",
-      "until": "2026-11-08T18:23:17.623Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-08T17:13:16.664Z",
-    "idleMinutes": 0
+    "idleMinutes": 10
   },
   "today": {
-    "ticks": 77,
-    "decideCalls": 13,
+    "ticks": 78,
+    "decideCalls": 15,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "art": 4,
-      "decide": 12
+      "decide": 14
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 22,
-      "replan": 2,
+      "stepDone": 23,
+      "replan": 3,
       "need": 9
     },
     "failures": 0,
-    "rejections": 0,
+    "rejections": 1,
     "stepsStarted": {
       "study bookshelf": 3,
       "photograph bookshelf": 1,
@@ -66,7 +63,7 @@
       "max": 4
     },
     "photos": {
-      "used": 3,
+      "used": 4,
       "max": 12
     },
     "builds": {
@@ -79,22 +76,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 360,
+    "hunger": 370,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "frustrated",
-    "minutes": 10
+    "label": "curious",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.56589675,
+    "monthUsd": 0.5695114,
     "capUsd": 10,
     "paceUsd": 2.6666666666666665
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 360 minutes while awake",
+    "hunger has been under 15 for 370 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"explore\" 3 times today",

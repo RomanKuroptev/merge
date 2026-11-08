@@ -4,29 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 77.1,
+    "energy": 86.3,
     "curiosity": 100
   },
   "position": [
-    -11.69,
+    8.58,
     0,
-    11.76
+    18.91
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.18,
+    "valence": 0.13,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-08T18:13:17.623Z",
-    "seed": 1968021801,
-    "reason": "The telescope is mine and the view through it should be on record.",
-    "goalRef": "today:2"
+    "type": "explore",
+    "startedAt": "2026-11-08T18:33:14.999Z",
+    "seed": 972573859,
+    "reason": "I wanted to see what was over there."
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T18:13:17.623Z",
+  "lastTickAt": "2026-11-08T18:33:19.663Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
