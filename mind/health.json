@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-08T15:33:13.252Z",
+  "updatedAt": "2026-11-08T15:43:19.091Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T15:33:13.252Z",
+    "at": "2026-11-08T15:43:19.091Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "read: read at, step 7/8: explore",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-08:0a1f2c31",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 5,
-      "verb": "read",
-      "targetId": "bookshelf",
-      "until": "2026-11-08T15:38:17.807Z",
+      "index": 6,
+      "verb": "explore",
+      "until": "2026-11-08T16:03:19.091Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-08T13:23:12.851Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 60,
+    "ticks": 61,
     "decideCalls": 9,
     "callsByKind": {
       "read": 1,
@@ -34,7 +35,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "replan": 1,
       "need": 5
     },
@@ -44,7 +45,7 @@
       "study bookshelf": 3,
       "photograph bookshelf": 1,
       "draw desk": 3,
-      "explore": 2,
+      "explore": 3,
       "nap sunbeam": 2,
       "cut clay-bank": 2,
       "shape workbench": 2,
@@ -76,13 +77,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 190,
+    "hunger": 200,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 10
+    "minutes": 20
   },
   "spend": {
     "monthUsd": 0.55904263,
@@ -91,8 +92,9 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 190 minutes while awake",
+    "hunger has been under 15 for 200 minutes while awake",
     "started \"study bookshelf\" 3 times today",
-    "started \"draw desk\" 3 times today"
+    "started \"draw desk\" 3 times today",
+    "started \"explore\" 3 times today"
   ]
 }

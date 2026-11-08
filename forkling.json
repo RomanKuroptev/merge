@@ -4,29 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 67.2,
+    "energy": 83.4,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -23.4,
     0,
-    14.5
+    -3.09
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.66,
-    "arousal": 0.96
+    "valence": 0.73,
+    "arousal": 0.97
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-08T15:33:03.699Z",
-    "seed": 1062870014,
-    "reason": "The moon is hiding something, and I want to know what somebody has already noticed about it.",
-    "goalRef": "today:5"
+    "type": "explore",
+    "startedAt": "2026-11-08T15:43:19.091Z",
+    "seed": 1968013827,
+    "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
+    "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T15:33:13.252Z",
+  "lastTickAt": "2026-11-08T15:43:19.091Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
