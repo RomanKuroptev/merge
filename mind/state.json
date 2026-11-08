@@ -36,19 +36,15 @@
     "a-small-clay-figure",
     "a-small-clay-figure-2",
     "a-small-clay-figure-3",
-    "a-small-clay-figure-4"
+    "a-small-clay-figure-4",
+    "a-small-clay-figure-5"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-08",
-  "appliedStepAt": "2026-11-08T13:23:12.851Z",
+  "appliedStepAt": "2026-11-08T13:43:14.781Z",
   "lastThinkAt": "2026-11-08T13:53:20.249Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "observe",
-      "targetId": "telescope",
-      "at": "2026-11-07T18:53:12.946Z"
-    },
     {
       "verb": "photograph",
       "targetId": "telescope",
@@ -141,6 +137,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-08T13:43:14.781Z"
+    },
+    {
+      "verb": "photograph",
+      "targetId": "workbench",
+      "at": "2026-11-08T14:13:15.320Z"
     }
   ],
   "lastReflectDate": "2026-11-07",
