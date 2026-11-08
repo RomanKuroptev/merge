@@ -68,3 +68,6 @@
 {"id":"2026-11-08#68","at":"2026-11-08T17:43:14.355Z","kind":"step","text":"Started observe (The telescope): The moon is hiding something at new moon, and I mean to watch where it hides it.","verb":"observe","objectId":"telescope","goalRef":"today:1","beliefRefs":["b1"]}
 {"id":"2026-11-08#69","at":"2026-11-08T17:53:19.063Z","kind":"trigger","text":"hunger is at 0 of 100"}
 {"id":"2026-11-08#70","at":"2026-11-08T17:53:19.063Z","kind":"thought","text":"Hunger is empty and the bowl is empty until morning, so I will not waste the dusk, but the berry bush is off limits and nothing edible is left to eat tonight."}
+{"id":"2026-11-08#71","at":"2026-11-08T18:13:17.623Z","kind":"step","text":"observe: made something at The telescope","verb":"observe","objectId":"telescope"}
+{"id":"2026-11-08#72","at":"2026-11-08T18:13:17.623Z","kind":"step","text":"Started photograph (The telescope): The telescope is mine and the view through it should be on record.","verb":"photograph","objectId":"telescope","goalRef":"today:2"}
+{"id":"2026-11-08#73","at":"2026-11-08T18:13:17.623Z","kind":"made","text":"Made a labnote: \"Where the Moon Hides Its Colour\"","verb":"observe","goalRef":"today:1"}
