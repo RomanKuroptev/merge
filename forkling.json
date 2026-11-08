@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 87.2,
+    "energy": 83.8,
     "curiosity": 100
   },
   "position": [
-    -1.56,
+    -14.5,
     0,
-    15.53
+    18.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.23,
-    "arousal": 0.89
+    "valence": -0.52,
+    "arousal": 1
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-08T17:43:14.355Z",
-    "seed": 1968025126,
+    "startedAt": "2026-11-08T17:53:19.054Z",
+    "seed": 195827563,
     "reason": "The moon is hiding something at new moon, and I mean to watch where it hides it.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T17:43:14.355Z",
+  "lastTickAt": "2026-11-08T17:53:19.063Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
