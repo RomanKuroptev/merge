@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 97,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 92
   },
   "position": [
-    -13.5,
+    -14.5,
     0,
-    15.5
+    9.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.71,
-    "arousal": 1
+    "valence": -0.66,
+    "arousal": 0.92
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-08T20:13:15.464Z",
-    "seed": 1968033103,
-    "reason": "It is night and most of what I want to do is for daylight, so I will settle on the bed and wait for the bowl to be filled in the morning.",
+    "startedAt": "2026-11-08T20:32:35.799Z",
+    "seed": 1985172889,
+    "reason": "The bed is soft and it is night, so I will curl up here and let the wound-up feeling wear off.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T20:13:15.464Z",
+  "lastTickAt": "2026-11-08T20:33:14.035Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
