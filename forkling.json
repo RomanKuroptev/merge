@@ -5,28 +5,28 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 96
+    "curiosity": 88
   },
   "position": [
-    -10.5,
+    -13.5,
     0,
-    19.5
+    13.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.62,
-    "arousal": 0.89
+    "valence": 0.27,
+    "arousal": 1
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-08T13:03:07.399Z",
-    "seed": 193058614,
-    "reason": "Enough thinking for one morning, and the sun is warm.",
-    "goalRef": "today:7"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-08T13:23:12.851Z",
+    "seed": 1968008532,
+    "reason": "My hunger is at zero and the bowl is empty until morning, so I will keep to the day's work and let the body take care of food between steps.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T13:03:14.391Z",
+  "lastTickAt": "2026-11-08T13:23:12.851Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
