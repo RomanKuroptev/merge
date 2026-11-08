@@ -5,27 +5,26 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 76
+    "curiosity": 99.7
   },
   "position": [
-    -14.5,
+    -6.5,
     0,
-    9.5
+    20.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.85,
-    "arousal": 0.92
+    "valence": -0.79,
+    "arousal": 0.85
   },
   "intention": {
     "type": "curl_up",
-    "targetId": "bed",
-    "startedAt": "2026-11-08T21:13:00.335Z",
-    "seed": 934760125,
+    "startedAt": "2026-11-08T21:32:34.599Z",
+    "seed": 1273653311,
     "reason": "Something soft was right there, and I was tired."
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T21:13:16.859Z",
+  "lastTickAt": "2026-11-08T21:33:12.928Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
