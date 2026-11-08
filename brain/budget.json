@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "capUsd": 10,
-  "spentUsd": 0.55648393,
+  "spentUsd": 0.55796505,
   "calls": [
     {
       "at": "2026-10-31T23:03:17.820Z",
@@ -2442,6 +2442,16 @@
       "cacheWrite": 4073,
       "output": 144,
       "usd": 0.000649025
+    },
+    {
+      "at": "2026-11-08T15:03:13.708Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 6545,
+      "cacheRead": 0,
+      "cacheWrite": 4973,
+      "output": 410,
+      "usd": 0.001481125
     }
   ],
   "history": [
