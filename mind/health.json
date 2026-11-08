@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-08T21:43:14.963Z",
+  "updatedAt": "2026-11-08T21:53:17.494Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T21:43:14.963Z",
+    "at": "2026-11-08T21:53:17.494Z",
     "asleep": false,
-    "summary": "wrote the journal, 2 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "bedtime"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -17,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-08T20:13:15.464Z",
-    "idleMinutes": 40
+    "idleMinutes": 50
   },
   "today": {
-    "ticks": 98,
+    "ticks": 99,
     "decideCalls": 22,
     "callsByKind": {
       "read": 1,
@@ -78,13 +76,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 560,
+    "hunger": 570,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 120
+    "minutes": 130
   },
   "spend": {
     "monthUsd": 0.61134464,
@@ -93,7 +91,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 560 minutes while awake",
+    "hunger has been under 15 for 570 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"explore\" 3 times today",
