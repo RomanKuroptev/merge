@@ -5,7 +5,7 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 84
+    "curiosity": 80
   },
   "position": [
     -14.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.91,
-    "arousal": 1
+    "valence": -0.88,
+    "arousal": 0.96
   },
   "intention": {
     "type": "curl_up",
     "targetId": "bed",
-    "startedAt": "2026-11-08T20:52:17.133Z",
-    "seed": 2076386052,
+    "startedAt": "2026-11-08T21:02:47.699Z",
+    "seed": 2108805555,
     "reason": "The bed is soft and it is night, so I will curl up here and let the wound-up feeling wear off.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T20:53:16.457Z",
+  "lastTickAt": "2026-11-08T21:03:13.236Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
