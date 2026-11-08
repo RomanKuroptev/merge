@@ -4,28 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 75.8
+    "energy": 41.9,
+    "curiosity": 100
   },
   "position": [
-    -13.5,
+    -10,
     0,
-    -19.5
+    20
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.26,
-    "arousal": 1
+    "valence": -0.24,
+    "arousal": 0.92
   },
   "intention": {
     "type": "zoomies",
-    "startedAt": "2026-11-08T17:13:16.664Z",
-    "seed": 1968027448,
-    "reason": "The sun has gone and dusk is here, so I will run off my restlessness, then go back to the telescope to look at the moon that is hiding from me.",
+    "startedAt": "2026-11-08T17:33:06.299Z",
+    "seed": 53502558,
+    "reason": "Dusk is when the restlessness gets run off, and I am wound up enough to need it.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T17:13:16.664Z",
+  "lastTickAt": "2026-11-08T17:33:15.248Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

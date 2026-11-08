@@ -165,7 +165,32 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-08T17:18:52.863Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-08T17:22:56.163Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-08T17:27:20.963Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-08T17:30:50.299Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T06:03:16.460Z",
