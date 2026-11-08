@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "capUsd": 10,
-  "spentUsd": 0.57158546,
+  "spentUsd": 0.57448882,
   "calls": [
     {
       "at": "2026-10-31T23:03:17.820Z",
@@ -2552,6 +2552,26 @@
       "cacheWrite": 4973,
       "output": 402,
       "usd": 0.001423025
+    },
+    {
+      "at": "2026-11-08T19:43:14.088Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 6117,
+      "cacheRead": 0,
+      "cacheWrite": 4973,
+      "output": 1103,
+      "usd": 0.001784825
+    },
+    {
+      "at": "2026-11-08T19:43:14.088Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 6178,
+      "cacheRead": 4973,
+      "cacheWrite": 0,
+      "output": 902,
+      "usd": 0.0011185300000000002
     }
   ],
   "history": [

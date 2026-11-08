@@ -1,13 +1,16 @@
 {
-  "updatedAt": "2026-11-08T19:33:15.622Z",
+  "updatedAt": "2026-11-08T19:43:14.088Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T19:33:15.622Z",
+    "at": "2026-11-08T19:43:14.088Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, plan rejected",
+    "think": "decide",
+    "triggers": [
+      "need",
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -15,25 +18,25 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-08T17:13:16.664Z",
-    "idleMinutes": 70
+    "idleMinutes": 80
   },
   "today": {
-    "ticks": 84,
-    "decideCalls": 16,
+    "ticks": 85,
+    "decideCalls": 18,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "art": 4,
-      "decide": 15
+      "decide": 17
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 23,
-      "replan": 3,
-      "need": 10
+      "replan": 4,
+      "need": 11
     },
     "failures": 0,
-    "rejections": 1,
+    "rejections": 2,
     "stepsStarted": {
       "study bookshelf": 3,
       "photograph bookshelf": 1,
@@ -73,27 +76,27 @@
     }
   },
   "needsCritical": {
-    "hunger": 430,
+    "hunger": 440,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "frustrated",
-    "minutes": 20
+    "label": "upset",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.57158546,
+    "monthUsd": 0.57448882,
     "capUsd": 10,
     "paceUsd": 2.6666666666666665
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 430 minutes while awake",
-    "no step in progress for 70 minutes while awake",
+    "hunger has been under 15 for 440 minutes while awake",
+    "no step in progress for 80 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"explore\" 3 times today",
     "started \"nap sunbeam\" 3 times today",
-    "16 decide calls today (more than 15)"
+    "18 decide calls today (more than 15)"
   ]
 }

@@ -42,8 +42,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-08",
   "appliedStepAt": "2026-11-08T18:13:17.623Z",
-  "lastThinkAt": "2026-11-08T19:13:13.023Z",
-  "replanAfter": "2026-11-08T19:33:19.663Z",
+  "lastThinkAt": "2026-11-08T19:43:14.088Z",
+  "replanAfter": "2026-11-08T20:43:14.088Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -170,12 +170,6 @@
   "brokenOff": [],
   "rejections": [
     {
-      "at": "2026-11-03T15:23:17.065Z",
-      "reasons": [
-        "step 1: The bowl is empty"
-      ]
-    },
-    {
       "at": "2026-11-03T19:03:21.535Z",
       "reasons": [
         "step 2 (\"sleep\") cannot happen then: it needs night"
@@ -229,6 +223,12 @@
       "at": "2026-11-08T18:33:19.663Z",
       "reasons": [
         "step 6 (\"sleep\") cannot happen then: it needs night"
+      ]
+    },
+    {
+      "at": "2026-11-08T19:43:14.088Z",
+      "reasons": [
+        "step 2 (\"sleep\") cannot happen then: it needs night"
       ]
     }
   ]

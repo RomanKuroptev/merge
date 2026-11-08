@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 90.3,
+    "energy": 86.5,
     "curiosity": 100
   },
   "position": [
-    23.02,
+    6.5,
     0,
-    11.02
+    28.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.17,
-    "arousal": 0.92
+    "valence": -0.46,
+    "arousal": 1
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-08T19:33:09.199Z",
-    "seed": 1793533423,
-    "reason": "The evening hit me like a wave. I must run."
+    "type": "pounce",
+    "startedAt": "2026-11-08T19:43:12.821Z",
+    "seed": 1081095040,
+    "reason": "Something moved. Probably. I pounced anyway."
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T19:33:15.622Z",
+  "lastTickAt": "2026-11-08T19:43:14.088Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
