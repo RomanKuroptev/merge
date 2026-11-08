@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 77.2,
+    "energy": 70.5,
     "curiosity": 100
   },
   "position": [
     -18.5,
     0,
-    14.5
+    10.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.42,
+    "valence": 0.69,
     "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-08T15:03:13.708Z",
-    "seed": 1968018853,
-    "reason": "I will draw what I learned about seeds before I forget it.",
-    "goalRef": "today:4"
+    "type": "read",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-08T15:23:17.807Z",
+    "seed": 1968015729,
+    "reason": "The moon is hiding something, and I want to know what somebody has already noticed about it.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T15:03:13.708Z",
+  "lastTickAt": "2026-11-08T15:23:17.807Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
