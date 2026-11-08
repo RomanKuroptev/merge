@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-08T22:03:16.671Z",
+  "updatedAt": "2026-11-08T22:13:13.660Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T22:03:16.671Z",
-    "asleep": false,
-    "summary": "sync",
+    "at": "2026-11-08T22:13:13.660Z",
+    "asleep": true,
+    "summary": "sent its memory off to be rewritten, went to bed",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-08T20:13:15.464Z",
-    "idleMinutes": 60
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 100,
+    "ticks": 101,
     "decideCalls": 22,
     "callsByKind": {
       "read": 1,
@@ -76,13 +76,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 580,
+    "hunger": 0,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 140
+    "minutes": 150
   },
   "spend": {
     "monthUsd": 0.61134464,
@@ -91,7 +91,6 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 580 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"explore\" 3 times today",
