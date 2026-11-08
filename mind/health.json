@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-08T21:13:16.859Z",
+  "updatedAt": "2026-11-08T21:23:16.518Z",
   "engine": "v0.8.0",
   "date": "2026-11-08",
   "lastTick": {
-    "at": "2026-11-08T21:13:16.859Z",
+    "at": "2026-11-08T21:23:16.518Z",
     "asleep": false,
-    "summary": "thought about replan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -18,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-08T20:13:15.464Z",
-    "idleMinutes": 10
+    "idleMinutes": 20
   },
   "today": {
-    "ticks": 95,
+    "ticks": 96,
     "decideCalls": 22,
     "callsByKind": {
       "read": 1,
@@ -77,13 +74,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 530,
+    "hunger": 540,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 90
+    "minutes": 100
   },
   "spend": {
     "monthUsd": 0.58022864,
@@ -92,7 +89,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 530 minutes while awake",
+    "hunger has been under 15 for 540 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"draw desk\" 3 times today",
     "started \"explore\" 3 times today",
