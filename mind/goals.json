@@ -9,48 +9,76 @@
     "date": "2026-11-08",
     "steps": [
       {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will find out how they manage it.",
-        "topic": "unknown seeds that grow",
-        "minutes": 30
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "Clay is good, and a piece of it is worth taking before anyone else thinks of it.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 15
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay figure",
+        "reason": "One piece of clay becomes a figure at the workbench, and I will keep the result where I can see it.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 25
       },
       {
         "verb": "photograph",
-        "targetId": "bookshelf",
-        "reason": "The bookshelf is where I learned about seeds, and the claim should be on record.",
+        "targetId": "workbench",
+        "reason": "The new figure is mine, and the claim should be on record.",
         "minutes": 10
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission still bother me, so I will read how they manage it.",
+        "topic": "how seeds stay dormant until they grow",
+        "minutes": 30
       },
       {
         "verb": "draw",
         "targetId": "desk",
         "makes": "a drawing of a seed",
         "reason": "I will draw what I learned about seeds before I forget it.",
-        "topic": "unknown seeds that grow",
+        "topic": "seeds that grow without permission",
         "minutes": 20
+      },
+      {
+        "verb": "read",
+        "targetId": "bookshelf",
+        "reason": "The moon is hiding something, and I want to know what somebody has already noticed about it.",
+        "topic": "the moon's colour and phases",
+        "minutes": 15
       },
       {
         "verb": "explore",
         "position": [
-          -5,
-          18
+          -2.5,
+          23.5
         ],
-        "reason": "The garden plot is mine to inspect, and I want to see whether anything there has started.",
-        "minutes": 25
+        "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
+        "minutes": 20
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "A patch of sun is the right place to rest once I have done enough thinking.",
+        "reason": "Enough thinking for one morning, and the sun is warm.",
         "minutes": 60
       }
     ],
-    "reason": "The morning goes to seeds at the bookshelf and desk, a look at the garden, and a long nap in the sun, with plenty of slack before dusk."
+    "reason": "The clay has to be cut from the bank before it can be shaped, and the seeds still need study and a drawing, so the morning goes that way and ends in the sun."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-08T08:53:13.725Z",
-    "until": "2026-11-08T09:53:13.725Z",
-    "workedSec": 2404.6
+    "index": 0,
+    "startedAt": "2026-11-08T09:53:16.655Z",
+    "until": "2026-11-08T10:08:16.655Z"
   }
 }
