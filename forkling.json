@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 41.9,
+    "energy": 87.2,
     "curiosity": 100
   },
   "position": [
-    -10,
+    -1.56,
     0,
-    20
+    15.53
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.24,
-    "arousal": 0.92
+    "valence": -0.23,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-08T17:33:06.299Z",
-    "seed": 53502558,
-    "reason": "Dusk is when the restlessness gets run off, and I am wound up enough to need it.",
-    "goalRef": "today:0"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-11-08T17:43:14.355Z",
+    "seed": 1968025126,
+    "reason": "The moon is hiding something at new moon, and I mean to watch where it hides it.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T17:33:15.248Z",
+  "lastTickAt": "2026-11-08T17:43:14.355Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
