@@ -40,15 +40,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-08",
-  "appliedStepAt": "2026-11-08T10:43:20.083Z",
+  "appliedStepAt": "2026-11-08T11:03:16.563Z",
   "lastThinkAt": "2026-11-08T09:53:16.655Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "telescope",
-      "at": "2026-11-07T16:33:13.856Z"
-    },
     {
       "verb": "inspect",
       "targetId": "telescope",
@@ -141,6 +136,11 @@
       "verb": "study",
       "targetId": "bookshelf",
       "at": "2026-11-08T11:03:16.563Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-08T11:43:16.562Z"
     }
   ],
   "lastReflectDate": "2026-11-07",
