@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 78.3,
+    "energy": 90.3,
     "curiosity": 100
   },
   "position": [
-    6.03,
+    23.02,
     0,
-    23.74
+    11.02
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.18,
-    "arousal": 1
+    "valence": -0.17,
+    "arousal": 0.92
   },
   "intention": {
-    "type": "sniff",
-    "startedAt": "2026-11-08T19:13:07.727Z",
-    "seed": 1136344168,
-    "reason": "It needs smelling."
+    "type": "zoomies",
+    "startedAt": "2026-11-08T19:33:09.199Z",
+    "seed": 1793533423,
+    "reason": "The evening hit me like a wave. I must run."
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T19:13:13.023Z",
+  "lastTickAt": "2026-11-08T19:33:15.622Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
