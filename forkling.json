@@ -4,27 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 49.1
+    "energy": 88.9,
+    "curiosity": 99.8
   },
   "position": [
-    -26.5,
+    -5.12,
     0,
-    -14.5
+    9.68
   ],
   "mood": "calm",
   "feelings": {
     "valence": 0.02,
-    "arousal": 0.33
+    "arousal": 0.32
   },
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-08T06:00:00.100Z",
-    "seed": 2126883021,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-08T07:03:13.678Z",
+    "seed": 1967981605,
+    "reason": "It is still early morning and the sun is not yet on the sunbeam, so I begin with the bookshelf, since seeds that grow without permission are still bothering me.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T06:03:20.248Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-08T07:03:13.678Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

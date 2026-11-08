@@ -6,46 +6,50 @@
     "reviewedAt": "2026-11-07T14:43:14.001Z"
   },
   "today": {
-    "date": "2026-11-07",
+    "date": "2026-11-08",
     "steps": [
-      {
-        "verb": "observe",
-        "targetId": "telescope",
-        "reason": "Dusk is here, and the telescope is mine, so I will look at the sky through it and keep what I see.",
-        "topic": "the moon's colour",
-        "because": [
-          "b1"
-        ],
-        "minutes": 30
-      },
-      {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, and the claim should be on record.",
-        "minutes": 10
-      },
       {
         "verb": "study",
         "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I want to know more about them.",
+        "reason": "Seeds that grow without permission still bother me, so I will find out how they manage it.",
         "topic": "unknown seeds that grow",
         "minutes": 30
       },
       {
+        "verb": "photograph",
+        "targetId": "bookshelf",
+        "reason": "The bookshelf is where I learned about seeds, and the claim should be on record.",
+        "minutes": 10
+      },
+      {
         "verb": "draw",
         "targetId": "desk",
-        "makes": "a drawing of the moon",
-        "reason": "I have not settled the moon's colour, and a drawing might help me decide.",
-        "topic": "the moon's colour",
+        "makes": "a drawing of a seed",
+        "reason": "I will draw what I learned about seeds before I forget it.",
+        "topic": "unknown seeds that grow",
         "minutes": 20
       },
       {
-        "verb": "photograph",
-        "targetId": "reading-lamp",
-        "reason": "The lamp on the desk is mine, and I want the claim on record.",
-        "minutes": 10
+        "verb": "explore",
+        "position": [
+          -5,
+          18
+        ],
+        "reason": "The garden plot is mine to inspect, and I want to see whether anything there has started.",
+        "minutes": 25
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "A patch of sun is the right place to rest once I have done enough thinking.",
+        "minutes": 60
       }
     ],
-    "reason": "Dusk has started, so the telescope comes first, and the reading and drawing I still owe will fill the rest of the evening."
+    "reason": "The morning goes to seeds at the bookshelf and desk, a look at the garden, and a long nap in the sun, with plenty of slack before dusk."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-08T07:03:13.678Z",
+    "until": "2026-11-08T07:33:13.678Z"
   }
 }
