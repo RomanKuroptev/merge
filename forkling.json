@@ -3,30 +3,33 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 71.4,
-    "energy": 96.7,
-    "curiosity": 72
+    "hunger": 67.4,
+    "energy": 93.8,
+    "curiosity": 100
   },
   "position": [
-    13.5,
+    -0.29,
     0,
-    20.5
+    28.5
   ],
-  "mood": "content",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.47,
-    "arousal": 0.43
+    "valence": 0.8,
+    "arousal": 0.57
   },
   "intention": {
-    "type": "cut",
-    "targetId": "clay-bank",
-    "startedAt": "2026-11-08T10:03:08.899Z",
-    "seed": 2105273374,
-    "reason": "Clay is good, and a piece of it is worth taking before anyone else thinks of it.",
-    "goalRef": "today:0"
+    "type": "shape",
+    "targetId": "workbench",
+    "startedAt": "2026-11-08T10:13:13.791Z",
+    "seed": 1968001453,
+    "reason": "One piece of clay becomes a figure at the workbench, and I will keep the result where I can see it.",
+    "goalRef": "today:1"
+  },
+  "holding": {
+    "material": "clay"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T10:03:13.563Z",
+  "lastTickAt": "2026-11-08T10:13:13.791Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
