@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 31.3,
-    "energy": 93,
+    "hunger": 23.3,
+    "energy": 86.4,
     "curiosity": 100
   },
   "position": [
-    -9.45,
+    -18.5,
     0,
-    15.9
+    10.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.96,
-    "arousal": 0.77
+    "valence": 0.89,
+    "arousal": 0.72
   },
   "intention": {
     "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-08T11:43:16.562Z",
-    "seed": 1968011968,
+    "startedAt": "2026-11-08T12:03:11.999Z",
+    "seed": 125252549,
     "reason": "I will draw what I learned about seeds before I forget it.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T11:43:16.562Z",
+  "lastTickAt": "2026-11-08T12:03:13.677Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
