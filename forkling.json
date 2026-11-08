@@ -5,28 +5,28 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 91.8
+    "curiosity": 79.8
   },
   "position": [
-    -13.5,
+    -19.5,
     0,
     -16.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": 0.04,
-    "arousal": 1
+    "arousal": 0.89
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-08T16:32:48.099Z",
-    "seed": 1632816546,
+    "startedAt": "2026-11-08T17:02:10.199Z",
+    "seed": 153585839,
     "reason": "Enough thinking for one morning, and the sun is warm.",
     "goalRef": "today:7"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T16:33:14.408Z",
+  "lastTickAt": "2026-11-08T17:03:14.294Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
