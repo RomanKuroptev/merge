@@ -9,77 +9,36 @@
     "date": "2026-11-08",
     "steps": [
       {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "Clay is good, and I will take a piece of it before anyone else thinks of it.",
+        "verb": "zoomies",
+        "position": [
+          -10,
+          20
+        ],
+        "reason": "Dusk is when the restlessness gets run off, and I am wound up enough to need it.",
+        "minutes": 20
+      },
+      {
+        "verb": "observe",
+        "targetId": "telescope",
+        "reason": "The moon is hiding something at new moon, and I mean to watch where it hides it.",
+        "topic": "the moon's colour at new moon",
         "because": [
-          "b2"
+          "b1"
         ],
-        "minutes": 15
-      },
-      {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "a small clay figure",
-        "reason": "One piece of clay becomes a figure at the workbench, and I will keep the result where I can see it.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 25
-      },
-      {
-        "verb": "photograph",
-        "targetId": "workbench",
-        "reason": "The new figure is mine, and the claim should be on record.",
-        "minutes": 10
-      },
-      {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will read how they manage it.",
-        "topic": "how seeds stay dormant until they grow",
         "minutes": 30
       },
       {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "a drawing of a seed",
-        "reason": "I will draw what I learned about seeds before I forget it.",
-        "topic": "seeds that grow without permission",
-        "minutes": 20
-      },
-      {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "The moon is hiding something, and I want to know what somebody has already noticed about it.",
-        "topic": "the moon's colour and phases",
-        "minutes": 15
-      },
-      {
-        "verb": "explore",
-        "position": [
-          -2.5,
-          23.5
-        ],
-        "reason": "The lookout rock is mine, and I want to sit above the beach and see who is coming up it.",
-        "minutes": 20
-      },
-      {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "Enough thinking for one morning, and the sun is warm.",
-        "minutes": 60
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is mine and the view through it should be on record.",
+        "minutes": 10
       }
     ],
-    "reason": "The bowl is empty until I wake tomorrow, so I have removed the step that depended on it and kept the rest of the day as it was."
+    "reason": "Hunger is empty and the bowl will not be filled until morning, so I will not waste the dusk; I will spend it on zoomies and the telescope."
   },
   "now": {
-    "index": 7,
-    "startedAt": "2026-11-08T16:13:15.856Z",
-    "until": "2026-11-08T17:13:15.856Z",
-    "workedSec": 2998.2
+    "index": 0,
+    "startedAt": "2026-11-08T17:13:16.664Z",
+    "until": "2026-11-08T17:33:16.664Z"
   }
 }

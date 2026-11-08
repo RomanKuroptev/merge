@@ -5,28 +5,27 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 79.8
+    "curiosity": 75.8
   },
   "position": [
-    -19.5,
+    -13.5,
     0,
-    -16.5
+    -19.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0.04,
-    "arousal": 0.89
+    "valence": -0.26,
+    "arousal": 1
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-08T17:02:10.199Z",
-    "seed": 153585839,
-    "reason": "Enough thinking for one morning, and the sun is warm.",
-    "goalRef": "today:7"
+    "type": "zoomies",
+    "startedAt": "2026-11-08T17:13:16.664Z",
+    "seed": 1968027448,
+    "reason": "The sun has gone and dusk is here, so I will run off my restlessness, then go back to the telescope to look at the moon that is hiding from me.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-08T17:03:14.294Z",
+  "lastTickAt": "2026-11-08T17:13:16.664Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
