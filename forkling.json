@@ -4,29 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 61.2,
+    "energy": 88.2,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    19.2,
     0,
-    18.5
+    -6.55
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.54,
-    "arousal": 0.93
+    "valence": 0.48,
+    "arousal": 1
   },
   "intention": {
-    "type": "observe",
-    "targetId": "telescope",
-    "startedAt": "2026-11-09T18:33:00.599Z",
-    "seed": 1896662747,
-    "reason": "Dusk is when the telescope leaves something worth keeping, and I mean to look at the moon's colour myself.",
-    "goalRef": "today:0"
+    "type": "zoomies",
+    "startedAt": "2026-11-09T19:03:18.928Z",
+    "seed": 1968112226,
+    "reason": "Dusk restlessness needs somewhere to go, and this patch near the telescope will do.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T18:33:15.681Z",
+  "lastTickAt": "2026-11-09T19:03:18.928Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
