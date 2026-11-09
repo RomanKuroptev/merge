@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 88.6,
+    "energy": 85.2,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     14.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.29,
-    "arousal": 0.92
+    "valence": -0.58,
+    "arousal": 1
   },
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-09T16:33:13.399Z",
-    "seed": 1937189120,
+    "startedAt": "2026-11-09T16:42:54.790Z",
+    "seed": 2094919882,
     "reason": "Seeds that grow without permission still bother me, and I intend to learn how they manage it.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T16:33:14.691Z",
+  "lastTickAt": "2026-11-09T16:43:18.385Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
