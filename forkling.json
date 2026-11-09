@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 82.8,
+    "energy": 95.3,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -0.78,
     0,
-    10.5
+    -12.13
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": -0.01,
-    "arousal": 0.96
+    "valence": -0.31,
+    "arousal": 1
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "desk",
-    "startedAt": "2026-11-09T16:03:08.699Z",
-    "seed": 1310152482,
-    "reason": "The desk is a flat place for ideas, and the reading lamp sitting on it is mine.",
-    "goalRef": "today:3"
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-09T16:13:13.819Z",
+    "seed": 1967975309,
+    "reason": "My bowl is empty and the berry bush is off limits, so food waits for morning, and I would rather spend the evening on the one reading session I have left.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T16:03:12.720Z",
+  "lastTickAt": "2026-11-09T16:13:13.819Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

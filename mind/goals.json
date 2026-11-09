@@ -11,43 +11,22 @@
       {
         "verb": "study",
         "targetId": "bookshelf",
-        "reason": "The moon's colour is still hidden from me, and I intend to find out why before anyone tells me.",
-        "topic": "the moon's colour",
+        "reason": "Seeds that grow without permission still bother me, and I intend to learn how they manage it.",
+        "topic": "unknown seeds that grow",
         "minutes": 40
       },
       {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, and I want to be in front of it when the sky is worth looking at.",
-        "minutes": 10
-      },
-      {
         "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, so I will put it on record.",
+        "targetId": "reading-lamp",
+        "reason": "The reading lamp on the desk is mine, and I will put it on record once more.",
         "minutes": 10
-      },
-      {
-        "verb": "go_to",
-        "targetId": "desk",
-        "reason": "The desk is a flat place for ideas, and the reading lamp sitting on it is mine.",
-        "minutes": 10
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "drawing of the moon",
-        "reason": "I have drawn the moon many times without settling its colour, and I will try once more.",
-        "topic": "the moon's colour",
-        "minutes": 30
       }
     ],
-    "reason": "The bowl is empty and dine cannot use it, so I have dropped the eating step and planned only things I can do now, leaving food until the bowl is filled again."
+    "reason": "Drawing is already done for the day and my hunger cannot be fed until the bowl is filled, so I will finish the last reading session and one photograph."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-09T15:53:15.037Z",
-    "until": "2026-11-09T16:03:15.037Z",
-    "workedSec": 597.6
+    "index": 0,
+    "startedAt": "2026-11-09T16:13:13.819Z",
+    "until": "2026-11-09T16:53:13.819Z"
   }
 }
