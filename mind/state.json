@@ -40,18 +40,15 @@
     "a-small-clay-figure-5",
     "small-clay-bowl-2",
     "small-clay-figure",
-    "small-clay-figure-2"
+    "small-clay-figure-2",
+    "small-clay-bowl-3"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T17:23:14.862Z",
-  "lastThinkAt": "2026-11-09T17:23:14.862Z",
+  "appliedStepAt": "2026-11-09T17:43:12.880Z",
+  "lastThinkAt": "2026-11-09T18:03:14.519Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "pounce",
-      "at": "2026-11-09T10:33:14.423Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -146,6 +143,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-09T17:43:12.880Z"
+    },
+    {
+      "verb": "study",
+      "targetId": "bookshelf",
+      "at": "2026-11-09T18:03:14.519Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
