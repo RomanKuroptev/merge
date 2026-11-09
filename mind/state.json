@@ -42,14 +42,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T09:23:18.504Z",
-  "lastThinkAt": "2026-11-09T07:03:15.220Z",
+  "appliedStepAt": "2026-11-09T10:33:14.423Z",
+  "lastThinkAt": "2026-11-09T11:03:28.015Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "explore",
-      "at": "2026-11-08T12:33:16.991Z"
-    },
     {
       "verb": "nap",
       "targetId": "sunbeam",
@@ -141,6 +137,11 @@
     {
       "verb": "pounce",
       "at": "2026-11-09T10:33:14.423Z"
+    },
+    {
+      "verb": "cut",
+      "targetId": "clay-bank",
+      "at": "2026-11-09T11:03:28.015Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
@@ -166,14 +167,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "go_to",
-      "verb": "eat",
-      "need": "hunger",
-      "at": "2026-11-09T07:03:48.419Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-11-03T19:03:21.535Z",

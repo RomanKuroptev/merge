@@ -3,29 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 24.2,
-    "energy": 75.4,
+    "hunger": 12.1,
+    "energy": 94.3,
     "curiosity": 100
   },
   "position": [
-    -15.84,
+    5.5,
     0,
-    5.17
+    20.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.71,
-    "arousal": 0.59
+    "valence": 0.33,
+    "arousal": 0.74
   },
   "intention": {
-    "type": "pounce",
-    "startedAt": "2026-11-09T10:33:14.423Z",
-    "seed": 1967963134,
-    "reason": "Dusk is coming, and the lookout rock is mine to be above things on.",
-    "goalRef": "today:5"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-09T11:03:28.015Z",
+    "seed": 1967960596,
+    "reason": "Hunger has come down to 12 and the day is long, so I will eat when the body asks, and spend the afternoon on the clay and the reading I still owe.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T10:33:14.423Z",
+  "lastTickAt": "2026-11-09T11:03:28.015Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

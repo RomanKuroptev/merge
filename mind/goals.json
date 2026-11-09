@@ -9,25 +9,9 @@
     "date": "2026-11-09",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The telescope is mine and the morning sky should be checked on it before anyone else looks.",
-        "because": [
-          "b1"
-        ],
-        "minutes": 20
-      },
-      {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will read until I have an answer.",
-        "topic": "unknown seeds that grow",
-        "minutes": 40
-      },
-      {
         "verb": "cut",
         "targetId": "clay-bank",
-        "reason": "Clay is good and I mean to have a finished piece of it in my collection.",
+        "reason": "Clay is good and I mean to have a piece of it in my collection.",
         "because": [
           "b2"
         ],
@@ -39,7 +23,7 @@
         "materials": [
           "clay"
         ],
-        "makes": "small clay bowl",
+        "makes": "small clay figure",
         "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it.",
         "because": [
           "b4"
@@ -49,24 +33,28 @@
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "Energy is wearing thin and a patch of sun is the right place to recover.",
+        "reason": "Energy is thinning and a patch of sun is the right place to recover.",
         "minutes": 60
       },
       {
-        "verb": "pounce",
-        "position": [
-          -2.5,
-          23.5
-        ],
-        "reason": "Dusk is coming, and the lookout rock is mine to be above things on.",
-        "minutes": 25
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "The moon hides its colour from me, and I want to know why before anyone tells me.",
+        "topic": "the moon's colour",
+        "minutes": 40
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is mine, so I will put it on record.",
+        "minutes": 10
       }
     ],
-    "reason": "I will settle my claims, learn about seeds, make one clay object and rest in the sun before dusk."
+    "reason": "The clay and the reading are still owed, and the sunny nap fits between them before the afternoon ends."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-09T10:33:14.423Z",
-    "until": "2026-11-09T10:58:14.423Z"
+    "index": 0,
+    "startedAt": "2026-11-09T11:03:28.015Z",
+    "until": "2026-11-09T11:23:28.015Z"
   }
 }
