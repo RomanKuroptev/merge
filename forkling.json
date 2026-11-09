@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 64.5,
+    "energy": 61.2,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -14.5,
     0,
-    14.5
+    18.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.56,
-    "arousal": 0.97
+    "valence": 0.54,
+    "arousal": 0.93
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-09T18:23:18.193Z",
-    "seed": 1968116994,
-    "reason": "The sky is worth watching at dusk and the desk is mine to work at, so I will spend the evening doing both.",
+    "startedAt": "2026-11-09T18:33:00.599Z",
+    "seed": 1896662747,
+    "reason": "Dusk is when the telescope leaves something worth keeping, and I mean to look at the moon's colour myself.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T18:23:18.193Z",
+  "lastTickAt": "2026-11-09T18:33:15.681Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
