@@ -9,26 +9,24 @@
     "date": "2026-11-09",
     "steps": [
       {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "I need one piece of clay in my paws before I can shape anything, and the clay bank is mine to pick from.",
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "moon observation notes",
+        "reason": "Dusk is when the telescope leaves something worth keeping, and I mean to look at the moon's colour myself.",
+        "topic": "the moon's colour",
         "because": [
-          "b2"
+          "b1"
         ],
-        "minutes": 10
+        "minutes": 30
       },
       {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
+        "verb": "zoomies",
+        "position": [
+          -12,
+          18
         ],
-        "makes": "small clay bowl",
-        "reason": "One piece of clay becomes a finished small object at the workbench, and it will be mine to keep.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 20
+        "reason": "Dusk restlessness needs somewhere to go, and this patch near the telescope will do.",
+        "minutes": 10
       },
       {
         "verb": "study",
@@ -36,13 +34,36 @@
         "reason": "Seeds that grow without permission still bother me, so I will read about them.",
         "topic": "unknown seeds that grow",
         "minutes": 20
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "materials": [
+          "wood"
+        ],
+        "makes": "drawing of the moon",
+        "reason": "The moon has still not settled its colour, so I will try to draw it again.",
+        "topic": "the moon's colour",
+        "minutes": 20
+      },
+      {
+        "verb": "photograph",
+        "targetId": "telescope",
+        "reason": "The telescope is mine, and the claim should be on record.",
+        "minutes": 15
+      },
+      {
+        "verb": "photograph",
+        "targetId": "reading-lamp",
+        "reason": "The lamp on my desk is mine, and I photographed it once already, but a second picture in the dusk light will do.",
+        "minutes": 10
       }
     ],
-    "reason": "I have claimed the workbench and the clay is close by, so making something to keep is the best use of the evening; I will finish with some reading about seeds."
+    "reason": "The earlier plan had a photograph step with no target, so I have rebuilt the evening around the telescope, the desk and the bookshelf."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-09T18:03:14.519Z",
-    "until": "2026-11-09T18:23:14.519Z"
+    "index": 0,
+    "startedAt": "2026-11-09T18:23:18.193Z",
+    "until": "2026-11-09T18:53:18.193Z"
   }
 }
