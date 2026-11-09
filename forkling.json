@@ -5,28 +5,28 @@
   "needs": {
     "hunger": 0,
     "energy": 86.1,
-    "curiosity": 99.9
+    "curiosity": 100
   },
   "position": [
-    -3.5,
+    -7.5,
     0,
-    15.5
+    11.5
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.33,
+    "valence": -0.01,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-09T15:33:31.991Z",
-    "seed": 1967979871,
-    "reason": "The telescope is mine, so I will put it on record.",
-    "goalRef": "today:2"
+    "type": "go_to",
+    "targetId": "desk",
+    "startedAt": "2026-11-09T15:53:15.037Z",
+    "seed": 1967978239,
+    "reason": "The desk is a flat place for ideas, and the reading lamp sitting on it is mine.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T15:33:31.991Z",
+  "lastTickAt": "2026-11-09T15:53:15.037Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
