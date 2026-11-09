@@ -43,15 +43,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T13:03:20.507Z",
+  "appliedStepAt": "2026-11-09T13:23:15.251Z",
   "lastThinkAt": "2026-11-09T13:23:15.251Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "read",
-      "targetId": "bookshelf",
-      "at": "2026-11-08T15:23:17.807Z"
-    },
     {
       "verb": "explore",
       "at": "2026-11-08T15:43:19.091Z"
@@ -143,6 +138,11 @@
       "verb": "go_to",
       "targetId": "workbench",
       "at": "2026-11-09T13:23:15.251Z"
+    },
+    {
+      "verb": "shape",
+      "targetId": "workbench",
+      "at": "2026-11-09T13:33:17.140Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
