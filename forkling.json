@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 75.4,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 99.6
   },
   "position": [
-    -14.5,
+    -6.5,
     0,
-    18.5
+    19.5
   ],
-  "mood": "pleased",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.17,
-    "arousal": 0.96
+    "valence": 0.46,
+    "arousal": 1
   },
   "intention": {
     "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-09T20:33:11.699Z",
-    "seed": 1373865680,
-    "reason": "The telescope is mine, and the claim should be on record.",
-    "goalRef": "today:4"
+    "targetId": "reading-lamp",
+    "startedAt": "2026-11-09T20:43:18.493Z",
+    "seed": 1968122610,
+    "reason": "The lamp on my desk is mine, and I photographed it once already, but a second picture in the dusk light will do.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T20:33:14.627Z",
+  "lastTickAt": "2026-11-09T20:43:18.493Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
