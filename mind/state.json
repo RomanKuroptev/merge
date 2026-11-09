@@ -40,17 +40,11 @@
     "a-small-clay-figure-5"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-08",
+  "lastPlanDate": "2026-11-09",
   "appliedStepAt": "2026-11-08T20:13:15.464Z",
-  "lastThinkAt": "2026-11-08T21:43:14.963Z",
-  "replanAfter": "2026-11-08T22:13:16.859Z",
+  "lastThinkAt": "2026-11-09T07:03:15.220Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "cut",
-      "targetId": "clay-bank",
-      "at": "2026-11-08T09:53:16.655Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -142,6 +136,11 @@
       "verb": "curl_up",
       "targetId": "bed",
       "at": "2026-11-08T20:13:15.464Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "telescope",
+      "at": "2026-11-09T07:03:15.220Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
@@ -149,8 +148,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-09",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-09",

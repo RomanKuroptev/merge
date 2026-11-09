@@ -4,27 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 52.7
+    "energy": 84.7,
+    "curiosity": 99.9
   },
   "position": [
-    -2.72,
+    17.5,
     0,
-    20.97
+    14.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": -0.11,
-    "arousal": 0.33
+    "valence": -0.09,
+    "arousal": 0.32
   },
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-09T06:00:00.100Z",
-    "seed": 2134198531,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "go_to",
+    "targetId": "telescope",
+    "startedAt": "2026-11-09T07:03:15.220Z",
+    "seed": 1967942311,
+    "reason": "The plant I already watered does not need watering again, so I will leave it alone and begin the day with the telescope's neighbour, the sky, while the morning is still mine.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T06:03:16.126Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-09T07:03:15.220Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

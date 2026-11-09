@@ -6,15 +6,67 @@
     "reviewedAt": "2026-11-07T14:43:14.001Z"
   },
   "today": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "steps": [
       {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "The bed is soft and it is night, so I will curl up here and let the wound-up feeling wear off.",
+        "verb": "go_to",
+        "targetId": "telescope",
+        "reason": "The telescope is mine and the morning sky should be checked on it before anyone else looks.",
+        "because": [
+          "b1"
+        ],
+        "minutes": 20
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission still bother me, so I will read until I have an answer.",
+        "topic": "unknown seeds that grow",
+        "minutes": 40
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "Clay is good and I mean to have a finished piece of it in my collection.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 20
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "small clay bowl",
+        "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 40
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Energy is wearing thin and a patch of sun is the right place to recover.",
         "minutes": 60
+      },
+      {
+        "verb": "pounce",
+        "position": [
+          -2.5,
+          23.5
+        ],
+        "reason": "Dusk is coming, and the lookout rock is mine to be above things on.",
+        "minutes": 25
       }
     ],
-    "reason": "Sleep is refused until true night, and the other things I wanted are for daylight, so I will rest on the bed instead."
+    "reason": "I will settle my claims, learn about seeds, make one clay object and rest in the sun before dusk."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-09T07:03:15.220Z",
+    "until": "2026-11-09T07:23:15.220Z"
   }
 }

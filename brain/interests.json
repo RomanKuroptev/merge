@@ -263,6 +263,45 @@
           "at": "2026-11-08T07:03:13.678Z"
         }
       ]
+    },
+    "new moon and the hidden sky": {
+      "weight": 0.16,
+      "firstSeen": "2026-11-09T07:03:15.220Z",
+      "lastFed": "2026-11-09T07:03:15.220Z",
+      "sources": [
+        {
+          "id": "sky:moon:2026-11-09",
+          "title": "Tonight's moon: new moon",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-09T07:03:15.220Z"
+        }
+      ]
+    },
+    "dust hiding the milky way": {
+      "weight": 0.08,
+      "firstSeen": "2026-11-09T07:03:15.220Z",
+      "lastFed": "2026-11-09T07:03:15.220Z",
+      "sources": [
+        {
+          "id": "lemmy:28274527",
+          "title": "Detailed map of dust in the Milky Way",
+          "url": "https://pawb.social/post/22984370",
+          "at": "2026-11-09T07:03:15.220Z"
+        }
+      ]
+    },
+    "hidden email rules": {
+      "weight": 0.04,
+      "firstSeen": "2026-11-09T07:03:15.220Z",
+      "lastFed": "2026-11-09T07:03:15.220Z",
+      "sources": [
+        {
+          "id": "hn:50416158",
+          "title": "Outlook.com is rejecting email from domains without DMARC",
+          "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+          "at": "2026-11-09T07:03:15.220Z"
+        }
+      ]
     }
   },
   "current": null,
