@@ -4,27 +4,27 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 65.6,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 99.8
   },
   "position": [
-    -12.39,
+    -30.53,
     0,
-    6.98
+    -1.2
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.33,
-    "arousal": 0.79
+    "valence": 0.32,
+    "arousal": 0.76
   },
   "intention": {
-    "type": "pounce",
-    "startedAt": "2026-11-09T22:03:16.799Z",
-    "seed": 1545927268,
-    "reason": "Something moved. Probably. I pounced anyway."
+    "type": "sleep",
+    "startedAt": "2026-11-09T22:11:44.004Z",
+    "seed": 1773822342,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T22:03:17.405Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-09T22:13:16.038Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }
