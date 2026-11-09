@@ -4,29 +4,32 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 92.3,
-    "curiosity": 96
+    "energy": 77.9,
+    "curiosity": 100
   },
   "position": [
-    13.5,
+    -32.5,
     0,
-    20.5
+    2.5
   ],
-  "mood": "curious",
+  "mood": "pleased",
   "feelings": {
-    "valence": -0.13,
-    "arousal": 0.89
+    "valence": 0.22,
+    "arousal": 1
   },
   "intention": {
-    "type": "cut",
-    "targetId": "clay-bank",
-    "startedAt": "2026-11-09T17:33:10.599Z",
-    "seed": 1997546293,
-    "reason": "I need one piece of clay in my paws before I can shape anything, and the clay bank is mine to pick from.",
-    "goalRef": "today:0"
+    "type": "shape",
+    "targetId": "workbench",
+    "startedAt": "2026-11-09T17:43:12.880Z",
+    "seed": 1968118948,
+    "reason": "One piece of clay becomes a finished small object at the workbench, and it will be mine to keep.",
+    "goalRef": "today:1"
+  },
+  "holding": {
+    "material": "clay"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T17:33:11.849Z",
+  "lastTickAt": "2026-11-09T17:43:12.880Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
