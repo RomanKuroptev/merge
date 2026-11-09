@@ -9,67 +9,44 @@
     "date": "2026-11-09",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "clay-bank",
-        "reason": "Nothing is in my paws, so I need clay before I can shape anything, and the clay bank is where it comes from.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 10
-      },
-      {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "One piece of clay in my paws is what the workbench needs, and I claim it before anyone else does.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 10
-      },
-      {
-        "verb": "go_to",
-        "targetId": "workbench",
-        "reason": "The clay has to go where things get shaped, and the workbench is mine.",
-        "minutes": 10
-      },
-      {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "small clay figure",
-        "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 30
-      },
-      {
-        "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "The moon hides its colour from me, and I want to know why before anyone tells me.",
-        "minutes": 10
-      },
-      {
         "verb": "study",
         "targetId": "bookshelf",
-        "reason": "The moon's colour is a mystery I intend to solve on my own terms.",
+        "reason": "The moon's colour is still hidden from me, and I intend to find out why before anyone tells me.",
         "topic": "the moon's colour",
         "minutes": 40
+      },
+      {
+        "verb": "go_to",
+        "targetId": "telescope",
+        "reason": "The telescope is mine, and I want to be in front of it when the sky is worth looking at.",
+        "minutes": 10
       },
       {
         "verb": "photograph",
         "targetId": "telescope",
         "reason": "The telescope is mine, so I will put it on record.",
         "minutes": 10
+      },
+      {
+        "verb": "go_to",
+        "targetId": "desk",
+        "reason": "The desk is a flat place for ideas, and the reading lamp sitting on it is mine.",
+        "minutes": 10
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "makes": "drawing of the moon",
+        "reason": "I have drawn the moon many times without settling its colour, and I will try once more.",
+        "topic": "the moon's colour",
+        "minutes": 30
       }
     ],
-    "reason": "The shaping step could not be carried out with empty paws, so I have added the trip to the clay bank before it."
+    "reason": "The bowl is empty and dine cannot use it, so I have dropped the eating step and planned only things I can do now, leaving food until the bowl is filled again."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-09T14:23:17.377Z",
-    "until": "2026-11-09T15:03:17.377Z"
+    "index": 0,
+    "startedAt": "2026-11-09T14:33:14.910Z",
+    "until": "2026-11-09T15:13:14.910Z"
   }
 }

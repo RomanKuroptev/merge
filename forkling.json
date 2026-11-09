@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 88,
+    "energy": 84.7,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,21 @@
     0,
     14.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.5,
-    "arousal": 0.96
+    "valence": 0.18,
+    "arousal": 1
   },
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-09T14:23:17.377Z",
-    "seed": 1967967681,
-    "reason": "The moon's colour is a mystery I intend to solve on my own terms.",
-    "goalRef": "today:5"
+    "startedAt": "2026-11-09T14:33:14.910Z",
+    "seed": 1967964990,
+    "reason": "My paws are empty and my hunger is at zero with the bowl empty until morning, so I will spend the afternoon on the moon at the bookshelf and the desk, and eat when the bowl is filled again.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T14:23:17.377Z",
+  "lastTickAt": "2026-11-09T14:33:14.910Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
