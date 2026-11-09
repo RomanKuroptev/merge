@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-09T17:03:16.949Z",
+  "updatedAt": "2026-11-09T17:13:14.753Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T17:03:16.949Z",
+    "at": "2026-11-09T17:13:14.753Z",
     "asleep": false,
-    "summary": "photograph: made something at, took a photo, thought about replan, step 1/1: go_to, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 68,
+    "ticks": 69,
     "decideCalls": 16,
     "callsByKind": {
       "memory": 1,
@@ -82,22 +79,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 370,
+    "hunger": 380,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
-    "monthUsd": 0.63903362,
+    "monthUsd": 0.63969104,
     "capUsd": 10,
     "paceUsd": 3
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 370 minutes while awake",
+    "hunger has been under 15 for 380 minutes while awake",
     "started \"study bookshelf\" 4 times today",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 4 times today",
