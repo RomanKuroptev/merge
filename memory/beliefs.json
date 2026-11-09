@@ -4,8 +4,6 @@
     "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
     "confidence": 1,
     "evidence": [
-      "2026-11-03#89",
-      "2026-11-03#91",
       "2026-11-04#77",
       "2026-11-04#79",
       "2026-11-05#71",
@@ -15,10 +13,12 @@
       "2026-11-07#69",
       "2026-11-07#71",
       "2026-11-08#68",
-      "2026-11-08#73"
+      "2026-11-08#73",
+      "2026-11-09#79",
+      "2026-11-09#80"
     ],
     "formedAt": "2026-10-31T21:33:14.499Z",
-    "revisedAt": "2026-11-08T21:43:14.963Z",
+    "revisedAt": "2026-11-09T21:43:13.678Z",
     "status": "active",
     "history": [
       {
@@ -68,6 +68,12 @@
         "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
         "confidence": 1,
         "why": "Observing at dusk again left a labnote worth keeping."
+      },
+      {
+        "at": "2026-11-09T21:43:13.678Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk left a labnote."
       }
     ]
   },
@@ -138,10 +144,6 @@
     "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
     "confidence": 1,
     "evidence": [
-      "2026-11-02#9",
-      "2026-11-03#25",
-      "2026-11-03#28",
-      "2026-11-04#14",
       "2026-11-04#31",
       "2026-11-06#61",
       "2026-11-06#64",
@@ -149,10 +151,14 @@
       "2026-11-07#18",
       "2026-11-07#35",
       "2026-11-08#19",
-      "2026-11-08#43"
+      "2026-11-08#43",
+      "2026-11-09#10",
+      "2026-11-09#24",
+      "2026-11-09#38",
+      "2026-11-09#72"
     ],
     "formedAt": "2026-11-01T21:53:17.368Z",
-    "revisedAt": "2026-11-08T21:43:14.963Z",
+    "revisedAt": "2026-11-09T21:43:13.678Z",
     "status": "active",
     "history": [
       {
@@ -190,6 +196,12 @@
         "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
         "confidence": 1,
         "why": "Two more clay figures finished at the workbench."
+      },
+      {
+        "at": "2026-11-09T21:43:13.678Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Every piece of clay shaped at the workbench came out as a finished small object."
       }
     ]
   }
