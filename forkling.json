@@ -4,32 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 79.8,
-    "curiosity": 83.9
+    "energy": 76.5,
+    "curiosity": 80
   },
   "position": [
     -6.5,
     0,
     12.5
   ],
-  "mood": "curious",
+  "mood": "delighted",
   "feelings": {
-    "valence": -0.01,
+    "valence": 0.59,
     "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-09T12:13:19.109Z",
-    "seed": 398802534,
-    "reason": "I have a piece of clay in my paws, and it becomes a finished small object I will keep where I can see it.",
-    "goalRef": "today:0"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-09T12:23:15.316Z",
+    "seed": 1967956391,
+    "reason": "Energy is thinning and a patch of sun is the right place to recover.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T12:13:26.539Z",
+  "lastTickAt": "2026-11-09T12:23:15.316Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
