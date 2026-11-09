@@ -1,0 +1,105 @@
+{
+  "id": "small-clay-figure-2",
+  "kind": "made",
+  "name": "small clay figure",
+  "position": [
+    -7.29,
+    0,
+    12.1
+  ],
+  "rotation": [
+    0,
+    0,
+    0
+  ],
+  "scale": 1,
+  "model": {
+    "parts": [
+      {
+        "shape": "cylinder",
+        "size": [
+          0.098,
+          0.098,
+          0.098
+        ],
+        "at": [
+          0.012,
+          0.049,
+          0.013
+        ],
+        "rotation": [
+          0.029,
+          -1.052,
+          0.114
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.087,
+          0.087,
+          0.087
+        ],
+        "at": [
+          -0.004,
+          0.141,
+          -0.016
+        ],
+        "rotation": [
+          -0.063,
+          -1.007,
+          -0.16
+        ],
+        "color": "#c2703d"
+      },
+      {
+        "shape": "cylinder",
+        "size": [
+          0.063,
+          0.063,
+          0.063
+        ],
+        "at": [
+          0.015,
+          0.216,
+          0.001
+        ],
+        "rotation": [
+          0.102,
+          -1.136,
+          -0.024
+        ],
+        "color": "#c2703d"
+      }
+    ]
+  },
+  "properties": {
+    "size": 0.248,
+    "weightKg": 4,
+    "carryable": true,
+    "diggable": false,
+    "canHide": false,
+    "edible": false,
+    "soft": false,
+    "high": false,
+    "material": "clay",
+    "storage": false
+  },
+  "unlocks": [],
+  "state": {},
+  "made": {
+    "verb": "shape",
+    "materials": [
+      "clay"
+    ],
+    "skill": 5,
+    "sessions": 1,
+    "needed": 1,
+    "done": true,
+    "at": "2026-11-09T14:13:16.099Z",
+    "seed": 1967967848
+  },
+  "affordances": [],
+  "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it."
+}

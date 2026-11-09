@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-09T14:03:16.549Z",
+  "updatedAt": "2026-11-09T14:13:16.099Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T14:03:16.549Z",
+    "at": "2026-11-09T14:13:16.099Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "shape: finished, step 5/7: go_to",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-09:85edcde7",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 3,
-      "verb": "shape",
-      "targetId": "workbench",
-      "until": "2026-11-09T14:03:17.140Z",
+      "index": 4,
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "until": "2026-11-09T14:23:16.099Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-09T12:53:14.126Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 50,
+    "ticks": 51,
     "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
@@ -34,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "need": 6,
       "replan": 1
     },
@@ -48,7 +50,8 @@
       "nap sunbeam": 2,
       "pounce": 1,
       "go_to clay-bank": 1,
-      "go_to workbench": 1
+      "go_to workbench": 1,
+      "go_to bookshelf": 1
     },
     "longestGapMinutes": 13
   },
@@ -75,13 +78,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 190,
+    "hunger": 200,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "curious",
-    "minutes": 10
+    "label": "delighted",
+    "minutes": 0
   },
   "spend": {
     "monthUsd": 0.62797608,
@@ -90,7 +93,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 190 minutes while awake",
+    "hunger has been under 15 for 200 minutes while awake",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 4 times today"
   ]

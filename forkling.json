@@ -4,32 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 83,
-    "curiosity": 88
+    "energy": 91.3,
+    "curiosity": 99.9
   },
   "position": [
-    -6.5,
+    -13.5,
     0,
-    12.5
+    15.5
   ],
-  "mood": "curious",
+  "mood": "delighted",
   "feelings": {
-    "valence": -0.08,
-    "arousal": 0.96
+    "valence": 0.52,
+    "arousal": 1
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-09T14:03:15.799Z",
-    "seed": 1371583710,
-    "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it.",
-    "goalRef": "today:3"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "go_to",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-09T14:13:16.099Z",
+    "seed": 1967967848,
+    "reason": "The moon hides its colour from me, and I want to know why before anyone tells me.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T14:03:16.549Z",
+  "lastTickAt": "2026-11-09T14:13:16.099Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
