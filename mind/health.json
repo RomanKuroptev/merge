@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-09T22:13:16.038Z",
+  "updatedAt": "2026-11-09T23:03:14.847Z",
   "engine": "v0.8.0",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-09T22:13:16.038Z",
+    "at": "2026-11-09T23:03:14.847Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,55 +18,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 99,
-    "decideCalls": 25,
+    "ticks": 1,
+    "decideCalls": 0,
     "callsByKind": {
-      "memory": 1,
-      "read": 1,
-      "morning": 2,
-      "decide": 23,
-      "art": 2,
-      "bedtime": 1
+      "memory": 1
     },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 29,
-      "need": 17,
-      "replan": 5,
-      "bedtime": 1
-    },
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 1,
-    "stepsStarted": {
-      "go_to telescope": 2,
-      "study bookshelf": 6,
-      "cut clay-bank": 4,
-      "shape workbench": 5,
-      "nap sunbeam": 2,
-      "pounce": 1,
-      "go_to clay-bank": 1,
-      "go_to workbench": 2,
-      "go_to bookshelf": 1,
-      "photograph telescope": 2,
-      "go_to desk": 1,
-      "photograph reading-lamp": 2,
-      "observe telescope": 1,
-      "zoomies": 1,
-      "draw desk": 1
-    },
-    "longestGapMinutes": 13
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -85,18 +58,13 @@
   },
   "mood": {
     "label": "pleased",
-    "minutes": 50
+    "minutes": 100
   },
   "spend": {
-    "monthUsd": 0.6895943,
+    "monthUsd": 0.69016113,
     "capUsd": 10,
-    "paceUsd": 3
+    "paceUsd": 3.3333333333333335
   },
   "openBuild": null,
-  "warnings": [
-    "started \"study bookshelf\" 6 times today",
-    "started \"cut clay-bank\" 4 times today",
-    "started \"shape workbench\" 5 times today",
-    "25 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
