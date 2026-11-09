@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 71.3,
-    "curiosity": 100
+    "energy": 66.7,
+    "curiosity": 99.9
   },
   "position": [
-    -18.5,
+    15.52,
     0,
-    14.5
+    24.17
   ],
-  "mood": "curious",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.1,
+    "valence": 0.2,
     "arousal": 1
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-09T19:43:06.109Z",
-    "seed": 1338353606,
-    "reason": "Seeds that grow without permission still bother me, so I will read about them.",
-    "goalRef": "today:2"
+    "type": "draw",
+    "targetId": "desk",
+    "startedAt": "2026-11-09T19:53:19.132Z",
+    "seed": 1968127547,
+    "reason": "The moon has still not settled its colour, so I will try to draw it again.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T19:43:14.628Z",
+  "lastTickAt": "2026-11-09T19:53:19.132Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
