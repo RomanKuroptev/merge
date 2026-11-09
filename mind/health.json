@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-09T12:03:16.610Z",
+  "updatedAt": "2026-11-09T12:13:26.539Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T12:03:16.610Z",
+    "at": "2026-11-09T12:13:26.539Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -24,18 +26,18 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 38,
-    "decideCalls": 5,
+    "ticks": 39,
+    "decideCalls": 6,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 2,
-      "decide": 3
+      "decide": 4
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 7,
-      "need": 2,
+      "need": 3,
       "replan": 1
     },
     "failures": 0,
@@ -73,22 +75,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 70,
+    "hunger": 80,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "pleased",
-    "minutes": 20
+    "label": "curious",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.62126676,
+    "monthUsd": 0.62273999,
     "capUsd": 10,
     "paceUsd": 3
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 70 minutes while awake",
+    "hunger has been under 15 for 80 minutes while awake",
     "started \"shape workbench\" 3 times today"
   ]
 }
