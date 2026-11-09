@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 85.2,
+    "energy": 81.9,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.58,
+    "valence": -0.46,
     "arousal": 1
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-09T16:42:54.790Z",
-    "seed": 2094919882,
-    "reason": "Seeds that grow without permission still bother me, and I intend to learn how they manage it.",
-    "goalRef": "today:0"
+    "type": "photograph",
+    "targetId": "reading-lamp",
+    "startedAt": "2026-11-09T16:53:16.832Z",
+    "seed": 1967972584,
+    "reason": "The reading lamp on the desk is mine, and I will put it on record once more.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T16:43:18.385Z",
+  "lastTickAt": "2026-11-09T16:53:16.832Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

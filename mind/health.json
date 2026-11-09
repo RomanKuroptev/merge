@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-11-09T16:43:18.385Z",
+  "updatedAt": "2026-11-09T16:53:16.832Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T16:43:18.385Z",
+    "at": "2026-11-09T16:53:16.832Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
+    "summary": "study: read at, step 2/2: photograph",
+    "think": null,
     "triggers": [
-      "need"
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-09:56600b38",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 0,
-      "verb": "study",
-      "targetId": "bookshelf",
-      "until": "2026-11-09T16:53:13.819Z",
+      "index": 1,
+      "verb": "photograph",
+      "targetId": "reading-lamp",
+      "until": "2026-11-09T17:03:16.832Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-09T16:13:13.819Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 66,
+    "ticks": 67,
     "decideCalls": 15,
     "callsByKind": {
       "memory": 1,
@@ -36,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "need": 11,
       "replan": 1
     },
@@ -53,7 +53,8 @@
       "go_to workbench": 1,
       "go_to bookshelf": 1,
       "photograph telescope": 1,
-      "go_to desk": 1
+      "go_to desk": 1,
+      "photograph reading-lamp": 1
     },
     "longestGapMinutes": 13
   },
@@ -80,13 +81,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 350,
+    "hunger": 360,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.63764899,
@@ -95,7 +96,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 350 minutes while awake",
+    "hunger has been under 15 for 360 minutes while awake",
     "started \"study bookshelf\" 4 times today",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 4 times today"
