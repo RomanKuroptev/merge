@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 91.3,
-    "curiosity": 99.9
+    "energy": 88,
+    "curiosity": 100
   },
   "position": [
-    -13.5,
+    -18.5,
     0,
-    15.5
+    14.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.52,
-    "arousal": 1
+    "valence": 0.5,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "go_to",
+    "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-09T14:13:16.099Z",
-    "seed": 1967967848,
-    "reason": "The moon hides its colour from me, and I want to know why before anyone tells me.",
-    "goalRef": "today:4"
+    "startedAt": "2026-11-09T14:23:17.377Z",
+    "seed": 1967967681,
+    "reason": "The moon's colour is a mystery I intend to solve on my own terms.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T14:13:16.099Z",
+  "lastTickAt": "2026-11-09T14:23:17.377Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
