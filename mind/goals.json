@@ -9,22 +9,13 @@
     "date": "2026-11-09",
     "steps": [
       {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "Clay is good and I mean to have a piece of it in my collection.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 20
-      },
-      {
         "verb": "shape",
         "targetId": "workbench",
         "materials": [
           "clay"
         ],
         "makes": "small clay figure",
-        "reason": "One piece of clay becomes a finished small object, and I will keep it where I can see it.",
+        "reason": "I have a piece of clay in my paws, and it becomes a finished small object I will keep where I can see it.",
         "because": [
           "b4"
         ],
@@ -50,11 +41,11 @@
         "minutes": 10
       }
     ],
-    "reason": "The clay and the reading are still owed, and the sunny nap fits between them before the afternoon ends."
+    "reason": "The bowl is empty until morning, so I have dropped the dine step and kept the clay, the nap, the reading and the photograph."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-09T11:33:14.116Z",
-    "until": "2026-11-09T12:13:14.116Z"
+    "index": 0,
+    "startedAt": "2026-11-09T11:43:14.245Z",
+    "until": "2026-11-09T12:23:14.245Z"
   }
 }
