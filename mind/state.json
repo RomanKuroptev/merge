@@ -45,8 +45,9 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T20:23:21.018Z",
-  "lastThinkAt": "2026-11-09T20:23:21.018Z",
+  "appliedStepAt": "2026-11-09T20:43:18.493Z",
+  "lastThinkAt": "2026-11-09T21:03:16.766Z",
+  "replanAfter": "2026-11-09T22:03:16.766Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -163,7 +164,7 @@
   },
   "photos": {
     "date": "2026-11-09",
-    "count": 3,
+    "count": 4,
     "queue": []
   },
   "codeWeek": {
@@ -174,12 +175,6 @@
   "openCode": null,
   "brokenOff": [],
   "rejections": [
-    {
-      "at": "2026-11-03T19:03:21.535Z",
-      "reasons": [
-        "step 2 (\"sleep\") cannot happen then: it needs night"
-      ]
-    },
     {
       "at": "2026-11-03T20:34:00.367Z",
       "reasons": [
@@ -234,6 +229,13 @@
       "at": "2026-11-08T19:43:14.088Z",
       "reasons": [
         "step 2 (\"sleep\") cannot happen then: it needs night"
+      ]
+    },
+    {
+      "at": "2026-11-09T21:03:16.766Z",
+      "reasons": [
+        "step 1 (\"sleep\") goes nowhere in particular, so it takes no target",
+        "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
     }
   ]
