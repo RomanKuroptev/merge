@@ -45,15 +45,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T18:23:18.193Z",
+  "appliedStepAt": "2026-11-09T19:03:18.928Z",
   "lastThinkAt": "2026-11-09T19:03:18.928Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "shape",
-      "targetId": "workbench",
-      "at": "2026-11-09T11:43:14.245Z"
-    },
     {
       "verb": "nap",
       "targetId": "sunbeam",
@@ -147,6 +142,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-09T19:03:18.928Z"
+    },
+    {
+      "verb": "study",
+      "targetId": "bookshelf",
+      "at": "2026-11-09T19:23:17.852Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
@@ -172,7 +172,26 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-09T19:07:59.127Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "hide",
+      "need": "hunger",
+      "at": "2026-11-09T19:11:43.627Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-09T19:12:55.127Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T19:03:21.535Z",
