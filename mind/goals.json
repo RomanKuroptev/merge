@@ -9,20 +9,40 @@
     "date": "2026-11-09",
     "steps": [
       {
-        "verb": "go_to",
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "I need one piece of clay in my paws before I can shape anything, and the clay bank is mine to pick from.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 10
+      },
+      {
+        "verb": "shape",
         "targetId": "workbench",
-        "reason": "The workbench is where clay becomes something I can keep, and I have claimed it.",
+        "materials": [
+          "clay"
+        ],
+        "makes": "small clay bowl",
+        "reason": "One piece of clay becomes a finished small object at the workbench, and it will be mine to keep.",
         "because": [
           "b4"
         ],
-        "minutes": 10
+        "minutes": 20
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission still bother me, so I will read about them.",
+        "topic": "unknown seeds that grow",
+        "minutes": 20
       }
     ],
-    "reason": "Photographing the lamp again would only repeat what is already on record, so I am moving on to the workbench."
+    "reason": "I have claimed the workbench and the clay is close by, so making something to keep is the best use of the evening; I will finish with some reading about seeds."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-09T17:03:16.949Z",
-    "until": "2026-11-09T17:13:16.949Z"
+    "startedAt": "2026-11-09T17:23:14.862Z",
+    "until": "2026-11-09T17:33:14.862Z"
   }
 }
