@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 81.9,
+    "energy": 78.6,
     "curiosity": 100
   },
   "position": [
     -18.5,
     0,
-    14.5
+    10.5
   ],
-  "mood": "upset",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.46,
+    "valence": -0.14,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "reading-lamp",
-    "startedAt": "2026-11-09T16:53:16.832Z",
-    "seed": 1967972584,
-    "reason": "The reading lamp on the desk is mine, and I will put it on record once more.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "workbench",
+    "startedAt": "2026-11-09T17:03:16.949Z",
+    "seed": 1967973952,
+    "reason": "The lamp is claimed and on record, so I will spend the rest of the evening where the clay and the unfinished work are, and keep my hands busy with something that stays mine.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T16:53:16.832Z",
+  "lastTickAt": "2026-11-09T17:03:16.949Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
