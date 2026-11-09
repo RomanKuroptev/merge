@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 76.5,
-    "curiosity": 80
+    "energy": 100,
+    "curiosity": 76
   },
   "position": [
-    -6.5,
+    -4.5,
     0,
-    12.5
+    13.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.59,
-    "arousal": 1
+    "valence": 0.57,
+    "arousal": 0.96
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-09T12:23:15.316Z",
-    "seed": 1967956391,
+    "startedAt": "2026-11-09T12:32:26.899Z",
+    "seed": 1716545792,
     "reason": "Energy is thinning and a patch of sun is the right place to recover.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T12:23:15.316Z",
+  "lastTickAt": "2026-11-09T12:33:14.535Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
