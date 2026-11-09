@@ -45,15 +45,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T19:23:17.852Z",
-  "lastThinkAt": "2026-11-09T20:13:16.436Z",
+  "appliedStepAt": "2026-11-09T19:53:19.132Z",
+  "lastThinkAt": "2026-11-09T20:23:21.018Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "clay-bank",
-      "at": "2026-11-09T12:53:14.126Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -147,6 +142,11 @@
       "verb": "draw",
       "targetId": "desk",
       "at": "2026-11-09T19:53:19.132Z"
+    },
+    {
+      "verb": "photograph",
+      "targetId": "telescope",
+      "at": "2026-11-09T20:23:21.018Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
@@ -159,7 +159,7 @@
   },
   "arts": {
     "date": "2026-11-09",
-    "count": 1
+    "count": 2
   },
   "photos": {
     "date": "2026-11-09",
