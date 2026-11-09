@@ -3,30 +3,29 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 36.2,
-    "energy": 100,
-    "curiosity": 59.8
+    "hunger": 24.2,
+    "energy": 75.4,
+    "curiosity": 100
   },
   "position": [
-    -31.5,
+    -15.84,
     0,
-    7.5
+    5.17
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.8,
-    "arousal": 0.64
+    "valence": 0.71,
+    "arousal": 0.59
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-09T10:03:10.199Z",
-    "seed": 1509615705,
-    "reason": "Energy is wearing thin and a patch of sun is the right place to recover.",
-    "goalRef": "today:4"
+    "type": "pounce",
+    "startedAt": "2026-11-09T10:33:14.423Z",
+    "seed": 1967963134,
+    "reason": "Dusk is coming, and the lookout rock is mine to be above things on.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T10:03:17.463Z",
+  "lastTickAt": "2026-11-09T10:33:14.423Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
