@@ -5,28 +5,28 @@
   "needs": {
     "hunger": 0,
     "energy": 100,
-    "curiosity": 76
+    "curiosity": 68
   },
   "position": [
-    -4.5,
+    -10.5,
     0,
-    13.5
+    7.5
   ],
-  "mood": "delighted",
+  "mood": "pleased",
   "feelings": {
-    "valence": 0.57,
-    "arousal": 0.96
+    "valence": 0.23,
+    "arousal": 1
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-09T12:32:26.899Z",
-    "seed": 1716545792,
-    "reason": "Energy is thinning and a patch of sun is the right place to recover.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-09T12:53:14.126Z",
+    "seed": 1967970478,
+    "reason": "The bowl is empty until morning and I will not eat berries, so I will go and fetch clay for the workbench instead, since I have nothing in my paws for the shaping step.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T12:33:14.535Z",
+  "lastTickAt": "2026-11-09T12:53:14.126Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

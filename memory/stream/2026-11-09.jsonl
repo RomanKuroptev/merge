@@ -23,3 +23,7 @@
 {"id":"2026-11-09#23","at":"2026-11-09T12:13:26.539Z","kind":"thought","text":"The bowl is empty until morning and the berry bush is off limits, so there is nothing to eat now and I will carry on with the clay."}
 {"id":"2026-11-09#24","at":"2026-11-09T12:23:15.316Z","kind":"made","text":"shape: finished small clay figure","verb":"shape","objectId":"small-clay-figure"}
 {"id":"2026-11-09#25","at":"2026-11-09T12:23:15.316Z","kind":"step","text":"Started nap (sunbeam): Energy is thinning and a patch of sun is the right place to recover.","verb":"nap","goalRef":"today:1"}
+{"id":"2026-11-09#26","at":"2026-11-09T12:53:14.126Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-09#27","at":"2026-11-09T12:53:14.126Z","kind":"thought","text":"The bowl is empty until morning and I will not eat berries, so I will go and fetch clay for the workbench instead, since I have nothing in my paws for the shaping step."}
+{"id":"2026-11-09#28","at":"2026-11-09T12:53:14.126Z","kind":"event","text":"Left nap unfinished: the body spent 30 of 60 minutes on it.","verb":"nap"}
+{"id":"2026-11-09#29","at":"2026-11-09T12:53:14.126Z","kind":"step","text":"Started go_to (The clay bank): The bowl is empty until morning and I will not eat berries, so I will go and fetch clay for the workbench instead, since I have nothing in my paws for the shaping step.","verb":"go_to","objectId":"clay-bank","goalRef":"today:0","beliefRefs":["b2"]}

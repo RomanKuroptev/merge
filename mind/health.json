@@ -1,41 +1,43 @@
 {
-  "updatedAt": "2026-11-09T12:43:13.710Z",
+  "updatedAt": "2026-11-09T12:53:14.126Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T12:43:13.710Z",
+    "at": "2026-11-09T12:53:14.126Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about need, left nap unfinished, step 1/7: go_to, new plan",
+    "think": "decide",
+    "triggers": [
+      "need"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-09:a2e3e0b1",
-    "stepsLeft": 2,
+    "planId": "2026-11-09:85edcde7",
+    "stepsLeft": 6,
     "current": {
-      "index": 1,
-      "verb": "nap",
-      "targetId": "sunbeam",
-      "until": "2026-11-09T13:23:15.316Z",
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "clay-bank",
+      "until": "2026-11-09T13:03:14.126Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-09T11:43:14.245Z",
+    "lastReplanAt": "2026-11-09T12:53:14.126Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 42,
-    "decideCalls": 6,
+    "ticks": 43,
+    "decideCalls": 7,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 2,
-      "decide": 4
+      "decide": 5
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 8,
-      "need": 3,
+      "need": 4,
       "replan": 1
     },
     "failures": 0,
@@ -46,7 +48,8 @@
       "cut clay-bank": 2,
       "shape workbench": 3,
       "nap sunbeam": 2,
-      "pounce": 1
+      "pounce": 1,
+      "go_to clay-bank": 1
     },
     "longestGapMinutes": 13
   },
@@ -73,22 +76,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 110,
+    "hunger": 120,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
-    "label": "delighted",
-    "minutes": 20
+    "label": "pleased",
+    "minutes": 0
   },
   "spend": {
-    "monthUsd": 0.62273999,
+    "monthUsd": 0.62486962,
     "capUsd": 10,
     "paceUsd": 3
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 110 minutes while awake",
+    "hunger has been under 15 for 120 minutes while awake",
     "started \"shape workbench\" 3 times today"
   ]
 }
