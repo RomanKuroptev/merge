@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 74.7,
+    "energy": 71.4,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "curious",
   "feelings": {
-    "valence": -0.14,
+    "valence": -0.03,
     "arousal": 1
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-09T15:02:57.799Z",
-    "seed": 469837386,
-    "reason": "The moon's colour is still hidden from me, and I intend to find out why before anyone tells me.",
-    "goalRef": "today:0"
+    "type": "go_to",
+    "targetId": "telescope",
+    "startedAt": "2026-11-09T15:13:17.738Z",
+    "seed": 1967978905,
+    "reason": "The telescope is mine, and I want to be in front of it when the sky is worth looking at.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T15:03:17.391Z",
+  "lastTickAt": "2026-11-09T15:13:17.738Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
