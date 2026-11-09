@@ -44,15 +44,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T14:33:14.910Z",
-  "lastThinkAt": "2026-11-09T15:03:17.391Z",
+  "appliedStepAt": "2026-11-09T15:13:17.738Z",
+  "lastThinkAt": "2026-11-09T15:33:31.991Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "telescope",
-      "at": "2026-11-08T18:13:17.623Z"
-    },
     {
       "verb": "curl_up",
       "targetId": "bed",
@@ -146,6 +141,11 @@
       "verb": "go_to",
       "targetId": "telescope",
       "at": "2026-11-09T15:13:17.738Z"
+    },
+    {
+      "verb": "photograph",
+      "targetId": "telescope",
+      "at": "2026-11-09T15:33:31.991Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
