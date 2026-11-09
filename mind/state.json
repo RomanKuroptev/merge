@@ -37,19 +37,15 @@
     "a-small-clay-figure-2",
     "a-small-clay-figure-3",
     "a-small-clay-figure-4",
-    "a-small-clay-figure-5"
+    "a-small-clay-figure-5",
+    "small-clay-bowl-2"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T08:23:14.391Z",
+  "appliedStepAt": "2026-11-09T08:43:15.764Z",
   "lastThinkAt": "2026-11-09T07:03:15.220Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "draw",
-      "targetId": "desk",
-      "at": "2026-11-08T11:43:16.562Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -141,6 +137,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-09T08:43:15.764Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-09T09:23:18.504Z"
     }
   ],
   "lastReflectDate": "2026-11-08",
