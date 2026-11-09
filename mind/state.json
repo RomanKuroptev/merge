@@ -43,15 +43,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-09",
-  "appliedStepAt": "2026-11-09T12:53:14.126Z",
-  "lastThinkAt": "2026-11-09T12:53:14.126Z",
+  "appliedStepAt": "2026-11-09T13:03:20.507Z",
+  "lastThinkAt": "2026-11-09T13:23:15.251Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "draw",
-      "targetId": "desk",
-      "at": "2026-11-08T15:03:13.708Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -143,6 +138,11 @@
       "verb": "cut",
       "targetId": "clay-bank",
       "at": "2026-11-09T13:03:20.507Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "workbench",
+      "at": "2026-11-09T13:23:15.251Z"
     }
   ],
   "lastReflectDate": "2026-11-08",

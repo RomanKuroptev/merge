@@ -4,29 +4,32 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 96.6,
-    "curiosity": 100
+    "energy": 96.3,
+    "curiosity": 99.9
   },
   "position": [
-    15.18,
+    13.5,
     0,
-    18.57
+    20.5
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.22,
-    "arousal": 0.96
+    "valence": 0.25,
+    "arousal": 1
   },
   "intention": {
-    "type": "cut",
-    "targetId": "clay-bank",
-    "startedAt": "2026-11-09T13:03:20.507Z",
-    "seed": 1967971852,
-    "reason": "One piece of clay in my paws is what the workbench needs, and I claim it before anyone else does.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "workbench",
+    "startedAt": "2026-11-09T13:23:15.251Z",
+    "seed": 1967969239,
+    "reason": "The clay has to go where things get shaped, and the workbench is mine.",
+    "goalRef": "today:2"
+  },
+  "holding": {
+    "material": "clay"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T13:03:20.507Z",
+  "lastTickAt": "2026-11-09T13:23:15.251Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
