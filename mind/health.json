@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-09T15:13:17.738Z",
+  "updatedAt": "2026-11-09T15:23:12.686Z",
   "engine": "v0.8.0",
   "date": "2026-11-09",
   "lastTick": {
-    "at": "2026-11-09T15:13:17.738Z",
+    "at": "2026-11-09T15:23:12.686Z",
     "asleep": false,
-    "summary": "study: read at, step 2/5: go_to",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 57,
+    "ticks": 58,
     "decideCalls": 12,
     "callsByKind": {
       "memory": 1,
@@ -78,13 +76,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 260,
+    "hunger": 270,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 10
+    "minutes": 20
   },
   "spend": {
     "monthUsd": 0.63238137,
@@ -93,7 +91,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 260 minutes while awake",
+    "hunger has been under 15 for 270 minutes while awake",
     "started \"study bookshelf\" 3 times today",
     "started \"cut clay-bank\" 3 times today",
     "started \"shape workbench\" 4 times today"
