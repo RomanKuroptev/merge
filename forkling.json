@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 86.1,
+    "energy": 82.8,
     "curiosity": 100
   },
   "position": [
-    -7.5,
+    -18.5,
     0,
-    11.5
+    10.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": -0.01,
-    "arousal": 1
+    "arousal": 0.96
   },
   "intention": {
     "type": "go_to",
     "targetId": "desk",
-    "startedAt": "2026-11-09T15:53:15.037Z",
-    "seed": 1967978239,
+    "startedAt": "2026-11-09T16:03:08.699Z",
+    "seed": 1310152482,
     "reason": "The desk is a flat place for ideas, and the reading lamp sitting on it is mine.",
     "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-09T15:53:15.037Z",
+  "lastTickAt": "2026-11-09T16:03:12.720Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
