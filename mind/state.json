@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T15:33:16.220Z",
-  "lastThinkAt": "2026-11-10T16:13:21.798Z",
+  "appliedStepAt": "2026-11-10T16:03:21.812Z",
+  "lastThinkAt": "2026-11-10T16:23:19.619Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "cut",
-      "targetId": "clay-bank",
-      "at": "2026-11-10T07:33:20.344Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -148,6 +143,11 @@
       "verb": "photograph",
       "targetId": "telescope",
       "at": "2026-11-10T16:03:21.812Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "garden",
+      "at": "2026-11-10T16:23:19.619Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -164,7 +164,7 @@
   },
   "photos": {
     "date": "2026-11-10",
-    "count": 3,
+    "count": 4,
     "queue": []
   },
   "codeWeek": {

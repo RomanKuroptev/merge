@@ -9,58 +9,61 @@
     "date": "2026-11-10",
     "steps": [
       {
-        "verb": "read",
-        "targetId": "bookshelf",
-        "reason": "The moon's colour is still hidden from me, and I will read about it until somebody explains.",
-        "topic": "the colour of the moon",
-        "minutes": 25
-      },
-      {
         "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, and I want to be close enough to look at the moon through it.",
+        "targetId": "garden",
+        "reason": "The garden plot is where my unknown seeds are, and I intend to see them before anyone else does.",
         "minutes": 10
       },
       {
         "verb": "inspect",
-        "targetId": "telescope",
-        "reason": "I will check the telescope's lenses while nobody is watching, which is only sensible.",
+        "targetId": "flowers-plant",
+        "reason": "Seeds that grow without permission deserve a close look while nobody is watching.",
         "minutes": 20
       },
       {
-        "verb": "photograph",
-        "targetId": "reading-lamp",
-        "reason": "The reading lamp is mine, and the photograph keeps the claim on record.",
+        "verb": "water",
+        "targetId": "flowers-plant",
+        "reason": "If the plant is going to grow anything, it will do it on my water.",
+        "minutes": 15
+      },
+      {
+        "verb": "zoomies",
+        "position": [
+          -5,
+          18
+        ],
+        "reason": "Dusk is here and my restlessness needs running off around the garden.",
+        "minutes": 15
+      },
+      {
+        "verb": "go_to",
+        "targetId": "telescope",
+        "reason": "The sky is coming out, and the telescope is mine to look through.",
         "minutes": 10
       },
       {
-        "verb": "explore",
-        "position": [
-          0,
-          20
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "a labnote",
+        "reason": "The moon still hides its colour, and I will look until it gives up.",
+        "topic": "the moon's colour through the telescope",
+        "because": [
+          "b1"
         ],
-        "reason": "I want to see what has changed on the beach since this morning, and to claim whatever I find first.",
         "minutes": 30
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "My energy is running low, and a patch of sun is the right place to fix that.",
+        "reason": "My energy is low after all that, and I will recover in a patch of warmth.",
         "minutes": 30
-      },
-      {
-        "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is the biggest thing here and it is mine, so I will photograph it for the record.",
-        "minutes": 10
       }
     ],
-    "reason": "Hunger cannot be fixed until the bowl is filled in the morning, so I will keep the afternoon as planned, minus the sit that went nowhere."
+    "reason": "The garden seeds are the most interesting thing I have, so I will check them, then go to the telescope once dusk falls."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-10T16:03:21.812Z",
-    "until": "2026-11-10T16:13:21.812Z",
-    "workedSec": 599.9
+    "index": 0,
+    "startedAt": "2026-11-10T16:23:19.619Z",
+    "until": "2026-11-10T16:33:19.619Z"
   }
 }

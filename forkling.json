@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 96.7,
+    "energy": 73.8,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    16.5,
     0,
-    18.5
+    24.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.77,
+    "valence": -0.44,
     "arousal": 1
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "telescope",
-    "startedAt": "2026-11-10T16:13:20.711Z",
-    "seed": 1053966415,
-    "reason": "The telescope is the biggest thing here and it is mine, so I will photograph it for the record.",
-    "goalRef": "today:6"
+    "type": "go_to",
+    "targetId": "garden",
+    "startedAt": "2026-11-10T16:23:19.619Z",
+    "seed": 1968070243,
+    "reason": "Something in the garden is still unknown to me, and I would rather keep an eye on it than sit about being upset.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T16:13:21.798Z",
+  "lastTickAt": "2026-11-10T16:23:19.619Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
