@@ -6,59 +6,64 @@
     "reviewedAt": "2026-11-07T14:43:14.001Z"
   },
   "today": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "steps": [
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "moon observation notes",
-        "reason": "Dusk is when the telescope leaves something worth keeping, and I mean to look at the moon's colour myself.",
-        "topic": "the moon's colour",
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without asking still bother me, so I will read about them before I touch anything.",
+        "topic": "unknown seeds that grow",
         "because": [
-          "b1"
+          "b2"
+        ],
+        "minutes": 25
+      },
+      {
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "The clay bank gives clay I can carry home, and my paws are empty for it.",
+        "because": [
+          "b2"
+        ],
+        "minutes": 20
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "small clay figure",
+        "reason": "One piece of clay becomes a finished small object at the workbench, and I mean to keep it.",
+        "because": [
+          "b4"
         ],
         "minutes": 30
       },
       {
-        "verb": "zoomies",
-        "position": [
-          -12,
-          18
-        ],
-        "reason": "Dusk restlessness needs somewhere to go, and this patch near the telescope will do.",
-        "minutes": 10
-      },
-      {
-        "verb": "study",
-        "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission still bother me, so I will read about them.",
-        "topic": "unknown seeds that grow",
-        "minutes": 20
-      },
-      {
-        "verb": "draw",
-        "targetId": "desk",
-        "materials": [
-          "wood"
-        ],
-        "makes": "drawing of the moon",
-        "reason": "The moon has still not settled its colour, so I will try to draw it again.",
-        "topic": "the moon's colour",
+        "verb": "inspect",
+        "targetId": "a-flowers-plant",
+        "reason": "Something I planted may be growing, and I will check it when nobody is watching.",
         "minutes": 20
       },
       {
         "verb": "photograph",
-        "targetId": "telescope",
-        "reason": "The telescope is mine, and the claim should be on record.",
-        "minutes": 15
+        "targetId": "sunny-rock",
+        "reason": "The sunny rock catches the morning light first, and I will claim it on record.",
+        "minutes": 10
       },
       {
-        "verb": "photograph",
-        "targetId": "reading-lamp",
-        "reason": "The lamp on my desk is mine, and I photographed it once already, but a second picture in the dusk light will do.",
-        "minutes": 10
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "I will sit up high and listen to the birds, which are the one sound I like.",
+        "minutes": 30
       }
     ],
-    "reason": "The earlier plan had a photograph step with no target, so I have rebuilt the evening around the telescope, the desk and the bookshelf."
+    "reason": "I will learn about seeds, make one clay object at the workbench, check my plants and then sit high where I can see the sky."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-10T07:03:14.745Z",
+    "until": "2026-11-10T07:28:14.745Z"
   }
 }

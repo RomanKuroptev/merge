@@ -44,17 +44,11 @@
     "small-clay-bowl-3"
   ],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-09",
+  "lastPlanDate": "2026-11-10",
   "appliedStepAt": "2026-11-09T20:43:18.493Z",
-  "lastThinkAt": "2026-11-09T21:43:13.678Z",
-  "replanAfter": "2026-11-09T22:03:16.766Z",
+  "lastThinkAt": "2026-11-10T07:03:14.745Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "workbench",
-      "at": "2026-11-09T13:23:15.251Z"
-    },
     {
       "verb": "shape",
       "targetId": "workbench",
@@ -148,6 +142,11 @@
       "verb": "photograph",
       "targetId": "reading-lamp",
       "at": "2026-11-09T20:43:18.493Z"
+    },
+    {
+      "verb": "study",
+      "targetId": "bookshelf",
+      "at": "2026-11-10T07:03:14.745Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -155,8 +154,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-10",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "arts": {
     "date": "2026-11-10",

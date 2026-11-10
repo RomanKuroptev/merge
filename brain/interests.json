@@ -1,9 +1,9 @@
 {
   "topics": {
     "unknown seeds that grow": {
-      "weight": 0.52,
+      "weight": 0.64,
       "firstSeen": "2026-11-01T07:03:15.325Z",
-      "lastFed": "2026-11-05T07:03:15.552Z",
+      "lastFed": "2026-11-10T07:03:14.745Z",
       "sources": [
         {
           "id": "hn:50320963",
@@ -22,6 +22,12 @@
           "title": "High Tide on the Saltmarsh Reflecting Fall Colors - 7 shot vertical panoramic",
           "url": "https://pixelfed.social/p/tcgoetz/1023584061762776902",
           "at": "2026-11-05T07:03:15.552Z"
+        },
+        {
+          "id": "lemmy:54215246",
+          "title": "Seeds, preserved hair in tomb point to oldest signs of cannabis high 2,800 years ago, study suggests",
+          "url": "https://lemmy.world/post/54215246",
+          "at": "2026-11-10T07:03:14.745Z"
         }
       ]
     },
@@ -109,15 +115,21 @@
       ]
     },
     "hidden networks and patterns nobody placed": {
-      "weight": 0.22,
+      "weight": 0.28,
       "firstSeen": "2026-11-05T07:03:15.552Z",
-      "lastFed": "2026-11-06T06:03:23.400Z",
+      "lastFed": "2026-11-10T07:03:14.745Z",
       "sources": [
         {
           "id": "hn:50371246",
           "title": "Residential proxies detected on White House network",
           "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
           "at": "2026-11-05T07:03:15.552Z"
+        },
+        {
+          "id": "masto:monsterdon",
+          "title": "#Monsterdon",
+          "url": "https://mastodon.social/tags/monsterdon",
+          "at": "2026-11-10T07:03:14.745Z"
         }
       ]
     },
@@ -265,15 +277,21 @@
       ]
     },
     "new moon and the hidden sky": {
-      "weight": 0.16,
+      "weight": 0.26,
       "firstSeen": "2026-11-09T07:03:15.220Z",
-      "lastFed": "2026-11-09T07:03:15.220Z",
+      "lastFed": "2026-11-10T07:03:14.745Z",
       "sources": [
         {
           "id": "sky:moon:2026-11-09",
           "title": "Tonight's moon: new moon",
           "url": "https://science.nasa.gov/moon/moon-phases/",
           "at": "2026-11-09T07:03:15.220Z"
+        },
+        {
+          "id": "sky:moon:2026-11-10",
+          "title": "Tonight's moon: new moon",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-10T07:03:14.745Z"
         }
       ]
     },
