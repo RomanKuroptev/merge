@@ -172,7 +172,20 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-10T17:27:34.825Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-10T17:32:00.399Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T20:34:00.367Z",
