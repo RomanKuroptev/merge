@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 67.1,
-    "curiosity": 100
+    "energy": 100,
+    "curiosity": 96
   },
   "position": [
-    8.09,
+    10.5,
     0,
-    -1.79
+    4.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.24,
-    "arousal": 0.89
+    "valence": -0.53,
+    "arousal": 1
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-10T15:33:16.220Z",
-    "seed": 1968055208,
+    "startedAt": "2026-11-10T15:43:01.419Z",
+    "seed": 1818283774,
     "reason": "My energy is running low, and a patch of sun is the right place to fix that.",
     "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T15:33:16.220Z",
+  "lastTickAt": "2026-11-10T15:43:16.744Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
