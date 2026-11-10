@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 34.1,
-    "energy": 85.1,
+    "hunger": 26.1,
+    "energy": 78.4,
     "curiosity": 100
   },
   "position": [
-    -2.5,
+    -6.5,
     0,
-    21.5
+    19.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 0.97
+    "valence": 0.93,
+    "arousal": 0.9
   },
   "intention": {
     "type": "inspect",
     "targetId": "a-flowers-plant",
-    "startedAt": "2026-11-10T11:43:17.046Z",
-    "seed": 1968052673,
+    "startedAt": "2026-11-10T12:03:07.199Z",
+    "seed": 1569664829,
     "reason": "Something I planted may be growing, and I will check it when nobody is watching.",
     "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T11:43:17.046Z",
+  "lastTickAt": "2026-11-10T12:03:14.821Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
