@@ -41,19 +41,15 @@
     "small-clay-bowl-2",
     "small-clay-figure",
     "small-clay-figure-2",
-    "small-clay-bowl-3"
+    "small-clay-bowl-3",
+    "small-clay-figure-3"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T07:33:20.344Z",
+  "appliedStepAt": "2026-11-10T08:03:17.640Z",
   "lastThinkAt": "2026-11-10T07:03:14.745Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "study",
-      "targetId": "bookshelf",
-      "at": "2026-11-09T14:23:17.377Z"
-    },
     {
       "verb": "study",
       "targetId": "bookshelf",
@@ -147,6 +143,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-10T08:03:17.640Z"
+    },
+    {
+      "verb": "inspect",
+      "targetId": "a-flowers-plant",
+      "at": "2026-11-10T08:33:23.121Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
