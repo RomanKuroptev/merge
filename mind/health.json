@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-10T12:33:15.283Z",
+  "updatedAt": "2026-11-10T12:43:21.336Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T12:33:15.283Z",
+    "at": "2026-11-10T12:43:21.336Z",
     "asleep": false,
-    "summary": "thought about need",
+    "summary": "thought about replan, step 1/8: go_to, new plan",
     "think": "decide",
     "triggers": [
-      "need"
+      "replan",
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-10:0b84fdac",
-    "stepsLeft": 0,
+    "planId": "2026-11-10:d3607cc7",
+    "stepsLeft": 7,
     "current": {
-      "index": 5,
-      "verb": "sit",
-      "until": "2026-11-10T12:43:17.644Z",
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "until": "2026-11-10T12:53:21.336Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-10T09:53:19.680Z",
+    "lastReplanAt": "2026-11-10T12:43:21.336Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 42,
-    "decideCalls": 4,
+    "ticks": 43,
+    "decideCalls": 5,
     "callsByKind": {
       "memory": 1,
       "read": 1,
       "morning": 1,
-      "decide": 3
+      "decide": 4
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
-      "replan": 1,
+      "stepDone": 12,
+      "replan": 2,
       "need": 1
     },
     "failures": 0,
@@ -49,7 +51,8 @@
       "photograph sunny-rock": 1,
       "watch perch": 1,
       "photograph tall-rock": 1,
-      "sit": 1
+      "sit": 1,
+      "go_to bookshelf": 1
     },
     "longestGapMinutes": 10
   },
@@ -76,16 +79,16 @@
     }
   },
   "needsCritical": {
-    "hunger": 10,
+    "hunger": 20,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 240
+    "minutes": 250
   },
   "spend": {
-    "monthUsd": 0.69958736,
+    "monthUsd": 0.70182849,
     "capUsd": 10,
     "paceUsd": 3.3333333333333335
   },

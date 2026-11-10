@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T11:43:17.046Z",
-  "lastThinkAt": "2026-11-10T12:33:15.283Z",
+  "appliedStepAt": "2026-11-10T12:13:17.644Z",
+  "lastThinkAt": "2026-11-10T12:43:21.336Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "shape",
-      "targetId": "workbench",
-      "at": "2026-11-09T17:43:12.880Z"
-    },
     {
       "verb": "study",
       "targetId": "bookshelf",
@@ -148,6 +143,11 @@
     {
       "verb": "sit",
       "at": "2026-11-10T12:13:17.644Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "at": "2026-11-10T12:43:21.336Z"
     }
   ],
   "lastReflectDate": "2026-11-09",

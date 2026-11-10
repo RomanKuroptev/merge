@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 14.1,
-    "energy": 68.6,
-    "curiosity": 92
+    "hunger": 10.1,
+    "energy": 65.2,
+    "curiosity": 88
   },
   "position": [
     -16.5,
@@ -14,18 +14,19 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.52,
-    "arousal": 1
+    "valence": 0.5,
+    "arousal": 0.96
   },
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-10T12:33:12.499Z",
-    "seed": 874879375,
-    "reason": "I will sit up high where I can see the sky and pretend the rest of the island is not mine to watch.",
-    "goalRef": "today:5"
+    "type": "go_to",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-10T12:43:21.336Z",
+    "seed": 1968049149,
+    "reason": "Seeds are settled for now, so I will go back to the moon's colour, which it still refuses to explain.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T12:33:15.283Z",
+  "lastTickAt": "2026-11-10T12:43:21.336Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
