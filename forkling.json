@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 38.1,
-    "energy": 88.4,
-    "curiosity": 99.9
+    "hunger": 34.1,
+    "energy": 85.1,
+    "curiosity": 100
   },
   "position": [
-    8.03,
+    -2.5,
     0,
-    11.54
+    21.5
   ],
   "mood": "delighted",
   "feelings": {
     "valence": 1,
-    "arousal": 0.9
+    "arousal": 0.97
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "tall-rock",
-    "startedAt": "2026-11-10T11:33:15.407Z",
-    "seed": 1968052847,
-    "reason": "The lookout rock is mine by sitting on it, and I will photograph the claim so it stays on record.",
-    "goalRef": "today:3"
+    "type": "inspect",
+    "targetId": "a-flowers-plant",
+    "startedAt": "2026-11-10T11:43:17.046Z",
+    "seed": 1968052673,
+    "reason": "Something I planted may be growing, and I will check it when nobody is watching.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T11:33:15.407Z",
+  "lastTickAt": "2026-11-10T11:43:17.046Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

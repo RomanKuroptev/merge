@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T10:53:16.653Z",
+  "appliedStepAt": "2026-11-10T11:33:15.407Z",
   "lastThinkAt": "2026-11-10T09:53:19.680Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "workbench",
-      "at": "2026-11-09T17:03:16.949Z"
-    },
     {
       "verb": "cut",
       "targetId": "clay-bank",
@@ -149,6 +144,11 @@
       "verb": "photograph",
       "targetId": "tall-rock",
       "at": "2026-11-10T11:33:15.407Z"
+    },
+    {
+      "verb": "inspect",
+      "targetId": "a-flowers-plant",
+      "at": "2026-11-10T11:43:17.046Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -165,7 +165,7 @@
   },
   "photos": {
     "date": "2026-11-10",
-    "count": 1,
+    "count": 2,
     "queue": []
   },
   "codeWeek": {
