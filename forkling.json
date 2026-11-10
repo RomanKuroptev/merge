@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 94.1,
-    "energy": 73.8,
+    "hunger": 86.1,
+    "energy": 67.2,
     "curiosity": 100
   },
   "position": [
-    5.5,
+    -9.5,
     0,
     20.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 0.74
+    "valence": 0.93,
+    "arousal": 0.69
   },
   "intention": {
     "type": "watch",
     "targetId": "perch",
-    "startedAt": "2026-11-10T09:13:17.565Z",
-    "seed": 1968175801,
+    "startedAt": "2026-11-10T09:32:50.499Z",
+    "seed": 1573869037,
     "reason": "I will sit up high and listen to the birds, which are the one sound I like.",
     "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T09:13:17.565Z",
+  "lastTickAt": "2026-11-10T09:33:13.903Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
