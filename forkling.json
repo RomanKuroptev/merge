@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 10.1,
-    "energy": 65.2,
-    "curiosity": 88
+    "hunger": 2.2,
+    "energy": 80.4,
+    "curiosity": 100
   },
   "position": [
-    -16.5,
+    -15.5,
     0,
-    16.5
+    21.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.5,
-    "arousal": 0.96
+    "valence": 0.46,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "go_to",
+    "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-10T12:43:21.336Z",
-    "seed": 1968049149,
-    "reason": "Seeds are settled for now, so I will go back to the moon's colour, which it still refuses to explain.",
-    "goalRef": "today:0"
+    "startedAt": "2026-11-10T13:03:13.892Z",
+    "seed": 1968049285,
+    "reason": "I will read about the colour of the moon, since nobody has told me yet.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T12:43:21.336Z",
+  "lastTickAt": "2026-11-10T13:03:13.892Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

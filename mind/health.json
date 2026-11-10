@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-10T12:53:16.959Z",
+  "updatedAt": "2026-11-10T13:03:13.892Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T12:53:16.959Z",
+    "at": "2026-11-10T13:03:13.892Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/8: read",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-10:d3607cc7",
-    "stepsLeft": 7,
+    "stepsLeft": 6,
     "current": {
-      "index": 0,
-      "verb": "go_to",
+      "index": 1,
+      "verb": "read",
       "targetId": "bookshelf",
-      "until": "2026-11-10T12:53:21.336Z",
+      "until": "2026-11-10T13:28:13.892Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-10T12:43:21.336Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 44,
+    "ticks": 45,
     "decideCalls": 5,
     "callsByKind": {
       "memory": 1,
@@ -34,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 2,
       "need": 1
     },
@@ -49,7 +51,8 @@
       "watch perch": 1,
       "photograph tall-rock": 1,
       "sit": 1,
-      "go_to bookshelf": 1
+      "go_to bookshelf": 1,
+      "read bookshelf": 1
     },
     "longestGapMinutes": 10
   },
@@ -76,13 +79,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 30,
+    "hunger": 40,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "delighted",
-    "minutes": 260
+    "minutes": 270
   },
   "spend": {
     "monthUsd": 0.70182849,
