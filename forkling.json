@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 76.2,
+    "energy": 72.9,
     "curiosity": 100
   },
   "position": [
@@ -12,21 +12,20 @@
     0,
     10.5
   ],
-  "mood": "frustrated",
+  "mood": "curious",
   "feelings": {
-    "valence": -0.28,
-    "arousal": 0.92
+    "valence": 0.03,
+    "arousal": 0.99
   },
   "intention": {
-    "type": "photograph",
-    "targetId": "reading-lamp",
-    "startedAt": "2026-11-10T14:43:16.058Z",
-    "seed": 1968060176,
-    "reason": "The reading lamp is mine, and the photograph keeps the claim on record.",
-    "goalRef": "today:3"
+    "type": "explore",
+    "startedAt": "2026-11-10T14:53:18.276Z",
+    "seed": 1968059722,
+    "reason": "I want to see what has changed on the beach since this morning, and to claim whatever I find first.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T14:43:16.058Z",
+  "lastTickAt": "2026-11-10T14:53:18.276Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
