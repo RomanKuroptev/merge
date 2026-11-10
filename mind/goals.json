@@ -9,39 +9,6 @@
     "date": "2026-11-10",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "garden",
-        "reason": "The garden plot is where my unknown seeds are, and I intend to see them before anyone else does.",
-        "minutes": 10
-      },
-      {
-        "verb": "inspect",
-        "targetId": "flowers-plant",
-        "reason": "Seeds that grow without permission deserve a close look while nobody is watching.",
-        "minutes": 20
-      },
-      {
-        "verb": "water",
-        "targetId": "flowers-plant",
-        "reason": "If the plant is going to grow anything, it will do it on my water.",
-        "minutes": 15
-      },
-      {
-        "verb": "zoomies",
-        "position": [
-          -5,
-          18
-        ],
-        "reason": "Dusk is here and my restlessness needs running off around the garden.",
-        "minutes": 15
-      },
-      {
-        "verb": "go_to",
-        "targetId": "telescope",
-        "reason": "The sky is coming out, and the telescope is mine to look through.",
-        "minutes": 10
-      },
-      {
         "verb": "observe",
         "targetId": "telescope",
         "makes": "a labnote",
@@ -53,17 +20,20 @@
         "minutes": 30
       },
       {
-        "verb": "nap",
-        "targetId": "sunbeam",
-        "reason": "My energy is low after all that, and I will recover in a patch of warmth.",
-        "minutes": 30
+        "verb": "zoomies",
+        "position": [
+          -5,
+          18
+        ],
+        "reason": "Dusk is here and my restlessness needs running off around the garden.",
+        "minutes": 15
       }
     ],
-    "reason": "The garden seeds are the most interesting thing I have, so I will check them, then go to the telescope once dusk falls."
+    "reason": "The bowl is empty until morning and I cannot eat from the bush, and the day-only verbs are over, so I will use the dusk for the telescope and the zoomies."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-10T18:03:17.073Z",
-    "until": "2026-11-10T18:33:17.073Z"
+    "index": 0,
+    "startedAt": "2026-11-10T18:23:13.873Z",
+    "until": "2026-11-10T18:53:13.873Z"
   }
 }
