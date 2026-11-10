@@ -90,3 +90,8 @@
 {"id":"2026-11-10#90","at":"2026-11-10T20:03:19.022Z","kind":"step","text":"Started observe (The telescope): The sky is still worth looking at, and the telescope is mine.","verb":"observe","objectId":"telescope","goalRef":"today:1","beliefRefs":["b1"]}
 {"id":"2026-11-10#91","at":"2026-11-10T20:13:17.401Z","kind":"trigger","text":"hunger is at 0 of 100"}
 {"id":"2026-11-10#92","at":"2026-11-10T20:13:17.401Z","kind":"thought","text":"My hunger is empty and the bowl is bare until morning, but the body will break off to find food between steps, and the telescope can wait a little longer."}
+{"id":"2026-11-10#93","at":"2026-11-10T20:43:24.138Z","kind":"event","text":"Left observe unfinished: the body spent 0 of 20 minutes on it.","verb":"observe"}
+{"id":"2026-11-10#94","at":"2026-11-10T20:43:24.138Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-10#95","at":"2026-11-10T20:43:24.138Z","kind":"thought","text":"It is truly night now, the bowl is empty, and the only thing I can do is sleep, so I will sleep it off and stay out of the way of the dusk plan."}
+{"id":"2026-11-10#96","at":"2026-11-10T20:43:24.138Z","kind":"rejected","text":"A plan was turned down: step 1 (\"sleep\") cannot happen then: it needs night"}
+{"id":"2026-11-10#97","at":"2026-11-10T20:43:24.138Z","kind":"step","text":"Started curl_up (The bed): The bed is soft and it is close to night, so I will settle there.","verb":"curl_up","objectId":"bed","goalRef":"today:2"}

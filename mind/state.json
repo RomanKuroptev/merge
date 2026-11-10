@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T19:43:16.204Z",
-  "lastThinkAt": "2026-11-10T20:13:17.401Z",
+  "appliedStepAt": "2026-11-10T20:03:19.022Z",
+  "lastThinkAt": "2026-11-10T20:43:24.138Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "bookshelf",
-      "at": "2026-11-10T12:43:21.336Z"
-    },
     {
       "verb": "read",
       "targetId": "bookshelf",
@@ -146,6 +141,11 @@
       "verb": "observe",
       "targetId": "telescope",
       "at": "2026-11-10T20:03:19.022Z"
+    },
+    {
+      "verb": "curl_up",
+      "targetId": "bed",
+      "at": "2026-11-10T20:43:24.138Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -171,178 +171,8 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "observe",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-10T20:13:17.501Z"
-    },
-    {
-      "step": "observe",
-      "verb": "explore",
-      "need": "hunger",
-      "at": "2026-11-10T20:14:42.700Z"
-    },
-    {
-      "step": "observe",
-      "verb": "pounce",
-      "need": "hunger",
-      "at": "2026-11-10T20:15:27.700Z"
-    },
-    {
-      "step": "observe",
-      "verb": "sit",
-      "need": "hunger",
-      "at": "2026-11-10T20:15:40.900Z"
-    },
-    {
-      "step": "observe",
-      "verb": "vocalize",
-      "need": "hunger",
-      "at": "2026-11-10T20:15:55.600Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:16:02.100Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:16:20.100Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:16:32.100Z"
-    },
-    {
-      "step": "observe",
-      "verb": "curl_up",
-      "need": "hunger",
-      "at": "2026-11-10T20:16:43.900Z"
-    },
-    {
-      "step": "observe",
-      "verb": "pounce",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:04.100Z"
-    },
-    {
-      "step": "observe",
-      "verb": "sit",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:17.000Z"
-    },
-    {
-      "step": "observe",
-      "verb": "vocalize",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:31.900Z"
-    },
-    {
-      "step": "observe",
-      "verb": "sniff",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:36.800Z"
-    },
-    {
-      "step": "observe",
-      "verb": "stretch",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:46.000Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:18:49.500Z"
-    },
-    {
-      "step": "observe",
-      "verb": "explore",
-      "need": "hunger",
-      "at": "2026-11-10T20:19:00.400Z"
-    },
-    {
-      "step": "observe",
-      "verb": "sit",
-      "need": "hunger",
-      "at": "2026-11-10T20:19:35.500Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:19:55.000Z"
-    },
-    {
-      "step": "observe",
-      "verb": "pounce",
-      "need": "hunger",
-      "at": "2026-11-10T20:20:14.100Z"
-    },
-    {
-      "step": "observe",
-      "verb": "explore",
-      "need": "hunger",
-      "at": "2026-11-10T20:20:27.000Z"
-    },
-    {
-      "step": "observe",
-      "verb": "explore",
-      "need": "hunger",
-      "at": "2026-11-10T20:21:09.900Z"
-    },
-    {
-      "step": "observe",
-      "verb": "pounce",
-      "need": "hunger",
-      "at": "2026-11-10T20:21:47.700Z"
-    },
-    {
-      "step": "observe",
-      "verb": "pounce",
-      "need": "hunger",
-      "at": "2026-11-10T20:21:57.500Z"
-    },
-    {
-      "step": "observe",
-      "verb": "stretch",
-      "need": "hunger",
-      "at": "2026-11-10T20:22:11.400Z"
-    },
-    {
-      "step": "observe",
-      "verb": "inspect",
-      "need": "hunger",
-      "at": "2026-11-10T20:22:16.500Z"
-    },
-    {
-      "step": "observe",
-      "verb": "sit",
-      "need": "hunger",
-      "at": "2026-11-10T20:22:53.300Z"
-    },
-    {
-      "step": "observe",
-      "verb": "explore",
-      "need": "hunger",
-      "at": "2026-11-10T20:23:09.100Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
-    {
-      "at": "2026-11-03T20:34:00.367Z",
-      "reasons": [
-        "step 1 (\"sleep\") goes nowhere in particular, so it takes no target",
-        "step 1 (\"sleep\") cannot happen then: it needs night"
-      ]
-    },
     {
       "at": "2026-11-03T21:13:31.038Z",
       "reasons": [
@@ -398,6 +228,13 @@
         "step 1 (\"sleep\") goes nowhere in particular, so it takes no target",
         "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
+    },
+    {
+      "at": "2026-11-10T20:43:24.138Z",
+      "reasons": [
+        "step 1 (\"sleep\") cannot happen then: it needs night"
+      ]
     }
-  ]
+  ],
+  "replanAfter": "2026-11-10T21:43:24.138Z"
 }
