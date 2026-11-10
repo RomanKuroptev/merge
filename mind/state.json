@@ -42,19 +42,15 @@
     "small-clay-figure",
     "small-clay-figure-2",
     "small-clay-bowl-3",
-    "small-clay-figure-3"
+    "small-clay-figure-3",
+    "small-clay-figure-4"
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T10:23:15.805Z",
+  "appliedStepAt": "2026-11-10T10:53:16.653Z",
   "lastThinkAt": "2026-11-10T09:53:19.680Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "reading-lamp",
-      "at": "2026-11-09T16:53:16.832Z"
-    },
     {
       "verb": "go_to",
       "targetId": "workbench",
@@ -148,6 +144,11 @@
       "verb": "shape",
       "targetId": "workbench",
       "at": "2026-11-10T10:53:16.653Z"
+    },
+    {
+      "verb": "photograph",
+      "targetId": "tall-rock",
+      "at": "2026-11-10T11:33:15.407Z"
     }
   ],
   "lastReflectDate": "2026-11-09",

@@ -3,33 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 50,
-    "energy": 96.6,
-    "curiosity": 95.5
+    "hunger": 38.1,
+    "energy": 88.4,
+    "curiosity": 99.9
   },
   "position": [
-    -6.5,
+    8.03,
     0,
-    12.5
+    11.54
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.96,
-    "arousal": 0.71
+    "valence": 1,
+    "arousal": 0.9
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-10T11:03:23.599Z",
-    "seed": 1113890338,
-    "reason": "One piece of clay becomes a finished small object at the workbench, and I mean to keep it.",
-    "goalRef": "today:2"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "photograph",
+    "targetId": "tall-rock",
+    "startedAt": "2026-11-10T11:33:15.407Z",
+    "seed": 1968052847,
+    "reason": "The lookout rock is mine by sitting on it, and I will photograph the claim so it stays on record.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T11:03:26.358Z",
+  "lastTickAt": "2026-11-10T11:33:15.407Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
