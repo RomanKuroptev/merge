@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 78.1,
-    "energy": 98.5,
-    "curiosity": 99.7
+    "hunger": 74.1,
+    "energy": 95.2,
+    "curiosity": 100
   },
   "position": [
-    4.5,
+    -18.5,
     0,
-    16.5
+    14.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.86,
-    "arousal": 0.65
+    "valence": 0.83,
+    "arousal": 0.63
   },
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-10T09:53:19.680Z",
-    "seed": 1968173851,
-    "reason": "I will claim the high rock and keep the things that are mine, because I have decided that is what a cat does with an island.",
+    "startedAt": "2026-11-10T10:03:11.199Z",
+    "seed": 427589743,
+    "reason": "Seeds that grow without asking still bother me, so I will read about them before I touch anything.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T09:53:19.680Z",
+  "lastTickAt": "2026-11-10T10:03:21.057Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
