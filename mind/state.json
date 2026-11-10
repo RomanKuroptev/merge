@@ -47,14 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T13:03:13.892Z",
-  "lastThinkAt": "2026-11-10T13:23:13.953Z",
+  "appliedStepAt": "2026-11-10T13:23:13.953Z",
+  "lastThinkAt": "2026-11-10T13:53:18.799Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "zoomies",
-      "at": "2026-11-09T19:03:18.928Z"
-    },
     {
       "verb": "study",
       "targetId": "bookshelf",
@@ -148,6 +144,11 @@
       "verb": "read",
       "targetId": "bookshelf",
       "at": "2026-11-10T13:23:13.953Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "telescope",
+      "at": "2026-11-10T13:53:18.799Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -155,7 +156,7 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-10",
-    "count": 1,
+    "count": 2,
     "skimmed": true
   },
   "arts": {

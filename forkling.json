@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 70.4,
+    "energy": 96.7,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    5.5,
     0,
-    14.5
+    20.5
   ],
-  "mood": "pleased",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.22,
-    "arousal": 0.96
+    "valence": 0,
+    "arousal": 1
   },
   "intention": {
-    "type": "read",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-10T13:33:07.599Z",
-    "seed": 836075851,
-    "reason": "The moon's colour is still hidden from me, and I will read about it until somebody explains.",
-    "goalRef": "today:0"
+    "type": "go_to",
+    "targetId": "telescope",
+    "startedAt": "2026-11-10T13:53:18.799Z",
+    "seed": 1968061274,
+    "reason": "The telescope is mine, and I want to be close enough to look at the moon through it.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T13:33:14.966Z",
+  "lastTickAt": "2026-11-10T13:53:18.799Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
