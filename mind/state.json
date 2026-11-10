@@ -48,7 +48,8 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
   "appliedStepAt": "2026-11-10T20:03:19.022Z",
-  "lastThinkAt": "2026-11-10T20:43:24.138Z",
+  "lastThinkAt": "2026-11-10T21:23:13.788Z",
+  "replanAfter": "2026-11-10T21:43:24.138Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
     {
@@ -235,6 +236,5 @@
         "step 1 (\"sleep\") cannot happen then: it needs night"
       ]
     }
-  ],
-  "replanAfter": "2026-11-10T21:43:24.138Z"
+  ]
 }
