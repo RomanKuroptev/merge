@@ -4,8 +4,8 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 79.9
+    "energy": 78.2,
+    "curiosity": 99.8
   },
   "position": [
     -14.5,
@@ -14,19 +14,17 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.96,
-    "arousal": 0.96
+    "valence": -0.89,
+    "arousal": 0.89
   },
   "intention": {
     "type": "curl_up",
-    "targetId": "bed",
-    "startedAt": "2026-11-10T21:32:36.699Z",
-    "seed": 1772611527,
-    "reason": "The bed is soft and it is close to night, so I will settle there.",
-    "goalRef": "today:2"
+    "startedAt": "2026-11-10T21:52:50.742Z",
+    "seed": 1354351415,
+    "reason": "Something soft was right there, and I was tired."
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T21:33:17.244Z",
+  "lastTickAt": "2026-11-10T21:53:17.770Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

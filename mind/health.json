@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-11-10T21:43:17.074Z",
+  "updatedAt": "2026-11-10T21:53:17.770Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T21:43:17.074Z",
+    "at": "2026-11-10T21:53:17.770Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wrote the journal, 2 beliefs changed",
+    "think": "bedtime",
+    "triggers": [
+      "need",
+      "bedtime",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-10:5357ac4c",
     "stepsLeft": 0,
-    "current": {
-      "index": 2,
-      "verb": "curl_up",
-      "targetId": "bed",
-      "until": "2026-11-10T21:43:24.138Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-10T19:43:16.204Z",
-    "idleMinutes": 0
+    "idleMinutes": 10
   },
   "today": {
-    "ticks": 97,
+    "ticks": 98,
     "decideCalls": 25,
     "callsByKind": {
       "memory": 1,
       "read": 2,
       "morning": 1,
       "decide": 24,
-      "art": 2
+      "art": 2,
+      "bedtime": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 30,
+      "stepDone": 31,
       "replan": 4,
-      "need": 15
+      "need": 16,
+      "bedtime": 1
     },
     "failures": 0,
     "rejections": 1,
@@ -91,22 +91,22 @@
     }
   },
   "needsCritical": {
-    "hunger": 560,
+    "hunger": 570,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 280
+    "minutes": 290
   },
   "spend": {
-    "monthUsd": 0.7375034,
+    "monthUsd": 0.7690094,
     "capUsd": 10,
     "paceUsd": 3.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 560 minutes while awake",
+    "hunger has been under 15 for 570 minutes while awake",
     "started \"zoomies\" 3 times today",
     "started \"observe telescope\" 3 times today",
     "25 decide calls today (more than 15)"
