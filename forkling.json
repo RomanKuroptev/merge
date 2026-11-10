@@ -4,29 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 60,
+    "energy": 53.3,
     "curiosity": 100
   },
   "position": [
-    -14.5,
+    -12.05,
     0,
-    18.5
+    19.11
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.93,
-    "arousal": 0.96
+    "valence": -0.86,
+    "arousal": 1
   },
   "intention": {
-    "type": "observe",
-    "targetId": "telescope",
-    "startedAt": "2026-11-10T18:33:04.899Z",
-    "seed": 648420973,
-    "reason": "The moon still hides its colour, and I will look until it gives up.",
+    "type": "zoomies",
+    "startedAt": "2026-11-10T18:53:20.929Z",
+    "seed": 1968075444,
+    "reason": "The bowl is empty until morning and the day-only verbs are finished, so the dusk is best spent running off my restlessness and then drawing the moon I cannot yet name.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T18:33:16.886Z",
+  "lastTickAt": "2026-11-10T18:53:20.929Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -9,17 +9,6 @@
     "date": "2026-11-10",
     "steps": [
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "a labnote",
-        "reason": "The moon still hides its colour, and I will look until it gives up.",
-        "topic": "the moon's colour through the telescope",
-        "because": [
-          "b1"
-        ],
-        "minutes": 30
-      },
-      {
         "verb": "zoomies",
         "position": [
           -5,
@@ -27,14 +16,24 @@
         ],
         "reason": "Dusk is here and my restlessness needs running off around the garden.",
         "minutes": 15
+      },
+      {
+        "verb": "draw",
+        "targetId": "desk",
+        "makes": "a drawing of the moon",
+        "reason": "The moon still will not settle its colour, so I will draw it at the desk until it does.",
+        "topic": "the moon's colour",
+        "because": [
+          "b1"
+        ],
+        "minutes": 30
       }
     ],
-    "reason": "The bowl is empty until morning and I cannot eat from the bush, and the day-only verbs are over, so I will use the dusk for the telescope and the zoomies."
+    "reason": "The bowl is empty until morning and I cannot eat from the bush, and the day-only verbs are over, so I will use the dusk for the zoomies and then draw."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-10T18:23:13.873Z",
-    "until": "2026-11-10T18:53:13.873Z",
-    "workedSec": 602.9
+    "startedAt": "2026-11-10T18:53:20.929Z",
+    "until": "2026-11-10T19:08:20.929Z"
   }
 }
