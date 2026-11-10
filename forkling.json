@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 74.1,
-    "curiosity": 99.9
+    "energy": 70.7,
+    "curiosity": 100
   },
   "position": [
-    23.3,
+    -14.5,
     0,
-    9.5
+    18.5
   ],
-  "mood": "curious",
+  "mood": "frustrated",
   "feelings": {
-    "valence": 0,
-    "arousal": 0.92
+    "valence": -0.3,
+    "arousal": 1
   },
   "intention": {
     "type": "inspect",
     "targetId": "telescope",
-    "startedAt": "2026-11-10T14:13:15.130Z",
-    "seed": 1968061679,
+    "startedAt": "2026-11-10T14:23:20.029Z",
+    "seed": 511846375,
     "reason": "I will check the telescope's lenses while nobody is watching, which is only sensible.",
     "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T14:13:15.130Z",
+  "lastTickAt": "2026-11-10T14:23:23.700Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
