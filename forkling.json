@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 25.3,
+    "energy": 67.1,
     "curiosity": 100
   },
   "position": [
-    -0.5,
+    8.09,
     0,
-    19.5
+    -1.79
   ],
   "mood": "frustrated",
   "feelings": {
-    "valence": -0.27,
-    "arousal": 1
+    "valence": -0.24,
+    "arousal": 0.89
   },
   "intention": {
-    "type": "explore",
-    "startedAt": "2026-11-10T15:03:11.899Z",
-    "seed": 515939091,
-    "reason": "I want to see what has changed on the beach since this morning, and to claim whatever I find first.",
-    "goalRef": "today:4"
+    "type": "nap",
+    "targetId": "sunbeam",
+    "startedAt": "2026-11-10T15:33:16.220Z",
+    "seed": 1968055208,
+    "reason": "My energy is running low, and a patch of sun is the right place to fix that.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T15:03:21.151Z",
+  "lastTickAt": "2026-11-10T15:33:16.220Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

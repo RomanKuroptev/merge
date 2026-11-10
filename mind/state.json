@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T14:43:16.058Z",
+  "appliedStepAt": "2026-11-10T14:53:18.276Z",
   "lastThinkAt": "2026-11-10T15:03:21.151Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "reading-lamp",
-      "at": "2026-11-09T20:43:18.493Z"
-    },
     {
       "verb": "study",
       "targetId": "bookshelf",
@@ -148,6 +143,11 @@
     {
       "verb": "explore",
       "at": "2026-11-10T14:53:18.276Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-10T15:33:16.220Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -173,7 +173,20 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "explore",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-10T15:05:29.750Z"
+    },
+    {
+      "step": "explore",
+      "verb": "nap",
+      "need": "hunger",
+      "at": "2026-11-10T15:17:12.550Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T20:34:00.367Z",
