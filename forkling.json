@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73.8,
+    "energy": 70.5,
     "curiosity": 100
   },
   "position": [
-    16.5,
+    -6.5,
     0,
-    24.5
+    18.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.44,
-    "arousal": 1
+    "valence": -0.42,
+    "arousal": 0.96
   },
   "intention": {
     "type": "go_to",
     "targetId": "garden",
-    "startedAt": "2026-11-10T16:23:19.619Z",
-    "seed": 1968070243,
-    "reason": "Something in the garden is still unknown to me, and I would rather keep an eye on it than sit about being upset.",
+    "startedAt": "2026-11-10T16:33:14.799Z",
+    "seed": 2023129042,
+    "reason": "The garden plot is where my unknown seeds are, and I intend to see them before anyone else does.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T16:23:19.619Z",
+  "lastTickAt": "2026-11-10T16:33:15.816Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
