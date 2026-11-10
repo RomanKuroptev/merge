@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 68.5,
+    "energy": 65.2,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,18 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -1,
+    "valence": -0.66,
     "arousal": 1
   },
   "intention": {
-    "type": "draw",
-    "targetId": "desk",
-    "startedAt": "2026-11-10T19:33:12.199Z",
-    "seed": 304901450,
-    "reason": "The moon still will not settle its colour, so I will draw it at the desk until it does.",
-    "goalRef": "today:1"
+    "type": "zoomies",
+    "startedAt": "2026-11-10T19:43:16.204Z",
+    "seed": 1968073024,
+    "reason": "Dusk is nearly over, so I will run off the last of my restlessness, look at the sky through my telescope, and then sleep on my bed.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T19:33:15.643Z",
+  "lastTickAt": "2026-11-10T19:43:16.204Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -14,27 +14,32 @@
           -5,
           18
         ],
-        "reason": "Dusk is here and my restlessness needs running off around the garden.",
+        "reason": "Dusk is nearly gone and I have too much restlessness to sit still.",
         "minutes": 15
       },
       {
-        "verb": "draw",
-        "targetId": "desk",
-        "makes": "a drawing of the moon",
-        "reason": "The moon still will not settle its colour, so I will draw it at the desk until it does.",
+        "verb": "observe",
+        "targetId": "telescope",
+        "makes": "a labnote of the moon's colour",
+        "reason": "The sky is still worth looking at, and the telescope is mine.",
         "topic": "the moon's colour",
         "because": [
           "b1"
         ],
-        "minutes": 30
+        "minutes": 20
+      },
+      {
+        "verb": "curl_up",
+        "targetId": "bed",
+        "reason": "The bed is soft and it is close to night, so I will settle there.",
+        "minutes": 60
       }
     ],
-    "reason": "The bowl is empty until morning and I cannot eat from the bush, and the day-only verbs are over, so I will use the dusk for the zoomies and then draw."
+    "reason": "The sleep step was turned down because it needs night, so I will use the last of dusk for the zoomies and the telescope, then curl up on the bed until it is truly night."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-10T19:13:16.053Z",
-    "until": "2026-11-10T19:43:16.053Z",
-    "workedSec": 1199.5
+    "index": 0,
+    "startedAt": "2026-11-10T19:43:16.204Z",
+    "until": "2026-11-10T19:58:16.204Z"
   }
 }

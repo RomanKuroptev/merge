@@ -1,44 +1,44 @@
 {
-  "updatedAt": "2026-11-10T19:33:15.643Z",
+  "updatedAt": "2026-11-10T19:43:16.204Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T19:33:15.643Z",
+    "at": "2026-11-10T19:43:16.204Z",
     "asleep": false,
-    "summary": "thought about need",
+    "summary": "draw: made something at, made a drawing, thought about replan, step 1/3: zoomies, new plan",
     "think": "decide",
     "triggers": [
-      "need"
+      "replan",
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-10:20e98997",
-    "stepsLeft": 0,
+    "planId": "2026-11-10:5357ac4c",
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "draw",
-      "targetId": "desk",
-      "until": "2026-11-10T19:43:16.053Z",
+      "index": 0,
+      "verb": "zoomies",
+      "until": "2026-11-10T19:58:16.204Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-10T18:53:20.929Z",
+    "lastReplanAt": "2026-11-10T19:43:16.204Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 84,
-    "decideCalls": 19,
+    "ticks": 85,
+    "decideCalls": 21,
     "callsByKind": {
       "memory": 1,
       "read": 2,
       "morning": 1,
-      "decide": 18,
-      "art": 1
+      "decide": 20,
+      "art": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 27,
-      "replan": 3,
+      "stepDone": 28,
+      "replan": 4,
       "need": 12
     },
     "failures": 0,
@@ -63,7 +63,7 @@
       "go_to garden": 1,
       "inspect flowers-plant": 1,
       "water flowers-plant": 1,
-      "zoomies": 2,
+      "zoomies": 3,
       "observe telescope": 2,
       "draw desk": 1
     },
@@ -75,7 +75,7 @@
       "max": 5
     },
     "creative": {
-      "used": 1,
+      "used": 2,
       "max": 4
     },
     "photos": {
@@ -92,22 +92,23 @@
     }
   },
   "needsCritical": {
-    "hunger": 430,
+    "hunger": 440,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 150
+    "minutes": 160
   },
   "spend": {
-    "monthUsd": 0.72737664,
+    "monthUsd": 0.73156748,
     "capUsd": 10,
     "paceUsd": 3.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 430 minutes while awake",
-    "19 decide calls today (more than 15)"
+    "hunger has been under 15 for 440 minutes while awake",
+    "started \"zoomies\" 3 times today",
+    "21 decide calls today (more than 15)"
   ]
 }
