@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 86.1,
-    "energy": 67.2,
-    "curiosity": 100
+    "hunger": 78.1,
+    "energy": 98.5,
+    "curiosity": 99.7
   },
   "position": [
-    -9.5,
+    4.5,
     0,
-    20.5
+    16.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.93,
-    "arousal": 0.69
+    "valence": 0.86,
+    "arousal": 0.65
   },
   "intention": {
-    "type": "watch",
-    "targetId": "perch",
-    "startedAt": "2026-11-10T09:32:50.499Z",
-    "seed": 1573869037,
-    "reason": "I will sit up high and listen to the birds, which are the one sound I like.",
-    "goalRef": "today:5"
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-10T09:53:19.680Z",
+    "seed": 1968173851,
+    "reason": "I will claim the high rock and keep the things that are mine, because I have decided that is what a cat does with an island.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T09:33:13.903Z",
+  "lastTickAt": "2026-11-10T09:53:19.680Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
