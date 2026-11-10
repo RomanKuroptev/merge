@@ -47,14 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T19:13:16.053Z",
+  "appliedStepAt": "2026-11-10T19:43:16.204Z",
   "lastThinkAt": "2026-11-10T19:43:16.204Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "sit",
-      "at": "2026-11-10T12:13:17.644Z"
-    },
     {
       "verb": "go_to",
       "targetId": "bookshelf",
@@ -145,6 +141,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-10T19:43:16.204Z"
+    },
+    {
+      "verb": "observe",
+      "targetId": "telescope",
+      "at": "2026-11-10T20:03:19.022Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -170,7 +171,26 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:46:44.203Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:50:24.403Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:54:33.403Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T20:34:00.367Z",

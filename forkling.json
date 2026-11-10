@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 65.2,
+    "energy": 94.2,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -9.5,
     0,
-    10.5
+    17.15
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.66,
-    "arousal": 1
+    "valence": -0.61,
+    "arousal": 0.92
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-10T19:43:16.204Z",
-    "seed": 1968073024,
-    "reason": "Dusk is nearly over, so I will run off the last of my restlessness, look at the sky through my telescope, and then sleep on my bed.",
-    "goalRef": "today:0"
+    "type": "observe",
+    "targetId": "telescope",
+    "startedAt": "2026-11-10T20:03:19.022Z",
+    "seed": 1968071187,
+    "reason": "The sky is still worth looking at, and the telescope is mine.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T19:43:16.204Z",
+  "lastTickAt": "2026-11-10T20:03:19.022Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
