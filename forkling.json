@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 96.7,
+    "energy": 93.4,
     "curiosity": 100
   },
   "position": [
-    5.5,
+    -14.5,
     0,
-    20.5
+    18.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": 0,
-    "arousal": 1
+    "arousal": 0.96
   },
   "intention": {
     "type": "go_to",
     "targetId": "telescope",
-    "startedAt": "2026-11-10T13:53:18.799Z",
-    "seed": 1968061274,
+    "startedAt": "2026-11-10T14:03:12.099Z",
+    "seed": 2064146638,
     "reason": "The telescope is mine, and I want to be close enough to look at the moon through it.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T13:53:18.799Z",
+  "lastTickAt": "2026-11-10T14:03:16.296Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-10T13:53:18.799Z",
+  "updatedAt": "2026-11-10T14:03:16.296Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T13:53:18.799Z",
+    "at": "2026-11-10T14:03:16.296Z",
     "asleep": false,
-    "summary": "read: read at, read about the colour of the moon, thought about need, step 2/7: go_to",
-    "think": "decide",
-    "triggers": [
-      "need",
-      "stepDone"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 50,
+    "ticks": 51,
     "decideCalls": 8,
     "callsByKind": {
       "memory": 1,
@@ -81,13 +78,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 90,
+    "hunger": 100,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.70743723,
@@ -96,6 +93,6 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 90 minutes while awake"
+    "hunger has been under 15 for 100 minutes while awake"
   ]
 }
