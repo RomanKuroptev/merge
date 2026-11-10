@@ -9,15 +9,9 @@
     "date": "2026-11-10",
     "steps": [
       {
-        "verb": "go_to",
-        "targetId": "bookshelf",
-        "reason": "The moon's colour is still hidden from me, and the bookshelf is where it might be explained.",
-        "minutes": 10
-      },
-      {
         "verb": "read",
         "targetId": "bookshelf",
-        "reason": "I will read about the colour of the moon, since nobody has told me yet.",
+        "reason": "The moon's colour is still hidden from me, and I will read about it until somebody explains.",
         "topic": "the colour of the moon",
         "minutes": 25
       },
@@ -61,11 +55,11 @@
         "minutes": 10
       }
     ],
-    "reason": "My earlier plan is done, so I have chosen reading about the moon, a few claims to photograph, and a nap in the sun to keep the afternoon mine."
+    "reason": "Hunger cannot be fixed until the bowl is filled in the morning, so I will keep the afternoon as planned, minus the sit that went nowhere."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-10T13:03:13.892Z",
-    "until": "2026-11-10T13:28:13.892Z"
+    "index": 0,
+    "startedAt": "2026-11-10T13:23:13.953Z",
+    "until": "2026-11-10T13:48:13.953Z"
   }
 }

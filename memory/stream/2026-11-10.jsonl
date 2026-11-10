@@ -31,3 +31,7 @@
 {"id":"2026-11-10#31","at":"2026-11-10T12:43:21.336Z","kind":"thought","text":"Seeds are settled for now, so I will go back to the moon's colour, which it still refuses to explain."}
 {"id":"2026-11-10#32","at":"2026-11-10T12:43:21.336Z","kind":"step","text":"Started go_to (The bookshelf): Seeds are settled for now, so I will go back to the moon's colour, which it still refuses to explain.","verb":"go_to","objectId":"bookshelf","goalRef":"today:0"}
 {"id":"2026-11-10#33","at":"2026-11-10T13:03:13.892Z","kind":"step","text":"Started read (The bookshelf): I will read about the colour of the moon, since nobody has told me yet.","verb":"read","objectId":"bookshelf","goalRef":"today:1"}
+{"id":"2026-11-10#34","at":"2026-11-10T13:23:13.953Z","kind":"trigger","text":"hunger is at 0 of 100"}
+{"id":"2026-11-10#35","at":"2026-11-10T13:23:13.953Z","kind":"thought","text":"My bowl is empty until morning, so I will keep to the afternoon I already chose and not sulk about it."}
+{"id":"2026-11-10#36","at":"2026-11-10T13:23:13.953Z","kind":"step","text":"read: read at The bookshelf","verb":"read","objectId":"bookshelf"}
+{"id":"2026-11-10#37","at":"2026-11-10T13:23:13.953Z","kind":"step","text":"Started read (The bookshelf): My bowl is empty until morning, so I will keep to the afternoon I already chose and not sulk about it.","verb":"read","objectId":"bookshelf","goalRef":"today:0"}
