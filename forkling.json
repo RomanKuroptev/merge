@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73.7,
+    "energy": 70.4,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "pleased",
   "feelings": {
-    "valence": 0.23,
-    "arousal": 1
+    "valence": 0.22,
+    "arousal": 0.96
   },
   "intention": {
     "type": "read",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-10T13:23:13.953Z",
-    "seed": 1968046165,
-    "reason": "My bowl is empty until morning, so I will keep to the afternoon I already chose and not sulk about it.",
+    "startedAt": "2026-11-10T13:33:07.599Z",
+    "seed": 836075851,
+    "reason": "The moon's colour is still hidden from me, and I will read about it until somebody explains.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T13:23:13.953Z",
+  "lastTickAt": "2026-11-10T13:33:14.966Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
