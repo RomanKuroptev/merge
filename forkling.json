@@ -4,28 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 20.5,
-    "curiosity": 100
+    "energy": 75.2,
+    "curiosity": 99.9
   },
   "position": [
-    -6.5,
+    18.78,
     0,
-    18.5
+    6.36
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.83,
-    "arousal": 0.96
+    "valence": -0.8,
+    "arousal": 0.92
   },
   "intention": {
-    "type": "zoomies",
-    "startedAt": "2026-11-10T19:03:09.399Z",
-    "seed": 731958674,
-    "reason": "Dusk is here and my restlessness needs running off around the garden.",
-    "goalRef": "today:0"
+    "type": "draw",
+    "targetId": "desk",
+    "startedAt": "2026-11-10T19:13:16.053Z",
+    "seed": 1968076376,
+    "reason": "The moon still will not settle its colour, so I will draw it at the desk until it does.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T19:03:15.229Z",
+  "lastTickAt": "2026-11-10T19:13:16.053Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

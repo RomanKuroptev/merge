@@ -47,15 +47,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-10",
-  "appliedStepAt": "2026-11-10T18:23:13.873Z",
+  "appliedStepAt": "2026-11-10T18:53:20.929Z",
   "lastThinkAt": "2026-11-10T18:53:20.929Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "tall-rock",
-      "at": "2026-11-10T11:33:15.407Z"
-    },
     {
       "verb": "inspect",
       "targetId": "a-flowers-plant",
@@ -146,6 +141,11 @@
     {
       "verb": "zoomies",
       "at": "2026-11-10T18:53:20.929Z"
+    },
+    {
+      "verb": "draw",
+      "targetId": "desk",
+      "at": "2026-11-10T19:13:16.053Z"
     }
   ],
   "lastReflectDate": "2026-11-09",
@@ -183,6 +183,18 @@
       "verb": "curl_up",
       "need": "hunger",
       "at": "2026-11-10T19:00:06.299Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:03:43.728Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:07:37.828Z"
     }
   ],
   "rejections": [
