@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T22:13:14.968Z",
+  "updatedAt": "2026-11-10T22:23:13.658Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T22:13:14.968Z",
-    "asleep": false,
-    "summary": "",
+    "at": "2026-11-10T22:23:13.658Z",
+    "asleep": true,
+    "summary": "sent its memory off to be rewritten, went to bed",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-10T19:43:16.204Z",
-    "idleMinutes": 30
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 100,
+    "ticks": 101,
     "decideCalls": 25,
     "callsByKind": {
       "memory": 1,
@@ -87,13 +87,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 590,
+    "hunger": 0,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 310
+    "minutes": 320
   },
   "spend": {
     "monthUsd": 0.7690094,
@@ -102,7 +102,6 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 590 minutes while awake",
     "started \"zoomies\" 3 times today",
     "started \"observe telescope\" 3 times today",
     "25 decide calls today (more than 15)"
