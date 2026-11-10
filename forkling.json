@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 51.4,
-    "energy": 77.6,
+    "hunger": 98.2,
+    "energy": 99.4,
     "curiosity": 100
   },
   "position": [
-    -18.5,
+    -9.5,
     0,
-    14.5
+    10.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": 0.04,
-    "arousal": 0.32
+    "valence": 0.14,
+    "arousal": 0.37
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-10T07:13:08.144Z",
-    "seed": 967804696,
-    "reason": "Seeds that grow without asking still bother me, so I will read about them before I touch anything.",
-    "goalRef": "today:0"
+    "type": "cut",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-10T07:33:20.344Z",
+    "seed": 1968165460,
+    "reason": "The clay bank gives clay I can carry home, and my paws are empty for it.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T07:13:13.877Z",
+  "lastTickAt": "2026-11-10T07:33:20.344Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
