@@ -4,29 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 67.2,
+    "energy": 77.7,
     "curiosity": 100
   },
   "position": [
-    -3.5,
+    -8.02,
     0,
-    15.5
+    -5.96
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.67,
-    "arousal": 1
+    "valence": -0.52,
+    "arousal": 0.97
   },
   "intention": {
-    "type": "water",
-    "targetId": "flowers-plant",
-    "startedAt": "2026-11-10T17:03:16.979Z",
-    "seed": 1968067776,
-    "reason": "If the plant is going to grow anything, it will do it on my water.",
-    "goalRef": "today:2"
+    "type": "zoomies",
+    "startedAt": "2026-11-10T17:23:21.026Z",
+    "seed": 1968064925,
+    "reason": "Dusk is here and my restlessness needs running off around the garden.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T17:03:16.979Z",
+  "lastTickAt": "2026-11-10T17:23:21.026Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
