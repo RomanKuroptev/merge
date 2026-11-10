@@ -171,7 +171,20 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [],
+  "brokenOff": [
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T18:55:46.928Z"
+    },
+    {
+      "step": "zoomies",
+      "verb": "curl_up",
+      "need": "hunger",
+      "at": "2026-11-10T19:00:06.299Z"
+    }
+  ],
   "rejections": [
     {
       "at": "2026-11-03T20:34:00.367Z",
