@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-10T07:03:14.745Z",
+  "updatedAt": "2026-11-10T07:13:13.877Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T07:03:14.745Z",
+    "at": "2026-11-10T07:13:13.877Z",
     "asleep": false,
-    "summary": "skimmed the feeds, morning plan, step 1/6: study, woke up",
-    "think": "morning",
-    "triggers": [
-      "newDay"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 9,
+    "ticks": 10,
     "decideCalls": 1,
     "callsByKind": {
       "memory": 1,
@@ -41,7 +39,7 @@
     "stepsStarted": {
       "study bookshelf": 1
     },
-    "longestGapMinutes": 0
+    "longestGapMinutes": 10
   },
   "quotas": {
     "readings": {
@@ -66,13 +64,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 60,
+    "hunger": 0,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "calm",
-    "minutes": 300
+    "minutes": 310
   },
   "spend": {
     "monthUsd": 0.69367441,
