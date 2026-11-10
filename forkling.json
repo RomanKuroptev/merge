@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 22.1,
-    "energy": 75.3,
-    "curiosity": 100
+    "hunger": 14.1,
+    "energy": 68.6,
+    "curiosity": 92
   },
   "position": [
     -16.5,
@@ -14,18 +14,18 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.89,
-    "arousal": 0.87
+    "valence": 0.52,
+    "arousal": 1
   },
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-10T12:13:17.644Z",
-    "seed": 1968050377,
+    "startedAt": "2026-11-10T12:33:12.499Z",
+    "seed": 874879375,
     "reason": "I will sit up high where I can see the sky and pretend the rest of the island is not mine to watch.",
     "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T12:13:17.644Z",
+  "lastTickAt": "2026-11-10T12:33:15.283Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
