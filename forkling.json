@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 74.2,
-    "energy": 73.9,
-    "curiosity": 87.8
+    "hunger": 98.1,
+    "energy": 77.1,
+    "curiosity": 99.9
   },
   "position": [
-    -6.5,
+    -10.5,
     0,
-    12.5
+    26.5
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 1,
-    "arousal": 0.73
+    "valence": 0.89,
+    "arousal": 0.66
   },
   "intention": {
-    "type": "inspect",
-    "targetId": "a-flowers-plant",
-    "startedAt": "2026-11-10T08:33:23.121Z",
-    "seed": 1968163911,
-    "reason": "Something I planted may be growing, and I will check it when nobody is watching.",
-    "goalRef": "today:3"
+    "type": "photograph",
+    "targetId": "sunny-rock",
+    "startedAt": "2026-11-10T09:03:15.438Z",
+    "seed": 1968162631,
+    "reason": "The sunny rock catches the morning light first, and I will claim it on record.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T08:33:23.121Z",
+  "lastTickAt": "2026-11-10T09:03:15.438Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
