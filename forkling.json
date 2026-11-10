@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 63.3,
+    "energy": 60,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.97,
-    "arousal": 1
+    "valence": -0.93,
+    "arousal": 0.96
   },
   "intention": {
     "type": "observe",
     "targetId": "telescope",
-    "startedAt": "2026-11-10T18:23:13.873Z",
-    "seed": 1968077701,
-    "reason": "The bowl is empty until morning and the berry bush is not for eating, so I will spend the dusk on the telescope and run off the rest.",
+    "startedAt": "2026-11-10T18:33:04.899Z",
+    "seed": 648420973,
+    "reason": "The moon still hides its colour, and I will look until it gives up.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T18:23:13.873Z",
+  "lastTickAt": "2026-11-10T18:33:16.886Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
