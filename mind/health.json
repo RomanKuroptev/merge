@@ -1,17 +1,13 @@
 {
-  "updatedAt": "2026-11-10T21:53:17.770Z",
+  "updatedAt": "2026-11-10T22:03:15.454Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T21:53:17.770Z",
+    "at": "2026-11-10T22:03:15.454Z",
     "asleep": false,
-    "summary": "wrote the journal, 2 beliefs changed",
-    "think": "bedtime",
-    "triggers": [
-      "need",
-      "bedtime",
-      "stepDone"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -19,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-10T19:43:16.204Z",
-    "idleMinutes": 10
+    "idleMinutes": 20
   },
   "today": {
-    "ticks": 98,
+    "ticks": 99,
     "decideCalls": 25,
     "callsByKind": {
       "memory": 1,
@@ -91,13 +87,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 570,
+    "hunger": 580,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 290
+    "minutes": 300
   },
   "spend": {
     "monthUsd": 0.7690094,
@@ -106,7 +102,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 570 minutes while awake",
+    "hunger has been under 15 for 580 minutes while awake",
     "started \"zoomies\" 3 times today",
     "started \"observe telescope\" 3 times today",
     "25 decide calls today (more than 15)"

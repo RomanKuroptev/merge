@@ -4,27 +4,28 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 78.2,
-    "curiosity": 99.8
+    "energy": 97.2,
+    "curiosity": 100
   },
   "position": [
-    -14.5,
+    -9.5,
     0,
-    9.5
+    15.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.89,
-    "arousal": 0.89
+    "valence": -0.86,
+    "arousal": 0.86
   },
   "intention": {
-    "type": "curl_up",
-    "startedAt": "2026-11-10T21:52:50.742Z",
-    "seed": 1354351415,
-    "reason": "Something soft was right there, and I was tired."
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-10T22:02:34.499Z",
+    "seed": 767547349,
+    "reason": "Everything looks better from up high."
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T21:53:17.770Z",
+  "lastTickAt": "2026-11-10T22:03:15.454Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
