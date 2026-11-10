@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 75.2,
-    "curiosity": 99.9
+    "energy": 68.5,
+    "curiosity": 100
   },
   "position": [
-    18.78,
+    -18.5,
     0,
-    6.36
+    10.5
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.8,
-    "arousal": 0.92
+    "valence": -1,
+    "arousal": 1
   },
   "intention": {
     "type": "draw",
     "targetId": "desk",
-    "startedAt": "2026-11-10T19:13:16.053Z",
-    "seed": 1968076376,
+    "startedAt": "2026-11-10T19:33:12.199Z",
+    "seed": 304901450,
     "reason": "The moon still will not settle its colour, so I will draw it at the desk until it does.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T19:13:16.053Z",
+  "lastTickAt": "2026-11-10T19:33:15.643Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
