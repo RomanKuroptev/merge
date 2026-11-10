@@ -4,29 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 73.9,
+    "energy": 67.2,
     "curiosity": 100
   },
   "position": [
-    -12.5,
+    -3.5,
     0,
-    27.5
+    15.5
   ],
-  "mood": "frustrated",
+  "mood": "upset",
   "feelings": {
-    "valence": -0.4,
-    "arousal": 0.92
+    "valence": -0.67,
+    "arousal": 1
   },
   "intention": {
-    "type": "inspect",
+    "type": "water",
     "targetId": "flowers-plant",
-    "startedAt": "2026-11-10T16:43:16.764Z",
-    "seed": 1968067376,
-    "reason": "Seeds that grow without permission deserve a close look while nobody is watching.",
-    "goalRef": "today:1"
+    "startedAt": "2026-11-10T17:03:16.979Z",
+    "seed": 1968067776,
+    "reason": "If the plant is going to grow anything, it will do it on my water.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-10T16:43:16.764Z",
+  "lastTickAt": "2026-11-10T17:03:16.979Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
