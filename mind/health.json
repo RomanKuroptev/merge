@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-10T20:03:19.022Z",
+  "updatedAt": "2026-11-10T20:13:17.401Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T20:03:19.022Z",
+    "at": "2026-11-10T20:13:17.401Z",
     "asleep": false,
-    "summary": "step 2/3: observe",
-    "think": null,
+    "summary": "thought about need",
+    "think": "decide",
     "triggers": [
-      "stepDone"
+      "need"
     ],
     "callsFailed": 0
   },
@@ -26,20 +26,20 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 87,
-    "decideCalls": 21,
+    "ticks": 88,
+    "decideCalls": 22,
     "callsByKind": {
       "memory": 1,
       "read": 2,
       "morning": 1,
-      "decide": 20,
+      "decide": 21,
       "art": 2
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 29,
       "replan": 4,
-      "need": 12
+      "need": 13
     },
     "failures": 0,
     "rejections": 0,
@@ -92,24 +92,24 @@
     }
   },
   "needsCritical": {
-    "hunger": 460,
+    "hunger": 470,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 180
+    "minutes": 190
   },
   "spend": {
-    "monthUsd": 0.73156748,
+    "monthUsd": 0.73312341,
     "capUsd": 10,
     "paceUsd": 3.3333333333333335
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 460 minutes while awake",
+    "hunger has been under 15 for 470 minutes while awake",
     "started \"zoomies\" 3 times today",
     "started \"observe telescope\" 3 times today",
-    "21 decide calls today (more than 15)"
+    "22 decide calls today (more than 15)"
   ]
 }
