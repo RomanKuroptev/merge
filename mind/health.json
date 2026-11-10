@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T22:23:13.658Z",
+  "updatedAt": "2026-11-10T23:03:14.864Z",
   "engine": "v0.8.0",
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-10T22:23:13.658Z",
+    "at": "2026-11-10T23:03:14.864Z",
     "asleep": true,
-    "summary": "sent its memory off to be rewritten, went to bed",
+    "summary": "rewrote its memory",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,63 +18,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 101,
-    "decideCalls": 25,
+    "ticks": 1,
+    "decideCalls": 0,
     "callsByKind": {
-      "memory": 1,
-      "read": 2,
-      "morning": 1,
-      "decide": 24,
-      "art": 2,
-      "bedtime": 1
+      "memory": 1
     },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 31,
-      "replan": 4,
-      "need": 16,
-      "bedtime": 1
-    },
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 1,
-    "stepsStarted": {
-      "study bookshelf": 2,
-      "cut clay-bank": 2,
-      "shape workbench": 2,
-      "inspect a-flowers-plant": 2,
-      "photograph sunny-rock": 1,
-      "watch perch": 1,
-      "photograph tall-rock": 1,
-      "sit": 1,
-      "go_to bookshelf": 1,
-      "read bookshelf": 2,
-      "go_to telescope": 2,
-      "inspect telescope": 1,
-      "photograph reading-lamp": 1,
-      "explore": 1,
-      "nap sunbeam": 1,
-      "photograph telescope": 1,
-      "go_to garden": 1,
-      "inspect flowers-plant": 1,
-      "water flowers-plant": 1,
-      "zoomies": 3,
-      "observe telescope": 3,
-      "draw desk": 1,
-      "curl_up bed": 1
-    },
-    "longestGapMinutes": 10
+    "rejections": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 0,
       "max": 5
     },
     "creative": {
-      "used": 2,
+      "used": 0,
       "max": 4
     },
     "photos": {
-      "used": 4,
+      "used": 0,
       "max": 12
     },
     "builds": {
@@ -93,17 +58,13 @@
   },
   "mood": {
     "label": "upset",
-    "minutes": 320
+    "minutes": 360
   },
   "spend": {
-    "monthUsd": 0.7690094,
+    "monthUsd": 0.76958308,
     "capUsd": 10,
-    "paceUsd": 3.3333333333333335
+    "paceUsd": 3.6666666666666665
   },
   "openBuild": null,
-  "warnings": [
-    "started \"zoomies\" 3 times today",
-    "started \"observe telescope\" 3 times today",
-    "25 decide calls today (more than 15)"
-  ]
+  "warnings": []
 }
