@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-10T20:23:14.888Z",
+  "updatedAt": "2026-11-10T20:33:14.784Z",
   "engine": "v0.8.0",
   "date": "2026-11-10",
   "lastTick": {
-    "at": "2026-11-10T20:23:14.888Z",
+    "at": "2026-11-10T20:33:14.784Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -17,14 +17,14 @@
       "index": 1,
       "verb": "observe",
       "targetId": "telescope",
-      "until": "2026-11-10T20:23:19.022Z",
+      "until": "2026-11-10T20:43:19.022Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-10T19:43:16.204Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 89,
+    "ticks": 90,
     "decideCalls": 22,
     "callsByKind": {
       "memory": 1,
@@ -90,13 +90,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 480,
+    "hunger": 490,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 200
+    "minutes": 210
   },
   "spend": {
     "monthUsd": 0.73312341,
@@ -105,7 +105,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 480 minutes while awake",
+    "hunger has been under 15 for 490 minutes while awake",
     "started \"zoomies\" 3 times today",
     "started \"observe telescope\" 3 times today",
     "22 decide calls today (more than 15)"
