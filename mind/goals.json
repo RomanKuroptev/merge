@@ -10,70 +10,47 @@
     "steps": [
       {
         "verb": "go_to",
-        "targetId": "clay-bank",
-        "reason": "The clay bank is wet and orange, and I want the first piece of the day.",
-        "because": [
-          "b2"
-        ],
-        "minutes": 25
-      },
-      {
-        "verb": "cut",
-        "targetId": "clay-bank",
-        "reason": "My paws are empty, so I will take one piece of clay before anyone else can.",
-        "because": [
-          "b2"
-        ],
+        "targetId": "garden",
+        "reason": "The garden plot is where unknown seeds might grow, and I want to see what is growing there before anyone else does.",
         "minutes": 20
       },
       {
-        "verb": "go_to",
-        "targetId": "workbench",
-        "reason": "The workbench is where clay becomes something worth keeping, and I am carrying it there.",
-        "because": [
-          "b4"
-        ],
+        "verb": "sniff",
+        "targetId": "a-flowers-plant",
+        "reason": "The flowers I planted are mine, and I want to know whether they are doing anything without my permission.",
         "minutes": 15
       },
       {
-        "verb": "shape",
-        "targetId": "workbench",
-        "materials": [
-          "clay"
-        ],
-        "makes": "a small clay figure",
-        "reason": "One piece of clay should become a small figure I can keep where I can see it.",
-        "because": [
-          "b4"
-        ],
-        "minutes": 45
+        "verb": "go_to",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission are still a mystery, and the shelf is where mysteries get settled.",
+        "minutes": 15
       },
       {
         "verb": "study",
         "targetId": "bookshelf",
-        "reason": "Seeds that grow without permission are a mystery I have not yet settled, so I will read about them.",
+        "reason": "I will read about unknown seeds that grow, since nobody has told me how they manage it.",
         "topic": "unknown seeds that grow",
         "minutes": 60
       },
       {
-        "verb": "watch",
-        "targetId": "perch",
-        "reason": "A high place lets me see who is coming up the beach, and I like to be above things.",
-        "minutes": 45
+        "verb": "photograph",
+        "targetId": "a-flowers-plant",
+        "reason": "I want a picture of the plant I claimed, kept with my caption on record.",
+        "minutes": 10
       },
       {
         "verb": "nap",
         "targetId": "sunbeam",
-        "reason": "Energy is low after all that claiming, and a patch of sun is the right place to spend it.",
+        "reason": "After all that investigating, a patch of sun is the sensible place to rest.",
         "minutes": 90
       }
     ],
-    "reason": "I will cut and shape one piece of clay into something worth keeping, learn about unknown seeds, and then spend the rest of the day up high and in the sun."
+    "reason": "The nap is over and my curiosity has turned to the seeds in the garden, so I am changing course to investigate them."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-11T10:53:13.322Z",
-    "until": "2026-11-11T12:23:13.322Z",
-    "workedSec": 4203.6
+    "index": 0,
+    "startedAt": "2026-11-11T12:23:16.980Z",
+    "until": "2026-11-11T12:43:16.980Z"
   }
 }

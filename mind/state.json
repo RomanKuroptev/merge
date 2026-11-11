@@ -48,15 +48,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-11",
-  "appliedStepAt": "2026-11-11T10:03:16.536Z",
-  "lastThinkAt": "2026-11-11T07:03:19.896Z",
+  "appliedStepAt": "2026-11-11T10:53:13.322Z",
+  "lastThinkAt": "2026-11-11T12:23:16.980Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "photograph",
-      "targetId": "telescope",
-      "at": "2026-11-10T16:03:21.812Z"
-    },
     {
       "verb": "go_to",
       "targetId": "garden",
@@ -148,6 +143,11 @@
       "verb": "nap",
       "targetId": "sunbeam",
       "at": "2026-11-11T10:53:13.322Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "garden",
+      "at": "2026-11-11T12:23:16.980Z"
     }
   ],
   "lastReflectDate": "2026-11-10",
@@ -173,14 +173,7 @@
   },
   "openBuild": null,
   "openCode": null,
-  "brokenOff": [
-    {
-      "step": "go_to",
-      "verb": "eat",
-      "need": "hunger",
-      "at": "2026-11-11T07:03:34.595Z"
-    }
-  ],
+  "brokenOff": [],
   "rejections": [
     {
       "at": "2026-11-03T21:13:31.038Z",

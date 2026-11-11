@@ -3,9 +3,9 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 26.2,
+    "hunger": 18.2,
     "energy": 100,
-    "curiosity": 72
+    "curiosity": 64
   },
   "position": [
     -25.5,
@@ -14,19 +14,19 @@
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.46,
-    "arousal": 0.45
+    "valence": 0.43,
+    "arousal": 0.43
   },
   "intention": {
-    "type": "nap",
-    "targetId": "sunbeam",
-    "startedAt": "2026-11-11T12:03:17.199Z",
-    "seed": 866333758,
-    "reason": "Energy is low after all that claiming, and a patch of sun is the right place to spend it.",
-    "goalRef": "today:6"
+    "type": "go_to",
+    "targetId": "garden",
+    "startedAt": "2026-11-11T12:23:16.980Z",
+    "seed": 1967735968,
+    "reason": "The nap has run its course and my curiosity is full of unknown seeds, so I will go and claim something new instead of carrying on with the old plan.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T12:03:17.225Z",
+  "lastTickAt": "2026-11-11T12:23:16.980Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
