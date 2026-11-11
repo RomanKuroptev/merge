@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 6.2,
-    "energy": 92.5,
-    "curiosity": 99.9
+    "hunger": 2.2,
+    "energy": 89.2,
+    "curiosity": 100
   },
   "position": [
-    -16.16,
+    -6.5,
     0,
-    18.33
+    19.5
   ],
-  "mood": "content",
+  "mood": "curious",
   "feelings": {
-    "valence": 0.38,
-    "arousal": 0.41
+    "valence": 0.07,
+    "arousal": 0.6
   },
   "intention": {
     "type": "sniff",
     "targetId": "a-flowers-plant",
-    "startedAt": "2026-11-11T12:53:14.286Z",
-    "seed": 1967751086,
+    "startedAt": "2026-11-11T13:03:11.099Z",
+    "seed": 872452375,
     "reason": "The flowers I planted are mine, and I want to know whether they are doing anything without my permission.",
     "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T12:53:14.286Z",
+  "lastTickAt": "2026-11-11T13:03:15.137Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
