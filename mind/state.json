@@ -48,15 +48,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-11",
-  "appliedStepAt": "2026-11-11T12:23:16.980Z",
+  "appliedStepAt": "2026-11-11T12:53:14.286Z",
   "lastThinkAt": "2026-11-11T13:03:15.137Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "inspect",
-      "targetId": "flowers-plant",
-      "at": "2026-11-10T16:43:16.764Z"
-    },
     {
       "verb": "water",
       "targetId": "flowers-plant",
@@ -148,6 +143,11 @@
       "verb": "sniff",
       "targetId": "a-flowers-plant",
       "at": "2026-11-11T12:53:14.286Z"
+    },
+    {
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "at": "2026-11-11T13:13:17.378Z"
     }
   ],
   "lastReflectDate": "2026-11-10",

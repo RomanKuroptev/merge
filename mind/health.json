@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-11-11T13:03:15.137Z",
+  "updatedAt": "2026-11-11T13:13:17.378Z",
   "engine": "v0.8.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T13:03:15.137Z",
+    "at": "2026-11-11T13:13:17.378Z",
     "asleep": false,
-    "summary": "thought about need",
-    "think": "decide",
+    "summary": "step 3/6: go_to",
+    "think": null,
     "triggers": [
-      "need"
+      "stepDone"
     ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-11:207eb4c4",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "sniff",
-      "targetId": "a-flowers-plant",
-      "until": "2026-11-11T13:08:14.286Z",
+      "index": 2,
+      "verb": "go_to",
+      "targetId": "bookshelf",
+      "until": "2026-11-11T13:28:17.378Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-11T12:23:16.980Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 45,
+    "ticks": 46,
     "decideCalls": 4,
     "callsByKind": {
       "memory": 1,
@@ -36,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "replan": 1,
       "need": 1
     },
@@ -51,7 +51,8 @@
       "watch perch": 1,
       "nap sunbeam": 1,
       "go_to garden": 1,
-      "sniff a-flowers-plant": 1
+      "sniff a-flowers-plant": 1,
+      "go_to bookshelf": 1
     },
     "longestGapMinutes": 10
   },
@@ -78,13 +79,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 40,
+    "hunger": 50,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "curious",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.77851075,

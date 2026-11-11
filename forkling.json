@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 2.2,
-    "energy": 89.2,
+    "hunger": 0,
+    "energy": 72.9,
     "curiosity": 100
   },
   "position": [
-    -6.5,
+    0.5,
     0,
-    19.5
+    0.5
   ],
   "mood": "curious",
   "feelings": {
     "valence": 0.07,
-    "arousal": 0.6
+    "arousal": 0.58
   },
   "intention": {
-    "type": "sniff",
-    "targetId": "a-flowers-plant",
-    "startedAt": "2026-11-11T13:03:11.099Z",
-    "seed": 872452375,
-    "reason": "The flowers I planted are mine, and I want to know whether they are doing anything without my permission.",
-    "goalRef": "today:1"
+    "type": "go_to",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-11T13:13:17.378Z",
+    "seed": 1967747961,
+    "reason": "Seeds that grow without permission are still a mystery, and the shelf is where mysteries get settled.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T13:03:15.137Z",
+  "lastTickAt": "2026-11-11T13:13:17.378Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
