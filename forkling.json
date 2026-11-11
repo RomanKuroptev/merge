@@ -3,8 +3,8 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 86.2,
-    "energy": 86.8,
+    "hunger": 74.2,
+    "energy": 76.8,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "delighted",
   "feelings": {
-    "valence": 0.71,
+    "valence": 0.73,
     "arousal": 0.61
   },
   "intention": {
-    "type": "study",
-    "targetId": "bookshelf",
-    "startedAt": "2026-11-11T09:33:11.599Z",
-    "seed": 233448854,
-    "reason": "Seeds that grow without permission are a mystery I have not yet settled, so I will read about them.",
-    "goalRef": "today:4"
+    "type": "watch",
+    "targetId": "perch",
+    "startedAt": "2026-11-11T10:03:16.536Z",
+    "seed": 1967728624,
+    "reason": "A high place lets me see who is coming up the beach, and I like to be above things.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T09:33:15.722Z",
+  "lastTickAt": "2026-11-11T10:03:16.536Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
