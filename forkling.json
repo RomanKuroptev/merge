@@ -3,12 +3,12 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 0,
-    "energy": 90.2,
+    "hunger": 51.3,
+    "energy": 86.9,
     "curiosity": 100
   },
   "position": [
-    5.5,
+    13.5,
     0,
     20.5
   ],
@@ -20,13 +20,13 @@
   "intention": {
     "type": "go_to",
     "targetId": "clay-bank",
-    "startedAt": "2026-11-11T07:03:19.896Z",
-    "seed": 1967720867,
-    "reason": "My paws are empty and the clay bank is the one source I have not yet taken from today, so I will go and cut a piece before anything else.",
+    "startedAt": "2026-11-11T07:13:15.395Z",
+    "seed": 172445908,
+    "reason": "The clay bank is wet and orange, and I want the first piece of the day.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T07:03:19.896Z",
+  "lastTickAt": "2026-11-11T07:13:16.944Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
