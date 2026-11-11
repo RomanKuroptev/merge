@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-11T22:03:18.243Z",
+  "updatedAt": "2026-11-11T23:03:13.790Z",
   "engine": "v0.9.0",
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-11T22:03:18.243Z",
+    "at": "2026-11-11T23:03:13.790Z",
     "asleep": true,
-    "summary": "rewrote its memory",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -17,54 +17,24 @@
       "index": 5,
       "verb": "rest",
       "until": "2026-11-11T21:57:37.105Z",
-      "overdueMinutes": 5
+      "overdueMinutes": 65
     },
     "lastReplanAt": "2026-11-11T17:13:17.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 85,
-    "decideCalls": 9,
-    "callsByKind": {
-      "memory": 2,
-      "read": 2,
-      "morning": 3,
-      "decide": 6,
-      "art": 1,
-      "bedtime": 1
-    },
-    "triggersByKind": {
-      "newDay": 2,
-      "stepDone": 16,
-      "replan": 1,
-      "need": 5,
-      "bedtime": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
-    "stepsStarted": {
-      "go_to clay-bank": 1,
-      "cut clay-bank": 1,
-      "go_to workbench": 1,
-      "shape workbench": 1,
-      "study bookshelf": 2,
-      "watch perch": 1,
-      "nap sunbeam": 2,
-      "go_to garden": 1,
-      "sniff a-flowers-plant": 1,
-      "go_to bookshelf": 1,
-      "photograph a-flowers-plant": 1,
-      "wander lidar finds of lost Maya sites": 1,
-      "rest": 2,
-      "write lidar finds of lost Maya sites": 1,
-      "wander hyper-realistic sand in webgl": 1,
-      "tend workshop": 1
-    },
-    "longestGapMinutes": 114
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 0,
       "max": 5
     }
   },
@@ -74,16 +44,14 @@
   },
   "mood": {
     "label": "steady, steady",
-    "minutes": 130
+    "minutes": 190
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 0.80156269,
     "capUsd": 10,
-    "paceUsd": 3.6666666666666665
+    "paceUsd": 4
   },
   "openBuild": null,
-  "warnings": [
-    "longest wait between ticks today was 114 minutes (they should come every 10)"
-  ]
+  "warnings": []
 }
