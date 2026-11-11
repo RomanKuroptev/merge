@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-11T19:43:14.980Z",
+  "updatedAt": "2026-11-11T19:53:16.497Z",
   "engine": "v0.9.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T19:43:14.980Z",
+    "at": "2026-11-11T19:53:16.497Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/6: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-11:6c40a16e",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 3,
-      "verb": "wander",
-      "targetId": "hyper-realistic sand in webgl",
-      "until": "2026-11-11T19:53:15.458Z",
+      "index": 4,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-11T20:33:16.497Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-11T17:13:17.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 73,
+    "ticks": 74,
     "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
@@ -35,7 +37,7 @@
     },
     "triggersByKind": {
       "newDay": 2,
-      "stepDone": 14,
+      "stepDone": 15,
       "replan": 1,
       "need": 5
     },
@@ -56,7 +58,8 @@
       "wander lidar finds of lost Maya sites": 1,
       "rest": 1,
       "write lidar finds of lost Maya sites": 1,
-      "wander hyper-realistic sand in webgl": 1
+      "wander hyper-realistic sand in webgl": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 114
   },
@@ -67,12 +70,12 @@
     }
   },
   "allowance": {
-    "points": 143,
+    "points": 141,
     "max": 450
   },
   "mood": {
-    "label": "steady, rested",
-    "minutes": 150
+    "label": "steady, steady",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
