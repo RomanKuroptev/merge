@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-11T18:23:17.455Z",
+  "updatedAt": "2026-11-11T18:43:17.954Z",
   "engine": "v0.9.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T18:23:17.455Z",
+    "at": "2026-11-11T18:43:17.954Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/6: write",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-11:6c40a16e",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "rest",
-      "until": "2026-11-11T18:38:15.387Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "lidar finds of lost Maya sites",
+      "until": "2026-11-11T19:13:17.954Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-11T17:13:17.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 66,
+    "ticks": 67,
     "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
@@ -33,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 2,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 1,
       "need": 5
     },
@@ -52,7 +55,8 @@
       "go_to bookshelf": 1,
       "photograph a-flowers-plant": 1,
       "wander lidar finds of lost Maya sites": 1,
-      "rest": 1
+      "rest": 1,
+      "write lidar finds of lost Maya sites": 1
     },
     "longestGapMinutes": 114
   },
@@ -63,12 +67,12 @@
     }
   },
   "allowance": {
-    "points": 147,
+    "points": 146,
     "max": 450
   },
   "mood": {
     "label": "steady, rested",
-    "minutes": 70
+    "minutes": 90
   },
   "needsCritical": {},
   "spend": {
