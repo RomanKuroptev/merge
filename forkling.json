@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 50.2,
+    "hunger": 38.2,
     "energy": 100,
-    "curiosity": 96
+    "curiosity": 84
   },
   "position": [
     -10.5,
     0,
-    16.5
+    25.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.58,
-    "arousal": 0.52
+    "valence": 0.52,
+    "arousal": 0.48
   },
   "intention": {
     "type": "nap",
     "targetId": "sunbeam",
-    "startedAt": "2026-11-11T11:02:27.199Z",
-    "seed": 748916489,
+    "startedAt": "2026-11-11T11:32:32.899Z",
+    "seed": 1601132133,
     "reason": "Energy is low after all that claiming, and a patch of sun is the right place to spend it.",
     "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T11:03:14.970Z",
+  "lastTickAt": "2026-11-11T11:33:19.045Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
