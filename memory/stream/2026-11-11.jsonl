@@ -6,3 +6,5 @@
 {"id":"2026-11-11#6","at":"2026-11-11T07:53:13.637Z","kind":"step","text":"cut: gathered clay from The clay bank","verb":"cut","objectId":"clay-bank"}
 {"id":"2026-11-11#7","at":"2026-11-11T07:53:13.637Z","kind":"step","text":"Started go_to (The workbench): The workbench is where clay becomes something worth keeping, and I am carrying it there.","verb":"go_to","objectId":"workbench","goalRef":"today:2","beliefRefs":["b4"]}
 {"id":"2026-11-11#8","at":"2026-11-11T08:13:18.235Z","kind":"step","text":"Started shape (The workbench): One piece of clay should become a small figure I can keep where I can see it.","verb":"shape","objectId":"workbench","goalRef":"today:3","beliefRefs":["b4"]}
+{"id":"2026-11-11#9","at":"2026-11-11T09:03:15.624Z","kind":"made","text":"shape: finished a small clay figure","verb":"shape","objectId":"a-small-clay-figure-6"}
+{"id":"2026-11-11#10","at":"2026-11-11T09:03:15.624Z","kind":"step","text":"Started study (The bookshelf): Seeds that grow without permission are a mystery I have not yet settled, so I will read about them.","verb":"study","objectId":"bookshelf","goalRef":"today:4"}

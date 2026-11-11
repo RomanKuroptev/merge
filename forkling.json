@@ -3,33 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 74.3,
-    "energy": 89.8,
-    "curiosity": 92
+    "hunger": 98.2,
+    "energy": 96.8,
+    "curiosity": 100
   },
   "position": [
-    -6.5,
+    -18.5,
     0,
-    12.5
+    10.5
   ],
-  "mood": "content",
+  "mood": "delighted",
   "feelings": {
-    "valence": 0.23,
-    "arousal": 0.44
+    "valence": 0.8,
+    "arousal": 0.67
   },
   "intention": {
-    "type": "shape",
-    "targetId": "workbench",
-    "startedAt": "2026-11-11T08:33:17.499Z",
-    "seed": 1308091763,
-    "reason": "One piece of clay should become a small figure I can keep where I can see it.",
-    "goalRef": "today:3"
-  },
-  "holding": {
-    "material": "clay"
+    "type": "study",
+    "targetId": "bookshelf",
+    "startedAt": "2026-11-11T09:03:15.624Z",
+    "seed": 1967732167,
+    "reason": "Seeds that grow without permission are a mystery I have not yet settled, so I will read about them.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T08:33:17.503Z",
+  "lastTickAt": "2026-11-11T09:03:15.624Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
