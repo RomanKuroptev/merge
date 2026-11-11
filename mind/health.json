@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-11T10:43:17.434Z",
+  "updatedAt": "2026-11-11T10:53:13.322Z",
   "engine": "v0.8.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T10:43:17.434Z",
+    "at": "2026-11-11T10:53:13.322Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 7/7: nap",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-11:3e19afa7",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 5,
-      "verb": "watch",
-      "targetId": "perch",
-      "until": "2026-11-11T10:48:16.536Z",
+      "index": 6,
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "until": "2026-11-11T12:23:13.322Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-11T07:03:19.896Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 31,
+    "ticks": 32,
     "decideCalls": 2,
     "callsByKind": {
       "memory": 1,
@@ -33,7 +35,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 5
+      "stepDone": 6
     },
     "failures": 0,
     "rejections": 0,
@@ -43,7 +45,8 @@
       "go_to workbench": 1,
       "shape workbench": 1,
       "study bookshelf": 1,
-      "watch perch": 1
+      "watch perch": 1,
+      "nap sunbeam": 1
     },
     "longestGapMinutes": 10
   },
@@ -76,7 +79,7 @@
   },
   "mood": {
     "label": "content",
-    "minutes": 0
+    "minutes": 10
   },
   "spend": {
     "monthUsd": 0.77530519,
