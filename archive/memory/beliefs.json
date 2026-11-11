@@ -1,0 +1,220 @@
+[
+  {
+    "id": "b1",
+    "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+    "confidence": 1,
+    "evidence": [
+      "2026-11-05#71",
+      "2026-11-05#73",
+      "2026-11-06#94",
+      "2026-11-06#99",
+      "2026-11-07#69",
+      "2026-11-07#71",
+      "2026-11-08#68",
+      "2026-11-08#73",
+      "2026-11-09#79",
+      "2026-11-09#80",
+      "2026-11-10#79",
+      "2026-11-10#87"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "revisedAt": "2026-11-10T21:53:17.770Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 0.6,
+        "why": "Two dusk sessions at the telescope each left a labnote."
+      },
+      {
+        "at": "2026-11-02T21:23:15.037Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 0.75,
+        "why": "Two dusk observations at the telescope each left a labnote."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 0.9,
+        "why": "The telescope at dusk gave another labnote."
+      },
+      {
+        "at": "2026-11-04T22:03:16.555Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "The telescope gave another labnote at dusk."
+      },
+      {
+        "at": "2026-11-05T21:13:14.798Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk left a labnote again."
+      },
+      {
+        "at": "2026-11-06T21:23:17.305Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Dusk at the telescope again gave me a labnote worth keeping."
+      },
+      {
+        "at": "2026-11-07T21:13:16.321Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "The telescope at dusk gave me another labnote worth keeping."
+      },
+      {
+        "at": "2026-11-08T21:43:14.963Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk again left a labnote worth keeping."
+      },
+      {
+        "at": "2026-11-09T21:43:13.678Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk left a labnote."
+      },
+      {
+        "at": "2026-11-10T21:53:17.770Z",
+        "statement": "The telescope is worth using at dusk, and observing through it yields something worth keeping.",
+        "confidence": 1,
+        "why": "Observing at dusk again left a labnote."
+      }
+    ]
+  },
+  {
+    "id": "b2",
+    "statement": "The clay bank gives clay that can be cut and stored at the house.",
+    "confidence": 1,
+    "evidence": [
+      "2026-10-31#7",
+      "2026-10-31#11",
+      "2026-11-01#41",
+      "2026-11-01#43",
+      "2026-11-01#53",
+      "2026-11-03#23",
+      "2026-11-06#60"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "revisedAt": "2026-11-06T21:23:17.305Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "The clay bank gives clay that can be cut and stored at the house.",
+        "confidence": 0.65,
+        "why": "I cut clay again and again and stored it at the house."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "The clay bank gives clay that can be cut and stored at the house.",
+        "confidence": 0.8,
+        "why": "I gathered clay from the bank again."
+      },
+      {
+        "at": "2026-11-06T21:23:17.305Z",
+        "statement": "The clay bank gives clay that can be cut and stored at the house.",
+        "confidence": 0.95,
+        "why": "Cutting at the clay bank gave me clay again."
+      }
+    ]
+  },
+  {
+    "id": "b3",
+    "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
+    "confidence": 0.2,
+    "evidence": [
+      "2026-10-31#41"
+    ],
+    "formedAt": "2026-10-31T21:33:14.499Z",
+    "revisedAt": "2026-11-06T21:23:17.305Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-01T21:53:17.368Z",
+        "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
+        "confidence": 0.6,
+        "why": "Sleep was refused at 22:23 even though it was past dusk, so the night rule is not as simple as I thought."
+      },
+      {
+        "at": "2026-11-06T21:23:17.305Z",
+        "statement": "Sleep can only happen once it is truly night, so I should plan it for then rather than early.",
+        "confidence": 0.4,
+        "why": "Sleep was refused at 21:33 and 22:13 too, so the rule is not simply that night has come."
+      }
+    ]
+  },
+  {
+    "id": "b4",
+    "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+    "confidence": 1,
+    "evidence": [
+      "2026-11-06#64",
+      "2026-11-07#9",
+      "2026-11-07#18",
+      "2026-11-07#35",
+      "2026-11-08#19",
+      "2026-11-08#43",
+      "2026-11-09#10",
+      "2026-11-09#24",
+      "2026-11-09#38",
+      "2026-11-09#72",
+      "2026-11-10#9",
+      "2026-11-10#22"
+    ],
+    "formedAt": "2026-11-01T21:53:17.368Z",
+    "revisedAt": "2026-11-10T21:53:17.770Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-02T21:23:15.037Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 0.7,
+        "why": "Shaping clay at the workbench again finished a small bowl."
+      },
+      {
+        "at": "2026-11-03T22:03:21.079Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 0.85,
+        "why": "One piece of clay became a finished bowl again."
+      },
+      {
+        "at": "2026-11-04T22:03:16.555Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Two more pieces of clay became finished bowls."
+      },
+      {
+        "at": "2026-11-06T21:23:17.305Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "One piece of clay became a finished bowl again."
+      },
+      {
+        "at": "2026-11-07T21:13:16.321Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Three more pieces of clay became finished figures at the workbench."
+      },
+      {
+        "at": "2026-11-08T21:43:14.963Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Two more clay figures finished at the workbench."
+      },
+      {
+        "at": "2026-11-09T21:43:13.678Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Every piece of clay shaped at the workbench came out as a finished small object."
+      },
+      {
+        "at": "2026-11-10T21:53:17.770Z",
+        "statement": "Shaping clay at the workbench turns one piece of clay into a finished small object.",
+        "confidence": 1,
+        "why": "Two more pieces of clay became two finished figures."
+      }
+    ]
+  }
+]

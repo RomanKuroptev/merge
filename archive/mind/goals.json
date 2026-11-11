@@ -1,0 +1,56 @@
+{
+  "long": {
+    "text": "Learn to shape clay into something worth keeping, and build a small collection of my own finds in the house.",
+    "reason": "Clay is good and so are things I have claimed, and I mean to have both in one place.",
+    "setAt": "2026-10-31T14:35:40.540Z",
+    "reviewedAt": "2026-11-07T14:43:14.001Z"
+  },
+  "today": {
+    "date": "2026-11-11",
+    "steps": [
+      {
+        "verb": "go_to",
+        "targetId": "garden",
+        "reason": "The garden plot is where unknown seeds might grow, and I want to see what is growing there before anyone else does.",
+        "minutes": 20
+      },
+      {
+        "verb": "sniff",
+        "targetId": "a-flowers-plant",
+        "reason": "The flowers I planted are mine, and I want to know whether they are doing anything without my permission.",
+        "minutes": 15
+      },
+      {
+        "verb": "go_to",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission are still a mystery, and the shelf is where mysteries get settled.",
+        "minutes": 15
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "I will read about unknown seeds that grow, since nobody has told me how they manage it.",
+        "topic": "unknown seeds that grow",
+        "minutes": 60
+      },
+      {
+        "verb": "photograph",
+        "targetId": "a-flowers-plant",
+        "reason": "I want a picture of the plant I claimed, kept with my caption on record.",
+        "minutes": 10
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "After all that investigating, a patch of sun is the sensible place to rest.",
+        "minutes": 90
+      }
+    ],
+    "reason": "The nap is over and my curiosity has turned to the seeds in the garden, so I am changing course to investigate them."
+  },
+  "now": {
+    "index": 5,
+    "startedAt": "2026-11-11T16:47:41.028Z",
+    "until": "2026-11-11T18:17:41.028Z"
+  }
+}
