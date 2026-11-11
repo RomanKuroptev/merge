@@ -49,14 +49,9 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-11",
   "appliedStepAt": "2026-11-11T13:33:23.423Z",
-  "lastThinkAt": "2026-11-11T14:43:19.255Z",
+  "lastThinkAt": "2026-11-11T16:47:41.028Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "telescope",
-      "at": "2026-11-10T17:43:22.104Z"
-    },
     {
       "verb": "observe",
       "targetId": "telescope",
@@ -149,6 +144,11 @@
       "verb": "photograph",
       "targetId": "a-flowers-plant",
       "at": "2026-11-11T14:43:19.255Z"
+    },
+    {
+      "verb": "nap",
+      "targetId": "sunbeam",
+      "at": "2026-11-11T16:47:41.028Z"
     }
   ],
   "lastReflectDate": "2026-11-10",
