@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "capUsd": 10,
-  "spentUsd": 0.78686088,
+  "spentUsd": 0.80133238,
   "calls": [
     {
       "at": "2026-10-31T23:03:17.820Z",
@@ -3442,6 +3442,16 @@
       "cacheWrite": 1466,
       "output": 426,
       "usd": 0.00040665
+    },
+    {
+      "at": "2026-11-11T21:23:17.458Z",
+      "kind": "bedtime",
+      "model": "claude-sonnet-5-5",
+      "input": 1257,
+      "cacheRead": 0,
+      "cacheWrite": 1931,
+      "output": 713,
+      "usd": 0.0144715
     }
   ],
   "history": [
