@@ -4,7 +4,7 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 65.8,
+    "energy": 59.1,
     "curiosity": 100
   },
   "position": [
@@ -14,19 +14,19 @@
   ],
   "mood": "upset",
   "feelings": {
-    "valence": -0.5,
-    "arousal": 0.86
+    "valence": -0.46,
+    "arousal": 0.8
   },
   "intention": {
     "type": "study",
     "targetId": "bookshelf",
-    "startedAt": "2026-11-11T14:12:58.953Z",
-    "seed": 1694313941,
+    "startedAt": "2026-11-11T14:33:17.099Z",
+    "seed": 785563895,
     "reason": "I will read about unknown seeds that grow, since nobody has told me how they manage it.",
     "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T14:13:14.603Z",
+  "lastTickAt": "2026-11-11T14:33:18.209Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
