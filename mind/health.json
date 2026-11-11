@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-11T17:43:14.668Z",
+  "updatedAt": "2026-11-11T17:53:15.387Z",
   "engine": "v0.9.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T17:43:14.668Z",
+    "at": "2026-11-11T17:53:15.387Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: rest",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-11:6c40a16e",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "lidar finds of lost Maya sites",
-      "until": "2026-11-11T17:48:17.731Z",
+      "index": 1,
+      "verb": "rest",
+      "until": "2026-11-11T18:38:15.387Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-11T17:13:17.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 62,
+    "ticks": 63,
     "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
@@ -34,7 +35,7 @@
     },
     "triggersByKind": {
       "newDay": 2,
-      "stepDone": 11,
+      "stepDone": 12,
       "replan": 1,
       "need": 5
     },
@@ -52,7 +53,8 @@
       "sniff a-flowers-plant": 1,
       "go_to bookshelf": 1,
       "photograph a-flowers-plant": 1,
-      "wander lidar finds of lost Maya sites": 1
+      "wander lidar finds of lost Maya sites": 1,
+      "rest": 1
     },
     "longestGapMinutes": 114
   },
@@ -68,7 +70,7 @@
   },
   "mood": {
     "label": "steady, rested",
-    "minutes": 30
+    "minutes": 40
   },
   "needsCritical": {},
   "spend": {
