@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-11T16:47:41.028Z",
+  "updatedAt": "2026-11-11T16:53:23.394Z",
   "engine": "v0.8.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T16:47:41.028Z",
+    "at": "2026-11-11T16:53:23.394Z",
     "asleep": false,
-    "summary": "thought about need, step 6/6: nap",
-    "think": "decide",
-    "triggers": [
-      "need"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 57,
+    "ticks": 58,
     "decideCalls": 8,
     "callsByKind": {
       "memory": 1,
@@ -80,13 +78,13 @@
     }
   },
   "needsCritical": {
-    "hunger": 264,
+    "hunger": 270,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "upset",
-    "minutes": 154
+    "minutes": 160
   },
   "spend": {
     "monthUsd": 0.78491637,
@@ -95,7 +93,7 @@
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 264 minutes while awake",
+    "hunger has been under 15 for 270 minutes while awake",
     "longest wait between ticks today was 114 minutes (they should come every 10)"
   ]
 }
