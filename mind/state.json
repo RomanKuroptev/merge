@@ -48,15 +48,10 @@
   ],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-11",
-  "appliedStepAt": "2026-11-11T10:53:13.322Z",
+  "appliedStepAt": "2026-11-11T12:23:16.980Z",
   "lastThinkAt": "2026-11-11T12:23:16.980Z",
   "blockedStep": "2026-11-04T12:53:13.926Z",
   "recent": [
-    {
-      "verb": "go_to",
-      "targetId": "garden",
-      "at": "2026-11-10T16:23:19.619Z"
-    },
     {
       "verb": "inspect",
       "targetId": "flowers-plant",
@@ -148,6 +143,11 @@
       "verb": "go_to",
       "targetId": "garden",
       "at": "2026-11-11T12:23:16.980Z"
+    },
+    {
+      "verb": "sniff",
+      "targetId": "a-flowers-plant",
+      "at": "2026-11-11T12:53:14.286Z"
     }
   ],
   "lastReflectDate": "2026-11-10",

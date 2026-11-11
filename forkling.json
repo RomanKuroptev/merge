@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 14.2,
-    "energy": 96.7,
-    "curiosity": 100
+    "hunger": 6.2,
+    "energy": 92.5,
+    "curiosity": 99.9
   },
   "position": [
-    -6.5,
+    -16.16,
     0,
-    18.5
+    18.33
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.41,
-    "arousal": 0.42
+    "valence": 0.38,
+    "arousal": 0.41
   },
   "intention": {
-    "type": "go_to",
-    "targetId": "garden",
-    "startedAt": "2026-11-11T12:33:11.399Z",
-    "seed": 1980745686,
-    "reason": "The garden plot is where unknown seeds might grow, and I want to see what is growing there before anyone else does.",
-    "goalRef": "today:0"
+    "type": "sniff",
+    "targetId": "a-flowers-plant",
+    "startedAt": "2026-11-11T12:53:14.286Z",
+    "seed": 1967751086,
+    "reason": "The flowers I planted are mine, and I want to know whether they are doing anything without my permission.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T12:33:14.371Z",
+  "lastTickAt": "2026-11-11T12:53:14.286Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
