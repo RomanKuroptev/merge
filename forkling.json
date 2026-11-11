@@ -3,25 +3,25 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 82.3,
-    "energy": 96.5,
-    "curiosity": 100
+    "hunger": 74.3,
+    "energy": 89.8,
+    "curiosity": 92
   },
   "position": [
-    -10.5,
+    -6.5,
     0,
-    9.5
+    12.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.25,
-    "arousal": 0.46
+    "valence": 0.23,
+    "arousal": 0.44
   },
   "intention": {
     "type": "shape",
     "targetId": "workbench",
-    "startedAt": "2026-11-11T08:13:18.235Z",
-    "seed": 1967733002,
+    "startedAt": "2026-11-11T08:33:17.499Z",
+    "seed": 1308091763,
     "reason": "One piece of clay should become a small figure I can keep where I can see it.",
     "goalRef": "today:3"
   },
@@ -29,7 +29,7 @@
     "material": "clay"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T08:13:18.235Z",
+  "lastTickAt": "2026-11-11T08:33:17.503Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
