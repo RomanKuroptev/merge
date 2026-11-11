@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -9.5,
+    3.39,
     0,
-    10.5
+    21.93
   ],
   "mood": 0,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-11T19:03:07.899Z",
-    "seed": 1232380708,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-11T19:23:15.458Z",
+    "seed": 1967774263,
+    "reason": "My second interest. I am curious how sand can look real in a browser.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T19:03:18.385Z",
+  "lastTickAt": "2026-11-11T19:23:15.458Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
