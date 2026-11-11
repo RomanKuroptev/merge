@@ -1,39 +1,41 @@
 {
-  "updatedAt": "2026-11-11T16:53:23.394Z",
-  "engine": "v0.8.0",
+  "updatedAt": "2026-11-11T17:13:17.731Z",
+  "engine": "v0.9.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T16:53:23.394Z",
+    "at": "2026-11-11T17:13:17.731Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "skimmed the feeds, morning plan, new long goal, step 1/6: wander",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-11:207eb4c4",
-    "stepsLeft": 0,
+    "planId": "2026-11-11:6c40a16e",
+    "stepsLeft": 5,
     "current": {
-      "index": 5,
-      "verb": "nap",
-      "targetId": "sunbeam",
-      "until": "2026-11-11T18:17:41.028Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "lidar finds of lost Maya sites",
+      "until": "2026-11-11T17:48:17.731Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-11T12:23:16.980Z",
+    "lastReplanAt": "2026-11-11T17:13:17.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 58,
-    "decideCalls": 8,
+    "ticks": 59,
+    "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
-      "read": 1,
-      "morning": 2,
+      "read": 2,
+      "morning": 3,
       "decide": 6
     },
     "triggersByKind": {
-      "newDay": 1,
+      "newDay": 2,
       "stepDone": 11,
       "replan": 1,
       "need": 5
@@ -51,7 +53,8 @@
       "go_to garden": 1,
       "sniff a-flowers-plant": 1,
       "go_to bookshelf": 1,
-      "photograph a-flowers-plant": 1
+      "photograph a-flowers-plant": 1,
+      "wander lidar finds of lost Maya sites": 1
     },
     "longestGapMinutes": 114
   },
@@ -59,41 +62,24 @@
     "readings": {
       "used": 1,
       "max": 5
-    },
-    "creative": {
-      "used": 0,
-      "max": 4
-    },
-    "photos": {
-      "used": 0,
-      "max": 12
-    },
-    "builds": {
-      "used": 0,
-      "max": 1
-    },
-    "codeThisWeek": {
-      "used": 0,
-      "max": 2
     }
   },
-  "needsCritical": {
-    "hunger": 270,
-    "energy": 0,
-    "curiosity": 0
+  "allowance": {
+    "points": 147,
+    "max": 450
   },
   "mood": {
-    "label": "upset",
-    "minutes": 160
+    "label": "steady, rested",
+    "minutes": 0
   },
+  "needsCritical": {},
   "spend": {
-    "monthUsd": 0.78491637,
+    "monthUsd": 0.78645423,
     "capUsd": 10,
     "paceUsd": 3.6666666666666665
   },
   "openBuild": null,
   "warnings": [
-    "hunger has been under 15 for 270 minutes while awake",
     "longest wait between ticks today was 114 minutes (they should come every 10)"
   ]
 }

@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -12.98,
+    -11.87,
     0,
-    6.3
+    14.71
   ],
+  "mood": 0,
+  "energy": 0.5,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-11T16:47:41.028Z",
-    "seed": 20260101,
-    "reason": "I have just been given a new way of living. I sit and look at it."
+    "startedAt": "2026-11-11T17:13:17.731Z",
+    "seed": 1967765689,
+    "reason": "I have just arrived and have no memory yet. The strongest pull is lidar finds of lost Maya sites, so I want to read about that first, then write down what I make of it. Keeping points in hand matters…",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T16:47:41.028Z",
+  "lastTickAt": "2026-11-11T17:13:17.731Z",
   "asleep": false,
-  "timezone": "Europe/Stockholm",
-  "mood": 0,
-  "energy": 0.5
+  "timezone": "Europe/Stockholm"
 }
