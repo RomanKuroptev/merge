@@ -3,30 +3,30 @@
   "species": "cat",
   "seed": 20260101,
   "needs": {
-    "hunger": 18.2,
-    "energy": 100,
-    "curiosity": 64
+    "hunger": 14.2,
+    "energy": 96.7,
+    "curiosity": 100
   },
   "position": [
-    -25.5,
+    -6.5,
     0,
-    10.5
+    18.5
   ],
   "mood": "content",
   "feelings": {
-    "valence": 0.43,
-    "arousal": 0.43
+    "valence": 0.41,
+    "arousal": 0.42
   },
   "intention": {
     "type": "go_to",
     "targetId": "garden",
-    "startedAt": "2026-11-11T12:23:16.980Z",
-    "seed": 1967735968,
-    "reason": "The nap has run its course and my curiosity is full of unknown seeds, so I will go and claim something new instead of carrying on with the old plan.",
+    "startedAt": "2026-11-11T12:33:11.399Z",
+    "seed": 1980745686,
+    "reason": "The garden plot is where unknown seeds might grow, and I want to see what is growing there before anyone else does.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T12:23:16.980Z",
+  "lastTickAt": "2026-11-11T12:33:14.371Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
