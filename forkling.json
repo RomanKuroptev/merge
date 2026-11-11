@@ -4,27 +4,29 @@
   "seed": 20260101,
   "needs": {
     "hunger": 0,
-    "energy": 100,
-    "curiosity": 53.8
+    "energy": 90.2,
+    "curiosity": 100
   },
   "position": [
-    -19.5,
+    5.5,
     0,
-    17.5
+    20.5
   ],
   "mood": "calm",
   "feelings": {
-    "valence": -0.13,
-    "arousal": 0.34
+    "valence": -0.1,
+    "arousal": 0.33
   },
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-11T06:02:44.299Z",
-    "seed": 925841981,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "go_to",
+    "targetId": "clay-bank",
+    "startedAt": "2026-11-11T07:03:19.896Z",
+    "seed": 1967720867,
+    "reason": "My paws are empty and the clay bank is the one source I have not yet taken from today, so I will go and cut a piece before anything else.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-11T06:03:13.707Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-11T07:03:19.896Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

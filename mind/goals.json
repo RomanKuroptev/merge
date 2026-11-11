@@ -6,35 +6,73 @@
     "reviewedAt": "2026-11-07T14:43:14.001Z"
   },
   "today": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "steps": [
       {
-        "verb": "zoomies",
-        "position": [
-          -5,
-          18
+        "verb": "go_to",
+        "targetId": "clay-bank",
+        "reason": "The clay bank is wet and orange, and I want the first piece of the day.",
+        "because": [
+          "b2"
         ],
-        "reason": "Dusk is nearly gone and I have too much restlessness to sit still.",
-        "minutes": 15
+        "minutes": 25
       },
       {
-        "verb": "observe",
-        "targetId": "telescope",
-        "makes": "a labnote of the moon's colour",
-        "reason": "The sky is still worth looking at, and the telescope is mine.",
-        "topic": "the moon's colour",
+        "verb": "cut",
+        "targetId": "clay-bank",
+        "reason": "My paws are empty, so I will take one piece of clay before anyone else can.",
         "because": [
-          "b1"
+          "b2"
         ],
         "minutes": 20
       },
       {
-        "verb": "curl_up",
-        "targetId": "bed",
-        "reason": "The bed is soft and it is close to night, so I will settle there.",
+        "verb": "go_to",
+        "targetId": "workbench",
+        "reason": "The workbench is where clay becomes something worth keeping, and I am carrying it there.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 15
+      },
+      {
+        "verb": "shape",
+        "targetId": "workbench",
+        "materials": [
+          "clay"
+        ],
+        "makes": "a small clay figure",
+        "reason": "One piece of clay should become a small figure I can keep where I can see it.",
+        "because": [
+          "b4"
+        ],
+        "minutes": 45
+      },
+      {
+        "verb": "study",
+        "targetId": "bookshelf",
+        "reason": "Seeds that grow without permission are a mystery I have not yet settled, so I will read about them.",
+        "topic": "unknown seeds that grow",
         "minutes": 60
+      },
+      {
+        "verb": "watch",
+        "targetId": "perch",
+        "reason": "A high place lets me see who is coming up the beach, and I like to be above things.",
+        "minutes": 45
+      },
+      {
+        "verb": "nap",
+        "targetId": "sunbeam",
+        "reason": "Energy is low after all that claiming, and a patch of sun is the right place to spend it.",
+        "minutes": 90
       }
     ],
-    "reason": "The sleep step was turned down because it needs night, so I will use the last of dusk for the zoomies and the telescope, then curl up on the bed until it is truly night."
+    "reason": "I will cut and shape one piece of clay into something worth keeping, learn about unknown seeds, and then spend the rest of the day up high and in the sun."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-11T07:03:19.896Z",
+    "until": "2026-11-11T07:28:19.896Z"
   }
 }

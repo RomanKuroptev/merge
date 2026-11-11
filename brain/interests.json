@@ -1,9 +1,9 @@
 {
   "topics": {
     "unknown seeds that grow": {
-      "weight": 0.64,
+      "weight": 0.72,
       "firstSeen": "2026-11-01T07:03:15.325Z",
-      "lastFed": "2026-11-10T07:03:14.745Z",
+      "lastFed": "2026-11-11T07:03:19.896Z",
       "sources": [
         {
           "id": "hn:50320963",
@@ -115,9 +115,9 @@
       ]
     },
     "hidden networks and patterns nobody placed": {
-      "weight": 0.28,
+      "weight": 0.36,
       "firstSeen": "2026-11-05T07:03:15.552Z",
-      "lastFed": "2026-11-10T07:03:14.745Z",
+      "lastFed": "2026-11-11T07:03:19.896Z",
       "sources": [
         {
           "id": "hn:50371246",
@@ -130,6 +130,12 @@
           "title": "#Monsterdon",
           "url": "https://mastodon.social/tags/monsterdon",
           "at": "2026-11-10T07:03:14.745Z"
+        },
+        {
+          "id": "lemmy:54247541",
+          "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidenta…",
+          "url": "https://piefed.zip/c/science@lemmy.world/p/1986143/the-maya-loved-using-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-buri",
+          "at": "2026-11-11T07:03:19.896Z"
         }
       ]
     },
@@ -277,9 +283,9 @@
       ]
     },
     "new moon and the hidden sky": {
-      "weight": 0.26,
+      "weight": 0.38,
       "firstSeen": "2026-11-09T07:03:15.220Z",
-      "lastFed": "2026-11-10T07:03:14.745Z",
+      "lastFed": "2026-11-11T07:03:19.896Z",
       "sources": [
         {
           "id": "sky:moon:2026-11-09",
@@ -292,6 +298,12 @@
           "title": "Tonight's moon: new moon",
           "url": "https://science.nasa.gov/moon/moon-phases/",
           "at": "2026-11-10T07:03:14.745Z"
+        },
+        {
+          "id": "sky:moon:2026-11-11",
+          "title": "Tonight's moon: new moon",
+          "url": "https://science.nasa.gov/moon/moon-phases/",
+          "at": "2026-11-11T07:03:19.896Z"
         }
       ]
     },
@@ -344,6 +356,19 @@
           "title": "The Colors of the Mountain",
           "url": "https://en.wikipedia.org/wiki/The_Colors_of_the_Mountain",
           "at": "2026-11-10T13:53:18.799Z"
+        }
+      ]
+    },
+    "dwarf galaxies and the far sky": {
+      "weight": 0.06,
+      "firstSeen": "2026-11-11T07:03:19.896Z",
+      "lastFed": "2026-11-11T07:03:19.896Z",
+      "sources": [
+        {
+          "id": "sky:apod:2026-11-11",
+          "title": "NASA Science",
+          "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+          "at": "2026-11-11T07:03:19.896Z"
         }
       ]
     }

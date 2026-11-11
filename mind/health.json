@@ -1,37 +1,51 @@
 {
-  "updatedAt": "2026-11-11T06:03:13.707Z",
+  "updatedAt": "2026-11-11T07:03:19.896Z",
   "engine": "v0.8.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T06:03:13.707Z",
-    "asleep": true,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-11T07:03:19.896Z",
+    "asleep": false,
+    "summary": "skimmed the feeds, morning plan, step 1/7: go_to, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-10:5357ac4c",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-10T19:43:16.204Z",
+    "planId": "2026-11-11:3e19afa7",
+    "stepsLeft": 6,
+    "current": {
+      "index": 0,
+      "verb": "go_to",
+      "targetId": "clay-bank",
+      "until": "2026-11-11T07:28:19.896Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-11T07:03:19.896Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 8,
-    "decideCalls": 0,
+    "ticks": 9,
+    "decideCalls": 2,
     "callsByKind": {
-      "memory": 1
+      "memory": 1,
+      "read": 1,
+      "morning": 2
     },
-    "triggersByKind": {},
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "go_to clay-bank": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 1,
       "max": 5
     },
     "creative": {
@@ -52,16 +66,16 @@
     }
   },
   "needsCritical": {
-    "hunger": 0,
+    "hunger": 60,
     "energy": 0,
     "curiosity": 0
   },
   "mood": {
     "label": "calm",
-    "minutes": 0
+    "minutes": 60
   },
   "spend": {
-    "monthUsd": 0.76958308,
+    "monthUsd": 0.77530519,
     "capUsd": 10,
     "paceUsd": 3.6666666666666665
   },
