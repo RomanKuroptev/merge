@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-11T17:13:17.731Z",
+  "updatedAt": "2026-11-11T17:23:16.947Z",
   "engine": "v0.9.0",
   "date": "2026-11-11",
   "lastTick": {
-    "at": "2026-11-11T17:13:17.731Z",
+    "at": "2026-11-11T17:23:16.947Z",
     "asleep": false,
-    "summary": "skimmed the feeds, morning plan, new long goal, step 1/6: wander",
-    "think": "morning",
-    "triggers": [
-      "newDay"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 59,
+    "ticks": 60,
     "decideCalls": 9,
     "callsByKind": {
       "memory": 1,
@@ -70,7 +68,7 @@
   },
   "mood": {
     "label": "steady, rested",
-    "minutes": 0
+    "minutes": 10
   },
   "needsCritical": {},
   "spend": {
