@@ -10,6 +10,10 @@ on:
   push:
     branches: [main]
     paths: ['site/**', 'art/**']
+  # From the server on, nothing dispatches this after a commit, so it looks every 30 minutes (spec 14.3) and builds only if
+  # this commit is not already the one on the site.
+  schedule:
+    - cron: '*/30 * * * *'
 
 # A burst of changes collapses into one waiting deploy.
 concurrency:
@@ -17,6 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -24,19 +29,42 @@ permissions:
 env:
   # The engine release this world runs on. Keep it the same as in mind.yml.
   FORKLING_REPO: RomanKuroptev/forkling
-  FORKLING_REF: v0.10.0
+  FORKLING_REF: v0.12.1
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    outputs:
+      build: ${{ steps.gate.outputs.build }}
+    steps:
+      - id: gate
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          EVENT: ${{ github.event_name }}
+        run: |
+          build=true
+          if [ "$EVENT" = schedule ]; then
+            last=$(gh run list --workflow pages.yml --status success --limit 1 --json headSha --jq '.[0].headSha // empty')
+            if [ "$last" = "$GITHUB_SHA" ]; then build=false; fi
+          fi
+          echo "build=$build" >> "$GITHUB_OUTPUT"
+
   deploy:
+    needs: check
+    if: needs.check.outputs.build == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # The whole history, because the site's list of recent changes ("since your last visit") is written from the commits.
       - uses: actions/checkout@v4
         with:
           path: world
+          fetch-depth: 0
 
       - uses: actions/checkout@v4
         with:
@@ -60,7 +88,7 @@ jobs:
 
       - name: Build the site
         working-directory: engine
-        run: pnpm --filter @forkling/site build --world "$GITHUB_WORKSPACE/world" --out "$GITHUB_WORKSPACE/_site"
+        run: pnpm --filter @forkling/site build --world "$GITHUB_WORKSPACE/world" --out "$GITHUB_WORKSPACE/_site" --base-url "https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}/"
 
       - uses: actions/configure-pages@v5
 
