@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -14.5,
+    -19.94,
     0,
-    22.5
+    14.73
   ],
   "mood": 0,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-12T14:32:57.499Z",
-    "seed": 355994203,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-12T14:53:16.937Z",
+    "seed": 1967704136,
+    "reason": "A deeper page to check whether I can tell a real find from a wishful one.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-12T14:33:15.954Z",
+  "lastTickAt": "2026-11-12T14:53:16.937Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
