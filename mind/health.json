@@ -1,38 +1,44 @@
 {
-  "updatedAt": "2026-11-12T13:13:18.659Z",
+  "updatedAt": "2026-11-12T13:23:14.389Z",
   "engine": "v0.10.0",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T13:13:18.659Z",
+    "at": "2026-11-12T13:23:14.389Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/8: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-12:1280337c",
-    "stepsLeft": 0,
+    "planId": "2026-11-12:6793ff45",
+    "stepsLeft": 7,
     "current": {
-      "index": 7,
-      "verb": "rest",
-      "until": "2026-11-12T13:23:14.028Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "milky way dust mapping",
+      "until": "2026-11-12T13:58:14.389Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-12T06:03:13.068Z",
+    "lastReplanAt": "2026-11-12T13:23:14.389Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 52,
-    "decideCalls": 1,
+    "ticks": 53,
+    "decideCalls": 2,
     "callsByKind": {
       "read": 1,
       "morning": 1,
-      "art": 2
+      "art": 2,
+      "decide": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8
+      "stepDone": 9,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -42,7 +48,8 @@
       "rest": 3,
       "wander hyper-realistic sand in webgl": 1,
       "tend workshop": 1,
-      "write hyper-realistic sand in webgl": 1
+      "write hyper-realistic sand in webgl": 1,
+      "wander milky way dust mapping": 1
     },
     "longestGapMinutes": 10
   },
@@ -57,16 +64,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 281,
+    "points": 278,
     "max": 450
   },
   "mood": {
     "label": "steady, steady",
-    "minutes": 260
+    "minutes": 270
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.80442675,
+    "monthUsd": 0.80571818,
     "capUsd": 10,
     "paceUsd": 4
   },

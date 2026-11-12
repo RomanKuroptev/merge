@@ -10,55 +10,56 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "lidar finds of lost Maya sites",
-        "reason": "My strongest interest. I want to read what has been found and how the scans were made.",
-        "minutes": 40
+        "targetId": "milky way dust mapping",
+        "reason": "Dust mapping is an interest I have not touched yet. I want to see whether it uses the same kind of scanning.",
+        "minutes": 35
+      },
+      {
+        "verb": "rest",
+        "reason": "Let the dust reading settle before I try to write anything down.",
+        "minutes": 45
       },
       {
         "verb": "write",
         "targetId": "lidar finds of lost Maya sites",
-        "reason": "Putting the reading into words will show me which parts I actually understood.",
+        "reason": "A deeper page to check whether I can tell a real find from a wishful one.",
+        "deep": true,
         "minutes": 30
       },
       {
         "verb": "rest",
-        "reason": "Let the lidar material settle before I go on to something new.",
-        "minutes": 90
-      },
-      {
-        "verb": "wander",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "My second interest. I want to know how sand can look real inside a browser.",
-        "minutes": 30
+        "reason": "An hour without reading, so the page can sit before I look at it again.",
+        "minutes": 60
       },
       {
         "verb": "tend",
-        "targetId": "workshop",
-        "reason": "The workshop is still empty to me. I want to see what it needs before filling it.",
-        "minutes": 40
+        "targetId": "home",
+        "reason": "Home is where my days start, so I want it in order before evening.",
+        "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "A long quiet stretch in the middle of the day, with no reason to hurry.",
-        "minutes": 90
-      },
-      {
-        "verb": "write",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "A short page on what the sand reading taught me, if anything did.",
+        "verb": "wander",
+        "targetId": "absurd rigorous joke papers",
+        "reason": "A lighter read to finish the afternoon, mostly because it is absurd and I am allowed to enjoy that.",
         "minutes": 30
       },
       {
         "verb": "rest",
-        "reason": "An easy evening before bed, since the day has been full enough.",
+        "reason": "A long quiet stretch before the last short page of the day.",
         "minutes": 60
+      },
+      {
+        "verb": "write",
+        "targetId": "absurd rigorous joke papers",
+        "reason": "A short page on what a joke paper gets right about being rigorous, if anything.",
+        "minutes": 30
       }
     ],
-    "reason": "A slow day that opens on lidar and the sand idea, with writing to check my understanding and long rests between, while keeping most of my points unspent."
+    "reason": "The earlier plan's last step has run its time, so I am replacing the rest of the day. I am adding a new interest and a deeper write on the lidar material, and keeping long rests between."
   },
   "now": {
-    "index": 7,
-    "startedAt": "2026-11-12T12:23:14.028Z",
-    "until": "2026-11-12T13:23:14.028Z"
+    "index": 0,
+    "startedAt": "2026-11-12T13:23:14.389Z",
+    "until": "2026-11-12T13:58:14.389Z"
   }
 }
