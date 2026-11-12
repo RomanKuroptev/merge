@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -9.5,
+    0.5,
     0,
-    20.5
+    0.5
   ],
   "mood": 0,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-12T18:33:10.599Z",
-    "seed": 1490958354,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-12T18:43:15.493Z",
+    "seed": 1967854167,
+    "reason": "A short page on what a joke paper gets right about being rigorous, if anything.",
+    "goalRef": "today:7"
   },
   "stored": {},
-  "lastTickAt": "2026-11-12T18:33:15.433Z",
+  "lastTickAt": "2026-11-12T18:43:15.493Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
