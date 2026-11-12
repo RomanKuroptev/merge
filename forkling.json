@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    4.38,
+    26.5,
     0,
-    -0.49
+    10.5
   ],
   "mood": 0,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-12T11:33:08.999Z",
-    "seed": 387344703,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-12T11:53:13.062Z",
+    "seed": 1967698493,
+    "reason": "A short page on what the sand reading taught me, if anything did.",
+    "goalRef": "today:6"
   },
   "stored": {},
-  "lastTickAt": "2026-11-12T11:33:13.524Z",
+  "lastTickAt": "2026-11-12T11:53:13.062Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

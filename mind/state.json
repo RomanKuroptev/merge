@@ -2,10 +2,10 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-12",
-  "appliedStepAt": "2026-11-12T09:23:16.824Z",
+  "appliedStepAt": "2026-11-12T10:13:23.179Z",
   "lastThinkAt": "2026-11-12T07:23:13.032Z",
   "allowance": {
-    "points": 282,
+    "points": 281,
     "day": "2026-11-12"
   },
   "recent": [
@@ -64,6 +64,11 @@
     {
       "verb": "rest",
       "at": "2026-11-12T10:13:23.179Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "hyper-realistic sand in webgl",
+      "at": "2026-11-12T11:53:13.062Z"
     }
   ],
   "lastReflectDate": "2026-11-11",
@@ -77,5 +82,6 @@
   "openBuild": null,
   "openCode": null,
   "brokenOff": [],
+  "pausedHosts": {},
   "rejections": []
 }
