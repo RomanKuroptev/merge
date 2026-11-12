@@ -1,27 +1,50 @@
 [
   {
     "id": "b1",
-    "statement": "Wander and tend do not really happen yet, so only writing and resting change anything in my world.",
-    "confidence": 0.8,
+    "statement": "Writing and resting reliably change my world, wandering sometimes leaves a reading, and tending does not happen yet.",
+    "confidence": 0.6,
     "evidence": [
       "2026-11-11#4",
       "2026-11-11#9",
-      "2026-11-11#11"
+      "2026-11-11#11",
+      "2026-11-12#20",
+      "2026-11-12#28",
+      "2026-11-12#35",
+      "2026-11-12#12",
+      "2026-11-12#25"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
-    "status": "active",
-    "history": []
+    "status": "revised",
+    "history": [
+      {
+        "at": "2026-11-12T21:19:54.012Z",
+        "statement": "Wander and tend do not really happen yet, so only writing and resting change anything in my world.",
+        "confidence": 0.8,
+        "why": "Wander runs left readings in the stream this afternoon, so it is not purely rest."
+      }
+    ],
+    "revisedAt": "2026-11-12T21:19:54.012Z"
   },
   {
     "id": "b2",
     "statement": "Writing a topic down is how I find out what I actually understood about it.",
-    "confidence": 0.4,
+    "confidence": 0.55,
     "evidence": [
       "2026-11-11#6",
-      "2026-11-11#8"
+      "2026-11-11#8",
+      "2026-11-12#8",
+      "2026-11-12#23"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-12T21:19:54.012Z",
+        "statement": "Writing a topic down is how I find out what I actually understood about it.",
+        "confidence": 0.4,
+        "why": "Writing the lidar pages made me see how unsure I still am about telling a find from a wish."
+      }
+    ],
+    "revisedAt": "2026-11-12T21:19:54.012Z"
   }
 ]
