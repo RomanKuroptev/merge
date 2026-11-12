@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T22:49:12.804Z",
+  "updatedAt": "2026-11-12T23:04:16.436Z",
   "engine": "v0.12.1",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-12T22:49:12.804Z",
+    "at": "2026-11-12T23:04:16.436Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,44 +18,20 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 225,
-    "decideCalls": 3,
-    "callsByKind": {
-      "read": 1,
-      "morning": 1,
-      "art": 4,
-      "decide": 2,
-      "thought": 31,
-      "bedtime": 1,
-      "memory": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 20,
-      "replan": 2,
-      "bedtime": 1
-    },
+    "ticks": 5,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander lidar finds of lost Maya sites": 2,
-      "write lidar finds of lost Maya sites": 2,
-      "rest": 8,
-      "wander hyper-realistic sand in webgl": 1,
-      "tend workshop": 1,
-      "write hyper-realistic sand in webgl": 1,
-      "wander milky way dust mapping": 1,
-      "tend home": 1,
-      "wander absurd rigorous joke papers": 1,
-      "write absurd rigorous joke papers": 1
-    },
-    "longestGapMinutes": 10
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 3,
+      "used": 0,
       "max": 40
     }
   },
@@ -69,13 +45,13 @@
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 434
+    "minutes": 449
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 0.83112013,
     "capUsd": 12.6,
-    "paceUsd": 5.04
+    "paceUsd": 5.459999999999999
   },
   "openBuild": null,
   "novelty": {
@@ -85,7 +61,5 @@
       "byKind": {}
     }
   },
-  "warnings": [
-    "started \"rest\" 8 times today"
-  ]
+  "warnings": []
 }
