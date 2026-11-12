@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -25.46,
+    -8.74,
     0,
-    -2.25
+    27.29
   ],
   "mood": 0,
-  "energy": 0.25,
+  "energy": 0.45,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-12T05:00:00.100Z",
-    "seed": 1234673095,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "sit",
+    "startedAt": "2026-11-12T06:03:13.068Z",
+    "seed": 1967672373,
+    "reason": "I start with the lidar interest because it pulls hardest and I still do not understand it. Reading first, then writing, will show me what I actually grasped.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-12T05:03:14.451Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-12T06:03:13.068Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

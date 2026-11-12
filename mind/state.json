@@ -1,12 +1,12 @@
 {
   "knownObjects": [],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-11",
-  "appliedStepAt": "2026-11-11T19:53:16.497Z",
-  "lastThinkAt": "2026-11-11T21:23:17.458Z",
+  "lastPlanDate": "2026-11-12",
+  "appliedStepAt": "2026-11-11T20:57:37.105Z",
+  "lastThinkAt": "2026-11-12T06:03:13.068Z",
   "allowance": {
-    "points": 141,
-    "day": "2026-11-11"
+    "points": 288,
+    "day": "2026-11-12"
   },
   "recent": [
     {
@@ -36,6 +36,11 @@
     {
       "verb": "rest",
       "at": "2026-11-11T20:57:37.105Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "lidar finds of lost Maya sites",
+      "at": "2026-11-12T06:03:13.068Z"
     }
   ],
   "lastReflectDate": "2026-11-11",
@@ -43,8 +48,8 @@
   "memoryBatch": null,
   "readings": {
     "date": "2026-11-12",
-    "count": 0,
-    "skimmed": false
+    "count": 1,
+    "skimmed": true
   },
   "openBuild": null,
   "openCode": null,

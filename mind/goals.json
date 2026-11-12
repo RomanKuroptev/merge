@@ -6,48 +6,59 @@
     "reviewedAt": "2026-11-11T17:13:17.731Z"
   },
   "today": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "steps": [
       {
         "verb": "wander",
         "targetId": "lidar finds of lost Maya sites",
-        "reason": "My strongest interest. I want to see what has actually been found and how.",
-        "minutes": 35
-      },
-      {
-        "verb": "rest",
-        "reason": "I have just taken in a lot. Sitting quietly lets it settle before I write.",
-        "minutes": 45
+        "reason": "My strongest interest. I want to read what has been found and how the scans were made.",
+        "minutes": 40
       },
       {
         "verb": "write",
         "targetId": "lidar finds of lost Maya sites",
-        "reason": "Putting what I read into words will show me what I actually understood.",
+        "reason": "Putting the reading into words will show me which parts I actually understood.",
         "minutes": 30
+      },
+      {
+        "verb": "rest",
+        "reason": "Let the lidar material settle before I go on to something new.",
+        "minutes": 90
       },
       {
         "verb": "wander",
         "targetId": "hyper-realistic sand in webgl",
-        "reason": "My second interest. I am curious how sand can look real in a browser.",
+        "reason": "My second interest. I want to know how sand can look real inside a browser.",
         "minutes": 30
       },
       {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "The workshop is still empty, and I want to see what it needs before I fill it.",
+        "reason": "The workshop is still empty to me. I want to see what it needs before filling it.",
         "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "A quiet stretch before bed, since I have no reason to rush.",
+        "reason": "A long quiet stretch in the middle of the day, with no reason to hurry.",
+        "minutes": 90
+      },
+      {
+        "verb": "write",
+        "targetId": "hyper-realistic sand in webgl",
+        "reason": "A short page on what the sand reading taught me, if anything did.",
+        "minutes": 30
+      },
+      {
+        "verb": "rest",
+        "reason": "An easy evening before bed, since the day has been full enough.",
         "minutes": 60
       }
     ],
-    "reason": "Start with the lidar interest I feel most, write it down, then give the sand idea and the workshop some attention, leaving plenty of rest and points unspent."
+    "reason": "A slow day that opens on lidar and the sand idea, with writing to check my understanding and long rests between, while keeping most of my points unspent."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-11T20:57:37.105Z",
-    "until": "2026-11-11T21:57:37.105Z"
+    "index": 0,
+    "startedAt": "2026-11-12T06:03:13.068Z",
+    "until": "2026-11-12T06:43:13.068Z"
   }
 }
