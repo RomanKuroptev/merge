@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-12T21:02:44.916Z",
+  "updatedAt": "2026-11-12T21:18:08.348Z",
   "engine": "v0.12.1",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T21:02:44.916Z",
+    "at": "2026-11-12T21:18:08.348Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -23,14 +23,14 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 115,
+    "ticks": 131,
     "decideCalls": 3,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "art": 4,
       "decide": 2,
-      "thought": 8
+      "thought": 15
     },
     "triggersByKind": {
       "newDay": 1,
@@ -71,11 +71,11 @@
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 329
+    "minutes": 344
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.80875243,
+    "monthUsd": 0.80940682,
     "capUsd": 12.6,
     "paceUsd": 5.04
   },
@@ -88,7 +88,6 @@
     }
   },
   "warnings": [
-    "push failing",
     "started \"rest\" 8 times today"
   ]
 }
