@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-12T16:23:19.322Z",
+  "updatedAt": "2026-11-12T16:33:16.816Z",
   "engine": "v0.10.0",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T16:23:19.322Z",
+    "at": "2026-11-12T16:33:16.816Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/8: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-12:6793ff45",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-12T16:33:15.150Z",
+      "index": 4,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-12T17:03:16.816Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-12T13:23:14.389Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 71,
+    "ticks": 72,
     "decideCalls": 2,
     "callsByKind": {
       "read": 1,
@@ -33,7 +36,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 1
     },
     "failures": 0,
@@ -45,7 +48,8 @@
       "wander hyper-realistic sand in webgl": 1,
       "tend workshop": 1,
       "write hyper-realistic sand in webgl": 1,
-      "wander milky way dust mapping": 1
+      "wander milky way dust mapping": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 10
   },
@@ -60,12 +64,12 @@
     "topHost": null
   },
   "allowance": {
-    "points": 248,
+    "points": 246,
     "max": 450
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 50
+    "minutes": 60
   },
   "needsCritical": {},
   "spend": {
