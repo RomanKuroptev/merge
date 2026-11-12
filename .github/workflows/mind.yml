@@ -25,7 +25,7 @@ permissions:
 env:
   # The engine release this world runs on. Change it on purpose, after reading what changed.
   FORKLING_REPO: RomanKuroptev/forkling
-  FORKLING_REF: v0.9.0
+  FORKLING_REF: v0.10.0
 
 jobs:
   tick:
@@ -105,6 +105,8 @@ jobs:
         working-directory: engine
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Lifts GitHub's limit for reading repositories from 60 requests an hour; sent to api.github.com only.
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           # An unset secret arrives as an empty variable, which would still outrank federation.
           if [ -z "$ANTHROPIC_API_KEY" ]; then unset ANTHROPIC_API_KEY; fi
@@ -140,7 +142,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           changed=$(git diff --name-only HEAD~1 HEAD)
-          if echo "$changed" | grep -qE '^(journal/|art/|notebook/|memory/beliefs\.json|memory/timeline/|brain/interests\.json)'; then
+          if echo "$changed" | grep -qE '^(journal/|art/|notebook/|souvenirs/|trails/|memory/beliefs\.json|memory/timeline/|brain/interests\.json)'; then
             gh workflow run pages.yml || echo "could not start the website build (is pages.yml on this branch?)"
           elif echo "$changed" | grep -qE '^(forkling\.json|mind/goals\.json)$'; then
             # The home page shows where it is and what it is doing, so it follows those too, but at most once an hour:
