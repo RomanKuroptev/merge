@@ -2,7 +2,7 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-12",
-  "appliedStepAt": "2026-11-12T12:23:14.028Z",
+  "appliedStepAt": "2026-11-12T13:23:14.389Z",
   "lastThinkAt": "2026-11-12T13:23:14.389Z",
   "allowance": {
     "points": 278,
@@ -78,6 +78,10 @@
       "verb": "wander",
       "targetId": "milky way dust mapping",
       "at": "2026-11-12T13:23:14.389Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-12T14:03:15.360Z"
     }
   ],
   "lastReflectDate": "2026-11-11",
@@ -92,5 +96,14 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "trips": {
+    "date": "2026-11-12",
+    "reads": 1,
+    "trips": 1,
+    "looks": 0,
+    "starts": [
+      "milky way dust mapping"
+    ]
+  }
 }
