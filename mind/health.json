@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-12T15:33:15.150Z",
+  "updatedAt": "2026-11-12T15:43:14.525Z",
   "engine": "v0.10.0",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T15:33:15.150Z",
+    "at": "2026-11-12T15:43:14.525Z",
     "asleep": false,
-    "summary": "step 4/8: rest, wrote \"Telling a find from a wish\"",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,7 +23,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 66,
+    "ticks": 67,
     "decideCalls": 2,
     "callsByKind": {
       "read": 1,
@@ -67,7 +65,7 @@
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 0
+    "minutes": 10
   },
   "needsCritical": {},
   "spend": {
