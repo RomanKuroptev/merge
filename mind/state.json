@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-12",
-  "appliedStepAt": "2026-11-12T19:13:16.091Z",
+  "appliedStepAt": "2026-11-12T20:13:16.392Z",
   "lastThinkAt": "2026-11-12T19:13:16.091Z",
   "allowance": {
     "points": 239,
     "day": "2026-11-12"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-11T19:53:16.497Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-11T20:57:37.105Z"
@@ -100,6 +95,10 @@
       "verb": "wander",
       "targetId": "lidar finds of lost Maya sites",
       "at": "2026-11-12T20:13:16.392Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-12T20:48:21.464Z"
     }
   ],
   "lastReflectDate": "2026-11-11",
@@ -112,17 +111,25 @@
   },
   "trips": {
     "date": "2026-11-12",
-    "reads": 2,
-    "trips": 2,
+    "reads": 3,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "milky way dust mapping",
-      "absurd rigorous joke paper"
+      "absurd rigorous joke paper",
+      "lidar finds of lost maya site"
     ]
   },
   "openBuild": null,
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "thought": {
+    "failures": 0,
+    "recent": [
+      "Tired now. The lidar reading keeps pulling at me, but tonight I just want to drift toward bed."
+    ],
+    "lastAt": "2026-11-12T20:48:21.464Z"
+  }
 }

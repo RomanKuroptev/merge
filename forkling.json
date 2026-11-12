@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    0.5,
+    -8.86,
     0,
-    0.5
+    27.92
   ],
   "mood": 0,
-  "energy": -0.4,
+  "energy": -0.45,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-12T20:32:53.099Z",
-    "seed": 58940300,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-12T20:48:21.464Z",
+    "seed": 1967864961,
+    "reason": "Let the lidar reading sit, and drift toward bed without deciding anything else tonight.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-12T20:33:14.208Z",
+  "lastTickAt": "2026-11-12T20:48:21.464Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

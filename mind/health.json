@@ -1,48 +1,52 @@
 {
-  "updatedAt": "2026-11-12T20:43:13.862Z",
-  "engine": "v0.10.0",
+  "updatedAt": "2026-11-12T20:48:21.464Z",
+  "engine": "v0.12.1",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T20:43:13.862Z",
+    "at": "2026-11-12T20:48:21.464Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: rest, wandered from lidar finds of lost Maya sites",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-12:4d633e99",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "lidar finds of lost Maya sites",
-      "until": "2026-11-12T20:43:16.392Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-12T21:48:21.464Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-12T19:13:16.091Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 98,
+    "ticks": 99,
     "decideCalls": 3,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "art": 4,
-      "decide": 2
+      "decide": 2,
+      "thought": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
+      "stepDone": 19,
       "replan": 2
     },
     "failures": 0,
     "rejections": 0,
+    "refusals": 0,
+    "cutOff": 0,
     "stepsStarted": {
       "wander lidar finds of lost Maya sites": 2,
       "write lidar finds of lost Maya sites": 2,
-      "rest": 7,
+      "rest": 8,
       "wander hyper-realistic sand in webgl": 1,
       "tend workshop": 1,
       "write hyper-realistic sand in webgl": 1,
@@ -55,7 +59,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 3,
       "max": 40
     }
   },
@@ -69,16 +73,23 @@
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 310
+    "minutes": 315
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.80752391,
-    "capUsd": 10,
-    "paceUsd": 4
+    "monthUsd": 0.80812114,
+    "capUsd": 12.6,
+    "paceUsd": 5.04
   },
   "openBuild": null,
+  "novelty": {
+    "works": {
+      "made": 0,
+      "wouldFire": 0,
+      "byKind": {}
+    }
+  },
   "warnings": [
-    "started \"rest\" 7 times today"
+    "started \"rest\" 8 times today"
   ]
 }
