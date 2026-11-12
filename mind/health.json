@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-12T20:48:21.464Z",
+  "updatedAt": "2026-11-12T21:02:44.916Z",
   "engine": "v0.12.1",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T20:48:21.464Z",
+    "at": "2026-11-12T21:02:44.916Z",
     "asleep": false,
-    "summary": "step 3/3: rest, wandered from lidar finds of lost Maya sites",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,14 +23,14 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 99,
+    "ticks": 115,
     "decideCalls": 3,
     "callsByKind": {
       "read": 1,
       "morning": 1,
       "art": 4,
       "decide": 2,
-      "thought": 1
+      "thought": 8
     },
     "triggersByKind": {
       "newDay": 1,
@@ -73,11 +71,11 @@
   },
   "mood": {
     "label": "steady, tired",
-    "minutes": 315
+    "minutes": 329
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.80812114,
+    "monthUsd": 0.80875243,
     "capUsd": 12.6,
     "paceUsd": 5.04
   },
@@ -90,6 +88,7 @@
     }
   },
   "warnings": [
+    "push failing",
     "started \"rest\" 8 times today"
   ]
 }

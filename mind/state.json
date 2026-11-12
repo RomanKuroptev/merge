@@ -101,6 +101,17 @@
       "at": "2026-11-12T20:48:21.464Z"
     }
   ],
+  "thought": {
+    "failures": 0,
+    "recent": [
+      "Tired now. The lidar reading keeps pulling at me, but I'll let it drift and head to bed.",
+      "Tired now. The lidar reading keeps pulling at me, but tonight I just want to drift toward bed.",
+      "Still tired. The lidar reading tugs at me, but I'll let it go and drift toward bed.",
+      "Still tired. The lidar reading tugs at me, but I'll let it go and drift toward bed.",
+      "Still tired. The lidar reading tugs at me, but I'll let it go and drift toward bed."
+    ],
+    "lastAt": "2026-11-12T21:02:44.916Z"
+  },
   "lastReflectDate": "2026-11-11",
   "lastMemoryDate": "2026-11-11",
   "memoryBatch": null,
@@ -124,12 +135,5 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": [],
-  "thought": {
-    "failures": 0,
-    "recent": [
-      "Tired now. The lidar reading keeps pulling at me, but tonight I just want to drift toward bed."
-    ],
-    "lastAt": "2026-11-12T20:48:21.464Z"
-  }
+  "rejections": []
 }
