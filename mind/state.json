@@ -2,7 +2,7 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-12",
-  "appliedStepAt": "2026-11-12T08:53:14.105Z",
+  "appliedStepAt": "2026-11-12T09:23:16.824Z",
   "lastThinkAt": "2026-11-12T07:23:13.032Z",
   "allowance": {
     "points": 282,
@@ -60,6 +60,10 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-12T09:23:16.824Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-12T10:13:23.179Z"
     }
   ],
   "lastReflectDate": "2026-11-11",
