@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-12T11:13:16.825Z",
-  "engine": "v0.9.0",
+  "updatedAt": "2026-11-12T11:23:16.999Z",
+  "engine": "v0.10.0",
   "date": "2026-11-12",
   "lastTick": {
-    "at": "2026-11-12T11:13:16.825Z",
+    "at": "2026-11-12T11:23:16.999Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -23,7 +23,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 40,
+    "ticks": 41,
     "decideCalls": 1,
     "callsByKind": {
       "read": 1,
@@ -47,9 +47,13 @@
   },
   "quotas": {
     "readings": {
-      "used": 1,
-      "max": 5
+      "used": 0,
+      "max": 40
     }
+  },
+  "web": {
+    "pausedHosts": {},
+    "topHost": null
   },
   "allowance": {
     "points": 282,
@@ -57,7 +61,7 @@
   },
   "mood": {
     "label": "steady, steady",
-    "minutes": 140
+    "minutes": 150
   },
   "needsCritical": {},
   "spend": {
