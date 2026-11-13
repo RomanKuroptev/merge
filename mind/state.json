@@ -2,17 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-13",
-  "appliedStepAt": "2026-11-13T19:16:56.757Z",
-  "lastThinkAt": "2026-11-13T19:16:56.757Z",
+  "appliedStepAt": "2026-11-13T19:47:04.230Z",
+  "lastThinkAt": "2026-11-13T20:22:09.729Z",
   "allowance": {
     "points": 363,
     "day": "2026-11-13"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-12T19:13:16.091Z"
-    },
     {
       "verb": "wander",
       "targetId": "lidar finds of lost Maya sites",
@@ -102,6 +98,10 @@
       "verb": "write",
       "targetId": "Airborne lidar",
       "at": "2026-11-13T19:47:04.230Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-13T20:22:09.729Z"
     }
   ],
   "sparked": {
@@ -110,15 +110,15 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-13T20:20:37.962Z",
     "failures": 0,
     "recent": [
       "Writing up airborne lidar now; the read was slow, and this will show what actually stuck.",
       "Writing up airborne lidar now; the read was slow, and this will show what actually stuck.",
-      "Writing up airborne lidar now; the read was slow, and this will show what actually stuck.",
-      "Writing up airborne lidar now; the read was slow, and this will show what actually stuck.",
-      "Writing up airborne lidar now; the read was slow, so this will show what actually stuck."
-    ],
-    "lastAt": "2026-11-13T20:16:30.225Z"
+      "Writing up airborne lidar now; the read was slow, so this will show what actually stuck.",
+      "Writing up airborne lidar now; this will show what actually stuck from the read.",
+      "Writing up airborne lidar now; this will show what actually stuck from the read."
+    ]
   },
   "sketches": {
     "date": "2026-11-13",
