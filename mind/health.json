@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-13T18:16:56.040Z",
+  "updatedAt": "2026-11-13T18:32:05.518Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T18:16:56.040Z",
+    "at": "2026-11-13T18:32:05.518Z",
     "asleep": false,
-    "summary": "step 6/6: rest, wrote \"Finds That Hold Up Under Their Own Weight\"",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,10 +23,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1176,
+    "ticks": 1191,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 169,
+      "thought": 177,
       "morning": 1,
       "read": 6,
       "decide": 4,
@@ -74,11 +72,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 129
+    "minutes": 144
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.86358255,
+    "monthUsd": 0.86436241,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
