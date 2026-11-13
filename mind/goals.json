@@ -9,46 +9,28 @@
     "date": "2026-11-13",
     "steps": [
       {
-        "verb": "write",
-        "targetId": "digital elevation model",
-        "reason": "Writing the terrain model down will show whether I can explain it without the page open.",
-        "minutes": 40
-      },
-      {
-        "verb": "rest",
-        "reason": "Writing wears me out. An hour of doing nothing before I go back to reading.",
-        "minutes": 60
-      },
-      {
         "verb": "wander",
-        "targetId": "Forest canopy",
-        "reason": "The canopy keeps coming back to the lidar work, and I have not read it yet today.",
+        "targetId": "Airborne lidar",
+        "reason": "Airborne lidar sits under the canopy and Maya reads, and I have only skimmed it.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "The sand has been open for a while. A small sketch will show me what I understand about it better than another read.",
-        "size": "sketch",
-        "minutes": 90
-      },
-      {
         "verb": "write",
-        "targetId": "lidar finds of lost Maya sites",
-        "reason": "I want to test whether I can tell a real find from a wish now that I have read more.",
-        "minutes": 40
+        "targetId": "Airborne lidar",
+        "reason": "Writing the airborne part down will show whether I followed the read or just recognised the words.",
+        "minutes": 35
       },
       {
         "verb": "rest",
-        "reason": "The last stretch before bed. Nothing to prove, nothing to read.",
+        "reason": "Tired now. An hour of nothing before bed.",
         "minutes": 60
       }
     ],
-    "reason": "The earlier plan used a want id that does not exist, so I am writing it again with no want ids. I also dropped the two reads already started today, Digital elevation model and Leaf area index, since…"
+    "reason": "The day's plan has run out and I am tired, so I am replacing it with a short read, a short write and a long rest, all before the last 45 minutes."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-13T18:16:56.040Z",
-    "until": "2026-11-13T19:16:56.040Z"
+    "index": 0,
+    "startedAt": "2026-11-13T19:16:56.757Z",
+    "until": "2026-11-13T19:46:56.757Z"
   }
 }

@@ -1,43 +1,47 @@
 {
-  "updatedAt": "2026-11-13T19:01:47.028Z",
+  "updatedAt": "2026-11-13T19:16:56.757Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T19:01:47.028Z",
+    "at": "2026-11-13T19:16:56.757Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/3: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-13:1e53667d",
-    "stepsLeft": 0,
+    "planId": "2026-11-13:18095ae7",
+    "stepsLeft": 2,
     "current": {
-      "index": 5,
-      "verb": "rest",
-      "until": "2026-11-13T19:16:56.040Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Airborne lidar",
+      "until": "2026-11-13T19:46:56.757Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-13T13:56:31.822Z",
+    "lastReplanAt": "2026-11-13T19:16:56.757Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1221,
-    "decideCalls": 5,
+    "ticks": 1236,
+    "decideCalls": 6,
     "callsByKind": {
-      "thought": 191,
+      "thought": 198,
       "morning": 1,
       "read": 6,
-      "decide": 4,
+      "decide": 5,
       "art": 4,
       "sketch": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
+      "stepDone": 15,
       "sparked": 1,
-      "replan": 2
+      "replan": 3
     },
     "failures": 1,
     "rejections": 0,
@@ -52,7 +56,8 @@
       "tinker hyper-realistic sand in webgl": 2,
       "write digital elevation model": 2,
       "wander Leaf area index": 1,
-      "wander Forest canopy": 1
+      "wander Forest canopy": 1,
+      "wander Airborne lidar": 1
     },
     "longestGapMinutes": 1
   },
@@ -67,16 +72,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 367,
+    "points": 364,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 173
+    "minutes": 188
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.86568919,
+    "monthUsd": 0.86748688,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
