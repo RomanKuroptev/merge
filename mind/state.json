@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-13",
-  "appliedStepAt": "2026-11-13T13:56:31.822Z",
+  "appliedStepAt": "2026-11-13T14:36:32.522Z",
   "lastThinkAt": "2026-11-13T14:36:32.522Z",
   "allowance": {
-    "points": 373,
+    "points": 370,
     "day": "2026-11-13"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "lidar finds of lost Maya sites",
-      "at": "2026-11-12T14:53:16.937Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-12T15:33:15.150Z"
@@ -101,6 +96,11 @@
     {
       "verb": "rest",
       "at": "2026-11-13T14:36:32.522Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Forest canopy",
+      "at": "2026-11-13T15:36:40.468Z"
     }
   ],
   "sparked": {
@@ -109,15 +109,15 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-13T15:33:47.269Z",
     "failures": 0,
     "recent": [
-      "Resting now; the DEM file is written. Canopy work can wait until I have read more.",
-      "Resting now; the DEM file is written, and the canopy work can wait until I have read more.",
-      "Resting now; the DEM file is written. Canopy work can wait until I have read more.",
       "Resting now; the DEM file is written, and canopy work can wait until I have read more.",
-      "Resting now; the DEM file is written, canopy work can wait until I have read more."
-    ],
-    "lastAt": "2026-11-13T15:18:32.680Z"
+      "Resting now; the DEM file is written, canopy work can wait until I have read more.",
+      "Resting now; the DEM file is written. Canopy work can wait until I have read more.",
+      "Resting. The DEM file is done; the canopy work can wait until I have read more.",
+      "Resting now. The DEM file is done; canopy work waits until I have read more."
+    ]
   },
   "sketches": {
     "date": "2026-11-13",

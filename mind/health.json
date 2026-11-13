@@ -1,32 +1,35 @@
 {
-  "updatedAt": "2026-11-13T15:21:35.315Z",
+  "updatedAt": "2026-11-13T15:36:40.468Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T15:21:35.315Z",
+    "at": "2026-11-13T15:36:40.468Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/6: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-13:1e53667d",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "rest",
-      "until": "2026-11-13T15:36:32.522Z",
+      "index": 2,
+      "verb": "wander",
+      "targetId": "Forest canopy",
+      "until": "2026-11-13T16:06:40.468Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-13T13:56:31.822Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 996,
+    "ticks": 1012,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 112,
+      "thought": 115,
       "morning": 1,
       "read": 6,
       "decide": 4,
@@ -35,7 +38,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "sparked": 1,
       "replan": 2
     },
@@ -51,7 +54,8 @@
       "wander Digital elevation model": 1,
       "tinker hyper-realistic sand in webgl": 1,
       "write digital elevation model": 2,
-      "wander Leaf area index": 1
+      "wander Leaf area index": 1,
+      "wander Forest canopy": 1
     },
     "longestGapMinutes": 1
   },
@@ -66,16 +70,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 373,
+    "points": 370,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 337
+    "minutes": 352
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.85559808,
+    "monthUsd": 0.85586029,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
