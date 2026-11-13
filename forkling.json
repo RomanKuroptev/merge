@@ -8,15 +8,16 @@
     -3.37
   ],
   "mood": 0.3,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-13T14:22:42.426Z",
-    "seed": 1382279226,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-13T14:36:32.522Z",
+    "seed": 1967799012,
+    "reason": "Writing wears me out. An hour of doing nothing before I go back to reading.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-13T14:22:49.694Z",
+  "lastTickAt": "2026-11-13T14:36:32.522Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
