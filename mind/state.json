@@ -1,18 +1,14 @@
 {
   "knownObjects": [],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-12",
+  "lastPlanDate": "2026-11-13",
   "appliedStepAt": "2026-11-12T20:48:21.464Z",
-  "lastThinkAt": "2026-11-12T21:19:54.012Z",
+  "lastThinkAt": "2026-11-13T05:50:39.006Z",
   "allowance": {
-    "points": 239,
-    "day": "2026-11-12"
+    "points": 386,
+    "day": "2026-11-13"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-11T20:57:37.105Z"
-    },
     {
       "verb": "wander",
       "targetId": "lidar finds of lost Maya sites",
@@ -99,10 +95,14 @@
     {
       "verb": "rest",
       "at": "2026-11-12T20:48:21.464Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Airborne laser scanning",
+      "at": "2026-11-13T05:50:39.006Z"
     }
   ],
   "thought": {
-    "lastAt": "2026-11-12T21:49:44.406Z",
     "failures": 0,
     "recent": [
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
@@ -110,7 +110,8 @@
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed."
-    ]
+    ],
+    "lastAt": "2026-11-13T05:50:39.006Z"
   },
   "lastReflectDate": "2026-11-12",
   "lastMemoryDate": "2026-11-12",
@@ -135,5 +136,6 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "interestsFadedOn": "2026-11-13"
 }

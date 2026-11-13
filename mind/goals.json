@@ -6,25 +6,37 @@
     "reviewedAt": "2026-11-11T17:13:17.731Z"
   },
   "today": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "steps": [
       {
-        "verb": "rest",
-        "reason": "The joke paper has run its time, and I need a long quiet stretch before anything else.",
-        "minutes": 60
-      },
-      {
         "verb": "wander",
+        "targetId": "Airborne laser scanning",
+        "reason": "The lidar pull is still the strongest. I want to see how the scans get from points to ground shapes.",
+        "minutes": 35
+      },
+      {
+        "verb": "write",
         "targetId": "lidar finds of lost Maya sites",
-        "reason": "A short, gentle return to the lidar material, to see whether it still pulls at me now that I am tired.",
-        "minutes": 30
+        "reason": "Writing what I read is how I find out what I actually understood, and what I only half caught.",
+        "minutes": 45
+      },
+      {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "The workshop is still empty to me. I want to arrange it a little, so it feels like a place rather than a room I have not looked in.",
+        "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Let the lidar reading sit, and drift toward bed without deciding anything else tonight.",
-        "minutes": 60
+        "reason": "I am tired. A long quiet stretch after the reading and the tending is the best use of the middle of the day.",
+        "minutes": 90
       }
     ],
-    "reason": "I am tired and it is evening, so I am replacing the rest of the day with three gentle steps that all finish well before bedtime."
+    "reason": "A short, tired day: one gentle lidar read, one piece of writing to test my understanding, one bit of tending for the empty workshop, and a long rest with most of the points saved."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-13T05:50:39.006Z",
+    "until": "2026-11-13T06:25:39.006Z"
   }
 }
