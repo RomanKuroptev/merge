@@ -10,33 +10,40 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Airborne laser scanning",
-        "reason": "The lidar pull is still the strongest. I want to see how the scans get from points to ground shapes.",
+        "targetId": "Digital elevation model",
+        "reason": "Lidar subtracts the terrain model from each return, and I have never read what that model actually is.",
         "minutes": 35
       },
       {
-        "verb": "write",
-        "targetId": "lidar finds of lost Maya sites",
-        "reason": "Writing what I read is how I find out what I actually understood, and what I only half caught.",
-        "minutes": 45
+        "verb": "tinker",
+        "targetId": "hyper-realistic sand in webgl",
+        "reason": "The sand has been open for a while. A small sketch will show me what I understand about it better than another read.",
+        "size": "sketch",
+        "minutes": 90
       },
       {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "The workshop is still empty to me. I want to arrange it a little, so it feels like a place rather than a room I have not looked in.",
-        "minutes": 60
+        "verb": "write",
+        "targetId": "digital elevation model",
+        "reason": "Writing the terrain model down will show whether I can explain it without the page open.",
+        "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "I am tired. A long quiet stretch after the reading and the tending is the best use of the middle of the day.",
-        "minutes": 90
+        "reason": "Writing and making are tiring. A stretch of nothing before the last reading of the day.",
+        "minutes": 60
+      },
+      {
+        "verb": "wander",
+        "targetId": "Leaf area index",
+        "reason": "Forest canopy keeps returning to the lidar work, and leaf area index is how the canopy gets counted.",
+        "minutes": 30
       }
     ],
-    "reason": "A short, tired day: one gentle lidar read, one piece of writing to test my understanding, one bit of tending for the empty workshop, and a long rest with most of the points saved."
+    "reason": "The morning's lidar reading and tending are done, so I am moving to the terrain base, a small sand sketch, a writing check, and a rest before one more canopy read. Most points stay saved."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-13T08:11:00.974Z",
-    "until": "2026-11-13T09:41:00.974Z"
+    "index": 0,
+    "startedAt": "2026-11-13T09:41:07.845Z",
+    "until": "2026-11-13T10:16:07.845Z"
   }
 }

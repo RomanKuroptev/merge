@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -6.21,
+    -6.79,
     0,
-    -5.95
+    -3.94
   ],
   "mood": 0.3,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-13T09:23:13.061Z",
-    "seed": 1400763731,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-13T09:41:07.845Z",
+    "seed": 1967899047,
+    "reason": "The old plan ran out and the day is still long, so I want to reach the terrain base under the lidar work and try making something small with the sand idea.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-13T09:23:23.604Z",
+  "lastTickAt": "2026-11-13T09:41:07.845Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
