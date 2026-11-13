@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 0.85586029,
+  "spentUsd": 0.8561511,
   "calls": [
-    {
-      "at": "2026-11-01T17:23:16.222Z",
-      "kind": "art",
-      "model": "claude-haiku-5-5",
-      "input": 483,
-      "cacheRead": 0,
-      "cacheWrite": 4047,
-      "output": 427,
-      "usd": 0.000767675
-    },
-    {
-      "at": "2026-11-01T17:53:54.475Z",
-      "kind": "vision",
-      "model": "claude-haiku-5-5",
-      "input": 689,
-      "cacheRead": 0,
-      "cacheWrite": 4073,
-      "output": 144,
-      "usd": 0.0006500249999999999
-    },
-    {
-      "at": "2026-11-01T18:43:14.776Z",
-      "kind": "art",
-      "model": "claude-haiku-5-5",
-      "input": 442,
-      "cacheRead": 0,
-      "cacheWrite": 4089,
-      "output": 280,
-      "usd": 0.000695325
-    },
     {
       "at": "2026-11-01T18:43:14.776Z",
       "kind": "decide",
@@ -5003,16 +4973,46 @@
       "cacheWrite": 0,
       "output": 57,
       "usd": 0.00008677
+    },
+    {
+      "at": "2026-11-13T15:38:53.462Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 452,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 77,
+      "usd": 0.00010507000000000001
+    },
+    {
+      "at": "2026-11-13T15:43:57.464Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 381,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 66,
+      "usd": 0.00009247
+    },
+    {
+      "at": "2026-11-13T15:49:00.460Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 389,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 66,
+      "usd": 0.00009327
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 146,
-      "input": 59845,
-      "cacheRead": 305591,
+      "calls": 149,
+      "input": 61067,
+      "cacheRead": 312002,
       "cacheWrite": 6411,
-      "output": 9889,
-      "usd": 0.01478629
+      "output": 10098,
+      "usd": 0.0150771
     },
     "bedtime": {
       "calls": 1,
