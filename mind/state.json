@@ -3,7 +3,7 @@
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-13",
   "appliedStepAt": "2026-11-13T05:50:39.006Z",
-  "lastThinkAt": "2026-11-13T05:50:39.006Z",
+  "lastThinkAt": "2026-11-13T06:26:17.220Z",
   "allowance": {
     "points": 385,
     "day": "2026-11-13"
@@ -102,8 +102,12 @@
       "at": "2026-11-13T06:25:44.992Z"
     }
   ],
+  "sparked": {
+    "date": "2026-11-13",
+    "count": 1,
+    "pending": null
+  },
   "thought": {
-    "lastAt": "2026-11-13T06:21:12.398Z",
     "failures": 0,
     "recent": [
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
@@ -111,7 +115,8 @@
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed."
-    ]
+    ],
+    "lastAt": "2026-11-13T06:36:25.904Z"
   },
   "interestsFadedOn": "2026-11-13",
   "lastReflectDate": "2026-11-12",
@@ -135,13 +140,5 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": [],
-  "sparked": {
-    "date": "2026-11-13",
-    "count": 0,
-    "pending": {
-      "topic": "digital elevation model",
-      "gain": 28
-    }
-  }
+  "rejections": []
 }
