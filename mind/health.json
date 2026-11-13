@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-13T13:56:31.822Z",
+  "updatedAt": "2026-11-13T14:11:41.035Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T13:56:31.822Z",
+    "at": "2026-11-13T14:11:41.035Z",
     "asleep": false,
-    "summary": "wandered from Leaf area index, thought about replan, step 1/6: write, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 908,
+    "ticks": 924,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 95,
+      "thought": 98,
       "morning": 1,
       "read": 6,
       "decide": 4,
@@ -75,11 +72,11 @@
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 252
+    "minutes": 268
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.85355339,
+    "monthUsd": 0.8538655,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
