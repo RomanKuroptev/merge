@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 0.85533397,
+  "spentUsd": 0.85559808,
   "calls": [
-    {
-      "at": "2026-11-01T12:43:15.462Z",
-      "kind": "decide",
-      "model": "claude-haiku-5-5",
-      "input": 4045,
-      "cacheRead": 0,
-      "cacheWrite": 4978,
-      "output": 101,
-      "usd": 0.00107725
-    },
-    {
-      "at": "2026-11-01T13:13:13.292Z",
-      "kind": "decide",
-      "model": "claude-haiku-5-5",
-      "input": 4049,
-      "cacheRead": 0,
-      "cacheWrite": 4978,
-      "output": 476,
-      "usd": 0.00126515
-    },
-    {
-      "at": "2026-11-01T13:43:13.621Z",
-      "kind": "decide",
-      "model": "claude-haiku-5-5",
-      "input": 3940,
-      "cacheRead": 0,
-      "cacheWrite": 4978,
-      "output": 334,
-      "usd": 0.00118325
-    },
     {
       "at": "2026-11-01T14:03:17.071Z",
       "kind": "decide",
@@ -5003,16 +4973,46 @@
       "cacheWrite": 0,
       "output": 60,
       "usd": 0.00008897
+    },
+    {
+      "at": "2026-11-13T15:08:25.377Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 374,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 59,
+      "usd": 0.00008827
+    },
+    {
+      "at": "2026-11-13T15:13:28.452Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 373,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 59,
+      "usd": 0.00008817
+    },
+    {
+      "at": "2026-11-13T15:18:32.680Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 373,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 58,
+      "usd": 0.00008767
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 140,
-      "input": 57614,
-      "cacheRead": 292769,
+      "calls": 143,
+      "input": 58734,
+      "cacheRead": 299180,
       "cacheWrite": 6411,
-      "output": 9539,
-      "usd": 0.01425997
+      "output": 9715,
+      "usd": 0.01452408
     },
     "bedtime": {
       "calls": 1,
