@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-13",
-  "appliedStepAt": "2026-11-12T20:48:21.464Z",
+  "appliedStepAt": "2026-11-13T05:50:39.006Z",
   "lastThinkAt": "2026-11-13T05:50:39.006Z",
   "allowance": {
-    "points": 386,
+    "points": 385,
     "day": "2026-11-13"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "lidar finds of lost Maya sites",
-      "at": "2026-11-12T06:03:13.068Z"
-    },
     {
       "verb": "write",
       "targetId": "lidar finds of lost Maya sites",
@@ -100,9 +95,15 @@
       "verb": "wander",
       "targetId": "Airborne laser scanning",
       "at": "2026-11-13T05:50:39.006Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "lidar finds of lost Maya sites",
+      "at": "2026-11-13T06:25:44.992Z"
     }
   ],
   "thought": {
+    "lastAt": "2026-11-13T06:21:12.398Z",
     "failures": 0,
     "recent": [
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
@@ -110,8 +111,7 @@
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed.",
       "Still drifting. The lidar reading lingers, but I'll let it go and head for bed."
-    ],
-    "lastAt": "2026-11-13T06:16:06.797Z"
+    ]
   },
   "interestsFadedOn": "2026-11-13",
   "lastReflectDate": "2026-11-12",
@@ -123,19 +123,25 @@
     "skimmed": true
   },
   "trips": {
-    "date": "2026-11-12",
-    "reads": 3,
-    "trips": 3,
+    "date": "2026-11-13",
+    "reads": 6,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "milky way dust mapping",
-      "absurd rigorous joke paper",
-      "lidar finds of lost maya site"
+      "airborne laser scanning"
     ]
   },
   "openBuild": null,
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "sparked": {
+    "date": "2026-11-13",
+    "count": 0,
+    "pending": {
+      "topic": "digital elevation model",
+      "gain": 28
+    }
+  }
 }
