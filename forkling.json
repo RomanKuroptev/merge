@@ -8,15 +8,16 @@
     -3.94
   ],
   "mood": 0.3,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-13T13:06:42.313Z",
-    "seed": 82942215,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-13T13:26:23.345Z",
+    "seed": 1967789419,
+    "reason": "Forest canopy keeps returning to the lidar work, and leaf area index is how the canopy gets counted.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-13T13:06:45.428Z",
+  "lastTickAt": "2026-11-13T13:26:23.345Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
