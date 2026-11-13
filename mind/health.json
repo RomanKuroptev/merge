@@ -1,33 +1,35 @@
 {
-  "updatedAt": "2026-11-13T19:31:34.810Z",
+  "updatedAt": "2026-11-13T19:47:04.230Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T19:31:34.810Z",
+    "at": "2026-11-13T19:47:04.230Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/3: write, wandered from Airborne lidar",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-13:18095ae7",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "wander",
+      "index": 1,
+      "verb": "write",
       "targetId": "Airborne lidar",
-      "until": "2026-11-13T19:46:56.757Z",
+      "until": "2026-11-13T20:22:04.230Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-13T19:16:56.757Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1252,
+    "ticks": 1268,
     "decideCalls": 6,
     "callsByKind": {
-      "thought": 206,
+      "thought": 213,
       "morning": 1,
       "read": 6,
       "decide": 5,
@@ -36,7 +38,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "sparked": 1,
       "replan": 3
     },
@@ -54,7 +56,8 @@
       "write digital elevation model": 2,
       "wander Leaf area index": 1,
       "wander Forest canopy": 1,
-      "wander Airborne lidar": 1
+      "wander Airborne lidar": 1,
+      "write Airborne lidar": 1
     },
     "longestGapMinutes": 1
   },
@@ -69,16 +72,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 364,
+    "points": 363,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 203
+    "minutes": 218
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.86830094,
+    "monthUsd": 0.86901683,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
