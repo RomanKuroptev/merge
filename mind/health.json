@@ -1,40 +1,43 @@
 {
-  "updatedAt": "2026-11-13T06:55:41.192Z",
+  "updatedAt": "2026-11-13T07:10:51.519Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T06:55:41.192Z",
+    "at": "2026-11-13T07:10:51.519Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/4: tend, wrote \"What the laser saw under the trees\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-13:46b24848",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "lidar finds of lost Maya sites",
-      "until": "2026-11-13T07:10:44.992Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-13T08:10:51.519Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-13T05:50:39.006Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 477,
+    "ticks": 493,
     "decideCalls": 2,
     "callsByKind": {
-      "thought": 13,
+      "thought": 16,
       "morning": 1,
       "read": 6,
-      "decide": 1
+      "decide": 1,
+      "art": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1,
+      "stepDone": 2,
       "sparked": 1
     },
     "failures": 0,
@@ -43,7 +46,8 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander Airborne laser scanning": 1,
-      "write lidar finds of lost Maya sites": 1
+      "write lidar finds of lost Maya sites": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 1
   },
@@ -58,16 +62,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 385,
+    "points": 383,
     "max": 450
   },
   "mood": {
     "label": "good, rested",
-    "minutes": 30
+    "minutes": 45
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.83823598,
+    "monthUsd": 0.83895089,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
