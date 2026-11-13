@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-13T17:21:31.345Z",
+  "updatedAt": "2026-11-13T17:36:49.642Z",
   "engine": "v0.12.1",
   "date": "2026-11-13",
   "lastTick": {
-    "at": "2026-11-13T17:21:31.345Z",
+    "at": "2026-11-13T17:36:49.642Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/6: write, sketched \"Grain under a low sun\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-13:1e53667d",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 3,
-      "verb": "tinker",
-      "targetId": "hyper-realistic sand in webgl",
-      "until": "2026-11-13T17:36:46.047Z",
+      "index": 4,
+      "verb": "write",
+      "targetId": "lidar finds of lost Maya sites",
+      "until": "2026-11-13T18:16:49.642Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-13T13:56:31.822Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1119,
+    "ticks": 1135,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 142,
+      "thought": 150,
       "morning": 1,
       "read": 6,
       "decide": 4,
       "art": 3,
-      "sketch": 1
+      "sketch": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "sparked": 1,
       "replan": 2
     },
@@ -46,7 +48,7 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander Airborne laser scanning": 1,
-      "write lidar finds of lost Maya sites": 1,
+      "write lidar finds of lost Maya sites": 2,
       "tend workshop": 1,
       "rest": 3,
       "wander Digital elevation model": 1,
@@ -68,26 +70,26 @@
     "topHost": null
   },
   "allowance": {
-    "points": 368,
+    "points": 367,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 75
+    "minutes": 90
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.85849418,
+    "monthUsd": 0.86130542,
     "capUsd": 12.6,
     "paceUsd": 5.459999999999999
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 1,
+      "made": 2,
       "wouldFire": 0,
       "byKind": {
-        "art": 1
+        "art": 2
       }
     }
   },
