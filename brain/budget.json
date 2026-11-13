@@ -2,7 +2,7 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 0.84122547,
+  "spentUsd": 0.84151088,
   "calls": [
     {
       "at": "2026-10-31T23:03:17.820Z",
@@ -4363,16 +4363,46 @@
       "cacheWrite": 0,
       "output": 66,
       "usd": 0.00009467
+    },
+    {
+      "at": "2026-11-13T09:13:17.250Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 405,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 66,
+      "usd": 0.00009487
+    },
+    {
+      "at": "2026-11-13T09:18:20.462Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 407,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 66,
+      "usd": 0.00009507000000000001
+    },
+    {
+      "at": "2026-11-13T09:23:23.604Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 411,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 66,
+      "usd": 0.00009546999999999999
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 71,
-      "input": 28957,
-      "cacheRead": 147453,
+      "calls": 74,
+      "input": 30180,
+      "cacheRead": 153864,
       "cacheWrite": 4274,
-      "output": 4971,
-      "usd": 0.00738999
+      "output": 5169,
+      "usd": 0.0076754
     },
     "bedtime": {
       "calls": 1,
