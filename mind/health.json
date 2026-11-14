@@ -1,39 +1,42 @@
 {
-  "updatedAt": "2026-11-14T10:23:43.875Z",
+  "updatedAt": "2026-11-14T10:33:06.165Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T10:23:43.875Z",
+    "at": "2026-11-14T10:33:06.165Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, left write, step 1/5: rest, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-14:a2ebfb55",
-    "stepsLeft": 2,
+    "planId": "2026-11-14:9e482ea0",
+    "stepsLeft": 4,
     "current": {
-      "index": 5,
-      "verb": "write",
-      "targetId": "Leaf area index",
-      "until": "2026-11-14T10:34:20.387Z",
+      "index": 0,
+      "verb": "rest",
+      "until": "2026-11-14T11:03:06.165Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-14T06:33:58.159Z",
+    "lastReplanAt": "2026-11-14T10:33:06.165Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 688,
-    "decideCalls": 1,
+    "ticks": 699,
+    "decideCalls": 2,
     "callsByKind": {
-      "thought": 46,
+      "thought": 48,
       "morning": 1,
-      "art": 1
+      "art": 1,
+      "decide": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 5
+      "stepDone": 5,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -43,7 +46,7 @@
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
       "tend home": 1,
-      "rest": 1,
+      "rest": 2,
       "wander Leaf area index": 1,
       "write Leaf area index": 1
     },
@@ -65,11 +68,11 @@
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 68
+    "minutes": 77
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.92849239,
+    "monthUsd": 0.92981583,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },

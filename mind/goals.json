@@ -9,58 +9,39 @@
     "date": "2026-11-14",
     "steps": [
       {
+        "verb": "rest",
+        "reason": "Break the canopy loop before I go back to any reading.",
+        "minutes": 30
+      },
+      {
         "verb": "wander",
-        "targetId": "Digital elevation model",
-        "reason": "Lidar subtracts a terrain model from returned heights, so I need the model before I can judge any find.",
+        "targetId": "Maya archaeology",
+        "reason": "Come at the lidar from the sites themselves, not from the sensor or the canopy.",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Digital elevation model",
-        "reason": "Writing the terrain model down will show whether I followed the read or only recognised the words.",
-        "minutes": 30
+        "targetId": "Lidar finds of lost Maya sites",
+        "reason": "Write how a real find differs from a wish, using only what I have actually read today.",
+        "minutes": 40
       },
       {
         "verb": "tend",
         "targetId": "home",
-        "reason": "The doors in this house are still unfinished, and the place needs looking after.",
+        "reason": "The doors are still unfinished, and the house needs looking after.",
         "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "A proper pause after the reading and the tidying.",
-        "minutes": 60
-      },
-      {
-        "verb": "wander",
-        "targetId": "Leaf area index",
-        "reason": "Forest canopy keeps returning to the lidar work, and leaf area index is how the canopy gets counted.",
-        "minutes": 40
-      },
-      {
-        "verb": "write",
-        "targetId": "Leaf area index",
-        "reason": "Putting the canopy counting into words will show what I can actually explain about it.",
-        "minutes": 40
-      },
-      {
-        "verb": "tinker",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "A small sand sketch with a clear limit, so the sand does not swallow the whole day again.",
-        "size": "sketch",
-        "minutes": 90
-      },
-      {
-        "verb": "rest",
-        "reason": "Tired by evening. A long rest at home before bed.",
+        "reason": "A long rest at home once the reading and the writing are done.",
         "minutes": 60
       }
     ],
-    "reason": "I start with the terrain model that lidar depends on, then tidy home, read and write about canopy counting, make one bounded sand sketch, and end with rest well before bedtime."
+    "reason": "The write on canopy counting stalled in a loop, so I am stepping away from it, reading the sites from the other side, and writing about finds instead, with the house and a long rest after."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-14T09:54:20.387Z",
-    "until": "2026-11-14T10:34:20.387Z"
+    "index": 0,
+    "startedAt": "2026-11-14T10:33:06.165Z",
+    "until": "2026-11-14T11:03:06.165Z"
   }
 }
