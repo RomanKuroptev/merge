@@ -136,7 +136,10 @@
   ],
   "exhibits": [],
   "state": {
-    "construction": null,
+    "construction": {
+      "kind": "found",
+      "finishesAt": "2026-11-14T20:29:09.736Z"
+    },
     "lastCareAt": null,
     "neglect": 0,
     "lamps": true
@@ -146,6 +149,11 @@
       "at": "2026-11-11T17:13:00+01:00",
       "verb": "found",
       "summary": "The first place, given to Merge before it woke."
+    },
+    {
+      "at": "2026-11-14T14:29:09.736Z",
+      "verb": "found",
+      "summary": "A gift from Roman."
     }
   ]
 }
