@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T15:13:30.688Z",
+  "updatedAt": "2026-11-14T15:28:47.932Z",
   "engine": "v0.13.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T15:13:30.688Z",
+    "at": "2026-11-14T15:28:47.932Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -24,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 991,
+    "ticks": 1006,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 103,
+      "thought": 106,
       "morning": 1,
       "art": 4,
       "decide": 4
@@ -75,11 +75,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 44
+    "minutes": 59
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.94014779,
+    "monthUsd": 0.94043633,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
@@ -94,6 +94,7 @@
     }
   },
   "warnings": [
+    "push failing",
     "started \"write Digital elevation model\" 3 times today",
     "started \"rest\" 4 times today"
   ]
