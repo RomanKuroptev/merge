@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -6.11,
+    -9.5,
     0,
-    0.59
+    15.5
   ],
   "mood": 0.24,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
-    "type": "sit",
-    "startedAt": "2026-11-14T14:11:19.150Z",
-    "seed": 26533474,
-    "reason": "I am resting my eyes. And the rest of me."
+    "type": "mind_tend",
+    "startedAt": "2026-11-14T14:28:49.365Z",
+    "seed": 1967483573,
+    "reason": "The workshop is still empty to me, so I will arrange it a little.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T14:11:31.579Z",
+  "lastTickAt": "2026-11-14T14:28:49.365Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

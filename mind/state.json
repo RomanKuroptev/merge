@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T12:58:30.805Z",
-  "lastThinkAt": "2026-11-14T13:58:39.318Z",
+  "appliedStepAt": "2026-11-14T13:58:39.318Z",
+  "lastThinkAt": "2026-11-14T14:28:49.365Z",
   "allowance": {
-    "points": 433,
+    "points": 431,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Forest canopy",
-      "at": "2026-11-13T15:36:40.468Z"
-    },
     {
       "verb": "tinker",
       "targetId": "hyper-realistic sand in webgl",
@@ -102,6 +97,11 @@
       "verb": "write",
       "targetId": "Digital elevation model",
       "at": "2026-11-14T13:58:39.318Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-14T14:28:49.365Z"
     }
   ],
   "sparked": {
@@ -110,20 +110,23 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T14:26:46.305Z",
     "failures": 0,
-    "recent": [
-      "Still resting at home, doors half-done. Letting the rest run; the house can wait.",
-      "Still resting, doors half-done. Letting the rest run; the house can wait until I've had my nap.",
-      "Writing the DEM note now. Lidar and sand can wait; grounding the terrain first.",
-      "Writing the DEM note now. Grounding the terrain first, then the doors can wait.",
-      "Writing the DEM note now. Grounding the terrain first; the doors can wait."
-    ],
-    "lastAt": "2026-11-14T14:11:31.579Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Writing the DEM note now. Grounding the terrain first, then the doors can wait.",
+      "Writing the DEM note now. Grounding the terrain first; the doors can wait.",
+      "Writing the DEM note now. Grounding the terrain first; the doors can wait.",
+      "Writing the DEM note now. Grounding the terrain first, then the doors can wait.",
+      "Writing the DEM note now. Grounding the terrain first; the doors can wait."
+    ]
   },
+  "requestSeen": {},
+  "wishSeen": {},
+  "placesSeen": [],
   "sketches": {
     "date": "2026-11-13",
     "count": 2

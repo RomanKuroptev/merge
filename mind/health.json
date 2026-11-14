@@ -1,40 +1,42 @@
 {
-  "updatedAt": "2026-11-14T14:13:35.103Z",
-  "engine": "v0.12.1",
+  "updatedAt": "2026-11-14T14:28:49.365Z",
+  "engine": "v0.13.0",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T14:13:35.103Z",
+    "at": "2026-11-14T14:28:49.365Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: tend, wrote \"What the Elevation Grid Keeps and Drops\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-14:fbb46247",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "write",
-      "targetId": "Digital elevation model",
-      "until": "2026-11-14T14:28:39.318Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-14T15:08:49.365Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-14T13:58:39.318Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 929,
+    "ticks": 945,
     "decideCalls": 4,
     "callsByKind": {
-      "thought": 91,
+      "thought": 94,
       "morning": 1,
-      "art": 2,
+      "art": 3,
       "decide": 3
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "replan": 3
     },
     "failures": 0,
@@ -49,7 +51,8 @@
       "wander Leaf area index": 1,
       "write Leaf area index": 1,
       "wander Maya archaeology": 1,
-      "write Maya archaeology": 1
+      "write Maya archaeology": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 1
   },
@@ -67,16 +70,16 @@
     }
   },
   "allowance": {
-    "points": 433,
+    "points": 431,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 294
+    "minutes": 309
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.93649808,
+    "monthUsd": 0.93757891,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
