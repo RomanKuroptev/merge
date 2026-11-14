@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 0.93449102,
+  "spentUsd": 0.93476303,
   "calls": [
-    {
-      "at": "2026-11-08T21:43:14.963Z",
-      "kind": "bedtime",
-      "model": "claude-sonnet-5-5",
-      "input": 5833,
-      "cacheRead": 0,
-      "cacheWrite": 4548,
-      "output": 808,
-      "usd": 0.031116
-    },
-    {
-      "at": "2026-11-08T23:03:15.153Z",
-      "kind": "memory",
-      "model": "claude-haiku-5-5",
-      "input": 1521,
-      "cacheRead": 0,
-      "cacheWrite": 4118,
-      "output": 980,
-      "usd": 0.0005784249999999999
-    },
-    {
-      "at": "2026-11-09T07:03:15.220Z",
-      "kind": "read",
-      "model": "claude-haiku-5-5",
-      "input": 3862,
-      "cacheRead": 0,
-      "cacheWrite": 4282,
-      "output": 546,
-      "usd": 0.0011944500000000001
-    },
     {
       "at": "2026-11-09T07:03:15.220Z",
       "kind": "morning",
@@ -5003,16 +4973,46 @@
       "cacheWrite": 0,
       "output": 62,
       "usd": 0.00009107000000000001
+    },
+    {
+      "at": "2026-11-14T13:35:58.379Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 387,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 59,
+      "usd": 0.00008957000000000001
+    },
+    {
+      "at": "2026-11-14T13:41:02.967Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 384,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 64,
+      "usd": 0.00009177000000000001
+    },
+    {
+      "at": "2026-11-14T13:46:06.402Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 383,
+      "cacheRead": 2137,
+      "cacheWrite": 0,
+      "output": 62,
+      "usd": 0.00009067
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 379,
-      "input": 155566,
-      "cacheRead": 801375,
+      "calls": 382,
+      "input": 156720,
+      "cacheRead": 807786,
       "cacheWrite": 8548,
-      "output": 25526,
-      "usd": 0.03740186
+      "output": 25711,
+      "usd": 0.03767387
     },
     "bedtime": {
       "calls": 2,
