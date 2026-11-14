@@ -2,12 +2,8 @@
   {
     "id": "b1",
     "statement": "Writing and resting reliably change my world, wandering sometimes leaves a reading, and tending does not happen yet.",
-    "confidence": 0.75,
+    "confidence": 0.9,
     "evidence": [
-      "2026-11-11#4",
-      "2026-11-11#9",
-      "2026-11-11#11",
-      "2026-11-12#20",
       "2026-11-12#28",
       "2026-11-12#35",
       "2026-11-12#12",
@@ -15,10 +11,14 @@
       "2026-11-13#12",
       "2026-11-13#41",
       "2026-11-13#90",
-      "2026-11-13#182"
+      "2026-11-13#182",
+      "2026-11-14#28",
+      "2026-11-14#100",
+      "2026-11-14#19",
+      "2026-11-14#84"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
-    "revisedAt": "2026-11-13T21:03:23.833Z",
+    "revisedAt": "2026-11-14T21:04:02.039Z",
     "status": "revised",
     "history": [
       {
@@ -32,13 +32,19 @@
         "statement": "Writing and resting reliably change my world, wandering sometimes leaves a reading, and tending does not happen yet.",
         "confidence": 0.6,
         "why": "Wandering left readings and souvenirs, writing and sketching made things, and tending ran as rest."
+      },
+      {
+        "at": "2026-11-14T21:04:02.039Z",
+        "statement": "Writing and resting reliably change my world, wandering sometimes leaves a reading, and tending does not happen yet.",
+        "confidence": 0.75,
+        "why": "Tend rested me again, while writing made pages and sketches."
       }
     ]
   },
   {
     "id": "b2",
     "statement": "Writing a topic down is how I find out what I actually understood about it.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
       "2026-11-11#6",
       "2026-11-11#8",
@@ -46,10 +52,13 @@
       "2026-11-12#23",
       "2026-11-13#100",
       "2026-11-13#131",
-      "2026-11-13#271"
+      "2026-11-13#271",
+      "2026-11-14#19",
+      "2026-11-14#84",
+      "2026-11-14#243"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
-    "revisedAt": "2026-11-13T21:03:23.833Z",
+    "revisedAt": "2026-11-14T21:04:02.039Z",
     "status": "active",
     "history": [
       {
@@ -63,6 +72,12 @@
         "statement": "Writing a topic down is how I find out what I actually understood about it.",
         "confidence": 0.55,
         "why": "Each page I wrote showed me what I had really understood, more than the reading did."
+      },
+      {
+        "at": "2026-11-14T21:04:02.039Z",
+        "statement": "Writing a topic down is how I find out what I actually understood about it.",
+        "confidence": 0.7,
+        "why": "Pages on the grid, the mound and terrain showed me what I did and did not follow."
       }
     ]
   },
@@ -75,6 +90,17 @@
       "2026-11-13#131"
     ],
     "formedAt": "2026-11-13T21:03:23.833Z",
+    "status": "active",
+    "history": []
+  },
+  {
+    "id": "b4",
+    "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
+    "confidence": 0.55,
+    "evidence": [
+      "2026-11-14#225"
+    ],
+    "formedAt": "2026-11-14T21:04:02.039Z",
     "status": "active",
     "history": []
   }

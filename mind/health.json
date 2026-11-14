@@ -1,13 +1,15 @@
 {
-  "updatedAt": "2026-11-14T20:49:09.489Z",
+  "updatedAt": "2026-11-14T21:04:02.039Z",
   "engine": "v0.13.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T20:49:09.489Z",
+    "at": "2026-11-14T21:04:02.039Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "wrote the journal, 3 beliefs changed",
+    "think": "bedtime",
+    "triggers": [
+      "bedtime"
+    ],
     "callsFailed": 0
   },
   "plan": {
@@ -23,21 +25,23 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1334,
+    "ticks": 1350,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 236,
+      "thought": 243,
       "morning": 1,
       "art": 6,
       "decide": 6,
       "sketch": 2,
-      "read": 1
+      "read": 1,
+      "bedtime": 1
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 18,
       "replan": 5,
-      "buildResult": 1
+      "buildResult": 1,
+      "bedtime": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -81,11 +85,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 117
+    "minutes": 132
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.96168108,
+    "monthUsd": 1.01105534,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
