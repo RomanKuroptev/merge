@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T18:49:24.196Z",
-  "lastThinkAt": "2026-11-14T19:19:31.663Z",
+  "appliedStepAt": "2026-11-14T19:19:31.663Z",
+  "lastThinkAt": "2026-11-14T20:19:39.223Z",
   "allowance": {
     "points": 418,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-14T07:34:01.965Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-14T08:14:09.970Z"
@@ -103,6 +98,10 @@
       "verb": "tinker",
       "targetId": "grain under a low sun",
       "at": "2026-11-14T19:19:31.663Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-14T20:19:39.223Z"
     }
   ],
   "sparked": {
@@ -111,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T20:18:24.653Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-14",
+      "count": 3
+    },
     "recent": [
       "Still on the sand grain under low sun. Finishing the sketch before 21:19 closes it.",
       "Still on the sand grain under low sun. Finishing the sketch before 21:19 closes it.",
       "Still on the sand grain under low sun. Finishing the sketch before 21:19 closes it.",
       "Still on the sand grain under low sun. Finishing the sketch before 21:19 closes it.",
       "Still on the sand grain under low sun. Finishing the sketch before 21:19 closes it."
-    ],
-    "lastAt": "2026-11-14T20:04:00.543Z",
-    "replans": {
-      "date": "2026-11-14",
-      "count": 3
-    }
+    ]
   },
   "jobs": {
     "seen": [],
@@ -137,7 +136,7 @@
   ],
   "sketches": {
     "date": "2026-11-14",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-14",
   "lastReflectDate": "2026-11-13",

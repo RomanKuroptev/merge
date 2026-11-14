@@ -1,42 +1,43 @@
 {
-  "updatedAt": "2026-11-14T20:04:00.543Z",
+  "updatedAt": "2026-11-14T20:19:39.223Z",
   "engine": "v0.13.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T20:04:00.543Z",
+    "at": "2026-11-14T20:19:39.223Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 4/4: rest, sketched \"Grain under a low sun, again\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-14:31866910",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "tinker",
-      "targetId": "grain under a low sun",
-      "until": "2026-11-14T20:19:31.663Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-14T21:19:39.223Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-14T18:19:18.042Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1288,
+    "ticks": 1304,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 214,
+      "thought": 221,
       "morning": 1,
       "art": 6,
       "decide": 6,
-      "sketch": 1,
+      "sketch": 2,
       "read": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "replan": 5,
       "buildResult": 1
     },
@@ -48,7 +49,7 @@
       "wander Digital elevation model": 1,
       "write Digital elevation model": 3,
       "tend home": 2,
-      "rest": 5,
+      "rest": 6,
       "wander Leaf area index": 1,
       "write Leaf area index": 1,
       "wander Maya archaeology": 1,
@@ -82,26 +83,26 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 73
+    "minutes": 88
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.95792517,
+    "monthUsd": 0.96026718,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 3,
-      "wouldFire": 1,
+      "made": 4,
+      "wouldFire": 2,
       "byKind": {
-        "art": 3
+        "art": 4
       }
     }
   },
   "warnings": [
     "started \"write Digital elevation model\" 3 times today",
-    "started \"rest\" 5 times today"
+    "started \"rest\" 6 times today"
   ]
 }
