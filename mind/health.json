@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-14T07:04:01.067Z",
+  "updatedAt": "2026-11-14T07:18:35.989Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T07:04:01.067Z",
+    "at": "2026-11-14T07:18:35.989Z",
     "asleep": false,
-    "summary": "step 2/8: write, wandered from Digital elevation model",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 482,
+    "ticks": 497,
     "decideCalls": 1,
     "callsByKind": {
-      "thought": 6,
+      "thought": 9,
       "morning": 1
     },
     "triggersByKind": {
@@ -62,11 +60,11 @@
   },
   "mood": {
     "label": "good, rested",
-    "minutes": 30
+    "minutes": 44
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.92412959,
+    "monthUsd": 0.9244303,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
