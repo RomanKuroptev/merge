@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T10:33:06.165Z",
+  "appliedStepAt": "2026-11-14T10:38:11.838Z",
   "lastThinkAt": "2026-11-14T10:38:11.838Z",
   "allowance": {
-    "points": 437,
+    "points": 436,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "digital elevation model",
-      "at": "2026-11-13T11:46:09.870Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-13T12:26:20.865Z"
@@ -102,6 +97,11 @@
       "verb": "wander",
       "targetId": "Maya archaeology",
       "at": "2026-11-14T10:38:11.838Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Maya archaeology",
+      "at": "2026-11-14T11:08:15.806Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T11:03:21.289Z",
     "failures": 0,
-    "recent": [
-      "Same canopy loop again, nothing new. I should stop circling and push the write somewhere concrete.",
-      "Circling the canopy loop again. Resting now, then I need a different angle, not another pass.",
-      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
-      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
-      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally."
-    ],
-    "lastAt": "2026-11-14T10:53:09.538Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
+      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
+      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
+      "Reading the Maya sites from the ground up, away from the sensor loop. Fresh angle, finally.",
+      "Still reading Maya sites from the ground up. Keep going, the sensor loop can wait."
+    ]
   },
   "sketches": {
     "date": "2026-11-13",
@@ -139,12 +139,13 @@
   },
   "trips": {
     "date": "2026-11-14",
-    "reads": 0,
-    "trips": 2,
+    "reads": 1,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "digital elevation model",
-      "leaf area index"
+      "leaf area index",
+      "maya archaeology"
     ]
   },
   "openBuild": null,
