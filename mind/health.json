@@ -1,40 +1,44 @@
 {
-  "updatedAt": "2026-11-14T13:48:08.402Z",
+  "updatedAt": "2026-11-14T13:58:39.318Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T13:48:08.402Z",
+    "at": "2026-11-14T13:58:39.318Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/5: write, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-14:b050a0d3",
-    "stepsLeft": 0,
+    "planId": "2026-11-14:fbb46247",
+    "stepsLeft": 4,
     "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-14T13:58:30.805Z",
+      "index": 0,
+      "verb": "write",
+      "targetId": "Digital elevation model",
+      "until": "2026-11-14T14:28:39.318Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-14T10:38:11.838Z",
+    "lastReplanAt": "2026-11-14T13:58:39.318Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 902,
-    "decideCalls": 3,
+    "ticks": 913,
+    "decideCalls": 4,
     "callsByKind": {
-      "thought": 86,
+      "thought": 88,
       "morning": 1,
       "art": 2,
-      "decide": 2
+      "decide": 3
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
-      "replan": 2
+      "stepDone": 10,
+      "replan": 3
     },
     "failures": 0,
     "rejections": 0,
@@ -42,7 +46,7 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander Digital elevation model": 1,
-      "write Digital elevation model": 1,
+      "write Digital elevation model": 2,
       "tend home": 2,
       "rest": 4,
       "wander Leaf area index": 1,
@@ -66,16 +70,16 @@
     }
   },
   "allowance": {
-    "points": 434,
+    "points": 433,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 269
+    "minutes": 279
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.93476303,
+    "monthUsd": 0.93621307,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },

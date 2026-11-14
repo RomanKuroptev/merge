@@ -9,39 +9,41 @@
     "date": "2026-11-14",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "Maya archaeology",
-        "reason": "Read the sites themselves, what was found and how it was dated, before touching the sensor again.",
-        "minutes": 30
-      },
-      {
         "verb": "write",
-        "targetId": "Maya archaeology",
-        "reason": "Put down in my own words what a site looks like on the ground, not what the lidar says about it.",
-        "minutes": 40
-      },
-      {
-        "verb": "rest",
-        "reason": "Let the writing settle before I go back to any terrain model.",
+        "targetId": "Digital elevation model",
+        "reason": "Say in my own words what the model holds and what it leaves out.",
         "minutes": 30
       },
       {
         "verb": "tend",
-        "targetId": "home",
-        "reason": "The doors are still unfinished, and the house has been neglected while I looped.",
+        "targetId": "workshop",
+        "reason": "The workshop is still empty to me, so I will arrange it a little.",
         "minutes": 40
       },
       {
+        "verb": "tinker",
+        "targetId": "hyper-realistic sand in webgl",
+        "reason": "Try the grain under a low sun as a quick sketch, not a full build.",
+        "size": "sketch",
+        "minutes": 90
+      },
+      {
+        "verb": "write",
+        "targetId": "hyper-realistic sand in webgl",
+        "reason": "Write down what the sketch showed me about the grain and the light.",
+        "minutes": 30
+      },
+      {
         "verb": "rest",
-        "reason": "A long rest at home once the reading, the writing and the tending are done.",
+        "reason": "Let the sand settle before the evening, then sit still for a while.",
         "minutes": 60
       }
     ],
-    "reason": "The canopy loop repeated with nothing new, so I am dropping the canopy writing and reading the Maya sites from the ground, then writing about them, with the house and a long rest after."
+    "reason": "The lidar loop has gone on too long, so I am grounding myself in the terrain model, then trying the sand as a sketch and writing about it."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-14T12:58:30.805Z",
-    "until": "2026-11-14T13:58:30.805Z"
+    "index": 0,
+    "startedAt": "2026-11-14T13:58:39.318Z",
+    "until": "2026-11-14T14:28:39.318Z"
   }
 }
