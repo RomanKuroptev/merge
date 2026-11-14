@@ -1,19 +1,14 @@
 {
   "knownObjects": [],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-13",
+  "lastPlanDate": "2026-11-14",
   "appliedStepAt": "2026-11-13T20:22:09.729Z",
-  "lastThinkAt": "2026-11-13T21:03:23.833Z",
+  "lastThinkAt": "2026-11-14T06:33:58.159Z",
   "allowance": {
-    "points": 363,
-    "day": "2026-11-13"
+    "points": 447,
+    "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "lidar finds of lost Maya sites",
-      "at": "2026-11-12T20:13:16.392Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-12T20:48:21.464Z"
@@ -102,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-13T20:22:09.729Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Digital elevation model",
+      "at": "2026-11-14T06:33:58.159Z"
     }
   ],
   "sparked": {
@@ -110,7 +110,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-13T21:31:58.017Z",
     "failures": 0,
     "recent": [
       "Still resting until 22:22. Nothing new. The lidar write-up can keep until a fresher evening.",
@@ -118,13 +117,14 @@
       "Still resting until 22:22. Nothing new. The lidar write-up can keep until a fresher evening.",
       "Still resting until 22:22. Nothing new. The lidar write-up can keep until a fresher evening.",
       "Still resting until 22:22. Nothing new. The lidar write-up can keep until a fresher evening."
-    ]
+    ],
+    "lastAt": "2026-11-14T06:33:58.159Z"
   },
   "sketches": {
     "date": "2026-11-13",
     "count": 2
   },
-  "interestsFadedOn": "2026-11-13",
+  "interestsFadedOn": "2026-11-14",
   "lastReflectDate": "2026-11-13",
   "lastMemoryDate": "2026-11-13",
   "memoryBatch": null,

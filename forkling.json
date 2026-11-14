@@ -7,16 +7,17 @@
     0,
     5.49
   ],
-  "mood": 0.3,
-  "energy": -0.4,
+  "mood": 0.24,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-14T06:00:00.100Z",
-    "seed": 1754503754,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "sit",
+    "startedAt": "2026-11-14T06:33:58.159Z",
+    "seed": 1967462978,
+    "reason": "I woke with 450 points and a whole day. Lidar needs a terrain model before I can judge any find, so I start by reading about digital elevation models, then write down what I actually understood.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T06:00:50.666Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-14T06:33:58.159Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

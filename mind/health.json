@@ -1,32 +1,47 @@
 {
-  "updatedAt": "2026-11-14T06:25:55.046Z",
+  "updatedAt": "2026-11-14T06:33:58.159Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T06:25:55.046Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-14T06:33:58.159Z",
+    "asleep": false,
+    "summary": "morning plan, step 1/8: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-13:18095ae7",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-13T19:16:56.757Z",
+    "planId": "2026-11-14:a2ebfb55",
+    "stepsLeft": 7,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Digital elevation model",
+      "until": "2026-11-14T07:03:58.159Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-14T06:33:58.159Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 444,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "triggersByKind": {},
+    "ticks": 452,
+    "decideCalls": 1,
+    "callsByKind": {
+      "thought": 1,
+      "morning": 1
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander Digital elevation model": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -40,16 +55,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 363,
+    "points": 447,
     "max": 450
   },
   "mood": {
-    "label": "good, tired",
-    "minutes": 853
+    "label": "good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.92187851,
+    "monthUsd": 0.92366524,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
