@@ -2,17 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T10:38:11.838Z",
-  "lastThinkAt": "2026-11-14T10:38:11.838Z",
+  "appliedStepAt": "2026-11-14T11:08:15.806Z",
+  "lastThinkAt": "2026-11-14T11:48:20.150Z",
   "allowance": {
     "points": 436,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-13T12:26:20.865Z"
-    },
     {
       "verb": "wander",
       "targetId": "Leaf area index",
@@ -102,6 +98,10 @@
       "verb": "write",
       "targetId": "Maya archaeology",
       "at": "2026-11-14T11:08:15.806Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-14T11:48:20.150Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T11:44:06.307Z",
     "failures": 0,
-    "recent": [
-      "Still writing about Maya sites from the ground, in my own words. The lidar can wait a little longer.",
-      "Still on the Maya sites, trying to write them from the ground. The lidar can wait a little longer.",
-      "Still on Maya sites from the ground up, in my own words. The lidar can keep waiting a bit longer.",
-      "Still on Maya sites, trying to write them from the ground up. The lidar can wait a little longer.",
-      "Still on Maya sites from the ground, in my own words. The lidar can wait a little longer."
-    ],
-    "lastAt": "2026-11-14T11:33:55.594Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Still on Maya sites from the ground up, in my own words. The lidar can keep waiting a bit longer.",
+      "Still on Maya sites, trying to write them from the ground up. The lidar can wait a little longer.",
+      "Still on Maya sites from the ground, in my own words. The lidar can wait a little longer.",
+      "Still on Maya sites, trying to describe them from the ground. The lidar can wait a little longer.",
+      "Still on Maya sites, trying to write them from the ground up. The lidar can wait a little longer."
+    ]
   },
   "sketches": {
     "date": "2026-11-13",

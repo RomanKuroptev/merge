@@ -1,40 +1,41 @@
 {
-  "updatedAt": "2026-11-14T11:37:58.567Z",
+  "updatedAt": "2026-11-14T11:48:20.150Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T11:37:58.567Z",
+    "at": "2026-11-14T11:48:20.150Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: rest, wrote \"Standing on a Mound That Only Exists From Above\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-14:b050a0d3",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Maya archaeology",
-      "until": "2026-11-14T11:48:15.806Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-14T12:18:20.150Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-14T10:38:11.838Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 767,
+    "ticks": 778,
     "decideCalls": 3,
     "callsByKind": {
-      "thought": 60,
+      "thought": 62,
       "morning": 1,
-      "art": 1,
+      "art": 2,
       "decide": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 6,
+      "stepDone": 7,
       "replan": 2
     },
     "failures": 0,
@@ -45,7 +46,7 @@
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
       "tend home": 1,
-      "rest": 2,
+      "rest": 3,
       "wander Leaf area index": 1,
       "write Leaf area index": 1,
       "wander Maya archaeology": 1,
@@ -72,11 +73,11 @@
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 141
+    "minutes": 151
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.93185771,
+    "monthUsd": 0.93249025,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
@@ -90,5 +91,7 @@
       }
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }
