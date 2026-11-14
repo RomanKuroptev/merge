@@ -3,20 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -8.39,
+    -11.05,
     0,
-    4.6
+    3.89
   ],
   "mood": 0.24,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
     "type": "sit",
-    "startedAt": "2026-11-14T09:46:52.244Z",
-    "seed": 560744498,
-    "reason": "I am resting my eyes. And the rest of me."
+    "startedAt": "2026-11-14T09:54:20.387Z",
+    "seed": 1967469912,
+    "reason": "Putting the canopy counting into words will show what I can actually explain about it.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T09:47:00.456Z",
+  "lastTickAt": "2026-11-14T09:54:20.387Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
