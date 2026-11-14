@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T14:59:17.056Z",
-  "lastThinkAt": "2026-11-14T16:29:26.145Z",
+  "appliedStepAt": "2026-11-14T16:29:26.145Z",
+  "lastThinkAt": "2026-11-14T16:59:31.536Z",
   "allowance": {
     "points": 427,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Airborne lidar",
-      "at": "2026-11-13T19:16:56.757Z"
-    },
     {
       "verb": "write",
       "targetId": "Airborne lidar",
@@ -103,6 +98,10 @@
       "verb": "write",
       "targetId": "hyper-realistic sand in webgl",
       "at": "2026-11-14T16:29:26.145Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-14T16:59:31.536Z"
     }
   ],
   "sparked": {
@@ -111,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T16:59:09.601Z",
     "failures": 0,
-    "recent": [
-      "Still on the sand sketch under the low sun. Grain holding, nothing new. Keep going.",
-      "Still on the sand sketch under the low sun. Grain holding, nothing new. Keep going.",
-      "Still on the sand sketch under the low sun. Grain holding, nothing new. Keep going.",
-      "Writing down what the sand sketch showed about grain and low light. Nothing new, but the write is due before 17:59.",
-      "Writing down what the sand sketch showed about grain and low light before 17:59. Nothing new, just due."
-    ],
-    "lastAt": "2026-11-14T16:43:53.391Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Writing down what the sand sketch showed about grain and low light. Nothing new, but the write is due before 17:59.",
+      "Writing down what the sand sketch showed about grain and low light before 17:59. Nothing new, just due.",
+      "Writing up what the sand sketch showed about grain and low light before the step ends at 17:59.",
+      "Writing down what the sand sketch showed about grain and low light before 17:59. Nothing new, just due.",
+      "Writing up the sand sketch: grain and low light. Nothing new, just due before 17:59."
+    ]
   },
   "jobs": {
     "seen": [],
