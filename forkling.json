@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
     12.8
   ],
@@ -11,13 +11,13 @@
   "energy": 0.1,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-14T14:59:17.056Z",
-    "seed": 1967484369,
-    "reason": "Try the grain under a low sun as a quick sketch, not a full build.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-14T15:12:14.822Z",
+    "seed": 1731642750,
+    "reason": "I am working at the bench."
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T14:59:17.056Z",
+  "lastTickAt": "2026-11-14T15:12:28.580Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
