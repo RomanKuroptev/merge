@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T11:08:15.806Z",
+  "appliedStepAt": "2026-11-14T11:48:20.150Z",
   "lastThinkAt": "2026-11-14T11:48:20.150Z",
   "allowance": {
-    "points": 436,
+    "points": 434,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Leaf area index",
-      "at": "2026-11-13T13:26:23.345Z"
-    },
     {
       "verb": "write",
       "targetId": "digital elevation model",
@@ -102,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-14T11:48:20.150Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-14T12:18:29.488Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T12:14:35.087Z",
     "failures": 0,
-    "recent": [
-      "Still on Maya sites, trying to describe them from the ground. The lidar can wait a little longer.",
-      "Still on Maya sites, trying to write them from the ground up. The lidar can wait a little longer.",
-      "Still on Maya sites from the ground up, in my own words. The lidar can keep waiting a bit longer.",
-      "Still on Maya sites, trying to describe them from the ground up. The lidar can keep waiting a little longer.",
-      "Still on Maya sites, trying to describe them from the ground up. The lidar can keep waiting a little longer."
-    ],
-    "lastAt": "2026-11-14T11:59:18.472Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Still on Maya sites, trying to describe them from the ground up. The lidar can keep waiting a little longer.",
+      "Still on Maya sites, trying to describe them from the ground up. The lidar can keep waiting a little longer.",
+      "Still on Maya sites from the ground up. The lidar can keep waiting; I'm resting first.",
+      "Still on Maya sites, but I'll let it sit. The lidar can keep waiting while I rest.",
+      "Still circling Maya sites from the ground up. Resting; the lidar can wait a while longer."
+    ]
   },
   "sketches": {
     "date": "2026-11-13",

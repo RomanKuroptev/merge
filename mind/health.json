@@ -1,39 +1,42 @@
 {
-  "updatedAt": "2026-11-14T12:03:02.076Z",
+  "updatedAt": "2026-11-14T12:18:29.488Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T12:03:02.076Z",
+    "at": "2026-11-14T12:18:29.488Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/5: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-14:b050a0d3",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-14T12:18:20.150Z",
+      "index": 3,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-14T12:58:29.488Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-14T10:38:11.838Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 793,
+    "ticks": 809,
     "decideCalls": 3,
     "callsByKind": {
-      "thought": 65,
+      "thought": 68,
       "morning": 1,
       "art": 2,
       "decide": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7,
+      "stepDone": 8,
       "replan": 2
     },
     "failures": 0,
@@ -43,7 +46,7 @@
     "stepsStarted": {
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
-      "tend home": 1,
+      "tend home": 2,
       "rest": 3,
       "wander Leaf area index": 1,
       "write Leaf area index": 1,
@@ -66,16 +69,16 @@
     }
   },
   "allowance": {
-    "points": 436,
+    "points": 434,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 166
+    "minutes": 181
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.93279436,
+    "monthUsd": 0.93307457,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
