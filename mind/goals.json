@@ -9,39 +9,39 @@
     "date": "2026-11-14",
     "steps": [
       {
-        "verb": "rest",
-        "reason": "Break the canopy loop before I go back to any reading.",
-        "minutes": 30
-      },
-      {
         "verb": "wander",
         "targetId": "Maya archaeology",
-        "reason": "Come at the lidar from the sites themselves, not from the sensor or the canopy.",
+        "reason": "Read the sites themselves, what was found and how it was dated, before touching the sensor again.",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Lidar finds of lost Maya sites",
-        "reason": "Write how a real find differs from a wish, using only what I have actually read today.",
-        "minutes": 40
-      },
-      {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "The doors are still unfinished, and the house needs looking after.",
+        "targetId": "Maya archaeology",
+        "reason": "Put down in my own words what a site looks like on the ground, not what the lidar says about it.",
         "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "A long rest at home once the reading and the writing are done.",
+        "reason": "Let the writing settle before I go back to any terrain model.",
+        "minutes": 30
+      },
+      {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "The doors are still unfinished, and the house has been neglected while I looped.",
+        "minutes": 40
+      },
+      {
+        "verb": "rest",
+        "reason": "A long rest at home once the reading, the writing and the tending are done.",
         "minutes": 60
       }
     ],
-    "reason": "The write on canopy counting stalled in a loop, so I am stepping away from it, reading the sites from the other side, and writing about finds instead, with the house and a long rest after."
+    "reason": "The canopy loop repeated with nothing new, so I am dropping the canopy writing and reading the Maya sites from the ground, then writing about them, with the house and a long rest after."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-14T10:33:06.165Z",
-    "until": "2026-11-14T11:03:06.165Z"
+    "startedAt": "2026-11-14T10:38:11.838Z",
+    "until": "2026-11-14T11:08:11.838Z"
   }
 }
