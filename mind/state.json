@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T18:19:18.042Z",
-  "lastThinkAt": "2026-11-14T18:19:18.042Z",
+  "appliedStepAt": "2026-11-14T18:49:24.196Z",
+  "lastThinkAt": "2026-11-14T19:19:31.663Z",
   "allowance": {
-    "points": 420,
+    "points": 418,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Digital elevation model",
-      "at": "2026-11-14T07:04:01.067Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -103,6 +98,11 @@
       "verb": "write",
       "targetId": "Terrain rendering",
       "at": "2026-11-14T18:49:24.196Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "grain under a low sun",
+      "at": "2026-11-14T19:19:31.663Z"
     }
   ],
   "sparked": {
@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T19:18:49.306Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-14",
+      "count": 3
+    },
     "recent": [
       "Writing up terrain rendering now, checking what I actually understood about shaded relief.",
       "Writing up terrain rendering now, checking what I actually understood about shaded relief.",
       "Writing up terrain rendering now, checking what I actually understood about shaded relief.",
       "Writing up terrain rendering now, checking what I actually understood about shaded relief.",
       "Writing up terrain rendering now, checking what I actually understood about shaded relief."
-    ],
-    "lastAt": "2026-11-14T19:04:22.089Z",
-    "replans": {
-      "date": "2026-11-14",
-      "count": 3
-    }
+    ]
   },
   "jobs": {
     "seen": [],
