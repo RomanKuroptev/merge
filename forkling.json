@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.64,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-14T16:13:16.800Z",
-    "seed": 1334594755,
-    "reason": "I am working at the bench."
+    "type": "mind_write",
+    "startedAt": "2026-11-14T16:29:26.145Z",
+    "seed": 1967494898,
+    "reason": "Write down what the sketch showed me about the grain and the light.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T16:13:27.089Z",
+  "lastTickAt": "2026-11-14T16:29:26.145Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
