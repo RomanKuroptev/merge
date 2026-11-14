@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T14:28:49.365Z",
-  "lastThinkAt": "2026-11-14T14:29:09.736Z",
+  "appliedStepAt": "2026-11-14T14:29:09.736Z",
+  "lastThinkAt": "2026-11-14T14:59:17.056Z",
   "allowance": {
-    "points": 430,
+    "points": 428,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "lidar finds of lost Maya sites",
-      "at": "2026-11-13T17:36:49.642Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-13T18:16:56.040Z"
@@ -102,6 +97,11 @@
       "verb": "write",
       "targetId": "Digital elevation model",
       "at": "2026-11-14T14:29:09.736Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "hyper-realistic sand in webgl",
+      "at": "2026-11-14T14:59:17.056Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T14:57:16.640Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-14",
+      "count": 2
+    },
     "recent": [
       "Writing the DEM note now. Same terrain, same plan; the doors can wait.",
       "Writing the DEM note now. Terrain grounded; the doors can wait until the note is down.",
       "Writing the DEM note now. Terrain grounded; the doors can wait until the note is down.",
       "Writing the DEM note now. Terrain grounded; the doors can wait until the note is down.",
       "Writing the DEM note now. Terrain grounded; the doors can wait until the note is down."
-    ],
-    "lastAt": "2026-11-14T14:57:16.640Z",
-    "replans": {
-      "date": "2026-11-14",
-      "count": 2
-    }
+    ]
   },
   "jobs": {
     "seen": [],
