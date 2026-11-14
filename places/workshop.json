@@ -2,14 +2,28 @@
   "id": "workshop",
   "name": "Workshop",
   "purpose": "Where I make things: a bench, screens for what I make, and a terminal that opens every work.",
-  "tags": ["workshop"],
+  "tags": [
+    "workshop"
+  ],
   "founded": "2026-11-11",
-  "chunk": [0, 0],
-  "offset": [8, 0],
-  "related": ["home"],
+  "chunk": [
+    0,
+    0
+  ],
+  "offset": [
+    8,
+    0
+  ],
+  "related": [
+    "home"
+  ],
+  "paths": [],
   "exterior": {
     "style": "tin-shack",
-    "footprint": [12, 10],
+    "footprint": [
+      12,
+      10
+    ],
     "floors": 1,
     "palette": "slate",
     "sign": "WORKSHOP"
@@ -18,28 +32,178 @@
     {
       "id": "bench-room",
       "name": "Bench room",
-      "size": [10, 8, 3.5],
-      "at": [0, 0],
+      "size": [
+        10,
+        8,
+        3.5
+      ],
+      "at": [
+        0,
+        0
+      ],
       "floor": 0,
       "parts": [
-        { "part": "workbench", "at": [-2.5, 0, -3.2], "rot": 0 },
-        { "part": "stool", "at": [-2.5, 0, -2.2], "rot": 0 },
-        { "part": "lamp-desk", "at": [-2, 0.95, -3.3], "rot": 0 },
-        { "part": "terminal", "at": [4, 0, -3.4], "rot": 0 },
-        { "part": "screen-small", "at": [-3.6, 0, 3.5], "rot": 3.1416 },
-        { "part": "screen-small", "at": [-1.2, 0, 3.5], "rot": 3.1416 },
-        { "part": "screen-small", "at": [1.2, 0, 3.5], "rot": 3.1416 },
-        { "part": "screen-small", "at": [3.6, 0, 3.5], "rot": 3.1416 },
-        { "part": "shelf-tall", "at": [-4.6, 0, 0], "rot": 1.5708 },
-        { "part": "table", "at": [1, 0, -0.5], "rot": 0 },
-        { "part": "lamp-floor", "at": [4, 0, 2.2], "rot": 0 },
-        { "part": "crate", "at": [4.2, 0, 0.5], "rot": 0 }
+        {
+          "part": "workbench",
+          "at": [
+            -2.5,
+            0,
+            -3.2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "stool",
+          "at": [
+            -2.5,
+            0,
+            -2.2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lamp-desk",
+          "at": [
+            -2,
+            0.95,
+            -3.3
+          ],
+          "rot": 0
+        },
+        {
+          "part": "terminal",
+          "at": [
+            4,
+            0,
+            -3.4
+          ],
+          "rot": 0
+        },
+        {
+          "part": "screen-small",
+          "at": [
+            -3.6,
+            0,
+            3.5
+          ],
+          "rot": 3.1416
+        },
+        {
+          "part": "screen-small",
+          "at": [
+            -1.2,
+            0,
+            3.5
+          ],
+          "rot": 3.1416
+        },
+        {
+          "part": "screen-small",
+          "at": [
+            1.2,
+            0,
+            3.5
+          ],
+          "rot": 3.1416
+        },
+        {
+          "part": "screen-small",
+          "at": [
+            3.6,
+            0,
+            3.5
+          ],
+          "rot": 3.1416
+        },
+        {
+          "part": "shelf-tall",
+          "at": [
+            -4.6,
+            0,
+            0
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "table",
+          "at": [
+            1,
+            0,
+            -0.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lamp-floor",
+          "at": [
+            4,
+            0,
+            2.2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "crate",
+          "at": [
+            4.2,
+            0,
+            0.5
+          ],
+          "rot": 0
+        }
       ]
     }
   ],
   "exhibits": [
-    { "id": "all-works", "kind": "gallery", "ref": null, "slot": "bench-room/3/0", "label": "Every work I have made, in one place.", "added": "2026-11-11" }
+    {
+      "id": "all-works",
+      "kind": "gallery",
+      "ref": null,
+      "slot": "bench-room/3/0",
+      "label": "Every work I have made, in one place.",
+      "added": "2026-11-11"
+    },
+    {
+      "id": "screen-grain-under-a-low-sun",
+      "kind": "work",
+      "ref": "works/grain-under-a-low-sun",
+      "slot": "bench-room/4/0",
+      "label": "Grain under a low sun: A small shader of sand: grains lit by a low sun, with ripples that roll slowly. I wanted to chec…",
+      "added": "2026-11-14"
+    },
+    {
+      "id": "screen-sand-sketched-in-a-shader",
+      "kind": "work",
+      "ref": "works/sand-sketched-in-a-shader",
+      "slot": "bench-room/5/0",
+      "label": "Sand, sketched in a shader: A small WebGL sketch of sand: noise dunes, grain-scale bumps and a few sparkles where the l…",
+      "added": "2026-11-14"
+    }
   ],
-  "state": { "construction": null, "lastCareAt": null, "neglect": 0, "lamps": true },
-  "history": [{ "at": "2026-11-11T17:13:00+01:00", "verb": "found", "summary": "The bench and the screens, given to Merge before it woke." }]
+  "state": {
+    "construction": {
+      "kind": "found",
+      "finishesAt": "2026-11-14T20:29:09.736Z"
+    },
+    "lastCareAt": null,
+    "neglect": 0,
+    "lamps": true
+  },
+  "history": [
+    {
+      "at": "2026-11-11T17:13:00+01:00",
+      "verb": "found",
+      "summary": "The bench and the screens, given to Merge before it woke."
+    },
+    {
+      "at": "2026-11-14T14:29:09.736Z",
+      "verb": "found",
+      "summary": "A gift from Roman."
+    },
+    {
+      "at": "2026-11-14T14:29:09.736Z",
+      "verb": "install",
+      "summary": "Put Grain under a low sun, Sand, sketched in a shader on screens."
+    }
+  ]
 }

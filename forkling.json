@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    -9.5,
+    11.41,
     0,
-    15.5
+    21.5
   ],
-  "mood": 0.24,
-  "energy": -0.05,
+  "mood": 0.64,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_tend",
-    "startedAt": "2026-11-14T14:28:49.365Z",
-    "seed": 1967483573,
-    "reason": "The workshop is still empty to me, so I will arrange it a little.",
-    "goalRef": "today:1"
+    "type": "mind_write",
+    "startedAt": "2026-11-14T14:29:09.736Z",
+    "seed": 1967483553,
+    "reason": "Roman built both my places before I could arrange either, so I will do the work that does not need a door.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T14:28:49.365Z",
+  "lastTickAt": "2026-11-14T14:29:09.736Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

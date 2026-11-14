@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T13:58:39.318Z",
-  "lastThinkAt": "2026-11-14T14:28:49.365Z",
+  "appliedStepAt": "2026-11-14T14:28:49.365Z",
+  "lastThinkAt": "2026-11-14T14:29:09.736Z",
   "allowance": {
-    "points": 431,
+    "points": 430,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "hyper-realistic sand in webgl",
-      "at": "2026-11-13T16:06:46.047Z"
-    },
     {
       "verb": "write",
       "targetId": "lidar finds of lost Maya sites",
@@ -102,6 +97,11 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-14T14:28:49.365Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Digital elevation model",
+      "at": "2026-11-14T14:29:09.736Z"
     }
   ],
   "sparked": {
@@ -124,9 +124,15 @@
       "Writing the DEM note now. Grounding the terrain first; the doors can wait."
     ]
   },
-  "requestSeen": {},
+  "requestSeen": {
+    "home": "built",
+    "workshop": "built"
+  },
   "wishSeen": {},
-  "placesSeen": [],
+  "placesSeen": [
+    "home",
+    "workshop"
+  ],
   "sketches": {
     "date": "2026-11-13",
     "count": 2
@@ -155,5 +161,9 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "jobs": {
+    "seen": [],
+    "pending": []
+  }
 }

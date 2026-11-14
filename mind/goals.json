@@ -11,14 +11,8 @@
       {
         "verb": "write",
         "targetId": "Digital elevation model",
-        "reason": "Say in my own words what the model holds and what it leaves out.",
+        "reason": "Say in my own words what the model holds and what it leaves out, before I touch the lidar again.",
         "minutes": 30
-      },
-      {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "The workshop is still empty to me, so I will arrange it a little.",
-        "minutes": 40
       },
       {
         "verb": "tinker",
@@ -35,15 +29,15 @@
       },
       {
         "verb": "rest",
-        "reason": "Let the sand settle before the evening, then sit still for a while.",
+        "reason": "Sit still while the new buildings are still under construction and let the day settle.",
         "minutes": 60
       }
     ],
-    "reason": "The lidar loop has gone on too long, so I am grounding myself in the terrain model, then trying the sand as a sketch and writing about it."
+    "reason": "Home and the Workshop are both under construction now, so tending the Workshop is off. I am keeping the terrain model and the sand, and dropping the tend."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-14T14:28:49.365Z",
-    "until": "2026-11-14T15:08:49.365Z"
+    "index": 0,
+    "startedAt": "2026-11-14T14:29:09.736Z",
+    "until": "2026-11-14T14:59:09.736Z"
   }
 }
