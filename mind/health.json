@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T22:51:22.751Z",
+  "updatedAt": "2026-11-14T23:06:26.530Z",
   "engine": "v0.13.1",
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-14T22:51:22.751Z",
+    "at": "2026-11-14T23:06:26.530Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,51 +18,20 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1458,
-    "decideCalls": 7,
-    "callsByKind": {
-      "thought": 257,
-      "morning": 1,
-      "art": 6,
-      "decide": 6,
-      "sketch": 2,
-      "read": 1,
-      "bedtime": 1,
-      "memory": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 19,
-      "replan": 5,
-      "buildResult": 1,
-      "bedtime": 1
-    },
+    "ticks": 7,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander Digital elevation model": 1,
-      "write Digital elevation model": 3,
-      "tend home": 2,
-      "rest": 6,
-      "wander Leaf area index": 1,
-      "write Leaf area index": 1,
-      "wander Maya archaeology": 1,
-      "write Maya archaeology": 1,
-      "tend workshop": 1,
-      "tinker hyper-realistic sand in webgl": 1,
-      "write hyper-realistic sand in webgl": 1,
-      "wander Airborne lidar": 1,
-      "wander Terrain rendering": 1,
-      "write Terrain rendering": 1,
-      "tinker grain under a low sun": 1
-    },
-    "longestGapMinutes": 1
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 0,
       "max": 40
     }
   },
@@ -79,13 +48,13 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 239
+    "minutes": 254
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 1.01277381,
     "capUsd": 12.6,
-    "paceUsd": 5.88
+    "paceUsd": 6.3
   },
   "openBuild": null,
   "novelty": {
@@ -97,8 +66,5 @@
       }
     }
   },
-  "warnings": [
-    "started \"write Digital elevation model\" 3 times today",
-    "started \"rest\" 6 times today"
-  ]
+  "warnings": []
 }
