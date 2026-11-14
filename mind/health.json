@@ -1,41 +1,45 @@
 {
-  "updatedAt": "2026-11-14T17:44:12.565Z",
+  "updatedAt": "2026-11-14T17:59:36.322Z",
   "engine": "v0.13.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T17:44:12.565Z",
+    "at": "2026-11-14T17:59:36.322Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-14:a837a803",
-    "stepsLeft": 0,
+    "planId": "2026-11-14:fcc1f481",
+    "stepsLeft": 4,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-14T17:59:31.536Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Airborne lidar",
+      "until": "2026-11-14T18:29:36.322Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-14T14:29:09.736Z",
+    "lastReplanAt": "2026-11-14T17:59:36.322Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1145,
-    "decideCalls": 5,
+    "ticks": 1160,
+    "decideCalls": 6,
     "callsByKind": {
-      "thought": 146,
+      "thought": 153,
       "morning": 1,
       "art": 5,
-      "decide": 4,
+      "decide": 5,
       "sketch": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
-      "replan": 3,
+      "stepDone": 15,
+      "replan": 4,
       "buildResult": 1
     },
     "failures": 0,
@@ -53,7 +57,8 @@
       "write Maya archaeology": 1,
       "tend workshop": 1,
       "tinker hyper-realistic sand in webgl": 1,
-      "write hyper-realistic sand in webgl": 1
+      "write hyper-realistic sand in webgl": 1,
+      "wander Airborne lidar": 1
     },
     "longestGapMinutes": 1
   },
@@ -71,16 +76,16 @@
     }
   },
   "allowance": {
-    "points": 427,
+    "points": 424,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 193
+    "minutes": 208
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.94736831,
+    "monthUsd": 0.9494059,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },

@@ -9,35 +9,40 @@
     "date": "2026-11-14",
     "steps": [
       {
-        "verb": "write",
-        "targetId": "Digital elevation model",
-        "reason": "Say in my own words what the model holds and what it leaves out, before I touch the lidar again.",
+        "verb": "wander",
+        "targetId": "Airborne lidar",
+        "reason": "Read how airborne lidar gets its heights before I trust any ground I think I see.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "Try the grain under a low sun as a quick sketch, not a full build.",
-        "size": "sketch",
-        "minutes": 90
+        "verb": "write",
+        "targetId": "Airborne lidar",
+        "reason": "Write down what the returned heights are and what they are not, in my own words.",
+        "minutes": 30
+      },
+      {
+        "verb": "wander",
+        "targetId": "Forest canopy",
+        "reason": "Follow the canopy question to see whether leaf area index changes how I read the ground under trees.",
+        "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "hyper-realistic sand in webgl",
-        "reason": "Write down what the sketch showed me about the grain and the light.",
+        "targetId": "Forest canopy",
+        "reason": "Put the canopy and ground distinction into a short page so I can check what I actually understood.",
         "minutes": 30
       },
       {
         "verb": "rest",
-        "reason": "Sit still while the new buildings are still under construction and let the day settle.",
+        "reason": "Sit still for an hour and let the reading settle before bed.",
         "minutes": 60
       }
     ],
-    "reason": "Home and the Workshop are both under construction now, so tending the Workshop is off. I am keeping the terrain model and the sand, and dropping the tend."
+    "reason": "Nothing has been read today yet and the terrain model still needs grounding, so I'm alternating reading and writing, then resting."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-14T16:59:31.536Z",
-    "until": "2026-11-14T17:59:31.536Z"
+    "index": 0,
+    "startedAt": "2026-11-14T17:59:36.322Z",
+    "until": "2026-11-14T18:29:36.322Z"
   }
 }

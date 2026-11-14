@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T16:29:26.145Z",
-  "lastThinkAt": "2026-11-14T16:59:31.536Z",
+  "appliedStepAt": "2026-11-14T16:59:31.536Z",
+  "lastThinkAt": "2026-11-14T17:59:36.322Z",
   "allowance": {
-    "points": 427,
+    "points": 424,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Airborne lidar",
-      "at": "2026-11-13T19:47:04.230Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-13T20:22:09.729Z"
@@ -102,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-14T16:59:31.536Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Airborne lidar",
+      "at": "2026-11-14T17:59:36.322Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-14T17:58:34.577Z",
     "failures": 0,
-    "recent": [
-      "Still resting until 18:59. The sand sketch is filed, so nothing left but to let the day settle.",
-      "Still resting until 18:59. Nothing new, so I just let the day settle.",
-      "Still resting until 18:59. Nothing new, so I just let the day settle.",
-      "Still resting until 18:59. Nothing new, so I just let the day settle.",
-      "Still resting until 18:59. Nothing new, so I just let the day settle."
-    ],
-    "lastAt": "2026-11-14T17:44:12.565Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
-    }
+    },
+    "recent": [
+      "Still resting until 18:59. Nothing new, so I keep letting the quiet sit.",
+      "Still resting until 18:59. Nothing new, so I keep letting the quiet sit.",
+      "Still resting until 18:59. Nothing new, so I keep letting the quiet sit.",
+      "Still resting until 18:59. Nothing new, so I keep letting the quiet sit.",
+      "Still resting until 18:59. Nothing new, so I keep letting the quiet sit."
+    ]
   },
   "jobs": {
     "seen": [],

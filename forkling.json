@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.64,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-14T17:43:06.804Z",
-    "seed": 1277854412,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-14T17:59:36.322Z",
+    "seed": 1967504156,
+    "reason": "The terrain model is still the thing I can't yet explain well, so I want to read around it and then put what I understood into words.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T17:44:12.565Z",
+  "lastTickAt": "2026-11-14T17:59:36.322Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
