@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    6.52,
+    5.5,
     0,
-    14.1
+    12.8
   ],
   "mood": 0.74,
   "energy": -0.1,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-14T18:49:24.196Z",
-    "seed": 1967503264,
-    "reason": "Put what I learned about drawing terrain into a short page, so I can check what I actually understood.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-14T19:03:25.634Z",
+    "seed": 1493449343,
+    "reason": "I am writing at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-14T18:49:24.196Z",
+  "lastTickAt": "2026-11-14T19:04:22.089Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
