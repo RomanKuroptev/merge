@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-14T14:29:09.736Z",
+  "updatedAt": "2026-11-14T14:44:04.232Z",
   "engine": "v0.13.0",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T14:29:09.736Z",
+    "at": "2026-11-14T14:44:04.232Z",
     "asleep": false,
-    "summary": "Roman built Home, a place you did not ask for: it is unde..., Roman built Workshop, a place you did not ask for: it is ..., installed works in Workshop, thought about buildResult, left tend, step 1/4: write, new plan",
-    "think": "decide",
-    "triggers": [
-      "buildResult"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 946,
+    "ticks": 961,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 94,
+      "thought": 97,
       "morning": 1,
       "art": 3,
       "decide": 4
@@ -76,11 +74,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 0
+    "minutes": 15
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.93868244,
+    "monthUsd": 0.93904558,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
