@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-14T06:33:58.159Z",
+  "updatedAt": "2026-11-14T06:48:10.021Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T06:33:58.159Z",
+    "at": "2026-11-14T06:48:10.021Z",
     "asleep": false,
-    "summary": "morning plan, step 1/8: wander, woke up",
-    "think": "morning",
-    "triggers": [
-      "newDay"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 452,
+    "ticks": 466,
     "decideCalls": 1,
     "callsByKind": {
-      "thought": 1,
+      "thought": 3,
       "morning": 1
     },
     "triggersByKind": {
@@ -42,7 +40,7 @@
     "stepsStarted": {
       "wander Digital elevation model": 1
     },
-    "longestGapMinutes": 0
+    "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
@@ -60,11 +58,11 @@
   },
   "mood": {
     "label": "good, rested",
-    "minutes": 0
+    "minutes": 14
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.92366524,
+    "monthUsd": 0.92385248,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },
