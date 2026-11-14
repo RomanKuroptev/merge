@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T11:48:20.150Z",
+  "appliedStepAt": "2026-11-14T12:18:29.488Z",
   "lastThinkAt": "2026-11-14T11:48:20.150Z",
   "allowance": {
     "points": 434,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "digital elevation model",
-      "at": "2026-11-13T13:56:31.822Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-13T14:36:32.522Z"
@@ -102,6 +97,10 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-14T12:18:29.488Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-14T12:58:30.805Z"
     }
   ],
   "sparked": {
@@ -112,13 +111,13 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Tending home now: the doors are still unfinished. Maya sites can wait; the house has been neglected too long.",
-      "Tending home at last. The doors are still unfinished, and the house has been neglected while I looped on Maya sites.",
-      "Tending home now. The doors are still unfinished, and I looped on Maya sites too long. Back to the house.",
       "Tending home. The doors are still unfinished, and I looped on Maya sites too long. Back to the house.",
-      "Still tending home. The doors are next, and the house needs its attention back."
+      "Still tending home. The doors are next, and the house needs its attention back.",
+      "Still on the doors. Finishing them, then the house gets the rest of my attention.",
+      "Still on the doors. Finishing them, then the house gets the rest of my attention.",
+      "Resting at home. The doors are still unfinished, but tending is not built yet, so I'll let the rest run."
     ],
-    "lastAt": "2026-11-14T12:45:07.660Z",
+    "lastAt": "2026-11-14T13:00:21.344Z",
     "replans": {
       "date": "2026-11-14",
       "count": 2
