@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-14T09:04:16.138Z",
+  "updatedAt": "2026-11-14T09:19:31.622Z",
   "engine": "v0.12.1",
   "date": "2026-11-14",
   "lastTick": {
-    "at": "2026-11-14T09:04:16.138Z",
+    "at": "2026-11-14T09:19:31.622Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,27 +12,28 @@
   },
   "plan": {
     "planId": "2026-11-14:a2ebfb55",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-14T09:14:09.970Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "Leaf area index",
+      "until": "2026-11-14T09:54:17.080Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-14T06:33:58.159Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 606,
+    "ticks": 622,
     "decideCalls": 1,
     "callsByKind": {
-      "thought": 30,
+      "thought": 33,
       "morning": 1,
       "art": 1
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3
+      "stepDone": 4
     },
     "failures": 0,
     "rejections": 0,
@@ -42,7 +43,8 @@
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
       "tend home": 1,
-      "rest": 1
+      "rest": 1,
+      "wander Leaf area index": 1
     },
     "longestGapMinutes": 1
   },
@@ -57,16 +59,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 444,
+    "points": 441,
     "max": 450
   },
   "mood": {
-    "label": "good, rested",
-    "minutes": 148
+    "label": "good, steady",
+    "minutes": 5
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 0.92691607,
+    "monthUsd": 0.92722128,
     "capUsd": 12.6,
     "paceUsd": 5.88
   },

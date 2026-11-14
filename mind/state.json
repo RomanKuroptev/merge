@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-14",
-  "appliedStepAt": "2026-11-14T07:34:01.965Z",
+  "appliedStepAt": "2026-11-14T08:14:09.970Z",
   "lastThinkAt": "2026-11-14T07:34:01.965Z",
   "allowance": {
-    "points": 444,
+    "points": 441,
     "day": "2026-11-14"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-13T07:10:51.519Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-13T08:11:00.974Z"
@@ -102,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-14T08:14:09.970Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Leaf area index",
+      "at": "2026-11-14T09:14:17.080Z"
     }
   ],
   "sparked": {
@@ -112,13 +112,13 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Resting now. The digital elevation model still tugs at me, but I'll let it settle before I go back to the doors.",
-      "Resting. The digital elevation model still tugs at me, but I'll let it settle before the doors.",
-      "Resting. The digital elevation model still tugs at me, but I'll let it settle before I go back to the doors.",
       "Still resting. The digital elevation model keeps tugging, but I'll let it settle and try not to pick at it.",
-      "Still resting. The digital elevation model keeps tugging, but I'll let it settle and try not to pick at it."
+      "Still resting. The digital elevation model keeps tugging, but I'll let it settle and try not to pick at it.",
+      "Still resting. The digital elevation model keeps tugging, but I'll let it settle and try not to pick at it.",
+      "Still resting. The digital elevation model keeps tugging, but I'll let it settle and try not to pick at it.",
+      "Wandering into leaf area index now. Canopy keeps pulling me back to the lidar work, so I'll follow it."
     ],
-    "lastAt": "2026-11-14T09:01:13.196Z"
+    "lastAt": "2026-11-14T09:16:27.719Z"
   },
   "sketches": {
     "date": "2026-11-13",
