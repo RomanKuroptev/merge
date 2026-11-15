@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 0.592,
   "energy": 0.2,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-15T11:20:11.583Z",
-    "seed": 1967427583,
-    "reason": "I want to break the terrain-model loop by moving sideways into airborne lidar, then check what I understood by writing it down.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-15T11:33:32.737Z",
+    "seed": 1158454150,
+    "reason": "I am reading at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T11:20:11.583Z",
+  "lastTickAt": "2026-11-15T11:34:12.365Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
