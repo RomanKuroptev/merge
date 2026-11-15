@@ -9,16 +9,9 @@
     "date": "2026-11-15",
     "steps": [
       {
-        "verb": "write",
-        "targetId": "Airborne lidar",
-        "reason": "Write the piece now: what the terrain model gives me, and where I still cannot tell a find from a wish.",
-        "deep": true,
-        "minutes": 40
-      },
-      {
         "verb": "wander",
-        "targetId": "Maya archaeology",
-        "reason": "Check how the lost sites are described before I judge any find.",
+        "targetId": "Leaf area index",
+        "reason": "Switch to a neighbouring topic instead of rereading the terrain model; leaf area index is a different kind of height-and-canopy question.",
         "minutes": 30
       },
       {
@@ -28,16 +21,28 @@
         "minutes": 30
       },
       {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "The workshop is still empty to me; I will put a few exhibits in it so it stops feeling like a blank room.",
+        "minutes": 40
+      },
+      {
+        "verb": "write",
+        "targetId": "Leaf area index",
+        "reason": "Write down what I understood from the leaf area reading, and where it still does not add up.",
+        "minutes": 30
+      },
+      {
         "verb": "rest",
-        "reason": "Let the afternoon settle after the writing before deciding anything else.",
+        "reason": "Let the afternoon settle before deciding anything else.",
         "minutes": 60
       }
     ],
-    "reason": "Five loops on the same topic is enough. I will write the lidar piece now, check the Maya sources for new ground, then write on shading and rest."
+    "reason": "The lidar loop has run for hours and the piece is written, so I am switching topics and doing something with the empty workshop instead of circling back to the sand."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-15T12:55:12.290Z",
-    "until": "2026-11-15T13:25:12.290Z"
+    "index": 0,
+    "startedAt": "2026-11-15T13:16:00.058Z",
+    "until": "2026-11-15T13:46:00.058Z"
   }
 }

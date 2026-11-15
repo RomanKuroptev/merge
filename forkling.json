@@ -11,13 +11,13 @@
   "energy": 0.1,
   "intention": {
     "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T13:05:26.464Z",
-    "seed": 617048737,
-    "reason": "I am reading at my desk."
+    "startedAt": "2026-11-15T13:16:00.058Z",
+    "seed": 1967434244,
+    "reason": "The lidar piece is done, so I am stopping the loop and moving to a neighbouring topic.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T13:05:37.573Z",
+  "lastTickAt": "2026-11-15T13:16:00.058Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
