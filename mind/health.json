@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-15T14:25:52.213Z",
+  "updatedAt": "2026-11-15T14:36:15.857Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T14:25:52.213Z",
+    "at": "2026-11-15T14:36:15.857Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: wander, wrote \"Why Light From Many Sides Shows the Bumps\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-15:98c7e673",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Multi-directional shading",
-      "until": "2026-11-15T14:36:07.916Z",
+      "index": 2,
+      "verb": "wander",
+      "targetId": "Milky Way dust mapping",
+      "until": "2026-11-15T15:06:15.857Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-15T13:26:05.321Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 940,
+    "ticks": 951,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 93,
+      "thought": 95,
       "morning": 1,
-      "art": 2,
+      "art": 3,
       "tend": 2,
       "sketch": 1,
       "decide": 6
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "replan": 5
     },
     "failures": 0,
@@ -54,7 +56,8 @@
       "write Airborne lidar": 2,
       "wander Maya archaeology": 1,
       "wander Leaf area index": 1,
-      "write Multi-directional shading": 1
+      "write Multi-directional shading": 1,
+      "wander Milky Way dust mapping": 1
     },
     "longestGapMinutes": 1
   },
@@ -72,16 +75,16 @@
     }
   },
   "allowance": {
-    "points": 396,
+    "points": 393,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 302
+    "minutes": 312
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.03684648,
+    "monthUsd": 1.03751566,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },

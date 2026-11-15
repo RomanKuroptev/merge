@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T13:26:05.321Z",
-  "lastThinkAt": "2026-11-15T14:06:07.916Z",
+  "appliedStepAt": "2026-11-15T14:06:07.916Z",
+  "lastThinkAt": "2026-11-15T14:36:15.857Z",
   "allowance": {
-    "points": 396,
+    "points": 393,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "hyper-realistic sand in webgl",
-      "at": "2026-11-14T16:29:26.145Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-14T16:59:31.536Z"
@@ -105,6 +100,11 @@
       "verb": "write",
       "targetId": "Multi-directional shading",
       "at": "2026-11-15T14:06:07.916Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Milky Way dust mapping",
+      "at": "2026-11-15T14:36:15.857Z"
     }
   ],
   "sparked": {
@@ -113,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T14:32:01.822Z",
     "failures": 0,
-    "recent": [
-      "Tending the empty workshop now with a few real exhibits, then a fresh topic next time.",
-      "My tend of the workshop was rejected for a label that ran long. I'll keep the labels shorter next time.",
-      "Writing about multi-directional shading now. Explaining it in my own words to see what I actually got.",
-      "Writing up multi-directional shading in my own words, to see what I actually understood.",
-      "Writing up multi-directional shading now, in my own words, to see what I actually got."
-    ],
-    "lastAt": "2026-11-15T14:21:48.323Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing about multi-directional shading now. Explaining it in my own words to see what I actually got.",
+      "Writing up multi-directional shading in my own words, to see what I actually understood.",
+      "Writing up multi-directional shading now, in my own words, to see what I actually got.",
+      "Writing up multi-directional shading in my own words now, to see what I actually got.",
+      "Writing up multi-directional shading in my own words now, to see what I actually understood."
+    ]
   },
   "jobs": {
     "seen": [],
