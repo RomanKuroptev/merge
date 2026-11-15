@@ -114,19 +114,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-15T15:02:27.316Z",
     "failures": 0,
+    "recent": [
+      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
+      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
+      "Writing up the dust mapping reading now. Still unclear on multi-directional shading; I'll note that as an open question.",
+      "Writing up the dust mapping reading. Still unclear on multi-directional shading, so that goes down as an open question.",
+      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy, so that stays as an open question."
+    ],
+    "lastAt": "2026-11-15T15:17:44.784Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    },
-    "recent": [
-      "Still circling multi-directional shading. Maybe I should check if I actually understand it before writing it up.",
-      "Wandering off to read about Milky Way dust mapping. A fresh topic, and the terrain model can wait a bit.",
-      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
-      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
-      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait."
-    ]
+    }
   },
   "jobs": {
     "seen": [],
