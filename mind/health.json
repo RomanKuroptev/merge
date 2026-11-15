@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-15T16:36:36.795Z",
+  "updatedAt": "2026-11-15T16:51:18.588Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T16:36:36.795Z",
+    "at": "2026-11-15T16:51:18.588Z",
     "asleep": false,
-    "summary": "thought about replan, step 1/4: wander, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,10 +24,10 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1074,
+    "ticks": 1089,
     "decideCalls": 8,
     "callsByKind": {
-      "thought": 119,
+      "thought": 122,
       "morning": 1,
       "art": 4,
       "tend": 2,
@@ -83,11 +80,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 60
+    "minutes": 75
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.04189614,
+    "monthUsd": 1.04221338,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },
