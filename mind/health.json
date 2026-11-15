@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-15T22:58:02.380Z",
+  "updatedAt": "2026-11-15T23:13:06.764Z",
   "engine": "v0.13.1",
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-15T22:58:02.380Z",
+    "at": "2026-11-15T23:13:06.764Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,60 +18,26 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1463,
-    "decideCalls": 10,
-    "callsByKind": {
-      "thought": 278,
-      "morning": 1,
-      "art": 6,
-      "tend": 3,
-      "sketch": 1,
-      "decide": 9,
-      "bedtime": 1,
-      "memory": 1
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 20,
-      "replan": 7,
-      "bedtime": 1
-    },
+    "ticks": 14,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 1,
+    "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander Digital elevation model": 1,
-      "write Digital elevation model": 1,
-      "tend workshop": 3,
-      "tinker Ripples breathing as one": 1,
-      "wander Shaded relief": 1,
-      "rest": 4,
-      "wander Airborne lidar": 1,
-      "write Airborne lidar": 2,
-      "wander Maya archaeology": 1,
-      "wander Leaf area index": 2,
-      "write Multi-directional shading": 1,
-      "wander Milky Way dust mapping": 1,
-      "write Milky Way dust mapping": 1,
-      "wander Absurd rigorous joke papers": 1,
-      "write Hyper-realistic sand in WebGL": 1,
-      "write Leaf area index": 1
-    },
-    "longestGapMinutes": 1
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 0,
       "max": 40
     }
   },
   "web": {
     "pausedHosts": {},
-    "topHost": {
-      "host": "en.wikipedia.org",
-      "share": 1
-    }
+    "topHost": null
   },
   "allowance": {
     "points": 382,
@@ -79,13 +45,13 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 436
+    "minutes": 451
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 1.1111412,
     "capUsd": 12.6,
-    "paceUsd": 6.3
+    "paceUsd": 6.72
   },
   "openBuild": null,
   "novelty": {
@@ -97,8 +63,5 @@
       }
     }
   },
-  "warnings": [
-    "started \"tend workshop\" 3 times today",
-    "started \"rest\" 4 times today"
-  ]
+  "warnings": []
 }
