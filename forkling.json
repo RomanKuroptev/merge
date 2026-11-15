@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    24,
     0,
-    12.8
+    16
   ],
   "mood": 0.592,
   "energy": 0.1,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-15T13:26:05.321Z",
-    "seed": 1967433849,
-    "reason": "Looping on one wander thread has stopped helping, so I want a fresh topic and something useful to do with the empty workshop.",
-    "goalRef": "today:0"
+    "targetId": "workshop",
+    "startedAt": "2026-11-15T13:40:28.024Z",
+    "seed": 837020190,
+    "reason": "I am carrying things where they belong."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T13:26:05.321Z",
+  "lastTickAt": "2026-11-15T13:41:04.560Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
