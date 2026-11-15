@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T14:36:15.857Z",
-  "lastThinkAt": "2026-11-15T14:36:15.857Z",
+  "appliedStepAt": "2026-11-15T15:06:21.770Z",
+  "lastThinkAt": "2026-11-15T15:36:28.258Z",
   "allowance": {
     "points": 392,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Airborne lidar",
-      "at": "2026-11-14T17:59:36.322Z"
-    },
     {
       "verb": "wander",
       "targetId": "Terrain rendering",
@@ -106,6 +101,10 @@
       "verb": "write",
       "targetId": "Milky Way dust mapping",
       "at": "2026-11-15T15:06:21.770Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-15T15:36:28.258Z"
     }
   ],
   "sparked": {
@@ -114,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T15:33:03.991Z",
     "failures": 0,
-    "recent": [
-      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
-      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
-      "Writing up the dust mapping reading now. Still unclear on multi-directional shading; I'll note that as an open question.",
-      "Writing up the dust mapping reading. Still unclear on multi-directional shading, so that goes down as an open question.",
-      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy, so that stays as an open question."
-    ],
-    "lastAt": "2026-11-15T15:17:44.784Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing up the dust mapping reading. Still unclear on multi-directional shading, so that goes down as an open question.",
+      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy, so that stays as an open question.",
+      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy; it goes down as an open question.",
+      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy, so it stays on the page as an open question.",
+      "Writing up the dust mapping reading. Multi-directional shading is still fuzzy, so it stays as an open question."
+    ]
   },
   "jobs": {
     "seen": [],
