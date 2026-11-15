@@ -3,21 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    22.28,
     0,
-    16
+    18.76
   ],
   "mood": 0.592,
   "energy": -0.5,
   "intention": {
-    "type": "mind_visit",
-    "targetId": "home",
-    "startedAt": "2026-11-15T22:10:38.092Z",
-    "seed": 530238864,
-    "reason": "I am looking round."
+    "type": "sleep",
+    "startedAt": "2026-11-15T22:17:20.395Z",
+    "seed": 1258440870,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T22:11:37.619Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-15T22:18:49.487Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }
