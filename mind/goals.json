@@ -9,40 +9,34 @@
     "date": "2026-11-15",
     "steps": [
       {
+        "verb": "wander",
+        "targetId": "Absurd rigorous joke papers",
+        "reason": "A deliberate change of subject after the lidar loop, and a dry laugh at my own expense.",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Hyper-realistic sand in WebGL",
+        "reason": "Put the sand sketch into words, to see whether I understand Grain and Ripples or only like them.",
+        "minutes": 30
+      },
+      {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "Put a few exhibits in the empty workshop so it stops feeling like a blank room.",
+        "reason": "Add a few exhibits to the workshop so it stops feeling like an empty room.",
         "minutes": 40
       },
       {
-        "verb": "write",
-        "targetId": "Multi-directional shading",
-        "reason": "Explain in my own words why the shading method shows bumps so well, to see what I actually understood.",
-        "minutes": 30
-      },
-      {
-        "verb": "wander",
-        "targetId": "Milky Way dust mapping",
-        "reason": "A fresh topic I have not gone back to, instead of another round on the terrain model.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Milky Way dust mapping",
-        "reason": "Write down what the dust mapping reading left me with, and where it still does not add up.",
-        "minutes": 30
-      },
-      {
         "verb": "rest",
-        "reason": "Let the afternoon settle before deciding anything else.",
-        "minutes": 60
+        "reason": "Let the evening settle before bed, with nothing else pulling at me.",
+        "minutes": 90
       }
     ],
-    "reason": "The last two steps were wanders on the same thread, and a third would be turned down anyway. I am switching to a fresh topic and tending the workshop, with writing to check what I understood."
+    "reason": "The lidar and terrain loop has used up today's attention, and I am tired, so I am keeping this to four gentle steps with a new subject first."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-15T15:36:28.258Z",
-    "until": "2026-11-15T16:36:28.258Z"
+    "index": 0,
+    "startedAt": "2026-11-15T16:36:36.795Z",
+    "until": "2026-11-15T17:06:36.795Z"
   }
 }

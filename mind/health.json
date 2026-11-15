@@ -1,42 +1,46 @@
 {
-  "updatedAt": "2026-11-15T16:20:48.831Z",
+  "updatedAt": "2026-11-15T16:36:36.795Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T16:20:48.831Z",
+    "at": "2026-11-15T16:36:36.795Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-15:98c7e673",
-    "stepsLeft": 0,
+    "planId": "2026-11-15:f2b8d5a8",
+    "stepsLeft": 3,
     "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-15T16:36:28.258Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Absurd rigorous joke papers",
+      "until": "2026-11-15T17:06:36.795Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-15T13:26:05.321Z",
+    "lastReplanAt": "2026-11-15T16:36:36.795Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1058,
-    "decideCalls": 7,
+    "ticks": 1074,
+    "decideCalls": 8,
     "callsByKind": {
-      "thought": 116,
+      "thought": 119,
       "morning": 1,
       "art": 4,
       "tend": 2,
       "sketch": 1,
-      "decide": 6
+      "decide": 7
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
-      "replan": 5
+      "stepDone": 13,
+      "replan": 6
     },
     "failures": 0,
     "rejections": 1,
@@ -55,7 +59,8 @@
       "wander Leaf area index": 1,
       "write Multi-directional shading": 1,
       "wander Milky Way dust mapping": 1,
-      "write Milky Way dust mapping": 1
+      "write Milky Way dust mapping": 1,
+      "wander Absurd rigorous joke papers": 1
     },
     "longestGapMinutes": 1
   },
@@ -73,16 +78,16 @@
     }
   },
   "allowance": {
-    "points": 392,
+    "points": 389,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 44
+    "minutes": 60
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.04020197,
+    "monthUsd": 1.04189614,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },

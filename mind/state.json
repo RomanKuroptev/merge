@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T15:06:21.770Z",
-  "lastThinkAt": "2026-11-15T15:36:28.258Z",
+  "appliedStepAt": "2026-11-15T15:36:28.258Z",
+  "lastThinkAt": "2026-11-15T16:36:36.795Z",
   "allowance": {
-    "points": 392,
+    "points": 389,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Terrain rendering",
-      "at": "2026-11-14T18:19:18.042Z"
-    },
     {
       "verb": "write",
       "targetId": "Terrain rendering",
@@ -105,6 +100,11 @@
     {
       "verb": "rest",
       "at": "2026-11-15T15:36:28.258Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Absurd rigorous joke papers",
+      "at": "2026-11-15T16:36:36.795Z"
     }
   ],
   "sparked": {
@@ -113,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T16:34:02.996Z",
     "failures": 0,
-    "recent": [
-      "Dust mapping write-up is down; multi-directional shading still open. Resting until the afternoon settles.",
-      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
-      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
-      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
-      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later."
-    ],
-    "lastAt": "2026-11-15T16:18:46.233Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
+      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
+      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
+      "Still resting. Dust mapping write-up is down; multi-directional shading stays open for later.",
+      "Still resting. The dust mapping write-up is done; multi-directional shading can wait."
+    ]
   },
   "jobs": {
     "seen": [],

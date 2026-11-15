@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.592,
-  "energy": -0.1,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-15T16:18:00.255Z",
-    "seed": 1089126071,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-15T16:36:36.795Z",
+    "seed": 1967441152,
+    "reason": "I want a break from the terrain-model loop, so I will read something far from it and then write about the sand I keep circling.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T16:18:46.233Z",
+  "lastTickAt": "2026-11-15T16:36:36.795Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
