@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T14:45:58.367Z",
-    "seed": 782477822,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-15T15:06:21.770Z",
+    "seed": 1967444217,
+    "reason": "Write down what the dust mapping reading left me with, and where it still does not add up.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T14:47:12.136Z",
+  "lastTickAt": "2026-11-15T15:06:21.770Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

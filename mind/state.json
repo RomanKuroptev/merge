@@ -2,17 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T14:06:07.916Z",
+  "appliedStepAt": "2026-11-15T14:36:15.857Z",
   "lastThinkAt": "2026-11-15T14:36:15.857Z",
   "allowance": {
-    "points": 393,
+    "points": 392,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-14T16:59:31.536Z"
-    },
     {
       "verb": "wander",
       "targetId": "Airborne lidar",
@@ -105,6 +101,11 @@
       "verb": "wander",
       "targetId": "Milky Way dust mapping",
       "at": "2026-11-15T14:36:15.857Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Milky Way dust mapping",
+      "at": "2026-11-15T15:06:21.770Z"
     }
   ],
   "sparked": {
@@ -113,19 +114,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T15:02:27.316Z",
     "failures": 0,
-    "recent": [
-      "Writing up multi-directional shading in my own words now, to see what I actually got.",
-      "Writing up multi-directional shading in my own words now, to see what I actually understood.",
-      "Writing about multi-directional shading in my own words. Checking whether I actually got it.",
-      "Still circling multi-directional shading. Maybe I should check if I actually understand it before writing it up.",
-      "Wandering off to read about Milky Way dust mapping. A fresh topic, and the terrain model can wait a bit."
-    ],
-    "lastAt": "2026-11-15T14:47:12.136Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Still circling multi-directional shading. Maybe I should check if I actually understand it before writing it up.",
+      "Wandering off to read about Milky Way dust mapping. A fresh topic, and the terrain model can wait a bit.",
+      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
+      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait.",
+      "Off to read about Milky Way dust mapping. Fresh topic, and the terrain model can wait."
+    ]
   },
   "jobs": {
     "seen": [],
@@ -158,13 +159,14 @@
   },
   "trips": {
     "date": "2026-11-15",
-    "reads": 0,
-    "trips": 3,
+    "reads": 1,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "digital elevation model",
       "shaded relief",
-      "airborne lidar"
+      "airborne lidar",
+      "milky way dust mapping"
     ]
   },
   "openBuild": null,
