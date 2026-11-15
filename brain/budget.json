@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 1.02680733,
+  "spentUsd": 1.02712927,
   "calls": [
-    {
-      "at": "2026-11-13T15:38:53.462Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 452,
-      "cacheRead": 2137,
-      "cacheWrite": 0,
-      "output": 77,
-      "usd": 0.00010507000000000001
-    },
-    {
-      "at": "2026-11-13T15:43:57.464Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 381,
-      "cacheRead": 2137,
-      "cacheWrite": 0,
-      "output": 66,
-      "usd": 0.00009247
-    },
-    {
-      "at": "2026-11-13T15:49:00.460Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 389,
-      "cacheRead": 2137,
-      "cacheWrite": 0,
-      "output": 66,
-      "usd": 0.00009327
-    },
     {
       "at": "2026-11-13T15:54:06.433Z",
       "kind": "thought",
@@ -5003,16 +4973,46 @@
       "cacheWrite": 0,
       "output": 64,
       "usd": 0.00009608
+    },
+    {
+      "at": "2026-11-15T11:59:39.536Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 482,
+      "cacheRead": 2558,
+      "cacheWrite": 0,
+      "output": 91,
+      "usd": 0.00011928
+    },
+    {
+      "at": "2026-11-15T12:04:43.633Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 384,
+      "cacheRead": 2558,
+      "cacheWrite": 0,
+      "output": 73,
+      "usd": 0.00010048
+    },
+    {
+      "at": "2026-11-15T12:09:46.566Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 401,
+      "cacheRead": 2558,
+      "cacheWrite": 0,
+      "output": 73,
+      "usd": 0.00010218
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 617,
-      "input": 251678,
-      "cacheRead": 1401695,
+      "calls": 620,
+      "input": 252945,
+      "cacheRead": 1409369,
       "cacheWrite": 13664,
-      "output": 41113,
-      "usd": 0.06144926
+      "output": 41350,
+      "usd": 0.0617712
     },
     "bedtime": {
       "calls": 3,
