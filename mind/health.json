@@ -1,42 +1,43 @@
 {
-  "updatedAt": "2026-11-15T18:06:18.720Z",
+  "updatedAt": "2026-11-15T18:16:56.185Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T18:06:18.720Z",
+    "at": "2026-11-15T18:16:56.185Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/4: rest, tended Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-15:f2b8d5a8",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-15T18:16:49.742Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-15T19:46:56.185Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-15T16:36:36.795Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1166,
+    "ticks": 1177,
     "decideCalls": 8,
     "callsByKind": {
-      "thought": 156,
+      "thought": 161,
       "morning": 1,
       "art": 5,
-      "tend": 2,
+      "tend": 3,
       "sketch": 1,
       "decide": 7
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "replan": 6
     },
     "failures": 0,
@@ -49,7 +50,7 @@
       "tend workshop": 3,
       "tinker Ripples breathing as one": 1,
       "wander Shaded relief": 1,
-      "rest": 2,
+      "rest": 3,
       "wander Airborne lidar": 1,
       "write Airborne lidar": 2,
       "wander Maya archaeology": 1,
@@ -81,11 +82,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 148
+    "minutes": 158
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.04625243,
+    "monthUsd": 1.04767053,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },
@@ -100,6 +101,7 @@
     }
   },
   "warnings": [
-    "started \"tend workshop\" 3 times today"
+    "started \"tend workshop\" 3 times today",
+    "started \"rest\" 3 times today"
   ]
 }

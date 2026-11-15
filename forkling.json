@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.592,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-15T18:04:21.912Z",
-    "seed": 292745542,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_rest",
+    "startedAt": "2026-11-15T18:16:56.185Z",
+    "seed": 1967451532,
+    "reason": "Let the evening settle before bed, with nothing else pulling at me.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T18:05:16.049Z",
+  "lastTickAt": "2026-11-15T18:16:56.185Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

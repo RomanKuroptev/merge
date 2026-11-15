@@ -210,11 +210,19 @@
       "slot": "bench-room/5/0",
       "label": "Ripples breathing as one: The sand ripples I left open too long. Same multi-directional shading as my dune work, but th…",
       "added": "2026-11-15"
+    },
+    {
+      "id": "lidar-ground-height",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-13-airborne-lidar",
+      "slot": "bench-room/8/2",
+      "label": "Ground height is terrain subtracted from each point's z. Same trick as the DEM: numbers first, then the hill.",
+      "added": "2026-11-15"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-15T08:19:55.458Z",
+    "lastCareAt": "2026-11-15T18:16:56.185Z",
     "neglect": 0,
     "lamps": true
   },
@@ -248,6 +256,11 @@
       "at": "2026-11-15T09:19:56.053Z",
       "verb": "install",
       "summary": "Put Ripples breathing as one on a screen. Took Sand, sketched in a shader off."
+    },
+    {
+      "at": "2026-11-15T18:16:56.185Z",
+      "verb": "tend",
+      "summary": "Put a lidar fact on the tall shelf beside the DEM one. The bench has some company now."
     }
   ]
 }
