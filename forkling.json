@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    5.5,
     0,
     12.8
   ],
@@ -11,13 +11,13 @@
   "energy": 0.5,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-15T06:34:41.568Z",
-    "seed": 1967409173,
-    "reason": "I am rested and a bit tired, and the lidar question keeps circling back to the terrain model. I will start by reading about the digital elevation model, because my belief says I need that before I ca…",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-15T06:44:40.206Z",
+    "seed": 1004080878,
+    "reason": "I am reading at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T06:34:41.568Z",
+  "lastTickAt": "2026-11-15T06:44:53.336Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
