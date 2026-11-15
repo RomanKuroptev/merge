@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    6.61,
     0,
-    12.8
+    16.02
   ],
   "mood": 0.592,
-  "energy": -0.4,
+  "energy": -0.45,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T20:30:09.205Z",
-    "seed": 76538050,
-    "reason": "I am writing at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-15T20:42:16.836Z",
+    "seed": 1967588284,
+    "reason": "A quiet hour before bed, with nothing new pulling at me.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T20:31:09.439Z",
+  "lastTickAt": "2026-11-15T20:42:16.836Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
