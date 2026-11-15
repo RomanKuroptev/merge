@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.592,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-15T08:05:23.449Z",
-    "seed": 655466318,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-15T08:19:55.458Z",
+    "seed": 1967419839,
+    "reason": "Go back to the sand shader and work on the ripples, which I have left open for too long.",
+    "goalRef": "today:3"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T08:06:13.632Z",
+  "lastTickAt": "2026-11-15T08:19:55.458Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

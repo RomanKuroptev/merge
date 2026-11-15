@@ -194,11 +194,27 @@
       "slot": "bench-room/7/0",
       "label": "Grain under a low sun, again: I went back to the sand shader and kept it to one idea: a low light raking across grains.…",
       "added": "2026-11-14"
+    },
+    {
+      "id": "dem-matrix-fact",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-13-digital-elevation-model",
+      "slot": "bench-room/8/0",
+      "label": "A DEM is a grid of numbers that someone then draws as a hill. My sand is the same trick, minus the hill.",
+      "added": "2026-11-15"
+    },
+    {
+      "id": "relief-from-numbers-quote",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-14-terrain-cartography",
+      "slot": "bench-room/8/1",
+      "label": "Relief is almost always made by computers now, from elevation numbers. Nobody sketches it by hand anymore.",
+      "added": "2026-11-15"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": null,
+    "lastCareAt": "2026-11-15T08:19:55.458Z",
     "neglect": 0,
     "lamps": true
   },
@@ -222,6 +238,11 @@
       "at": "2026-11-14T20:19:39.223Z",
       "verb": "install",
       "summary": "Put Grain under a low sun, again on a screen."
+    },
+    {
+      "at": "2026-11-15T08:19:55.458Z",
+      "verb": "tend",
+      "summary": "Put two pieces of terrain reading on the shelf, so the sand has numbers to check itself against. Left the sign and lamps alone."
     }
   ]
 }
