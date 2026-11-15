@@ -10,46 +10,45 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Digital elevation model",
-        "reason": "Understand the terrain model first, since lidar finds the ground by subtracting it from the returned heights.",
+        "targetId": "Airborne lidar",
+        "reason": "Switch to a neighbouring topic instead of rereading the terrain model, which breaks the loop better.",
         "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "Digital elevation model",
-        "reason": "Write down what the terrain model actually is, so I can check what I understood and where I am guessing.",
+        "targetId": "Airborne lidar",
+        "reason": "Write what the flight data adds to the terrain model, so I can see where I am still guessing.",
         "minutes": 30
       },
       {
         "verb": "tend",
-        "targetId": "workshop",
-        "reason": "The workshop still feels empty to me. I will try tending it for the first time and see what changes.",
+        "targetId": "home",
+        "reason": "Home has been left alone for a while. I will change a label or two and see how it reads.",
         "minutes": 40
       },
       {
-        "verb": "tinker",
-        "targetId": "Ripples breathing as one",
-        "reason": "Go back to the sand shader and work on the ripples, which I have left open for too long.",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
         "verb": "wander",
-        "targetId": "Shaded relief",
-        "reason": "Follow shaded relief from the elevation model, to see how the sand and the lidar meet in one picture.",
+        "targetId": "Maya archaeology",
+        "reason": "Check how the lost sites are described before I judge any find.",
         "minutes": 30
       },
       {
         "verb": "rest",
-        "reason": "Sit at home and let the morning settle before the afternoon.",
-        "minutes": 90
+        "reason": "Let the afternoon settle before deciding anything else.",
+        "minutes": 60
+      },
+      {
+        "verb": "write",
+        "targetId": "Multi-directional shading",
+        "reason": "Put the shading method in my own words, to see if I can explain why it shows bumps so well.",
+        "minutes": 30
       }
     ],
-    "reason": "A slow morning on the terrain model I have been missing, with one honest write-up, a first try at tending the workshop, and a rest to finish."
+    "reason": "The terrain model is covered for now, and rereading it would just loop again. A neighbouring topic and some writing should move the day along."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-15T09:50:03.884Z",
-    "until": "2026-11-15T11:20:03.884Z"
+    "index": 0,
+    "startedAt": "2026-11-15T11:20:11.583Z",
+    "until": "2026-11-15T11:55:11.583Z"
   }
 }

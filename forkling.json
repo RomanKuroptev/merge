@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.592,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-15T11:03:45.146Z",
-    "seed": 1457580310,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-15T11:20:11.583Z",
+    "seed": 1967427583,
+    "reason": "I want to break the terrain-model loop by moving sideways into airborne lidar, then check what I understood by writing it down.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T11:03:47.118Z",
+  "lastTickAt": "2026-11-15T11:20:11.583Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
