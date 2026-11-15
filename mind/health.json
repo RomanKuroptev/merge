@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-15T13:16:00.058Z",
+  "updatedAt": "2026-11-15T13:26:05.321Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T13:16:00.058Z",
+    "at": "2026-11-15T13:26:05.321Z",
     "asleep": false,
-    "summary": "thought about replan, left wander, step 1/5: wander, new plan",
+    "summary": "thought about replan, left wander, step 1/5: tend, new plan",
     "think": "decide",
     "triggers": [
       "replan"
@@ -13,42 +13,42 @@
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-15:bfe25e7d",
+    "planId": "2026-11-15:98c7e673",
     "stepsLeft": 4,
     "current": {
       "index": 0,
-      "verb": "wander",
-      "targetId": "Leaf area index",
-      "until": "2026-11-15T13:46:00.058Z",
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-15T14:06:05.321Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-15T13:16:00.058Z",
+    "lastReplanAt": "2026-11-15T13:26:05.321Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 867,
-    "decideCalls": 4,
+    "ticks": 879,
+    "decideCalls": 7,
     "callsByKind": {
-      "thought": 80,
+      "thought": 82,
       "morning": 1,
       "art": 2,
       "tend": 1,
       "sketch": 1,
-      "decide": 3
+      "decide": 6
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 8,
-      "replan": 3
+      "replan": 5
     },
     "failures": 0,
-    "rejections": 0,
+    "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
-      "tend workshop": 1,
+      "tend workshop": 2,
       "tinker Ripples breathing as one": 1,
       "wander Shaded relief": 1,
       "rest": 1,
@@ -73,16 +73,16 @@
     }
   },
   "allowance": {
-    "points": 399,
+    "points": 397,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 233
+    "minutes": 243
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.03162669,
+    "monthUsd": 1.0348556,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },

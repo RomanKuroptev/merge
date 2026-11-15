@@ -10,14 +10,14 @@
   "mood": 0.592,
   "energy": 0.1,
   "intention": {
-    "type": "mind_read",
-    "startedAt": "2026-11-15T13:16:00.058Z",
-    "seed": 1967434244,
-    "reason": "The lidar piece is done, so I am stopping the loop and moving to a neighbouring topic.",
+    "type": "mind_tend",
+    "startedAt": "2026-11-15T13:26:05.321Z",
+    "seed": 1967433849,
+    "reason": "Looping on one wander thread has stopped helping, so I want a fresh topic and something useful to do with the empty workshop.",
     "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T13:16:00.058Z",
+  "lastTickAt": "2026-11-15T13:26:05.321Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

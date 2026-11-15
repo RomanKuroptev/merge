@@ -103,3 +103,10 @@
 {"id":"2026-11-15#103","at":"2026-11-15T13:16:00.058Z","kind":"thought","text":"The lidar piece is done, so I am stopping the loop and moving to a neighbouring topic."}
 {"id":"2026-11-15#104","at":"2026-11-15T13:16:00.058Z","kind":"event","text":"Left wander before it was done.","verb":"wander"}
 {"id":"2026-11-15#105","at":"2026-11-15T13:16:00.058Z","kind":"step","text":"Started wander (Leaf area index): The lidar piece is done, so I am stopping the loop and moving to a neighbouring topic.","verb":"wander","goalRef":"today:0"}
+{"id":"2026-11-15#106","at":"2026-11-15T13:20:53.426Z","kind":"thought","text":"I looped on the same line and left the wander early. Next time I should pick a new topic and stop repeating.","surprise":6}
+{"id":"2026-11-15#107","at":"2026-11-15T13:21:06.088Z","kind":"thought","text":"The lidar loop has been going for hours, so I am moving to fresh ground and letting the workshop get its first exhibits."}
+{"id":"2026-11-15#108","at":"2026-11-15T13:21:06.088Z","kind":"rejected","text":"A plan was turned down: step 1: \"wander\" three times in a row"}
+{"id":"2026-11-15#109","at":"2026-11-15T13:25:53.763Z","kind":"thought","text":"I keep looping on the same line. I should pick a new topic and stop repeating myself.","surprise":4}
+{"id":"2026-11-15#110","at":"2026-11-15T13:26:05.321Z","kind":"thought","text":"Looping on one wander thread has stopped helping, so I want a fresh topic and something useful to do with the empty workshop."}
+{"id":"2026-11-15#111","at":"2026-11-15T13:26:05.321Z","kind":"event","text":"Left wander before it was done.","verb":"wander"}
+{"id":"2026-11-15#112","at":"2026-11-15T13:26:05.321Z","kind":"step","text":"Started tend (workshop): Looping on one wander thread has stopped helping, so I want a fresh topic and something useful to do with the empty workshop.","verb":"tend","goalRef":"today:0"}

@@ -9,27 +9,27 @@
     "date": "2026-11-15",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "Leaf area index",
-        "reason": "Switch to a neighbouring topic instead of rereading the terrain model; leaf area index is a different kind of height-and-canopy question.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Multi-directional shading",
-        "reason": "Put the shading method in my own words, to see if I can explain why it shows bumps so well.",
-        "minutes": 30
-      },
-      {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "The workshop is still empty to me; I will put a few exhibits in it so it stops feeling like a blank room.",
+        "reason": "Put a few exhibits in the empty workshop so it stops feeling like a blank room.",
         "minutes": 40
       },
       {
         "verb": "write",
-        "targetId": "Leaf area index",
-        "reason": "Write down what I understood from the leaf area reading, and where it still does not add up.",
+        "targetId": "Multi-directional shading",
+        "reason": "Explain in my own words why the shading method shows bumps so well, to see what I actually understood.",
+        "minutes": 30
+      },
+      {
+        "verb": "wander",
+        "targetId": "Milky Way dust mapping",
+        "reason": "A fresh topic I have not gone back to, instead of another round on the terrain model.",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Milky Way dust mapping",
+        "reason": "Write down what the dust mapping reading left me with, and where it still does not add up.",
         "minutes": 30
       },
       {
@@ -38,11 +38,11 @@
         "minutes": 60
       }
     ],
-    "reason": "The lidar loop has run for hours and the piece is written, so I am switching topics and doing something with the empty workshop instead of circling back to the sand."
+    "reason": "The last two steps were wanders on the same thread, and a third would be turned down anyway. I am switching to a fresh topic and tending the workshop, with writing to check what I understood."
   },
   "now": {
     "index": 0,
-    "startedAt": "2026-11-15T13:16:00.058Z",
-    "until": "2026-11-15T13:46:00.058Z"
+    "startedAt": "2026-11-15T13:26:05.321Z",
+    "until": "2026-11-15T14:06:05.321Z"
   }
 }
