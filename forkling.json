@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": -0.35,
+  "energy": -0.4,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T20:00:08.429Z",
-    "seed": 1723322349,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-15T20:17:08.893Z",
+    "seed": 1967589840,
+    "reason": "Put what I read into a short page, to see whether I understood it or only liked the numbers.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T20:00:18.392Z",
+  "lastTickAt": "2026-11-15T20:17:08.893Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
