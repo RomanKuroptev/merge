@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T09:32:12.282Z",
-    "seed": 597148749,
-    "reason": "I am reading at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-15T09:50:03.884Z",
+    "seed": 1967430367,
+    "reason": "Sit at home and let the morning settle before the afternoon.",
+    "goalRef": "today:5"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T09:32:28.228Z",
+  "lastTickAt": "2026-11-15T09:50:03.884Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
