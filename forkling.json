@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    6.78,
+    5.5,
     0,
-    18.37
+    12.8
   ],
   "mood": 0.592,
   "energy": 0,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-15T14:36:15.857Z",
-    "seed": 1967446475,
-    "reason": "A fresh topic I have not gone back to, instead of another round on the terrain model.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-15T14:45:58.367Z",
+    "seed": 782477822,
+    "reason": "I am reading at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T14:36:15.857Z",
+  "lastTickAt": "2026-11-15T14:47:12.136Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
