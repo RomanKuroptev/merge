@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-15T13:56:18.404Z",
+  "updatedAt": "2026-11-15T14:10:35.753Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T13:56:18.404Z",
+    "at": "2026-11-15T14:10:35.753Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-15:98c7e673",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-15T14:06:05.321Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Multi-directional shading",
+      "until": "2026-11-15T14:36:07.916Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-15T13:26:05.321Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 909,
+    "ticks": 925,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 88,
+      "thought": 90,
       "morning": 1,
       "art": 2,
-      "tend": 1,
+      "tend": 2,
       "sketch": 1,
       "decide": 6
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "replan": 5
     },
     "failures": 0,
@@ -53,7 +53,8 @@
       "wander Airborne lidar": 1,
       "write Airborne lidar": 2,
       "wander Maya archaeology": 1,
-      "wander Leaf area index": 1
+      "wander Leaf area index": 1,
+      "write Multi-directional shading": 1
     },
     "longestGapMinutes": 1
   },
@@ -71,16 +72,16 @@
     }
   },
   "allowance": {
-    "points": 397,
+    "points": 396,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 273
+    "minutes": 287
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.03548928,
+    "monthUsd": 1.03656174,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },
