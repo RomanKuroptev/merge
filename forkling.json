@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 0.592,
   "energy": -0.35,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-15T19:47:05.188Z",
-    "seed": 1967593133,
-    "reason": "I want to break the lidar loop with a neighbouring subject, then put what I learn into words before I rest.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-15T20:00:08.429Z",
+    "seed": 1723322349,
+    "reason": "I am reading at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T19:47:05.188Z",
+  "lastTickAt": "2026-11-15T20:00:18.392Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
