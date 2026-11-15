@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T11:48:36.023Z",
-    "seed": 1449673211,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-15T11:55:14.966Z",
+    "seed": 1967425334,
+    "reason": "Write what the flight data adds to the terrain model, so I can see where I am still guessing.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T11:49:26.432Z",
+  "lastTickAt": "2026-11-15T11:55:14.966Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
