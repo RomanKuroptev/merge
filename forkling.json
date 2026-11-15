@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    24,
     0,
-    12.8
+    16
   ],
   "mood": 0.592,
   "energy": 0.4,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-15T07:39:45.607Z",
-    "seed": 1967422293,
-    "reason": "The workshop still feels empty to me. I will try tending it for the first time and see what changes.",
-    "goalRef": "today:2"
+    "targetId": "workshop",
+    "startedAt": "2026-11-15T07:50:34.142Z",
+    "seed": 895657704,
+    "reason": "I am carrying things where they belong."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T07:39:45.607Z",
+  "lastTickAt": "2026-11-15T07:51:01.403Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
