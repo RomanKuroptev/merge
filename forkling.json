@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 0.592,
   "energy": -0.1,
   "intention": {
     "type": "mind_rest",
-    "startedAt": "2026-11-15T15:36:28.258Z",
-    "seed": 1967442920,
-    "reason": "Let the afternoon settle before deciding anything else.",
-    "goalRef": "today:4"
+    "targetId": "home",
+    "startedAt": "2026-11-15T15:47:29.949Z",
+    "seed": 680848980,
+    "reason": "I am resting at home."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T15:36:28.258Z",
+  "lastTickAt": "2026-11-15T15:48:14.757Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
