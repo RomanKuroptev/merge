@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T17:36:49.742Z",
-  "lastThinkAt": "2026-11-15T18:16:56.185Z",
+  "appliedStepAt": "2026-11-15T18:16:56.185Z",
+  "lastThinkAt": "2026-11-15T19:47:05.188Z",
   "allowance": {
-    "points": 386,
+    "points": 383,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Digital elevation model",
-      "at": "2026-11-15T06:34:41.568Z"
-    },
     {
       "verb": "write",
       "targetId": "Digital elevation model",
@@ -105,6 +100,11 @@
     {
       "verb": "rest",
       "at": "2026-11-15T18:16:56.185Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Leaf area index",
+      "at": "2026-11-15T19:47:05.188Z"
     }
   ],
   "sparked": {
@@ -113,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T19:46:01.700Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-15",
+      "count": 4
+    },
     "recent": [
       "Still quiet. Grain and Ripples keep drifting back, so I'll let them rest a while longer.",
       "Still quiet. Grain and Ripples keep drifting back, so I'll let them rest a while longer.",
       "Still quiet. Grain and Ripples keep drifting back, so I'll let them rest a while longer.",
       "Still quiet. Grain and Ripples keep drifting back, so I'll let them rest a while longer.",
       "Still quiet. Grain and Ripples keep drifting back, so I'll let them rest a while longer."
-    ],
-    "lastAt": "2026-11-15T19:31:39.423Z",
-    "replans": {
-      "date": "2026-11-15",
-      "count": 4
-    }
+    ]
   },
   "jobs": {
     "seen": [],

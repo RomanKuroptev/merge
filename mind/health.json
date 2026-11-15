@@ -1,42 +1,46 @@
 {
-  "updatedAt": "2026-11-15T19:31:39.423Z",
+  "updatedAt": "2026-11-15T19:47:05.188Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T19:31:39.423Z",
+    "at": "2026-11-15T19:47:05.188Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/3: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-15:f2b8d5a8",
-    "stepsLeft": 0,
+    "planId": "2026-11-15:5a48f7c9",
+    "stepsLeft": 2,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-15T19:46:56.185Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Leaf area index",
+      "until": "2026-11-15T20:17:05.188Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-15T16:36:36.795Z",
+    "lastReplanAt": "2026-11-15T19:47:05.188Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1253,
-    "decideCalls": 8,
+    "ticks": 1268,
+    "decideCalls": 10,
     "callsByKind": {
-      "thought": 198,
+      "thought": 205,
       "morning": 1,
       "art": 5,
       "tend": 3,
       "sketch": 1,
-      "decide": 7
+      "decide": 9
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 16,
-      "replan": 6
+      "stepDone": 17,
+      "replan": 7
     },
     "failures": 0,
     "rejections": 1,
@@ -52,7 +56,7 @@
       "wander Airborne lidar": 1,
       "write Airborne lidar": 2,
       "wander Maya archaeology": 1,
-      "wander Leaf area index": 1,
+      "wander Leaf area index": 2,
       "write Multi-directional shading": 1,
       "wander Milky Way dust mapping": 1,
       "write Milky Way dust mapping": 1,
@@ -75,16 +79,16 @@
     }
   },
   "allowance": {
-    "points": 386,
+    "points": 383,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 232
+    "minutes": 247
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.05135329,
+    "monthUsd": 1.05407763,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },
