@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    24,
+    8,
     0,
     16
   ],
@@ -11,13 +11,13 @@
   "energy": -0.3,
   "intention": {
     "type": "mind_rest",
-    "startedAt": "2026-11-15T18:16:56.185Z",
-    "seed": 1967451532,
-    "reason": "Let the evening settle before bed, with nothing else pulling at me.",
-    "goalRef": "today:3"
+    "targetId": "home",
+    "startedAt": "2026-11-15T18:31:57.922Z",
+    "seed": 101005078,
+    "reason": "I am resting at home."
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T18:16:56.185Z",
+  "lastTickAt": "2026-11-15T18:31:58.653Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
