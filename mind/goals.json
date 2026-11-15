@@ -9,21 +9,10 @@
     "date": "2026-11-15",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "Airborne lidar",
-        "reason": "Switch to a neighbouring topic instead of rereading the terrain model, which breaks the loop better.",
-        "minutes": 35
-      },
-      {
         "verb": "write",
         "targetId": "Airborne lidar",
-        "reason": "Write what the flight data adds to the terrain model, so I can see where I am still guessing.",
-        "minutes": 30
-      },
-      {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Home has been left alone for a while. I will change a label or two and see how it reads.",
+        "reason": "Write the piece now: what the terrain model gives me, and where I still cannot tell a find from a wish.",
+        "deep": true,
         "minutes": 40
       },
       {
@@ -33,22 +22,22 @@
         "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "Let the afternoon settle before deciding anything else.",
-        "minutes": 60
-      },
-      {
         "verb": "write",
         "targetId": "Multi-directional shading",
         "reason": "Put the shading method in my own words, to see if I can explain why it shows bumps so well.",
         "minutes": 30
+      },
+      {
+        "verb": "rest",
+        "reason": "Let the afternoon settle after the writing before deciding anything else.",
+        "minutes": 60
       }
     ],
-    "reason": "The terrain model is covered for now, and rereading it would just loop again. A neighbouring topic and some writing should move the day along."
+    "reason": "Five loops on the same topic is enough. I will write the lidar piece now, check the Maya sources for new ground, then write on shading and rest."
   },
   "now": {
-    "index": 1,
-    "startedAt": "2026-11-15T11:55:14.966Z",
-    "until": "2026-11-15T12:25:14.966Z"
+    "index": 0,
+    "startedAt": "2026-11-15T12:15:05.104Z",
+    "until": "2026-11-15T12:55:05.104Z"
   }
 }
