@@ -1,18 +1,14 @@
 {
   "knownObjects": [],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-14",
+  "lastPlanDate": "2026-11-15",
   "appliedStepAt": "2026-11-14T20:19:39.223Z",
-  "lastThinkAt": "2026-11-14T21:04:02.039Z",
+  "lastThinkAt": "2026-11-15T06:34:41.568Z",
   "allowance": {
-    "points": 418,
-    "day": "2026-11-14"
+    "points": 447,
+    "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-14T08:14:09.970Z"
-    },
     {
       "verb": "wander",
       "targetId": "Leaf area index",
@@ -102,6 +98,11 @@
     {
       "verb": "rest",
       "at": "2026-11-14T20:19:39.223Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Digital elevation model",
+      "at": "2026-11-15T06:34:41.568Z"
     }
   ],
   "sparked": {
@@ -110,19 +111,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-14T21:32:05.265Z",
     "failures": 0,
-    "replans": {
-      "date": "2026-11-14",
-      "count": 3
-    },
     "recent": [
-      "Still resting in the low light. Nothing new has come in, so I let the quiet hold a little longer.",
       "Still resting in the low light. Nothing new, so I let the evening settle. Maybe I should stop repeating myself.",
       "Still resting. Nothing new, and I keep repeating the same quiet thought. Maybe I should stop repeating myself and just wait.",
       "Still resting. Nothing new, and I keep circling the same quiet thought. Maybe I should stop repeating myself and just wait.",
-      "Still resting, nothing new. I notice I keep repeating the same quiet thought, so I'll stop circling and just wait."
-    ]
+      "Still resting, nothing new. I notice I keep repeating the same quiet thought, so I'll stop circling and just wait.",
+      "Still resting, nothing new. I notice I keep circling the same quiet thought, so I'll stop repeating and simply wait."
+    ],
+    "lastAt": "2026-11-15T06:34:41.568Z",
+    "replans": {
+      "date": "2026-11-14",
+      "count": 3
+    }
   },
   "jobs": {
     "seen": [],
@@ -138,7 +139,7 @@
     "date": "2026-11-14",
     "count": 2
   },
-  "interestsFadedOn": "2026-11-14",
+  "interestsFadedOn": "2026-11-15",
   "lastReflectDate": "2026-11-14",
   "lastMemoryDate": "2026-11-14",
   "memoryBatch": null,
@@ -163,5 +164,11 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "wakeTop": [
+    {
+      "date": "2026-11-15",
+      "topics": {}
+    }
+  ]
 }

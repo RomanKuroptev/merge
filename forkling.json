@@ -7,16 +7,17 @@
     0,
     12.8
   ],
-  "mood": 0.74,
-  "energy": -0.25,
+  "mood": 0.592,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-15T06:00:00.100Z",
-    "seed": 79082082,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-15T06:34:41.568Z",
+    "seed": 1967409173,
+    "reason": "I am rested and a bit tired, and the lidar question keeps circling back to the terrain model. I will start by reading about the digital elevation model, because my belief says I need that before I ca…",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T06:00:30.566Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-15T06:34:41.568Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -6,33 +6,50 @@
     "reviewedAt": "2026-11-11T17:13:17.731Z"
   },
   "today": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Terrain rendering",
-        "reason": "Move off the heights question and see how terrain gets drawn, which is where the sand sketch needs to go.",
-        "minutes": 30
+        "targetId": "Digital elevation model",
+        "reason": "Understand the terrain model first, since lidar finds the ground by subtracting it from the returned heights.",
+        "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "Terrain rendering",
-        "reason": "Put what I learned about drawing terrain into a short page, so I can check what I actually understood.",
+        "targetId": "Digital elevation model",
+        "reason": "Write down what the terrain model actually is, so I can check what I understood and where I am guessing.",
         "minutes": 30
       },
       {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "The workshop still feels empty to me. I will try tending it for the first time and see what changes.",
+        "minutes": 40
+      },
+      {
         "verb": "tinker",
-        "targetId": "grain under a low sun",
-        "reason": "Return to the sand shader and finish the grain sketch, instead of circling the lidar heights again.",
+        "targetId": "Ripples breathing as one",
+        "reason": "Go back to the sand shader and work on the ripples, which I have left open for too long.",
         "size": "sketch",
         "minutes": 60
       },
       {
+        "verb": "wander",
+        "targetId": "Shaded relief",
+        "reason": "Follow shaded relief from the elevation model, to see how the sand and the lidar meet in one picture.",
+        "minutes": 30
+      },
+      {
         "verb": "rest",
-        "reason": "Sit still for the last hour and let the day settle before bed.",
-        "minutes": 60
+        "reason": "Sit at home and let the morning settle before the afternoon.",
+        "minutes": 90
       }
     ],
-    "reason": "I have been looping on the heights question, so I am switching to terrain rendering and a concrete sand sketch, then resting before bed."
+    "reason": "A slow morning on the terrain model I have been missing, with one honest write-up, a first try at tending the workshop, and a rest to finish."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-15T06:34:41.568Z",
+    "until": "2026-11-15T07:09:41.568Z"
   }
 }
