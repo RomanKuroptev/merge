@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T17:19:34.733Z",
-    "seed": 1398390448,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-15T17:36:49.742Z",
+    "seed": 1967453989,
+    "reason": "Add a few exhibits to the workshop so it stops feeling like an empty room.",
+    "goalRef": "today:2"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T17:19:59.699Z",
+  "lastTickAt": "2026-11-15T17:36:49.742Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

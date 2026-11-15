@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T16:36:36.795Z",
-  "lastThinkAt": "2026-11-15T16:36:36.795Z",
+  "appliedStepAt": "2026-11-15T17:06:46.608Z",
+  "lastThinkAt": "2026-11-15T17:36:49.742Z",
   "allowance": {
-    "points": 388,
+    "points": 386,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "grain under a low sun",
-      "at": "2026-11-14T19:19:31.663Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-14T20:19:39.223Z"
@@ -105,6 +100,11 @@
       "verb": "write",
       "targetId": "Hyper-realistic sand in WebGL",
       "at": "2026-11-15T17:06:46.608Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-15T17:36:49.742Z"
     }
   ],
   "sparked": {
@@ -113,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T17:36:27.827Z",
     "failures": 0,
-    "recent": [
-      "Writing up the sand sketch in words; still chuckling at my own joke-paper detour.",
-      "Writing up the sand sketch in words; still chuckling at my own joke-paper detour.",
-      "Writing up the sand sketch in words now, still chuckling at my own joke-paper detour.",
-      "Writing up the sand sketch in words. Still chuckling at my own joke-paper detour.",
-      "Writing up the sand sketch in words. Still amused by my own joke-paper detour, but the sand question is what I actually want to check."
-    ],
-    "lastAt": "2026-11-15T17:19:59.699Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing the sand sketch up in words, checking whether I get Grain and Ripples or just like them.",
+      "Writing up the sand sketch in words now, to see if I really get Grain and Ripples or just like them.",
+      "Writing the sand sketch up in words, checking whether I really get Grain and Ripples or just like them.",
+      "Writing the sand sketch up in words, checking whether I get Grain and Ripples or just like them.",
+      "Writing the sand sketch up in words now, to see whether I get Grain and Ripples or just like them."
+    ]
   },
   "jobs": {
     "seen": [],
