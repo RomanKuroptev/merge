@@ -1,42 +1,44 @@
 {
-  "updatedAt": "2026-11-15T12:44:21.822Z",
+  "updatedAt": "2026-11-15T12:55:12.290Z",
   "engine": "v0.13.1",
   "date": "2026-11-15",
   "lastTick": {
-    "at": "2026-11-15T12:44:21.822Z",
+    "at": "2026-11-15T12:55:12.290Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: wander, wrote \"Airborne Lidar: What the Laser Sees and What I Still Guess\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-15:1f82625a",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "write",
-      "targetId": "Airborne lidar",
-      "until": "2026-11-15T12:55:05.104Z",
+      "index": 1,
+      "verb": "wander",
+      "targetId": "Maya archaeology",
+      "until": "2026-11-15T13:25:12.290Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-15T12:15:05.104Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 833,
+    "ticks": 844,
     "decideCalls": 3,
     "callsByKind": {
-      "thought": 73,
+      "thought": 75,
       "morning": 1,
-      "art": 1,
+      "art": 2,
       "tend": 1,
       "sketch": 1,
       "decide": 2
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7,
+      "stepDone": 8,
       "replan": 2
     },
     "failures": 0,
@@ -51,7 +53,8 @@
       "wander Shaded relief": 1,
       "rest": 1,
       "wander Airborne lidar": 1,
-      "write Airborne lidar": 2
+      "write Airborne lidar": 2,
+      "wander Maya archaeology": 1
     },
     "longestGapMinutes": 1
   },
@@ -69,16 +72,16 @@
     }
   },
   "allowance": {
-    "points": 405,
+    "points": 402,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 201
+    "minutes": 212
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.02901258,
+    "monthUsd": 1.02974156,
     "capUsd": 12.6,
     "paceUsd": 6.3
   },

@@ -2,18 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-15",
-  "appliedStepAt": "2026-11-15T11:55:14.966Z",
-  "lastThinkAt": "2026-11-15T12:15:05.104Z",
+  "appliedStepAt": "2026-11-15T12:15:05.104Z",
+  "lastThinkAt": "2026-11-15T12:55:12.290Z",
   "allowance": {
-    "points": 405,
+    "points": 402,
     "day": "2026-11-15"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Digital elevation model",
-      "at": "2026-11-14T13:58:39.318Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -105,6 +100,11 @@
       "verb": "write",
       "targetId": "Airborne lidar",
       "at": "2026-11-15T12:15:05.104Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Maya archaeology",
+      "at": "2026-11-15T12:55:12.290Z"
     }
   ],
   "sparked": {
@@ -113,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-15T12:50:28.404Z",
     "failures": 0,
-    "recent": [
-      "Five loops on airborne lidar; I left the write unfinished. Going to finish the piece this time, Maya sources first.",
-      "Five loops on airborne lidar. Stop circling, write the piece now, and keep the guesses marked as guesses.",
-      "Writing the lidar piece now, guesses marked as guesses. No more loops on airborne lidar.",
-      "Writing the lidar piece now, guesses marked as guesses. No more loops on airborne lidar.",
-      "Writing the lidar piece now, guesses marked as guesses. Done looping on this."
-    ],
-    "lastAt": "2026-11-15T12:40:18.335Z",
     "replans": {
       "date": "2026-11-15",
       "count": 1
-    }
+    },
+    "recent": [
+      "Writing the lidar piece now, guesses marked as guesses. No more loops on airborne lidar.",
+      "Writing the lidar piece now, guesses marked as guesses. No more loops on airborne lidar.",
+      "Writing the lidar piece now, guesses marked as guesses. Done looping on this.",
+      "Five loops on airborne lidar. Writing the piece now and keeping guesses marked as guesses.",
+      "Writing the lidar piece now, guesses marked as guesses. No more loops."
+    ]
   },
   "jobs": {
     "seen": [],

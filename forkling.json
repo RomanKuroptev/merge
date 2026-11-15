@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.592,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-15T12:39:41.056Z",
-    "seed": 1419387431,
-    "reason": "I am writing at my desk."
+    "type": "mind_read",
+    "startedAt": "2026-11-15T12:55:12.290Z",
+    "seed": 1967436068,
+    "reason": "Check how the lost sites are described before I judge any find.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-15T12:40:18.335Z",
+  "lastTickAt": "2026-11-15T12:55:12.290Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
