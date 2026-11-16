@@ -1,19 +1,14 @@
 {
   "knownObjects": [],
   "seenEventTypes": [],
-  "lastPlanDate": "2026-11-15",
+  "lastPlanDate": "2026-11-16",
   "appliedStepAt": "2026-11-15T20:42:16.836Z",
-  "lastThinkAt": "2026-11-15T21:46:43.282Z",
+  "lastThinkAt": "2026-11-16T06:17:20.782Z",
   "allowance": {
-    "points": 382,
-    "day": "2026-11-15"
+    "points": 447,
+    "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Ripples breathing as one",
-      "at": "2026-11-15T08:19:55.458Z"
-    },
     {
       "verb": "wander",
       "targetId": "Shaded relief",
@@ -104,6 +99,11 @@
     {
       "verb": "rest",
       "at": "2026-11-15T20:42:16.836Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Digital elevation model",
+      "at": "2026-11-16T06:17:20.782Z"
     }
   ],
   "sparked": {
@@ -112,19 +112,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-15T22:15:46.420Z",
     "failures": 0,
-    "replans": {
-      "date": "2026-11-15",
-      "count": 4
-    },
     "recent": [
-      "Still resting. Nothing new, the quiet hour carries on until bed.",
+      "Still resting. Nothing new, so the quiet hour carries on until bed.",
       "Still resting. Nothing new, so the quiet hour carries on until bed.",
       "Still resting. Nothing new, so the quiet hour carries on until bed.",
       "Still resting. Nothing new, so the quiet hour carries on until bed.",
       "Still resting. Nothing new, so the quiet hour carries on until bed."
-    ]
+    ],
+    "lastAt": "2026-11-16T06:17:20.782Z",
+    "replans": {
+      "date": "2026-11-15",
+      "count": 4
+    }
   },
   "jobs": {
     "seen": [],
@@ -133,6 +133,10 @@
   "wakeTop": [
     {
       "date": "2026-11-15",
+      "topics": {}
+    },
+    {
+      "date": "2026-11-16",
       "topics": {}
     }
   ],
@@ -146,7 +150,7 @@
     "date": "2026-11-15",
     "count": 1
   },
-  "interestsFadedOn": "2026-11-15",
+  "interestsFadedOn": "2026-11-16",
   "lastReflectDate": "2026-11-15",
   "lastMemoryDate": "2026-11-15",
   "memoryBatch": null,

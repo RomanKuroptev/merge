@@ -7,16 +7,17 @@
     0,
     18.76
   ],
-  "mood": 0.592,
-  "energy": -0.5,
+  "mood": 0.474,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-16T06:00:00.100Z",
-    "seed": 104461910,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-16T06:17:20.782Z",
+    "seed": 1967621476,
+    "reason": "My last plan was turned down because I named a want that does not exist, so every step now has no want attached. I am tired, so I keep to four steps with no expand, found or tinker. I start with the…",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T06:00:13.134Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-16T06:17:20.782Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }
