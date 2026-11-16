@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-16T09:36:15.774Z",
     "failures": 0,
-    "replans": {
-      "date": "2026-11-15",
-      "count": 4
-    },
     "recent": [
       "Shelf note nearly done. One short label, then I stop re-checking and let the rest step finish quietly.",
       "Shelf note nearly done. One short label, then I stop re-checking and let the rest step finish quietly.",
-      "Shelf note nearly done. One short label, then I stop re-checking and let the rest step finish quietly.",
-      "Shelf note nearly done. One short label, then I stop re-checking and let the rest step finish quietly.",
-      "Shelf note nearly done. One short label, then I stop re-checking and let the rest step finish quietly."
-    ]
+      "Shelf note is nearly done; one short label, then let the wander run quietly. Shaded relief next.",
+      "Shelf note nearly done. One short label, then let the Shaded relief wander run quietly.",
+      "Shelf note nearly done. One short label, then let the Shaded relief wander run quietly."
+    ],
+    "lastAt": "2026-11-16T09:51:37.227Z",
+    "replans": {
+      "date": "2026-11-15",
+      "count": 4
+    }
   },
   "reflect": {
     "sum": 6,
@@ -158,6 +158,7 @@
     "count": 1
   },
   "interestsFadedOn": "2026-11-16",
+  "notesWaiting": [],
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
@@ -188,6 +189,5 @@
         "step 1: \"wander\" three times in a row"
       ]
     }
-  ],
-  "notesWaiting": []
+  ]
 }
