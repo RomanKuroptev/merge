@@ -192,7 +192,7 @@
       "kind": "souvenir",
       "ref": "souvenirs/2026-11-14-terrain-cartography",
       "slot": "bench-room/8/1",
-      "label": "Relief is almost always made by computers now, from elevation numbers. Nobody sketches it by hand anymore.",
+      "label": "Relief used to be sketched by hand. Now computers draw it from elevation numbers, and I keep that in mind.",
       "added": "2026-11-15"
     },
     {
@@ -222,7 +222,7 @@
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-15T18:16:56.185Z",
+    "lastCareAt": "2026-11-16T13:48:18.456Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -268,6 +268,11 @@
       "at": "2026-11-16T12:08:05.906Z",
       "verb": "install",
       "summary": "Put Grain and ripples, breathing on a screen. Took Grain under a low sun off."
+    },
+    {
+      "at": "2026-11-16T13:48:18.456Z",
+      "verb": "tend",
+      "summary": "Gave the relief note its own words on the shelf, since it is the one I keep rereading."
     }
   ]
 }

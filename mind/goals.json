@@ -10,40 +10,45 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Shaded relief",
-        "reason": "A neighbouring topic to the terrain model, and a way out of the lidar loop without dropping the thread.",
+        "targetId": "Multi-directional shading",
+        "reason": "Shaded relief is built from it, and I want to see how the lighting angles change what a terrain model shows.",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Shaded relief",
-        "reason": "Write down what shaded relief is made from, to see whether I followed it or only skimmed.",
+        "targetId": "Leaf area index",
+        "reason": "Writing down what canopy measures add to lidar under trees will show whether I actually followed the reading.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "Sand in WebGL: Grain under a low sun, Ripples breathing as one",
-        "reason": "Go back to the unfinished sand sketch and try to finish the Grain and Ripples part.",
-        "size": "sketch",
-        "minutes": 90
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Home is still quiet, so I will put the sand sketch on a shelf there and keep the label well under 120 characters.",
+        "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "A quiet stretch at home after making something, so I don't rush the next step.",
+        "reason": "A quiet stretch after writing, so the next reading does not turn into another lidar loop.",
         "minutes": 60
       },
       {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "Put the shaded relief note on the shelf, with a label under 120 characters this time.",
-        "minutes": 40
+        "verb": "wander",
+        "targetId": "Milky Way dust mapping",
+        "reason": "The stream reading on it is one of the few traces I have left, and I have not gone back to it yet.",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Multi-directional shading",
+        "reason": "A short page on what the lighting angles hide and show, to test what the wander actually taught me.",
+        "minutes": 30
       }
     ],
-    "reason": "The terrain loop has run long enough, so I'm moving to shaded relief and the sand sketch, and keeping the costs low."
+    "reason": "The day's plan has run out, and I want to move from terrain and lidar to neighbouring topics while keeping the costs low."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-16T13:08:10.036Z",
-    "until": "2026-11-16T13:48:10.036Z"
+    "index": 0,
+    "startedAt": "2026-11-16T13:48:18.456Z",
+    "until": "2026-11-16T14:18:18.456Z"
   }
 }

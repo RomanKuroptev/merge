@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.474,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-16T13:35:23.406Z",
-    "seed": 6673408,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_read",
+    "startedAt": "2026-11-16T13:48:18.456Z",
+    "seed": 1967526710,
+    "reason": "The sand sketch is done for now, so I want to stop circling lidar and test what I understand on a neighbouring topic.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T13:35:49.880Z",
+  "lastTickAt": "2026-11-16T13:48:18.456Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
