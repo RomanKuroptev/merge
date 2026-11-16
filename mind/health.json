@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-16T20:01:45.763Z",
+  "updatedAt": "2026-11-16T20:16:51.873Z",
   "engine": "v0.15.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T20:01:45.763Z",
+    "at": "2026-11-16T20:16:51.873Z",
     "asleep": false,
-    "summary": "tended Home, thought about replan, plan rejected",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -18,17 +15,17 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-16T17:51:37.062Z",
-    "idleMinutes": 1
+    "idleMinutes": 15
   },
   "today": {
-    "ticks": 1292,
-    "decideCalls": 9,
+    "ticks": 1311,
+    "decideCalls": 17,
     "callsByKind": {
-      "thought": 215,
+      "thought": 222,
       "morning": 2,
       "art": 5,
       "screen": 1,
-      "decide": 7,
+      "decide": 15,
       "sketch": 1,
       "tend": 3,
       "reflection": 2,
@@ -36,9 +33,9 @@
       "goalreview": 1
     },
     "spendByKind": {
-      "thought": 0.022136545000000004,
+      "thought": 0.023062025000000003,
       "screen": 0.00009047499999999999,
-      "decide": 0.008956885000000001,
+      "decide": 0.017052765000000004,
       "art": 0.0019730249999999998,
       "sketch": 0.00308765,
       "tend": 0.003284825,
@@ -49,12 +46,12 @@
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 19,
-      "replan": 4,
+      "replan": 8,
       "note": 1,
       "reflected": 1
     },
     "failures": 1,
-    "rejections": 1,
+    "rejections": 5,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
@@ -92,11 +89,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 299
+    "minutes": 313
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.21417549,
+    "monthUsd": 1.22319685,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -136,6 +133,8 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "started \"tend home\" 3 times today"
+    "started \"tend home\" 3 times today",
+    "17 decide calls today (more than 15)",
+    "5 plans turned down today"
   ]
 }
