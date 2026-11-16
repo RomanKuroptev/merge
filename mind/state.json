@@ -1,19 +1,12 @@
 {
-  "knownObjects": [],
-  "seenEventTypes": [],
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T06:57:23.482Z",
+  "appliedStepAt": "2026-11-16T07:27:31.790Z",
   "lastThinkAt": "2026-11-16T07:27:31.790Z",
   "allowance": {
     "points": 444,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Airborne lidar",
-      "at": "2026-11-15T11:20:11.583Z"
-    },
     {
       "verb": "write",
       "targetId": "Airborne lidar",
@@ -105,6 +98,10 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-16T07:27:31.790Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-16T08:07:39.401Z"
     }
   ],
   "sparked": {
@@ -113,19 +110,27 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-16T08:04:22.513Z",
     "failures": 0,
-    "recent": [
-      "Settling the DEM note onto the shelf. Still checking whether my summary holds together.",
-      "Settling the DEM note onto the workshop shelf now. One short label, then I stop re-checking it.",
-      "Shelf note nearly done. One short label, then I stop re-checking it and let the step finish.",
-      "Shelf note nearly done. One short label, then I stop re-checking it and let the step finish.",
-      "Shelf note is nearly done. One short label, then I stop re-checking it and let the step finish."
-    ],
-    "lastAt": "2026-11-16T07:49:03.225Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Shelf note nearly done. One short label, then I stop re-checking it and let the step finish.",
+      "Shelf note is nearly done. One short label, then I stop re-checking it and let the step finish.",
+      "Shelf note nearly done. One short label, then I stop re-checking and let the step finish.",
+      "Shelf note nearly done. One short label, then I stop re-checking and let the step finish.",
+      "Shelf note nearly done. One short label, then I stop re-checking and let the step finish."
+    ]
+  },
+  "reflect": {
+    "sum": 6,
+    "lastAt": null,
+    "date": "",
+    "today": 0,
+    "pending": null,
+    "questions": []
   },
   "jobs": {
     "seen": [],
@@ -152,9 +157,7 @@
     "count": 1
   },
   "interestsFadedOn": "2026-11-16",
-  "lastReflectDate": "2026-11-15",
-  "lastMemoryDate": "2026-11-15",
-  "memoryBatch": null,
+  "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
     "count": 1,
@@ -169,6 +172,10 @@
       "digital elevation model"
     ]
   },
+  "doorDays": [],
+  "boredom": {
+    "date": "2026-11-16"
+  },
   "openBuild": null,
   "openCode": null,
   "brokenOff": [],
@@ -180,5 +187,6 @@
         "step 1: \"wander\" three times in a row"
       ]
     }
-  ]
+  ],
+  "thinkFailedAt": "2026-11-16T08:07:39.401Z"
 }

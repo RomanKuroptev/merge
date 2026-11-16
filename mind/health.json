@@ -1,48 +1,53 @@
 {
-  "updatedAt": "2026-11-16T07:52:06.094Z",
-  "engine": "v0.13.1",
+  "updatedAt": "2026-11-16T08:07:39.401Z",
+  "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T07:52:06.094Z",
+    "at": "2026-11-16T08:07:39.401Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/4: rest",
     "think": null,
-    "triggers": [],
-    "callsFailed": 0
+    "triggers": [
+      "stepDone"
+    ],
+    "callsFailed": 1
   },
   "plan": {
     "planId": "2026-11-16:7c482f27",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-16T08:07:31.790Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-16T09:37:39.401Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T06:17:20.782Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 534,
+    "ticks": 552,
     "decideCalls": 2,
     "callsByKind": {
-      "thought": 19,
+      "thought": 22,
       "morning": 2,
       "art": 1
     },
+    "spendByKind": {
+      "thought": 0.00060369
+    },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2
+      "stepDone": 3
     },
-    "failures": 0,
+    "failures": 1,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
-      "tend workshop": 1
+      "tend workshop": 1,
+      "rest": 1
     },
     "longestGapMinutes": 1
   },
@@ -62,11 +67,11 @@
   },
   "mood": {
     "label": "good, rested",
-    "minutes": 94
+    "minutes": 109
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.1163569,
+    "monthUsd": 1.11696059,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -78,6 +83,30 @@
       "byKind": {
         "art": 5
       }
+    },
+    "texts": {
+      "texts": 28,
+      "meanMaxSimilarity": 0.022613402337995487,
+      "repeatedWriting": 7,
+      "repeatedDiary": 1
+    },
+    "doors": {
+      "trips": 0,
+      "strangers": 0,
+      "share": 0,
+      "noDoorDays": 0
+    },
+    "oneHost": null,
+    "draws": {
+      "collisionsUsed": 3,
+      "constraintsOffered": 3,
+      "constraintsRefused": 0
+    },
+    "places": {
+      "wouldFire": 0,
+      "repeatedPlace": 0,
+      "stuckInOnePlace": 0,
+      "weekendRevisit": 0
     }
   },
   "warnings": []
