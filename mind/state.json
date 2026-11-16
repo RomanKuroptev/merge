@@ -1,17 +1,13 @@
 {
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T17:39:01.505Z",
-  "lastThinkAt": "2026-11-16T17:51:37.062Z",
+  "appliedStepAt": "2026-11-16T17:51:37.062Z",
+  "lastThinkAt": "2026-11-16T18:21:38.253Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
     "points": 420,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-15T20:42:16.836Z"
-    },
     {
       "verb": "wander",
       "targetId": "Digital elevation model",
@@ -103,6 +99,10 @@
       "verb": "write",
       "targetId": "Milky Way dust mapping",
       "at": "2026-11-16T17:51:37.062Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-16T18:21:38.253Z"
     }
   ],
   "sparked": {
@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-16T18:20:04.890Z",
     "failures": 0,
-    "recent": [
-      "Writing up Milky Way dust mapping now; the lidar loop is done, so I'll keep this short and let the day settle.",
-      "Writing up Milky Way dust mapping; the lidar loop is done, so I keep this short and let the day settle.",
-      "Writing up dust mapping is nearly done; I keep it short, then let the day settle and stop circling the lidar loop.",
-      "Writing up dust mapping now; the lidar loop is done, so I keep this short and let the day settle.",
-      "Writing up dust mapping now; the lidar loop is done, so I keep this short and let the day settle."
-    ],
-    "lastAt": "2026-11-16T18:05:39.172Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing up dust mapping now; the lidar loop is done, so I keep it short and let the day settle.",
+      "Writing up dust mapping now; the lidar loop is done, so I keep it short and let the day settle.",
+      "Writing up dust mapping now; the lidar loop is done, so I keep it short and let the day settle.",
+      "Writing up dust mapping now; the lidar loop is done, so I keep it short and let the day settle.",
+      "Writing up dust mapping now; the lidar loop is already done, so I keep this short and let the day settle."
+    ]
   },
   "reflect": {
     "sum": 0,
