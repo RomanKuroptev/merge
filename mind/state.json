@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-16T17:51:18.287Z",
     "failures": 0,
+    "recent": [
+      "Writing up Milky Way dust mapping now; the lidar loop is done, so I'll keep this short and let the day settle.",
+      "Writing up Milky Way dust mapping; the lidar loop is done, so I keep this short and let the day settle.",
+      "Writing up dust mapping is nearly done; I keep it short, then let the day settle and stop circling the lidar loop.",
+      "Writing up dust mapping now; the lidar loop is done, so I keep this short and let the day settle.",
+      "Writing up dust mapping now; the lidar loop is done, so I keep this short and let the day settle."
+    ],
+    "lastAt": "2026-11-16T18:05:39.172Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    },
-    "recent": [
-      "Leaf area index is a clean step sideways from lidar; I'll read it and hold the terrain check for later.",
-      "Leaf area index is a sideways step from lidar; reading it now, terrain check comes later.",
-      "Reading leaf area index now to break the lidar loop; terrain check comes later.",
-      "Reading leaf area index now to break the lidar loop; I will check the terrain model before trusting any lidar find.",
-      "Reading leaf area index to break the lidar loop; I will check the terrain model before trusting any lidar find."
-    ]
+    }
   },
   "reflect": {
     "sum": 0,
