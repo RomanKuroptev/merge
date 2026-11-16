@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.474,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-16T14:00:06.409Z",
-    "seed": 2074946307,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-16T14:18:18.511Z",
+    "seed": 1967524414,
+    "reason": "Writing down what canopy measures add to lidar under trees will show whether I actually followed the reading.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T14:01:17.034Z",
+  "lastTickAt": "2026-11-16T14:18:18.511Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

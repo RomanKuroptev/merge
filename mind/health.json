@@ -1,33 +1,35 @@
 {
-  "updatedAt": "2026-11-16T14:03:20.489Z",
+  "updatedAt": "2026-11-16T14:18:18.511Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T14:03:20.489Z",
+    "at": "2026-11-16T14:18:18.511Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: write, wandered from Multi-directional shading",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:b61f3dff",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "Multi-directional shading",
-      "until": "2026-11-16T14:18:18.456Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Leaf area index",
+      "until": "2026-11-16T14:48:18.511Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T13:48:18.456Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 918,
+    "ticks": 933,
     "decideCalls": 4,
     "callsByKind": {
-      "thought": 92,
+      "thought": 95,
       "morning": 2,
       "art": 2,
       "screen": 1,
@@ -36,7 +38,7 @@
       "tend": 1
     },
     "spendByKind": {
-      "thought": 0.0075853899999999965,
+      "thought": 0.007874049999999997,
       "screen": 0.00009047499999999999,
       "decide": 0.00282895,
       "art": 0.000474625,
@@ -45,7 +47,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "replan": 2
     },
     "failures": 1,
@@ -60,13 +62,14 @@
       "wander Shaded relief": 1,
       "write Shaded relief": 1,
       "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
-      "wander Multi-directional shading": 1
+      "wander Multi-directional shading": 1,
+      "write Leaf area index": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 1,
       "max": 40
     }
   },
@@ -75,16 +78,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 433,
+    "points": 432,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 264
+    "minutes": 279
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.13141559,
+    "monthUsd": 1.13170425,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -104,9 +107,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 1,
-      "strangers": 0,
-      "share": 0,
+      "trips": 2,
+      "strangers": 1,
+      "share": 0.5,
       "noDoorDays": 0
     },
     "oneHost": null,
