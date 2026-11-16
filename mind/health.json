@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T21:32:19.782Z",
+  "updatedAt": "2026-11-16T21:46:45.102Z",
   "engine": "v0.15.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T21:32:19.782Z",
+    "at": "2026-11-16T21:46:45.102Z",
     "asleep": false,
     "summary": "sync",
     "think": null,
@@ -15,13 +15,13 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-16T17:51:37.062Z",
-    "idleMinutes": 88
+    "idleMinutes": 102
   },
   "today": {
-    "ticks": 1388,
+    "ticks": 1402,
     "decideCalls": 18,
     "callsByKind": {
-      "thought": 259,
+      "thought": 266,
       "morning": 2,
       "art": 5,
       "screen": 1,
@@ -33,7 +33,7 @@
       "goalreview": 1
     },
     "spendByKind": {
-      "thought": 0.02698660500000001,
+      "thought": 0.027701585000000015,
       "screen": 0.00009047499999999999,
       "decide": 0.018974790000000005,
       "art": 0.0019730249999999998,
@@ -89,11 +89,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 386
+    "minutes": 400
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.22904346,
+    "monthUsd": 1.22975844,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -132,7 +132,7 @@
     }
   },
   "warnings": [
-    "no step in progress for 88 minutes while awake",
+    "no step in progress for 102 minutes while awake",
     "started \"rest\" 4 times today",
     "started \"tend home\" 3 times today",
     "18 decide calls today (more than 15)",
