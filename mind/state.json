@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T13:48:18.456Z",
-  "lastThinkAt": "2026-11-16T13:48:18.456Z",
+  "appliedStepAt": "2026-11-16T14:18:18.511Z",
+  "lastThinkAt": "2026-11-16T14:48:25.857Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 432,
+    "points": 430,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Milky Way dust mapping",
-      "at": "2026-11-15T15:06:21.770Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-15T15:36:28.258Z"
@@ -102,6 +97,11 @@
       "verb": "write",
       "targetId": "Leaf area index",
       "at": "2026-11-16T14:18:18.511Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-16T14:48:25.857Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-16T14:47:12.756Z",
     "failures": 0,
-    "recent": [
-      "Still on the multi-directional shading wander. The sand sketch waits until the trip ends.",
-      "Still on the multi-directional shading wander. The sand sketch waits until the trip ends.",
-      "Writing about leaf area index now; the lidar-under-canopy reading still needs to be followed through.",
-      "Writing up leaf area index now; I want to see if the canopy lidar notes actually hold up.",
-      "Writing up leaf area index now; checking whether the canopy lidar notes hold up before the step ends at 15:48."
-    ],
-    "lastAt": "2026-11-16T14:31:55.021Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing up leaf area index now; I want to see if the canopy lidar notes actually hold up.",
+      "Writing up leaf area index now; checking whether the canopy lidar notes hold up before the step ends at 15:48.",
+      "Writing up leaf area index; checking whether the canopy lidar notes hold up before 15:48.",
+      "Writing up leaf area index now; the canopy lidar notes need checking before 15:48.",
+      "Writing up leaf area index now; checking whether the canopy lidar notes hold up before 15:48."
+    ]
   },
   "reflect": {
     "sum": 26,

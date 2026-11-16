@@ -1,51 +1,53 @@
 {
-  "updatedAt": "2026-11-16T14:32:58.479Z",
+  "updatedAt": "2026-11-16T14:48:25.857Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T14:32:58.479Z",
+    "at": "2026-11-16T14:48:25.857Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/6: tend, wrote \"Leaf Area Index, Again, With Lidar\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:b61f3dff",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Leaf area index",
-      "until": "2026-11-16T14:48:18.511Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-16T15:28:25.857Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T13:48:18.456Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 949,
+    "ticks": 965,
     "decideCalls": 4,
     "callsByKind": {
-      "thought": 98,
+      "thought": 101,
       "morning": 2,
-      "art": 2,
+      "art": 3,
       "screen": 1,
       "decide": 2,
       "sketch": 1,
       "tend": 1
     },
     "spendByKind": {
-      "thought": 0.008193009999999997,
+      "thought": 0.008489669999999998,
       "screen": 0.00009047499999999999,
       "decide": 0.00282895,
-      "art": 0.000474625,
+      "art": 0.0009953499999999999,
       "sketch": 0.00308765,
       "tend": 0.000991575
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "replan": 2
     },
     "failures": 1,
@@ -61,7 +63,8 @@
       "write Shaded relief": 1,
       "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
       "wander Multi-directional shading": 1,
-      "write Leaf area index": 1
+      "write Leaf area index": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 1
   },
@@ -76,16 +79,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 432,
+    "points": 430,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 293
+    "minutes": 308
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.13202321,
+    "monthUsd": 1.1328406,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -99,8 +102,8 @@
       }
     },
     "texts": {
-      "texts": 29,
-      "meanMaxSimilarity": 0.022370028311014797,
+      "texts": 30,
+      "meanMaxSimilarity": 0.022644768863912944,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },
