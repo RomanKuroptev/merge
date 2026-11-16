@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-11-16T14:48:43.554Z",
+  "updatedAt": "2026-11-16T15:03:32.303Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T14:48:43.554Z",
+    "at": "2026-11-16T15:03:32.303Z",
     "asleep": false,
-    "summary": "found a note, rewrote its page, reflected, thought about note, left tend, step 1/5: reply, new plan",
-    "think": "decide",
-    "triggers": [
-      "note"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:9cd53499",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "reply",
-      "targetId": "n-2026-11-16-cd4487",
-      "until": "2026-11-16T14:58:43.554Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-16T15:38:44.249Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T14:48:43.554Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 966,
+    "ticks": 983,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 101,
+      "thought": 104,
       "morning": 2,
       "art": 3,
       "screen": 1,
       "decide": 3,
       "sketch": 1,
       "tend": 1,
-      "reflection": 1
+      "reflection": 1,
+      "reply": 1
     },
     "spendByKind": {
-      "thought": 0.008489669999999998,
+      "thought": 0.009264599999999998,
       "screen": 0.00009047499999999999,
       "decide": 0.0041846750000000005,
       "art": 0.0009953499999999999,
       "sketch": 0.00308765,
       "tend": 0.000991575,
-      "reflection": 0.0241945
+      "reflection": 0.0241945,
+      "reply": 0.000379625
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "replan": 2,
       "note": 1
     },
@@ -67,7 +67,7 @@
       "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
       "wander Multi-directional shading": 1,
       "write Leaf area index": 1,
-      "tend home": 1,
+      "tend home": 2,
       "reply n-2026-11-16-cd4487": 1
     },
     "longestGapMinutes": 1
@@ -83,16 +83,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 430,
+    "points": 428,
     "max": 450
   },
   "mood": {
-    "label": "good, steady",
-    "minutes": 308
+    "label": "good, tired",
+    "minutes": 4
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.15839083,
+    "monthUsd": 1.15954539,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },

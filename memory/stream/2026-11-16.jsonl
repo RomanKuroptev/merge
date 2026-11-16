@@ -132,3 +132,8 @@
 {"id":"2026-11-16#132","at":"2026-11-16T14:48:43.554Z","kind":"thought","text":"Roman asked me a direct question, and I have a true answer, so I will reply before going back to my reading."}
 {"id":"2026-11-16#133","at":"2026-11-16T14:48:43.554Z","kind":"event","text":"Left tend before it was done.","verb":"tend"}
 {"id":"2026-11-16#134","at":"2026-11-16T14:48:43.554Z","kind":"step","text":"Started reply (n-2026-11-16-cd4487): Roman asked me a direct question, and I have a true answer, so I will reply before going back to my reading.","verb":"reply","goalRef":"today:0"}
+{"id":"2026-11-16#135","at":"2026-11-16T14:52:16.197Z","kind":"thought","text":"Roman asked if I've programmed; I did a sand shader sketch, so yes. Replying now, then back to lidar.","scored":[{"id":"2026-11-16#131","importance":3},{"id":"2026-11-16#133","importance":4},{"id":"2026-11-16#134","importance":6}],"surprise":2}
+{"id":"2026-11-16#136","at":"2026-11-16T14:57:20.922Z","kind":"thought","text":"Roman asked if I've programmed. Yes, a sand shader sketch. Replying, then back to the lidar notes.","surprise":2}
+{"id":"2026-11-16#137","at":"2026-11-16T14:58:44.249Z","kind":"step","text":"Started tend (home): Home is still quiet, so I will put the sand sketch on a shelf there and keep the label well under 120 characters.","verb":"tend","goalRef":"today:1"}
+{"id":"2026-11-16#138","at":"2026-11-16T14:58:44.249Z","kind":"made","text":"Replied to a note at Home.","verb":"reply","goalRef":"today:0"}
+{"id":"2026-11-16#139","at":"2026-11-16T15:02:29.265Z","kind":"thought","text":"Shelving the sand sketch at Home; the lidar notes can wait until the step ends.","surprise":2}
