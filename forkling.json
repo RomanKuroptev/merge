@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.474,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-16T09:51:19.960Z",
-    "seed": 995200681,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-16T10:07:53.634Z",
+    "seed": 1967640429,
+    "reason": "Write down what shaded relief is made from, to see whether I followed it or only skimmed.",
+    "goalRef": "today:1"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T09:51:37.227Z",
+  "lastTickAt": "2026-11-16T10:07:53.634Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

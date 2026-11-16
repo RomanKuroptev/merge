@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-11-16T09:52:40.856Z",
+  "updatedAt": "2026-11-16T10:07:53.634Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T09:52:40.856Z",
+    "at": "2026-11-16T10:07:53.634Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: write, wandered from Shaded relief",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:a650304b",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
+      "index": 1,
+      "verb": "write",
       "targetId": "Shaded relief",
-      "until": "2026-11-16T10:07:48.972Z",
+      "until": "2026-11-16T10:37:53.634Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T09:37:48.972Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 660,
+    "ticks": 676,
     "decideCalls": 3,
     "callsByKind": {
-      "thought": 43,
+      "thought": 46,
       "morning": 2,
       "art": 1,
       "screen": 1,
       "decide": 1
     },
     "spendByKind": {
-      "thought": 0.00271881,
+      "thought": 0.0030134700000000003,
       "screen": 0.00009047499999999999,
       "decide": 0.001375125
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4,
+      "stepDone": 5,
       "replan": 1
     },
     "failures": 1,
@@ -52,7 +54,8 @@
       "write Digital elevation model": 1,
       "tend workshop": 1,
       "rest": 1,
-      "wander Shaded relief": 1
+      "wander Shaded relief": 1,
+      "write Shaded relief": 1
     },
     "longestGapMinutes": 1
   },
@@ -67,16 +70,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 441,
+    "points": 440,
     "max": 450
   },
   "mood": {
     "label": "good, steady",
-    "minutes": 15
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.12054132,
+    "monthUsd": 1.12083598,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -96,7 +99,7 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 0,
+      "trips": 1,
       "strangers": 0,
       "share": 0,
       "noDoorDays": 0
