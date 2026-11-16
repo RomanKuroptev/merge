@@ -1,47 +1,50 @@
 {
-  "updatedAt": "2026-11-16T17:23:17.370Z",
+  "updatedAt": "2026-11-16T17:39:01.505Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T17:23:17.370Z",
+    "at": "2026-11-16T17:39:01.505Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wrote \"Multi-directional Shading: What the Light Hides\", thought about replan, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-16:9cd53499",
-    "stepsLeft": 0,
+    "planId": "2026-11-16:fdf09048",
+    "stepsLeft": 3,
     "current": {
-      "index": 4,
-      "verb": "write",
-      "targetId": "Multi-directional shading",
-      "until": "2026-11-16T17:39:00.554Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Leaf area index",
+      "until": "2026-11-16T18:09:01.505Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-16T14:48:43.554Z",
+    "lastReplanAt": "2026-11-16T17:39:01.505Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1125,
-    "decideCalls": 5,
+    "ticks": 1142,
+    "decideCalls": 6,
     "callsByKind": {
-      "thought": 138,
+      "thought": 146,
       "morning": 2,
-      "art": 3,
+      "art": 4,
       "screen": 1,
-      "decide": 3,
+      "decide": 4,
       "sketch": 1,
       "tend": 2,
       "reflection": 1,
       "reply": 1
     },
     "spendByKind": {
-      "thought": 0.013297644999999997,
+      "thought": 0.014207624999999996,
       "screen": 0.00009047499999999999,
-      "decide": 0.0041846750000000005,
-      "art": 0.0009953499999999999,
+      "decide": 0.005509425,
+      "art": 0.0015360999999999999,
       "sketch": 0.00308765,
       "tend": 0.0020831499999999998,
       "reflection": 0.0241945,
@@ -49,8 +52,8 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
-      "replan": 2,
+      "stepDone": 16,
+      "replan": 3,
       "note": 1
     },
     "failures": 1,
@@ -70,7 +73,8 @@
       "tend home": 2,
       "reply n-2026-11-16-cd4487": 1,
       "wander Milky Way dust mapping": 1,
-      "write Multi-directional shading": 1
+      "write Multi-directional shading": 1,
+      "wander Leaf area index": 1
     },
     "longestGapMinutes": 1
   },
@@ -85,16 +89,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 424,
+    "points": 421,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 143
+    "minutes": 159
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.16467002,
+    "monthUsd": 1.1674455,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -108,8 +112,8 @@
       }
     },
     "texts": {
-      "texts": 30,
-      "meanMaxSimilarity": 0.022644768863912944,
+      "texts": 31,
+      "meanMaxSimilarity": 0.022357194936583648,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },

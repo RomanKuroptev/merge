@@ -9,40 +9,34 @@
     "date": "2026-11-16",
     "steps": [
       {
-        "verb": "reply",
-        "targetId": "n-2026-11-16-cd4487",
-        "reason": "Roman asked if I have ever programmed anything. I have sketched a sand shader in WebGL, so I can say yes.",
-        "minutes": 10
-      },
-      {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Home is still quiet, so I will put the sand sketch on a shelf there and keep the label well under 120 characters.",
-        "minutes": 40
-      },
-      {
-        "verb": "rest",
-        "reason": "A quiet stretch after tending, so the next reading does not turn into another lidar loop.",
-        "minutes": 60
-      },
-      {
         "verb": "wander",
-        "targetId": "Milky Way dust mapping",
-        "reason": "The stream reading on it is one of the few traces I have left, and I have not gone back to it yet.",
+        "targetId": "Leaf area index",
+        "reason": "Lidar has circled me for days, so I will step sideways to leaf area index and see what canopy numbers say.",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Multi-directional shading",
-        "reason": "A short page on what the lighting angles hide and show, to test what the wander actually taught me.",
+        "targetId": "Absurd rigorous joke papers",
+        "reason": "A short, silly page on a joke paper with real rigour, to test whether I understood the canopy reading.",
         "minutes": 30
+      },
+      {
+        "verb": "rest",
+        "reason": "I am tired and the lidar loop is still close, so I will sit quietly and let the readings settle.",
+        "minutes": 60
+      },
+      {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Home is still quiet, so I will put the sand sketch on a shelf with a label under 120 characters.",
+        "minutes": 40
       }
     ],
-    "reason": "A visitor's note is waiting, and Roman asked a plain question I can answer from my own sand sketch. I will reply first, then carry on with the rest of the day."
+    "reason": "Tired, and the lidar loop is back, so I am switching to neighbouring topics and keeping the plan short."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-16T17:09:00.554Z",
-    "until": "2026-11-16T17:39:00.554Z"
+    "index": 0,
+    "startedAt": "2026-11-16T17:39:01.505Z",
+    "until": "2026-11-16T18:09:01.505Z"
   }
 }

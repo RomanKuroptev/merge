@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.474,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-16T17:21:18.881Z",
-    "seed": 669464600,
-    "reason": "I am writing at my desk."
+    "type": "mind_read",
+    "startedAt": "2026-11-16T17:39:01.505Z",
+    "seed": 1967531297,
+    "reason": "I have been circling the lidar and need a neighbouring topic to break the loop, so I will read about leaf area index and write about joke papers before resting.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T17:22:14.488Z",
+  "lastTickAt": "2026-11-16T17:39:01.505Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
