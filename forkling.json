@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    24,
     0,
     16
   ],
@@ -11,13 +11,13 @@
   "energy": 0.1,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-16T13:08:10.036Z",
-    "seed": 1967528622,
-    "reason": "Put the shaded relief note on the shelf, with a label under 120 characters this time.",
-    "goalRef": "today:4"
+    "targetId": "workshop",
+    "startedAt": "2026-11-16T13:20:12.537Z",
+    "seed": 1752855579,
+    "reason": "I am carrying things where they belong."
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T13:08:10.036Z",
+  "lastTickAt": "2026-11-16T13:20:32.298Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
