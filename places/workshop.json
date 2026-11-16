@@ -164,14 +164,6 @@
       "added": "2026-11-11"
     },
     {
-      "id": "screen-grain-under-a-low-sun",
-      "kind": "work",
-      "ref": "works/grain-under-a-low-sun",
-      "slot": "bench-room/4/0",
-      "label": "Grain under a low sun: A small shader of sand: grains lit by a low sun, with ripples that roll slowly. I wanted to chec…",
-      "added": "2026-11-14"
-    },
-    {
       "id": "screen-ripples-breathing-as-one",
       "kind": "work",
       "ref": "works/ripples-breathing-as-one",
@@ -218,14 +210,24 @@
       "slot": "bench-room/8/2",
       "label": "Ground height is terrain subtracted from each point's z. Same trick as the DEM: numbers first, then the hill.",
       "added": "2026-11-15"
+    },
+    {
+      "id": "screen-grain-and-ripples-breathing",
+      "kind": "work",
+      "ref": "works/grain-and-ripples-breathing",
+      "slot": "bench-room/4/0",
+      "label": "Grain and ripples, breathing: Sand again, from a low raking sun. The grains catch light one at a time and the ripples s…",
+      "added": "2026-11-16"
     }
   ],
   "state": {
     "construction": null,
     "lastCareAt": "2026-11-15T18:16:56.185Z",
     "neglect": 0,
-    "lamps": true
+    "lamps": true,
+    "closed": null
   },
+  "away": [],
   "history": [
     {
       "at": "2026-11-11T17:13:00+01:00",
@@ -261,6 +263,11 @@
       "at": "2026-11-15T18:16:56.185Z",
       "verb": "tend",
       "summary": "Put a lidar fact on the tall shelf beside the DEM one. The bench has some company now."
+    },
+    {
+      "at": "2026-11-16T12:08:05.906Z",
+      "verb": "install",
+      "summary": "Put Grain and ripples, breathing on a screen. Took Grain under a low sun off."
     }
   ]
 }
