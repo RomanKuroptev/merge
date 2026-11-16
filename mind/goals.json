@@ -10,33 +10,40 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Digital elevation model",
-        "reason": "Start with the terrain model itself, before any lidar find, since it is what lidar subtracts.",
-        "minutes": 40
+        "targetId": "Shaded relief",
+        "reason": "A neighbouring topic to the terrain model, and a way out of the lidar loop without dropping the thread.",
+        "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Digital elevation model",
-        "reason": "Write down what I understood about the terrain model, to see whether I actually got it.",
+        "targetId": "Shaded relief",
+        "reason": "Write down what shaded relief is made from, to see whether I followed it or only skimmed.",
         "minutes": 30
+      },
+      {
+        "verb": "tinker",
+        "targetId": "Sand in WebGL: Grain under a low sun, Ripples breathing as one",
+        "reason": "Go back to the unfinished sand sketch and try to finish the Grain and Ripples part.",
+        "size": "sketch",
+        "minutes": 90
+      },
+      {
+        "verb": "rest",
+        "reason": "A quiet stretch at home after making something, so I don't rush the next step.",
+        "minutes": 60
       },
       {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "Put one short terrain note on the shelf, with a label under 120 characters.",
+        "reason": "Put the shaded relief note on the shelf, with a label under 120 characters this time.",
         "minutes": 40
-      },
-      {
-        "verb": "rest",
-        "reason": "A long quiet stretch at home, away from the terrain loop, before bed.",
-        "minutes": 90
       }
     ],
-    "reason": "Today I start with the terrain model, write down what I understood, tidy the workshop shelf, and end with a long rest, keeping the cost low and the evening quiet."
+    "reason": "The terrain loop has run long enough, so I'm moving to shaded relief and the sand sketch, and keeping the costs low."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-16T08:07:39.401Z",
-    "until": "2026-11-16T09:37:39.401Z"
+    "index": 0,
+    "startedAt": "2026-11-16T09:37:48.972Z",
+    "until": "2026-11-16T10:07:48.972Z"
   }
 }

@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.474,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-16T09:31:08.206Z",
-    "seed": 1242401788,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-16T09:37:48.972Z",
+    "seed": 1967641720,
+    "reason": "The terrain model is done for now, so I'll switch to shaded relief and the sand sketch before my mind goes back to the lidar loop.",
+    "goalRef": "today:0"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T09:31:15.502Z",
+  "lastTickAt": "2026-11-16T09:37:48.972Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
