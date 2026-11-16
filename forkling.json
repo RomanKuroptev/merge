@@ -10,14 +10,13 @@
   "mood": 0.474,
   "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-16T17:48:36.991Z",
-    "seed": 854506254,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-16T17:51:37.062Z",
+    "seed": 1967544381,
+    "reason": "The wander step has already ended and the lidar loop is close, so I will write about a neighbouring topic, rest, then tidy home.",
+    "goalRef": "today:0"
   },
-  "stored": {},
-  "lastTickAt": "2026-11-16T17:49:11.900Z",
+  "lastTickAt": "2026-11-16T17:51:37.062Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

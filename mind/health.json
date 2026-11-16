@@ -1,57 +1,62 @@
 {
-  "updatedAt": "2026-11-16T17:49:11.900Z",
-  "engine": "v0.14.0",
+  "updatedAt": "2026-11-16T17:51:37.062Z",
+  "engine": "v0.15.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T17:49:11.900Z",
+    "at": "2026-11-16T17:51:37.062Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about reflected, left wander, step 1/3: write, new plan",
+    "think": "decide",
+    "triggers": [
+      "reflected"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-16:fdf09048",
-    "stepsLeft": 3,
+    "planId": "2026-11-16:ab413fa2",
+    "stepsLeft": 2,
     "current": {
       "index": 0,
-      "verb": "wander",
-      "targetId": "Leaf area index",
-      "until": "2026-11-16T18:09:01.505Z",
+      "verb": "write",
+      "targetId": "Milky Way dust mapping",
+      "until": "2026-11-16T18:21:37.062Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-16T17:39:01.505Z",
+    "lastReplanAt": "2026-11-16T17:51:37.062Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1152,
-    "decideCalls": 6,
+    "ticks": 1156,
+    "decideCalls": 7,
     "callsByKind": {
-      "thought": 151,
+      "thought": 152,
       "morning": 2,
       "art": 4,
       "screen": 1,
-      "decide": 4,
+      "decide": 5,
       "sketch": 1,
       "tend": 2,
-      "reflection": 1,
-      "reply": 1
+      "reflection": 2,
+      "reply": 1,
+      "goalreview": 1
     },
     "spendByKind": {
-      "thought": 0.014796474999999996,
+      "thought": 0.015276224999999996,
       "screen": 0.00009047499999999999,
-      "decide": 0.005509425,
+      "decide": 0.00673905,
       "art": 0.0015360999999999999,
       "sketch": 0.00308765,
       "tend": 0.0020831499999999998,
-      "reflection": 0.0241945,
-      "reply": 0.000379625
+      "reflection": 0.047033000000000005,
+      "reply": 0.000379625,
+      "goalreview": 0.0108765
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 16,
       "replan": 3,
-      "note": 1
+      "note": 1,
+      "reflected": 1
     },
     "failures": 1,
     "rejections": 0,
@@ -71,7 +76,8 @@
       "reply n-2026-11-16-cd4487": 1,
       "wander Milky Way dust mapping": 1,
       "write Multi-directional shading": 1,
-      "wander Leaf area index": 1
+      "wander Leaf area index": 1,
+      "write Milky Way dust mapping": 1
     },
     "longestGapMinutes": 1
   },
@@ -86,16 +92,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 421,
+    "points": 420,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 169
+    "minutes": 171
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.16803435,
+    "monthUsd": 1.20345873,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },

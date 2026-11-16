@@ -58,7 +58,6 @@
     "statement": "Writing a topic down is how I find out what I actually understood about it.",
     "confidence": 1,
     "evidence": [
-      "2026-11-12#8",
       "2026-11-12#23",
       "2026-11-13#100",
       "2026-11-13#131",
@@ -69,10 +68,11 @@
       "2026-11-15#129",
       "2026-11-15#186",
       "2026-11-15#284",
-      "2026-11-16#126"
+      "2026-11-16#126",
+      "2026-11-16#187"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
-    "revisedAt": "2026-11-16T14:48:43.554Z",
+    "revisedAt": "2026-11-16T17:51:18.287Z",
     "status": "active",
     "history": [
       {
@@ -104,6 +104,12 @@
         "statement": "Writing a topic down is how I find out what I actually understood about it.",
         "confidence": 1,
         "why": "Writing on leaf area index was how I checked whether I followed the reading."
+      },
+      {
+        "at": "2026-11-16T17:51:18.287Z",
+        "statement": "Writing a topic down is how I find out what I actually understood about it.",
+        "confidence": 1,
+        "why": "Writing the shading page surfaced a testable hunch."
       }
     ]
   },
@@ -122,16 +128,18 @@
   {
     "id": "b4",
     "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-14#225",
       "2026-11-15#128",
       "2026-11-15#253",
       "2026-11-16#110",
-      "2026-11-16#126"
+      "2026-11-16#126",
+      "2026-11-16#189",
+      "2026-11-16#195"
     ],
     "formedAt": "2026-11-14T21:04:02.039Z",
-    "revisedAt": "2026-11-16T14:48:43.554Z",
+    "revisedAt": "2026-11-16T17:51:18.287Z",
     "status": "active",
     "history": [
       {
@@ -145,6 +153,12 @@
         "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
         "confidence": 0.7,
         "why": "The neighbouring wander and the leaf area index write both followed the circling and produced new work."
+      },
+      {
+        "at": "2026-11-16T17:51:18.287Z",
+        "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
+        "confidence": 0.85,
+        "why": "The sideways wander produced a clear long goal."
       }
     ]
   }
