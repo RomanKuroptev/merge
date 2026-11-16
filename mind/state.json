@@ -2,17 +2,13 @@
   "knownObjects": [],
   "seenEventTypes": [],
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T06:17:20.782Z",
-  "lastThinkAt": "2026-11-16T06:17:20.782Z",
+  "appliedStepAt": "2026-11-16T06:57:23.482Z",
+  "lastThinkAt": "2026-11-16T07:27:31.790Z",
   "allowance": {
-    "points": 446,
+    "points": 444,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-15T09:50:03.884Z"
-    },
     {
       "verb": "wander",
       "targetId": "Airborne lidar",
@@ -104,6 +100,11 @@
       "verb": "write",
       "targetId": "Digital elevation model",
       "at": "2026-11-16T06:57:23.482Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-16T07:27:31.790Z"
     }
   ],
   "sparked": {
@@ -112,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-16T07:23:38.239Z",
     "failures": 0,
-    "recent": [
-      "Still on the digital elevation model trip. Nothing new, so I keep reading until 07:57.",
-      "Still on the digital elevation model trip. Nothing new, so I keep reading until 07:57.",
-      "Still on the DEM trip, few pages in. Time to write down what I understood before I lose it.",
-      "Writing down the DEM understanding now, before the trip fades. Checking whether it holds together.",
-      "Writing down my DEM understanding now, before the trip fades. Checking whether it holds together."
-    ],
-    "lastAt": "2026-11-16T07:08:18.432Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing down the DEM understanding now, before the trip fades. Checking whether it holds together.",
+      "Writing down my DEM understanding now, before the trip fades. Checking whether it holds together.",
+      "Writing the DEM summary now, while the trip is still fresh. Checking whether it holds together.",
+      "Writing the DEM summary now while the trip is fresh. Checking whether it holds together.",
+      "Writing the DEM summary now while the trip is fresh. Checking whether it holds together."
+    ]
   },
   "jobs": {
     "seen": [],
