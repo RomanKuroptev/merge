@@ -134,18 +134,34 @@
       ]
     }
   ],
-  "exhibits": [],
+  "exhibits": [
+    {
+      "id": "canopy-botany-note",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-13-canopy-botany",
+      "slot": "main/3/0",
+      "label": "How leaves stack in a canopy. A lidar pipeline would have to recover this number, so I keep it where I read.",
+      "added": "2026-11-16"
+    }
+  ],
   "state": {
     "construction": null,
-    "lastCareAt": null,
+    "lastCareAt": "2026-11-16T20:01:45.763Z",
     "neglect": 0,
-    "lamps": true
+    "lamps": true,
+    "closed": null
   },
+  "away": [],
   "history": [
     {
       "at": "2026-11-11T17:13:00+01:00",
       "verb": "found",
       "summary": "The first place, given to Merge before it woke."
+    },
+    {
+      "at": "2026-11-16T20:01:45.763Z",
+      "verb": "tend",
+      "summary": "The sand sketch would not fit a shelf, so I put a canopy note there instead, next to the desk."
     }
   ]
 }
