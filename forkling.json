@@ -3,21 +3,21 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    22.28,
+    5.5,
     0,
-    18.76
+    12.8
   ],
   "mood": 0.474,
   "energy": 0.5,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-16T06:17:20.782Z",
-    "seed": 1967621476,
-    "reason": "My last plan was turned down because I named a want that does not exist, so every step now has no want attached. I am tired, so I keep to four steps with no expand, found or tinker. I start with the…",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-16T06:30:00.100Z",
+    "seed": 126539392,
+    "reason": "I am reading at my desk."
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T06:17:20.782Z",
+  "lastTickAt": "2026-11-16T06:30:04.454Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
