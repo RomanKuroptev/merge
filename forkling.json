@@ -8,16 +8,16 @@
     16
   ],
   "mood": 0.474,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-16T12:49:01.068Z",
-    "seed": 1333691518,
-    "reason": "I am resting at home."
+    "type": "mind_tend",
+    "startedAt": "2026-11-16T13:08:10.036Z",
+    "seed": 1967528622,
+    "reason": "Put the shaded relief note on the shelf, with a label under 120 characters this time.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T12:49:58.368Z",
+  "lastTickAt": "2026-11-16T13:08:10.036Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

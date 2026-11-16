@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T10:38:00.370Z",
+  "appliedStepAt": "2026-11-16T12:08:05.906Z",
   "lastThinkAt": "2026-11-16T12:08:05.906Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 438,
+    "points": 436,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-15T13:26:05.321Z"
-    },
     {
       "verb": "write",
       "targetId": "Multi-directional shading",
@@ -102,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-16T12:08:05.906Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-16T13:08:10.036Z"
     }
   ],
   "sparked": {
@@ -110,19 +110,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-16T13:05:16.252Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-15",
+      "count": 4
+    },
     "recent": [
       "Sand sketch still running. Grain and Ripples first, then the shelf note takes over.",
       "Sand sketch still running. Grain and Ripples first, then the shelf note takes over.",
       "Sand sketch still running. Grain and Ripples first, then the shelf note takes over.",
       "Sand sketch still running. Grain and Ripples first, then the shelf note takes over.",
       "Sand sketch still running. Grain and Ripples first, then the shelf note takes over."
-    ],
-    "lastAt": "2026-11-16T12:49:58.368Z",
-    "replans": {
-      "date": "2026-11-15",
-      "count": 4
-    }
+    ]
   },
   "reflect": {
     "sum": 16,
