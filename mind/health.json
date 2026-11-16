@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T22:48:32.311Z",
+  "updatedAt": "2026-11-16T23:03:41.214Z",
   "engine": "v0.15.0",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-16T22:48:32.311Z",
+    "at": "2026-11-16T23:03:41.214Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,66 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1463,
-    "decideCalls": 18,
-    "callsByKind": {
-      "thought": 286,
-      "morning": 2,
-      "art": 5,
-      "screen": 1,
-      "decide": 16,
-      "sketch": 1,
-      "tend": 3,
-      "reflection": 2,
-      "reply": 1,
-      "goalreview": 1,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "thought": 0.029756485000000003,
-      "screen": 0.00009047499999999999,
-      "decide": 0.018974790000000005,
-      "art": 0.0019730249999999998,
-      "sketch": 0.00308765,
-      "tend": 0.003284825,
-      "reflection": 0.047033000000000005,
-      "reply": 0.000379625,
-      "goalreview": 0.0108765,
-      "sleep": 0.018719
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 19,
-      "replan": 9,
-      "note": 1,
-      "reflected": 1
-    },
-    "failures": 1,
-    "rejections": 5,
+    "ticks": 4,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
+    "failures": 0,
+    "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander Digital elevation model": 1,
-      "write Digital elevation model": 1,
-      "tend workshop": 2,
-      "rest": 4,
-      "wander Shaded relief": 1,
-      "write Shaded relief": 1,
-      "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
-      "wander Multi-directional shading": 1,
-      "write Leaf area index": 1,
-      "tend home": 3,
-      "reply n-2026-11-16-cd4487": 1,
-      "wander Milky Way dust mapping": 1,
-      "write Multi-directional shading": 1,
-      "wander Leaf area index": 1,
-      "write Milky Way dust mapping": 1
-    },
-    "longestGapMinutes": 1
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 0,
       "max": 40
     }
   },
@@ -91,13 +46,13 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 460
+    "minutes": 475
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 1.25053234,
     "capUsd": 12.6,
-    "paceUsd": 6.72
+    "paceUsd": 7.14
   },
   "openBuild": null,
   "novelty": {
@@ -133,10 +88,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 4 times today",
-    "started \"tend home\" 3 times today",
-    "18 decide calls today (more than 15)",
-    "5 plans turned down today"
-  ]
+  "warnings": []
 }
