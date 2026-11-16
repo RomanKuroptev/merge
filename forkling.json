@@ -8,16 +8,16 @@
     12.8
   ],
   "mood": 0.474,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-16T17:03:25.476Z",
-    "seed": 525031247,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-16T17:09:00.554Z",
+    "seed": 1967530552,
+    "reason": "A short page on what the lighting angles hide and show, to test what the wander actually taught me.",
+    "goalRef": "today:4"
   },
   "stored": {},
-  "lastTickAt": "2026-11-16T17:03:39.448Z",
+  "lastTickAt": "2026-11-16T17:09:00.554Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

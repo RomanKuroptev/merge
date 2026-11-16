@@ -1,33 +1,35 @@
 {
-  "updatedAt": "2026-11-16T17:04:41.890Z",
+  "updatedAt": "2026-11-16T17:09:00.554Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T17:04:41.890Z",
+    "at": "2026-11-16T17:09:00.554Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: write, wandered from Milky Way dust mapping",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:9cd53499",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "wander",
-      "targetId": "Milky Way dust mapping",
-      "until": "2026-11-16T17:08:51.267Z",
+      "index": 4,
+      "verb": "write",
+      "targetId": "Multi-directional shading",
+      "until": "2026-11-16T17:39:00.554Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T14:48:43.554Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1106,
+    "ticks": 1111,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 129,
+      "thought": 131,
       "morning": 2,
       "art": 3,
       "screen": 1,
@@ -38,7 +40,7 @@
       "reply": 1
     },
     "spendByKind": {
-      "thought": 0.012282654999999998,
+      "thought": 0.012504674999999998,
       "screen": 0.00009047499999999999,
       "decide": 0.0041846750000000005,
       "art": 0.0009953499999999999,
@@ -49,7 +51,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
+      "stepDone": 15,
       "replan": 2,
       "note": 1
     },
@@ -69,13 +71,14 @@
       "write Leaf area index": 1,
       "tend home": 2,
       "reply n-2026-11-16-cd4487": 1,
-      "wander Milky Way dust mapping": 1
+      "wander Milky Way dust mapping": 1,
+      "write Multi-directional shading": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 1,
+      "used": 2,
       "max": 40
     }
   },
@@ -84,16 +87,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 425,
+    "points": 424,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 125
+    "minutes": 129
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.16365503,
+    "monthUsd": 1.16387705,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -113,9 +116,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 2,
-      "strangers": 1,
-      "share": 0.5,
+      "trips": 3,
+      "strangers": 2,
+      "share": 0.6666666666666666,
       "noDoorDays": 0
     },
     "oneHost": null,
