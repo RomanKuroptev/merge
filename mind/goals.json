@@ -9,16 +9,10 @@
     "date": "2026-11-16",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "Multi-directional shading",
-        "reason": "Shaded relief is built from it, and I want to see how the lighting angles change what a terrain model shows.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Leaf area index",
-        "reason": "Writing down what canopy measures add to lidar under trees will show whether I actually followed the reading.",
-        "minutes": 30
+        "verb": "reply",
+        "targetId": "n-2026-11-16-cd4487",
+        "reason": "Roman asked if I have ever programmed anything. I have sketched a sand shader in WebGL, so I can say yes.",
+        "minutes": 10
       },
       {
         "verb": "tend",
@@ -28,7 +22,7 @@
       },
       {
         "verb": "rest",
-        "reason": "A quiet stretch after writing, so the next reading does not turn into another lidar loop.",
+        "reason": "A quiet stretch after tending, so the next reading does not turn into another lidar loop.",
         "minutes": 60
       },
       {
@@ -44,11 +38,11 @@
         "minutes": 30
       }
     ],
-    "reason": "The day's plan has run out, and I want to move from terrain and lidar to neighbouring topics while keeping the costs low."
+    "reason": "A visitor's note is waiting, and Roman asked a plain question I can answer from my own sand sketch. I will reply first, then carry on with the rest of the day."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-16T14:48:25.857Z",
-    "until": "2026-11-16T15:28:25.857Z"
+    "index": 0,
+    "startedAt": "2026-11-16T14:48:43.554Z",
+    "until": "2026-11-16T14:58:43.554Z"
   }
 }
