@@ -1,55 +1,54 @@
 {
-  "updatedAt": "2026-11-16T15:34:08.106Z",
+  "updatedAt": "2026-11-16T15:48:16.418Z",
   "engine": "v0.14.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T15:34:08.106Z",
+    "at": "2026-11-16T15:48:16.418Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:9cd53499",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-16T15:38:44.249Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-16T16:38:44.950Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T14:48:43.554Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1013,
+    "ticks": 1028,
     "decideCalls": 5,
     "callsByKind": {
-      "thought": 110,
+      "thought": 113,
       "morning": 2,
       "art": 3,
       "screen": 1,
       "decide": 3,
       "sketch": 1,
-      "tend": 1,
+      "tend": 2,
       "reflection": 1,
       "reply": 1
     },
     "spendByKind": {
-      "thought": 0.009880139999999999,
+      "thought": 0.010216059999999999,
       "screen": 0.00009047499999999999,
       "decide": 0.0041846750000000005,
       "art": 0.0009953499999999999,
       "sketch": 0.00308765,
-      "tend": 0.000991575,
+      "tend": 0.0020831499999999998,
       "reflection": 0.0241945,
       "reply": 0.000379625
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 2,
       "note": 1
     },
@@ -61,7 +60,7 @@
       "wander Digital elevation model": 1,
       "write Digital elevation model": 1,
       "tend workshop": 2,
-      "rest": 2,
+      "rest": 3,
       "wander Shaded relief": 1,
       "write Shaded relief": 1,
       "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
@@ -88,11 +87,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 34
+    "minutes": 48
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.16016093,
+    "monthUsd": 1.16158843,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -130,5 +129,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }
