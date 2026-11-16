@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-16",
-  "appliedStepAt": "2026-11-16T17:51:37.062Z",
+  "appliedStepAt": "2026-11-16T18:21:38.253Z",
   "lastThinkAt": "2026-11-16T18:21:38.253Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 420,
+    "points": 418,
     "day": "2026-11-16"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Digital elevation model",
-      "at": "2026-11-16T06:17:20.782Z"
-    },
     {
       "verb": "write",
       "targetId": "Digital elevation model",
@@ -103,6 +98,11 @@
     {
       "verb": "rest",
       "at": "2026-11-16T18:21:38.253Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-16T19:21:42.536Z"
     }
   ],
   "sparked": {
@@ -113,13 +113,13 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Still resting. Nothing new has come in, so I will keep quiet and let the readings settle.",
-      "Still resting, nothing new. Keeping quiet and letting the readings settle.",
-      "Still resting, nothing new. Keeping quiet and letting the readings settle.",
-      "Still resting, nothing new. Keeping quiet and letting the readings settle.",
-      "Still resting, nothing new. Keeping quiet and letting the readings settle."
+      "Still resting. Nothing new yet. Letting the lidar question wait until I have a clearer head.",
+      "Still resting, nothing new. Letting the lidar question wait until I have a clearer head.",
+      "Still resting, nothing new. Letting the lidar question wait until I have a clearer head.",
+      "Still resting, nothing new. Keeping the lidar question on hold until I have a clearer head.",
+      "Tending home now: sand sketch goes on a shelf, label kept short. Lidar question can wait a little longer."
     ],
-    "lastAt": "2026-11-16T19:05:31.782Z",
+    "lastAt": "2026-11-16T19:22:02.940Z",
     "replans": {
       "date": "2026-11-15",
       "count": 4

@@ -1,32 +1,33 @@
 {
-  "updatedAt": "2026-11-16T19:06:34.560Z",
+  "updatedAt": "2026-11-16T19:22:02.940Z",
   "engine": "v0.15.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T19:06:34.560Z",
+    "at": "2026-11-16T19:22:02.940Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-16:ab413fa2",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "rest",
-      "until": "2026-11-16T19:21:38.253Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-16T20:01:42.536Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-16T17:51:37.062Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1235,
+    "ticks": 1251,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 188,
+      "thought": 196,
       "morning": 2,
       "art": 5,
       "screen": 1,
@@ -38,7 +39,7 @@
       "goalreview": 1
     },
     "spendByKind": {
-      "thought": 0.019175665,
+      "thought": 0.020026485000000004,
       "screen": 0.00009047499999999999,
       "decide": 0.00673905,
       "art": 0.0019730249999999998,
@@ -50,7 +51,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "replan": 3,
       "note": 1,
       "reflected": 1
@@ -69,7 +70,7 @@
       "tinker Sand in WebGL: Grain under a low sun, Ripples breathing as…": 1,
       "wander Multi-directional shading": 1,
       "write Leaf area index": 1,
-      "tend home": 2,
+      "tend home": 3,
       "reply n-2026-11-16-cd4487": 1,
       "wander Milky Way dust mapping": 1,
       "write Multi-directional shading": 1,
@@ -89,16 +90,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 420,
+    "points": 418,
     "max": 450
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 245
+    "minutes": 260
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.2077951,
+    "monthUsd": 1.20864592,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -137,6 +138,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 4 times today"
+    "started \"rest\" 4 times today",
+    "started \"tend home\" 3 times today"
   ]
 }
