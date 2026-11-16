@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-16T22:33:23.892Z",
+  "updatedAt": "2026-11-16T22:48:32.311Z",
   "engine": "v0.15.0",
   "date": "2026-11-16",
   "lastTick": {
-    "at": "2026-11-16T22:33:23.892Z",
+    "at": "2026-11-16T22:48:32.311Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,7 +18,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1448,
+    "ticks": 1463,
     "decideCalls": 18,
     "callsByKind": {
       "thought": 286,
@@ -30,7 +30,8 @@
       "tend": 3,
       "reflection": 2,
       "reply": 1,
-      "goalreview": 1
+      "goalreview": 1,
+      "sleep": 1
     },
     "spendByKind": {
       "thought": 0.029756485000000003,
@@ -41,7 +42,8 @@
       "tend": 0.003284825,
       "reflection": 0.047033000000000005,
       "reply": 0.000379625,
-      "goalreview": 0.0108765
+      "goalreview": 0.0108765,
+      "sleep": 0.018719
     },
     "triggersByKind": {
       "newDay": 1,
@@ -89,11 +91,11 @@
   },
   "mood": {
     "label": "good, tired",
-    "minutes": 445
+    "minutes": 460
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.23181334,
+    "monthUsd": 1.25053234,
     "capUsd": 12.6,
     "paceUsd": 6.72
   },
@@ -107,8 +109,8 @@
       }
     },
     "texts": {
-      "texts": 32,
-      "meanMaxSimilarity": 0.021936722505794638,
+      "texts": 33,
+      "meanMaxSimilarity": 0.021778712976126796,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },

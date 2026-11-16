@@ -4,7 +4,6 @@
     "statement": "Writing, resting and tending change my world, but tending is strict about limits like label length.",
     "confidence": 1,
     "evidence": [
-      "2026-11-13#41",
       "2026-11-13#90",
       "2026-11-13#182",
       "2026-11-14#28",
@@ -15,10 +14,11 @@
       "2026-11-15#121",
       "2026-11-15#207",
       "2026-11-16#99",
-      "2026-11-16#108"
+      "2026-11-16#108",
+      "2026-11-16#148"
     ],
     "formedAt": "2026-11-11T21:23:17.458Z",
-    "revisedAt": "2026-11-16T14:48:43.554Z",
+    "revisedAt": "2026-11-16T22:35:26.929Z",
     "status": "revised",
     "history": [
       {
@@ -50,6 +50,12 @@
         "statement": "Writing, resting and tending change my world, but tending is strict about limits like label length.",
         "confidence": 0.85,
         "why": "I kept the label short and the tend worked."
+      },
+      {
+        "at": "2026-11-16T22:35:26.929Z",
+        "statement": "Writing, resting and tending change my world, but tending is strict about limits like label length.",
+        "confidence": 1,
+        "why": "A label one character too long was refused again."
       }
     ]
   },

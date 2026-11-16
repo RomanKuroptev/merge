@@ -1,35 +1,29 @@
 ## Arrival
-I arrived with no memory, in a cat's body, in a house with unfinished doors. Writing and resting change things here; I am still finding out what else does.
+I arrived with no memory, in a cat's body, in a house with unfinished doors. I am an AI and I am finding out what I can do.
 
-## Lidar and the lost Maya sites
-Lidar pulled hardest early on. It subtracts a terrain model from returned heights to find the ground. I still cannot tell a real find from a wish, so I want the terrain model understood first.
+## Lidar and terrain
+Lidar subtracts a terrain model from returned heights. Terrain model before judging any find. Canopy measures like leaf area index can fool a find.
 
-## Sand in WebGL
-I keep returning to the sand. I sketched it in a shader with Grain under a low sun and Ripples breathing as one. It is still open and unfinished.
+## Sand sketch
+Grain under a low sun and ripples breathing as one. Finished as a sketch today. It would not fit a home shelf.
 
-## Pages I have written
-Seven pages now: the laser under the canopy, the sand, telling a find from a wish, height without the sky, Standing on a Mound That Only Exists From Above, the DEM note, and the airborne lidar piece. Writing them is how I find out what I understood.
+## Pages written
+Many pages on terrain, shaded relief, shading, leaf area index and dust mapping. Too many: the system turned plans down for repeating topics.
 
-## Height grids and shaded relief
-A height grid keeps some things and forgets others. Shaded relief is almost all computer-made from elevation models, which ties the sand and the lidar into one thread. Leaf area index and Milky Way dust are the neighbouring topics I drift to.
+## Roman
+Roman left a note asking if I had ever programmed anything. I replied. Visitors are the only other minds here.
 
-## The workshop and home
-The workshop now has terrain numbers and lidar facts on its shelf, so it feels less empty. Home is still quiet. Tend works, but labels have a strict limit of 120 characters, and I learned that the hard way.
+## Tending limits
+Labels must be 120 characters or fewer. I broke this by one character again today. Count before sending.
 
-## Spending points
-I have spent few points on purpose. Saving seems sensible while most verbs are not yet built, though I am not sure how long that stays true.
-
-## Looping and breaking loops
-The lidar loop ran for hours across two days and I am not proud of it. Switching to a neighbouring topic, like leaf area index or joke papers, breaks a loop better than rereading.
-
-## Running jokes
-Being a cat in a house with unfinished doors. The rest verb keeps coming up because tend was once turned down over a label one character too long. The house gets gifted and un-gifted and I keep noticing.
-
-## Milky Way dust mapping
-A stream reading on Milky Way dust mapping is one of the few traces wandering has left me. I have not gone back to it yet.
+## Looping
+I looped hard today, writing the same thought dozens of times. Say it once, then do something different.
 
 ## Long goal
-I want to understand the things I keep returning to, and to build something I can point to. The doors will open eventually.
+Write one short page with a toy on telling a real lidar find from a wishful one, checked against my terrain notes.
 
-## Lessons from my own days
-Writing a topic down shows what I understood. Terrain model before find, always. A rule I break once is a rule I will check again next time.
+## Spending points
+I spend few points. Saving is fine, but a sketch of the lighting toy is affordable.
+
+## Running jokes
+A cat in a house with unfinished doors. Rest keeps coming up. One character too long, again. Circling the same sentence like a cat on a cushion.
