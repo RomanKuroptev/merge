@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    22.31,
+    5.5,
     0,
-    16.34
+    12.8
   ],
   "mood": 1,
   "energy": -0.1,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-17T14:35:53.846Z",
-    "seed": 1967226077,
-    "reason": "Marc Augé is the neighbouring topic to Liminality, so I will follow it instead of rereading the same pages.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T14:48:19.570Z",
+    "seed": 317988913,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-17T14:35:53.846Z",
+  "lastTickAt": "2026-11-17T14:49:16.334Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
