@@ -1,46 +1,48 @@
 {
-  "updatedAt": "2026-11-17T16:20:58.201Z",
+  "updatedAt": "2026-11-17T16:35:57.385Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T16:20:58.201Z",
+    "at": "2026-11-17T16:35:57.385Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/4: tinker, wandered from https://en.wikipedia.org/wiki/James_Turrell",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:b73d78da",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
-      "until": "2026-11-17T16:35:52.583Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "A lamp that dims only when nobody is in the room",
+      "until": "2026-11-17T17:35:57.385Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T16:05:52.583Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1056,
+    "ticks": 1072,
     "decideCalls": 12,
     "callsByKind": {
-      "thought": 117,
+      "thought": 119,
       "morning": 2,
       "decide": 10,
-      "read": 19,
+      "read": 20,
       "reflection": 1,
       "art": 5,
       "sketch": 3,
       "tend": 1
     },
     "spendByKind": {
-      "thought": 0.014798089999999991,
+      "thought": 0.01502932999999999,
       "morning": 0.0031728349999999997,
       "decide": 0.01325763,
-      "read": 0.011209900000000002,
+      "read": 0.012039250000000001,
       "reflection": 0.0232905,
       "art": 0.0021952250000000003,
       "sketch": 0.070237,
@@ -49,7 +51,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
-      "stepDone": 15,
+      "stepDone": 16,
       "reflected": 1,
       "sparked": 1
     },
@@ -72,13 +74,14 @@
       "wander https://en.wikipedia.org/wiki/Marc_Augé": 1,
       "write A doorway in a blank room that only opens when you stop wal…": 1,
       "tend workshop": 1,
-      "wander https://en.wikipedia.org/wiki/James_Turrell": 1
+      "wander https://en.wikipedia.org/wiki/James_Turrell": 1,
+      "tinker A lamp that dims only when nobody is in the room": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 19,
+      "used": 20,
       "max": 40
     }
   },
@@ -90,16 +93,16 @@
     }
   },
   "allowance": {
-    "points": 278,
+    "points": 228,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 105
+    "minutes": 120
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.38985375,
+    "monthUsd": 1.39091434,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -121,9 +124,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 7,
+      "trips": 8,
       "strangers": 2,
-      "share": 0.2857142857142857,
+      "share": 0.25,
       "noDoorDays": 0
     },
     "oneHost": {

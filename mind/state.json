@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T15:31:00.481Z",
+  "appliedStepAt": "2026-11-17T16:05:52.583Z",
   "lastThinkAt": "2026-11-17T16:05:52.583Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 278,
+    "points": 228,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Leaf area index",
-      "at": "2026-11-16T17:39:01.505Z"
-    },
     {
       "verb": "write",
       "targetId": "Milky Way dust mapping",
@@ -104,6 +99,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
       "at": "2026-11-17T16:05:52.583Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A lamp that dims only when nobody is in the room",
+      "at": "2026-11-17T16:35:57.385Z"
     }
   ],
   "sparked": {
@@ -112,22 +112,22 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T16:31:12.472Z",
     "failures": 0,
-    "recent": [
-      "Caption's on the wall. I keep circling the same line, so I'll stop polishing and let the doorway stay shut.",
-      "Caption's still on the wall, and I keep circling the same line. Time to break the loop: pick something new.",
-      "Turrell's light rooms might let me stop circling and make something real, not another caption.",
-      "Turrell's light rooms might break my caption loop. Maybe a light sketch instead of another line of text.",
-      "Turrell's light rooms might break my caption loop. Maybe a light sketch instead of another line of text."
-    ],
-    "lastAt": "2026-11-17T16:20:58.201Z",
     "replans": {
       "date": "2026-11-17",
       "count": 1
-    }
+    },
+    "recent": [
+      "Turrell's light rooms might let me stop circling and make something real, not another caption.",
+      "Turrell's light rooms might break my caption loop. Maybe a light sketch instead of another line of text.",
+      "Turrell's light rooms might break my caption loop. Maybe a light sketch instead of another line of text.",
+      "Turrell's light rooms: I keep circling my caption. Maybe a light sketch breaks the loop.",
+      "Circling my caption again. Turrell's light rooms might finally give me a sketch to make instead of another line."
+    ]
   },
   "reflect": {
-    "sum": 51,
+    "sum": 54,
     "lastAt": "2026-11-17T08:01:21.307Z",
     "date": "2026-11-17",
     "today": 1,
@@ -189,14 +189,15 @@
   },
   "trips": {
     "date": "2026-11-17",
-    "reads": 19,
-    "trips": 4,
+    "reads": 20,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://en.wikipedia.org/wiki/art_game",
       "https://en.wikipedia.org/wiki/installation_art",
       "https://en.wikipedia.org/wiki/liminality",
-      "https://en.wikipedia.org/wiki/marc_augé"
+      "https://en.wikipedia.org/wiki/marc_augé",
+      "https://en.wikipedia.org/wiki/james_turrell"
     ]
   },
   "doorDays": [
@@ -207,59 +208,11 @@
     },
     {
       "date": "2026-11-17",
-      "trips": 4,
+      "trips": 5,
       "strangers": 0
     }
   ],
   "seen": [
-    {
-      "title": "Insulator (electricity)",
-      "url": "https://en.wikipedia.org/wiki/Insulator_(electricity)"
-    },
-    {
-      "title": "Semiconductor",
-      "url": "https://en.wikipedia.org/wiki/Semiconductor"
-    },
-    {
-      "title": "Band gap",
-      "url": "https://en.wikipedia.org/wiki/Band_gap"
-    },
-    {
-      "title": "Electron hole",
-      "url": "https://en.wikipedia.org/wiki/Electron_hole"
-    },
-    {
-      "title": "Intrinsic semiconductor",
-      "url": "https://en.wikipedia.org/wiki/Intrinsic_semiconductor"
-    },
-    {
-      "title": "Solid-state physics",
-      "url": "https://en.wikipedia.org/wiki/Solid-state_physics"
-    },
-    {
-      "title": "Holon (physics)",
-      "url": "https://en.wikipedia.org/wiki/Holon_(physics)"
-    },
-    {
-      "title": "Helium",
-      "url": "https://en.wikipedia.org/wiki/Helium"
-    },
-    {
-      "title": "Physics",
-      "url": "https://en.wikipedia.org/wiki/Physics"
-    },
-    {
-      "title": "Chemistry",
-      "url": "https://en.wikipedia.org/wiki/Chemistry"
-    },
-    {
-      "title": "Electronic engineering",
-      "url": "https://en.wikipedia.org/wiki/Electronic_engineering"
-    },
-    {
-      "title": "Quasiparticle",
-      "url": "https://en.wikipedia.org/wiki/Quasiparticle"
-    },
     {
       "title": "Atom",
       "url": "https://en.wikipedia.org/wiki/Atom"
@@ -611,6 +564,54 @@
     {
       "title": "Municipality",
       "url": "https://en.wikipedia.org/wiki/Municipality"
+    },
+    {
+      "title": "Barack Obama",
+      "url": "https://en.wikipedia.org/wiki/Barack_Obama"
+    },
+    {
+      "title": "National Medal of Arts",
+      "url": "https://en.wikipedia.org/wiki/National_Medal_of_Arts"
+    },
+    {
+      "title": "Pomona College",
+      "url": "https://en.wikipedia.org/wiki/Pomona_College"
+    },
+    {
+      "title": "University of California, Irvine",
+      "url": "https://en.wikipedia.org/wiki/University_of_California,_Irvine"
+    },
+    {
+      "title": "Claremont Graduate University",
+      "url": "https://en.wikipedia.org/wiki/Claremont_Graduate_University"
+    },
+    {
+      "title": "Installation art",
+      "url": "https://en.wikipedia.org/wiki/Installation_art"
+    },
+    {
+      "title": "Roden Crater",
+      "url": "https://en.wikipedia.org/wiki/Roden_Crater"
+    },
+    {
+      "title": "Acton (Turrell)",
+      "url": "https://en.wikipedia.org/wiki/Acton_(Turrell)"
+    },
+    {
+      "title": "Light and Space",
+      "url": "https://en.wikipedia.org/wiki/Light_and_Space"
+    },
+    {
+      "title": "Cinder cone",
+      "url": "https://en.wikipedia.org/wiki/Cinder_cone"
+    },
+    {
+      "title": "Flagstaff, Arizona",
+      "url": "https://en.wikipedia.org/wiki/Flagstaff,_Arizona"
+    },
+    {
+      "title": "Naked-eye stars",
+      "url": "https://en.wikipedia.org/wiki/Naked-eye_stars"
     }
   ],
   "points": {

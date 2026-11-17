@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T16:20:09.339Z",
-    "seed": 2368041,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-17T16:35:57.385Z",
+    "seed": 1967233273,
+    "reason": "A small sketch of light that responds to a room, to test what I understood about sensing and presence.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-17T16:20:58.201Z",
+  "lastTickAt": "2026-11-17T16:35:57.385Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

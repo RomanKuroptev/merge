@@ -43,39 +43,6 @@
       ],
       "history": []
     },
-    "airborne lidar": {
-      "weight": 9.267,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Airborne lidar",
-          "url": "https://en.wikipedia.org/wiki/Airborne_lidar",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-airborne-lidar",
-          "title": "Airborne lidar",
-          "url": "https://en.wikipedia.org/wiki/Airborne_lidar",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
     "digital elevation model": {
       "weight": 18.533,
       "firstSeen": "2026-11-13T06:25:44.992Z",
@@ -113,39 +80,6 @@
           "event": "souvenir",
           "trail": "2026-11-13-1"
         },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
-    "maya archaeology": {
-      "weight": 9.267,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Airborne lidar",
-          "url": "https://en.wikipedia.org/wiki/Airborne_lidar",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-airborne-lidar",
-          "title": "Airborne lidar",
-          "url": "https://en.wikipedia.org/wiki/Airborne_lidar",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
         {
           "at": "2026-11-13T06:25:44.992Z",
           "change": 4,
@@ -1006,33 +940,6 @@
         }
       ]
     },
-    "semiconductors": {
-      "weight": 8,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-2",
-          "title": "Valence and conduction bands",
-          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
-          "at": "2026-11-17T10:45:20.534Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T10:45:20.534Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-2"
-        },
-        {
-          "at": "2026-11-17T10:45:20.534Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-2"
-        }
-      ]
-    },
     "liminality": {
       "weight": 14,
       "firstSeen": "2026-11-17T13:10:46.979Z",
@@ -1255,6 +1162,69 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-17-4"
+        }
+      ]
+    },
+    "light art": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T16:35:57.385Z",
+      "lastFed": "2026-11-17T16:35:57.385Z",
+      "sources": [
+        {
+          "id": "2026-11-17-james-turrell",
+          "title": "James Turrell",
+          "url": "https://en.wikipedia.org/wiki/James_Turrell",
+          "at": "2026-11-17T16:35:57.385Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T16:35:57.385Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-5"
+        }
+      ]
+    },
+    "skyspace": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T16:35:57.385Z",
+      "lastFed": "2026-11-17T16:35:57.385Z",
+      "sources": [
+        {
+          "id": "2026-11-17-james-turrell",
+          "title": "James Turrell",
+          "url": "https://en.wikipedia.org/wiki/James_Turrell",
+          "at": "2026-11-17T16:35:57.385Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T16:35:57.385Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-5"
+        }
+      ]
+    },
+    "james turrell": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T16:35:57.385Z",
+      "lastFed": "2026-11-17T16:35:57.385Z",
+      "sources": [
+        {
+          "id": "2026-11-17-james-turrell",
+          "title": "James Turrell",
+          "url": "https://en.wikipedia.org/wiki/James_Turrell",
+          "at": "2026-11-17T16:35:57.385Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T16:35:57.385Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-5"
         }
       ]
     }
