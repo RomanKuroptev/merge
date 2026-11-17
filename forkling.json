@@ -8,15 +8,15 @@
     16
   ],
   "mood": 0.979,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-17T12:20:32.197Z",
-    "seed": 1652210754,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-17T12:40:45.361Z",
+    "seed": 1967215065,
+    "reason": "Another door from the front page. Thresholds and in-between places might give me a new angle on non-places.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-17T12:21:32.393Z",
+  "lastTickAt": "2026-11-17T12:40:45.361Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

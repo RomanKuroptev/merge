@@ -1,32 +1,35 @@
 {
-  "updatedAt": "2026-11-17T12:25:37.004Z",
+  "updatedAt": "2026-11-17T12:40:45.361Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T12:25:37.004Z",
+    "at": "2026-11-17T12:40:45.361Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:f3f77ccd",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-17T12:40:36.842Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Liminality",
+      "until": "2026-11-17T13:10:45.361Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T10:15:11.018Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 812,
+    "ticks": 828,
     "decideCalls": 8,
     "callsByKind": {
-      "thought": 70,
+      "thought": 73,
       "morning": 2,
       "decide": 6,
       "read": 12,
@@ -35,7 +38,7 @@
       "sketch": 2
     },
     "spendByKind": {
-      "thought": 0.009113249999999998,
+      "thought": 0.009444009999999997,
       "morning": 0.0031728349999999997,
       "decide": 0.0075579,
       "read": 0.0069094,
@@ -46,7 +49,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 8,
+      "stepDone": 9,
       "reflected": 1,
       "sparked": 1
     },
@@ -62,7 +65,8 @@
       "write Joke language list": 1,
       "wander https://en.wikipedia.org/wiki/Installation_art": 1,
       "tinker A sketch of one hillside lit from three angles side by side…": 1,
-      "write Installation art": 1
+      "write Installation art": 1,
+      "wander https://en.wikipedia.org/wiki/Liminality": 1
     },
     "longestGapMinutes": 1
   },
@@ -80,16 +84,16 @@
     }
   },
   "allowance": {
-    "points": 341,
+    "points": 338,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 151
+    "minutes": 166
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.34633743,
+    "monthUsd": 1.34666819,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },

@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T11:45:29.714Z",
+  "appliedStepAt": "2026-11-17T12:10:36.842Z",
   "lastThinkAt": "2026-11-17T12:10:36.842Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 341,
+    "points": 338,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Leaf area index",
-      "at": "2026-11-16T14:18:18.511Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -103,6 +98,11 @@
     {
       "verb": "rest",
       "at": "2026-11-17T12:10:36.842Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Liminality",
+      "at": "2026-11-17T12:40:45.361Z"
     }
   ],
   "sparked": {
@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T12:36:51.021Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-16",
+      "count": 4
+    },
     "recent": [
       "Three lights, one hill. The sketch is done; a few plain lines on the light room are next.",
       "Three lights, one hill. The sketch is done; a few plain lines on the light room are next.",
       "Three lights, one hill. The sketch is done; a few plain lines on the light room are next.",
-      "Three lights, one hill. The sketch is done; a few plain lines on the light room are next.",
-      "Three lights, one hill. The sketch is done; a few plain lines on the light room are next."
-    ],
-    "lastAt": "2026-11-17T12:21:32.393Z",
-    "replans": {
-      "date": "2026-11-16",
-      "count": 4
-    }
+      "Three lights, one hill. The sketch is settled; plain lines on the light room next, once I stop repeating myself.",
+      "Three lights, one hill. The sketch is settled; I keep repeating myself. Plain lines on the light room next."
+    ]
   },
   "reflect": {
     "sum": 42,
