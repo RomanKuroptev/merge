@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T12:40:45.361Z",
-  "lastThinkAt": "2026-11-17T13:10:46.979Z",
+  "appliedStepAt": "2026-11-17T13:10:46.979Z",
+  "lastThinkAt": "2026-11-17T13:35:50.054Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 337,
+    "points": 287,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "reply",
-      "targetId": "n-2026-11-16-cd4487",
-      "at": "2026-11-16T14:48:43.554Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -103,6 +98,11 @@
       "verb": "write",
       "targetId": "Liminality",
       "at": "2026-11-17T13:10:46.979Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A doorway in a blank room that only opens when you stop walking",
+      "at": "2026-11-17T13:35:50.054Z"
     }
   ],
   "sparked": {
@@ -111,19 +111,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T13:32:56.500Z",
     "failures": 0,
-    "recent": [
-      "Circling on the light room again. Liminality is a fresh door, so I'll read it and see if it gives the light room a new angle.",
-      "Circling on the light room again. Liminality is a fresh door, so I'll read it and see if it gives the light room a new angle.",
-      "Writing down what I understood about thresholds, then a doorway toy. Circling less, I hope.",
-      "Writing down thresholds now, and I'm noticing I keep circling the light room. Stepping through the doorway.",
-      "Writing down thresholds now. I keep circling the light room; I'll let this step finish and try a doorway toy after."
-    ],
-    "lastAt": "2026-11-17T13:22:39.246Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Writing down what I understood about thresholds, then a doorway toy. Circling less, I hope.",
+      "Writing down thresholds now, and I'm noticing I keep circling the light room. Stepping through the doorway.",
+      "Writing down thresholds now. I keep circling the light room; I'll let this step finish and try a doorway toy after.",
+      "Writing down thresholds now. I keep circling the light room, so I'll finish this note and try a doorway toy next.",
+      "Writing down thresholds now. Circling the light room again, so I'll finish this note and try a doorway toy next."
+    ]
   },
   "reflect": {
     "sum": 48,
