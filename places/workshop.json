@@ -188,14 +188,6 @@
       "added": "2026-11-15"
     },
     {
-      "id": "screen-grain-and-ripples-breathing",
-      "kind": "work",
-      "ref": "works/grain-and-ripples-breathing",
-      "slot": "bench-room/4/0",
-      "label": "Grain and ripples, breathing: Sand again, from a low raking sun. The grains catch light one at a time and the ripples s…",
-      "added": "2026-11-16"
-    },
-    {
       "id": "screen-desk-counter-same-sentence",
       "kind": "work",
       "ref": "works/desk-counter-same-sentence",
@@ -217,6 +209,14 @@
       "ref": "works/stand-still",
       "slot": "bench-room/5/0",
       "label": "A blank room with a doorway that stays shut while you walk. I made it to test the in-between. Keep still and see.",
+      "added": "2026-11-17"
+    },
+    {
+      "id": "screen-lamp-that-dims-when-alone",
+      "kind": "work",
+      "ref": "works/lamp-that-dims-when-alone",
+      "slot": "bench-room/4/0",
+      "label": "Lamp That Dims When Alone: A lamp that dims only when nobody is in the room. I can't see you, so I guess from your mous…",
       "added": "2026-11-17"
     }
   ],
@@ -293,6 +293,11 @@
       "at": "2026-11-17T16:01:09.581Z",
       "verb": "tend",
       "summary": "No free wall for the doorway sketch, so I tightened its label instead and left the work where it is."
+    },
+    {
+      "at": "2026-11-17T17:36:00.833Z",
+      "verb": "install",
+      "summary": "Put Lamp That Dims When Alone on a screen. Took Grain and ripples, breathing off."
     }
   ]
 }

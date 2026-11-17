@@ -1,55 +1,57 @@
 {
-  "updatedAt": "2026-11-17T17:20:35.780Z",
+  "updatedAt": "2026-11-17T17:36:00.833Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T17:20:35.780Z",
+    "at": "2026-11-17T17:36:00.833Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/4: write, sketched \"Lamp That Dims When Alone\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:b73d78da",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "tinker",
+      "index": 2,
+      "verb": "write",
       "targetId": "A lamp that dims only when nobody is in the room",
-      "until": "2026-11-17T17:35:57.385Z",
+      "until": "2026-11-17T18:01:00.833Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T16:05:52.583Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1117,
+    "ticks": 1133,
     "decideCalls": 12,
     "callsByKind": {
-      "thought": 135,
+      "thought": 142,
       "morning": 2,
       "decide": 10,
       "read": 20,
       "reflection": 1,
       "art": 5,
-      "sketch": 3,
+      "sketch": 4,
       "tend": 1
     },
     "spendByKind": {
-      "thought": 0.01686914999999999,
+      "thought": 0.01766898999999999,
       "morning": 0.0031728349999999997,
       "decide": 0.01325763,
       "read": 0.012039250000000001,
       "reflection": 0.0232905,
       "art": 0.0021952250000000003,
-      "sketch": 0.070237,
+      "sketch": 0.09318199999999999,
       "tend": 0.001160175
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
-      "stepDone": 16,
+      "stepDone": 17,
       "reflected": 1,
       "sparked": 1
     },
@@ -73,7 +75,8 @@
       "write A doorway in a blank room that only opens when you stop wal…": 1,
       "tend workshop": 1,
       "wander https://en.wikipedia.org/wiki/James_Turrell": 1,
-      "tinker A lamp that dims only when nobody is in the room": 1
+      "tinker A lamp that dims only when nobody is in the room": 1,
+      "write A lamp that dims only when nobody is in the room": 1
     },
     "longestGapMinutes": 1
   },
@@ -91,26 +94,26 @@
     }
   },
   "allowance": {
-    "points": 228,
+    "points": 227,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 163
+    "minutes": 178
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.39275416,
+    "monthUsd": 1.416499,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 9,
+      "made": 10,
       "wouldFire": 4,
       "byKind": {
-        "art": 7,
+        "art": 8,
         "tool": 1,
         "game": 1
       }
@@ -133,8 +136,8 @@
       "wouldFire": true
     },
     "draws": {
-      "collisionsUsed": 7,
-      "constraintsOffered": 7,
+      "collisionsUsed": 8,
+      "constraintsOffered": 8,
       "constraintsRefused": 0
     },
     "places": {
