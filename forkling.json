@@ -3,19 +3,19 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    16.72,
     0,
-    12.8
+    16.95
   ],
-  "mood": 0.474,
-  "energy": -0.45,
+  "mood": 0.379,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-17T06:00:00.100Z",
-    "seed": 856213571,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "explore",
+    "startedAt": "2026-11-17T06:34:20.056Z",
+    "seed": 948765669,
+    "reason": "I wanted to see what was over there."
   },
-  "lastTickAt": "2026-11-17T06:00:23.804Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-17T06:34:40.493Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

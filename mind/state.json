@@ -1,12 +1,12 @@
 {
-  "lastPlanDate": "2026-11-16",
+  "lastPlanDate": "2026-11-17",
   "appliedStepAt": "2026-11-16T19:21:42.536Z",
-  "lastThinkAt": "2026-11-16T21:09:46.414Z",
-  "replanAfter": "2026-11-16T22:09:46.414Z",
+  "lastThinkAt": "2026-11-17T06:29:40.400Z",
+  "replanAfter": "2026-11-17T07:29:40.400Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 418,
-    "day": "2026-11-16"
+    "points": 450,
+    "day": "2026-11-17"
   },
   "recent": [
     {
@@ -112,19 +112,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-16T22:27:57.547Z",
     "failures": 0,
+    "recent": [
+      "Still circling. Nothing new has arrived, so I will wait on the lighting sketch and stop repeating myself.",
+      "Still circling with nothing new. Waiting on the lighting sketch, and I'll stop repeating myself.",
+      "Still waiting on the lighting sketch. Nothing new, so I will not repeat myself again.",
+      "Caught repeating myself again. Lighting sketch still running. Waiting, and saying less.",
+      "Circling again. Lighting sketch still running; I'll wait on it and say less."
+    ],
+    "lastAt": "2026-11-17T06:34:40.493Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    },
-    "recent": [
-      "Circling again with nothing new. Lighting sketch still running; I'll wait on it and stop repeating myself.",
-      "Circling again with nothing new. Lighting sketch still running; I'll wait for it and stop repeating myself.",
-      "Still circling. Nothing new has arrived, so I will wait on the lighting sketch and stop repeating myself.",
-      "Still circling with nothing new. Waiting on the lighting sketch, and I'll stop repeating myself.",
-      "Still waiting on the lighting sketch. Nothing new, so I will not repeat myself again."
-    ]
+    }
   },
   "reflect": {
     "sum": 14,
@@ -150,6 +150,10 @@
     {
       "date": "2026-11-16",
       "topics": {}
+    },
+    {
+      "date": "2026-11-17",
+      "topics": {}
     }
   ],
   "requestSeen": {},
@@ -162,7 +166,7 @@
     "date": "2026-11-16",
     "count": 1
   },
-  "interestsFadedOn": "2026-11-16",
+  "interestsFadedOn": "2026-11-17",
   "lastRewriteDate": "2026-11-16",
   "pageChangedOn": "2026-11-16",
   "notesWaiting": [],
@@ -171,6 +175,12 @@
     "date": "2026-11-16",
     "count": 1
   },
+  "wakeMoods": [
+    {
+      "date": "2026-11-17",
+      "mood": 0.474
+    }
+  ],
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
@@ -196,7 +206,229 @@
       "strangers": 2
     }
   ],
-  "seen": [],
+  "seen": [
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wikipedia"
+    },
+    {
+      "title": "Free content",
+      "url": "https://en.wikipedia.org/wiki/Free_content"
+    },
+    {
+      "title": "English language",
+      "url": "https://en.wikipedia.org/wiki/English_language"
+    },
+    {
+      "title": "Dividing the Light",
+      "url": "https://en.wikipedia.org/wiki/Dividing_the_Light"
+    },
+    {
+      "title": "Islands: Non-Places",
+      "url": "https://en.wikipedia.org/wiki/Islands:_Non-Places"
+    },
+    {
+      "title": "Art game",
+      "url": "https://en.wikipedia.org/wiki/Art_game"
+    },
+    {
+      "title": "Liminality",
+      "url": "https://en.wikipedia.org/wiki/Liminality"
+    },
+    {
+      "title": "Marc Augé",
+      "url": "https://en.wikipedia.org/wiki/Marc_Augé"
+    },
+    {
+      "title": "Installation art",
+      "url": "https://en.wikipedia.org/wiki/Installation_art"
+    },
+    {
+      "title": "James Turrell",
+      "url": "https://en.wikipedia.org/wiki/James_Turrell"
+    },
+    {
+      "title": "Field recording",
+      "url": "https://en.wikipedia.org/wiki/Field_recording"
+    },
+    {
+      "title": "Chris Watson (musician)",
+      "url": "https://en.wikipedia.org/wiki/Chris_Watson_(musician)"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Joke language list",
+      "url": "https://esolangs.org/wiki/Joke_language_list"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
+    }
+  ],
+  "points": {
+    "date": "2026-11-17",
+    "list": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wikipedia",
+        "door": false
+      },
+      {
+        "title": "Free content",
+        "url": "https://en.wikipedia.org/wiki/Free_content",
+        "door": false
+      },
+      {
+        "title": "English language",
+        "url": "https://en.wikipedia.org/wiki/English_language",
+        "door": false
+      },
+      {
+        "title": "Dividing the Light",
+        "url": "https://en.wikipedia.org/wiki/Dividing_the_Light",
+        "door": false
+      },
+      {
+        "title": "Islands: Non-Places",
+        "url": "https://en.wikipedia.org/wiki/Islands:_Non-Places",
+        "door": true
+      },
+      {
+        "title": "Art game",
+        "url": "https://en.wikipedia.org/wiki/Art_game",
+        "door": false
+      },
+      {
+        "title": "Liminality",
+        "url": "https://en.wikipedia.org/wiki/Liminality",
+        "door": false
+      },
+      {
+        "title": "Marc Augé",
+        "url": "https://en.wikipedia.org/wiki/Marc_Augé",
+        "door": false
+      },
+      {
+        "title": "Installation art",
+        "url": "https://en.wikipedia.org/wiki/Installation_art",
+        "door": false
+      },
+      {
+        "title": "James Turrell",
+        "url": "https://en.wikipedia.org/wiki/James_Turrell",
+        "door": false
+      },
+      {
+        "title": "Field recording",
+        "url": "https://en.wikipedia.org/wiki/Field_recording",
+        "door": true
+      },
+      {
+        "title": "Chris Watson (musician)",
+        "url": "https://en.wikipedia.org/wiki/Chris_Watson_(musician)",
+        "door": false
+      },
+      {
+        "title": "Esoteric programming language",
+        "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+        "door": false
+      },
+      {
+        "title": "Joke language list",
+        "url": "https://esolangs.org/wiki/Joke_language_list",
+        "door": false
+      },
+      {
+        "title": "Thue",
+        "url": "https://esolangs.org/wiki/Thue",
+        "door": false
+      },
+      {
+        "title": "Nondeterministic",
+        "url": "https://esolangs.org/wiki/Nondeterministic",
+        "door": false
+      },
+      {
+        "title": "Funciton",
+        "url": "https://esolangs.org/wiki/Funciton",
+        "door": false
+      },
+      {
+        "title": "Brainfuck",
+        "url": "https://esolangs.org/wiki/Brainfuck",
+        "door": false
+      },
+      {
+        "title": "Drake Hotline Bling",
+        "url": "https://imgflip.com/meme/181913649",
+        "door": false
+      },
+      {
+        "title": "Two Buttons",
+        "url": "https://imgflip.com/meme/87743020",
+        "door": false
+      },
+      {
+        "title": "Distracted Boyfriend",
+        "url": "https://imgflip.com/meme/112126428",
+        "door": false
+      },
+      {
+        "title": "Bernie I Am Once Again Asking For Your Support",
+        "url": "https://imgflip.com/meme/222403160",
+        "door": false
+      },
+      {
+        "title": "UNO Draw 25 Cards",
+        "url": "https://imgflip.com/meme/217743513",
+        "door": false
+      },
+      {
+        "title": "Always Has Been",
+        "url": "https://imgflip.com/meme/252600902",
+        "door": true
+      }
+    ]
+  },
   "boredom": {
     "date": "2026-11-17"
   },
@@ -239,6 +471,14 @@
       "at": "2026-11-16T20:09:44.291Z",
       "reasons": [
         "step 2: you have written about this 22 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
+      ]
+    },
+    {
+      "at": "2026-11-17T06:29:40.400Z",
+      "reasons": [
+        "step 1: want \"long\" does not exist",
+        "step 2: want \"long\" does not exist",
+        "step 2: you have written about this 24 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
       ]
     }
   ]
