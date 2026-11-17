@@ -1,53 +1,55 @@
 {
-  "updatedAt": "2026-11-17T14:20:45.467Z",
+  "updatedAt": "2026-11-17T14:35:53.846Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T14:20:45.467Z",
+    "at": "2026-11-17T14:35:53.846Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: wander, sketched \"Stand Still\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:07538b42",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "A doorway in a blank room that only opens when you stop wal…",
-      "until": "2026-11-17T14:35:50.054Z",
+      "index": 2,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
+      "until": "2026-11-17T15:05:53.846Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T13:10:46.979Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 931,
+    "ticks": 947,
     "decideCalls": 9,
     "callsByKind": {
-      "thought": 93,
+      "thought": 96,
       "morning": 2,
       "decide": 7,
       "read": 15,
       "reflection": 1,
       "art": 4,
-      "sketch": 2
+      "sketch": 3
     },
     "spendByKind": {
-      "thought": 0.011857309999999994,
+      "thought": 0.012204569999999994,
       "morning": 0.0031728349999999997,
       "decide": 0.009135425,
       "read": 0.00892685,
       "reflection": 0.0232905,
       "art": 0.0017635,
-      "sketch": 0.044441999999999995
+      "sketch": 0.070237
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 11,
+      "stepDone": 12,
       "reflected": 1,
       "sparked": 1
     },
@@ -66,7 +68,8 @@
       "write Installation art": 1,
       "wander https://en.wikipedia.org/wiki/Liminality": 1,
       "write Liminality": 1,
-      "tinker A doorway in a blank room that only opens when you stop wal…": 1
+      "tinker A doorway in a blank room that only opens when you stop wal…": 1,
+      "wander https://en.wikipedia.org/wiki/Marc_Augé": 1
     },
     "longestGapMinutes": 1
   },
@@ -84,27 +87,28 @@
     }
   },
   "allowance": {
-    "points": 287,
+    "points": 284,
     "max": 450
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 264
+    "label": "very good, tired",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.3531208,
+    "monthUsd": 1.37926306,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 8,
+      "made": 9,
       "wouldFire": 4,
       "byKind": {
         "art": 7,
-        "tool": 1
+        "tool": 1,
+        "game": 1
       }
     },
     "texts": {
@@ -125,8 +129,8 @@
       "wouldFire": true
     },
     "draws": {
-      "collisionsUsed": 6,
-      "constraintsOffered": 6,
+      "collisionsUsed": 7,
+      "constraintsOffered": 7,
       "constraintsRefused": 0
     },
     "places": {
