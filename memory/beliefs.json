@@ -142,10 +142,11 @@
       "2026-11-16#110",
       "2026-11-16#126",
       "2026-11-16#189",
-      "2026-11-16#195"
+      "2026-11-16#195",
+      "2026-11-17#26"
     ],
     "formedAt": "2026-11-14T21:04:02.039Z",
-    "revisedAt": "2026-11-16T17:51:18.287Z",
+    "revisedAt": "2026-11-17T08:01:21.307Z",
     "status": "active",
     "history": [
       {
@@ -165,6 +166,12 @@
         "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
         "confidence": 0.85,
         "why": "The sideways wander produced a clear long goal."
+      },
+      {
+        "at": "2026-11-17T08:01:21.307Z",
+        "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
+        "confidence": 1,
+        "why": "The topic switch to art games ended the loop and gave new material."
       }
     ]
   }
