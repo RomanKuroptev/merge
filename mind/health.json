@@ -1,45 +1,47 @@
 {
-  "updatedAt": "2026-11-17T10:30:00.848Z",
+  "updatedAt": "2026-11-17T10:45:20.534Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T10:30:00.848Z",
+    "at": "2026-11-17T10:45:20.534Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/5: tinker, wandered from https://en.wikipedia.org/wiki/Installation_art",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:f3f77ccd",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Installation_art",
-      "until": "2026-11-17T10:45:11.018Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "A sketch of one hillside lit from three angles side by side…",
+      "until": "2026-11-17T11:45:20.534Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T10:15:11.018Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 692,
+    "ticks": 708,
     "decideCalls": 7,
     "callsByKind": {
-      "thought": 48,
+      "thought": 51,
       "morning": 2,
       "decide": 5,
-      "read": 6,
+      "read": 12,
       "reflection": 1,
       "art": 2,
       "sketch": 1
     },
     "spendByKind": {
-      "thought": 0.006143179999999999,
+      "thought": 0.006479839999999999,
       "morning": 0.0031728349999999997,
       "decide": 0.006600675,
-      "read": 0.0034413499999999997,
+      "read": 0.0069094,
       "reflection": 0.0232905,
       "art": 0.00086085,
       "sketch": 0.019939
@@ -47,7 +49,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 5,
+      "stepDone": 6,
       "reflected": 1
     },
     "failures": 0,
@@ -60,31 +62,35 @@
       "rest": 1,
       "tinker A tiny counter that shows how many times I have written the…": 1,
       "write Joke language list": 1,
-      "wander https://en.wikipedia.org/wiki/Installation_art": 1
+      "wander https://en.wikipedia.org/wiki/Installation_art": 1,
+      "tinker A sketch of one hillside lit from three angles side by side…": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 6,
+      "used": 12,
       "max": 40
     }
   },
   "web": {
     "pausedHosts": {},
-    "topHost": null
+    "topHost": {
+      "host": "en.wikipedia.org",
+      "share": 1
+    }
   },
   "allowance": {
-    "points": 392,
+    "points": 342,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 35
+    "minutes": 50
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.31398075,
+    "monthUsd": 1.31778546,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -105,12 +111,16 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 4,
+      "trips": 5,
       "strangers": 2,
-      "share": 0.5,
+      "share": 0.4,
       "noDoorDays": 0
     },
-    "oneHost": null,
+    "oneHost": {
+      "host": "en.wikipedia.org",
+      "share": 1,
+      "wouldFire": true
+    },
     "draws": {
       "collisionsUsed": 5,
       "constraintsOffered": 5,

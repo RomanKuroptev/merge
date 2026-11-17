@@ -506,69 +506,6 @@
         }
       ]
     },
-    "art game": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Art game",
-          "url": "https://en.wikipedia.org/wiki/Art_game",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
-    "video game art": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Art game",
-          "url": "https://en.wikipedia.org/wiki/Art_game",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
-    "game definitions": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Art game",
-          "url": "https://en.wikipedia.org/wiki/Art_game",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
     "new media art": {
       "weight": 14,
       "firstSeen": "2026-11-17T07:59:47.308Z",
@@ -636,9 +573,9 @@
       ]
     },
     "interactive art": {
-      "weight": 14,
+      "weight": 28,
       "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
       "sources": [
         {
           "id": "trail:2026-11-17-1",
@@ -651,6 +588,18 @@
           "title": "New media art",
           "url": "https://en.wikipedia.org/wiki/New_media_art",
           "at": "2026-11-17T07:59:47.308Z"
+        },
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Interactive art",
+          "url": "https://en.wikipedia.org/wiki/Interactive_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-interactive-art",
+          "title": "Interactive art",
+          "url": "https://en.wikipedia.org/wiki/Interactive_art",
+          "at": "2026-11-17T10:45:20.534Z"
         }
       ],
       "history": [
@@ -665,6 +614,18 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-17-1"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
         }
       ]
     },
@@ -763,69 +724,6 @@
           "at": "2026-11-17T07:59:47.308Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
-    "alan kay": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Alan Kay",
-          "url": "https://en.wikipedia.org/wiki/Alan_Kay",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
-    "smalltalk": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Alan Kay",
-          "url": "https://en.wikipedia.org/wiki/Alan_Kay",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-1"
-        }
-      ]
-    },
-    "dynabook": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-1",
-          "title": "Alan Kay",
-          "url": "https://en.wikipedia.org/wiki/Alan_Kay",
-          "at": "2026-11-17T07:59:47.308Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T07:59:47.308Z",
-          "change": 4,
-          "event": "page",
           "trail": "2026-11-17-1"
         }
       ]
@@ -929,45 +827,390 @@
         }
       ]
     },
-    "computer monitor history": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
+    "installation art": {
+      "weight": 28,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
       "sources": [
         {
-          "id": "trail:2026-11-17-1",
-          "title": "Computer monitor",
-          "url": "https://en.wikipedia.org/wiki/Computer_monitor",
-          "at": "2026-11-17T07:59:47.308Z"
+          "id": "trail:2026-11-17-2",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-installation-art",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-interactive-art",
+          "title": "Interactive art",
+          "url": "https://en.wikipedia.org/wiki/Interactive_art",
+          "at": "2026-11-17T10:45:20.534Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-17T07:59:47.308Z",
+          "at": "2026-11-17T10:45:20.534Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-17-1"
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
         }
       ]
     },
-    "display technology": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T07:59:47.308Z",
-      "lastFed": "2026-11-17T07:59:47.308Z",
+    "immersive environments": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
       "sources": [
         {
-          "id": "trail:2026-11-17-1",
-          "title": "Computer monitor",
-          "url": "https://en.wikipedia.org/wiki/Computer_monitor",
-          "at": "2026-11-17T07:59:47.308Z"
+          "id": "trail:2026-11-17-2",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-installation-art",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-17T07:59:47.308Z",
+          "at": "2026-11-17T10:45:20.534Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-17-1"
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "viewer experience": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-installation-art",
+          "title": "Installation art",
+          "url": "https://en.wikipedia.org/wiki/Installation_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "viewer participation": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Interactive art",
+          "url": "https://en.wikipedia.org/wiki/Interactive_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-interactive-art",
+          "title": "Interactive art",
+          "url": "https://en.wikipedia.org/wiki/Interactive_art",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "sensors": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-sensor",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "light sensing": {
+      "weight": 18,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-sensor",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "signal measurement": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        },
+        {
+          "id": "2026-11-17-sensor",
+          "title": "Sensor",
+          "url": "https://en.wikipedia.org/wiki/Sensor",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "image sensor": {
+      "weight": 4,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Photodetector",
+          "url": "https://en.wikipedia.org/wiki/Photodetector",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "band gap": {
+      "weight": 4,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Valence and conduction bands",
+          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "electrical conductivity": {
+      "weight": 4,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Valence and conduction bands",
+          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "semiconductors": {
+      "weight": 8,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Valence and conduction bands",
+          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        },
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "electron hole": {
+      "weight": 4,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Electron hole",
+          "url": "https://en.wikipedia.org/wiki/Electron_hole",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
+        }
+      ]
+    },
+    "quasiparticles": {
+      "weight": 4,
+      "firstSeen": "2026-11-17T10:45:20.534Z",
+      "lastFed": "2026-11-17T10:45:20.534Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-2",
+          "title": "Electron hole",
+          "url": "https://en.wikipedia.org/wiki/Electron_hole",
+          "at": "2026-11-17T10:45:20.534Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T10:45:20.534Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-2"
         }
       ]
     }

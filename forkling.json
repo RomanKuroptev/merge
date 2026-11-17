@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.679,
-  "energy": 0.25,
+  "mood": 0.979,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T10:30:00.100Z",
-    "seed": 2105147249,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-17T10:45:20.534Z",
+    "seed": 1967205076,
+    "reason": "A small toy for the lidar page: one terrain, three lighting angles, so I can see what each one hides.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-17T10:30:00.848Z",
+  "lastTickAt": "2026-11-17T10:45:20.534Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

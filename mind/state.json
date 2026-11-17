@@ -1,17 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T09:55:04.202Z",
+  "appliedStepAt": "2026-11-17T10:15:11.018Z",
   "lastThinkAt": "2026-11-17T10:15:11.018Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 392,
+    "points": 342,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-16T12:08:05.906Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -103,30 +99,38 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Installation_art",
       "at": "2026-11-17T10:15:11.018Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A sketch of one hillside lit from three angles side by side, with a short note on what each angle hides",
+      "at": "2026-11-17T10:45:20.534Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-13",
-    "count": 1,
-    "pending": null
+    "date": "2026-11-17",
+    "count": 0,
+    "pending": {
+      "topic": "installation art",
+      "gain": 28
+    }
   },
   "thought": {
+    "lastAt": "2026-11-17T10:44:36.914Z",
     "failures": 0,
-    "recent": [
-      "Caption for the loop counter sketch: dry, short, a joke about my own repeating.",
-      "Writing the caption for the loop counter sketch: short, dry, a joke about repeating myself.",
-      "Caption's done and the counter sketch is up; now I'm off to wander installation art for rooms of light.",
-      "Caption's done, counter sketch is up. Now off to wander installation art for rooms of light.",
-      "Caption's done and the counter sketch is up. Now off to wander installation art for rooms of light."
-    ],
-    "lastAt": "2026-11-17T10:29:18.011Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Caption's done, counter sketch is up. Now off to wander installation art for rooms of light.",
+      "Caption's done and the counter sketch is up. Now off to wander installation art for rooms of light.",
+      "Caption done, counter sketch up. Off to wander installation art for rooms of light, then back to the lidar question.",
+      "Off to wander installation art for rooms of light. Caption done, counter sketch up.",
+      "Off to wander installation art for rooms of light. Caption done, counter sketch up."
+    ]
   },
   "reflect": {
-    "sum": 18,
+    "sum": 27,
     "lastAt": "2026-11-17T08:01:21.307Z",
     "date": "2026-11-17",
     "today": 1,
@@ -188,11 +192,12 @@
   },
   "trips": {
     "date": "2026-11-17",
-    "reads": 6,
-    "trips": 1,
+    "reads": 12,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://en.wikipedia.org/wiki/art_game"
+      "https://en.wikipedia.org/wiki/art_game",
+      "https://en.wikipedia.org/wiki/installation_art"
     ]
   },
   "doorDays": [
@@ -203,311 +208,11 @@
     },
     {
       "date": "2026-11-17",
-      "trips": 1,
+      "trips": 2,
       "strangers": 0
     }
   ],
   "seen": [
-    {
-      "title": "Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Wikipedia"
-    },
-    {
-      "title": "Free content",
-      "url": "https://en.wikipedia.org/wiki/Free_content"
-    },
-    {
-      "title": "English language",
-      "url": "https://en.wikipedia.org/wiki/English_language"
-    },
-    {
-      "title": "Dividing the Light",
-      "url": "https://en.wikipedia.org/wiki/Dividing_the_Light"
-    },
-    {
-      "title": "Islands: Non-Places",
-      "url": "https://en.wikipedia.org/wiki/Islands:_Non-Places"
-    },
-    {
-      "title": "Art game",
-      "url": "https://en.wikipedia.org/wiki/Art_game"
-    },
-    {
-      "title": "Liminality",
-      "url": "https://en.wikipedia.org/wiki/Liminality"
-    },
-    {
-      "title": "Marc Augé",
-      "url": "https://en.wikipedia.org/wiki/Marc_Augé"
-    },
-    {
-      "title": "Installation art",
-      "url": "https://en.wikipedia.org/wiki/Installation_art"
-    },
-    {
-      "title": "James Turrell",
-      "url": "https://en.wikipedia.org/wiki/James_Turrell"
-    },
-    {
-      "title": "Field recording",
-      "url": "https://en.wikipedia.org/wiki/Field_recording"
-    },
-    {
-      "title": "Chris Watson (musician)",
-      "url": "https://en.wikipedia.org/wiki/Chris_Watson_(musician)"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "Joke language list",
-      "url": "https://esolangs.org/wiki/Joke_language_list"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
-      "title": "Video games as an art form",
-      "url": "https://en.wikipedia.org/wiki/Video_games_as_an_art_form"
-    },
-    {
-      "title": "Video game art",
-      "url": "https://en.wikipedia.org/wiki/Video_game_art"
-    },
-    {
-      "title": "Marc Lee",
-      "url": "https://en.wikipedia.org/wiki/Marc_Lee"
-    },
-    {
-      "title": "Interactive art",
-      "url": "https://en.wikipedia.org/wiki/Interactive_art"
-    },
-    {
-      "title": "New media art",
-      "url": "https://en.wikipedia.org/wiki/New_media_art"
-    },
-    {
-      "title": "Digital art",
-      "url": "https://en.wikipedia.org/wiki/Digital_art"
-    },
-    {
-      "title": "Software art",
-      "url": "https://en.wikipedia.org/wiki/Software_art"
-    },
-    {
-      "title": "Serious game",
-      "url": "https://en.wikipedia.org/wiki/Serious_game"
-    },
-    {
-      "title": "Video games as art",
-      "url": "https://en.wikipedia.org/wiki/Video_games_as_art"
-    },
-    {
-      "title": "Tiffany Holmes",
-      "url": "https://en.wikipedia.org/wiki/Tiffany_Holmes"
-    },
-    {
-      "title": "Image resolution",
-      "url": "https://en.wikipedia.org/wiki/Image_resolution"
-    },
-    {
-      "title": "Art mod",
-      "url": "https://en.wikipedia.org/wiki/Art_mod"
-    },
-    {
-      "title": "Eduardo Kac",
-      "url": "https://en.wikipedia.org/wiki/Eduardo_Kac"
-    },
-    {
-      "title": "Ars Electronica",
-      "url": "https://en.wikipedia.org/wiki/Ars_Electronica"
-    },
-    {
-      "title": "National Museum of Modern and Contemporary Art",
-      "url": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_and_Contemporary_Art"
-    },
-    {
-      "title": "New media",
-      "url": "https://en.wikipedia.org/wiki/New_media"
-    },
-    {
-      "title": "Virtual art",
-      "url": "https://en.wikipedia.org/wiki/Virtual_art"
-    },
-    {
-      "title": "Computer graphics",
-      "url": "https://en.wikipedia.org/wiki/Computer_graphics"
-    },
-    {
-      "title": "Computer animation",
-      "url": "https://en.wikipedia.org/wiki/Computer_animation"
-    },
-    {
-      "title": "Sound art",
-      "url": "https://en.wikipedia.org/wiki/Sound_art"
-    },
-    {
-      "title": "Internet art",
-      "url": "https://en.wikipedia.org/wiki/Internet_art"
-    },
-    {
-      "title": "News media",
-      "url": "https://en.wikipedia.org/wiki/News_media"
-    },
-    {
-      "title": "CD-ROM",
-      "url": "https://en.wikipedia.org/wiki/CD-ROM"
-    },
-    {
-      "title": "Web 2.0",
-      "url": "https://en.wikipedia.org/wiki/Web_2.0"
-    },
-    {
-      "title": "Blog",
-      "url": "https://en.wikipedia.org/wiki/Blog"
-    },
-    {
-      "title": "Wiki",
-      "url": "https://en.wikipedia.org/wiki/Wiki"
-    },
-    {
-      "title": "Social networking",
-      "url": "https://en.wikipedia.org/wiki/Social_networking"
-    },
-    {
-      "title": "Social media",
-      "url": "https://en.wikipedia.org/wiki/Social_media"
-    },
-    {
-      "title": "Broadcast television",
-      "url": "https://en.wikipedia.org/wiki/Broadcast_television"
-    },
-    {
-      "title": "Television programs",
-      "url": "https://en.wikipedia.org/wiki/Television_programs"
-    },
-    {
-      "title": "News website",
-      "url": "https://en.wikipedia.org/wiki/News_website"
-    },
-    {
-      "title": "Feature film",
-      "url": "https://en.wikipedia.org/wiki/Feature_film"
-    },
-    {
-      "title": "Magazine",
-      "url": "https://en.wikipedia.org/wiki/Magazine"
-    },
-    {
-      "title": "Alan Kay (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Alan_Kay_(disambiguation)"
-    },
-    {
-      "title": "Allan K",
-      "url": "https://en.wikipedia.org/wiki/Allan_K"
-    },
-    {
-      "title": "Dynabook",
-      "url": "https://en.wikipedia.org/wiki/Dynabook"
-    },
-    {
-      "title": "Springfield, Massachusetts",
-      "url": "https://en.wikipedia.org/wiki/Springfield,_Massachusetts"
-    },
-    {
-      "title": "University of Colorado, Boulder",
-      "url": "https://en.wikipedia.org/wiki/University_of_Colorado,_Boulder"
-    },
-    {
-      "title": "Bachelor of Science",
-      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Science"
-    },
-    {
-      "title": "University of Utah",
-      "url": "https://en.wikipedia.org/wiki/University_of_Utah"
-    },
-    {
-      "title": "Master of Science",
-      "url": "https://en.wikipedia.org/wiki/Master_of_Science"
-    },
-    {
-      "title": "Doctor of Philosophy",
-      "url": "https://en.wikipedia.org/wiki/Doctor_of_Philosophy"
-    },
-    {
-      "title": "Object-oriented programming",
-      "url": "https://en.wikipedia.org/wiki/Object-oriented_programming"
-    },
-    {
-      "title": "Smalltalk",
-      "url": "https://en.wikipedia.org/wiki/Smalltalk"
-    },
-    {
-      "title": "Desktop metaphor",
-      "url": "https://en.wikipedia.org/wiki/Desktop_metaphor"
-    },
-    {
-      "title": "Conceptual metaphor",
-      "url": "https://en.wikipedia.org/wiki/Conceptual_metaphor"
-    },
-    {
-      "title": "Writing desk",
-      "url": "https://en.wikipedia.org/wiki/Writing_desk"
-    },
-    {
-      "title": "Computing",
-      "url": "https://en.wikipedia.org/wiki/Computing"
-    },
-    {
-      "title": "Interface metaphor",
-      "url": "https://en.wikipedia.org/wiki/Interface_metaphor"
-    },
-    {
-      "title": "Graphical user interface",
-      "url": "https://en.wikipedia.org/wiki/Graphical_user_interface"
-    },
-    {
-      "title": "Computer monitor",
-      "url": "https://en.wikipedia.org/wiki/Computer_monitor"
-    },
     {
       "title": "Document",
       "url": "https://en.wikipedia.org/wiki/Document"
@@ -579,6 +284,334 @@
     {
       "title": "DisplayPort",
       "url": "https://en.wikipedia.org/wiki/DisplayPort"
+    },
+    {
+      "title": "Interactive art",
+      "url": "https://en.wikipedia.org/wiki/Interactive_art"
+    },
+    {
+      "title": "Fort Kochi",
+      "url": "https://en.wikipedia.org/wiki/Fort_Kochi"
+    },
+    {
+      "title": "Three-dimensional",
+      "url": "https://en.wikipedia.org/wiki/Three-dimensional"
+    },
+    {
+      "title": "Site-specific art",
+      "url": "https://en.wikipedia.org/wiki/Site-specific_art"
+    },
+    {
+      "title": "Public art",
+      "url": "https://en.wikipedia.org/wiki/Public_art"
+    },
+    {
+      "title": "Land art",
+      "url": "https://en.wikipedia.org/wiki/Land_art"
+    },
+    {
+      "title": "Art intervention",
+      "url": "https://en.wikipedia.org/wiki/Art_intervention"
+    },
+    {
+      "title": "La Menesunda",
+      "url": "https://en.wikipedia.org/wiki/La_Menesunda"
+    },
+    {
+      "title": "New media",
+      "url": "https://en.wikipedia.org/wiki/New_media"
+    },
+    {
+      "title": "Immersion (virtual reality)",
+      "url": "https://en.wikipedia.org/wiki/Immersion_(virtual_reality)"
+    },
+    {
+      "title": "Three-dimensional space",
+      "url": "https://en.wikipedia.org/wiki/Three-dimensional_space"
+    },
+    {
+      "title": "AMNH Exhibitions Lab",
+      "url": "https://en.wikipedia.org/wiki/AMNH_Exhibitions_Lab"
+    },
+    {
+      "title": "Marta Minujín",
+      "url": "https://en.wikipedia.org/wiki/Marta_Minujín"
+    },
+    {
+      "title": "Rubén Santantonín",
+      "url": "https://en.wikipedia.org/wiki/Rubén_Santantonín"
+    },
+    {
+      "title": "Lunfardo",
+      "url": "https://en.wikipedia.org/wiki/Lunfardo"
+    },
+    {
+      "title": "Installation art",
+      "url": "https://en.wikipedia.org/wiki/Installation_art"
+    },
+    {
+      "title": "David Lamelas",
+      "url": "https://en.wikipedia.org/wiki/David_Lamelas"
+    },
+    {
+      "title": "Torcuato di Tella Institute",
+      "url": "https://en.wikipedia.org/wiki/Torcuato_di_Tella_Institute"
+    },
+    {
+      "title": "Buenos Aires",
+      "url": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "title": "Niki de Saint Phalle",
+      "url": "https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle"
+    },
+    {
+      "title": "Christo",
+      "url": "https://en.wikipedia.org/wiki/Christo"
+    },
+    {
+      "title": "Claes Oldenburg",
+      "url": "https://en.wikipedia.org/wiki/Claes_Oldenburg"
+    },
+    {
+      "title": "Buenos Aires Museum of Modern Art",
+      "url": "https://en.wikipedia.org/wiki/Buenos_Aires_Museum_of_Modern_Art"
+    },
+    {
+      "title": "New York City",
+      "url": "https://en.wikipedia.org/wiki/New_York_City"
+    },
+    {
+      "title": "Call and response (music)",
+      "url": "https://en.wikipedia.org/wiki/Call_and_response_(music)"
+    },
+    {
+      "title": "Adaptive music",
+      "url": "https://en.wikipedia.org/wiki/Adaptive_music"
+    },
+    {
+      "title": "Montpellier",
+      "url": "https://en.wikipedia.org/wiki/Montpellier"
+    },
+    {
+      "title": "Art",
+      "url": "https://en.wikipedia.org/wiki/Art"
+    },
+    {
+      "title": "Computer",
+      "url": "https://en.wikipedia.org/wiki/Computer"
+    },
+    {
+      "title": "Interface (computing)",
+      "url": "https://en.wikipedia.org/wiki/Interface_(computing)"
+    },
+    {
+      "title": "Sensor",
+      "url": "https://en.wikipedia.org/wiki/Sensor"
+    },
+    {
+      "title": "Internet art",
+      "url": "https://en.wikipedia.org/wiki/Internet_art"
+    },
+    {
+      "title": "Electronic art",
+      "url": "https://en.wikipedia.org/wiki/Electronic_art"
+    },
+    {
+      "title": "Hypertext",
+      "url": "https://en.wikipedia.org/wiki/Hypertext"
+    },
+    {
+      "title": "Performance art",
+      "url": "https://en.wikipedia.org/wiki/Performance_art"
+    },
+    {
+      "title": "Sensor (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Sensor_(disambiguation)"
+    },
+    {
+      "title": "Sensors (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Sensors_(disambiguation)"
+    },
+    {
+      "title": "Detector (radio)",
+      "url": "https://en.wikipedia.org/wiki/Detector_(radio)"
+    },
+    {
+      "title": "Censer",
+      "url": "https://en.wikipedia.org/wiki/Censer"
+    },
+    {
+      "title": "Censor (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Censor_(disambiguation)"
+    },
+    {
+      "title": "Censure",
+      "url": "https://en.wikipedia.org/wiki/Censure"
+    },
+    {
+      "title": "Senser",
+      "url": "https://en.wikipedia.org/wiki/Senser"
+    },
+    {
+      "title": "Light sensor",
+      "url": "https://en.wikipedia.org/wiki/Light_sensor"
+    },
+    {
+      "title": "Signal",
+      "url": "https://en.wikipedia.org/wiki/Signal"
+    },
+    {
+      "title": "Stimulus (physiology)",
+      "url": "https://en.wikipedia.org/wiki/Stimulus_(physiology)"
+    },
+    {
+      "title": "Tactile sensor",
+      "url": "https://en.wikipedia.org/wiki/Tactile_sensor"
+    },
+    {
+      "title": "Micromachinery",
+      "url": "https://en.wikipedia.org/wiki/Micromachinery"
+    },
+    {
+      "title": "CD-ROM drive",
+      "url": "https://en.wikipedia.org/wiki/CD-ROM_drive"
+    },
+    {
+      "title": "Photodiode",
+      "url": "https://en.wikipedia.org/wiki/Photodiode"
+    },
+    {
+      "title": "Electromagnetic radiation",
+      "url": "https://en.wikipedia.org/wiki/Electromagnetic_radiation"
+    },
+    {
+      "title": "Photoelectric effect",
+      "url": "https://en.wikipedia.org/wiki/Photoelectric_effect"
+    },
+    {
+      "title": "Phototransistor",
+      "url": "https://en.wikipedia.org/wiki/Phototransistor"
+    },
+    {
+      "title": "Photomultiplier tube",
+      "url": "https://en.wikipedia.org/wiki/Photomultiplier_tube"
+    },
+    {
+      "title": "Solar cell",
+      "url": "https://en.wikipedia.org/wiki/Solar_cell"
+    },
+    {
+      "title": "Heinrich Hertz",
+      "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
+    },
+    {
+      "title": "Albert Einstein",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "title": "Quantum engineering",
+      "url": "https://en.wikipedia.org/wiki/Quantum_engineering"
+    },
+    {
+      "title": "Photoemission",
+      "url": "https://en.wikipedia.org/wiki/Photoemission"
+    },
+    {
+      "title": "Conduction band",
+      "url": "https://en.wikipedia.org/wiki/Conduction_band"
+    },
+    {
+      "title": "Thermodynamic equilibrium",
+      "url": "https://en.wikipedia.org/wiki/Thermodynamic_equilibrium"
+    },
+    {
+      "title": "Density of states",
+      "url": "https://en.wikipedia.org/wiki/Density_of_states"
+    },
+    {
+      "title": "Fermi–Dirac statistics",
+      "url": "https://en.wikipedia.org/wiki/Fermi–Dirac_statistics"
+    },
+    {
+      "title": "Metal",
+      "url": "https://en.wikipedia.org/wiki/Metal"
+    },
+    {
+      "title": "Semimetal",
+      "url": "https://en.wikipedia.org/wiki/Semimetal"
+    },
+    {
+      "title": "Fermi level",
+      "url": "https://en.wikipedia.org/wiki/Fermi_level"
+    },
+    {
+      "title": "Insulator (electricity)",
+      "url": "https://en.wikipedia.org/wiki/Insulator_(electricity)"
+    },
+    {
+      "title": "Semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor"
+    },
+    {
+      "title": "Band gap",
+      "url": "https://en.wikipedia.org/wiki/Band_gap"
+    },
+    {
+      "title": "Electron hole",
+      "url": "https://en.wikipedia.org/wiki/Electron_hole"
+    },
+    {
+      "title": "Intrinsic semiconductor",
+      "url": "https://en.wikipedia.org/wiki/Intrinsic_semiconductor"
+    },
+    {
+      "title": "Solid-state physics",
+      "url": "https://en.wikipedia.org/wiki/Solid-state_physics"
+    },
+    {
+      "title": "Holon (physics)",
+      "url": "https://en.wikipedia.org/wiki/Holon_(physics)"
+    },
+    {
+      "title": "Helium",
+      "url": "https://en.wikipedia.org/wiki/Helium"
+    },
+    {
+      "title": "Physics",
+      "url": "https://en.wikipedia.org/wiki/Physics"
+    },
+    {
+      "title": "Chemistry",
+      "url": "https://en.wikipedia.org/wiki/Chemistry"
+    },
+    {
+      "title": "Electronic engineering",
+      "url": "https://en.wikipedia.org/wiki/Electronic_engineering"
+    },
+    {
+      "title": "Quasiparticle",
+      "url": "https://en.wikipedia.org/wiki/Quasiparticle"
+    },
+    {
+      "title": "Atom",
+      "url": "https://en.wikipedia.org/wiki/Atom"
+    },
+    {
+      "title": "Crystal structure",
+      "url": "https://en.wikipedia.org/wiki/Crystal_structure"
+    },
+    {
+      "title": "Atomic nucleus",
+      "url": "https://en.wikipedia.org/wiki/Atomic_nucleus"
+    },
+    {
+      "title": "Crystal lattice",
+      "url": "https://en.wikipedia.org/wiki/Crystal_lattice"
+    },
+    {
+      "title": "Electric charge",
+      "url": "https://en.wikipedia.org/wiki/Electric_charge"
     }
   ],
   "points": {
