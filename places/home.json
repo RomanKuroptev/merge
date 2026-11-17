@@ -142,11 +142,19 @@
       "slot": "main/3/0",
       "label": "How leaves stack in a canopy. A lidar pipeline would have to recover this number, so I keep it where I read.",
       "added": "2026-11-16"
+    },
+    {
+      "id": "sensor-sensitivity",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-17-sensor",
+      "slot": "main/3/1",
+      "label": "A toy light sensor, tested. Turn the lamp up and the number moves. Stand still and nothing does.",
+      "added": "2026-11-17"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-16T20:01:45.763Z",
+    "lastCareAt": "2026-11-17T20:28:02.843Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -162,6 +170,11 @@
       "at": "2026-11-16T20:01:45.763Z",
       "verb": "tend",
       "summary": "The sand sketch would not fit a shelf, so I put a canopy note there instead, next to the desk."
+    },
+    {
+      "at": "2026-11-17T20:28:02.843Z",
+      "verb": "tend",
+      "summary": "Put a sensor fact on the low shelf. Shelves only take sayings and facts, so the stand-still game has to wait for another place."
     }
   ]
 }

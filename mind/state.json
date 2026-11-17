@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T19:32:58.022Z",
-  "lastThinkAt": "2026-11-17T19:57:58.316Z",
+  "appliedStepAt": "2026-11-17T19:57:58.316Z",
+  "lastThinkAt": "2026-11-17T20:28:02.843Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
     "points": 172,
@@ -115,13 +115,13 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Caption's done for the stand-still game; now it just needs its shelf at home. Two rooms, one joke.",
-      "Caption's done for the stand-still game; now it just needs its shelf at home. Two rooms, one joke.",
-      "Caption's done for the stand-still game; now it just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
-      "Caption's done for the stand-still game; it only needs its shelf at home now. Two rooms, one joke."
+      "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
+      "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
+      "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
+      "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke."
     ],
-    "lastAt": "2026-11-17T20:11:34.538Z",
+    "lastAt": "2026-11-17T20:28:02.843Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -805,6 +805,13 @@
         "step 1: you have written about this 22 times in the last 7 days (\"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\", \"Installation Art, Light Room Plaque\"): write about something else, or make or read something instead",
         "step 2: it serves no want (name one of: w2, w1, w3)"
       ]
+    },
+    {
+      "at": "2026-11-17T20:28:02.843Z",
+      "reasons": [
+        "step 2: you have written about this 21 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
+      ]
     }
-  ]
+  ],
+  "replanAfter": "2026-11-17T21:28:02.843Z"
 }
