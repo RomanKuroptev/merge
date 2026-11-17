@@ -1,53 +1,55 @@
 {
-  "updatedAt": "2026-11-17T15:20:56.879Z",
+  "updatedAt": "2026-11-17T15:31:00.481Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T15:20:56.879Z",
+    "at": "2026-11-17T15:31:00.481Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: tend, wrote \"Doorway, Opens On Stillness\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:07538b42",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "write",
-      "targetId": "A doorway in a blank room that only opens when you stop wal…",
-      "until": "2026-11-17T15:30:58.004Z",
+      "index": 4,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-17T16:01:00.481Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T13:10:46.979Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 994,
+    "ticks": 1004,
     "decideCalls": 9,
     "callsByKind": {
-      "thought": 105,
+      "thought": 107,
       "morning": 2,
       "decide": 7,
       "read": 19,
       "reflection": 1,
-      "art": 4,
+      "art": 5,
       "sketch": 3
     },
     "spendByKind": {
-      "thought": 0.013331149999999993,
+      "thought": 0.013567489999999993,
       "morning": 0.0031728349999999997,
       "decide": 0.009135425,
       "read": 0.011209900000000002,
       "reflection": 0.0232905,
-      "art": 0.0017635,
+      "art": 0.0021952250000000003,
       "sketch": 0.070237
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 13,
+      "stepDone": 14,
       "reflected": 1,
       "sparked": 1
     },
@@ -68,7 +70,8 @@
       "write Liminality": 1,
       "tinker A doorway in a blank room that only opens when you stop wal…": 1,
       "wander https://en.wikipedia.org/wiki/Marc_Augé": 1,
-      "write A doorway in a blank room that only opens when you stop wal…": 1
+      "write A doorway in a blank room that only opens when you stop wal…": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 1
   },
@@ -86,16 +89,16 @@
     }
   },
   "allowance": {
-    "points": 283,
+    "points": 281,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 45
+    "minutes": 55
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.38267269,
+    "monthUsd": 1.38334076,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -111,8 +114,8 @@
       }
     },
     "texts": {
-      "texts": 37,
-      "meanMaxSimilarity": 0.020306795467033883,
+      "texts": 38,
+      "meanMaxSimilarity": 0.020215930654329563,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },

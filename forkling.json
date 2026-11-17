@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.15,
+  "energy": -0.2,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T15:19:47.749Z",
-    "seed": 939975325,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-17T15:31:00.481Z",
+    "seed": 1967221152,
+    "reason": "Put the doorway sketch on the workshop wall and check its label is under 120 characters.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-17T15:19:53.934Z",
+  "lastTickAt": "2026-11-17T15:31:00.481Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

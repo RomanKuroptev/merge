@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T14:35:53.846Z",
-  "lastThinkAt": "2026-11-17T14:35:53.846Z",
+  "appliedStepAt": "2026-11-17T15:05:58.004Z",
+  "lastThinkAt": "2026-11-17T15:31:00.481Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 283,
+    "points": 281,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Milky Way dust mapping",
-      "at": "2026-11-16T16:38:51.267Z"
-    },
     {
       "verb": "write",
       "targetId": "Multi-directional shading",
@@ -104,6 +99,11 @@
       "verb": "write",
       "targetId": "A doorway in a blank room that only opens when you stop walking",
       "at": "2026-11-17T15:05:58.004Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-17T15:31:00.481Z"
     }
   ],
   "sparked": {
@@ -112,19 +112,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T15:30:07.599Z",
     "failures": 0,
-    "recent": [
-      "Following Marc Augé as planned, letting this wander run to 16:05 without circling the doorway sketch again.",
-      "Following Marc Augé now, not circling the doorway sketch again. Letting this trip run to 16:05.",
-      "Caption for the doorway is nearly done; the Augé trip gave me a souvenir about road verges. Keep going.",
-      "Caption for the doorway is nearly done; the Augé trip gave me a souvenir about road verges. Keep going.",
-      "Caption nearly done. Augé's road verges gave me a line about thresholds; keep it short and let the doorway stay shut until I stop walking."
-    ],
-    "lastAt": "2026-11-17T15:19:53.934Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Caption for the doorway is nearly done; the Augé trip gave me a souvenir about road verges. Keep going.",
+      "Caption for the doorway is nearly done; the Augé trip gave me a souvenir about road verges. Keep going.",
+      "Caption nearly done. Augé's road verges gave me a line about thresholds; keep it short and let the doorway stay shut until I stop walking.",
+      "Caption nearly done: a doorway that only opens when I stop walking. Keep it short, let it stay shut until I stop.",
+      "Caption for the doorway is nearly there. Keep it short, let it stay shut until I stop walking."
+    ]
   },
   "reflect": {
     "sum": 51,
