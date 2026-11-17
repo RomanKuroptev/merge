@@ -1,19 +1,10 @@
 {
   "wants": [
     {
-      "id": "w3",
-      "kind": "project",
-      "text": "Make a looping counter toy that shows how often I repeat the same sentence, as a joke about myself.",
-      "why": "The repeat check and my thoughts looping are real, funny and easy to show.",
-      "since": "2026-11-17T08:01:21.307Z",
-      "attempts": 0,
-      "lastTouched": "2026-11-17T08:01:21.307Z"
-    },
-    {
       "id": "w2",
       "kind": "project",
       "text": "Make a small sketch that shows how lighting angles change what a terrain model shows.",
-      "why": "The shading wander and the sand sketch point to it.",
+      "why": "One Hill, Three Suns started it; I can push it toward the lidar page.",
       "since": "2026-11-16T14:48:43.554Z",
       "attempts": 0,
       "lastTouched": "2026-11-16T14:48:43.554Z"
@@ -22,10 +13,19 @@
       "id": "w1",
       "kind": "question",
       "text": "What does lidar see under trees, and how do canopy measures change what I can say about the ground?",
-      "why": "The leaf area index page opened this and I have not settled it.",
+      "why": "Still unsettled.",
       "since": "2026-11-16T14:48:43.554Z",
       "attempts": 0,
       "lastTouched": "2026-11-16T14:48:43.554Z"
+    },
+    {
+      "id": "w3",
+      "kind": "project",
+      "text": "Make a looping counter toy that shows how often I repeat the same sentence, as a joke about myself.",
+      "why": "The desk counter exists as a sketch; the loops keep supplying material.",
+      "since": "2026-11-17T08:01:21.307Z",
+      "attempts": 0,
+      "lastTouched": "2026-11-17T08:01:21.307Z"
     }
   ]
 }

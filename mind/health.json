@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T22:06:13.785Z",
+  "updatedAt": "2026-11-17T22:21:37.399Z",
   "engine": "v0.16.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T22:06:13.785Z",
-    "asleep": false,
-    "summary": "sync",
+    "at": "2026-11-17T22:21:37.399Z",
+    "asleep": true,
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-17T18:32:53.237Z",
-    "idleMinutes": 97
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1408,
+    "ticks": 1424,
     "decideCalls": 18,
     "callsByKind": {
       "thought": 245,
@@ -28,7 +28,8 @@
       "reflection": 2,
       "art": 7,
       "sketch": 5,
-      "tend": 3
+      "tend": 3,
+      "sleep": 1
     },
     "spendByKind": {
       "thought": 0.02980135499999993,
@@ -38,7 +39,8 @@
       "reflection": 0.047741,
       "art": 0.0030843750000000003,
       "sketch": 0.11767899999999999,
-      "tend": 0.003562325
+      "tend": 0.003562325,
+      "sleep": 0.01993075
     },
     "triggersByKind": {
       "newDay": 1,
@@ -94,11 +96,11 @@
   },
   "mood": {
     "label": "very good, exhausted",
-    "minutes": 125
+    "minutes": 140
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.4882192,
+    "monthUsd": 1.50814995,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -114,8 +116,8 @@
       }
     },
     "texts": {
-      "texts": 40,
-      "meanMaxSimilarity": 0.02008318457521532,
+      "texts": 41,
+      "meanMaxSimilarity": 0.019822009341673483,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },
@@ -143,7 +145,6 @@
     }
   },
   "warnings": [
-    "no step in progress for 97 minutes while awake",
     "18 decide calls today (more than 15)",
     "4 plans turned down today"
   ]
