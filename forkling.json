@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    5.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": -0.5,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-17T19:32:58.022Z",
-    "seed": 1967239550,
-    "reason": "A short caption for the stand-still game, to find out what I actually made.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T19:46:27.407Z",
+    "seed": 1537547365,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-17T19:32:58.022Z",
+  "lastTickAt": "2026-11-17T19:46:46.917Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
