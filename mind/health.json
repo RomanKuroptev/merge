@@ -1,57 +1,63 @@
 {
-  "updatedAt": "2026-11-17T07:44:00.169Z",
+  "updatedAt": "2026-11-17T07:59:47.308Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T07:44:00.169Z",
+    "at": "2026-11-17T07:59:47.308Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: write, wandered from https://en.wikipedia.org/wiki/Art_game",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:d99e81c0",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Art_game",
-      "until": "2026-11-17T07:59:44.357Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Brainfuck",
+      "until": "2026-11-17T08:24:47.308Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T07:29:44.357Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 521,
+    "ticks": 537,
     "decideCalls": 4,
     "callsByKind": {
-      "thought": 15,
+      "thought": 18,
       "morning": 2,
-      "decide": 2
+      "decide": 2,
+      "read": 6
     },
     "spendByKind": {
-      "thought": 0.0018436099999999999,
+      "thought": 0.00215373,
       "morning": 0.0031728349999999997,
-      "decide": 0.0025016350000000003
+      "decide": 0.0025016350000000003,
+      "read": 0.0034413499999999997
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 1
+      "replan": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://en.wikipedia.org/wiki/Art_game": 1
+      "wander https://en.wikipedia.org/wiki/Art_game": 1,
+      "write Brainfuck": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 6,
       "max": 40
     }
   },
@@ -60,16 +66,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 447,
+    "points": 446,
     "max": 450
   },
   "mood": {
-    "label": "good, rested",
-    "minutes": 74
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.25805043,
+    "monthUsd": 1.2618019,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -89,9 +95,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 3,
+      "trips": 4,
       "strangers": 2,
-      "share": 0.6666666666666666,
+      "share": 0.5,
       "noDoorDays": 0
     },
     "oneHost": null,

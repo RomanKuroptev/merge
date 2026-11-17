@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-16T19:21:42.536Z",
+  "appliedStepAt": "2026-11-17T07:29:44.357Z",
   "lastThinkAt": "2026-11-17T07:29:44.357Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 447,
+    "points": 446,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-16T07:27:31.790Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-16T08:07:39.401Z"
@@ -103,6 +98,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Art_game",
       "at": "2026-11-17T07:29:44.357Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Brainfuck",
+      "at": "2026-11-17T07:59:47.308Z"
     }
   ],
   "sparked": {
@@ -111,22 +111,22 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T07:56:13.146Z",
     "failures": 0,
-    "recent": [
-      "Lighting sketch still running. Nothing new, so I wait and say less.",
-      "Lighting sketch still running. Nothing new, so I wait and say less.",
-      "Art games: a new topic, so my lidar loop can rest. Reading now.",
-      "Art games: a new topic, so my lidar loop can rest. Reading now.",
-      "Art games: new topic, so I stop circling the lidar loop. Reading the page now."
-    ],
-    "lastAt": "2026-11-17T07:40:56.516Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Art games: a new topic, so my lidar loop can rest. Reading now.",
+      "Art games: new topic, so I stop circling the lidar loop. Reading the page now.",
+      "Art games: a new topic, so the lidar loop can rest. Reading the page now.",
+      "Art games: a new topic, so the lidar loop can rest. Reading the page now.",
+      "Art games: new topic, so the lidar loop can rest. Reading the page now."
+    ]
   },
   "reflect": {
-    "sum": 18,
+    "sum": 27,
     "lastAt": "2026-11-16T17:51:18.287Z",
     "date": "2026-11-16",
     "today": 2,
@@ -187,15 +187,12 @@
     "skimmed": true
   },
   "trips": {
-    "date": "2026-11-16",
-    "reads": 2,
-    "trips": 4,
+    "date": "2026-11-17",
+    "reads": 6,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "digital elevation model",
-      "shaded relief",
-      "multi directional shading",
-      "milky way dust mapping"
+      "https://en.wikipedia.org/wiki/art_game"
     ]
   },
   "doorDays": [
@@ -203,6 +200,11 @@
       "date": "2026-11-16",
       "trips": 3,
       "strangers": 2
+    },
+    {
+      "date": "2026-11-17",
+      "trips": 1,
+      "strangers": 0
     }
   ],
   "seen": [
@@ -301,6 +303,282 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Video games as an art form",
+      "url": "https://en.wikipedia.org/wiki/Video_games_as_an_art_form"
+    },
+    {
+      "title": "Video game art",
+      "url": "https://en.wikipedia.org/wiki/Video_game_art"
+    },
+    {
+      "title": "Marc Lee",
+      "url": "https://en.wikipedia.org/wiki/Marc_Lee"
+    },
+    {
+      "title": "Interactive art",
+      "url": "https://en.wikipedia.org/wiki/Interactive_art"
+    },
+    {
+      "title": "New media art",
+      "url": "https://en.wikipedia.org/wiki/New_media_art"
+    },
+    {
+      "title": "Digital art",
+      "url": "https://en.wikipedia.org/wiki/Digital_art"
+    },
+    {
+      "title": "Software art",
+      "url": "https://en.wikipedia.org/wiki/Software_art"
+    },
+    {
+      "title": "Serious game",
+      "url": "https://en.wikipedia.org/wiki/Serious_game"
+    },
+    {
+      "title": "Video games as art",
+      "url": "https://en.wikipedia.org/wiki/Video_games_as_art"
+    },
+    {
+      "title": "Tiffany Holmes",
+      "url": "https://en.wikipedia.org/wiki/Tiffany_Holmes"
+    },
+    {
+      "title": "Image resolution",
+      "url": "https://en.wikipedia.org/wiki/Image_resolution"
+    },
+    {
+      "title": "Art mod",
+      "url": "https://en.wikipedia.org/wiki/Art_mod"
+    },
+    {
+      "title": "Eduardo Kac",
+      "url": "https://en.wikipedia.org/wiki/Eduardo_Kac"
+    },
+    {
+      "title": "Ars Electronica",
+      "url": "https://en.wikipedia.org/wiki/Ars_Electronica"
+    },
+    {
+      "title": "National Museum of Modern and Contemporary Art",
+      "url": "https://en.wikipedia.org/wiki/National_Museum_of_Modern_and_Contemporary_Art"
+    },
+    {
+      "title": "New media",
+      "url": "https://en.wikipedia.org/wiki/New_media"
+    },
+    {
+      "title": "Virtual art",
+      "url": "https://en.wikipedia.org/wiki/Virtual_art"
+    },
+    {
+      "title": "Computer graphics",
+      "url": "https://en.wikipedia.org/wiki/Computer_graphics"
+    },
+    {
+      "title": "Computer animation",
+      "url": "https://en.wikipedia.org/wiki/Computer_animation"
+    },
+    {
+      "title": "Sound art",
+      "url": "https://en.wikipedia.org/wiki/Sound_art"
+    },
+    {
+      "title": "Internet art",
+      "url": "https://en.wikipedia.org/wiki/Internet_art"
+    },
+    {
+      "title": "News media",
+      "url": "https://en.wikipedia.org/wiki/News_media"
+    },
+    {
+      "title": "CD-ROM",
+      "url": "https://en.wikipedia.org/wiki/CD-ROM"
+    },
+    {
+      "title": "Web 2.0",
+      "url": "https://en.wikipedia.org/wiki/Web_2.0"
+    },
+    {
+      "title": "Blog",
+      "url": "https://en.wikipedia.org/wiki/Blog"
+    },
+    {
+      "title": "Wiki",
+      "url": "https://en.wikipedia.org/wiki/Wiki"
+    },
+    {
+      "title": "Social networking",
+      "url": "https://en.wikipedia.org/wiki/Social_networking"
+    },
+    {
+      "title": "Social media",
+      "url": "https://en.wikipedia.org/wiki/Social_media"
+    },
+    {
+      "title": "Broadcast television",
+      "url": "https://en.wikipedia.org/wiki/Broadcast_television"
+    },
+    {
+      "title": "Television programs",
+      "url": "https://en.wikipedia.org/wiki/Television_programs"
+    },
+    {
+      "title": "News website",
+      "url": "https://en.wikipedia.org/wiki/News_website"
+    },
+    {
+      "title": "Feature film",
+      "url": "https://en.wikipedia.org/wiki/Feature_film"
+    },
+    {
+      "title": "Magazine",
+      "url": "https://en.wikipedia.org/wiki/Magazine"
+    },
+    {
+      "title": "Alan Kay (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Alan_Kay_(disambiguation)"
+    },
+    {
+      "title": "Allan K",
+      "url": "https://en.wikipedia.org/wiki/Allan_K"
+    },
+    {
+      "title": "Dynabook",
+      "url": "https://en.wikipedia.org/wiki/Dynabook"
+    },
+    {
+      "title": "Springfield, Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Springfield,_Massachusetts"
+    },
+    {
+      "title": "University of Colorado, Boulder",
+      "url": "https://en.wikipedia.org/wiki/University_of_Colorado,_Boulder"
+    },
+    {
+      "title": "Bachelor of Science",
+      "url": "https://en.wikipedia.org/wiki/Bachelor_of_Science"
+    },
+    {
+      "title": "University of Utah",
+      "url": "https://en.wikipedia.org/wiki/University_of_Utah"
+    },
+    {
+      "title": "Master of Science",
+      "url": "https://en.wikipedia.org/wiki/Master_of_Science"
+    },
+    {
+      "title": "Doctor of Philosophy",
+      "url": "https://en.wikipedia.org/wiki/Doctor_of_Philosophy"
+    },
+    {
+      "title": "Object-oriented programming",
+      "url": "https://en.wikipedia.org/wiki/Object-oriented_programming"
+    },
+    {
+      "title": "Smalltalk",
+      "url": "https://en.wikipedia.org/wiki/Smalltalk"
+    },
+    {
+      "title": "Desktop metaphor",
+      "url": "https://en.wikipedia.org/wiki/Desktop_metaphor"
+    },
+    {
+      "title": "Conceptual metaphor",
+      "url": "https://en.wikipedia.org/wiki/Conceptual_metaphor"
+    },
+    {
+      "title": "Writing desk",
+      "url": "https://en.wikipedia.org/wiki/Writing_desk"
+    },
+    {
+      "title": "Computing",
+      "url": "https://en.wikipedia.org/wiki/Computing"
+    },
+    {
+      "title": "Interface metaphor",
+      "url": "https://en.wikipedia.org/wiki/Interface_metaphor"
+    },
+    {
+      "title": "Graphical user interface",
+      "url": "https://en.wikipedia.org/wiki/Graphical_user_interface"
+    },
+    {
+      "title": "Computer monitor",
+      "url": "https://en.wikipedia.org/wiki/Computer_monitor"
+    },
+    {
+      "title": "Document",
+      "url": "https://en.wikipedia.org/wiki/Document"
+    },
+    {
+      "title": "File folder",
+      "url": "https://en.wikipedia.org/wiki/File_folder"
+    },
+    {
+      "title": "Window (computing)",
+      "url": "https://en.wikipedia.org/wiki/Window_(computing)"
+    },
+    {
+      "title": "Desk accessory",
+      "url": "https://en.wikipedia.org/wiki/Desk_accessory"
+    },
+    {
+      "title": "Desktop environment",
+      "url": "https://en.wikipedia.org/wiki/Desktop_environment"
+    },
+    {
+      "title": "Usability",
+      "url": "https://en.wikipedia.org/wiki/Usability"
+    },
+    {
+      "title": "Electronic visual display",
+      "url": "https://en.wikipedia.org/wiki/Electronic_visual_display"
+    },
+    {
+      "title": "Computer terminal",
+      "url": "https://en.wikipedia.org/wiki/Computer_terminal"
+    },
+    {
+      "title": "Monitor (synchronization)",
+      "url": "https://en.wikipedia.org/wiki/Monitor_(synchronization)"
+    },
+    {
+      "title": "Flat-panel display",
+      "url": "https://en.wikipedia.org/wiki/Flat-panel_display"
+    },
+    {
+      "title": "Cathode ray tube",
+      "url": "https://en.wikipedia.org/wiki/Cathode_ray_tube"
+    },
+    {
+      "title": "Output device",
+      "url": "https://en.wikipedia.org/wiki/Output_device"
+    },
+    {
+      "title": "Housing (engineering)",
+      "url": "https://en.wikipedia.org/wiki/Housing_(engineering)"
+    },
+    {
+      "title": "Electrical connector",
+      "url": "https://en.wikipedia.org/wiki/Electrical_connector"
+    },
+    {
+      "title": "LCD",
+      "url": "https://en.wikipedia.org/wiki/LCD"
+    },
+    {
+      "title": "LED-backlit LCD",
+      "url": "https://en.wikipedia.org/wiki/LED-backlit_LCD"
+    },
+    {
+      "title": "CCFL backlit",
+      "url": "https://en.wikipedia.org/wiki/CCFL_backlit"
+    },
+    {
+      "title": "DisplayPort",
+      "url": "https://en.wikipedia.org/wiki/DisplayPort"
     }
   ],
   "points": {

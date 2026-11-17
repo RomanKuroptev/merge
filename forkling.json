@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.379,
-  "energy": 0.5,
+  "mood": 0.679,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T07:39:50.013Z",
-    "seed": 1888360622,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-17T07:59:47.308Z",
+    "seed": 1967199207,
+    "reason": "A short caption for a language that is only eight symbols. A joke I can finish, unlike the lidar page.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-17T07:40:56.516Z",
+  "lastTickAt": "2026-11-17T07:59:47.308Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
