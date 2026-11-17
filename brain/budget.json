@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 1.35204162,
+  "spentUsd": 1.35241528,
   "calls": [
-    {
-      "at": "2026-11-15T20:08:35.835Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 432,
-      "cacheRead": 2558,
-      "cacheWrite": 0,
-      "output": 66,
-      "usd": 0.00010178
-    },
-    {
-      "at": "2026-11-15T20:10:38.419Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 426,
-      "cacheRead": 2558,
-      "cacheWrite": 0,
-      "output": 66,
-      "usd": 0.00010118
-    },
-    {
-      "at": "2026-11-15T20:12:41.952Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 420,
-      "cacheRead": 2558,
-      "cacheWrite": 0,
-      "output": 66,
-      "usd": 0.00010058
-    },
     {
       "at": "2026-11-15T20:14:44.324Z",
       "kind": "thought",
@@ -5003,16 +4973,46 @@
       "cacheWrite": 2585,
       "output": 148,
       "usd": 0.00044432499999999997
+    },
+    {
+      "at": "2026-11-17T13:37:57.199Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 627,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 92,
+      "usd": 0.00013912
+    },
+    {
+      "at": "2026-11-17T13:43:03.097Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 523,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 69,
+      "usd": 0.00011721999999999999
+    },
+    {
+      "at": "2026-11-17T13:48:08.104Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 524,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 69,
+      "usd": 0.00011732000000000001
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 1201,
-      "input": 505503,
-      "cacheRead": 2999355,
+      "calls": 1204,
+      "input": 507177,
+      "cacheRead": 3008481,
       "cacheWrite": 36801,
-      "output": 80753,
-      "usd": 0.12552049
+      "output": 80983,
+      "usd": 0.12589415
     },
     "bedtime": {
       "calls": 4,
