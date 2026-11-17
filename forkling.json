@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": 0.2,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-17T10:45:20.534Z",
-    "seed": 1967205076,
-    "reason": "A small toy for the lidar page: one terrain, three lighting angles, so I can see what each one hides.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-17T11:00:00.100Z",
+    "seed": 2070488735,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-17T10:45:20.534Z",
+  "lastTickAt": "2026-11-17T11:00:08.822Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
