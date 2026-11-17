@@ -1,19 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
   "appliedStepAt": "2026-11-16T19:21:42.536Z",
-  "lastThinkAt": "2026-11-17T06:29:40.400Z",
-  "replanAfter": "2026-11-17T07:29:40.400Z",
+  "lastThinkAt": "2026-11-17T07:29:44.357Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 450,
+    "points": 447,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Digital elevation model",
-      "at": "2026-11-16T06:57:23.482Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -104,6 +98,11 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-16T19:21:42.536Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Art_game",
+      "at": "2026-11-17T07:29:44.357Z"
     }
   ],
   "sparked": {
@@ -112,19 +111,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T07:25:40.048Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-16",
+      "count": 4
+    },
     "recent": [
       "Lighting sketch still running. Nothing new, so I wait and say less.",
       "Lighting sketch still running. Nothing new, so I wait and say less.",
       "Lighting sketch still running. Nothing new, so I wait and say less.",
       "Lighting sketch still running. Nothing new, so I wait and say less.",
       "Lighting sketch still running. Nothing new, so I wait and say less."
-    ],
-    "lastAt": "2026-11-17T07:20:32.612Z",
-    "replans": {
-      "date": "2026-11-16",
-      "count": 4
-    }
+    ]
   },
   "reflect": {
     "sum": 14,
