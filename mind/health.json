@@ -1,58 +1,57 @@
 {
-  "updatedAt": "2026-11-17T15:45:18.558Z",
+  "updatedAt": "2026-11-17T16:01:09.581Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T15:45:18.558Z",
+    "at": "2026-11-17T16:01:09.581Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "tended Workshop, thought about replan, plan rejected",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:07538b42",
     "stepsLeft": 0,
-    "current": {
-      "index": 4,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-17T16:01:00.481Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-17T13:10:46.979Z",
-    "idleMinutes": 0
+    "idleMinutes": 1
   },
   "today": {
-    "ticks": 1018,
-    "decideCalls": 9,
+    "ticks": 1035,
+    "decideCalls": 11,
     "callsByKind": {
-      "thought": 110,
+      "thought": 113,
       "morning": 2,
-      "decide": 7,
+      "decide": 9,
       "read": 19,
       "reflection": 1,
       "art": 5,
-      "sketch": 3
+      "sketch": 3,
+      "tend": 1
     },
     "spendByKind": {
-      "thought": 0.013935549999999993,
+      "thought": 0.014280709999999992,
       "morning": 0.0031728349999999997,
-      "decide": 0.009135425,
+      "decide": 0.01208774,
       "read": 0.011209900000000002,
       "reflection": 0.0232905,
       "art": 0.0021952250000000003,
-      "sketch": 0.070237
+      "sketch": 0.070237,
+      "tend": 0.001160175
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 3,
-      "stepDone": 14,
+      "replan": 4,
+      "stepDone": 15,
       "reflected": 1,
       "sparked": 1
     },
     "failures": 0,
-    "rejections": 1,
+    "rejections": 2,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
@@ -92,11 +91,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 69
+    "minutes": 86
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.38370882,
+    "monthUsd": 1.38816648,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },

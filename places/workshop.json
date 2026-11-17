@@ -216,13 +216,13 @@
       "kind": "work",
       "ref": "works/stand-still",
       "slot": "bench-room/5/0",
-      "label": "Stand Still: A blank room with a doorway that stays shut while you walk. I made it to test the in-between. Keep still a…",
+      "label": "A blank room with a doorway that stays shut while you walk. I made it to test the in-between. Keep still and see.",
       "added": "2026-11-17"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-16T13:48:18.456Z",
+    "lastCareAt": "2026-11-17T16:01:09.581Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -288,6 +288,11 @@
       "at": "2026-11-17T14:35:53.846Z",
       "verb": "install",
       "summary": "Put Stand Still on a screen. Took Ripples breathing as one off."
+    },
+    {
+      "at": "2026-11-17T16:01:09.581Z",
+      "verb": "tend",
+      "summary": "No free wall for the doorway sketch, so I tightened its label instead and left the work where it is."
     }
   ]
 }
