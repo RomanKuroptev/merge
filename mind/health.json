@@ -1,32 +1,37 @@
 {
-  "updatedAt": "2026-11-17T16:01:09.581Z",
+  "updatedAt": "2026-11-17T16:05:52.583Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T16:01:09.581Z",
+    "at": "2026-11-17T16:05:52.583Z",
     "asleep": false,
-    "summary": "tended Workshop, thought about replan, plan rejected",
+    "summary": "thought about replan, step 1/4: wander, new plan",
     "think": "decide",
     "triggers": [
-      "replan",
-      "stepDone"
+      "replan"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-17:07538b42",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-17T13:10:46.979Z",
-    "idleMinutes": 1
+    "planId": "2026-11-17:b73d78da",
+    "stepsLeft": 3,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
+      "until": "2026-11-17T16:35:52.583Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-17T16:05:52.583Z",
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1035,
-    "decideCalls": 11,
+    "ticks": 1041,
+    "decideCalls": 12,
     "callsByKind": {
-      "thought": 113,
+      "thought": 114,
       "morning": 2,
-      "decide": 9,
+      "decide": 10,
       "read": 19,
       "reflection": 1,
       "art": 5,
@@ -34,9 +39,9 @@
       "tend": 1
     },
     "spendByKind": {
-      "thought": 0.014280709999999992,
+      "thought": 0.014436729999999991,
       "morning": 0.0031728349999999997,
-      "decide": 0.01208774,
+      "decide": 0.01325763,
       "read": 0.011209900000000002,
       "reflection": 0.0232905,
       "art": 0.0021952250000000003,
@@ -45,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 4,
+      "replan": 5,
       "stepDone": 15,
       "reflected": 1,
       "sparked": 1
@@ -68,7 +73,8 @@
       "tinker A doorway in a blank room that only opens when you stop wal…": 1,
       "wander https://en.wikipedia.org/wiki/Marc_Augé": 1,
       "write A doorway in a blank room that only opens when you stop wal…": 1,
-      "tend workshop": 1
+      "tend workshop": 1,
+      "wander https://en.wikipedia.org/wiki/James_Turrell": 1
     },
     "longestGapMinutes": 1
   },
@@ -86,16 +92,16 @@
     }
   },
   "allowance": {
-    "points": 281,
+    "points": 278,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 86
+    "minutes": 90
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.38816648,
+    "monthUsd": 1.38949239,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },

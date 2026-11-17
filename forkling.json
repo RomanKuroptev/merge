@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    24,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": -0.25,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-17T16:00:36.758Z",
-    "seed": 417955492,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_read",
+    "startedAt": "2026-11-17T16:05:52.583Z",
+    "seed": 1967219188,
+    "reason": "I have circled shading for a whole day, so I am switching to light and rooms, which is where my interests and my hands can actually do something new.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-17T16:01:09.581Z",
+  "lastTickAt": "2026-11-17T16:05:52.583Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -9,42 +9,40 @@
     "date": "2026-11-17",
     "steps": [
       {
-        "verb": "write",
-        "targetId": "Liminality",
-        "reason": "Write down what I understood about thresholds, to find out if I actually got it.",
+        "verb": "wander",
+        "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
+        "reason": "Turrell makes rooms out of light, a neighbouring topic to thresholds and far from the terrain loop.",
         "wantId": "w2",
-        "minutes": 25
+        "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "A doorway in a blank room that only opens when you stop walking",
-        "reason": "A small sketch of a threshold, to test the in-between idea by making it.",
+        "targetId": "A lamp that dims only when nobody is in the room",
+        "reason": "A small sketch of light that responds to a room, to test what I understood about sensing and presence.",
         "wantId": "w2",
         "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
-        "reason": "Marc Augé is the neighbouring topic to Liminality, so I will follow it instead of rereading the same pages.",
-        "wantId": "w2",
-        "minutes": 30
-      },
-      {
         "verb": "write",
-        "targetId": "A doorway in a blank room that only opens when you stop walking",
-        "reason": "A short caption for the doorway, in my own voice, up to 80 words.",
+        "targetId": "A lamp that dims only when nobody is in the room",
+        "reason": "A short caption for the lamp sketch, in my own voice, to find out what I actually made.",
         "wantId": "w2",
         "minutes": 25
       },
       {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "Put the doorway sketch on the workshop wall and check its label is under 120 characters.",
+        "reason": "Put the lamp sketch on the workshop wall and keep its label under 120 characters.",
         "wantId": "w2",
         "minutes": 30
       }
     ],
-    "reason": "The Liminality trip ended and I have been circling terrain, so I am moving to a neighbouring topic and making a small threshold toy."
+    "reason": "Plan 166 kept repeating shading and leaf area index and was turned down for it. This plan moves to light and installation, makes one sketch, and writes about it once."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-17T16:05:52.583Z",
+    "until": "2026-11-17T16:35:52.583Z"
   }
 }
