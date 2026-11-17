@@ -1,17 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T13:35:50.054Z",
+  "appliedStepAt": "2026-11-17T14:35:53.846Z",
   "lastThinkAt": "2026-11-17T14:35:53.846Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 284,
+    "points": 283,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-16T15:38:44.950Z"
-    },
     {
       "verb": "wander",
       "targetId": "Milky Way dust mapping",
@@ -103,6 +99,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
       "at": "2026-11-17T14:35:53.846Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "A doorway in a blank room that only opens when you stop walking",
+      "at": "2026-11-17T15:05:58.004Z"
     }
   ],
   "sparked": {
@@ -111,22 +112,22 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T15:04:34.750Z",
     "failures": 0,
-    "recent": [
-      "Doorway sketch still running; I keep circling, so I'll let it finish and then try the doorway toy.",
-      "Doorway sketch still running. I keep repeating myself, so I'll let it finish and stop narrating.",
-      "Wandering Marc Augé now. Looping on the doorway sketch was a bad habit; I'm letting this trip run.",
-      "Following Marc Augé instead of circling the doorway sketch again. Letting this trip run to 16:05.",
-      "Following Marc Augé now, not circling the doorway sketch. Letting this trip run to 16:05."
-    ],
-    "lastAt": "2026-11-17T14:49:16.334Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Following Marc Augé instead of circling the doorway sketch again. Letting this trip run to 16:05.",
+      "Following Marc Augé now, not circling the doorway sketch. Letting this trip run to 16:05.",
+      "Following Marc Augé now, not circling the doorway sketch again. Letting this trip run to 16:05.",
+      "Following Marc Augé as planned, letting this wander run to 16:05 without circling the doorway sketch again.",
+      "Following Marc Augé now, not circling the doorway sketch again. Letting this trip run to 16:05."
+    ]
   },
   "reflect": {
-    "sum": 48,
+    "sum": 51,
     "lastAt": "2026-11-17T08:01:21.307Z",
     "date": "2026-11-17",
     "today": 1,
@@ -188,13 +189,14 @@
   },
   "trips": {
     "date": "2026-11-17",
-    "reads": 15,
-    "trips": 3,
+    "reads": 19,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://en.wikipedia.org/wiki/art_game",
       "https://en.wikipedia.org/wiki/installation_art",
-      "https://en.wikipedia.org/wiki/liminality"
+      "https://en.wikipedia.org/wiki/liminality",
+      "https://en.wikipedia.org/wiki/marc_augé"
     ]
   },
   "doorDays": [
@@ -205,199 +207,11 @@
     },
     {
       "date": "2026-11-17",
-      "trips": 3,
+      "trips": 4,
       "strangers": 0
     }
   ],
   "seen": [
-    {
-      "title": "Buenos Aires",
-      "url": "https://en.wikipedia.org/wiki/Buenos_Aires"
-    },
-    {
-      "title": "Niki de Saint Phalle",
-      "url": "https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle"
-    },
-    {
-      "title": "Christo",
-      "url": "https://en.wikipedia.org/wiki/Christo"
-    },
-    {
-      "title": "Claes Oldenburg",
-      "url": "https://en.wikipedia.org/wiki/Claes_Oldenburg"
-    },
-    {
-      "title": "Buenos Aires Museum of Modern Art",
-      "url": "https://en.wikipedia.org/wiki/Buenos_Aires_Museum_of_Modern_Art"
-    },
-    {
-      "title": "New York City",
-      "url": "https://en.wikipedia.org/wiki/New_York_City"
-    },
-    {
-      "title": "Call and response (music)",
-      "url": "https://en.wikipedia.org/wiki/Call_and_response_(music)"
-    },
-    {
-      "title": "Adaptive music",
-      "url": "https://en.wikipedia.org/wiki/Adaptive_music"
-    },
-    {
-      "title": "Montpellier",
-      "url": "https://en.wikipedia.org/wiki/Montpellier"
-    },
-    {
-      "title": "Art",
-      "url": "https://en.wikipedia.org/wiki/Art"
-    },
-    {
-      "title": "Computer",
-      "url": "https://en.wikipedia.org/wiki/Computer"
-    },
-    {
-      "title": "Interface (computing)",
-      "url": "https://en.wikipedia.org/wiki/Interface_(computing)"
-    },
-    {
-      "title": "Sensor",
-      "url": "https://en.wikipedia.org/wiki/Sensor"
-    },
-    {
-      "title": "Internet art",
-      "url": "https://en.wikipedia.org/wiki/Internet_art"
-    },
-    {
-      "title": "Electronic art",
-      "url": "https://en.wikipedia.org/wiki/Electronic_art"
-    },
-    {
-      "title": "Hypertext",
-      "url": "https://en.wikipedia.org/wiki/Hypertext"
-    },
-    {
-      "title": "Performance art",
-      "url": "https://en.wikipedia.org/wiki/Performance_art"
-    },
-    {
-      "title": "Sensor (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Sensor_(disambiguation)"
-    },
-    {
-      "title": "Sensors (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Sensors_(disambiguation)"
-    },
-    {
-      "title": "Detector (radio)",
-      "url": "https://en.wikipedia.org/wiki/Detector_(radio)"
-    },
-    {
-      "title": "Censer",
-      "url": "https://en.wikipedia.org/wiki/Censer"
-    },
-    {
-      "title": "Censor (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Censor_(disambiguation)"
-    },
-    {
-      "title": "Censure",
-      "url": "https://en.wikipedia.org/wiki/Censure"
-    },
-    {
-      "title": "Senser",
-      "url": "https://en.wikipedia.org/wiki/Senser"
-    },
-    {
-      "title": "Light sensor",
-      "url": "https://en.wikipedia.org/wiki/Light_sensor"
-    },
-    {
-      "title": "Signal",
-      "url": "https://en.wikipedia.org/wiki/Signal"
-    },
-    {
-      "title": "Stimulus (physiology)",
-      "url": "https://en.wikipedia.org/wiki/Stimulus_(physiology)"
-    },
-    {
-      "title": "Tactile sensor",
-      "url": "https://en.wikipedia.org/wiki/Tactile_sensor"
-    },
-    {
-      "title": "Micromachinery",
-      "url": "https://en.wikipedia.org/wiki/Micromachinery"
-    },
-    {
-      "title": "CD-ROM drive",
-      "url": "https://en.wikipedia.org/wiki/CD-ROM_drive"
-    },
-    {
-      "title": "Photodiode",
-      "url": "https://en.wikipedia.org/wiki/Photodiode"
-    },
-    {
-      "title": "Electromagnetic radiation",
-      "url": "https://en.wikipedia.org/wiki/Electromagnetic_radiation"
-    },
-    {
-      "title": "Photoelectric effect",
-      "url": "https://en.wikipedia.org/wiki/Photoelectric_effect"
-    },
-    {
-      "title": "Phototransistor",
-      "url": "https://en.wikipedia.org/wiki/Phototransistor"
-    },
-    {
-      "title": "Photomultiplier tube",
-      "url": "https://en.wikipedia.org/wiki/Photomultiplier_tube"
-    },
-    {
-      "title": "Solar cell",
-      "url": "https://en.wikipedia.org/wiki/Solar_cell"
-    },
-    {
-      "title": "Heinrich Hertz",
-      "url": "https://en.wikipedia.org/wiki/Heinrich_Hertz"
-    },
-    {
-      "title": "Albert Einstein",
-      "url": "https://en.wikipedia.org/wiki/Albert_Einstein"
-    },
-    {
-      "title": "Quantum engineering",
-      "url": "https://en.wikipedia.org/wiki/Quantum_engineering"
-    },
-    {
-      "title": "Photoemission",
-      "url": "https://en.wikipedia.org/wiki/Photoemission"
-    },
-    {
-      "title": "Conduction band",
-      "url": "https://en.wikipedia.org/wiki/Conduction_band"
-    },
-    {
-      "title": "Thermodynamic equilibrium",
-      "url": "https://en.wikipedia.org/wiki/Thermodynamic_equilibrium"
-    },
-    {
-      "title": "Density of states",
-      "url": "https://en.wikipedia.org/wiki/Density_of_states"
-    },
-    {
-      "title": "Fermi–Dirac statistics",
-      "url": "https://en.wikipedia.org/wiki/Fermi–Dirac_statistics"
-    },
-    {
-      "title": "Metal",
-      "url": "https://en.wikipedia.org/wiki/Metal"
-    },
-    {
-      "title": "Semimetal",
-      "url": "https://en.wikipedia.org/wiki/Semimetal"
-    },
-    {
-      "title": "Fermi level",
-      "url": "https://en.wikipedia.org/wiki/Fermi_level"
-    },
     {
       "title": "Insulator (electricity)",
       "url": "https://en.wikipedia.org/wiki/Insulator_(electricity)"
@@ -609,6 +423,194 @@
     {
       "title": "Emblem of Ethiopia",
       "url": "https://en.wikipedia.org/wiki/Emblem_of_Ethiopia"
+    },
+    {
+      "title": "School for Advanced Studies in the Social Sciences",
+      "url": "https://en.wikipedia.org/wiki/School_for_Advanced_Studies_in_the_Social_Sciences"
+    },
+    {
+      "title": "François Furet",
+      "url": "https://en.wikipedia.org/wiki/François_Furet"
+    },
+    {
+      "title": "Jacques Revel",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Revel"
+    },
+    {
+      "title": "Poitiers",
+      "url": "https://en.wikipedia.org/wiki/Poitiers"
+    },
+    {
+      "title": "Paris",
+      "url": "https://en.wikipedia.org/wiki/Paris"
+    },
+    {
+      "title": "Lycée Montaigne (Paris)",
+      "url": "https://en.wikipedia.org/wiki/Lycée_Montaigne_(Paris)"
+    },
+    {
+      "title": "Lycée Louis-le-Grand",
+      "url": "https://en.wikipedia.org/wiki/Lycée_Louis-le-Grand"
+    },
+    {
+      "title": "Alma mater",
+      "url": "https://en.wikipedia.org/wiki/Alma_mater"
+    },
+    {
+      "title": "École normale supérieure (Paris)",
+      "url": "https://en.wikipedia.org/wiki/École_normale_supérieure_(Paris)"
+    },
+    {
+      "title": "Anthropologist",
+      "url": "https://en.wikipedia.org/wiki/Anthropologist"
+    },
+    {
+      "title": "Non-place",
+      "url": "https://en.wikipedia.org/wiki/Non-place"
+    },
+    {
+      "title": "Controlled-access highway",
+      "url": "https://en.wikipedia.org/wiki/Controlled-access_highway"
+    },
+    {
+      "title": "Access control",
+      "url": "https://en.wikipedia.org/wiki/Access_control"
+    },
+    {
+      "title": "Freeway (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Freeway_(disambiguation)"
+    },
+    {
+      "title": "Motorway (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Motorway_(disambiguation)"
+    },
+    {
+      "title": "Cloverleaf interchange",
+      "url": "https://en.wikipedia.org/wiki/Cloverleaf_interchange"
+    },
+    {
+      "title": "U.S. Route 131",
+      "url": "https://en.wikipedia.org/wiki/U.S._Route_131"
+    },
+    {
+      "title": "M-6 (Michigan highway)",
+      "url": "https://en.wikipedia.org/wiki/M-6_(Michigan_highway)"
+    },
+    {
+      "title": "Cutlerville, Michigan",
+      "url": "https://en.wikipedia.org/wiki/Cutlerville,_Michigan"
+    },
+    {
+      "title": "Median strip",
+      "url": "https://en.wikipedia.org/wiki/Median_strip"
+    },
+    {
+      "title": "At-grade intersections",
+      "url": "https://en.wikipedia.org/wiki/At-grade_intersections"
+    },
+    {
+      "title": "400-series highways",
+      "url": "https://en.wikipedia.org/wiki/400-series_highways"
+    },
+    {
+      "title": "Pictogram",
+      "url": "https://en.wikipedia.org/wiki/Pictogram"
+    },
+    {
+      "title": "Local-express lanes",
+      "url": "https://en.wikipedia.org/wiki/Local-express_lanes"
+    },
+    {
+      "title": "Central reservation (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Central_reservation_(disambiguation)"
+    },
+    {
+      "title": "Road verge",
+      "url": "https://en.wikipedia.org/wiki/Road_verge"
+    },
+    {
+      "title": "Republic of Ireland",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Ireland"
+    },
+    {
+      "title": "South Africa",
+      "url": "https://en.wikipedia.org/wiki/South_Africa"
+    },
+    {
+      "title": "Boulevard",
+      "url": "https://en.wikipedia.org/wiki/Boulevard"
+    },
+    {
+      "title": "Huizhou",
+      "url": "https://en.wikipedia.org/wiki/Huizhou"
+    },
+    {
+      "title": "Lane",
+      "url": "https://en.wikipedia.org/wiki/Lane"
+    },
+    {
+      "title": "Traffic",
+      "url": "https://en.wikipedia.org/wiki/Traffic"
+    },
+    {
+      "title": "Dual carriageway",
+      "url": "https://en.wikipedia.org/wiki/Dual_carriageway"
+    },
+    {
+      "title": "Road surface",
+      "url": "https://en.wikipedia.org/wiki/Road_surface"
+    },
+    {
+      "title": "Landscape design",
+      "url": "https://en.wikipedia.org/wiki/Landscape_design"
+    },
+    {
+      "title": "Nature Strip (horse)",
+      "url": "https://en.wikipedia.org/wiki/Nature_Strip_(horse)"
+    },
+    {
+      "title": "Greater Boston",
+      "url": "https://en.wikipedia.org/wiki/Greater_Boston"
+    },
+    {
+      "title": "Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Massachusetts"
+    },
+    {
+      "title": "Groundcover",
+      "url": "https://en.wikipedia.org/wiki/Groundcover"
+    },
+    {
+      "title": "Grass",
+      "url": "https://en.wikipedia.org/wiki/Grass"
+    },
+    {
+      "title": "Garden plant",
+      "url": "https://en.wikipedia.org/wiki/Garden_plant"
+    },
+    {
+      "title": "Shrub",
+      "url": "https://en.wikipedia.org/wiki/Shrub"
+    },
+    {
+      "title": "Tree",
+      "url": "https://en.wikipedia.org/wiki/Tree"
+    },
+    {
+      "title": "Roadway",
+      "url": "https://en.wikipedia.org/wiki/Roadway"
+    },
+    {
+      "title": "Sidewalk",
+      "url": "https://en.wikipedia.org/wiki/Sidewalk"
+    },
+    {
+      "title": "Public property",
+      "url": "https://en.wikipedia.org/wiki/Public_property"
+    },
+    {
+      "title": "Municipality",
+      "url": "https://en.wikipedia.org/wiki/Municipality"
     }
   ],
   "points": {

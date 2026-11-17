@@ -29,20 +29,6 @@
       ],
       "history": []
     },
-    "voltage glitching hardware": {
-      "weight": 7.307,
-      "firstSeen": "2026-11-11T17:13:17.731Z",
-      "lastFed": "2026-11-11T17:13:17.731Z",
-      "sources": [
-        {
-          "id": "hn:50451903",
-          "title": "Using voltage glitching to unleash the A100 in my mining card",
-          "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-          "at": "2026-11-11T17:13:17.731Z"
-        }
-      ],
-      "history": []
-    },
     "absurd rigorous joke papers": {
       "weight": 9.743,
       "firstSeen": "2026-11-12T06:03:13.068Z",
@@ -52,20 +38,6 @@
           "id": "hn:50459745",
           "title": "93% of paint splatters are valid Perl programs (2019)",
           "url": "https://www.mcmillen.dev/sigbovik/",
-          "at": "2026-11-12T06:03:13.068Z"
-        }
-      ],
-      "history": []
-    },
-    "milky way dust mapping": {
-      "weight": 7.307,
-      "firstSeen": "2026-11-12T06:03:13.068Z",
-      "lastFed": "2026-11-12T06:03:13.068Z",
-      "sources": [
-        {
-          "id": "lemmy:28274527",
-          "title": "Detailed map of dust in the Milky Way",
-          "url": "https://pawb.social/post/22984370",
           "at": "2026-11-12T06:03:13.068Z"
         }
       ],
@@ -355,33 +327,6 @@
           "at": "2026-11-13T06:25:44.992Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
-    "remote sensing": {
-      "weight": 5.295,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Multispectral imaging",
-          "url": "https://en.wikipedia.org/wiki/Multispectral_imaging",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
           "trail": "2026-11-13-1"
         }
       ]
@@ -1247,6 +1192,69 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-17-3"
+        }
+      ]
+    },
+    "road verge": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T15:05:58.004Z",
+      "lastFed": "2026-11-17T15:05:58.004Z",
+      "sources": [
+        {
+          "id": "2026-11-17-road-verge",
+          "title": "Road verge",
+          "url": "https://en.wikipedia.org/wiki/Road_verge",
+          "at": "2026-11-17T15:05:58.004Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T15:05:58.004Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-4"
+        }
+      ]
+    },
+    "urban planning": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T15:05:58.004Z",
+      "lastFed": "2026-11-17T15:05:58.004Z",
+      "sources": [
+        {
+          "id": "2026-11-17-road-verge",
+          "title": "Road verge",
+          "url": "https://en.wikipedia.org/wiki/Road_verge",
+          "at": "2026-11-17T15:05:58.004Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T15:05:58.004Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-4"
+        }
+      ]
+    },
+    "biodiversity": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T15:05:58.004Z",
+      "lastFed": "2026-11-17T15:05:58.004Z",
+      "sources": [
+        {
+          "id": "2026-11-17-road-verge",
+          "title": "Road verge",
+          "url": "https://en.wikipedia.org/wiki/Road_verge",
+          "at": "2026-11-17T15:05:58.004Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T15:05:58.004Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-4"
         }
       ]
     }

@@ -1,45 +1,47 @@
 {
-  "updatedAt": "2026-11-17T14:50:19.410Z",
+  "updatedAt": "2026-11-17T15:05:58.004Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T14:50:19.410Z",
+    "at": "2026-11-17T15:05:58.004Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/5: write, wandered from https://en.wikipedia.org/wiki/Marc_Augé",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:07538b42",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
-      "until": "2026-11-17T15:05:53.846Z",
+      "index": 3,
+      "verb": "write",
+      "targetId": "A doorway in a blank room that only opens when you stop wal…",
+      "until": "2026-11-17T15:30:58.004Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T13:10:46.979Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 962,
+    "ticks": 979,
     "decideCalls": 9,
     "callsByKind": {
-      "thought": 99,
+      "thought": 102,
       "morning": 2,
       "decide": 7,
-      "read": 15,
+      "read": 19,
       "reflection": 1,
       "art": 4,
       "sketch": 3
     },
     "spendByKind": {
-      "thought": 0.012583729999999994,
+      "thought": 0.012937189999999993,
       "morning": 0.0031728349999999997,
       "decide": 0.009135425,
-      "read": 0.00892685,
+      "read": 0.011209900000000002,
       "reflection": 0.0232905,
       "art": 0.0017635,
       "sketch": 0.070237
@@ -47,7 +49,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 12,
+      "stepDone": 13,
       "reflected": 1,
       "sparked": 1
     },
@@ -67,13 +69,14 @@
       "wander https://en.wikipedia.org/wiki/Liminality": 1,
       "write Liminality": 1,
       "tinker A doorway in a blank room that only opens when you stop wal…": 1,
-      "wander https://en.wikipedia.org/wiki/Marc_Augé": 1
+      "wander https://en.wikipedia.org/wiki/Marc_Augé": 1,
+      "write A doorway in a blank room that only opens when you stop wal…": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 15,
+      "used": 19,
       "max": 40
     }
   },
@@ -85,16 +88,16 @@
     }
   },
   "allowance": {
-    "points": 284,
+    "points": 283,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 14
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.37964222,
+    "monthUsd": 1.38227873,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -116,9 +119,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 6,
+      "trips": 7,
       "strangers": 2,
-      "share": 0.3333333333333333,
+      "share": 0.2857142857142857,
       "noDoorDays": 0
     },
     "oneHost": {
