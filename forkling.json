@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 0.679,
-  "energy": 0.45,
+  "energy": 0.4,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T08:11:19.733Z",
-    "seed": 765455586,
-    "reason": "I am writing at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-17T08:24:51.094Z",
+    "seed": 1967199687,
+    "reason": "Stop, sit, and let the lidar loop fade before the next step.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-17T08:11:34.084Z",
+  "lastTickAt": "2026-11-17T08:24:51.094Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
