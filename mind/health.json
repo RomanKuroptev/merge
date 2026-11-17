@@ -1,55 +1,57 @@
 {
-  "updatedAt": "2026-11-17T19:47:49.379Z",
+  "updatedAt": "2026-11-17T19:57:58.316Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T19:47:49.379Z",
+    "at": "2026-11-17T19:57:58.316Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: tend, wrote \"Stand Still, Two Rooms\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:3fcc0d46",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "A two-room game where the only rule is to stand still",
-      "until": "2026-11-17T19:57:58.022Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-17T20:27:58.316Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T18:32:53.237Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1269,
+    "ticks": 1279,
     "decideCalls": 16,
     "callsByKind": {
-      "thought": 206,
+      "thought": 211,
       "morning": 2,
       "decide": 14,
       "read": 20,
       "reflection": 2,
-      "art": 6,
+      "art": 7,
       "sketch": 5,
       "tend": 2
     },
     "spendByKind": {
-      "thought": 0.025181369999999963,
+      "thought": 0.02575216999999996,
       "morning": 0.0031728349999999997,
       "decide": 0.017748725,
       "read": 0.012039250000000001,
       "reflection": 0.047741,
-      "art": 0.00262405,
+      "art": 0.0030843750000000003,
       "sketch": 0.11767899999999999,
       "tend": 0.00231365
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 7,
-      "stepDone": 20,
+      "stepDone": 21,
       "reflected": 2,
       "sparked": 1
     },
@@ -76,7 +78,8 @@
       "tinker A lamp that dims only when nobody is in the room": 1,
       "write A lamp that dims only when nobody is in the room": 1,
       "tinker A two-room game where the only rule is to stand still": 1,
-      "write A two-room game where the only rule is to stand still": 1
+      "write A two-room game where the only rule is to stand still": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 1
   },
@@ -94,16 +97,16 @@
     }
   },
   "allowance": {
-    "points": 174,
+    "points": 172,
     "max": 450
   },
   "mood": {
-    "label": "very good, tired",
-    "minutes": 309
+    "label": "very good, exhausted",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.47903229,
+    "monthUsd": 1.48006341,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -119,8 +122,8 @@
       }
     },
     "texts": {
-      "texts": 39,
-      "meanMaxSimilarity": 0.019998347952387585,
+      "texts": 40,
+      "meanMaxSimilarity": 0.02008318457521532,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },
