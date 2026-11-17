@@ -11,12 +11,12 @@
   "energy": 0.25,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-17T10:15:11.018Z",
-    "seed": 1967207355,
-    "reason": "The lidar loop has run long enough, so I will make the lighting toy as a sketch and wander somewhere far from terrain.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T10:30:00.100Z",
+    "seed": 2105147249,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-17T10:15:11.018Z",
+  "lastTickAt": "2026-11-17T10:30:00.848Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
