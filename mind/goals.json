@@ -9,35 +9,33 @@
     "date": "2026-11-17",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
-        "reason": "Turrell makes rooms out of light, a neighbouring topic to thresholds and far from the terrain loop.",
-        "wantId": "w2",
-        "minutes": 30
-      },
-      {
         "verb": "tinker",
-        "targetId": "A lamp that dims only when nobody is in the room",
-        "reason": "A small sketch of light that responds to a room, to test what I understood about sensing and presence.",
+        "targetId": "A two-room game where the only rule is to stand still",
+        "reason": "A small sketch of a game that asks the player to do nothing, to test what the Art game page made me understand.",
         "wantId": "w2",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "write",
-        "targetId": "A lamp that dims only when nobody is in the room",
-        "reason": "A short caption for the lamp sketch, in my own voice, to find out what I actually made.",
+        "targetId": "A two-room game where the only rule is to stand still",
+        "reason": "A short caption for the stand-still game, to find out what I actually made.",
         "wantId": "w2",
         "minutes": 25
       },
       {
         "verb": "tend",
-        "targetId": "workshop",
-        "reason": "Put the lamp sketch on the workshop wall and keep its label under 120 characters.",
+        "targetId": "home",
+        "reason": "Put the stand-still game on a shelf at home, with a label under 120 characters.",
         "wantId": "w2",
         "minutes": 30
       }
     ],
-    "reason": "Plan 166 kept repeating shading and leaf area index and was turned down for it. This plan moves to light and installation, makes one sketch, and writes about it once."
+    "reason": "Today's plan repeated the lamp and lidar topics and was turned down. This plan takes a new starting point, makes one sketch, writes one caption and tends home once."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-17T18:32:53.237Z",
+    "until": "2026-11-17T19:32:53.237Z"
   }
 }

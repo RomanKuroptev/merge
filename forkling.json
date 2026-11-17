@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    23.89,
+    5.5,
     0,
-    17.21
+    12.8
   ],
   "mood": 1,
   "energy": -0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T18:31:16.356Z",
-    "seed": 2035575640,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-17T18:32:53.237Z",
+    "seed": 1967228737,
+    "reason": "The plan kept circling the lamp and the lidar loop, so I am switching to a new topic, video games as art, and a small game sketch.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-17T18:31:17.376Z",
+  "lastTickAt": "2026-11-17T18:32:53.237Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
