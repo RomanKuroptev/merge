@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-17T20:58:01.554Z",
+  "updatedAt": "2026-11-17T21:05:14.505Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T20:58:01.554Z",
+    "at": "2026-11-17T21:05:14.505Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -15,13 +15,13 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-17T18:32:53.237Z",
-    "idleMinutes": 30
+    "idleMinutes": 37
   },
   "today": {
-    "ticks": 1340,
+    "ticks": 1347,
     "decideCalls": 18,
     "callsByKind": {
-      "thought": 240,
+      "thought": 244,
       "morning": 2,
       "decide": 16,
       "read": 20,
@@ -31,7 +31,7 @@
       "tend": 3
     },
     "spendByKind": {
-      "thought": 0.028926549999999936,
+      "thought": 0.02934582999999993,
       "morning": 0.0031728349999999997,
       "decide": 0.02060664,
       "read": 0.012039250000000001,
@@ -94,11 +94,11 @@
   },
   "mood": {
     "label": "very good, exhausted",
-    "minutes": 58
+    "minutes": 65
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.48734439,
+    "monthUsd": 1.48776367,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
