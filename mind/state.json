@@ -1,17 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T16:35:57.385Z",
-  "lastThinkAt": "2026-11-17T17:36:00.833Z",
+  "appliedStepAt": "2026-11-17T17:36:00.833Z",
+  "lastThinkAt": "2026-11-17T18:01:10.860Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 227,
+    "points": 225,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-16T18:21:38.253Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -104,6 +100,11 @@
       "verb": "write",
       "targetId": "A lamp that dims only when nobody is in the room",
       "at": "2026-11-17T17:36:00.833Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-17T18:01:10.860Z"
     }
   ],
   "sparked": {
@@ -112,19 +113,19 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T17:59:36.992Z",
     "failures": 0,
-    "recent": [
-      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch.",
-      "Five loops on the dimming lamp. Caption is short, so I'll write it and let the counter be the joke.",
-      "Five loops on the dimming lamp. The counter is the joke now, so I'll write the caption and let it ship.",
-      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship it.",
-      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch."
-    ],
-    "lastAt": "2026-11-17T17:49:17.853Z",
     "replans": {
       "date": "2026-11-17",
       "count": 1
-    }
+    },
+    "recent": [
+      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch.",
+      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch.",
+      "Five loops on the dimming lamp. The counter is the joke now, so I'll write the caption and ship the sketch.",
+      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch.",
+      "Five loops on the dimming lamp. The counter is the joke, so I'll write the caption and ship the sketch."
+    ]
   },
   "reflect": {
     "sum": 54,

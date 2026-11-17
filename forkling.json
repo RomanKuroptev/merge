@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.35,
+  "energy": -0.4,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T17:48:25.214Z",
-    "seed": 1288119164,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-17T18:01:10.860Z",
+    "seed": 1967230194,
+    "reason": "Put the lamp sketch on the workshop wall and keep its label under 120 characters.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-17T17:49:17.853Z",
+  "lastTickAt": "2026-11-17T18:01:10.860Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
