@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    22.19,
+    5.5,
     0,
-    15.82
+    12.8
   ],
   "mood": 0.379,
   "energy": 0.5,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-17T07:29:44.357Z",
-    "seed": 1967200508,
-    "reason": "I have written the same lidar sentence too many times, so I will change topic, read something new, and make a small toy instead.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T07:39:50.013Z",
+    "seed": 1888360622,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-17T07:29:44.357Z",
+  "lastTickAt": "2026-11-17T07:40:56.516Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
