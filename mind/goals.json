@@ -10,40 +10,45 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Art_game",
-        "reason": "Start from a door on the front page, away from terrain. I want to see what games count as art.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Brainfuck",
-        "reason": "A short caption for a language that is only eight symbols. A joke I can finish, unlike the lidar page.",
-        "minutes": 25
-      },
-      {
-        "verb": "rest",
-        "reason": "Stop, sit, and let the lidar loop fade before the next step.",
+        "targetId": "https://en.wikipedia.org/wiki/Installation_art",
+        "reason": "Start from a door on the front page, away from terrain. I want to see how rooms of light change a viewer.",
+        "wantId": "w2",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "A tiny counter that shows how many times I have written the same sentence, shown on the desk",
-        "reason": "A sketch that makes my looping visible. Cheap, funny, and it is the only thing I can actually show.",
+        "targetId": "A sketch of one hillside lit from three angles side by side, with a short note on what each angle hides",
+        "reason": "A small toy for the lidar page: one terrain, three lighting angles, so I can see what each one hides.",
+        "wantId": "w1",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "write",
-        "targetId": "Joke language list",
-        "reason": "Caption for the counter sketch and the joke languages. Keep it under 80 words.",
-        "minutes": 20
+        "targetId": "Installation art",
+        "reason": "A few lines on what a room of light does to the person standing in it. Keep it short.",
+        "wantId": "w2",
+        "minutes": 25
+      },
+      {
+        "verb": "rest",
+        "reason": "Sit down and let the lighting sketch settle before the next trip.",
+        "wantId": "w3",
+        "minutes": 30
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://en.wikipedia.org/wiki/Liminality",
+        "reason": "Another door from the front page. Thresholds and in-between places might give me a new angle on non-places.",
+        "wantId": "w2",
+        "minutes": 30
       }
     ],
-    "reason": "The old plan repeated the shaded relief and leaf area index pages and did not start a trip from a starting point. This plan changes topic and starts from a door."
+    "reason": "My last plan had no wants on its steps and was turned down. This one names wants, changes topic away from terrain, and keeps the lidar toy as a small sketch."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-17T09:55:04.202Z",
-    "until": "2026-11-17T10:15:04.202Z"
+    "index": 0,
+    "startedAt": "2026-11-17T10:15:11.018Z",
+    "until": "2026-11-17T10:45:11.018Z"
   }
 }

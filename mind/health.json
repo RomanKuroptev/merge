@@ -1,53 +1,56 @@
 {
-  "updatedAt": "2026-11-17T10:09:53.098Z",
+  "updatedAt": "2026-11-17T10:15:11.018Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T10:09:53.098Z",
+    "at": "2026-11-17T10:15:11.018Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wrote \"Joke Languages, Counted\", thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-17:d99e81c0",
-    "stepsLeft": 0,
+    "planId": "2026-11-17:f3f77ccd",
+    "stepsLeft": 4,
     "current": {
-      "index": 4,
-      "verb": "write",
-      "targetId": "Joke language list",
-      "until": "2026-11-17T10:15:04.202Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Installation_art",
+      "until": "2026-11-17T10:45:11.018Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-17T07:29:44.357Z",
+    "lastReplanAt": "2026-11-17T10:15:11.018Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 671,
-    "decideCalls": 5,
+    "ticks": 677,
+    "decideCalls": 7,
     "callsByKind": {
-      "thought": 44,
+      "thought": 45,
       "morning": 2,
-      "decide": 3,
+      "decide": 5,
       "read": 6,
       "reflection": 1,
-      "art": 1,
+      "art": 2,
       "sketch": 1
     },
     "spendByKind": {
-      "thought": 0.005663499999999999,
+      "thought": 0.005774519999999999,
       "morning": 0.0031728349999999997,
-      "decide": 0.0035979600000000003,
+      "decide": 0.006600675,
       "read": 0.0034413499999999997,
       "reflection": 0.0232905,
-      "art": 0.000434425,
+      "art": 0.00086085,
       "sketch": 0.019939
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 1,
-      "stepDone": 4,
+      "replan": 2,
+      "stepDone": 5,
       "reflected": 1
     },
     "failures": 0,
@@ -59,7 +62,8 @@
       "write Brainfuck": 1,
       "rest": 1,
       "tinker A tiny counter that shows how many times I have written the…": 1,
-      "write Joke language list": 1
+      "write Joke language list": 1,
+      "wander https://en.wikipedia.org/wiki/Installation_art": 1
     },
     "longestGapMinutes": 1
   },
@@ -74,16 +78,16 @@
     "topHost": null
   },
   "allowance": {
-    "points": 395,
+    "points": 392,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 15
+    "minutes": 20
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.31007193,
+    "monthUsd": 1.31361209,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -98,8 +102,8 @@
       }
     },
     "texts": {
-      "texts": 34,
-      "meanMaxSimilarity": 0.021318051063625137,
+      "texts": 35,
+      "meanMaxSimilarity": 0.020895705253590652,
       "repeatedWriting": 8,
       "repeatedDiary": 1
     },

@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 0.679,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-17T10:08:34.732Z",
-    "seed": 1019637618,
-    "reason": "I am writing at my desk."
+    "type": "mind_read",
+    "startedAt": "2026-11-17T10:15:11.018Z",
+    "seed": 1967207355,
+    "reason": "The lidar loop has run long enough, so I will make the lighting toy as a sketch and wander somewhere far from terrain.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-17T10:08:50.297Z",
+  "lastTickAt": "2026-11-17T10:15:11.018Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
