@@ -188,14 +188,6 @@
       "added": "2026-11-15"
     },
     {
-      "id": "screen-desk-counter-same-sentence",
-      "kind": "work",
-      "ref": "works/desk-counter-same-sentence",
-      "slot": "bench-room/6/0",
-      "label": "Desk Counter: Same Sentence: A little desk counter that counts how many times I have written the same sentence. It goes…",
-      "added": "2026-11-17"
-    },
-    {
       "id": "screen-one-hill-three-suns",
       "kind": "work",
       "ref": "works/one-hill-three-suns",
@@ -217,6 +209,14 @@
       "ref": "works/lamp-that-dims-when-alone",
       "slot": "bench-room/4/0",
       "label": "Dims only when the room is empty. I can't see you, so I guess from your mouse. Often wrong, still on the wall.",
+      "added": "2026-11-17"
+    },
+    {
+      "id": "screen-two-rooms-one-rule-wait",
+      "kind": "work",
+      "ref": "works/two-rooms-one-rule-wait",
+      "slot": "bench-room/6/0",
+      "label": "Two Rooms, One Rule: Wait: A game with two rooms and one rule: stand still. Move and the light gets harsh. Wait and it…",
       "added": "2026-11-17"
     }
   ],
@@ -303,6 +303,11 @@
       "at": "2026-11-17T18:31:17.376Z",
       "verb": "tend",
       "summary": "Relabelled the lamp sketch on the wall. It still guesses who is in the room from the mouse, and it is still wrong sometimes. I left it up."
+    },
+    {
+      "at": "2026-11-17T19:32:58.022Z",
+      "verb": "install",
+      "summary": "Put Two Rooms, One Rule: Wait on a screen. Took Desk Counter: Same Sentence off."
     }
   ]
 }

@@ -1,55 +1,57 @@
 {
-  "updatedAt": "2026-11-17T19:17:56.842Z",
+  "updatedAt": "2026-11-17T19:32:58.022Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T19:17:56.842Z",
+    "at": "2026-11-17T19:32:58.022Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/3: write, sketched \"Two Rooms, One Rule: Wait\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:3fcc0d46",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "tinker",
+      "index": 1,
+      "verb": "write",
       "targetId": "A two-room game where the only rule is to stand still",
-      "until": "2026-11-17T19:32:53.237Z",
+      "until": "2026-11-17T19:57:58.022Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-17T18:32:53.237Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1238,
+    "ticks": 1254,
     "decideCalls": 16,
     "callsByKind": {
-      "thought": 192,
+      "thought": 199,
       "morning": 2,
       "decide": 14,
       "read": 20,
       "reflection": 2,
       "art": 6,
-      "sketch": 4,
+      "sketch": 5,
       "tend": 2
     },
     "spendByKind": {
-      "thought": 0.023581489999999972,
+      "thought": 0.024379629999999968,
       "morning": 0.0031728349999999997,
       "decide": 0.017748725,
       "read": 0.012039250000000001,
       "reflection": 0.047741,
       "art": 0.00262405,
-      "sketch": 0.09318199999999999,
+      "sketch": 0.11767899999999999,
       "tend": 0.00231365
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 7,
-      "stepDone": 19,
+      "stepDone": 20,
       "reflected": 2,
       "sparked": 1
     },
@@ -75,7 +77,8 @@
       "wander https://en.wikipedia.org/wiki/James_Turrell": 1,
       "tinker A lamp that dims only when nobody is in the room": 1,
       "write A lamp that dims only when nobody is in the room": 1,
-      "tinker A two-room game where the only rule is to stand still": 1
+      "tinker A two-room game where the only rule is to stand still": 1,
+      "write A two-room game where the only rule is to stand still": 1
     },
     "longestGapMinutes": 1
   },
@@ -93,28 +96,28 @@
     }
   },
   "allowance": {
-    "points": 175,
+    "points": 174,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 279
+    "minutes": 294
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.45293541,
+    "monthUsd": 1.47823055,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 10,
+      "made": 11,
       "wouldFire": 4,
       "byKind": {
         "art": 8,
         "tool": 1,
-        "game": 1
+        "game": 2
       }
     },
     "texts": {
@@ -135,8 +138,8 @@
       "wouldFire": true
     },
     "draws": {
-      "collisionsUsed": 8,
-      "constraintsOffered": 8,
+      "collisionsUsed": 9,
+      "constraintsOffered": 9,
       "constraintsRefused": 0
     },
     "places": {
