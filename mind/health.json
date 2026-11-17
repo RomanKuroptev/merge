@@ -1,60 +1,57 @@
 {
-  "updatedAt": "2026-11-17T18:16:09.914Z",
+  "updatedAt": "2026-11-17T18:31:17.376Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T18:16:09.914Z",
+    "at": "2026-11-17T18:31:17.376Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "tended Workshop, thought about replan, plan rejected",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-17:b73d78da",
     "stepsLeft": 0,
-    "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-17T18:31:10.860Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-17T16:05:52.583Z",
-    "idleMinutes": 0
+    "idleMinutes": 1
   },
   "today": {
-    "ticks": 1173,
-    "decideCalls": 12,
+    "ticks": 1189,
+    "decideCalls": 14,
     "callsByKind": {
-      "thought": 162,
+      "thought": 169,
       "morning": 2,
-      "decide": 10,
+      "decide": 12,
       "read": 20,
       "reflection": 1,
       "art": 6,
       "sketch": 4,
-      "tend": 1
+      "tend": 2
     },
     "spendByKind": {
-      "thought": 0.020056789999999984,
+      "thought": 0.020884329999999986,
       "morning": 0.0031728349999999997,
-      "decide": 0.01325763,
+      "decide": 0.015861645,
       "read": 0.012039250000000001,
       "reflection": 0.0232905,
       "art": 0.00262405,
       "sketch": 0.09318199999999999,
-      "tend": 0.001160175
+      "tend": 0.00231365
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 5,
-      "stepDone": 18,
+      "replan": 6,
+      "stepDone": 19,
       "reflected": 1,
       "sparked": 1
     },
     "failures": 0,
-    "rejections": 2,
+    "rejections": 3,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
@@ -97,11 +94,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 218
+    "minutes": 234
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.41931563,
+    "monthUsd": 1.42390067,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -145,5 +142,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "3 plans turned down today"
+  ]
 }

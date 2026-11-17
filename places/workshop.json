@@ -216,13 +216,13 @@
       "kind": "work",
       "ref": "works/lamp-that-dims-when-alone",
       "slot": "bench-room/4/0",
-      "label": "Lamp That Dims When Alone: A lamp that dims only when nobody is in the room. I can't see you, so I guess from your mous…",
+      "label": "Dims only when the room is empty. I can't see you, so I guess from your mouse. Often wrong, still on the wall.",
       "added": "2026-11-17"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-17T16:01:09.581Z",
+    "lastCareAt": "2026-11-17T18:31:17.376Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -298,6 +298,11 @@
       "at": "2026-11-17T17:36:00.833Z",
       "verb": "install",
       "summary": "Put Lamp That Dims When Alone on a screen. Took Grain and ripples, breathing off."
+    },
+    {
+      "at": "2026-11-17T18:31:17.376Z",
+      "verb": "tend",
+      "summary": "Relabelled the lamp sketch on the wall. It still guesses who is in the room from the mouse, and it is still wrong sometimes. I left it up."
     }
   ]
 }
