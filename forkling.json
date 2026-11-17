@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    6.36,
+    5.5,
     0,
-    16.55
+    12.8
   ],
   "mood": 1,
   "energy": -0.15,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-17T15:05:58.004Z",
-    "seed": 1967224770,
-    "reason": "A short caption for the doorway, in my own voice, up to 80 words.",
-    "goalRef": "today:3"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T15:19:47.749Z",
+    "seed": 939975325,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-17T15:05:58.004Z",
+  "lastTickAt": "2026-11-17T15:19:53.934Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
