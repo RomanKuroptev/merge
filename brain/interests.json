@@ -485,27 +485,6 @@
         }
       ]
     },
-    "programming": {
-      "weight": 5.1,
-      "firstSeen": "2026-11-16T14:48:43.554Z",
-      "lastFed": "2026-11-16T14:48:43.554Z",
-      "sources": [
-        {
-          "id": "note:n-2026-11-16-cd4487",
-          "title": "a note from a visitor",
-          "url": "",
-          "at": "2026-11-16T14:48:43.554Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-16T14:48:43.554Z",
-          "change": 6,
-          "event": "note",
-          "trail": "note:n-2026-11-16-cd4487"
-        }
-      ]
-    },
     "new media art": {
       "weight": 14,
       "firstSeen": "2026-11-17T07:59:47.308Z",
@@ -1082,69 +1061,6 @@
         }
       ]
     },
-    "image sensor": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-2",
-          "title": "Photodetector",
-          "url": "https://en.wikipedia.org/wiki/Photodetector",
-          "at": "2026-11-17T10:45:20.534Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T10:45:20.534Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-2"
-        }
-      ]
-    },
-    "band gap": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-2",
-          "title": "Valence and conduction bands",
-          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
-          "at": "2026-11-17T10:45:20.534Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T10:45:20.534Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-2"
-        }
-      ]
-    },
-    "electrical conductivity": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-17-2",
-          "title": "Valence and conduction bands",
-          "url": "https://en.wikipedia.org/wiki/Valence_and_conduction_bands",
-          "at": "2026-11-17T10:45:20.534Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-17T10:45:20.534Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-17-2"
-        }
-      ]
-    },
     "semiconductors": {
       "weight": 8,
       "firstSeen": "2026-11-17T10:45:20.534Z",
@@ -1172,45 +1088,165 @@
         }
       ]
     },
-    "electron hole": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
+    "liminality": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
       "sources": [
         {
-          "id": "trail:2026-11-17-2",
-          "title": "Electron hole",
-          "url": "https://en.wikipedia.org/wiki/Electron_hole",
-          "at": "2026-11-17T10:45:20.534Z"
+          "id": "trail:2026-11-17-3",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
+        },
+        {
+          "id": "2026-11-17-liminality",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-17T10:45:20.534Z",
+          "at": "2026-11-17T13:10:46.979Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-17-2"
+          "trail": "2026-11-17-3"
+        },
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
         }
       ]
     },
-    "quasiparticles": {
-      "weight": 4,
-      "firstSeen": "2026-11-17T10:45:20.534Z",
-      "lastFed": "2026-11-17T10:45:20.534Z",
+    "rites of passage": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
       "sources": [
         {
-          "id": "trail:2026-11-17-2",
-          "title": "Electron hole",
-          "url": "https://en.wikipedia.org/wiki/Electron_hole",
-          "at": "2026-11-17T10:45:20.534Z"
+          "id": "trail:2026-11-17-3",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
+        },
+        {
+          "id": "2026-11-17-liminality",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-17T10:45:20.534Z",
+          "at": "2026-11-17T13:10:46.979Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-17-2"
+          "trail": "2026-11-17-3"
+        },
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
+        }
+      ]
+    },
+    "threshold": {
+      "weight": 14,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-17-3",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
+        },
+        {
+          "id": "2026-11-17-liminality",
+          "title": "Liminality",
+          "url": "https://en.wikipedia.org/wiki/Liminality",
+          "at": "2026-11-17T13:10:46.979Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-17-3"
+        },
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
+        }
+      ]
+    },
+    "gap year": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
+      "sources": [
+        {
+          "id": "2026-11-17-gap-year",
+          "title": "Gap year",
+          "url": "https://en.wikipedia.org/wiki/Gap_year",
+          "at": "2026-11-17T13:10:46.979Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
+        }
+      ]
+    },
+    "in-between stages": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
+      "sources": [
+        {
+          "id": "2026-11-17-gap-year",
+          "title": "Gap year",
+          "url": "https://en.wikipedia.org/wiki/Gap_year",
+          "at": "2026-11-17T13:10:46.979Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
+        }
+      ]
+    },
+    "student travel": {
+      "weight": 10,
+      "firstSeen": "2026-11-17T13:10:46.979Z",
+      "lastFed": "2026-11-17T13:10:46.979Z",
+      "sources": [
+        {
+          "id": "2026-11-17-gap-year",
+          "title": "Gap year",
+          "url": "https://en.wikipedia.org/wiki/Gap_year",
+          "at": "2026-11-17T13:10:46.979Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-17T13:10:46.979Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-17-3"
         }
       ]
     }

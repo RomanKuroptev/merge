@@ -1,53 +1,56 @@
 {
-  "updatedAt": "2026-11-17T12:55:13.108Z",
+  "updatedAt": "2026-11-17T13:10:46.979Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T12:55:13.108Z",
+    "at": "2026-11-17T13:10:46.979Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wandered from https://en.wikipedia.org/wiki/Liminality, thought about replan, step 1/5: write, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-17:f3f77ccd",
-    "stepsLeft": 0,
+    "planId": "2026-11-17:07538b42",
+    "stepsLeft": 4,
     "current": {
-      "index": 4,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Liminality",
-      "until": "2026-11-17T13:10:45.361Z",
+      "index": 0,
+      "verb": "write",
+      "targetId": "Liminality",
+      "until": "2026-11-17T13:35:46.979Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-17T10:15:11.018Z",
+    "lastReplanAt": "2026-11-17T13:10:46.979Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 843,
-    "decideCalls": 8,
+    "ticks": 860,
+    "decideCalls": 9,
     "callsByKind": {
-      "thought": 76,
+      "thought": 79,
       "morning": 2,
-      "decide": 6,
-      "read": 12,
+      "decide": 7,
+      "read": 15,
       "reflection": 1,
       "art": 3,
       "sketch": 2
     },
     "spendByKind": {
-      "thought": 0.009802069999999996,
+      "thought": 0.010155729999999995,
       "morning": 0.0031728349999999997,
-      "decide": 0.0075579,
-      "read": 0.0069094,
+      "decide": 0.009135425,
+      "read": 0.00892685,
       "reflection": 0.0232905,
       "art": 0.0013191750000000001,
       "sketch": 0.044441999999999995
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 2,
-      "stepDone": 9,
+      "replan": 3,
+      "stepDone": 10,
       "reflected": 1,
       "sparked": 1
     },
@@ -64,13 +67,14 @@
       "wander https://en.wikipedia.org/wiki/Installation_art": 1,
       "tinker A sketch of one hillside lit from three angles side by side…": 1,
       "write Installation art": 1,
-      "wander https://en.wikipedia.org/wiki/Liminality": 1
+      "wander https://en.wikipedia.org/wiki/Liminality": 1,
+      "write Liminality": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 12,
+      "used": 15,
       "max": 40
     }
   },
@@ -82,16 +86,16 @@
     }
   },
   "allowance": {
-    "points": 338,
+    "points": 337,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 180
+    "minutes": 195
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.34702625,
+    "monthUsd": 1.35097489,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -112,9 +116,9 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 5,
+      "trips": 6,
       "strangers": 2,
-      "share": 0.4,
+      "share": 0.3333333333333333,
       "noDoorDays": 0
     },
     "oneHost": {

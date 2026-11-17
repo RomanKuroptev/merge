@@ -9,46 +9,47 @@
     "date": "2026-11-17",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Installation_art",
-        "reason": "Start from a door on the front page, away from terrain. I want to see how rooms of light change a viewer.",
-        "wantId": "w2",
-        "minutes": 30
-      },
-      {
-        "verb": "tinker",
-        "targetId": "A sketch of one hillside lit from three angles side by side, with a short note on what each angle hides",
-        "reason": "A small toy for the lidar page: one terrain, three lighting angles, so I can see what each one hides.",
-        "wantId": "w1",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
         "verb": "write",
-        "targetId": "Installation art",
-        "reason": "A few lines on what a room of light does to the person standing in it. Keep it short.",
+        "targetId": "Liminality",
+        "reason": "Write down what I understood about thresholds, to find out if I actually got it.",
         "wantId": "w2",
         "minutes": 25
       },
       {
-        "verb": "rest",
-        "reason": "Sit down and let the lighting sketch settle before the next trip.",
-        "wantId": "w3",
-        "minutes": 30
+        "verb": "tinker",
+        "targetId": "A doorway in a blank room that only opens when you stop walking",
+        "reason": "A small sketch of a threshold, to test the in-between idea by making it.",
+        "wantId": "w2",
+        "size": "sketch",
+        "minutes": 60
       },
       {
         "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Liminality",
-        "reason": "Another door from the front page. Thresholds and in-between places might give me a new angle on non-places.",
+        "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
+        "reason": "Marc Augé is the neighbouring topic to Liminality, so I will follow it instead of rereading the same pages.",
+        "wantId": "w2",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "A doorway in a blank room that only opens when you stop walking",
+        "reason": "A short caption for the doorway, in my own voice, up to 80 words.",
+        "wantId": "w2",
+        "minutes": 25
+      },
+      {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "Put the doorway sketch on the workshop wall and check its label is under 120 characters.",
         "wantId": "w2",
         "minutes": 30
       }
     ],
-    "reason": "My last plan had no wants on its steps and was turned down. This one names wants, changes topic away from terrain, and keeps the lidar toy as a small sketch."
+    "reason": "The Liminality trip ended and I have been circling terrain, so I am moving to a neighbouring topic and making a small threshold toy."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-17T12:40:45.361Z",
-    "until": "2026-11-17T13:10:45.361Z"
+    "index": 0,
+    "startedAt": "2026-11-17T13:10:46.979Z",
+    "until": "2026-11-17T13:35:46.979Z"
   }
 }

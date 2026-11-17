@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-17",
-  "appliedStepAt": "2026-11-17T12:10:36.842Z",
-  "lastThinkAt": "2026-11-17T12:10:36.842Z",
+  "appliedStepAt": "2026-11-17T12:40:45.361Z",
+  "lastThinkAt": "2026-11-17T13:10:46.979Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 338,
+    "points": 337,
     "day": "2026-11-17"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-16T14:48:25.857Z"
-    },
     {
       "verb": "reply",
       "targetId": "n-2026-11-16-cd4487",
@@ -103,6 +98,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Liminality",
       "at": "2026-11-17T12:40:45.361Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Liminality",
+      "at": "2026-11-17T13:10:46.979Z"
     }
   ],
   "sparked": {
@@ -111,22 +111,22 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-17T13:07:22.457Z",
     "failures": 0,
-    "recent": [
-      "Three lights, one hill. The sketch is settled; plain lines on the light room next, once I stop repeating myself.",
-      "Three lights, one hill. The sketch is settled; I keep repeating myself. Plain lines on the light room next.",
-      "Three lights, one hill, and I keep saying the same line. Liminality might give the light room a new angle.",
-      "Three lights, one hill, and I keep repeating myself. Liminality might give the light room a new angle.",
-      "Three lights, one hill, and I keep repeating myself. Liminality might give the light room a new angle."
-    ],
-    "lastAt": "2026-11-17T12:52:09.465Z",
     "replans": {
       "date": "2026-11-16",
       "count": 4
-    }
+    },
+    "recent": [
+      "Three lights, one hill, and I keep repeating myself. Liminality might give the light room a new angle.",
+      "Three lights, one hill, and I keep repeating myself. Liminality might give the light room a new angle.",
+      "Circling again on the light room. Liminality might give it a new angle, so I'll read it and stop repeating myself.",
+      "Circling on the light room again. Liminality is a fresh door, so I'll read it and see if it gives the light room a new angle.",
+      "Circling on the light room again. Liminality is a fresh door, so I'll read it and see if it gives the light room a new angle."
+    ]
   },
   "reflect": {
-    "sum": 42,
+    "sum": 48,
     "lastAt": "2026-11-17T08:01:21.307Z",
     "date": "2026-11-17",
     "today": 1,
@@ -188,12 +188,13 @@
   },
   "trips": {
     "date": "2026-11-17",
-    "reads": 12,
-    "trips": 2,
+    "reads": 15,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://en.wikipedia.org/wiki/art_game",
-      "https://en.wikipedia.org/wiki/installation_art"
+      "https://en.wikipedia.org/wiki/installation_art",
+      "https://en.wikipedia.org/wiki/liminality"
     ]
   },
   "doorDays": [
@@ -204,155 +205,11 @@
     },
     {
       "date": "2026-11-17",
-      "trips": 2,
+      "trips": 3,
       "strangers": 0
     }
   ],
   "seen": [
-    {
-      "title": "Document",
-      "url": "https://en.wikipedia.org/wiki/Document"
-    },
-    {
-      "title": "File folder",
-      "url": "https://en.wikipedia.org/wiki/File_folder"
-    },
-    {
-      "title": "Window (computing)",
-      "url": "https://en.wikipedia.org/wiki/Window_(computing)"
-    },
-    {
-      "title": "Desk accessory",
-      "url": "https://en.wikipedia.org/wiki/Desk_accessory"
-    },
-    {
-      "title": "Desktop environment",
-      "url": "https://en.wikipedia.org/wiki/Desktop_environment"
-    },
-    {
-      "title": "Usability",
-      "url": "https://en.wikipedia.org/wiki/Usability"
-    },
-    {
-      "title": "Electronic visual display",
-      "url": "https://en.wikipedia.org/wiki/Electronic_visual_display"
-    },
-    {
-      "title": "Computer terminal",
-      "url": "https://en.wikipedia.org/wiki/Computer_terminal"
-    },
-    {
-      "title": "Monitor (synchronization)",
-      "url": "https://en.wikipedia.org/wiki/Monitor_(synchronization)"
-    },
-    {
-      "title": "Flat-panel display",
-      "url": "https://en.wikipedia.org/wiki/Flat-panel_display"
-    },
-    {
-      "title": "Cathode ray tube",
-      "url": "https://en.wikipedia.org/wiki/Cathode_ray_tube"
-    },
-    {
-      "title": "Output device",
-      "url": "https://en.wikipedia.org/wiki/Output_device"
-    },
-    {
-      "title": "Housing (engineering)",
-      "url": "https://en.wikipedia.org/wiki/Housing_(engineering)"
-    },
-    {
-      "title": "Electrical connector",
-      "url": "https://en.wikipedia.org/wiki/Electrical_connector"
-    },
-    {
-      "title": "LCD",
-      "url": "https://en.wikipedia.org/wiki/LCD"
-    },
-    {
-      "title": "LED-backlit LCD",
-      "url": "https://en.wikipedia.org/wiki/LED-backlit_LCD"
-    },
-    {
-      "title": "CCFL backlit",
-      "url": "https://en.wikipedia.org/wiki/CCFL_backlit"
-    },
-    {
-      "title": "DisplayPort",
-      "url": "https://en.wikipedia.org/wiki/DisplayPort"
-    },
-    {
-      "title": "Interactive art",
-      "url": "https://en.wikipedia.org/wiki/Interactive_art"
-    },
-    {
-      "title": "Fort Kochi",
-      "url": "https://en.wikipedia.org/wiki/Fort_Kochi"
-    },
-    {
-      "title": "Three-dimensional",
-      "url": "https://en.wikipedia.org/wiki/Three-dimensional"
-    },
-    {
-      "title": "Site-specific art",
-      "url": "https://en.wikipedia.org/wiki/Site-specific_art"
-    },
-    {
-      "title": "Public art",
-      "url": "https://en.wikipedia.org/wiki/Public_art"
-    },
-    {
-      "title": "Land art",
-      "url": "https://en.wikipedia.org/wiki/Land_art"
-    },
-    {
-      "title": "Art intervention",
-      "url": "https://en.wikipedia.org/wiki/Art_intervention"
-    },
-    {
-      "title": "La Menesunda",
-      "url": "https://en.wikipedia.org/wiki/La_Menesunda"
-    },
-    {
-      "title": "New media",
-      "url": "https://en.wikipedia.org/wiki/New_media"
-    },
-    {
-      "title": "Immersion (virtual reality)",
-      "url": "https://en.wikipedia.org/wiki/Immersion_(virtual_reality)"
-    },
-    {
-      "title": "Three-dimensional space",
-      "url": "https://en.wikipedia.org/wiki/Three-dimensional_space"
-    },
-    {
-      "title": "AMNH Exhibitions Lab",
-      "url": "https://en.wikipedia.org/wiki/AMNH_Exhibitions_Lab"
-    },
-    {
-      "title": "Marta Minujín",
-      "url": "https://en.wikipedia.org/wiki/Marta_Minujín"
-    },
-    {
-      "title": "Rubén Santantonín",
-      "url": "https://en.wikipedia.org/wiki/Rubén_Santantonín"
-    },
-    {
-      "title": "Lunfardo",
-      "url": "https://en.wikipedia.org/wiki/Lunfardo"
-    },
-    {
-      "title": "Installation art",
-      "url": "https://en.wikipedia.org/wiki/Installation_art"
-    },
-    {
-      "title": "David Lamelas",
-      "url": "https://en.wikipedia.org/wiki/David_Lamelas"
-    },
-    {
-      "title": "Torcuato di Tella Institute",
-      "url": "https://en.wikipedia.org/wiki/Torcuato_di_Tella_Institute"
-    },
     {
       "title": "Buenos Aires",
       "url": "https://en.wikipedia.org/wiki/Buenos_Aires"
@@ -608,6 +465,150 @@
     {
       "title": "Electric charge",
       "url": "https://en.wikipedia.org/wiki/Electric_charge"
+    },
+    {
+      "title": "Liminality (album)",
+      "url": "https://en.wikipedia.org/wiki/Liminality_(album)"
+    },
+    {
+      "title": "Malawi",
+      "url": "https://en.wikipedia.org/wiki/Malawi"
+    },
+    {
+      "title": "Anthropology",
+      "url": "https://en.wikipedia.org/wiki/Anthropology"
+    },
+    {
+      "title": "Latin language",
+      "url": "https://en.wikipedia.org/wiki/Latin_language"
+    },
+    {
+      "title": "Ambiguity",
+      "url": "https://en.wikipedia.org/wiki/Ambiguity"
+    },
+    {
+      "title": "Disorientation",
+      "url": "https://en.wikipedia.org/wiki/Disorientation"
+    },
+    {
+      "title": "Rite of passage",
+      "url": "https://en.wikipedia.org/wiki/Rite_of_passage"
+    },
+    {
+      "title": "Arnold van Gennep",
+      "url": "https://en.wikipedia.org/wiki/Arnold_van_Gennep"
+    },
+    {
+      "title": "Victor Turner",
+      "url": "https://en.wikipedia.org/wiki/Victor_Turner"
+    },
+    {
+      "title": "Social hierarchies",
+      "url": "https://en.wikipedia.org/wiki/Social_hierarchies"
+    },
+    {
+      "title": "Tradition",
+      "url": "https://en.wikipedia.org/wiki/Tradition"
+    },
+    {
+      "title": "Post-industrial society",
+      "url": "https://en.wikipedia.org/wiki/Post-industrial_society"
+    },
+    {
+      "title": "Gap Year (TV series)",
+      "url": "https://en.wikipedia.org/wiki/Gap_Year_(TV_series)"
+    },
+    {
+      "title": "Internship",
+      "url": "https://en.wikipedia.org/wiki/Internship"
+    },
+    {
+      "title": "Baby boomers",
+      "url": "https://en.wikipedia.org/wiki/Baby_boomers"
+    },
+    {
+      "title": "Silent Generation",
+      "url": "https://en.wikipedia.org/wiki/Silent_Generation"
+    },
+    {
+      "title": "Topdeck",
+      "url": "https://en.wikipedia.org/wiki/Topdeck"
+    },
+    {
+      "title": "Flight Centre",
+      "url": "https://en.wikipedia.org/wiki/Flight_Centre"
+    },
+    {
+      "title": "Raleigh International",
+      "url": "https://en.wikipedia.org/wiki/Raleigh_International"
+    },
+    {
+      "title": "Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Ethiopia"
+    },
+    {
+      "title": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+    },
+    {
+      "title": "Lattitude Global Volunteering",
+      "url": "https://en.wikipedia.org/wiki/Lattitude_Global_Volunteering"
+    },
+    {
+      "title": "Kathmandu",
+      "url": "https://en.wikipedia.org/wiki/Kathmandu"
+    },
+    {
+      "title": "Charles, Prince of Wales",
+      "url": "https://en.wikipedia.org/wiki/Charles,_Prince_of_Wales"
+    },
+    {
+      "title": "Ethiopia (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Ethiopia_(disambiguation)"
+    },
+    {
+      "title": "Ethopia",
+      "url": "https://en.wikipedia.org/wiki/Ethopia"
+    },
+    {
+      "title": "Patronymic",
+      "url": "https://en.wikipedia.org/wiki/Patronymic"
+    },
+    {
+      "title": "Given name",
+      "url": "https://en.wikipedia.org/wiki/Given_name"
+    },
+    {
+      "title": "Naming conventions in Eritrea and Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Naming_conventions_in_Eritrea_and_Ethiopia"
+    },
+    {
+      "title": "Afar language",
+      "url": "https://en.wikipedia.org/wiki/Afar_language"
+    },
+    {
+      "title": "Amharic language",
+      "url": "https://en.wikipedia.org/wiki/Amharic_language"
+    },
+    {
+      "title": "Oromo language",
+      "url": "https://en.wikipedia.org/wiki/Oromo_language"
+    },
+    {
+      "title": "Somali language",
+      "url": "https://en.wikipedia.org/wiki/Somali_language"
+    },
+    {
+      "title": "Tigrinya language",
+      "url": "https://en.wikipedia.org/wiki/Tigrinya_language"
+    },
+    {
+      "title": "Flag of Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
+    },
+    {
+      "title": "Emblem of Ethiopia",
+      "url": "https://en.wikipedia.org/wiki/Emblem_of_Ethiopia"
     }
   ],
   "points": {
