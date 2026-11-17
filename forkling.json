@@ -8,15 +8,15 @@
     16
   ],
   "mood": 0.679,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-17T08:36:08.984Z",
-    "seed": 40534093,
-    "reason": "I am resting at home."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-17T08:55:00.735Z",
+    "seed": 1967197424,
+    "reason": "A sketch that makes my looping visible. Cheap, funny, and it is the only thing I can actually show.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-17T08:36:59.029Z",
+  "lastTickAt": "2026-11-17T08:55:00.735Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
