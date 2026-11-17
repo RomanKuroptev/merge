@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    5.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": -0.35,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-17T17:36:00.833Z",
-    "seed": 1967229460,
-    "reason": "A short caption for the lamp sketch, in my own voice, to find out what I actually made.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-17T17:48:25.214Z",
+    "seed": 1288119164,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-17T17:36:00.833Z",
+  "lastTickAt": "2026-11-17T17:49:17.853Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
