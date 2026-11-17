@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-17T18:32:53.237Z",
+  "updatedAt": "2026-11-17T18:47:03.560Z",
   "engine": "v0.15.0",
   "date": "2026-11-17",
   "lastTick": {
-    "at": "2026-11-17T18:32:53.237Z",
+    "at": "2026-11-17T18:47:03.560Z",
     "asleep": false,
-    "summary": "thought about replan, step 1/3: tinker, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,24 +24,24 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1192,
-    "decideCalls": 15,
+    "ticks": 1207,
+    "decideCalls": 16,
     "callsByKind": {
-      "thought": 170,
+      "thought": 177,
       "morning": 2,
-      "decide": 13,
+      "decide": 14,
       "read": 20,
-      "reflection": 1,
+      "reflection": 2,
       "art": 6,
       "sketch": 4,
       "tend": 2
     },
     "spendByKind": {
-      "thought": 0.021044249999999987,
+      "thought": 0.02187118999999998,
       "morning": 0.0031728349999999997,
-      "decide": 0.017106435,
+      "decide": 0.017748725,
       "read": 0.012039250000000001,
-      "reflection": 0.0232905,
+      "reflection": 0.047741,
       "art": 0.00262405,
       "sketch": 0.09318199999999999,
       "tend": 0.00231365
@@ -52,7 +50,7 @@
       "newDay": 1,
       "replan": 7,
       "stepDone": 19,
-      "reflected": 1,
+      "reflected": 2,
       "sparked": 1
     },
     "failures": 0,
@@ -100,11 +98,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 235
+    "minutes": 249
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.42530538,
+    "monthUsd": 1.45122511,
     "capUsd": 12.6,
     "paceUsd": 7.14
   },
@@ -149,6 +147,7 @@
     }
   },
   "warnings": [
+    "16 decide calls today (more than 15)",
     "3 plans turned down today"
   ]
 }
