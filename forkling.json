@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    24,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-17T15:31:00.481Z",
-    "seed": 1967221152,
-    "reason": "Put the doorway sketch on the workshop wall and check its label is under 120 characters.",
-    "goalRef": "today:4"
+    "targetId": "workshop",
+    "startedAt": "2026-11-17T15:44:05.328Z",
+    "seed": 1128958880,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-17T15:31:00.481Z",
+  "lastTickAt": "2026-11-17T15:45:18.558Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
