@@ -2,78 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 12.6,
-  "spentUsd": 1.45122511,
+  "spentUsd": 1.45202325,
   "calls": [
-    {
-      "at": "2026-11-16T09:46:30.561Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 420,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009942000000000001
-    },
-    {
-      "at": "2026-11-16T09:51:37.227Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 416,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009902000000000001
-    },
-    {
-      "at": "2026-11-16T09:56:46.969Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 412,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009862
-    },
-    {
-      "at": "2026-11-16T10:01:54.320Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 408,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009822
-    },
-    {
-      "at": "2026-11-16T10:06:59.906Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 404,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009782000000000001
-    },
-    {
-      "at": "2026-11-16T10:12:08.633Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 499,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 86,
-      "usd": 0.00011932
-    },
-    {
-      "at": "2026-11-16T10:17:14.586Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 394,
-      "cacheRead": 2642,
-      "cacheWrite": 0,
-      "output": 62,
-      "usd": 0.00009682000000000001
-    },
     {
       "at": "2026-11-16T10:22:19.822Z",
       "kind": "thought",
@@ -5003,16 +4933,86 @@
       "cacheWrite": 0,
       "output": 65,
       "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:49:09.160Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:51:12.357Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:53:15.181Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:55:18.111Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:57:21.329Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T18:59:24.308Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
+    },
+    {
+      "at": "2026-11-17T19:01:28.386Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 511,
+      "cacheRead": 3042,
+      "cacheWrite": 0,
+      "output": 65,
+      "usd": 0.00011402000000000001
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 1294,
-      "input": 555103,
-      "cacheRead": 3282261,
+      "calls": 1301,
+      "input": 558680,
+      "cacheRead": 3303555,
       "cacheWrite": 36801,
-      "output": 87361,
-      "usd": 0.13661355
+      "output": 87816,
+      "usd": 0.13741169
     },
     "bedtime": {
       "calls": 4,
