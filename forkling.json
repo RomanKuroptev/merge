@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": -0.55,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-17T19:57:58.316Z",
-    "seed": 1967237970,
-    "reason": "Put the stand-still game on a shelf at home, with a label under 120 characters.",
-    "goalRef": "today:2"
+    "targetId": "home",
+    "startedAt": "2026-11-17T20:10:31.750Z",
+    "seed": 76092041,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-17T19:57:58.316Z",
+  "lastTickAt": "2026-11-17T20:11:34.538Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
