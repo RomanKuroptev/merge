@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    7.3,
     0,
-    16
+    21.5
   ],
   "mood": 0.9,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-18T08:46:50.218Z",
-    "seed": 719261384,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-18T09:04:53.577Z",
+    "seed": 1967157409,
+    "reason": "I have been circling lidar and shading, so I will step onto a neighbouring topic, interactive art, and make something small instead of rereading.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-18T08:47:12.011Z",
+  "lastTickAt": "2026-11-18T09:04:53.577Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

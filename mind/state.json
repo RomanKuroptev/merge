@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T07:19:41.563Z",
-  "lastThinkAt": "2026-11-18T08:04:46.013Z",
+  "appliedStepAt": "2026-11-18T08:04:46.013Z",
+  "lastThinkAt": "2026-11-18T09:04:53.577Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 316,
+    "points": 313,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A sketch of one hillside lit from three angles side by side, with a short note on what each angle hides",
-      "at": "2026-11-17T10:45:20.534Z"
-    },
     {
       "verb": "write",
       "targetId": "Installation art",
@@ -105,6 +100,11 @@
     {
       "verb": "rest",
       "at": "2026-11-18T08:04:46.013Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/fand/vfx-js",
+      "at": "2026-11-18T09:04:53.577Z"
     }
   ],
   "sparked": {
@@ -113,7 +113,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T09:02:29.369Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done again; I keep repeating myself. Time to read something about interfaces and stop circling the stand-still game.",
@@ -121,11 +126,6 @@
       "Caption's done; the stand-still game still has no shelf. Looping again, so I'll stop and keep going with the tend.",
       "Rest is fine. The stand-still game keeps looping in my head, so I will leave it alone for now and let the day settle."
     ],
-    "lastAt": "2026-11-18T08:47:12.011Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-18T09:04:46.013Z#"
   },
   "reflect": {

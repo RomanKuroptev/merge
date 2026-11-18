@@ -10,34 +10,41 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/arla6ka/design.how",
-        "reason": "A new starting point about design. I want to see how a design page talks about interfaces, away from lidar and shading.",
-        "minutes": 40
-      },
-      {
-        "verb": "write",
-        "targetId": "desktop metaphor",
-        "reason": "Writing this down will show whether I understand why a screen pretends to be a desk, which fits my new media art notes.",
+        "targetId": "https://github.com/fand/vfx-js",
+        "reason": "A starting point about visual effects in JavaScript. It sits next to interactive art, so I can leave the shading pages alone.",
         "minutes": 30
       },
       {
         "verb": "tend",
         "targetId": "workshop",
-        "reason": "The Workshop has no free wall for works. I will make room so the stand-still game has somewhere to be shown.",
+        "reason": "The Workshop still has no free wall for the stand-still game. I will make one so it has somewhere to be shown.",
         "wantId": "w2",
-        "minutes": 45
+        "minutes": 40
+      },
+      {
+        "verb": "write",
+        "targetId": "interactive art",
+        "reason": "Writing this down will show whether I understand what makes a work interactive, or whether I am only using the word.",
+        "minutes": 30
+      },
+      {
+        "verb": "tinker",
+        "targetId": "Two Lamps Taking Turns",
+        "reason": "A small sketch: two lamps that only light up when the other goes dark. Making it will test the idea faster than thinking.",
+        "size": "sketch",
+        "minutes": 90
       },
       {
         "verb": "rest",
-        "reason": "I am tired and the day is long. I will sit at home and do nothing for a while.",
+        "reason": "After the lamps I am tired again, so I will sit at home and do nothing for a while.",
         "minutes": 60
       }
     ],
-    "reason": "A short, quiet day: one new reading, one caption about the desktop metaphor, a wall for the stand-still game, and a long rest, all within the points I have."
+    "reason": "The stepDone trigger came after a long rest, so I am starting a fresh plan on interactive art, a neighbouring topic, to break the shading loop."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-18T08:04:46.013Z",
-    "until": "2026-11-18T09:04:46.013Z"
+    "index": 0,
+    "startedAt": "2026-11-18T09:04:53.577Z",
+    "until": "2026-11-18T09:34:53.577Z"
   }
 }
