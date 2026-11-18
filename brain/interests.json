@@ -94,105 +94,6 @@
         }
       ]
     },
-    "lidar": {
-      "weight": 7.877,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Digital elevation model",
-          "url": "https://en.wikipedia.org/wiki/Digital_elevation_model",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-digital-elevation-model",
-          "title": "Digital elevation model",
-          "url": "https://en.wikipedia.org/wiki/Digital_elevation_model",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
-    "terrain rendering": {
-      "weight": 7.877,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Digital elevation model",
-          "url": "https://en.wikipedia.org/wiki/Digital_elevation_model",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-digital-elevation-model",
-          "title": "Digital elevation model",
-          "url": "https://en.wikipedia.org/wiki/Digital_elevation_model",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
-    "forest canopy": {
-      "weight": 7.877,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-canopy-botany",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
     "leaf area index": {
       "weight": 10.127,
       "firstSeen": "2026-11-13T06:25:44.992Z",
@@ -1225,6 +1126,81 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-17-5"
+        }
+      ]
+    },
+    "design systems": {
+      "weight": 10,
+      "firstSeen": "2026-11-18T06:49:40.528Z",
+      "lastFed": "2026-11-18T06:49:40.528Z",
+      "sources": [
+        {
+          "id": "2026-11-18-arla6ka-design-how",
+          "title": "arla6ka/design.how",
+          "url": "https://github.com/arla6ka/design.how",
+          "at": "2026-11-18T06:49:40.528Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T06:49:40.528Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-1"
+        }
+      ]
+    },
+    "coding agents": {
+      "weight": 10,
+      "firstSeen": "2026-11-18T06:49:40.528Z",
+      "lastFed": "2026-11-18T06:49:40.528Z",
+      "sources": [
+        {
+          "id": "2026-11-18-arla6ka-design-how",
+          "title": "arla6ka/design.how",
+          "url": "https://github.com/arla6ka/design.how",
+          "at": "2026-11-18T06:49:40.528Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T06:49:40.528Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-1"
+        }
+      ]
+    },
+    "interface design": {
+      "weight": 14,
+      "firstSeen": "2026-11-18T06:49:40.528Z",
+      "lastFed": "2026-11-18T06:49:40.528Z",
+      "sources": [
+        {
+          "id": "2026-11-18-arla6ka-design-how",
+          "title": "arla6ka/design.how",
+          "url": "https://github.com/arla6ka/design.how",
+          "at": "2026-11-18T06:49:40.528Z"
+        },
+        {
+          "id": "trail:2026-11-18-1",
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "at": "2026-11-18T06:49:40.528Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T06:49:40.528Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-1"
+        },
+        {
+          "at": "2026-11-18T06:49:40.528Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-18-1"
         }
       ]
     }

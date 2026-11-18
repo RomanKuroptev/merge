@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    7.53,
     0,
-    12.8
+    15.4
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 0.9,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T06:34:03.090Z",
-    "seed": 1636663249,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-18T06:49:40.528Z",
+    "seed": 1967149072,
+    "reason": "Writing this down will show whether I understand why a screen pretends to be a desk, which fits my new media art notes.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-18T06:34:51.963Z",
+  "lastTickAt": "2026-11-18T06:49:40.528Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

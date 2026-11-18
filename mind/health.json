@@ -1,54 +1,60 @@
 {
-  "updatedAt": "2026-11-18T06:38:59.134Z",
+  "updatedAt": "2026-11-18T06:49:40.528Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T06:38:59.134Z",
+    "at": "2026-11-18T06:49:40.528Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: write, wandered from https://github.com/arla6ka/design.how",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-18:e78a6ddb",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/arla6ka/design.how",
-      "until": "2026-11-18T06:49:30.406Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "desktop metaphor",
+      "until": "2026-11-18T07:19:40.528Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T06:09:30.406Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 454,
+    "ticks": 465,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 2,
-      "thought": 1
+      "thought": 1,
+      "read": 3
     },
     "spendByKind": {
       "morning": 0.00343896,
-      "thought": 0.00046672500000000003
+      "thought": 0.00046672500000000003,
+      "read": 0.0019829500000000003
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://github.com/arla6ka/design.how": 1
+      "wander https://github.com/arla6ka/design.how": 1,
+      "write desktop metaphor": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 4,
       "max": 40
     }
   },
@@ -56,20 +62,20 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 1
+      "share": 0.885
     }
   },
   "allowance": {
-    "points": 319,
+    "points": 318,
     "max": 450
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 29
+    "minutes": 40
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.51205563,
+    "monthUsd": 1.51403858,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
@@ -91,14 +97,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 8,
-      "strangers": 2,
-      "share": 0.25,
+      "trips": 9,
+      "strangers": 3,
+      "share": 0.3333333333333333,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 1,
+      "share": 0.885,
       "wouldFire": true
     },
     "draws": {

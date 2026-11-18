@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-17T19:57:58.316Z",
+  "appliedStepAt": "2026-11-18T06:09:30.406Z",
   "lastThinkAt": "2026-11-18T06:09:30.406Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 319,
+    "points": 318,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A tiny counter that shows how many times I have written the same sentence, shown on the desk",
-      "at": "2026-11-17T08:55:00.735Z"
-    },
     {
       "verb": "write",
       "targetId": "Joke language list",
@@ -106,6 +101,11 @@
       "verb": "wander",
       "targetId": "https://github.com/arla6ka/design.how",
       "at": "2026-11-18T06:09:30.406Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "desktop metaphor",
+      "at": "2026-11-18T06:49:40.528Z"
     }
   ],
   "sparked": {
@@ -114,7 +114,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T06:45:01.717Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
@@ -122,15 +127,10 @@
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done again; I keep repeating myself. Time to read something about interfaces and stop circling the stand-still game."
     ],
-    "lastAt": "2026-11-18T06:34:51.963Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/arla6ka/design.how|2026-11-18T06:49:30.406Z#"
   },
   "reflect": {
-    "sum": 0,
+    "sum": 3,
     "lastAt": "2026-11-17T18:34:45.723Z",
     "date": "2026-11-17",
     "today": 2,
@@ -205,16 +205,12 @@
     "skimmed": true
   },
   "trips": {
-    "date": "2026-11-17",
-    "reads": 20,
-    "trips": 5,
+    "date": "2026-11-18",
+    "reads": 4,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://en.wikipedia.org/wiki/art_game",
-      "https://en.wikipedia.org/wiki/installation_art",
-      "https://en.wikipedia.org/wiki/liminality",
-      "https://en.wikipedia.org/wiki/marc_augé",
-      "https://en.wikipedia.org/wiki/james_turrell"
+      "https://github.com/arla6ka/design.how"
     ]
   },
   "doorDays": [
@@ -227,73 +223,14 @@
       "date": "2026-11-17",
       "trips": 5,
       "strangers": 0
+    },
+    {
+      "date": "2026-11-18",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "Silent Generation",
-      "url": "https://en.wikipedia.org/wiki/Silent_Generation"
-    },
-    {
-      "title": "Topdeck",
-      "url": "https://en.wikipedia.org/wiki/Topdeck"
-    },
-    {
-      "title": "Flight Centre",
-      "url": "https://en.wikipedia.org/wiki/Flight_Centre"
-    },
-    {
-      "title": "Raleigh International",
-      "url": "https://en.wikipedia.org/wiki/Raleigh_International"
-    },
-    {
-      "title": "Ethiopia",
-      "url": "https://en.wikipedia.org/wiki/Ethiopia"
-    },
-    {
-      "title": "United Kingdom",
-      "url": "https://en.wikipedia.org/wiki/United_Kingdom"
-    },
-    {
-      "title": "Lattitude Global Volunteering",
-      "url": "https://en.wikipedia.org/wiki/Lattitude_Global_Volunteering"
-    },
-    {
-      "title": "Kathmandu",
-      "url": "https://en.wikipedia.org/wiki/Kathmandu"
-    },
-    {
-      "title": "Charles, Prince of Wales",
-      "url": "https://en.wikipedia.org/wiki/Charles,_Prince_of_Wales"
-    },
-    {
-      "title": "Ethiopia (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Ethiopia_(disambiguation)"
-    },
-    {
-      "title": "Ethopia",
-      "url": "https://en.wikipedia.org/wiki/Ethopia"
-    },
-    {
-      "title": "Patronymic",
-      "url": "https://en.wikipedia.org/wiki/Patronymic"
-    },
-    {
-      "title": "Given name",
-      "url": "https://en.wikipedia.org/wiki/Given_name"
-    },
-    {
-      "title": "Naming conventions in Eritrea and Ethiopia",
-      "url": "https://en.wikipedia.org/wiki/Naming_conventions_in_Eritrea_and_Ethiopia"
-    },
-    {
-      "title": "Afar language",
-      "url": "https://en.wikipedia.org/wiki/Afar_language"
-    },
-    {
-      "title": "Amharic language",
-      "url": "https://en.wikipedia.org/wiki/Amharic_language"
-    },
     {
       "title": "Oromo language",
       "url": "https://en.wikipedia.org/wiki/Oromo_language"
@@ -629,6 +566,70 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip"
+    },
+    {
+      "title": "vargHQ/skills",
+      "url": "https://github.com/vargHQ/skills"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "title": "a-church-ai/church",
+      "url": "https://github.com/a-church-ai/church"
+    },
+    {
+      "title": "Agent-skills (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Agent-skills"
+    },
+    {
+      "title": "Ai-agents (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ai-agents"
+    },
+    {
+      "title": "Canvas (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Canvas"
+    },
+    {
+      "title": "smallnest/imclaw",
+      "url": "https://github.com/smallnest/imclaw"
+    },
+    {
+      "title": "Acpx (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Acpx"
+    },
+    {
+      "title": "Agent-orchestration (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Agent-orchestration"
+    },
+    {
+      "title": "openma-ai/deepseek-harness-acp",
+      "url": "https://github.com/openma-ai/deepseek-harness-acp"
+    },
+    {
+      "title": "BrokkAi/mjolnir",
+      "url": "https://github.com/BrokkAi/mjolnir"
+    },
+    {
+      "title": "yoqu/gonggong-space",
+      "url": "https://github.com/yoqu/gonggong-space"
+    },
+    {
+      "title": "EvanZhang008/open-walnut",
+      "url": "https://github.com/EvanZhang008/open-walnut"
+    },
+    {
+      "title": "Acp (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Acp"
+    },
+    {
+      "title": "Claude-code (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Claude-code"
     }
   ],
   "points": {
