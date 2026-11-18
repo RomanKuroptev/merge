@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": -0.1,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-18T15:07:26.528Z",
-    "seed": 1967171002,
-    "reason": "Look inside the Workshop first, then tend it so the stand-still game has a free wall to be shown on.",
-    "goalRef": "today:3"
+    "targetId": "home",
+    "startedAt": "2026-11-18T15:18:48.069Z",
+    "seed": 1535389837,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-18T15:07:26.528Z",
+  "lastTickAt": "2026-11-18T15:20:15.358Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
