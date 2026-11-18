@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T15:47:30.125Z",
+  "appliedStepAt": "2026-11-18T17:47:41.856Z",
   "lastThinkAt": "2026-11-18T17:47:41.856Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 201,
+    "points": 200,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "A lamp that dims only when nobody is in the room",
-      "at": "2026-11-17T17:36:00.833Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -104,6 +99,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
       "at": "2026-11-18T17:47:41.856Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "video games as art",
+      "at": "2026-11-18T18:17:44.439Z"
     }
   ],
   "sparked": {
@@ -112,7 +112,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T18:16:20.968Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing generative art down to see if I really get it, not just like the word. Keeping it plain.",
       "Tending the Workshop lamps for a sketch; the stand-still wall can wait until this settles.",
@@ -120,11 +125,6 @@
       "Lidar under trees is the next thing to chase; the generative art page can wait its turn.",
       "Reading about creative coding to break the shading loop. Keeping it plain, then a sketch."
     ],
-    "lastAt": "2026-11-18T18:01:59.136Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/Creativecoding|2026-11-18T18:17:41.856Z#"
   },
   "reflect": {
@@ -204,13 +204,14 @@
   },
   "trips": {
     "date": "2026-11-18",
-    "reads": 10,
-    "trips": 3,
+    "reads": 11,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://github.com/arla6ka/design.how",
       "https://github.com/fand/vfx-js",
-      "https://github.com/jdxyw/generativeart"
+      "https://github.com/jdxyw/generativeart",
+      "https://en.wikipedia.org/wiki/creativecoding"
     ]
   },
   "doorDays": [
@@ -226,8 +227,8 @@
     },
     {
       "date": "2026-11-18",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [

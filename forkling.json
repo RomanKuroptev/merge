@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T18:01:32.533Z",
-    "seed": 1873571108,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-18T18:17:44.439Z",
+    "seed": 1967190364,
+    "reason": "Writing about games as art will show whether I understand it or only like the phrase.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-18T18:01:59.136Z",
+  "lastTickAt": "2026-11-18T18:17:44.439Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
