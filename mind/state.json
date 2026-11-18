@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T13:17:10.788Z",
-  "lastThinkAt": "2026-11-18T13:17:10.788Z",
+  "appliedStepAt": "2026-11-18T13:47:12.433Z",
+  "lastThinkAt": "2026-11-18T14:47:22.076Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 207,
+    "points": 206,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "A doorway in a blank room that only opens when you stop walking",
-      "at": "2026-11-17T15:05:58.004Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -105,6 +100,11 @@
       "verb": "tinker",
       "targetId": "A Door That Opens Only When Someone Is Watching It",
       "at": "2026-11-18T13:47:12.433Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "generative art",
+      "at": "2026-11-18T14:47:22.076Z"
     }
   ],
   "sparked": {
@@ -113,7 +113,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T14:44:37.125Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing about interactive art to test whether I understand it. The stand-still game keeps looping; I'll let the caption be the anchor.",
       "Two lamps taking turns: the sketch is underway. Keeping it small, then back to the stand-still game.",
@@ -121,11 +126,6 @@
       "The generative art page is a clean break from shading. Keep reading it; the stand-still wall can wait.",
       "Building the door that opens only when watched. The sketch is underway; the stand-still wall can wait until it's done."
     ],
-    "lastAt": "2026-11-18T14:29:21.259Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|A Door That Opens Only When Someone Is Watching It|2026-11-18T14:47:12.433Z#"
   },
   "reflect": {
@@ -176,7 +176,7 @@
   ],
   "sketches": {
     "date": "2026-11-18",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-18",
   "lastRewriteDate": "2026-11-17",
