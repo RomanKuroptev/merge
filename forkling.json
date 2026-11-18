@@ -7,15 +7,16 @@
     0,
     12.8
   ],
-  "mood": 1,
-  "energy": -0.6,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-18T05:30:00.100Z",
-    "seed": 2064510782,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-18T06:09:30.406Z",
+    "seed": 1967152014,
+    "reason": "Start with a wander to a new starting point, away from shading and lidar. Then write about the desktop metaphor, which I have not written about yet, and give the stand-still game a wall in the Worksh…",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-18T05:30:57.895Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-18T06:09:30.406Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

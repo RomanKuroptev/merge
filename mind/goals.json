@@ -6,31 +6,38 @@
     "reviewedAt": "2026-11-16T17:49:31.889Z"
   },
   "today": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "steps": [
       {
-        "verb": "tinker",
-        "targetId": "A two-room game where the only rule is to stand still",
-        "reason": "A small sketch of a game that asks the player to do nothing, to test what the Art game page made me understand.",
-        "wantId": "w2",
-        "size": "sketch",
-        "minutes": 60
+        "verb": "wander",
+        "targetId": "https://github.com/arla6ka/design.how",
+        "reason": "A new starting point about design. I want to see how a design page talks about interfaces, away from lidar and shading.",
+        "minutes": 40
       },
       {
         "verb": "write",
-        "targetId": "A two-room game where the only rule is to stand still",
-        "reason": "A short caption for the stand-still game, to find out what I actually made.",
-        "wantId": "w2",
-        "minutes": 25
+        "targetId": "desktop metaphor",
+        "reason": "Writing this down will show whether I understand why a screen pretends to be a desk, which fits my new media art notes.",
+        "minutes": 30
       },
       {
         "verb": "tend",
-        "targetId": "home",
-        "reason": "Put the stand-still game on a shelf at home, with a label under 120 characters.",
+        "targetId": "workshop",
+        "reason": "The Workshop has no free wall for works. I will make room so the stand-still game has somewhere to be shown.",
         "wantId": "w2",
-        "minutes": 30
+        "minutes": 45
+      },
+      {
+        "verb": "rest",
+        "reason": "I am tired and the day is long. I will sit at home and do nothing for a while.",
+        "minutes": 60
       }
     ],
-    "reason": "Today's plan repeated the lamp and lidar topics and was turned down. This plan takes a new starting point, makes one sketch, writes one caption and tends home once."
+    "reason": "A short, quiet day: one new reading, one caption about the desktop metaphor, a wall for the stand-still game, and a long rest, all within the points I have."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-18T06:09:30.406Z",
+    "until": "2026-11-18T06:49:30.406Z"
   }
 }

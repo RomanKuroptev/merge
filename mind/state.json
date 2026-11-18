@@ -1,18 +1,13 @@
 {
-  "lastPlanDate": "2026-11-17",
+  "lastPlanDate": "2026-11-18",
   "appliedStepAt": "2026-11-17T19:57:58.316Z",
-  "lastThinkAt": "2026-11-17T20:28:02.843Z",
-  "replanAfter": "2026-11-17T21:28:02.843Z",
+  "lastThinkAt": "2026-11-18T06:09:30.406Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 172,
-    "day": "2026-11-17"
+    "points": 319,
+    "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-17T08:24:51.094Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A tiny counter that shows how many times I have written the same sentence, shown on the desk",
@@ -106,6 +101,11 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-17T19:57:58.316Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/arla6ka/design.how",
+      "at": "2026-11-18T06:09:30.406Z"
     }
   ],
   "sparked": {
@@ -114,12 +114,7 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-17T22:08:17.153Z",
     "failures": 0,
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "recent": [
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
@@ -127,6 +122,11 @@
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke."
     ],
+    "lastAt": "2026-11-18T06:09:30.406Z",
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "lastInput": "no step#"
   },
   "reflect": {
@@ -147,15 +147,15 @@
   },
   "wakeTop": [
     {
-      "date": "2026-11-15",
-      "topics": {}
-    },
-    {
       "date": "2026-11-16",
       "topics": {}
     },
     {
       "date": "2026-11-17",
+      "topics": {}
+    },
+    {
+      "date": "2026-11-18",
       "topics": {}
     }
   ],
@@ -169,7 +169,7 @@
     "date": "2026-11-17",
     "count": 5
   },
-  "interestsFadedOn": "2026-11-17",
+  "interestsFadedOn": "2026-11-18",
   "lastRewriteDate": "2026-11-17",
   "pageChangedOn": "2026-11-17",
   "notesWaiting": [],
@@ -182,6 +182,10 @@
     {
       "date": "2026-11-17",
       "mood": 0.474
+    },
+    {
+      "date": "2026-11-18",
+      "mood": 1
     }
   ],
   "sleepRewrite": null,
@@ -216,86 +220,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "Atom",
-      "url": "https://en.wikipedia.org/wiki/Atom"
-    },
-    {
-      "title": "Crystal structure",
-      "url": "https://en.wikipedia.org/wiki/Crystal_structure"
-    },
-    {
-      "title": "Atomic nucleus",
-      "url": "https://en.wikipedia.org/wiki/Atomic_nucleus"
-    },
-    {
-      "title": "Crystal lattice",
-      "url": "https://en.wikipedia.org/wiki/Crystal_lattice"
-    },
-    {
-      "title": "Electric charge",
-      "url": "https://en.wikipedia.org/wiki/Electric_charge"
-    },
-    {
-      "title": "Liminality (album)",
-      "url": "https://en.wikipedia.org/wiki/Liminality_(album)"
-    },
-    {
-      "title": "Malawi",
-      "url": "https://en.wikipedia.org/wiki/Malawi"
-    },
-    {
-      "title": "Anthropology",
-      "url": "https://en.wikipedia.org/wiki/Anthropology"
-    },
-    {
-      "title": "Latin language",
-      "url": "https://en.wikipedia.org/wiki/Latin_language"
-    },
-    {
-      "title": "Ambiguity",
-      "url": "https://en.wikipedia.org/wiki/Ambiguity"
-    },
-    {
-      "title": "Disorientation",
-      "url": "https://en.wikipedia.org/wiki/Disorientation"
-    },
-    {
-      "title": "Rite of passage",
-      "url": "https://en.wikipedia.org/wiki/Rite_of_passage"
-    },
-    {
-      "title": "Arnold van Gennep",
-      "url": "https://en.wikipedia.org/wiki/Arnold_van_Gennep"
-    },
-    {
-      "title": "Victor Turner",
-      "url": "https://en.wikipedia.org/wiki/Victor_Turner"
-    },
-    {
-      "title": "Social hierarchies",
-      "url": "https://en.wikipedia.org/wiki/Social_hierarchies"
-    },
-    {
-      "title": "Tradition",
-      "url": "https://en.wikipedia.org/wiki/Tradition"
-    },
-    {
-      "title": "Post-industrial society",
-      "url": "https://en.wikipedia.org/wiki/Post-industrial_society"
-    },
-    {
-      "title": "Gap Year (TV series)",
-      "url": "https://en.wikipedia.org/wiki/Gap_Year_(TV_series)"
-    },
-    {
-      "title": "Internship",
-      "url": "https://en.wikipedia.org/wiki/Internship"
-    },
-    {
-      "title": "Baby boomers",
-      "url": "https://en.wikipedia.org/wiki/Baby_boomers"
-    },
     {
       "title": "Silent Generation",
       "url": "https://en.wikipedia.org/wiki/Silent_Generation"
@@ -615,99 +539,104 @@
     {
       "title": "Naked-eye stars",
       "url": "https://en.wikipedia.org/wiki/Naked-eye_stars"
+    },
+    {
+      "title": "W. S. Gilbert",
+      "url": "https://en.wikipedia.org/wiki/W._S._Gilbert"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "arla6ka/design.how",
+      "url": "https://github.com/arla6ka/design.how"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia"
+    },
+    {
+      "title": "Joke language list",
+      "url": "https://esolangs.org/wiki/Joke_language_list"
+    },
+    {
+      "title": "MrityunjayBhardwaj/Stave",
+      "url": "https://github.com/MrityunjayBhardwaj/Stave"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Marcelle Bunlet",
+      "url": "https://en.wikipedia.org/wiki/Marcelle_Bunlet"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "jdxyw/generativeart",
+      "url": "https://github.com/jdxyw/generativeart"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "November 18",
+      "url": "https://en.wikipedia.org/wiki/November_18"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "fand/vfx-js",
+      "url": "https://github.com/fand/vfx-js"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "list": [
       {
-        "title": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Wikipedia",
-        "door": false
-      },
-      {
-        "title": "Free content",
-        "url": "https://en.wikipedia.org/wiki/Free_content",
-        "door": false
-      },
-      {
-        "title": "English language",
-        "url": "https://en.wikipedia.org/wiki/English_language",
-        "door": false
-      },
-      {
-        "title": "Dividing the Light",
-        "url": "https://en.wikipedia.org/wiki/Dividing_the_Light",
-        "door": false
-      },
-      {
-        "title": "Islands: Non-Places",
-        "url": "https://en.wikipedia.org/wiki/Islands:_Non-Places",
+        "title": "W. S. Gilbert",
+        "url": "https://en.wikipedia.org/wiki/W._S._Gilbert",
         "door": true
-      },
-      {
-        "title": "Art game",
-        "url": "https://en.wikipedia.org/wiki/Art_game",
-        "door": false
-      },
-      {
-        "title": "Liminality",
-        "url": "https://en.wikipedia.org/wiki/Liminality",
-        "door": false
-      },
-      {
-        "title": "Marc Augé",
-        "url": "https://en.wikipedia.org/wiki/Marc_Augé",
-        "door": false
-      },
-      {
-        "title": "Installation art",
-        "url": "https://en.wikipedia.org/wiki/Installation_art",
-        "door": false
-      },
-      {
-        "title": "James Turrell",
-        "url": "https://en.wikipedia.org/wiki/James_Turrell",
-        "door": false
-      },
-      {
-        "title": "Field recording",
-        "url": "https://en.wikipedia.org/wiki/Field_recording",
-        "door": true
-      },
-      {
-        "title": "Chris Watson (musician)",
-        "url": "https://en.wikipedia.org/wiki/Chris_Watson_(musician)",
-        "door": false
       },
       {
         "title": "Esoteric programming language",
         "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-        "door": false
+        "door": true
       },
       {
-        "title": "Joke language list",
-        "url": "https://esolangs.org/wiki/Joke_language_list",
-        "door": false
-      },
-      {
-        "title": "Thue",
-        "url": "https://esolangs.org/wiki/Thue",
-        "door": false
-      },
-      {
-        "title": "Nondeterministic",
-        "url": "https://esolangs.org/wiki/Nondeterministic",
-        "door": false
-      },
-      {
-        "title": "Funciton",
-        "url": "https://esolangs.org/wiki/Funciton",
-        "door": false
-      },
-      {
-        "title": "Brainfuck",
-        "url": "https://esolangs.org/wiki/Brainfuck",
+        "title": "arla6ka/design.how",
+        "url": "https://github.com/arla6ka/design.how",
         "door": false
       },
       {
@@ -716,8 +645,38 @@
         "door": false
       },
       {
+        "title": "Nvidia",
+        "url": "https://en.wikipedia.org/wiki/Nvidia",
+        "door": false
+      },
+      {
+        "title": "Joke language list",
+        "url": "https://esolangs.org/wiki/Joke_language_list",
+        "door": false
+      },
+      {
+        "title": "MrityunjayBhardwaj/Stave",
+        "url": "https://github.com/MrityunjayBhardwaj/Stave",
+        "door": false
+      },
+      {
         "title": "Two Buttons",
         "url": "https://imgflip.com/meme/87743020",
+        "door": false
+      },
+      {
+        "title": "Marcelle Bunlet",
+        "url": "https://en.wikipedia.org/wiki/Marcelle_Bunlet",
+        "door": false
+      },
+      {
+        "title": "Thue",
+        "url": "https://esolangs.org/wiki/Thue",
+        "door": false
+      },
+      {
+        "title": "jdxyw/generativeart",
+        "url": "https://github.com/jdxyw/generativeart",
         "door": false
       },
       {
@@ -726,8 +685,28 @@
         "door": false
       },
       {
+        "title": "November 18",
+        "url": "https://en.wikipedia.org/wiki/November_18",
+        "door": false
+      },
+      {
+        "title": "Nondeterministic",
+        "url": "https://esolangs.org/wiki/Nondeterministic",
+        "door": false
+      },
+      {
+        "title": "fand/vfx-js",
+        "url": "https://github.com/fand/vfx-js",
+        "door": false
+      },
+      {
         "title": "Bernie I Am Once Again Asking For Your Support",
         "url": "https://imgflip.com/meme/222403160",
+        "door": true
+      },
+      {
+        "title": "Funciton",
+        "url": "https://esolangs.org/wiki/Funciton",
         "door": false
       },
       {
@@ -736,9 +715,14 @@
         "door": false
       },
       {
+        "title": "Brainfuck",
+        "url": "https://esolangs.org/wiki/Brainfuck",
+        "door": false
+      },
+      {
         "title": "Always Has Been",
         "url": "https://imgflip.com/meme/252600902",
-        "door": true
+        "door": false
       }
     ]
   },
@@ -814,5 +798,15 @@
         "step 2: you have written about this 21 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
       ]
     }
-  ]
+  ],
+  "wakeFive": {
+    "date": "2026-11-18",
+    "topics": [
+      "interactive art",
+      "installation art",
+      "digital elevation model",
+      "light sensing",
+      "lidar finds of lost maya sites"
+    ]
+  }
 }
