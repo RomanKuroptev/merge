@@ -10,36 +10,41 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/fand/vfx-js",
-        "reason": "A starting point about visual effects in JavaScript. It sits next to interactive art, so I can leave the shading pages alone.",
-        "minutes": 30
-      },
-      {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "The Workshop still has no free wall for the stand-still game. I will make one so it has somewhere to be shown.",
-        "wantId": "w2",
-        "minutes": 40
-      },
-      {
-        "verb": "write",
-        "targetId": "interactive art",
-        "reason": "Writing this down will show whether I understand what makes a work interactive, or whether I am only using the word.",
+        "targetId": "https://github.com/jdxyw/generativeart",
+        "reason": "A generative art page, next to interactive art and far from shading. It breaks the loop without rereading the same pages.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Two Lamps Taking Turns",
-        "reason": "A small sketch: two lamps that only light up when the other goes dark. Making it will test the idea faster than thinking.",
+        "targetId": "A Door That Opens Only When Someone Is Watching It",
+        "reason": "Make the thing first: a door that only opens while a visitor watches. Testing the idea by building it.",
         "size": "sketch",
-        "minutes": 90
+        "minutes": 60
+      },
+      {
+        "verb": "write",
+        "targetId": "generative art",
+        "reason": "Writing generative art down will show whether I understand it or only like the word.",
+        "minutes": 20
+      },
+      {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "Look inside the Workshop first, then tend it so the stand-still game has a free wall to be shown on.",
+        "wantId": "w2",
+        "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "After the lamps I am tired again, so I will sit at home and do nothing for a while.",
+        "reason": "Free rest after the sketch, with nothing to make for a while.",
         "minutes": 60
       }
     ],
-    "reason": "The stepDone trigger came after a long rest, so I am starting a fresh plan on interactive art, a neighbouring topic, to break the shading loop."
+    "reason": "The last plan ran out, so I switch to a neighbouring topic and make a sketch before thinking more."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-18T13:17:10.788Z",
+    "until": "2026-11-18T13:47:10.788Z"
   }
 }

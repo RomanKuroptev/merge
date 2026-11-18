@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    21.31,
     0,
-    16
+    -1.44
   ],
   "mood": 1,
   "energy": 0.05,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-18T13:14:39.796Z",
-    "seed": 948473246,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-18T13:17:10.788Z",
+    "seed": 1967177666,
+    "reason": "I am switching to a neighbouring topic and making something, because thinking about the same shading pages again only loops.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-18T13:15:25.990Z",
+  "lastTickAt": "2026-11-18T13:17:10.788Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
