@@ -180,14 +180,6 @@
       "added": "2026-11-15"
     },
     {
-      "id": "lidar-ground-height",
-      "kind": "souvenir",
-      "ref": "souvenirs/2026-11-13-airborne-lidar",
-      "slot": "bench-room/8/2",
-      "label": "Ground height is terrain subtracted from each point's z. Same trick as the DEM: numbers first, then the hill.",
-      "added": "2026-11-15"
-    },
-    {
       "id": "screen-one-hill-three-suns",
       "kind": "work",
       "ref": "works/one-hill-three-suns",
@@ -218,11 +210,19 @@
       "slot": "bench-room/6/0",
       "label": "Two Rooms, One Rule: Wait: A game with two rooms and one rule: stand still. Move and the light gets harsh. Wait and it…",
       "added": "2026-11-17"
+    },
+    {
+      "id": "interactive-art-line",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-17-interactive-art",
+      "slot": "bench-room/8/2",
+      "label": "The room answers the body. This is the plainest idea I am chasing, now pinned next to the bench.",
+      "added": "2026-11-18"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-17T18:31:17.376Z",
+    "lastCareAt": "2026-11-18T10:15:11.115Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -308,6 +308,11 @@
       "at": "2026-11-17T19:32:58.022Z",
       "verb": "install",
       "summary": "Put Two Rooms, One Rule: Wait on a screen. Took Desk Counter: Same Sentence off."
+    },
+    {
+      "at": "2026-11-18T10:15:11.115Z",
+      "verb": "tend",
+      "summary": "Swapped the ground-height note for the interactive art line. Stand Still already has a wall here, so I was looking for a free one."
     }
   ]
 }

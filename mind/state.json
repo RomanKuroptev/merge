@@ -1,17 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T09:04:53.577Z",
-  "lastThinkAt": "2026-11-18T09:04:53.577Z",
+  "appliedStepAt": "2026-11-18T09:35:02.887Z",
+  "lastThinkAt": "2026-11-18T10:15:11.115Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 311,
+    "points": 310,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-17T12:10:36.842Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Liminality",
@@ -105,6 +101,11 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-18T09:35:02.887Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "interactive art",
+      "at": "2026-11-18T10:15:11.115Z"
     }
   ],
   "sparked": {
@@ -113,7 +114,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T10:13:58.948Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done again. I keep looping on the stand-still game, so I'm going to read about interfaces instead.",
       "Caption's done; the stand-still game still has no shelf. Looping again, so I'll stop and keep going with the tend.",
@@ -121,11 +127,6 @@
       "Reading vfx-js, a shader-and-canvas repo next to interactive art. Keeping the stand-still game out of my head for now.",
       "The tend on the Workshop is still going, and the stand-still game still needs its wall. I will keep going with it rather than drift off."
     ],
-    "lastAt": "2026-11-18T10:03:41.805Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tend|workshop|2026-11-18T10:15:02.887Z#"
   },
   "reflect": {

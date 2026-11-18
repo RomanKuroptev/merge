@@ -1,49 +1,52 @@
 {
-  "updatedAt": "2026-11-18T10:04:43.359Z",
+  "updatedAt": "2026-11-18T10:15:11.115Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T10:04:43.359Z",
+    "at": "2026-11-18T10:15:11.115Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: write, tended Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-18:8990a4c5",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-18T10:15:02.887Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "interactive art",
+      "until": "2026-11-18T10:45:11.115Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T09:04:53.577Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 665,
+    "ticks": 676,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 2,
       "thought": 6,
       "read": 4,
       "art": 1,
-      "decide": 1
+      "decide": 1,
+      "tend": 1
     },
     "spendByKind": {
       "morning": 0.00343896,
       "thought": 0.0029638499999999996,
       "read": 0.0025672000000000004,
       "art": 0.0004655,
-      "tend": 0.00153325,
+      "tend": 0.0029511,
       "decide": 0.0016978
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 5,
+      "stepDone": 6,
       "replan": 1
     },
     "failures": 1,
@@ -55,7 +58,8 @@
       "write desktop metaphor": 1,
       "tend workshop": 2,
       "rest": 1,
-      "wander https://github.com/fand/vfx-js": 1
+      "wander https://github.com/fand/vfx-js": 1,
+      "write interactive art": 1
     },
     "longestGapMinutes": 1
   },
@@ -73,16 +77,16 @@
     }
   },
   "allowance": {
-    "points": 311,
+    "points": 310,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 60
+    "minutes": 70
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.52081653,
+    "monthUsd": 1.52223438,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
