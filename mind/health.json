@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T13:01:02.772Z",
+  "updatedAt": "2026-11-18T13:16:27.312Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T13:01:02.772Z",
+    "at": "2026-11-18T13:16:27.312Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -13,17 +13,12 @@
   "plan": {
     "planId": "2026-11-18:8990a4c5",
     "stepsLeft": 0,
-    "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-18T13:15:22.662Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-18T09:04:53.577Z",
-    "idleMinutes": 0
+    "idleMinutes": 2
   },
   "today": {
-    "ticks": 846,
+    "ticks": 862,
     "decideCalls": 5,
     "callsByKind": {
       "morning": 2,
@@ -47,7 +42,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "replan": 1,
       "reflected": 1
     },
@@ -85,7 +80,7 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 233
+    "minutes": 249
   },
   "needsCritical": {},
   "spend": {
