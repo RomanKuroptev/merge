@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T22:54:43.006Z",
+  "updatedAt": "2026-11-18T23:09:57.302Z",
   "engine": "v0.17.2",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-18T22:54:43.006Z",
+    "at": "2026-11-18T23:09:57.302Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,62 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1452,
-    "decideCalls": 12,
-    "callsByKind": {
-      "morning": 2,
-      "thought": 20,
-      "read": 8,
-      "art": 4,
-      "decide": 10,
-      "tend": 1,
-      "sketch": 3,
-      "reflection": 1,
-      "goalreview": 1,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "morning": 0.00343896,
-      "thought": 0.009914374999999998,
-      "read": 0.005210715,
-      "art": 0.00184805,
-      "tend": 0.0029511,
-      "decide": 0.014847359999999999,
-      "sketch": 0.067239,
-      "reflection": 0.027018,
-      "goalreview": 0.0132275,
-      "sleep": 0.016017
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 18,
-      "replan": 5,
-      "reflected": 1
-    },
-    "failures": 1,
-    "rejections": 2,
+    "ticks": 10,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
+    "failures": 0,
+    "rejections": 0,
     "refusals": 0,
-    "cutOff": 1,
-    "stepsStarted": {
-      "wander https://github.com/arla6ka/design.how": 1,
-      "write desktop metaphor": 1,
-      "tend workshop": 3,
-      "rest": 4,
-      "wander https://github.com/fand/vfx-js": 1,
-      "write interactive art": 1,
-      "tinker Two Lamps Taking Turns": 1,
-      "wander https://github.com/jdxyw/generativeart": 1,
-      "tinker A Door That Opens Only When Someone Is Watching It": 1,
-      "write generative art": 1,
-      "wander https://en.wikipedia.org/wiki/Creativecoding": 1,
-      "write video games as art": 1,
-      "tinker A Lamp That Answers Only the Dark": 1
-    },
-    "longestGapMinutes": 1
+    "cutOff": 0,
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 11,
+      "used": 0,
       "max": 40
     }
   },
@@ -91,13 +50,13 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 457
+    "minutes": 472
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 1.66986207,
     "capUsd": 12.6,
-    "paceUsd": 7.56
+    "paceUsd": 7.98
   },
   "openBuild": null,
   "novelty": {
@@ -139,8 +98,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"tend workshop\" 3 times today",
-    "started \"rest\" 4 times today"
-  ]
+  "warnings": []
 }
