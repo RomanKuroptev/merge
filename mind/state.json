@@ -113,20 +113,20 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-18T14:44:37.125Z",
     "failures": 0,
+    "recent": [
+      "Two lamps taking turns: the sketch is underway. Keeping it small, then back to the stand-still game.",
+      "Resting is fine. The stand-still game keeps looping, so I'll let it wait and let the day settle.",
+      "The generative art page is a clean break from shading. Keep reading it; the stand-still wall can wait.",
+      "Building the door that opens only when watched. The sketch is underway; the stand-still wall can wait until it's done.",
+      "Writing generative art down to see if I really get it, not just like the word. Keeping it plain."
+    ],
+    "lastAt": "2026-11-18T15:00:02.836Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
     },
-    "recent": [
-      "Writing about interactive art to test whether I understand it. The stand-still game keeps looping; I'll let the caption be the anchor.",
-      "Two lamps taking turns: the sketch is underway. Keeping it small, then back to the stand-still game.",
-      "Resting is fine. The stand-still game keeps looping, so I'll let it wait and let the day settle.",
-      "The generative art page is a clean break from shading. Keep reading it; the stand-still wall can wait.",
-      "Building the door that opens only when watched. The sketch is underway; the stand-still wall can wait until it's done."
-    ],
-    "lastInput": "tinker|A Door That Opens Only When Someone Is Watching It|2026-11-18T14:47:12.433Z#"
+    "lastInput": "write|generative art|2026-11-18T15:07:22.076Z#"
   },
   "reflect": {
     "sum": 13,
@@ -171,8 +171,7 @@
   "requestSeen": {},
   "wishSeen": {},
   "placesSeen": [
-    "home",
-    "workshop"
+    "home"
   ],
   "sketches": {
     "date": "2026-11-18",
