@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T16:37:35.688Z",
+  "updatedAt": "2026-11-18T16:52:45.599Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T16:37:35.688Z",
+    "at": "2026-11-18T16:52:45.599Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -13,46 +13,43 @@
   "plan": {
     "planId": "2026-11-18:3ce07e2c",
     "stepsLeft": 0,
-    "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-18T16:47:30.125Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-18T13:17:10.788Z",
-    "idleMinutes": 0
+    "idleMinutes": 6
   },
   "today": {
-    "ticks": 1069,
-    "decideCalls": 6,
+    "ticks": 1085,
+    "decideCalls": 8,
     "callsByKind": {
       "morning": 2,
-      "thought": 14,
+      "thought": 15,
       "read": 8,
       "art": 3,
-      "decide": 4,
+      "decide": 6,
       "tend": 1,
       "sketch": 2,
-      "reflection": 1
+      "reflection": 1,
+      "goalreview": 1
     },
     "spendByKind": {
       "morning": 0.00343896,
-      "thought": 0.006975925,
+      "thought": 0.007456925,
       "read": 0.005210715,
       "art": 0.001374675,
       "tend": 0.0029511,
-      "decide": 0.006587539999999999,
+      "decide": 0.009522804999999999,
       "sketch": 0.044886499999999996,
-      "reflection": 0.027018
+      "reflection": 0.027018,
+      "goalreview": 0.0132275
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
-      "replan": 2,
+      "stepDone": 14,
+      "replan": 3,
       "reflected": 1
     },
     "failures": 1,
-    "rejections": 1,
+    "rejections": 2,
     "refusals": 0,
     "cutOff": 1,
     "stepsStarted": {
@@ -88,11 +85,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 89
+    "minutes": 104
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.60659341,
+    "monthUsd": 1.62323718,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
