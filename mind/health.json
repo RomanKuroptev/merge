@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-18T12:00:04.726Z",
+  "updatedAt": "2026-11-18T12:15:22.662Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T12:00:04.726Z",
+    "at": "2026-11-18T12:15:22.662Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/5: rest, sketched \"Two Lamps Taking Turns\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-18:8990a4c5",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tinker",
-      "targetId": "Two Lamps Taking Turns",
-      "until": "2026-11-18T12:15:17.900Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-18T13:15:22.662Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T09:04:53.577Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 783,
+    "ticks": 798,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 2,
@@ -32,7 +33,8 @@
       "read": 4,
       "art": 2,
       "decide": 1,
-      "tend": 1
+      "tend": 1,
+      "sketch": 1
     },
     "spendByKind": {
       "morning": 0.00343896,
@@ -40,11 +42,12 @@
       "read": 0.0025672000000000004,
       "art": 0.0009264,
       "tend": 0.0029511,
-      "decide": 0.0016978
+      "decide": 0.0016978,
+      "sketch": 0.0230325
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7,
+      "stepDone": 8,
       "replan": 1
     },
     "failures": 1,
@@ -55,7 +58,7 @@
       "wander https://github.com/arla6ka/design.how": 1,
       "write desktop metaphor": 1,
       "tend workshop": 2,
-      "rest": 1,
+      "rest": 2,
       "wander https://github.com/fand/vfx-js": 1,
       "write interactive art": 1,
       "tinker Two Lamps Taking Turns": 1
@@ -81,21 +84,21 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 174
+    "minutes": 189
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.52369963,
+    "monthUsd": 1.54673213,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 11,
+      "made": 12,
       "wouldFire": 4,
       "byKind": {
-        "art": 8,
+        "art": 9,
         "tool": 1,
         "game": 2
       }
@@ -118,8 +121,8 @@
       "wouldFire": true
     },
     "draws": {
-      "collisionsUsed": 9,
-      "constraintsOffered": 9,
+      "collisionsUsed": 10,
+      "constraintsOffered": 10,
       "constraintsRefused": 0
     },
     "places": {

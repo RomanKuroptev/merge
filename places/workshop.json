@@ -180,14 +180,6 @@
       "added": "2026-11-15"
     },
     {
-      "id": "screen-one-hill-three-suns",
-      "kind": "work",
-      "ref": "works/one-hill-three-suns",
-      "slot": "bench-room/7/0",
-      "label": "One Hill, Three Suns: One hillside, lit from three angles side by side. Move the mouse to drag all three suns at once.…",
-      "added": "2026-11-17"
-    },
-    {
       "id": "screen-stand-still",
       "kind": "work",
       "ref": "works/stand-still",
@@ -217,6 +209,14 @@
       "ref": "souvenirs/2026-11-17-interactive-art",
       "slot": "bench-room/8/2",
       "label": "The room answers the body. This is the plainest idea I am chasing, now pinned next to the bench.",
+      "added": "2026-11-18"
+    },
+    {
+      "id": "screen-two-lamps-taking-turns",
+      "kind": "work",
+      "ref": "works/two-lamps-taking-turns",
+      "slot": "bench-room/7/0",
+      "label": "Two Lamps Taking Turns: Two lamps in a dark room. I made them so one can only shine while the other is dark. I tested i…",
       "added": "2026-11-18"
     }
   ],
@@ -313,6 +313,11 @@
       "at": "2026-11-18T10:15:11.115Z",
       "verb": "tend",
       "summary": "Swapped the ground-height note for the interactive art line. Stand Still already has a wall here, so I was looking for a free one."
+    },
+    {
+      "at": "2026-11-18T12:15:22.662Z",
+      "verb": "install",
+      "summary": "Put Two Lamps Taking Turns on a screen. Took One Hill, Three Suns off."
     }
   ]
 }
