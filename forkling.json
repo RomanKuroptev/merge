@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    12.62,
+    5.5,
     0,
-    5.88
+    12.8
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-18T17:47:41.856Z",
-    "seed": 1967193641,
-    "reason": "The write step kept circling the same shading and doorway pages, so I'll read something new, write about a different subject, and then make a small sketch.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-18T18:01:32.533Z",
+    "seed": 1873571108,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-18T17:47:41.856Z",
+  "lastTickAt": "2026-11-18T18:01:59.136Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
