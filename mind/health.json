@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-18T15:37:30.681Z",
+  "updatedAt": "2026-11-18T15:51:49.930Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T15:37:30.681Z",
+    "at": "2026-11-18T15:51:49.930Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,23 +12,22 @@
   },
   "plan": {
     "planId": "2026-11-18:3ce07e2c",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-18T15:47:26.528Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-18T16:47:30.125Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T13:17:10.788Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1007,
+    "ticks": 1022,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 2,
-      "thought": 13,
+      "thought": 14,
       "read": 8,
       "art": 3,
       "decide": 4,
@@ -38,7 +37,7 @@
     },
     "spendByKind": {
       "morning": 0.00343896,
-      "thought": 0.006495625,
+      "thought": 0.006975925,
       "read": 0.005210715,
       "art": 0.001374675,
       "tend": 0.0029511,
@@ -48,7 +47,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "replan": 2,
       "reflected": 1
     },
@@ -60,7 +59,7 @@
       "wander https://github.com/arla6ka/design.how": 1,
       "write desktop metaphor": 1,
       "tend workshop": 3,
-      "rest": 2,
+      "rest": 3,
       "wander https://github.com/fand/vfx-js": 1,
       "write interactive art": 1,
       "tinker Two Lamps Taking Turns": 1,
@@ -89,11 +88,11 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 30
+    "minutes": 44
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.60611311,
+    "monthUsd": 1.60659341,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
@@ -138,6 +137,7 @@
     }
   },
   "warnings": [
-    "started \"tend workshop\" 3 times today"
+    "started \"tend workshop\" 3 times today",
+    "started \"rest\" 3 times today"
   ]
 }

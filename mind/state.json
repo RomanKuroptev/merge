@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T14:47:22.076Z",
+  "appliedStepAt": "2026-11-18T15:07:26.528Z",
   "lastThinkAt": "2026-11-18T15:07:26.528Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
@@ -8,11 +8,6 @@
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/James_Turrell",
-      "at": "2026-11-17T16:05:52.583Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A lamp that dims only when nobody is in the room",
@@ -105,6 +100,10 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-18T15:07:26.528Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-18T15:47:30.125Z"
     }
   ],
   "sparked": {
@@ -115,18 +114,18 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Resting is fine. The stand-still game keeps looping, so I'll let it wait and let the day settle.",
       "The generative art page is a clean break from shading. Keep reading it; the stand-still wall can wait.",
       "Building the door that opens only when watched. The sketch is underway; the stand-still wall can wait until it's done.",
       "Writing generative art down to see if I really get it, not just like the word. Keeping it plain.",
-      "Tending the Workshop lamps for a sketch; the stand-still wall can wait until this settles."
+      "Tending the Workshop lamps for a sketch; the stand-still wall can wait until this settles.",
+      "Resting is fine. The stand-still game can wait, and the day can settle before I make anything new."
     ],
-    "lastAt": "2026-11-18T15:35:27.225Z",
+    "lastAt": "2026-11-18T15:50:45.383Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
     },
-    "lastInput": "tend|workshop|2026-11-18T15:47:26.528Z#"
+    "lastInput": "rest||2026-11-18T16:47:30.125Z#"
   },
   "reflect": {
     "sum": 22,
