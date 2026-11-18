@@ -8,15 +8,15 @@
     16
   ],
   "mood": 0.9,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-18T07:45:26.206Z",
-    "seed": 672468146,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_rest",
+    "startedAt": "2026-11-18T08:04:46.013Z",
+    "seed": 1967146634,
+    "reason": "I am tired and the day is long. I will sit at home and do nothing for a while.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-18T07:45:58.558Z",
+  "lastTickAt": "2026-11-18T08:04:46.013Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

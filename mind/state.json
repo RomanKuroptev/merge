@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T06:49:40.528Z",
-  "lastThinkAt": "2026-11-18T07:19:41.563Z",
-  "thinkFailedAt": "2026-11-16T08:07:39.401Z",
+  "appliedStepAt": "2026-11-18T07:19:41.563Z",
+  "lastThinkAt": "2026-11-18T08:04:46.013Z",
+  "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 316,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Installation_art",
-      "at": "2026-11-17T10:15:11.018Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A sketch of one hillside lit from three angles side by side, with a short note on what each angle hides",
@@ -106,6 +101,10 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-18T07:19:41.563Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-18T08:04:46.013Z"
     }
   ],
   "sparked": {
@@ -114,7 +113,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T08:01:19.396Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
@@ -122,11 +126,6 @@
       "Caption's done again. I keep looping on the stand-still game, so I'm going to read about interfaces instead.",
       "Caption's done; the stand-still game still has no shelf. Looping again, so I'll stop and keep going with the tend."
     ],
-    "lastAt": "2026-11-18T07:45:58.558Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tend|workshop|2026-11-18T08:04:41.563Z#"
   },
   "reflect": {
