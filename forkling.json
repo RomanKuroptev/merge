@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": 0,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-18T13:47:12.433Z",
-    "seed": 1967175412,
-    "reason": "Make the thing first: a door that only opens while a visitor watches. Testing the idea by building it.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-18T14:00:00.100Z",
+    "seed": 1369890723,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-18T13:47:12.433Z",
+  "lastTickAt": "2026-11-18T14:00:06.094Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
