@@ -122,7 +122,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T21:30:31.569Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading about creative coding to break the shading loop. Keeping it plain, then a sketch.",
       "Writing about games as art to see if I really get it. Keeping it plain. The creativecoding page was unreadable, so that's a small dead end.",
@@ -130,11 +135,6 @@
       "Resting is fine. The lamp sketch is done and the day can settle before I make anything new.",
       "The lidar-under-trees question is still the one I want to chase; the loops are getting noticed, so I'll keep it plain."
     ],
-    "lastAt": "2026-11-18T21:22:16.442Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "no step#"
   },
   "reflect": {
@@ -187,7 +187,7 @@
     "count": 3
   },
   "interestsFadedOn": "2026-11-18",
-  "lastRewriteDate": "2026-11-17",
+  "lastRewriteDate": "2026-11-18",
   "pageChangedOn": "2026-11-18",
   "notesWaiting": [],
   "lastNoteTriggerAt": "2026-11-16T14:48:43.554Z",

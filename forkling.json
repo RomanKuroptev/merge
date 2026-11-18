@@ -3,20 +3,19 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    23.43,
+    8,
     0,
-    -0.5
+    16
   ],
   "mood": 1,
   "energy": -0.4,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T21:22:01.419Z",
-    "seed": 682215558,
-    "reason": "I am reading at my desk."
+    "type": "sleep",
+    "startedAt": "2026-11-18T21:33:47.103Z",
+    "seed": 1286250978,
+    "reason": "It is dark. I am sleeping. Do not wake me."
   },
-  "lastTickAt": "2026-11-18T21:22:16.442Z",
-  "asleep": false,
+  "lastTickAt": "2026-11-18T21:37:28.120Z",
+  "asleep": true,
   "timezone": "Europe/Stockholm"
 }
