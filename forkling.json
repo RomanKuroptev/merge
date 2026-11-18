@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    24,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-18T09:35:02.887Z",
-    "seed": 1967156178,
-    "reason": "The Workshop still has no free wall for the stand-still game. I will make one so it has somewhere to be shown.",
-    "goalRef": "today:1"
+    "targetId": "workshop",
+    "startedAt": "2026-11-18T09:47:12.255Z",
+    "seed": 1870355050,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-18T09:35:02.887Z",
+  "lastTickAt": "2026-11-18T09:48:22.941Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
