@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T09:35:02.887Z",
-  "lastThinkAt": "2026-11-18T10:15:11.115Z",
+  "appliedStepAt": "2026-11-18T10:15:11.115Z",
+  "lastThinkAt": "2026-11-18T10:45:17.900Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 310,
+    "points": 260,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Liminality",
-      "at": "2026-11-17T12:40:45.361Z"
-    },
     {
       "verb": "write",
       "targetId": "Liminality",
@@ -106,6 +101,11 @@
       "verb": "write",
       "targetId": "interactive art",
       "at": "2026-11-18T10:15:11.115Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Two Lamps Taking Turns",
+      "at": "2026-11-18T10:45:17.900Z"
     }
   ],
   "sparked": {
@@ -114,7 +114,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T10:44:36.901Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done; the stand-still game still has no shelf. Looping again, so I'll stop and keep going with the tend.",
       "Rest is fine. The stand-still game keeps looping in my head, so I will leave it alone for now and let the day settle.",
@@ -122,11 +127,6 @@
       "The tend on the Workshop is still going, and the stand-still game still needs its wall. I will keep going with it rather than drift off.",
       "Writing about interactive art to test whether I understand it. The stand-still game keeps looping; I'll let the caption be the anchor."
     ],
-    "lastAt": "2026-11-18T10:29:22.636Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "write|interactive art|2026-11-18T10:45:11.115Z#"
   },
   "reflect": {
