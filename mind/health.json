@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-18T13:32:09.494Z",
+  "updatedAt": "2026-11-18T13:47:12.433Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T13:32:09.494Z",
+    "at": "2026-11-18T13:47:12.433Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: tinker, wandered from https://github.com/jdxyw/generativeart",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-18:3ce07e2c",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/jdxyw/generativeart",
-      "until": "2026-11-18T13:47:10.788Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "A Door That Opens Only When Someone Is Watching It",
+      "until": "2026-11-18T14:47:12.433Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T13:17:10.788Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 878,
+    "ticks": 893,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 2,
       "thought": 10,
-      "read": 4,
+      "read": 8,
       "art": 2,
       "decide": 4,
       "tend": 1,
@@ -39,7 +41,7 @@
     "spendByKind": {
       "morning": 0.00343896,
       "thought": 0.004957825,
-      "read": 0.0025672000000000004,
+      "read": 0.005210715,
       "art": 0.0009264,
       "tend": 0.0029511,
       "decide": 0.006587539999999999,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "replan": 2,
       "reflected": 1
     },
@@ -64,13 +66,14 @@
       "wander https://github.com/fand/vfx-js": 1,
       "write interactive art": 1,
       "tinker Two Lamps Taking Turns": 1,
-      "wander https://github.com/jdxyw/generativeart": 1
+      "wander https://github.com/jdxyw/generativeart": 1,
+      "tinker A Door That Opens Only When Someone Is Watching It": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 5,
+      "used": 10,
       "max": 40
     }
   },
@@ -78,20 +81,20 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.852
+      "share": 0.75
     }
   },
   "allowance": {
-    "points": 257,
+    "points": 207,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 265
+    "minutes": 280
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.57962951,
+    "monthUsd": 1.58227303,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
@@ -113,14 +116,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 10,
-      "strangers": 4,
-      "share": 0.4,
+      "trips": 11,
+      "strangers": 5,
+      "share": 0.45454545454545453,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.852,
+      "share": 0.75,
       "wouldFire": true
     },
     "draws": {

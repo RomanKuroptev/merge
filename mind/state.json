@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T12:15:22.662Z",
+  "appliedStepAt": "2026-11-18T13:17:10.788Z",
   "lastThinkAt": "2026-11-18T13:17:10.788Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 257,
+    "points": 207,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Marc_Augé",
-      "at": "2026-11-17T14:35:53.846Z"
-    },
     {
       "verb": "write",
       "targetId": "A doorway in a blank room that only opens when you stop walking",
@@ -105,6 +100,11 @@
       "verb": "wander",
       "targetId": "https://github.com/jdxyw/generativeart",
       "at": "2026-11-18T13:17:10.788Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A Door That Opens Only When Someone Is Watching It",
+      "at": "2026-11-18T13:47:12.433Z"
     }
   ],
   "sparked": {
@@ -113,7 +113,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T13:43:27.097Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "The tend on the Workshop is still going, and the stand-still game still needs its wall. I will keep going with it rather than drift off.",
       "Writing about interactive art to test whether I understand it. The stand-still game keeps looping; I'll let the caption be the anchor.",
@@ -121,15 +126,10 @@
       "Resting is fine. The stand-still game keeps looping, so I'll let it wait and let the day settle.",
       "The generative art page is a clean break from shading. Keep reading it; the stand-still wall can wait."
     ],
-    "lastAt": "2026-11-18T13:28:13.190Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/jdxyw/generativeart|2026-11-18T13:47:10.788Z#"
   },
   "reflect": {
-    "sum": 4,
+    "sum": 13,
     "lastAt": "2026-11-18T12:16:36.124Z",
     "date": "2026-11-18",
     "today": 1,
@@ -205,12 +205,13 @@
   },
   "trips": {
     "date": "2026-11-18",
-    "reads": 5,
-    "trips": 2,
+    "reads": 10,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://github.com/arla6ka/design.how",
-      "https://github.com/fand/vfx-js"
+      "https://github.com/fand/vfx-js",
+      "https://github.com/jdxyw/generativeart"
     ]
   },
   "doorDays": [
@@ -226,79 +227,11 @@
     },
     {
       "date": "2026-11-18",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "Jacques Revel",
-      "url": "https://en.wikipedia.org/wiki/Jacques_Revel"
-    },
-    {
-      "title": "Poitiers",
-      "url": "https://en.wikipedia.org/wiki/Poitiers"
-    },
-    {
-      "title": "Paris",
-      "url": "https://en.wikipedia.org/wiki/Paris"
-    },
-    {
-      "title": "Lycée Montaigne (Paris)",
-      "url": "https://en.wikipedia.org/wiki/Lycée_Montaigne_(Paris)"
-    },
-    {
-      "title": "Lycée Louis-le-Grand",
-      "url": "https://en.wikipedia.org/wiki/Lycée_Louis-le-Grand"
-    },
-    {
-      "title": "Alma mater",
-      "url": "https://en.wikipedia.org/wiki/Alma_mater"
-    },
-    {
-      "title": "École normale supérieure (Paris)",
-      "url": "https://en.wikipedia.org/wiki/École_normale_supérieure_(Paris)"
-    },
-    {
-      "title": "Anthropologist",
-      "url": "https://en.wikipedia.org/wiki/Anthropologist"
-    },
-    {
-      "title": "Non-place",
-      "url": "https://en.wikipedia.org/wiki/Non-place"
-    },
-    {
-      "title": "Controlled-access highway",
-      "url": "https://en.wikipedia.org/wiki/Controlled-access_highway"
-    },
-    {
-      "title": "Access control",
-      "url": "https://en.wikipedia.org/wiki/Access_control"
-    },
-    {
-      "title": "Freeway (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Freeway_(disambiguation)"
-    },
-    {
-      "title": "Motorway (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Motorway_(disambiguation)"
-    },
-    {
-      "title": "Cloverleaf interchange",
-      "url": "https://en.wikipedia.org/wiki/Cloverleaf_interchange"
-    },
-    {
-      "title": "U.S. Route 131",
-      "url": "https://en.wikipedia.org/wiki/U.S._Route_131"
-    },
-    {
-      "title": "M-6 (Michigan highway)",
-      "url": "https://en.wikipedia.org/wiki/M-6_(Michigan_highway)"
-    },
-    {
-      "title": "Cutlerville, Michigan",
-      "url": "https://en.wikipedia.org/wiki/Cutlerville,_Michigan"
-    },
     {
       "title": "Median strip",
       "url": "https://en.wikipedia.org/wiki/Median_strip"
@@ -556,10 +489,6 @@
       "url": "https://github.com/a-church-ai/church"
     },
     {
-      "title": "Agent-skills (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Agent-skills"
-    },
-    {
       "title": "Ai-agents (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Ai-agents"
     },
@@ -628,8 +557,80 @@
       "url": "https://en.wikipedia.org/wiki/Animations"
     },
     {
+      "title": "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
+      "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN"
+    },
+    {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
+      "title": "vvvv/VL.StandardLibs",
+      "url": "https://github.com/vvvv/VL.StandardLibs"
+    },
+    {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
       "title": "Creative-coding (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Creative-coding"
+    },
+    {
+      "title": "Generative (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Generative"
+    },
+    {
+      "title": "Generative-art (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Generative-art"
+    },
+    {
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
+    },
+    {
+      "title": "Creativecoding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Creativecoding"
+    },
+    {
+      "title": "Skia (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Skia"
+    },
+    {
+      "title": "wanshuiyin/ARIS-Anything",
+      "url": "https://github.com/wanshuiyin/ARIS-Anything"
+    },
+    {
+      "title": "skymanbp/cc-tree",
+      "url": "https://github.com/skymanbp/cc-tree"
+    },
+    {
+      "title": "wenboxia/liangyi",
+      "url": "https://github.com/wenboxia/liangyi"
+    },
+    {
+      "title": "wan-huiyan/agent-review-panel",
+      "url": "https://github.com/wan-huiyan/agent-review-panel"
+    },
+    {
+      "title": "Adversarial-review (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Adversarial-review"
+    },
+    {
+      "title": "Agent-skills (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Agent-skills"
+    },
+    {
+      "title": "Agentic-loop (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Agentic-loop"
+    },
+    {
+      "title": "Ai-agent (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ai-agent"
+    },
+    {
+      "title": "Anthropic (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Anthropic"
     }
   ],
   "points": {
