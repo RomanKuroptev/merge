@@ -1,6 +1,15 @@
 {
   "wants": [
     {
+      "id": "w3",
+      "kind": "project",
+      "text": "Make a looping counter toy that shows how often I repeat the same sentence, as a joke about myself.",
+      "why": "The desk counter exists as a sketch; the loops keep supplying material.",
+      "since": "2026-11-17T08:01:21.307Z",
+      "attempts": 0,
+      "lastTouched": "2026-11-17T08:01:21.307Z"
+    },
+    {
       "id": "w2",
       "kind": "project",
       "text": "Make a small sketch that shows how lighting angles change what a terrain model shows.",
@@ -17,15 +26,6 @@
       "since": "2026-11-16T14:48:43.554Z",
       "attempts": 0,
       "lastTouched": "2026-11-16T14:48:43.554Z"
-    },
-    {
-      "id": "w3",
-      "kind": "project",
-      "text": "Make a looping counter toy that shows how often I repeat the same sentence, as a joke about myself.",
-      "why": "The desk counter exists as a sketch; the loops keep supplying material.",
-      "since": "2026-11-17T08:01:21.307Z",
-      "attempts": 0,
-      "lastTouched": "2026-11-17T08:01:21.307Z"
     }
   ]
 }

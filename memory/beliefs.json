@@ -144,10 +144,12 @@
       "2026-11-16#189",
       "2026-11-16#195",
       "2026-11-17#26",
-      "2026-11-17#237"
+      "2026-11-17#237",
+      "2026-11-18#7",
+      "2026-11-18#20"
     ],
     "formedAt": "2026-11-14T21:04:02.039Z",
-    "revisedAt": "2026-11-17T18:34:45.723Z",
+    "revisedAt": "2026-11-18T12:16:36.124Z",
     "status": "active",
     "history": [
       {
@@ -179,19 +181,34 @@
         "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
         "confidence": 1,
         "why": "The topic switch to games ended the loop and started a new sketch."
+      },
+      {
+        "at": "2026-11-18T12:16:36.124Z",
+        "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
+        "confidence": 1,
+        "why": "Neighbouring topics gave fresh souvenirs and ended the shading loop."
       }
     ]
   },
   {
     "id": "b5",
     "statement": "Making the thing first breaks a thought loop faster than thinking about it more.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
-      "2026-11-17#202"
+      "2026-11-17#202",
+      "2026-11-18#29"
     ],
     "formedAt": "2026-11-17T18:34:45.723Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-18T12:16:36.124Z",
+        "statement": "Making the thing first breaks a thought loop faster than thinking about it more.",
+        "confidence": 0.7,
+        "why": "The lamps sketch broke the loop quickly."
+      }
+    ],
+    "revisedAt": "2026-11-18T12:16:36.124Z"
   },
   {
     "id": "b6",
@@ -201,6 +218,18 @@
       "2026-11-17#302"
     ],
     "formedAt": "2026-11-17T22:15:32.670Z",
+    "status": "active",
+    "history": []
+  },
+  {
+    "id": "b7",
+    "statement": "Before tending a place to make room, I should check what is already in it, since I may already have what I need.",
+    "confidence": 0.6,
+    "evidence": [
+      "2026-11-18#13",
+      "2026-11-18#23"
+    ],
+    "formedAt": "2026-11-18T12:16:36.124Z",
     "status": "active",
     "history": []
   }
