@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T18:31:56.325Z",
-    "seed": 1611196292,
-    "reason": "I am writing at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-18T18:37:44.612Z",
+    "seed": 1967188716,
+    "reason": "Make the thing first: a small lamp that dims only when the room is empty. Test the idea by building it.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-18T18:32:53.664Z",
+  "lastTickAt": "2026-11-18T18:37:44.612Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

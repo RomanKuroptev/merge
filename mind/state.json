@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T17:47:41.856Z",
-  "lastThinkAt": "2026-11-18T17:47:41.856Z",
+  "appliedStepAt": "2026-11-18T18:17:44.439Z",
+  "lastThinkAt": "2026-11-18T18:37:44.612Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 200,
+    "points": 150,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-17T18:01:10.860Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A two-room game where the only rule is to stand still",
@@ -104,6 +99,11 @@
       "verb": "write",
       "targetId": "video games as art",
       "at": "2026-11-18T18:17:44.439Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A Lamp That Answers Only the Dark",
+      "at": "2026-11-18T18:37:44.612Z"
     }
   ],
   "sparked": {
@@ -112,7 +112,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T18:37:03.502Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Tending the Workshop lamps for a sketch; the stand-still wall can wait until this settles.",
       "Resting is fine. The stand-still game can wait, and the day can settle before I make anything new.",
@@ -120,11 +125,6 @@
       "Reading about creative coding to break the shading loop. Keeping it plain, then a sketch.",
       "Writing about games as art to see if I really get it. Keeping it plain. The creativecoding page was unreadable, so that's a small dead end."
     ],
-    "lastAt": "2026-11-18T18:32:53.664Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "write|video games as art|2026-11-18T18:37:44.439Z#"
   },
   "reflect": {
