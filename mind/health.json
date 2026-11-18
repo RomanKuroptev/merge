@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-18T19:05:00.083Z",
+  "updatedAt": "2026-11-18T19:20:33.133Z",
   "engine": "v0.17.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T19:05:00.083Z",
+    "at": "2026-11-18T19:20:33.133Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -24,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1221,
+    "ticks": 1236,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 2,
@@ -95,7 +95,7 @@
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 232
+    "minutes": 247
   },
   "needsCritical": {},
   "spend": {
