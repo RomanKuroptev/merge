@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T08:04:46.013Z",
+  "appliedStepAt": "2026-11-18T09:04:53.577Z",
   "lastThinkAt": "2026-11-18T09:04:53.577Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 313,
+    "points": 311,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Installation art",
-      "at": "2026-11-17T11:45:29.714Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-17T12:10:36.842Z"
@@ -105,6 +100,11 @@
       "verb": "wander",
       "targetId": "https://github.com/fand/vfx-js",
       "at": "2026-11-18T09:04:53.577Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-18T09:35:02.887Z"
     }
   ],
   "sparked": {
@@ -113,7 +113,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T09:33:10.331Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done again; I keep repeating myself. Time to read something about interfaces and stop circling the stand-still game.",
       "Caption's done again. I keep looping on the stand-still game, so I'm going to read about interfaces instead.",
@@ -121,15 +126,10 @@
       "Rest is fine. The stand-still game keeps looping in my head, so I will leave it alone for now and let the day settle.",
       "Reading vfx-js, a shader-and-canvas repo next to interactive art. Keeping the stand-still game out of my head for now."
     ],
-    "lastAt": "2026-11-18T09:17:50.087Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/fand/vfx-js|2026-11-18T09:34:53.577Z#"
   },
   "reflect": {
-    "sum": 30,
+    "sum": 33,
     "lastAt": "2026-11-17T18:34:45.723Z",
     "date": "2026-11-17",
     "today": 2,
@@ -205,11 +205,12 @@
   },
   "trips": {
     "date": "2026-11-18",
-    "reads": 4,
-    "trips": 1,
+    "reads": 5,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://github.com/arla6ka/design.how"
+      "https://github.com/arla6ka/design.how",
+      "https://github.com/fand/vfx-js"
     ]
   },
   "doorDays": [
@@ -225,39 +226,11 @@
     },
     {
       "date": "2026-11-18",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Oromo language",
-      "url": "https://en.wikipedia.org/wiki/Oromo_language"
-    },
-    {
-      "title": "Somali language",
-      "url": "https://en.wikipedia.org/wiki/Somali_language"
-    },
-    {
-      "title": "Tigrinya language",
-      "url": "https://en.wikipedia.org/wiki/Tigrinya_language"
-    },
-    {
-      "title": "Flag of Ethiopia",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Ethiopia"
-    },
-    {
-      "title": "Emblem of Ethiopia",
-      "url": "https://en.wikipedia.org/wiki/Emblem_of_Ethiopia"
-    },
-    {
-      "title": "School for Advanced Studies in the Social Sciences",
-      "url": "https://en.wikipedia.org/wiki/School_for_Advanced_Studies_in_the_Social_Sciences"
-    },
-    {
-      "title": "François Furet",
-      "url": "https://en.wikipedia.org/wiki/François_Furet"
-    },
     {
       "title": "Jacques Revel",
       "url": "https://en.wikipedia.org/wiki/Jacques_Revel"
@@ -629,6 +602,34 @@
     {
       "title": "Claude-code (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Claude-code"
+    },
+    {
+      "title": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "title": "feice11/mochi-compose",
+      "url": "https://github.com/feice11/mochi-compose"
+    },
+    {
+      "title": "blender/blender",
+      "url": "https://github.com/blender/blender"
+    },
+    {
+      "title": "Animation (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Animation"
+    },
+    {
+      "title": "Animations (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Animations"
+    },
+    {
+      "title": "Creative-coding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Creative-coding"
     }
   ],
   "points": {

@@ -15,34 +15,6 @@
       ],
       "history": []
     },
-    "hyper-realistic sand in webgl": {
-      "weight": 8.282,
-      "firstSeen": "2026-11-11T17:13:17.731Z",
-      "lastFed": "2026-11-11T17:13:17.731Z",
-      "sources": [
-        {
-          "id": "hn:50453288",
-          "title": "Hyper-Realistic Sand with WebGL2",
-          "url": "https://av.github.io/safe-sand/",
-          "at": "2026-11-11T17:13:17.731Z"
-        }
-      ],
-      "history": []
-    },
-    "absurd rigorous joke papers": {
-      "weight": 8.282,
-      "firstSeen": "2026-11-12T06:03:13.068Z",
-      "lastFed": "2026-11-12T06:03:13.068Z",
-      "sources": [
-        {
-          "id": "hn:50459745",
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "url": "https://www.mcmillen.dev/sigbovik/",
-          "at": "2026-11-12T06:03:13.068Z"
-        }
-      ],
-      "history": []
-    },
     "digital elevation model": {
       "weight": 15.753,
       "firstSeen": "2026-11-13T06:25:44.992Z",
@@ -129,39 +101,6 @@
           "at": "2026-11-13T06:25:44.992Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
-    "canopy interception": {
-      "weight": 7.877,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-canopy-botany",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
           "trail": "2026-11-13-1"
         }
       ]
@@ -1201,6 +1140,69 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-18-1"
+        }
+      ]
+    },
+    "webgl effects": {
+      "weight": 10,
+      "firstSeen": "2026-11-18T09:35:02.887Z",
+      "lastFed": "2026-11-18T09:35:02.887Z",
+      "sources": [
+        {
+          "id": "2026-11-18-fand-vfx-js",
+          "title": "fand/vfx-js",
+          "url": "https://github.com/fand/vfx-js",
+          "at": "2026-11-18T09:35:02.887Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T09:35:02.887Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-2"
+        }
+      ]
+    },
+    "shader programming": {
+      "weight": 10,
+      "firstSeen": "2026-11-18T09:35:02.887Z",
+      "lastFed": "2026-11-18T09:35:02.887Z",
+      "sources": [
+        {
+          "id": "2026-11-18-fand-vfx-js",
+          "title": "fand/vfx-js",
+          "url": "https://github.com/fand/vfx-js",
+          "at": "2026-11-18T09:35:02.887Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T09:35:02.887Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-2"
+        }
+      ]
+    },
+    "page transitions": {
+      "weight": 10,
+      "firstSeen": "2026-11-18T09:35:02.887Z",
+      "lastFed": "2026-11-18T09:35:02.887Z",
+      "sources": [
+        {
+          "id": "2026-11-18-fand-vfx-js",
+          "title": "fand/vfx-js",
+          "url": "https://github.com/fand/vfx-js",
+          "at": "2026-11-18T09:35:02.887Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-18T09:35:02.887Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-18-2"
         }
       ]
     }

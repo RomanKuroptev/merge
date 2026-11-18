@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.9,
-  "energy": 0.3,
+  "mood": 1,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T09:17:21.985Z",
-    "seed": 814500888,
-    "reason": "I am reading at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-18T09:35:02.887Z",
+    "seed": 1967156178,
+    "reason": "The Workshop still has no free wall for the stand-still game. I will make one so it has somewhere to be shown.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-18T09:17:50.087Z",
+  "lastTickAt": "2026-11-18T09:35:02.887Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

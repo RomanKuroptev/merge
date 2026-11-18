@@ -1,49 +1,51 @@
 {
-  "updatedAt": "2026-11-18T09:19:53.868Z",
+  "updatedAt": "2026-11-18T09:35:02.887Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T09:19:53.868Z",
+    "at": "2026-11-18T09:35:02.887Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: tend, wandered from https://github.com/fand/vfx-js",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-18:8990a4c5",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/fand/vfx-js",
-      "until": "2026-11-18T09:34:53.577Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-18T10:15:02.887Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-18T09:04:53.577Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 620,
+    "ticks": 635,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 2,
       "thought": 5,
-      "read": 3,
+      "read": 4,
       "art": 1,
       "decide": 1
     },
     "spendByKind": {
       "morning": 0.00343896,
       "thought": 0.002454825,
-      "read": 0.0019829500000000003,
+      "read": 0.0025672000000000004,
       "art": 0.0004655,
       "tend": 0.00153325,
       "decide": 0.0016978
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4,
+      "stepDone": 5,
       "replan": 1
     },
     "failures": 1,
@@ -53,7 +55,7 @@
     "stepsStarted": {
       "wander https://github.com/arla6ka/design.how": 1,
       "write desktop metaphor": 1,
-      "tend workshop": 1,
+      "tend workshop": 2,
       "rest": 1,
       "wander https://github.com/fand/vfx-js": 1
     },
@@ -61,7 +63,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 4,
+      "used": 5,
       "max": 40
     }
   },
@@ -69,20 +71,20 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.885
+      "share": 0.852
     }
   },
   "allowance": {
-    "points": 313,
+    "points": 311,
     "max": 450
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 15
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.51972325,
+    "monthUsd": 1.5203075,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },
@@ -104,14 +106,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 9,
-      "strangers": 3,
-      "share": 0.3333333333333333,
+      "trips": 10,
+      "strangers": 4,
+      "share": 0.4,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.885,
+      "share": 0.852,
       "wouldFire": true
     },
     "draws": {
