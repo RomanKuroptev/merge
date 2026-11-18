@@ -1,18 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
-  "appliedStepAt": "2026-11-18T06:09:30.406Z",
-  "lastThinkAt": "2026-11-18T06:09:30.406Z",
+  "appliedStepAt": "2026-11-18T06:49:40.528Z",
+  "lastThinkAt": "2026-11-18T07:19:41.563Z",
   "thinkFailedAt": "2026-11-16T08:07:39.401Z",
   "allowance": {
-    "points": 318,
+    "points": 316,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Joke language list",
-      "at": "2026-11-17T09:55:04.202Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Installation_art",
@@ -106,6 +101,11 @@
       "verb": "write",
       "targetId": "desktop metaphor",
       "at": "2026-11-18T06:49:40.528Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-18T07:19:41.563Z"
     }
   ],
   "sparked": {
@@ -114,7 +114,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T07:15:34.404Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
       "Caption's done; the stand-still game just needs its shelf at home. Two rooms, one joke.",
@@ -122,11 +127,6 @@
       "Caption's done again; I keep repeating myself. Time to read something about interfaces and stop circling the stand-still game.",
       "Caption's done again. I keep looping on the stand-still game, so I'm going to read about interfaces instead."
     ],
-    "lastAt": "2026-11-18T07:00:15.488Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "write|desktop metaphor|2026-11-18T07:19:40.528Z#"
   },
   "reflect": {

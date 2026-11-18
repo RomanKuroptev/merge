@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 0.9,
-  "energy": 0.45,
+  "energy": 0.4,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-18T07:00:01.554Z",
-    "seed": 271901006,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-18T07:19:41.563Z",
+    "seed": 1967147801,
+    "reason": "The Workshop has no free wall for works. I will make room so the stand-still game has somewhere to be shown.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-18T07:00:15.488Z",
+  "lastTickAt": "2026-11-18T07:19:41.563Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
