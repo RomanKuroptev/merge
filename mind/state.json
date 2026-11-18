@@ -1,19 +1,13 @@
 {
   "lastPlanDate": "2026-11-18",
   "appliedStepAt": "2026-11-18T15:47:30.125Z",
-  "lastThinkAt": "2026-11-18T16:48:02.748Z",
-  "replanAfter": "2026-11-18T17:47:32.978Z",
+  "lastThinkAt": "2026-11-18T17:47:41.856Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 204,
+    "points": 201,
     "day": "2026-11-18"
   },
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A lamp that dims only when nobody is in the room",
-      "at": "2026-11-17T16:35:57.385Z"
-    },
     {
       "verb": "write",
       "targetId": "A lamp that dims only when nobody is in the room",
@@ -105,6 +99,11 @@
     {
       "verb": "rest",
       "at": "2026-11-18T15:47:30.125Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
+      "at": "2026-11-18T17:47:41.856Z"
     }
   ],
   "sparked": {
@@ -113,7 +112,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-18T17:47:31.135Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Building the door that opens only when watched. The sketch is underway; the stand-still wall can wait until it's done.",
       "Writing generative art down to see if I really get it, not just like the word. Keeping it plain.",
@@ -121,11 +125,6 @@
       "Resting is fine. The stand-still game can wait, and the day can settle before I make anything new.",
       "Lidar under trees is the next thing to chase; the generative art page can wait its turn."
     ],
-    "lastAt": "2026-11-18T17:37:13.130Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "no step#"
   },
   "reflect": {
@@ -197,10 +196,6 @@
     }
   ],
   "goalReviewEarlyOn": "2026-11-18",
-  "planRejects": {
-    "count": 1,
-    "lastAt": "2026-11-18T16:47:32.978Z"
-  },
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",

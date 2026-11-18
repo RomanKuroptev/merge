@@ -1,31 +1,39 @@
 {
-  "updatedAt": "2026-11-18T17:38:14.580Z",
+  "updatedAt": "2026-11-18T17:47:41.856Z",
   "engine": "v0.16.0",
   "date": "2026-11-18",
   "lastTick": {
-    "at": "2026-11-18T17:38:14.580Z",
+    "at": "2026-11-18T17:47:41.856Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-18:3ce07e2c",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-18T13:17:10.788Z",
-    "idleMinutes": 50
+    "planId": "2026-11-18:59447138",
+    "stepsLeft": 3,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
+      "until": "2026-11-18T18:17:41.856Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-18T17:47:41.856Z",
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1130,
-    "decideCalls": 8,
+    "ticks": 1140,
+    "decideCalls": 10,
     "callsByKind": {
       "morning": 2,
       "thought": 15,
       "read": 8,
       "art": 3,
-      "decide": 6,
+      "decide": 8,
       "tend": 1,
       "sketch": 2,
       "reflection": 1,
@@ -37,7 +45,7 @@
       "read": 0.005210715,
       "art": 0.001374675,
       "tend": 0.0029511,
-      "decide": 0.009522804999999999,
+      "decide": 0.012616169999999998,
       "sketch": 0.044886499999999996,
       "reflection": 0.027018,
       "goalreview": 0.0132275
@@ -45,7 +53,7 @@
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 14,
-      "replan": 3,
+      "replan": 4,
       "reflected": 1
     },
     "failures": 1,
@@ -62,7 +70,8 @@
       "tinker Two Lamps Taking Turns": 1,
       "wander https://github.com/jdxyw/generativeart": 1,
       "tinker A Door That Opens Only When Someone Is Watching It": 1,
-      "write generative art": 1
+      "write generative art": 1,
+      "wander https://en.wikipedia.org/wiki/Creativecoding": 1
     },
     "longestGapMinutes": 1
   },
@@ -80,16 +89,16 @@
     }
   },
   "allowance": {
-    "points": 204,
+    "points": 201,
     "max": 450
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 148
+    "minutes": 157
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.62323718,
+    "monthUsd": 1.62633055,
     "capUsd": 12.6,
     "paceUsd": 7.56
   },

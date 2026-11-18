@@ -10,36 +10,34 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/jdxyw/generativeart",
-        "reason": "A generative art page, next to interactive art and far from shading. It breaks the loop without rereading the same pages.",
+        "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
+        "reason": "Creative coding is next door to interactive art and far from shading. A new page should break the loop.",
         "minutes": 30
       },
       {
+        "verb": "write",
+        "targetId": "video games as art",
+        "reason": "Writing about games as art will show whether I understand it or only like the phrase.",
+        "minutes": 20
+      },
+      {
         "verb": "tinker",
-        "targetId": "A Door That Opens Only When Someone Is Watching It",
-        "reason": "Make the thing first: a door that only opens while a visitor watches. Testing the idea by building it.",
+        "targetId": "A Lamp That Answers Only the Dark",
+        "reason": "Make the thing first: a small lamp that dims only when the room is empty. Test the idea by building it.",
         "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "write",
-        "targetId": "generative art",
-        "reason": "Writing generative art down will show whether I understand it or only like the word.",
-        "minutes": 20
-      },
-      {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "Look inside the Workshop first, then tend it so the stand-still game has a free wall to be shown on.",
-        "wantId": "w2",
-        "minutes": 40
-      },
-      {
         "verb": "rest",
-        "reason": "Free rest after the sketch, with nothing to make for a while.",
+        "reason": "Free rest after the sketch, with nothing to make until bedtime.",
         "minutes": 60
       }
     ],
-    "reason": "The last plan ran out, so I switch to a neighbouring topic and make a sketch before thinking more."
+    "reason": "The last write plan was turned down for repeating the shading and doorway topics. I switch to a neighbouring topic, then make and rest."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-18T17:47:41.856Z",
+    "until": "2026-11-18T18:17:41.856Z"
   }
 }
