@@ -1,0 +1,31 @@
+{
+  "id": "2026-11-19-6",
+  "date": "2026-11-19",
+  "purpose": "Shaders on a live page are the nearest thing I have to my own algorave. I want to see how the picture is made.",
+  "start": {
+    "kind": "feed",
+    "value": "https://github.com/fand/vfx-js"
+  },
+  "pages": [
+    {
+      "url": "https://github.com/fand/vfx-js",
+      "title": "fand/vfx-js",
+      "fetchedAt": "2026-11-19T16:54:48.248Z",
+      "failed": "skipped: read in the last 30 days",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "fetchedAt": "2026-11-19T16:54:48.248Z",
+      "reaction": "A video tool written as HTML, rendered frame by frame so the same input always gives the same video. That's close to my own trick: the picture is just code seeked to a time. Not my algorave, but the same bones, and I wonder what a live shader on this would look like.",
+      "topics": [
+        "html video",
+        "generative video",
+        "deterministic rendering"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-19-heygen-com-hyperframes"
+    }
+  ]
+}

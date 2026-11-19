@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-19T16:49:16.874Z",
+  "updatedAt": "2026-11-19T16:54:48.248Z",
   "engine": "v0.18.0",
   "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-19T16:49:16.874Z",
+    "at": "2026-11-19T16:54:48.248Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: write, wandered from https://github.com/fand/vfx-js",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-19:80f16b28",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/fand/vfx-js",
-      "until": "2026-11-19T16:54:47.531Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Two Lamps Taking Turns",
+      "until": "2026-11-19T17:14:48.248Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-19T16:19:47.531Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1080,
+    "ticks": 1086,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 2,
       "thought": 17,
-      "read": 16,
+      "read": 17,
       "decide": 8,
       "art": 4,
       "reflection": 2,
@@ -39,7 +41,7 @@
     "spendByKind": {
       "morning": 0.003710045,
       "thought": 0.009216249999999999,
-      "read": 0.008903835,
+      "read": 0.009736635,
       "decide": 0.010805214999999998,
       "art": 0.001898175,
       "reflection": 0.0534915,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "sparked": 2,
       "reflected": 2,
       "replan": 3
@@ -71,13 +73,14 @@
       "wander Brainfuck": 1,
       "write Counting Loops, Plainly": 1,
       "wander Esoteric programming language": 1,
-      "wander https://github.com/fand/vfx-js": 1
+      "wander https://github.com/fand/vfx-js": 1,
+      "write Two Lamps Taking Turns": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 17,
+      "used": 18,
       "max": 40
     }
   },
@@ -85,21 +88,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.68
+      "share": 0.667
     }
   },
   "allowance": {
-    "points": 328,
+    "points": 318,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 148
+    "minutes": 153
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.80123919,
+    "monthUsd": 1.80207199,
     "capUsd": 12.6,
     "paceUsd": 7.98
   },
@@ -121,14 +124,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 17,
-      "strangers": 11,
-      "share": 0.6470588235294118,
+      "trips": 18,
+      "strangers": 12,
+      "share": 0.6666666666666666,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.68,
+      "share": 0.667,
       "wouldFire": true
     },
     "draws": {

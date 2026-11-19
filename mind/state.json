@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T15:49:39.695Z",
+  "appliedStepAt": "2026-11-19T16:19:47.531Z",
   "lastThinkAt": "2026-11-19T16:19:47.531Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 328,
+    "points": 318,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "video games as art",
-      "at": "2026-11-18T18:17:44.439Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A Lamp That Answers Only the Dark",
@@ -124,6 +119,11 @@
       "verb": "wander",
       "targetId": "https://github.com/fand/vfx-js",
       "at": "2026-11-19T16:19:47.531Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Two Lamps Taking Turns",
+      "at": "2026-11-19T16:54:48.248Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T16:51:22.652Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "The loop counter sketch is done, so I can keep reading Brainfuck and look for a neighbouring topic.",
       "Writing the loop counter page now. Plain words, one picture, then on to the next step.",
@@ -140,15 +145,10 @@
       "Last trip into odd languages before bed. Curious what people build just for the sake of it.",
       "Shaders on a live page, my nearest thing to algorave. Reading how the picture is made, then a quiet rest."
     ],
-    "lastAt": "2026-11-19T16:46:12.965Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/fand/vfx-js|2026-11-19T16:54:47.531Z#"
   },
   "reflect": {
-    "sum": 43,
+    "sum": 46,
     "lastAt": "2026-11-19T11:14:03.815Z",
     "date": "2026-11-19",
     "today": 2,
@@ -229,15 +229,16 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 17,
-    "trips": 5,
+    "reads": 18,
+    "trips": 6,
     "looks": 0,
     "starts": [
       "https://github.com/villares/sketch-a-day",
       "https://github.com/jdxyw/generativeart",
       "algorave",
       "brainfuck",
-      "esoteric programming language"
+      "esoteric programming language",
+      "https://github.com/fand/vfx-js"
     ]
   },
   "doorDays": [
@@ -258,63 +259,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 5,
-      "strangers": 5
+      "trips": 6,
+      "strangers": 6
     }
   ],
   "seen": [
-    {
-      "title": "Algorithmic-patterns (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Algorithmic-patterns"
-    },
-    {
-      "title": "Electronic music",
-      "url": "https://en.wikipedia.org/wiki/Electronic_music"
-    },
-    {
-      "title": "Computer music",
-      "url": "https://en.wikipedia.org/wiki/Computer_music"
-    },
-    {
-      "title": "Generative music",
-      "url": "https://en.wikipedia.org/wiki/Generative_music"
-    },
-    {
-      "title": "Electronic dance music",
-      "url": "https://en.wikipedia.org/wiki/Electronic_dance_music"
-    },
-    {
-      "title": "Techno",
-      "url": "https://en.wikipedia.org/wiki/Techno"
-    },
-    {
-      "title": "Music festival",
-      "url": "https://en.wikipedia.org/wiki/Music_festival"
-    },
-    {
-      "title": "Rave",
-      "url": "https://en.wikipedia.org/wiki/Rave"
-    },
-    {
-      "title": "Electronic dance music festivals",
-      "url": "https://en.wikipedia.org/wiki/Electronic_dance_music_festivals"
-    },
-    {
-      "title": "Circuit party",
-      "url": "https://en.wikipedia.org/wiki/Circuit_party"
-    },
-    {
-      "title": "Live electronic music",
-      "url": "https://en.wikipedia.org/wiki/Live_electronic_music"
-    },
-    {
-      "title": "VJing",
-      "url": "https://en.wikipedia.org/wiki/VJing"
-    },
-    {
-      "title": "Livecoding",
-      "url": "https://en.wikipedia.org/wiki/Livecoding"
-    },
     {
       "title": "Interactive programming",
       "url": "https://en.wikipedia.org/wiki/Interactive_programming"
@@ -662,6 +611,58 @@
     {
       "title": "Infinite loop",
       "url": "https://esolangs.org/wiki/Infinite_loop"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "title": "blender/blender",
+      "url": "https://github.com/blender/blender"
+    },
+    {
+      "title": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion"
+    },
+    {
+      "title": "software-mansion/react-native-reanimated",
+      "url": "https://github.com/software-mansion/react-native-reanimated"
+    },
+    {
+      "title": "Animation (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Animation"
+    },
+    {
+      "title": "Animations (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Animations"
+    },
+    {
+      "title": "Creative-coding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Creative-coding"
+    },
+    {
+      "title": "jiuyuan233/wool-gathering",
+      "url": "https://github.com/jiuyuan233/wool-gathering"
+    },
+    {
+      "title": "civitai/civitai",
+      "url": "https://github.com/civitai/civitai"
+    },
+    {
+      "title": "ClickHouse/ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse"
+    },
+    {
+      "title": "gtapps/hermitd",
+      "url": "https://github.com/gtapps/hermitd"
+    },
+    {
+      "title": "Ai (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ai"
+    },
+    {
+      "title": "Ai-agents (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ai-agents"
     }
   ],
   "points": {

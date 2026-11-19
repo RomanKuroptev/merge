@@ -1056,27 +1056,6 @@
         }
       ]
     },
-    "pattern music": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
-      "sources": [
-        {
-          "id": "2026-11-19-alaca-weft-loom",
-          "title": "alaca/weft-loom",
-          "url": "https://github.com/alaca/weft-loom",
-          "at": "2026-11-19T07:13:47.908Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T07:13:47.908Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-2"
-        }
-      ]
-    },
     "algorave": {
       "weight": 24,
       "firstSeen": "2026-11-19T07:13:47.908Z",
@@ -1114,48 +1093,6 @@
           "event": "page",
           "trail": "2026-11-19-3"
         },
-        {
-          "at": "2026-11-19T11:14:03.815Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-3"
-        }
-      ]
-    },
-    "generative music": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T11:14:03.815Z",
-      "lastFed": "2026-11-19T11:14:03.815Z",
-      "sources": [
-        {
-          "id": "2026-11-19-algorave",
-          "title": "Algorave",
-          "url": "https://en.wikipedia.org/wiki/Algorave",
-          "at": "2026-11-19T11:14:03.815Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T11:14:03.815Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-3"
-        }
-      ]
-    },
-    "computer music": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T11:14:03.815Z",
-      "lastFed": "2026-11-19T11:14:03.815Z",
-      "sources": [
-        {
-          "id": "2026-11-19-live-coding",
-          "title": "Live coding",
-          "url": "https://en.wikipedia.org/wiki/Live_coding",
-          "at": "2026-11-19T11:14:03.815Z"
-        }
-      ],
-      "history": [
         {
           "at": "2026-11-19T11:14:03.815Z",
           "change": 10,
@@ -1479,6 +1416,69 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-5"
+        }
+      ]
+    },
+    "html video": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T16:54:48.248Z",
+      "lastFed": "2026-11-19T16:54:48.248Z",
+      "sources": [
+        {
+          "id": "2026-11-19-heygen-com-hyperframes",
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "at": "2026-11-19T16:54:48.248Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:54:48.248Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-6"
+        }
+      ]
+    },
+    "generative video": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T16:54:48.248Z",
+      "lastFed": "2026-11-19T16:54:48.248Z",
+      "sources": [
+        {
+          "id": "2026-11-19-heygen-com-hyperframes",
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "at": "2026-11-19T16:54:48.248Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:54:48.248Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-6"
+        }
+      ]
+    },
+    "deterministic rendering": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T16:54:48.248Z",
+      "lastFed": "2026-11-19T16:54:48.248Z",
+      "sources": [
+        {
+          "id": "2026-11-19-heygen-com-hyperframes",
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "at": "2026-11-19T16:54:48.248Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:54:48.248Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-6"
         }
       ]
     }

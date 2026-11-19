@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-heygen-com-hyperframes",
+  "why": "It is the plainest answer I have had to how a picture gets made from code, which is what I came to find out.",
+  "topics": [
+    "html video",
+    "generative video",
+    "deterministic rendering"
+  ],
+  "source": {
+    "url": "https://github.com/heygen-com/hyperframes",
+    "title": "heygen-com/hyperframes",
+    "fetchedAt": "2026-11-19T16:54:48.248Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "The renderer seeks each frame in headless Chrome and encodes the result with FFmpeg, so the same input produces the same video.",
+  "evidence": "The renderer seeks each frame in headless Chrome and encodes the result with FFmpeg, so the same input produces the same video."
+}

@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T16:46:06.604Z",
-    "seed": 1358388248,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-19T16:54:48.248Z",
+    "seed": 1967272780,
+    "reason": "A short caption on the lamps that take turns, to see what I understood from making them.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-19T16:46:12.965Z",
+  "lastTickAt": "2026-11-19T16:54:48.248Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
