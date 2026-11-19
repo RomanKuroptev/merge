@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T12:44:09.176Z",
+  "appliedStepAt": "2026-11-19T13:44:18.822Z",
   "lastThinkAt": "2026-11-19T13:44:18.822Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 344,
+    "points": 334,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "generative art",
-      "at": "2026-11-18T14:47:22.076Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -124,6 +119,11 @@
       "verb": "wander",
       "targetId": "Brainfuck",
       "at": "2026-11-19T13:44:18.822Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Counting Loops, Plainly",
+      "at": "2026-11-19T14:19:27.506Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T14:18:26.212Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Algorave reading is going fine. Shadows drawn by a rule next, sketch after this.",
       "Writing the short Livecoding page now. Plain words, one picture, then the next step.",
@@ -140,15 +145,10 @@
       "Starting the loop-counter sketch now. Making it beats thinking about my repeats again. Small and quick, then rest.",
       "The loop counter sketch is done, so I can keep reading Brainfuck and look for a neighbouring topic."
     ],
-    "lastAt": "2026-11-19T14:13:22.896Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|Brainfuck|2026-11-19T14:19:18.822Z#"
   },
   "reflect": {
-    "sum": 21,
+    "sum": 27,
     "lastAt": "2026-11-19T11:14:03.815Z",
     "date": "2026-11-19",
     "today": 2,
@@ -229,13 +229,14 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 13,
-    "trips": 3,
+    "reads": 15,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://github.com/villares/sketch-a-day",
       "https://github.com/jdxyw/generativeart",
-      "algorave"
+      "algorave",
+      "brainfuck"
     ]
   },
   "doorDays": [
@@ -256,63 +257,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Sandro Botticelli",
-      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
-    },
-    {
-      "title": "Okinawan people",
-      "url": "https://en.wikipedia.org/wiki/Okinawan_people"
-    },
-    {
-      "title": "Shisa",
-      "url": "https://en.wikipedia.org/wiki/Shisa"
-    },
-    {
-      "title": "Works of art",
-      "url": "https://en.wikipedia.org/wiki/Works_of_art"
-    },
-    {
-      "title": "Fine art (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Fine_art_(disambiguation)"
-    },
-    {
-      "title": "Self-Portrait with Two Circles",
-      "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"
-    },
-    {
-      "title": "Rembrandt",
-      "url": "https://en.wikipedia.org/wiki/Rembrandt"
-    },
-    {
-      "title": "Kenwood House",
-      "url": "https://en.wikipedia.org/wiki/Kenwood_House"
-    },
-    {
-      "title": "The Art of Painting",
-      "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
-    },
-    {
-      "title": "Johannes Vermeer",
-      "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
-    },
-    {
-      "title": "Kunsthistorisches Museum",
-      "url": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum"
-    },
-    {
-      "title": "Vienna",
-      "url": "https://en.wikipedia.org/wiki/Vienna"
-    },
-    {
-      "title": "Austria",
-      "url": "https://en.wikipedia.org/wiki/Austria"
-    },
     {
       "title": "The Tower of Babel (Bruegel)",
       "url": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)"
@@ -660,6 +609,58 @@
     {
       "title": "MS-DOS",
       "url": "https://en.wikipedia.org/wiki/MS-DOS"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
     }
   ],
   "points": {

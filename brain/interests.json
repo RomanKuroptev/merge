@@ -924,27 +924,6 @@
         }
       ]
     },
-    "definition of art": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T06:07:19.085Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
-      "sources": [
-        {
-          "id": "2026-11-19-art",
-          "title": "Art",
-          "url": "https://en.wikipedia.org/wiki/Art",
-          "at": "2026-11-19T06:07:19.085Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T06:07:19.085Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-1"
-        }
-      ]
-    },
     "art history": {
       "weight": 24,
       "firstSeen": "2026-11-19T06:07:19.085Z",
@@ -982,69 +961,6 @@
           "event": "page",
           "trail": "2026-11-19-1"
         },
-        {
-          "at": "2026-11-19T06:07:19.085Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-1"
-        }
-      ]
-    },
-    "aesthetics": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T06:07:19.085Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
-      "sources": [
-        {
-          "id": "2026-11-19-art",
-          "title": "Art",
-          "url": "https://en.wikipedia.org/wiki/Art",
-          "at": "2026-11-19T06:07:19.085Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T06:07:19.085Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-1"
-        }
-      ]
-    },
-    "fine art": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T06:07:19.085Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
-      "sources": [
-        {
-          "id": "2026-11-19-fine-art",
-          "title": "Fine art",
-          "url": "https://en.wikipedia.org/wiki/Fine_art",
-          "at": "2026-11-19T06:07:19.085Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T06:07:19.085Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-1"
-        }
-      ]
-    },
-    "taste and hierarchy": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T06:07:19.085Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
-      "sources": [
-        {
-          "id": "2026-11-19-fine-art",
-          "title": "Fine art",
-          "url": "https://en.wikipedia.org/wiki/Fine_art",
-          "at": "2026-11-19T06:07:19.085Z"
-        }
-      ],
-      "history": [
         {
           "at": "2026-11-19T06:07:19.085Z",
           "change": 10,
@@ -1371,6 +1287,138 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "esoteric languages": {
+      "weight": 24,
+      "firstSeen": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T14:19:27.506Z",
+      "sources": [
+        {
+          "id": "2026-11-19-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-19T14:19:27.506Z"
+        },
+        {
+          "id": "trail:2026-11-19-4",
+          "title": "Brainfuck bitwidth conversions",
+          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+          "at": "2026-11-19T14:19:27.506Z"
+        },
+        {
+          "id": "2026-11-19-brainfuck-bitwidth-conversions",
+          "title": "Brainfuck bitwidth conversions",
+          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+          "at": "2026-11-19T14:19:27.506Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
+        }
+      ]
+    },
+    "brainfuck": {
+      "weight": 24,
+      "firstSeen": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T14:19:27.506Z",
+      "sources": [
+        {
+          "id": "2026-11-19-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-19T14:19:27.506Z"
+        },
+        {
+          "id": "trail:2026-11-19-4",
+          "title": "Brainfuck bitwidth conversions",
+          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+          "at": "2026-11-19T14:19:27.506Z"
+        },
+        {
+          "id": "2026-11-19-brainfuck-bitwidth-conversions",
+          "title": "Brainfuck bitwidth conversions",
+          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+          "at": "2026-11-19T14:19:27.506Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
+        }
+      ]
+    },
+    "self-interpreters": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T14:19:27.506Z",
+      "sources": [
+        {
+          "id": "2026-11-19-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-19T14:19:27.506Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
+        }
+      ]
+    },
+    "cell widths": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T14:19:27.506Z",
+      "sources": [
+        {
+          "id": "2026-11-19-brainfuck-bitwidth-conversions",
+          "title": "Brainfuck bitwidth conversions",
+          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+          "at": "2026-11-19T14:19:27.506Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T14:19:27.506Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-4"
         }
       ]
     }

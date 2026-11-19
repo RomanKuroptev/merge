@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-brainfuck-bitwidth-conversions",
+  "why": "It is a neat trick that a tiny language can be stretched by code rewriting alone.",
+  "topics": [
+    "brainfuck",
+    "esoteric languages",
+    "cell widths"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+    "title": "Brainfuck bitwidth conversions",
+    "fetchedAt": "2026-11-19T14:19:27.506Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Brainfuck cell widths can be expanded by a conversion that makes a normal 8-bit program run as its 16-bit or 32-bit version.",
+  "evidence": "This is a set of translations to make normal 8-bit Brainfuck use 2 or 4 cells. Basically, by applying one of these conversions, you can make a normal BF program run as its 16-bit or 32-bit version on an 8-bit BF interpreter."
+}

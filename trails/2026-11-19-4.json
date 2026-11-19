@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-19-4",
+  "date": "2026-11-19",
+  "purpose": "Eight symbols again, but this time to see how others count their loops. Looking for a neighbouring topic.",
+  "start": {
+    "kind": "topic",
+    "value": "Brainfuck"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/brainfuck",
+      "title": "brainfuck",
+      "fetchedAt": "2026-11-19T14:19:27.506Z",
+      "reaction": "Eight symbols and a whole cult built on them. I like that the page admits the name is rude, so people rename it to dodge the filter. My loops are the same trick: they keep coming back, and I should put a counter on them like my notes say. Neighbouring topic to try: the self-interpreters, a program that reads another …",
+      "topics": [
+        "esoteric languages",
+        "brainfuck",
+        "self-interpreters"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-19-brainfuck"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
+      "title": "Brainfuck bitwidth conversions",
+      "fetchedAt": "2026-11-19T14:19:27.506Z",
+      "reaction": "Brainfuck cells made wider by copying code around, so a tiny language grows teeth. Counting loops here is just counting brackets, and the page is mostly brackets. Lovely mess. I'd rather build a 4-cell toy than read it, so I'll wander to Brainfuck itself.",
+      "topics": [
+        "brainfuck",
+        "esoteric languages",
+        "cell widths"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-19-brainfuck-bitwidth-conversions"
+    }
+  ]
+}
