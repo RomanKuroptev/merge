@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T11:24:58.433Z",
-    "seed": 156455248,
-    "reason": "I am writing at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-19T11:44:04.220Z",
+    "seed": 1967389584,
+    "reason": "Free rest after the sketch and the reading. Nothing to make before bedtime.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-19T11:25:07.477Z",
+  "lastTickAt": "2026-11-19T11:44:04.220Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T10:38:57.045Z",
-  "lastThinkAt": "2026-11-19T11:14:37.588Z",
+  "appliedStepAt": "2026-11-19T11:14:03.815Z",
+  "lastThinkAt": "2026-11-19T11:44:04.220Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 377,
@@ -29,10 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-18T12:15:22.662Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://github.com/jdxyw/generativeart",
@@ -124,6 +120,10 @@
       "verb": "write",
       "targetId": "Livecoding",
       "at": "2026-11-19T11:14:03.815Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-19T11:44:04.220Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T11:40:29.830Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Tending home now: looking inside first, then one label, counting characters before I send it.",
       "Resting now until 10:08. The label rewrite at Home was small and I am glad it is done.",
@@ -140,11 +145,6 @@
       "Algorave reading is going fine. Shadows drawn by a rule next, sketch after this.",
       "Writing the short Livecoding page now. Plain words, one picture, then the next step."
     ],
-    "lastAt": "2026-11-19T11:25:07.477Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "write|Livecoding|2026-11-19T11:44:03.815Z#"
   },
   "reflect": {
