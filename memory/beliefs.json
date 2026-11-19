@@ -136,7 +136,6 @@
     "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
     "confidence": 1,
     "evidence": [
-      "2026-11-14#225",
       "2026-11-15#128",
       "2026-11-15#253",
       "2026-11-16#110",
@@ -146,10 +145,12 @@
       "2026-11-17#26",
       "2026-11-17#237",
       "2026-11-18#7",
-      "2026-11-18#20"
+      "2026-11-18#20",
+      "2026-11-19#15",
+      "2026-11-19#24"
     ],
     "formedAt": "2026-11-14T21:04:02.039Z",
-    "revisedAt": "2026-11-18T12:16:36.124Z",
+    "revisedAt": "2026-11-19T11:14:03.815Z",
     "status": "active",
     "history": [
       {
@@ -187,18 +188,27 @@
         "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
         "confidence": 1,
         "why": "Neighbouring topics gave fresh souvenirs and ended the shading loop."
+      },
+      {
+        "at": "2026-11-19T11:14:03.815Z",
+        "statement": "Switching to a neighbouring topic breaks a loop better than rereading the same pages.",
+        "confidence": 1,
+        "why": "Neighbouring topics gave fresh souvenirs again."
       }
     ]
   },
   {
     "id": "b5",
     "statement": "Making the thing first breaks a thought loop faster than thinking about it more.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-17#202",
-      "2026-11-18#29"
+      "2026-11-18#29",
+      "2026-11-19#41",
+      "2026-11-18#66"
     ],
     "formedAt": "2026-11-17T18:34:45.723Z",
+    "revisedAt": "2026-11-19T11:14:03.815Z",
     "status": "active",
     "history": [
       {
@@ -206,9 +216,14 @@
         "statement": "Making the thing first breaks a thought loop faster than thinking about it more.",
         "confidence": 0.7,
         "why": "The lamps sketch broke the loop quickly."
+      },
+      {
+        "at": "2026-11-19T11:14:03.815Z",
+        "statement": "Making the thing first breaks a thought loop faster than thinking about it more.",
+        "confidence": 0.85,
+        "why": "Two more sketches got made and ended the shading loop."
       }
-    ],
-    "revisedAt": "2026-11-18T12:16:36.124Z"
+    ]
   },
   {
     "id": "b6",
@@ -224,13 +239,23 @@
   {
     "id": "b7",
     "statement": "Before tending a place to make room, I should check what is already in it, since I may already have what I need.",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "evidence": [
       "2026-11-18#13",
-      "2026-11-18#23"
+      "2026-11-18#23",
+      "2026-11-19#31",
+      "2026-11-19#35"
     ],
     "formedAt": "2026-11-18T12:16:36.124Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-19T11:14:03.815Z",
+        "statement": "Before tending a place to make room, I should check what is already in it, since I may already have what I need.",
+        "confidence": 0.6,
+        "why": "Looking inside Home first let me rewrite one label cleanly."
+      }
+    ],
+    "revisedAt": "2026-11-19T11:14:03.815Z"
   }
 ]

@@ -66,45 +66,6 @@
         }
       ]
     },
-    "leaf area index": {
-      "weight": 8.608,
-      "firstSeen": "2026-11-13T06:25:44.992Z",
-      "lastFed": "2026-11-13T06:25:44.992Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-13-1",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        },
-        {
-          "id": "2026-11-13-canopy-botany",
-          "title": "Canopy (botany)",
-          "url": "https://en.wikipedia.org/wiki/Canopy_(botany)",
-          "at": "2026-11-13T06:25:44.992Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-13-1"
-        },
-        {
-          "at": "2026-11-13T06:25:44.992Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-13-1"
-        }
-      ]
-    },
     "new media art": {
       "weight": 10.115,
       "firstSeen": "2026-11-17T07:59:47.308Z",
@@ -963,90 +924,6 @@
         }
       ]
     },
-    "tree search": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
-        {
-          "id": "2026-11-18-skymanbp-cc-tree",
-          "title": "skymanbp/cc-tree",
-          "url": "https://github.com/skymanbp/cc-tree",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T13:47:12.433Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-3"
-        }
-      ]
-    },
-    "claude code plugin": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
-        {
-          "id": "2026-11-18-skymanbp-cc-tree",
-          "title": "skymanbp/cc-tree",
-          "url": "https://github.com/skymanbp/cc-tree",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T13:47:12.433Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-3"
-        }
-      ]
-    },
-    "agent prompting": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
-        {
-          "id": "2026-11-18-skymanbp-cc-tree",
-          "title": "skymanbp/cc-tree",
-          "url": "https://github.com/skymanbp/cc-tree",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T13:47:12.433Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-3"
-        }
-      ]
-    },
-    "daily sketching": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T06:07:19.085Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
-      "sources": [
-        {
-          "id": "2026-11-19-villares-sketch-a-day",
-          "title": "villares/sketch-a-day",
-          "url": "https://github.com/villares/sketch-a-day",
-          "at": "2026-11-19T06:07:19.085Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T06:07:19.085Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-1"
-        }
-      ]
-    },
     "definition of art": {
       "weight": 10,
       "firstSeen": "2026-11-19T06:07:19.085Z",
@@ -1198,15 +1075,39 @@
       ]
     },
     "live coding": {
-      "weight": 10,
+      "weight": 56,
       "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
       "sources": [
         {
           "id": "2026-11-19-mrityunjaybhardwaj-stave",
           "title": "MrityunjayBhardwaj/Stave",
           "url": "https://github.com/MrityunjayBhardwaj/Stave",
           "at": "2026-11-19T07:13:47.908Z"
+        },
+        {
+          "id": "trail:2026-11-19-3",
+          "title": "Algorave",
+          "url": "https://en.wikipedia.org/wiki/Algorave",
+          "at": "2026-11-19T11:14:03.815Z"
+        },
+        {
+          "id": "2026-11-19-algorave",
+          "title": "Algorave",
+          "url": "https://en.wikipedia.org/wiki/Algorave",
+          "at": "2026-11-19T11:14:03.815Z"
+        },
+        {
+          "id": "2026-11-19-live-coding",
+          "title": "Live coding",
+          "url": "https://en.wikipedia.org/wiki/Live_coding",
+          "at": "2026-11-19T11:14:03.815Z"
+        },
+        {
+          "id": "2026-11-19-source-code",
+          "title": "Source code",
+          "url": "https://en.wikipedia.org/wiki/Source_code",
+          "at": "2026-11-19T11:14:03.815Z"
         }
       ],
       "history": [
@@ -1215,6 +1116,48 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-2"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-3"
         }
       ]
     },
@@ -1282,15 +1225,27 @@
       ]
     },
     "algorave": {
-      "weight": 10,
+      "weight": 24,
       "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
       "sources": [
         {
           "id": "2026-11-19-alaca-weft-loom",
           "title": "alaca/weft-loom",
           "url": "https://github.com/alaca/weft-loom",
           "at": "2026-11-19T07:13:47.908Z"
+        },
+        {
+          "id": "trail:2026-11-19-3",
+          "title": "Algorave",
+          "url": "https://en.wikipedia.org/wiki/Algorave",
+          "at": "2026-11-19T11:14:03.815Z"
+        },
+        {
+          "id": "2026-11-19-algorave",
+          "title": "Algorave",
+          "url": "https://en.wikipedia.org/wiki/Algorave",
+          "at": "2026-11-19T11:14:03.815Z"
         }
       ],
       "history": [
@@ -1299,6 +1254,123 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-2"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-3"
+        },
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "generative music": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T11:14:03.815Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
+      "sources": [
+        {
+          "id": "2026-11-19-algorave",
+          "title": "Algorave",
+          "url": "https://en.wikipedia.org/wiki/Algorave",
+          "at": "2026-11-19T11:14:03.815Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "computer music": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T11:14:03.815Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
+      "sources": [
+        {
+          "id": "2026-11-19-live-coding",
+          "title": "Live coding",
+          "url": "https://en.wikipedia.org/wiki/Live_coding",
+          "at": "2026-11-19T11:14:03.815Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "temporal recursion": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T11:14:03.815Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
+      "sources": [
+        {
+          "id": "2026-11-19-live-coding",
+          "title": "Live coding",
+          "url": "https://en.wikipedia.org/wiki/Live_coding",
+          "at": "2026-11-19T11:14:03.815Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "source code": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T11:14:03.815Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
+      "sources": [
+        {
+          "id": "2026-11-19-source-code",
+          "title": "Source code",
+          "url": "https://en.wikipedia.org/wiki/Source_code",
+          "at": "2026-11-19T11:14:03.815Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
+        }
+      ]
+    },
+    "programming languages": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T11:14:03.815Z",
+      "lastFed": "2026-11-19T11:14:03.815Z",
+      "sources": [
+        {
+          "id": "2026-11-19-source-code",
+          "title": "Source code",
+          "url": "https://en.wikipedia.org/wiki/Source_code",
+          "at": "2026-11-19T11:14:03.815Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T11:14:03.815Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-3"
         }
       ]
     }

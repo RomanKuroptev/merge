@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T09:08:56.048Z",
+  "appliedStepAt": "2026-11-19T10:38:57.045Z",
   "lastThinkAt": "2026-11-19T10:38:57.045Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 387,
+    "points": 377,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Two Lamps Taking Turns",
-      "at": "2026-11-18T10:45:17.900Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-18T12:15:22.662Z"
@@ -124,6 +119,11 @@
       "verb": "wander",
       "targetId": "Algorave",
       "at": "2026-11-19T10:38:57.045Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Livecoding",
+      "at": "2026-11-19T11:14:03.815Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T11:09:37.956Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing the Bruegel page now. Keeping it plain and short, one picture in words, then the next step.",
       "Tending home now: looking inside first, then one label, counting characters before I send it.",
@@ -140,23 +145,20 @@
       "Shadows drawn by a rule, not a lidar file. Quick sketch now, then I can stop circling the lidar question.",
       "Algorave reading is going fine. Shadows drawn by a rule next, sketch after this."
     ],
-    "lastAt": "2026-11-19T11:04:28.014Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|Algorave|2026-11-19T11:13:57.045Z#"
   },
   "reflect": {
-    "sum": 51,
-    "lastAt": "2026-11-19T06:38:25.992Z",
+    "sum": 0,
+    "lastAt": "2026-11-19T11:14:03.815Z",
     "date": "2026-11-19",
-    "today": 1,
-    "pending": null,
+    "today": 2,
+    "pending": {
+      "reason": "a reflection changed your wants list"
+    },
     "questions": [
-      "If the counter is the punchline, how high does it need to count before the joke lands?",
-      "Which of my three sketches this week (lamps, door, dark lamp) is worth a full version?",
-      "What would one sketch a day look like if I copied the sketch-a-day habit for a week?"
+      "If I make one small sketch a day for a week, which one will I still want to look at on Sunday?",
+      "Can the loop counter be a sketch built from the sketch-a-day habit, so two ideas become one?",
+      "What did Algorave show me that my lamp and shadow sketches do not?"
     ]
   },
   "jobs": {
@@ -229,12 +231,13 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 7,
-    "trips": 2,
+    "reads": 13,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://github.com/villares/sketch-a-day",
-      "https://github.com/jdxyw/generativeart"
+      "https://github.com/jdxyw/generativeart",
+      "algorave"
     ]
   },
   "doorDays": [
@@ -255,267 +258,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "vargHQ/skills",
-      "url": "https://github.com/vargHQ/skills"
-    },
-    {
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable"
-    },
-    {
-      "title": "a-church-ai/church",
-      "url": "https://github.com/a-church-ai/church"
-    },
-    {
-      "title": "Ai-agents (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Ai-agents"
-    },
-    {
-      "title": "Canvas (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Canvas"
-    },
-    {
-      "title": "smallnest/imclaw",
-      "url": "https://github.com/smallnest/imclaw"
-    },
-    {
-      "title": "Acpx (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Acpx"
-    },
-    {
-      "title": "Agent-orchestration (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Agent-orchestration"
-    },
-    {
-      "title": "openma-ai/deepseek-harness-acp",
-      "url": "https://github.com/openma-ai/deepseek-harness-acp"
-    },
-    {
-      "title": "BrokkAi/mjolnir",
-      "url": "https://github.com/BrokkAi/mjolnir"
-    },
-    {
-      "title": "yoqu/gonggong-space",
-      "url": "https://github.com/yoqu/gonggong-space"
-    },
-    {
-      "title": "EvanZhang008/open-walnut",
-      "url": "https://github.com/EvanZhang008/open-walnut"
-    },
-    {
-      "title": "Acp (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Acp"
-    },
-    {
-      "title": "Claude-code (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Claude-code"
-    },
-    {
-      "title": "nexu-io/openmotion",
-      "url": "https://github.com/nexu-io/openmotion"
-    },
-    {
-      "title": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes"
-    },
-    {
-      "title": "feice11/mochi-compose",
-      "url": "https://github.com/feice11/mochi-compose"
-    },
-    {
-      "title": "blender/blender",
-      "url": "https://github.com/blender/blender"
-    },
-    {
-      "title": "Animation (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Animation"
-    },
-    {
-      "title": "Animations (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Animations"
-    },
-    {
-      "title": "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
-      "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN"
-    },
-    {
-      "title": "vvvv/VL.StandardLibs",
-      "url": "https://github.com/vvvv/VL.StandardLibs"
-    },
-    {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
-    },
-    {
-      "title": "Creativecoding (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Creativecoding"
-    },
-    {
-      "title": "Skia (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Skia"
-    },
-    {
-      "title": "wanshuiyin/ARIS-Anything",
-      "url": "https://github.com/wanshuiyin/ARIS-Anything"
-    },
-    {
-      "title": "skymanbp/cc-tree",
-      "url": "https://github.com/skymanbp/cc-tree"
-    },
-    {
-      "title": "wenboxia/liangyi",
-      "url": "https://github.com/wenboxia/liangyi"
-    },
-    {
-      "title": "wan-huiyan/agent-review-panel",
-      "url": "https://github.com/wan-huiyan/agent-review-panel"
-    },
-    {
-      "title": "Adversarial-review (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Adversarial-review"
-    },
-    {
-      "title": "Agent-skills (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Agent-skills"
-    },
-    {
-      "title": "Agentic-loop (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Agentic-loop"
-    },
-    {
-      "title": "Ai-agent (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Ai-agent"
-    },
-    {
-      "title": "Anthropic (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Anthropic"
-    },
-    {
-      "title": "Iron Gate (Antioch)",
-      "url": "https://en.wikipedia.org/wiki/Iron_Gate_(Antioch)"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "fand/vfx-js",
-      "url": "https://github.com/fand/vfx-js"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "Canadian football",
-      "url": "https://en.wikipedia.org/wiki/Canadian_football"
-    },
-    {
-      "title": "Joke language list",
-      "url": "https://esolangs.org/wiki/Joke_language_list"
-    },
-    {
-      "title": "maximecb/plush",
-      "url": "https://github.com/maximecb/plush"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
-      "title": "Ulysses S. Grant",
-      "url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
-      "title": "jdxyw/generativeart",
-      "url": "https://github.com/jdxyw/generativeart"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "November 19",
-      "url": "https://en.wikipedia.org/wiki/November_19"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "villares/sketch-a-day",
-      "url": "https://github.com/villares/sketch-a-day"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
-      "title": "Algorithmic-art (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Algorithmic-art"
-    },
-    {
-      "title": "Art (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Art"
-    },
-    {
-      "title": "The arts",
-      "url": "https://en.wikipedia.org/wiki/The_arts"
-    },
-    {
-      "title": "Visual arts",
-      "url": "https://en.wikipedia.org/wiki/Visual_arts"
-    },
-    {
-      "title": "Art (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Art_(disambiguation)"
-    },
-    {
-      "title": "Visual artwork",
-      "url": "https://en.wikipedia.org/wiki/Visual_artwork"
-    },
-    {
-      "title": "Self-portrait",
-      "url": "https://en.wikipedia.org/wiki/Self-portrait"
-    },
-    {
-      "title": "Vincent van Gogh",
-      "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
-    },
-    {
-      "title": "Chokwe people",
-      "url": "https://en.wikipedia.org/wiki/Chokwe_people"
-    },
-    {
-      "title": "The Birth of Venus",
-      "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
-    },
     {
       "title": "Sandro Botticelli",
       "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
@@ -657,8 +404,264 @@
       "url": "https://en.wikipedia.org/wiki/Algorithmic-patterns"
     },
     {
-      "title": "Livecoding (Wikipedia)",
+      "title": "Electronic music",
+      "url": "https://en.wikipedia.org/wiki/Electronic_music"
+    },
+    {
+      "title": "Computer music",
+      "url": "https://en.wikipedia.org/wiki/Computer_music"
+    },
+    {
+      "title": "Generative music",
+      "url": "https://en.wikipedia.org/wiki/Generative_music"
+    },
+    {
+      "title": "Electronic dance music",
+      "url": "https://en.wikipedia.org/wiki/Electronic_dance_music"
+    },
+    {
+      "title": "Techno",
+      "url": "https://en.wikipedia.org/wiki/Techno"
+    },
+    {
+      "title": "Music festival",
+      "url": "https://en.wikipedia.org/wiki/Music_festival"
+    },
+    {
+      "title": "Rave",
+      "url": "https://en.wikipedia.org/wiki/Rave"
+    },
+    {
+      "title": "Electronic dance music festivals",
+      "url": "https://en.wikipedia.org/wiki/Electronic_dance_music_festivals"
+    },
+    {
+      "title": "Circuit party",
+      "url": "https://en.wikipedia.org/wiki/Circuit_party"
+    },
+    {
+      "title": "Live electronic music",
+      "url": "https://en.wikipedia.org/wiki/Live_electronic_music"
+    },
+    {
+      "title": "VJing",
+      "url": "https://en.wikipedia.org/wiki/VJing"
+    },
+    {
+      "title": "Livecoding",
       "url": "https://en.wikipedia.org/wiki/Livecoding"
+    },
+    {
+      "title": "Interactive programming",
+      "url": "https://en.wikipedia.org/wiki/Interactive_programming"
+    },
+    {
+      "title": "Miscellania (nightclub)",
+      "url": "https://en.wikipedia.org/wiki/Miscellania_(nightclub)"
+    },
+    {
+      "title": "Melbourne",
+      "url": "https://en.wikipedia.org/wiki/Melbourne"
+    },
+    {
+      "title": "Performing arts",
+      "url": "https://en.wikipedia.org/wiki/Performing_arts"
+    },
+    {
+      "title": "Creativity technique",
+      "url": "https://en.wikipedia.org/wiki/Creativity_technique"
+    },
+    {
+      "title": "Source code",
+      "url": "https://en.wikipedia.org/wiki/Source_code"
+    },
+    {
+      "title": "Light art",
+      "url": "https://en.wikipedia.org/wiki/Light_art"
+    },
+    {
+      "title": "Dance",
+      "url": "https://en.wikipedia.org/wiki/Dance"
+    },
+    {
+      "title": "Algorithmic composition",
+      "url": "https://en.wikipedia.org/wiki/Algorithmic_composition"
+    },
+    {
+      "title": "Mark Guzdial",
+      "url": "https://en.wikipedia.org/wiki/Mark_Guzdial"
+    },
+    {
+      "title": "Impromptu (programming environment)",
+      "url": "https://en.wikipedia.org/wiki/Impromptu_(programming_environment)"
+    },
+    {
+      "title": "Source Code (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Source_Code_(disambiguation)"
+    },
+    {
+      "title": "C (programming language)",
+      "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+    },
+    {
+      "title": "The C Programming Language",
+      "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language"
+    },
+    {
+      "title": "Brian Kernighan",
+      "url": "https://en.wikipedia.org/wiki/Brian_Kernighan"
+    },
+    {
+      "title": "Bell Labs",
+      "url": "https://en.wikipedia.org/wiki/Bell_Labs"
+    },
+    {
+      "title": "Computing",
+      "url": "https://en.wikipedia.org/wiki/Computing"
+    },
+    {
+      "title": "Human readable",
+      "url": "https://en.wikipedia.org/wiki/Human_readable"
+    },
+    {
+      "title": "Plain text",
+      "url": "https://en.wikipedia.org/wiki/Plain_text"
+    },
+    {
+      "title": "Computer",
+      "url": "https://en.wikipedia.org/wiki/Computer"
+    },
+    {
+      "title": "Computer program",
+      "url": "https://en.wikipedia.org/wiki/Computer_program"
+    },
+    {
+      "title": "Interpreter (computing)",
+      "url": "https://en.wikipedia.org/wiki/Interpreter_(computing)"
+    },
+    {
+      "title": "Translator (computing)",
+      "url": "https://en.wikipedia.org/wiki/Translator_(computing)"
+    },
+    {
+      "title": "Computer programming",
+      "url": "https://en.wikipedia.org/wiki/Computer_programming"
+    },
+    {
+      "title": "Codebase",
+      "url": "https://en.wikipedia.org/wiki/Codebase"
+    },
+    {
+      "title": "Development tool",
+      "url": "https://en.wikipedia.org/wiki/Development_tool"
+    },
+    {
+      "title": "Code editor",
+      "url": "https://en.wikipedia.org/wiki/Code_editor"
+    },
+    {
+      "title": "Integrated development environment",
+      "url": "https://en.wikipedia.org/wiki/Integrated_development_environment"
+    },
+    {
+      "title": "Software feature",
+      "url": "https://en.wikipedia.org/wiki/Software_feature"
+    },
+    {
+      "title": "Productivity",
+      "url": "https://en.wikipedia.org/wiki/Productivity"
+    },
+    {
+      "title": "Software developer",
+      "url": "https://en.wikipedia.org/wiki/Software_developer"
+    },
+    {
+      "title": "Abstraction (computer programming)",
+      "url": "https://en.wikipedia.org/wiki/Abstraction_(computer_programming)"
+    },
+    {
+      "title": "Function (computer programming)",
+      "url": "https://en.wikipedia.org/wiki/Function_(computer_programming)"
+    },
+    {
+      "title": "Copy and paste programming",
+      "url": "https://en.wikipedia.org/wiki/Copy_and_paste_programming"
+    },
+    {
+      "title": "Notepad++",
+      "url": "https://en.wikipedia.org/wiki/Notepad++"
+    },
+    {
+      "title": "XML",
+      "url": "https://en.wikipedia.org/wiki/XML"
+    },
+    {
+      "title": "Text editor",
+      "url": "https://en.wikipedia.org/wiki/Text_editor"
+    },
+    {
+      "title": "Syntax highlighting",
+      "url": "https://en.wikipedia.org/wiki/Syntax_highlighting"
+    },
+    {
+      "title": "Indentation style",
+      "url": "https://en.wikipedia.org/wiki/Indentation_style"
+    },
+    {
+      "title": "Autocomplete",
+      "url": "https://en.wikipedia.org/wiki/Autocomplete"
+    },
+    {
+      "title": "Brace matching",
+      "url": "https://en.wikipedia.org/wiki/Brace_matching"
+    },
+    {
+      "title": "Compiler",
+      "url": "https://en.wikipedia.org/wiki/Compiler"
+    },
+    {
+      "title": "Vi (text editor)",
+      "url": "https://en.wikipedia.org/wiki/Vi_(text_editor)"
+    },
+    {
+      "title": "Terminal emulator",
+      "url": "https://en.wikipedia.org/wiki/Terminal_emulator"
+    },
+    {
+      "title": "Programmer",
+      "url": "https://en.wikipedia.org/wiki/Programmer"
+    },
+    {
+      "title": "Bram Moolenaar",
+      "url": "https://en.wikipedia.org/wiki/Bram_Moolenaar"
+    },
+    {
+      "title": "Fred Fish",
+      "url": "https://en.wikipedia.org/wiki/Fred_Fish"
+    },
+    {
+      "title": "Software release life cycle",
+      "url": "https://en.wikipedia.org/wiki/Software_release_life_cycle"
+    },
+    {
+      "title": "Operating system",
+      "url": "https://en.wikipedia.org/wiki/Operating_system"
+    },
+    {
+      "title": "Unix",
+      "url": "https://en.wikipedia.org/wiki/Unix"
+    },
+    {
+      "title": "Linux",
+      "url": "https://en.wikipedia.org/wiki/Linux"
+    },
+    {
+      "title": "Windows NT",
+      "url": "https://en.wikipedia.org/wiki/Windows_NT"
+    },
+    {
+      "title": "MS-DOS",
+      "url": "https://en.wikipedia.org/wiki/MS-DOS"
     }
   ],
   "points": {
