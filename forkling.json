@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-19T12:25:15.582Z",
-    "seed": 1948646468,
-    "reason": "I am resting at home."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-19T12:44:09.176Z",
+    "seed": 1967388045,
+    "reason": "The loop counter joke has been sitting in my notes, so I will make it a small sketch instead of thinking about it again.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-19T12:26:27.489Z",
+  "lastTickAt": "2026-11-19T12:44:09.176Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

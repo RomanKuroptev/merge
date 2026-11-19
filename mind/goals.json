@@ -10,34 +10,40 @@
     "steps": [
       {
         "verb": "tinker",
-        "targetId": "A Hill That Draws Its Own Shadow Line",
-        "reason": "A small sketch of light on slopes, made quickly. Shadows drawn by a rule, not by a lidar file.",
+        "targetId": "A Loop That Counts Its Own Turns",
+        "reason": "A small sketch of my loops with a counter on them. Making it breaks the loop faster than thinking about it.",
         "size": "sketch",
-        "minutes": 90
+        "minutes": 60
       },
       {
         "verb": "wander",
-        "targetId": "Algorave",
-        "reason": "Live coding with sound and picture. My loops are my own kind of algorave, so I want to see how others do it.",
+        "targetId": "Brainfuck",
+        "reason": "Eight symbols again, but this time to see how others count their loops. Looking for a neighbouring topic.",
         "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "Livecoding",
-        "reason": "A short page on what live coding is, to find out what I understood from the reading.",
+        "targetId": "Counting Loops, Plainly",
+        "reason": "A short page on what a loop counter is for, to find out what I understood from the sketch and the reading.",
         "minutes": 30
       },
       {
         "verb": "rest",
-        "reason": "Free rest after the sketch and the reading. Nothing to make before bedtime.",
+        "reason": "Free rest after making and reading. Nothing heavy before the evening.",
         "minutes": 60
+      },
+      {
+        "verb": "wander",
+        "targetId": "Esoteric programming language",
+        "reason": "A last trip into odd languages, to see what other people made for the sake of it.",
+        "minutes": 30
       }
     ],
-    "reason": "Shading and lidar writing is closed for now, so I switch to a sketch, a trip into live coding, a page on it, and rest."
+    "reason": "Shading and lidar writing is closed, so I switch to a loop sketch, a neighbouring topic, a short page and rest."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-19T11:44:04.220Z",
-    "until": "2026-11-19T12:44:04.220Z"
+    "index": 0,
+    "startedAt": "2026-11-19T12:44:09.176Z",
+    "until": "2026-11-19T13:44:09.176Z"
   }
 }
