@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T16:54:48.248Z",
+  "appliedStepAt": "2026-11-19T17:14:53.822Z",
   "lastThinkAt": "2026-11-19T17:14:53.822Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 318,
+    "points": 315,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,10 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-18T19:37:51.422Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://github.com/villares/sketch-a-day",
@@ -123,6 +119,11 @@
     {
       "verb": "rest",
       "at": "2026-11-19T17:14:53.822Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Thue",
+      "at": "2026-11-19T18:15:03.968Z"
     }
   ],
   "sparked": {
@@ -131,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T18:14:32.700Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Resting now. Sketch and page are done, so the afternoon can stay quiet until evening.",
       "Last trip into odd languages before bed. Curious what people build just for the sake of it.",
@@ -139,11 +145,6 @@
       "Writing the lamps caption now. Plain words, then on to the next step.",
       "Resting now. The lamps caption is done, so the afternoon can stay quiet until evening."
     ],
-    "lastAt": "2026-11-19T18:00:05.240Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-19T18:14:53.822Z#"
   },
   "reflect": {

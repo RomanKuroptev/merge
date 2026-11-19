@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.35,
+  "energy": -0.4,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-19T18:00:00.100Z",
-    "seed": 404148849,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-19T18:15:03.968Z",
+    "seed": 1967269427,
+    "reason": "One last odd language before bed, to see what rewriting rules look like when nobody needs them.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-19T18:00:05.240Z",
+  "lastTickAt": "2026-11-19T18:15:03.968Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
