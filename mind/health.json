@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-19T06:07:19.085Z",
+  "updatedAt": "2026-11-19T06:22:15.729Z",
   "engine": "v0.18.0",
   "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-19T06:07:19.085Z",
+    "at": "2026-11-19T06:22:15.729Z",
     "asleep": false,
-    "summary": "step 2/4: write, wandered from https://github.com/villares/sketch-a-day",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,21 +24,24 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 421,
-    "decideCalls": 2,
+    "ticks": 437,
+    "decideCalls": 3,
     "callsByKind": {
       "morning": 2,
-      "thought": 1,
-      "read": 3
+      "thought": 2,
+      "read": 3,
+      "decide": 1
     },
     "spendByKind": {
       "morning": 0.003710045,
-      "thought": 0.0005006,
-      "read": 0.001760835
+      "thought": 0.0010922000000000002,
+      "read": 0.001760835,
+      "decide": 0.001020975
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -72,11 +73,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 34
+    "minutes": 48
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.67583356,
+    "monthUsd": 1.67744614,
     "capUsd": 12.6,
     "paceUsd": 7.98
   },
