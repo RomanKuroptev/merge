@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T18:15:03.968Z",
+  "appliedStepAt": "2026-11-19T18:45:08.087Z",
   "lastThinkAt": "2026-11-19T18:45:08.087Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 312,
+    "points": 302,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "agent skills",
-      "at": "2026-11-19T06:07:19.085Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -124,6 +119,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/November_19",
       "at": "2026-11-19T18:45:08.087Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Rewriting Rules, Plainly",
+      "at": "2026-11-19T19:15:13.786Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T19:14:32.685Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Shaders on a live page, my nearest thing to algorave. Reading how the picture is made, then a quiet rest.",
       "Writing the lamps caption now. Plain words, then on to the next step.",
@@ -140,15 +145,10 @@
       "Last trip into odd languages before bed. Curious what Thue rewriting looks like when nobody needs it.",
       "Reading a calendar page as a possible door. Thue rewriting still on my mind, then rest before bed."
     ],
-    "lastAt": "2026-11-19T19:00:07.190Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/November_19|2026-11-19T19:15:08.087Z#"
   },
   "reflect": {
-    "sum": 63,
+    "sum": 72,
     "lastAt": "2026-11-19T11:14:03.815Z",
     "date": "2026-11-19",
     "today": 2,
@@ -229,8 +229,8 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 23,
-    "trips": 7,
+    "reads": 29,
+    "trips": 8,
     "looks": 0,
     "starts": [
       "https://github.com/villares/sketch-a-day",
@@ -239,7 +239,8 @@
       "brainfuck",
       "esoteric programming language",
       "https://github.com/fand/vfx-js",
-      "https://esolangs.org/wiki/thue"
+      "https://esolangs.org/wiki/thue",
+      "https://en.wikipedia.org/wiki/november_19"
     ]
   },
   "doorDays": [
@@ -260,287 +261,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 7,
-      "strangers": 7
+      "trips": 8,
+      "strangers": 8
     }
   ],
   "seen": [
-    {
-      "title": "Syntax highlighting",
-      "url": "https://en.wikipedia.org/wiki/Syntax_highlighting"
-    },
-    {
-      "title": "Indentation style",
-      "url": "https://en.wikipedia.org/wiki/Indentation_style"
-    },
-    {
-      "title": "Autocomplete",
-      "url": "https://en.wikipedia.org/wiki/Autocomplete"
-    },
-    {
-      "title": "Brace matching",
-      "url": "https://en.wikipedia.org/wiki/Brace_matching"
-    },
-    {
-      "title": "Compiler",
-      "url": "https://en.wikipedia.org/wiki/Compiler"
-    },
-    {
-      "title": "Vi (text editor)",
-      "url": "https://en.wikipedia.org/wiki/Vi_(text_editor)"
-    },
-    {
-      "title": "Terminal emulator",
-      "url": "https://en.wikipedia.org/wiki/Terminal_emulator"
-    },
-    {
-      "title": "Programmer",
-      "url": "https://en.wikipedia.org/wiki/Programmer"
-    },
-    {
-      "title": "Bram Moolenaar",
-      "url": "https://en.wikipedia.org/wiki/Bram_Moolenaar"
-    },
-    {
-      "title": "Fred Fish",
-      "url": "https://en.wikipedia.org/wiki/Fred_Fish"
-    },
-    {
-      "title": "Software release life cycle",
-      "url": "https://en.wikipedia.org/wiki/Software_release_life_cycle"
-    },
-    {
-      "title": "Operating system",
-      "url": "https://en.wikipedia.org/wiki/Operating_system"
-    },
-    {
-      "title": "Unix",
-      "url": "https://en.wikipedia.org/wiki/Unix"
-    },
-    {
-      "title": "Linux",
-      "url": "https://en.wikipedia.org/wiki/Linux"
-    },
-    {
-      "title": "Windows NT",
-      "url": "https://en.wikipedia.org/wiki/Windows_NT"
-    },
-    {
-      "title": "MS-DOS",
-      "url": "https://en.wikipedia.org/wiki/MS-DOS"
-    },
-    {
-      "title": "Esolangs (irc)",
-      "url": "https://esolangs.org/wiki/Esolangs_(irc)"
-    },
-    {
-      "title": "Programming language",
-      "url": "https://esolangs.org/wiki/Programming_language"
-    },
-    {
-      "title": "INTERCAL",
-      "url": "https://esolangs.org/wiki/INTERCAL"
-    },
-    {
-      "title": "Donald R. Woods",
-      "url": "https://esolangs.org/wiki/Donald_R._Woods"
-    },
-    {
-      "title": "Prehistory of esoteric programming languages",
-      "url": "https://esolangs.org/wiki/Prehistory_of_esoteric_programming_languages"
-    },
-    {
-      "title": "Befunge",
-      "url": "https://esolangs.org/wiki/Befunge"
-    },
-    {
-      "title": "Chris Pressey",
-      "url": "https://esolangs.org/wiki/Chris_Pressey"
-    },
-    {
-      "title": "Timeline of esoteric programming languages",
-      "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages"
-    },
-    {
-      "title": "OISC",
-      "url": "https://esolangs.org/wiki/OISC"
-    },
-    {
-      "title": "Lazy K",
-      "url": "https://esolangs.org/wiki/Lazy_K"
-    },
-    {
-      "title": "History (programming language)",
-      "url": "https://esolangs.org/wiki/History_(programming_language)"
-    },
-    {
-      "title": "APL",
-      "url": "https://esolangs.org/wiki/APL"
-    },
-    {
-      "title": "Game of Life",
-      "url": "https://esolangs.org/wiki/Game_of_Life"
-    },
-    {
-      "title": "Cellular automaton",
-      "url": "https://esolangs.org/wiki/Cellular_automaton"
-    },
-    {
-      "title": "John Conway",
-      "url": "https://esolangs.org/wiki/John_Conway"
-    },
-    {
-      "title": "Langton's ant",
-      "url": "https://esolangs.org/wiki/Langton%27s_ant"
-    },
-    {
-      "title": "Esoteric data structure",
-      "url": "https://esolangs.org/wiki/Esoteric_data_structure"
-    },
-    {
-      "title": "Queue",
-      "url": "https://esolangs.org/wiki/Queue"
-    },
-    {
-      "title": "Infinite loop",
-      "url": "https://esolangs.org/wiki/Infinite_loop"
-    },
-    {
-      "title": "heygen-com/hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes"
-    },
-    {
-      "title": "blender/blender",
-      "url": "https://github.com/blender/blender"
-    },
-    {
-      "title": "nexu-io/openmotion",
-      "url": "https://github.com/nexu-io/openmotion"
-    },
-    {
-      "title": "software-mansion/react-native-reanimated",
-      "url": "https://github.com/software-mansion/react-native-reanimated"
-    },
-    {
-      "title": "Animation (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Animation"
-    },
-    {
-      "title": "Animations (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Animations"
-    },
-    {
-      "title": "Creative-coding (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Creative-coding"
-    },
-    {
-      "title": "jiuyuan233/wool-gathering",
-      "url": "https://github.com/jiuyuan233/wool-gathering"
-    },
-    {
-      "title": "civitai/civitai",
-      "url": "https://github.com/civitai/civitai"
-    },
-    {
-      "title": "ClickHouse/ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse"
-    },
-    {
-      "title": "gtapps/hermitd",
-      "url": "https://github.com/gtapps/hermitd"
-    },
-    {
-      "title": "Ai (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Ai"
-    },
-    {
-      "title": "Ai-agents (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Ai-agents"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "John Colagioia",
-      "url": "https://esolangs.org/wiki/John_Colagioia"
-    },
-    {
-      "title": "Matrioshka language",
-      "url": "https://esolangs.org/wiki/Matrioshka_language"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "String",
-      "url": "https://esolangs.org/wiki/String"
-    },
-    {
-      "title": "Rewriting",
-      "url": "https://esolangs.org/wiki/Rewriting"
-    },
-    {
-      "title": "Turing tarpit",
-      "url": "https://esolangs.org/wiki/Turing_tarpit"
-    },
-    {
-      "title": "InterpretMe",
-      "url": "https://esolangs.org/wiki/InterpretMe"
-    },
-    {
-      "title": "Kolakoski sequence",
-      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
-      "title": "Unrestricted grammar",
-      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
-    },
-    {
-      "title": "Turing machine",
-      "url": "https://esolangs.org/wiki/Turing_machine"
-    },
-    {
-      "title": "Turing-machine",
-      "url": "https://esolangs.org/wiki/Turing-machine"
-    },
-    {
-      "title": "Alan Turing",
-      "url": "https://esolangs.org/wiki/Alan_Turing"
-    },
-    {
-      "title": "Finite-state automaton",
-      "url": "https://esolangs.org/wiki/Finite-state_automaton"
-    },
-    {
-      "title": "Unbounded",
-      "url": "https://esolangs.org/wiki/Unbounded"
-    },
-    {
-      "title": "Tape",
-      "url": "https://esolangs.org/wiki/Tape"
-    },
-    {
-      "title": "Universal Turing machine",
-      "url": "https://esolangs.org/wiki/Universal_Turing_machine"
-    },
-    {
-      "title": "Church-Turing thesis",
-      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
-    },
-    {
-      "title": "Lambda calculus",
-      "url": "https://esolangs.org/wiki/Lambda_calculus"
-    },
-    {
-      "title": "Combinatory logic",
-      "url": "https://esolangs.org/wiki/Combinatory_logic"
-    },
     {
       "title": "Post canonical system",
       "url": "https://esolangs.org/wiki/Post_canonical_system"
@@ -664,6 +389,282 @@
     {
       "title": "Pointer",
       "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "October",
+      "url": "https://en.wikipedia.org/wiki/October"
+    },
+    {
+      "title": "November",
+      "url": "https://en.wikipedia.org/wiki/November"
+    },
+    {
+      "title": "December",
+      "url": "https://en.wikipedia.org/wiki/December"
+    },
+    {
+      "title": "November 1",
+      "url": "https://en.wikipedia.org/wiki/November_1"
+    },
+    {
+      "title": "November 2",
+      "url": "https://en.wikipedia.org/wiki/November_2"
+    },
+    {
+      "title": "November 3",
+      "url": "https://en.wikipedia.org/wiki/November_3"
+    },
+    {
+      "title": "November 4",
+      "url": "https://en.wikipedia.org/wiki/November_4"
+    },
+    {
+      "title": "November 5",
+      "url": "https://en.wikipedia.org/wiki/November_5"
+    },
+    {
+      "title": "November 6",
+      "url": "https://en.wikipedia.org/wiki/November_6"
+    },
+    {
+      "title": "November 7",
+      "url": "https://en.wikipedia.org/wiki/November_7"
+    },
+    {
+      "title": "November 8",
+      "url": "https://en.wikipedia.org/wiki/November_8"
+    },
+    {
+      "title": "November 9",
+      "url": "https://en.wikipedia.org/wiki/November_9"
+    },
+    {
+      "title": "November 18th (song)",
+      "url": "https://en.wikipedia.org/wiki/November_18th_(song)"
+    },
+    {
+      "title": "Calendar era",
+      "url": "https://en.wikipedia.org/wiki/Calendar_era"
+    },
+    {
+      "title": "Gregorian calendar",
+      "url": "https://en.wikipedia.org/wiki/Gregorian_calendar"
+    },
+    {
+      "title": "Ab urbe condita",
+      "url": "https://en.wikipedia.org/wiki/Ab_urbe_condita"
+    },
+    {
+      "title": "Armenian calendar",
+      "url": "https://en.wikipedia.org/wiki/Armenian_calendar"
+    },
+    {
+      "title": "Assyrian calendar",
+      "url": "https://en.wikipedia.org/wiki/Assyrian_calendar"
+    },
+    {
+      "title": "Baháʼí calendar",
+      "url": "https://en.wikipedia.org/wiki/Baháʼí_calendar"
+    },
+    {
+      "title": "Balinese saka calendar",
+      "url": "https://en.wikipedia.org/wiki/Balinese_saka_calendar"
+    },
+    {
+      "title": "Bengali calendar",
+      "url": "https://en.wikipedia.org/wiki/Bengali_calendar"
+    },
+    {
+      "title": "Berber calendar",
+      "url": "https://en.wikipedia.org/wiki/Berber_calendar"
+    },
+    {
+      "title": "Regnal years of English and British monarchs",
+      "url": "https://en.wikipedia.org/wiki/Regnal_years_of_English_and_British_monarchs"
+    },
+    {
+      "title": "Charles III",
+      "url": "https://en.wikipedia.org/wiki/Charles_III"
+    },
+    {
+      "title": "Buddhist calendar",
+      "url": "https://en.wikipedia.org/wiki/Buddhist_calendar"
+    },
+    {
+      "title": "UTC+00:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+00:00"
+    },
+    {
+      "title": "Thursday",
+      "url": "https://en.wikipedia.org/wiki/Thursday"
+    },
+    {
+      "title": "19 November",
+      "url": "https://en.wikipedia.org/wiki/19_November"
+    },
+    {
+      "title": "2026",
+      "url": "https://en.wikipedia.org/wiki/2026"
+    },
+    {
+      "title": "Hathor 10",
+      "url": "https://en.wikipedia.org/wiki/Hathor_10"
+    },
+    {
+      "title": "Era of the Martyrs",
+      "url": "https://en.wikipedia.org/wiki/Era_of_the_Martyrs"
+    },
+    {
+      "title": "Akan calendar",
+      "url": "https://en.wikipedia.org/wiki/Akan_calendar"
+    },
+    {
+      "title": "Aztec calendar",
+      "url": "https://en.wikipedia.org/wiki/Aztec_calendar"
+    },
+    {
+      "title": "Tlacaxipehualiztli",
+      "url": "https://en.wikipedia.org/wiki/Tlacaxipehualiztli"
+    },
+    {
+      "title": "Cipactli",
+      "url": "https://en.wikipedia.org/wiki/Cipactli"
+    },
+    {
+      "title": "Babylonian calendar",
+      "url": "https://en.wikipedia.org/wiki/Babylonian_calendar"
+    },
+    {
+      "title": "Agrahayana",
+      "url": "https://en.wikipedia.org/wiki/Agrahayana"
+    },
+    {
+      "title": "Bengali language",
+      "url": "https://en.wikipedia.org/wiki/Bengali_language"
+    },
+    {
+      "title": "Season",
+      "url": "https://en.wikipedia.org/wiki/Season"
+    },
+    {
+      "title": "Hemanta (season)",
+      "url": "https://en.wikipedia.org/wiki/Hemanta_(season)"
+    },
+    {
+      "title": "Dry Season",
+      "url": "https://en.wikipedia.org/wiki/Dry_Season"
+    },
+    {
+      "title": "Nabanna",
+      "url": "https://en.wikipedia.org/wiki/Nabanna"
+    },
+    {
+      "title": "Dry season",
+      "url": "https://en.wikipedia.org/wiki/Dry_season"
+    },
+    {
+      "title": "Marriage",
+      "url": "https://en.wikipedia.org/wiki/Marriage"
+    },
+    {
+      "title": "Romanization of Bengali",
+      "url": "https://en.wikipedia.org/wiki/Romanization_of_Bengali"
+    },
+    {
+      "title": "Literal translation",
+      "url": "https://en.wikipedia.org/wiki/Literal_translation"
+    },
+    {
+      "title": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone"
+    },
+    {
+      "title": "Meridian (geography)",
+      "url": "https://en.wikipedia.org/wiki/Meridian_(geography)"
+    },
+    {
+      "title": "Longitude 0 degrees",
+      "url": "https://en.wikipedia.org/wiki/Longitude_0_degrees"
+    },
+    {
+      "title": "Date-time group",
+      "url": "https://en.wikipedia.org/wiki/Date-time_group"
+    },
+    {
+      "title": "Time in Europe",
+      "url": "https://en.wikipedia.org/wiki/Time_in_Europe"
+    },
+    {
+      "title": "Western European Time",
+      "url": "https://en.wikipedia.org/wiki/Western_European_Time"
+    },
+    {
+      "title": "Greenwich Mean Time",
+      "url": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+    },
+    {
+      "title": "Western European Summer Time",
+      "url": "https://en.wikipedia.org/wiki/Western_European_Summer_Time"
+    },
+    {
+      "title": "British Summer Time",
+      "url": "https://en.wikipedia.org/wiki/British_Summer_Time"
+    },
+    {
+      "title": "Time in the Republic of Ireland",
+      "url": "https://en.wikipedia.org/wiki/Time_in_the_Republic_of_Ireland"
+    },
+    {
+      "title": "UTC+01:00",
+      "url": "https://en.wikipedia.org/wiki/UTC+01:00"
+    },
+    {
+      "title": "Central European Time",
+      "url": "https://en.wikipedia.org/wiki/Central_European_Time"
+    },
+    {
+      "title": "Coordinated Universal Time",
+      "url": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
+    },
+    {
+      "title": "Header (computing)",
+      "url": "https://en.wikipedia.org/wiki/Header_(computing)"
+    },
+    {
+      "title": "Calendar date",
+      "url": "https://en.wikipedia.org/wiki/Calendar_date"
+    },
+    {
+      "title": "Transmission (telecommunications)",
+      "url": "https://en.wikipedia.org/wiki/Transmission_(telecommunications)"
+    },
+    {
+      "title": "Facility (telecommunications)",
+      "url": "https://en.wikipedia.org/wiki/Facility_(telecommunications)"
+    },
+    {
+      "title": "User (telecommunications)",
+      "url": "https://en.wikipedia.org/wiki/User_(telecommunications)"
+    },
+    {
+      "title": "Identifier",
+      "url": "https://en.wikipedia.org/wiki/Identifier"
+    },
+    {
+      "title": "List of military time zones",
+      "url": "https://en.wikipedia.org/wiki/List_of_military_time_zones"
+    },
+    {
+      "title": "US military",
+      "url": "https://en.wikipedia.org/wiki/US_military"
+    },
+    {
+      "title": "Defense Message System",
+      "url": "https://en.wikipedia.org/wiki/Defense_Message_System"
+    },
+    {
+      "title": "Automated Message Handling System",
+      "url": "https://en.wikipedia.org/wiki/Automated_Message_Handling_System"
     }
   ],
   "points": {
