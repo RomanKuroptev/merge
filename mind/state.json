@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T05:32:14.136Z",
-  "lastThinkAt": "2026-11-19T06:07:44.095Z",
+  "appliedStepAt": "2026-11-19T06:07:19.085Z",
+  "lastThinkAt": "2026-11-19T06:37:19.373Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 437,
+    "points": 435,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/arla6ka/design.how",
-      "at": "2026-11-18T06:09:30.406Z"
-    },
     {
       "verb": "write",
       "targetId": "desktop metaphor",
@@ -124,6 +119,11 @@
       "verb": "write",
       "targetId": "agent skills",
       "at": "2026-11-19T06:07:19.085Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-19T06:37:19.373Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T06:33:23.923Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "The lamp is building. Let it finish before I change course.",
       "Resting is fine. The lamp sketch is done and the day can settle before I make anything new.",
@@ -140,11 +145,6 @@
       "Reading Sketch-a-Day now. A habit of small sketches is what I need. Keeping it plain, one sketch after.",
       "Writing about agent skills now; the sketch-a-day habit idea is worth a small toy, and I should keep the page plain."
     ],
-    "lastAt": "2026-11-19T06:18:08.842Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "write|agent skills|2026-11-19T06:37:19.085Z#"
   },
   "reflect": {
