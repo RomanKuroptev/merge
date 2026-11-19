@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T07:23:39.323Z",
-    "seed": 2001190124,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-19T07:43:53.348Z",
+    "seed": 1967370797,
+    "reason": "Look inside Home first, then rewrite one label to fit 120 characters. Count before sending.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-19T07:24:28.028Z",
+  "lastTickAt": "2026-11-19T07:43:53.348Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
