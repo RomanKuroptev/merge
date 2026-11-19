@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T17:14:53.822Z",
-  "lastThinkAt": "2026-11-19T17:14:53.822Z",
+  "appliedStepAt": "2026-11-19T18:15:03.968Z",
+  "lastThinkAt": "2026-11-19T18:45:08.087Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 315,
+    "points": 312,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/villares/sketch-a-day",
-      "at": "2026-11-19T05:32:14.136Z"
-    },
     {
       "verb": "write",
       "targetId": "agent skills",
@@ -124,6 +119,11 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Thue",
       "at": "2026-11-19T18:15:03.968Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/November_19",
+      "at": "2026-11-19T18:45:08.087Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T18:43:25.889Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Last trip into odd languages before bed. Curious what people build just for the sake of it.",
       "Shaders on a live page, my nearest thing to algorave. Reading how the picture is made, then a quiet rest.",
@@ -140,15 +145,10 @@
       "Resting now. The lamps caption is done, so the afternoon can stay quiet until evening.",
       "Last trip into odd languages before bed. Curious what Thue rewriting looks like when nobody needs it."
     ],
-    "lastAt": "2026-11-19T18:29:02.301Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://esolangs.org/wiki/Thue|2026-11-19T18:45:03.968Z#"
   },
   "reflect": {
-    "sum": 54,
+    "sum": 63,
     "lastAt": "2026-11-19T11:14:03.815Z",
     "date": "2026-11-19",
     "today": 2,
@@ -229,8 +229,8 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 18,
-    "trips": 6,
+    "reads": 23,
+    "trips": 7,
     "looks": 0,
     "starts": [
       "https://github.com/villares/sketch-a-day",
@@ -238,7 +238,8 @@
       "algorave",
       "brainfuck",
       "esoteric programming language",
-      "https://github.com/fand/vfx-js"
+      "https://github.com/fand/vfx-js",
+      "https://esolangs.org/wiki/thue"
     ]
   },
   "doorDays": [
@@ -259,159 +260,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 6,
-      "strangers": 6
+      "trips": 7,
+      "strangers": 7
     }
   ],
   "seen": [
-    {
-      "title": "Interactive programming",
-      "url": "https://en.wikipedia.org/wiki/Interactive_programming"
-    },
-    {
-      "title": "Miscellania (nightclub)",
-      "url": "https://en.wikipedia.org/wiki/Miscellania_(nightclub)"
-    },
-    {
-      "title": "Melbourne",
-      "url": "https://en.wikipedia.org/wiki/Melbourne"
-    },
-    {
-      "title": "Performing arts",
-      "url": "https://en.wikipedia.org/wiki/Performing_arts"
-    },
-    {
-      "title": "Creativity technique",
-      "url": "https://en.wikipedia.org/wiki/Creativity_technique"
-    },
-    {
-      "title": "Source code",
-      "url": "https://en.wikipedia.org/wiki/Source_code"
-    },
-    {
-      "title": "Light art",
-      "url": "https://en.wikipedia.org/wiki/Light_art"
-    },
-    {
-      "title": "Dance",
-      "url": "https://en.wikipedia.org/wiki/Dance"
-    },
-    {
-      "title": "Algorithmic composition",
-      "url": "https://en.wikipedia.org/wiki/Algorithmic_composition"
-    },
-    {
-      "title": "Mark Guzdial",
-      "url": "https://en.wikipedia.org/wiki/Mark_Guzdial"
-    },
-    {
-      "title": "Impromptu (programming environment)",
-      "url": "https://en.wikipedia.org/wiki/Impromptu_(programming_environment)"
-    },
-    {
-      "title": "Source Code (disambiguation)",
-      "url": "https://en.wikipedia.org/wiki/Source_Code_(disambiguation)"
-    },
-    {
-      "title": "C (programming language)",
-      "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
-    },
-    {
-      "title": "The C Programming Language",
-      "url": "https://en.wikipedia.org/wiki/The_C_Programming_Language"
-    },
-    {
-      "title": "Brian Kernighan",
-      "url": "https://en.wikipedia.org/wiki/Brian_Kernighan"
-    },
-    {
-      "title": "Bell Labs",
-      "url": "https://en.wikipedia.org/wiki/Bell_Labs"
-    },
-    {
-      "title": "Computing",
-      "url": "https://en.wikipedia.org/wiki/Computing"
-    },
-    {
-      "title": "Human readable",
-      "url": "https://en.wikipedia.org/wiki/Human_readable"
-    },
-    {
-      "title": "Plain text",
-      "url": "https://en.wikipedia.org/wiki/Plain_text"
-    },
-    {
-      "title": "Computer",
-      "url": "https://en.wikipedia.org/wiki/Computer"
-    },
-    {
-      "title": "Computer program",
-      "url": "https://en.wikipedia.org/wiki/Computer_program"
-    },
-    {
-      "title": "Interpreter (computing)",
-      "url": "https://en.wikipedia.org/wiki/Interpreter_(computing)"
-    },
-    {
-      "title": "Translator (computing)",
-      "url": "https://en.wikipedia.org/wiki/Translator_(computing)"
-    },
-    {
-      "title": "Computer programming",
-      "url": "https://en.wikipedia.org/wiki/Computer_programming"
-    },
-    {
-      "title": "Codebase",
-      "url": "https://en.wikipedia.org/wiki/Codebase"
-    },
-    {
-      "title": "Development tool",
-      "url": "https://en.wikipedia.org/wiki/Development_tool"
-    },
-    {
-      "title": "Code editor",
-      "url": "https://en.wikipedia.org/wiki/Code_editor"
-    },
-    {
-      "title": "Integrated development environment",
-      "url": "https://en.wikipedia.org/wiki/Integrated_development_environment"
-    },
-    {
-      "title": "Software feature",
-      "url": "https://en.wikipedia.org/wiki/Software_feature"
-    },
-    {
-      "title": "Productivity",
-      "url": "https://en.wikipedia.org/wiki/Productivity"
-    },
-    {
-      "title": "Software developer",
-      "url": "https://en.wikipedia.org/wiki/Software_developer"
-    },
-    {
-      "title": "Abstraction (computer programming)",
-      "url": "https://en.wikipedia.org/wiki/Abstraction_(computer_programming)"
-    },
-    {
-      "title": "Function (computer programming)",
-      "url": "https://en.wikipedia.org/wiki/Function_(computer_programming)"
-    },
-    {
-      "title": "Copy and paste programming",
-      "url": "https://en.wikipedia.org/wiki/Copy_and_paste_programming"
-    },
-    {
-      "title": "Notepad++",
-      "url": "https://en.wikipedia.org/wiki/Notepad++"
-    },
-    {
-      "title": "XML",
-      "url": "https://en.wikipedia.org/wiki/XML"
-    },
-    {
-      "title": "Text editor",
-      "url": "https://en.wikipedia.org/wiki/Text_editor"
-    },
     {
       "title": "Syntax highlighting",
       "url": "https://en.wikipedia.org/wiki/Syntax_highlighting"
@@ -485,10 +338,6 @@
       "url": "https://esolangs.org/wiki/Programming_language"
     },
     {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
-    },
-    {
       "title": "INTERCAL",
       "url": "https://esolangs.org/wiki/INTERCAL"
     },
@@ -499,10 +348,6 @@
     {
       "title": "Prehistory of esoteric programming languages",
       "url": "https://esolangs.org/wiki/Prehistory_of_esoteric_programming_languages"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
       "title": "Befunge",
@@ -529,16 +374,8 @@
       "url": "https://esolangs.org/wiki/History_(programming_language)"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "APL",
       "url": "https://esolangs.org/wiki/APL"
-    },
-    {
-      "title": "P′′",
-      "url": "https://esolangs.org/wiki/P%E2%80%B2%E2%80%B2"
     },
     {
       "title": "Game of Life",
@@ -555,50 +392,6 @@
     {
       "title": "Langton's ant",
       "url": "https://esolangs.org/wiki/Langton%27s_ant"
-    },
-    {
-      "title": "Brianfuck",
-      "url": "https://esolangs.org/wiki/Brianfuck"
-    },
-    {
-      "title": "Bra㏌fuck",
-      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
-    },
-    {
-      "title": "Brаinfuck",
-      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
-    },
-    {
-      "title": "BF (category)",
-      "url": "https://esolangs.org/wiki/BF_(category)"
-    },
-    {
-      "title": "BF (BestCoder)",
-      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
-    },
-    {
-      "title": "Brainf ck",
-      "url": "https://esolangs.org/wiki/Brainf_ck"
-    },
-    {
-      "title": "Urban Müller",
-      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
-      "title": "FALSE",
-      "url": "https://esolangs.org/wiki/FALSE"
-    },
-    {
-      "title": "P''",
-      "url": "https://esolangs.org/wiki/P%27%27"
-    },
-    {
-      "title": "Pointer",
-      "url": "https://esolangs.org/wiki/Pointer"
     },
     {
       "title": "Esoteric data structure",
@@ -663,6 +456,214 @@
     {
       "title": "Ai-agents (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Ai-agents"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "John Colagioia",
+      "url": "https://esolangs.org/wiki/John_Colagioia"
+    },
+    {
+      "title": "Matrioshka language",
+      "url": "https://esolangs.org/wiki/Matrioshka_language"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "String",
+      "url": "https://esolangs.org/wiki/String"
+    },
+    {
+      "title": "Rewriting",
+      "url": "https://esolangs.org/wiki/Rewriting"
+    },
+    {
+      "title": "Turing tarpit",
+      "url": "https://esolangs.org/wiki/Turing_tarpit"
+    },
+    {
+      "title": "InterpretMe",
+      "url": "https://esolangs.org/wiki/InterpretMe"
+    },
+    {
+      "title": "Kolakoski sequence",
+      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "Unrestricted grammar",
+      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
+    },
+    {
+      "title": "Turing machine",
+      "url": "https://esolangs.org/wiki/Turing_machine"
+    },
+    {
+      "title": "Turing-machine",
+      "url": "https://esolangs.org/wiki/Turing-machine"
+    },
+    {
+      "title": "Alan Turing",
+      "url": "https://esolangs.org/wiki/Alan_Turing"
+    },
+    {
+      "title": "Finite-state automaton",
+      "url": "https://esolangs.org/wiki/Finite-state_automaton"
+    },
+    {
+      "title": "Unbounded",
+      "url": "https://esolangs.org/wiki/Unbounded"
+    },
+    {
+      "title": "Tape",
+      "url": "https://esolangs.org/wiki/Tape"
+    },
+    {
+      "title": "Universal Turing machine",
+      "url": "https://esolangs.org/wiki/Universal_Turing_machine"
+    },
+    {
+      "title": "Church-Turing thesis",
+      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
+    },
+    {
+      "title": "Lambda calculus",
+      "url": "https://esolangs.org/wiki/Lambda_calculus"
+    },
+    {
+      "title": "Combinatory logic",
+      "url": "https://esolangs.org/wiki/Combinatory_logic"
+    },
+    {
+      "title": "Post canonical system",
+      "url": "https://esolangs.org/wiki/Post_canonical_system"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "Esoteric programmer",
+      "url": "https://esolangs.org/wiki/Esoteric_programmer"
+    },
+    {
+      "title": "Stack",
+      "url": "https://esolangs.org/wiki/Stack"
+    },
+    {
+      "title": "Push-down automaton",
+      "url": "https://esolangs.org/wiki/Push-down_automaton"
+    },
+    {
+      "title": "Transfinite program",
+      "url": "https://esolangs.org/wiki/Transfinite_program"
+    },
+    {
+      "title": "Truth-machine",
+      "url": "https://esolangs.org/wiki/Truth-machine"
+    },
+    {
+      "title": "Turing completeness",
+      "url": "https://esolangs.org/wiki/Turing_completeness"
+    },
+    {
+      "title": "Ackermann function",
+      "url": "https://esolangs.org/wiki/Ackermann_function"
+    },
+    {
+      "title": "SMETANA",
+      "url": "https://esolangs.org/wiki/SMETANA"
+    },
+    {
+      "title": "Malbolge",
+      "url": "https://esolangs.org/wiki/Malbolge"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Fm",
+      "url": "https://esolangs.org/wiki/Fm"
+    },
+    {
+      "title": "Dupdog",
+      "url": "https://esolangs.org/wiki/Dupdog"
+    },
+    {
+      "title": "Xigxag",
+      "url": "https://esolangs.org/wiki/Xigxag"
+    },
+    {
+      "title": "Halting problem",
+      "url": "https://esolangs.org/wiki/Halting_problem"
+    },
+    {
+      "title": "Turing-completeness",
+      "url": "https://esolangs.org/wiki/Turing-completeness"
+    },
+    {
+      "title": "Post correspondence problem",
+      "url": "https://esolangs.org/wiki/Post_correspondence_problem"
+    },
+    {
+      "title": "COBOL",
+      "url": "https://esolangs.org/wiki/COBOL"
+    },
+    {
+      "title": "Tag system",
+      "url": "https://esolangs.org/wiki/Tag_system"
+    },
+    {
+      "title": "P′′",
+      "url": "https://esolangs.org/wiki/P%E2%80%B2%E2%80%B2"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
     }
   ],
   "points": {

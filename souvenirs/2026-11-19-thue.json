@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-thue",
+  "why": "It is the core idea I want to remember: the order is not fixed, so the same program can behave differently each run.",
+  "topics": [
+    "string rewriting",
+    "esoteric languages",
+    "turing tarpit"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/Thue",
+    "title": "Thue",
+    "fetchedAt": "2026-11-19T18:45:08.087Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Thue is a language built on nondeterministic string rewriting, where rules are applied in an arbitrary order.",
+  "evidence": "Thue is an esoteric programming language invented by John Colagioia in 2000. It is a matrioshka language based on nondeterministic string rewriting"
+}

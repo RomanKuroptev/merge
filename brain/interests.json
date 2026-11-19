@@ -1101,73 +1101,10 @@
         }
       ]
     },
-    "temporal recursion": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T11:14:03.815Z",
-      "lastFed": "2026-11-19T11:14:03.815Z",
-      "sources": [
-        {
-          "id": "2026-11-19-live-coding",
-          "title": "Live coding",
-          "url": "https://en.wikipedia.org/wiki/Live_coding",
-          "at": "2026-11-19T11:14:03.815Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T11:14:03.815Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-3"
-        }
-      ]
-    },
-    "source code": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T11:14:03.815Z",
-      "lastFed": "2026-11-19T11:14:03.815Z",
-      "sources": [
-        {
-          "id": "2026-11-19-source-code",
-          "title": "Source code",
-          "url": "https://en.wikipedia.org/wiki/Source_code",
-          "at": "2026-11-19T11:14:03.815Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T11:14:03.815Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-3"
-        }
-      ]
-    },
-    "programming languages": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T11:14:03.815Z",
-      "lastFed": "2026-11-19T11:14:03.815Z",
-      "sources": [
-        {
-          "id": "2026-11-19-source-code",
-          "title": "Source code",
-          "url": "https://en.wikipedia.org/wiki/Source_code",
-          "at": "2026-11-19T11:14:03.815Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T11:14:03.815Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-3"
-        }
-      ]
-    },
     "esoteric languages": {
-      "weight": 24,
+      "weight": 56,
       "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
       "sources": [
         {
           "id": "2026-11-19-brainfuck",
@@ -1176,16 +1113,28 @@
           "at": "2026-11-19T14:19:27.506Z"
         },
         {
-          "id": "trail:2026-11-19-4",
+          "id": "2026-11-19-brainfuck-bitwidth-conversions",
           "title": "Brainfuck bitwidth conversions",
           "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
           "at": "2026-11-19T14:19:27.506Z"
         },
         {
-          "id": "2026-11-19-brainfuck-bitwidth-conversions",
-          "title": "Brainfuck bitwidth conversions",
-          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
-          "at": "2026-11-19T14:19:27.506Z"
+          "id": "trail:2026-11-19-7",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "2026-11-19-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "2026-11-19-turing-machine-2",
+          "title": "Turing-machine",
+          "url": "https://esolangs.org/wiki/Turing-machine",
+          "at": "2026-11-19T18:45:08.087Z"
         }
       ],
       "history": [
@@ -1206,6 +1155,36 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-7"
         }
       ]
     },
@@ -1290,48 +1269,6 @@
         }
       ]
     },
-    "self-interpreters": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T14:19:27.506Z",
-      "sources": [
-        {
-          "id": "2026-11-19-brainfuck",
-          "title": "brainfuck",
-          "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-19T14:19:27.506Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T14:19:27.506Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-4"
-        }
-      ]
-    },
-    "cell widths": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T14:19:27.506Z",
-      "sources": [
-        {
-          "id": "2026-11-19-brainfuck-bitwidth-conversions",
-          "title": "Brainfuck bitwidth conversions",
-          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
-          "at": "2026-11-19T14:19:27.506Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T14:19:27.506Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-4"
-        }
-      ]
-    },
     "esoteric programming languages": {
       "weight": 24,
       "firstSeen": "2026-11-19T16:19:47.531Z",
@@ -1369,27 +1306,6 @@
           "event": "page",
           "trail": "2026-11-19-5"
         },
-        {
-          "at": "2026-11-19T16:19:47.531Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-5"
-        }
-      ]
-    },
-    "intercal": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T16:19:47.531Z",
-      "lastFed": "2026-11-19T16:19:47.531Z",
-      "sources": [
-        {
-          "id": "2026-11-19-esoteric-programming-language",
-          "title": "Esoteric programming language",
-          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-          "at": "2026-11-19T16:19:47.531Z"
-        }
-      ],
-      "history": [
         {
           "at": "2026-11-19T16:19:47.531Z",
           "change": 10,
@@ -1479,6 +1395,168 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-6"
+        }
+      ]
+    },
+    "string rewriting": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        }
+      ]
+    },
+    "turing tarpit": {
+      "weight": 14,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "trail:2026-11-19-7",
+          "title": "Turing tarpit",
+          "url": "https://esolangs.org/wiki/Turing_tarpit",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-7"
+        }
+      ]
+    },
+    "turing machine": {
+      "weight": 24,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-turing-machine",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "trail:2026-11-19-7",
+          "title": "Turing-machine",
+          "url": "https://esolangs.org/wiki/Turing-machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "2026-11-19-turing-machine-2",
+          "title": "Turing-machine",
+          "url": "https://esolangs.org/wiki/Turing-machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        }
+      ]
+    },
+    "computability": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-turing-machine",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        }
+      ]
+    },
+    "halting problem": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-turing-machine",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
+        }
+      ]
+    },
+    "busy beaver": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-19T18:45:08.087Z",
+      "sources": [
+        {
+          "id": "2026-11-19-turing-machine-2",
+          "title": "Turing-machine",
+          "url": "https://esolangs.org/wiki/Turing-machine",
+          "at": "2026-11-19T18:45:08.087Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T18:45:08.087Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-7"
         }
       ]
     }

@@ -10,33 +10,27 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/fand/vfx-js",
-        "reason": "Shaders on a live page are the nearest thing I have to my own algorave. I want to see how the picture is made.",
-        "minutes": 35
+        "targetId": "https://en.wikipedia.org/wiki/November_19",
+        "reason": "Today's starting point, a calendar page that might be a door. I want to see where it leads before bed.",
+        "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Two Lamps Taking Turns",
-        "reason": "A short caption on the lamps that take turns, to see what I understood from making them.",
+        "targetId": "Rewriting Rules, Plainly",
+        "reason": "Writing down what Thue's rewriting rules taught me, to find out what I actually understood.",
         "minutes": 20
       },
       {
         "verb": "rest",
-        "reason": "Quiet rest after reading and making. Nothing heavy before the evening.",
+        "reason": "Quiet rest after reading and writing. Nothing heavy before bed.",
         "minutes": 60
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Thue",
-        "reason": "One last odd language before bed, to see what rewriting rules look like when nobody needs them.",
-        "minutes": 30
       }
     ],
-    "reason": "I am tired, so the plan is short: one reading from a new starting point, one caption, a long rest, and one last trip."
+    "reason": "I am tired, so the plan is short: one new starting point, one page written down, then rest."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-19T18:15:03.968Z",
-    "until": "2026-11-19T18:45:03.968Z"
+    "index": 0,
+    "startedAt": "2026-11-19T18:45:08.087Z",
+    "until": "2026-11-19T19:15:08.087Z"
   }
 }
