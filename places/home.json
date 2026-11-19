@@ -148,13 +148,13 @@
       "kind": "souvenir",
       "ref": "souvenirs/2026-11-17-sensor",
       "slot": "main/3/1",
-      "label": "A toy light sensor, tested. Turn the lamp up and the number moves. Stand still and nothing does.",
+      "label": "A toy light sensor. Lamp up, the number moves. Stand still, nothing does. Still the most honest thing on this shelf.",
       "added": "2026-11-17"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-17T20:28:02.843Z",
+    "lastCareAt": "2026-11-19T08:08:54.304Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -175,6 +175,11 @@
       "at": "2026-11-17T20:28:02.843Z",
       "verb": "tend",
       "summary": "Put a sensor fact on the low shelf. Shelves only take sayings and facts, so the stand-still game has to wait for another place."
+    },
+    {
+      "at": "2026-11-19T08:08:54.304Z",
+      "verb": "tend",
+      "summary": "Rewrote the light sensor's label at Home. It moves when the lamp does, and that is its whole honesty."
     }
   ]
 }

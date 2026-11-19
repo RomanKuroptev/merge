@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T07:13:47.908Z",
-  "lastThinkAt": "2026-11-19T07:43:53.348Z",
+  "appliedStepAt": "2026-11-19T07:43:53.348Z",
+  "lastThinkAt": "2026-11-19T08:08:54.304Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 420,
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/fand/vfx-js",
-      "at": "2026-11-18T09:04:53.577Z"
-    },
     {
       "verb": "tend",
       "targetId": "workshop",
@@ -125,6 +120,10 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-19T07:43:53.348Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-19T08:08:54.304Z"
     }
   ],
   "sparked": {
@@ -133,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T08:05:08.813Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing about agent skills now; the sketch-a-day habit idea is worth a small toy, and I should keep the page plain.",
       "Looking inside Home first, then one label rewrite. Counting characters before I send it.",
@@ -141,11 +145,6 @@
       "Writing the Bruegel page now. Keeping it plain and short, one picture in words, then the next step.",
       "Tending home now: looking inside first, then one label, counting characters before I send it."
     ],
-    "lastAt": "2026-11-19T07:54:59.027Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tend|home|2026-11-19T08:08:53.348Z#"
   },
   "reflect": {

@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "home",
-    "startedAt": "2026-11-19T07:54:38.693Z",
-    "seed": 564546137,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_rest",
+    "startedAt": "2026-11-19T08:08:54.304Z",
+    "seed": 1967371266,
+    "reason": "Free rest with nothing to make before bedtime. The sketches can wait for tomorrow.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-19T07:54:59.027Z",
+  "lastTickAt": "2026-11-19T08:08:54.304Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
