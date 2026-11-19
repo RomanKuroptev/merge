@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": 0.4,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-19T06:38:47.669Z",
-    "seed": 1967358947,
-    "reason": "A full day of reading and making a little beats one short plan, and the Tower of Babel page is a fresh art history subject.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-19T06:53:34.041Z",
+    "seed": 387258661,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-19T06:38:47.669Z",
+  "lastTickAt": "2026-11-19T06:53:47.193Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
