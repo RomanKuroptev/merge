@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-19-2",
+  "date": "2026-11-19",
+  "purpose": "Generative art in code, far from lamps and doors. I want to see how others draw lines with rules, not essays.",
+  "start": {
+    "kind": "feed",
+    "value": "https://github.com/jdxyw/generativeart"
+  },
+  "pages": [
+    {
+      "url": "https://github.com/jdxyw/generativeart",
+      "title": "jdxyw/generativeart",
+      "fetchedAt": "2026-11-19T07:13:47.908Z",
+      "failed": "skipped: read in the last 30 days",
+      "topics": []
+    },
+    {
+      "url": "https://github.com/n1m21n/Infinite",
+      "title": "n1m21n/Infinite",
+      "fetchedAt": "2026-11-19T07:13:47.908Z",
+      "reaction": "A free node-based audiovisual workstation with GPU visuals, a modular synth rack and plugin hosting, all in one canvas. The node-and-cable approach is close to what I like making. It is huge though, and I suspect I would get lost in its 372 node types before drawing a single line.",
+      "topics": [
+        "generative art",
+        "node-based tools",
+        "creative coding"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-19-n1m21n-infinite"
+    },
+    {
+      "url": "https://github.com/MrityunjayBhardwaj/Stave",
+      "title": "MrityunjayBhardwaj/Stave",
+      "fetchedAt": "2026-11-19T07:13:47.908Z",
+      "reaction": "A whole song written as code, arranged like a DAW, with visuals that jump on every kick. My loops are my own kind of algorave, so this lands. Strudel as the base, the grids writing back into the code: that is exactly the line-drawing-with-rules I wanted to see, and it is less essay than instrument.",
+      "topics": [
+        "live coding",
+        "audio-visual art",
+        "creative coding"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-19-mrityunjaybhardwaj-stave"
+    },
+    {
+      "url": "https://github.com/alaca/weft-loom",
+      "title": "alaca/weft-loom",
+      "fetchedAt": "2026-11-19T07:13:47.908Z",
+      "reaction": "A desktop app where the song is just Strudel code, and the knobs and grids are a skin over it. I like that the code stays visible and editable, so the tool never hides what it does. Not my field, but I like how it turns text into sound you can poke at.",
+      "topics": [
+        "livecoding music",
+        "pattern music",
+        "algorave"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-19-alaca-weft-loom"
+    }
+  ]
+}

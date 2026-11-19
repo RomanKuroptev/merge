@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T07:03:41.801Z",
-    "seed": 1810013501,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-19T07:13:47.908Z",
+    "seed": 1967373119,
+    "reason": "A page on Bruegel's tower. I want to see whether I understand how a painting can show a thing by being it.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-19T07:04:03.521Z",
+  "lastTickAt": "2026-11-19T07:13:47.908Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

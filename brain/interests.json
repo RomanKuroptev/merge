@@ -813,52 +813,10 @@
         }
       ]
     },
-    "shader programming": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T09:35:02.887Z",
-      "lastFed": "2026-11-18T09:35:02.887Z",
-      "sources": [
-        {
-          "id": "2026-11-18-fand-vfx-js",
-          "title": "fand/vfx-js",
-          "url": "https://github.com/fand/vfx-js",
-          "at": "2026-11-18T09:35:02.887Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T09:35:02.887Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-2"
-        }
-      ]
-    },
-    "page transitions": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T09:35:02.887Z",
-      "lastFed": "2026-11-18T09:35:02.887Z",
-      "sources": [
-        {
-          "id": "2026-11-18-fand-vfx-js",
-          "title": "fand/vfx-js",
-          "url": "https://github.com/fand/vfx-js",
-          "at": "2026-11-18T09:35:02.887Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T09:35:02.887Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-2"
-        }
-      ]
-    },
     "creative coding": {
-      "weight": 22.5,
+      "weight": 50.5,
       "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
       "sources": [
         {
           "id": "2026-11-18-vvvv-vl-standardlibs",
@@ -867,16 +825,28 @@
           "at": "2026-11-18T13:47:12.433Z"
         },
         {
-          "id": "trail:2026-11-19-1",
+          "id": "2026-11-19-villares-sketch-a-day",
           "title": "villares/sketch-a-day",
           "url": "https://github.com/villares/sketch-a-day",
           "at": "2026-11-19T06:07:19.085Z"
         },
         {
-          "id": "2026-11-19-villares-sketch-a-day",
-          "title": "villares/sketch-a-day",
-          "url": "https://github.com/villares/sketch-a-day",
-          "at": "2026-11-19T06:07:19.085Z"
+          "id": "trail:2026-11-19-2",
+          "title": "n1m21n/Infinite",
+          "url": "https://github.com/n1m21n/Infinite",
+          "at": "2026-11-19T07:13:47.908Z"
+        },
+        {
+          "id": "2026-11-19-n1m21n-infinite",
+          "title": "n1m21n/Infinite",
+          "url": "https://github.com/n1m21n/Infinite",
+          "at": "2026-11-19T07:13:47.908Z"
+        },
+        {
+          "id": "2026-11-19-mrityunjaybhardwaj-stave",
+          "title": "MrityunjayBhardwaj/Stave",
+          "url": "https://github.com/MrityunjayBhardwaj/Stave",
+          "at": "2026-11-19T07:13:47.908Z"
         }
       ],
       "history": [
@@ -897,55 +867,37 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-1"
-        }
-      ]
-    },
-    "visual programming": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
+        },
         {
-          "id": "2026-11-18-vvvv-vl-standardlibs",
-          "title": "vvvv/VL.StandardLibs",
-          "url": "https://github.com/vvvv/VL.StandardLibs",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-2"
+        },
         {
-          "at": "2026-11-18T13:47:12.433Z",
+          "at": "2026-11-19T07:13:47.908Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-18-3"
-        }
-      ]
-    },
-    "skia": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
+          "trail": "2026-11-19-2"
+        },
         {
-          "id": "2026-11-18-vvvv-vl-standardlibs",
-          "title": "vvvv/VL.StandardLibs",
-          "url": "https://github.com/vvvv/VL.StandardLibs",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-2"
+        },
         {
-          "at": "2026-11-18T13:47:12.433Z",
+          "at": "2026-11-19T07:13:47.908Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-18-3"
+          "trail": "2026-11-19-2"
         }
       ]
     },
     "generative art": {
-      "weight": 22.5,
+      "weight": 36.5,
       "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
       "sources": [
         {
           "id": "2026-11-18-wanshuiyin-align-agentic-loop-image-gene",
@@ -964,6 +916,18 @@
           "title": "villares/sketch-a-day",
           "url": "https://github.com/villares/sketch-a-day",
           "at": "2026-11-19T06:07:19.085Z"
+        },
+        {
+          "id": "trail:2026-11-19-2",
+          "title": "n1m21n/Infinite",
+          "url": "https://github.com/n1m21n/Infinite",
+          "at": "2026-11-19T07:13:47.908Z"
+        },
+        {
+          "id": "2026-11-19-n1m21n-infinite",
+          "title": "n1m21n/Infinite",
+          "url": "https://github.com/n1m21n/Infinite",
+          "at": "2026-11-19T07:13:47.908Z"
         }
       ],
       "history": [
@@ -984,48 +948,18 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-1"
-        }
-      ]
-    },
-    "agentic loop": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
+        },
         {
-          "id": "2026-11-18-wanshuiyin-align-agentic-loop-image-gene",
-          "title": "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
-          "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-2"
+        },
         {
-          "at": "2026-11-18T13:47:12.433Z",
+          "at": "2026-11-19T07:13:47.908Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-18-3"
-        }
-      ]
-    },
-    "p5.js": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
-      "sources": [
-        {
-          "id": "2026-11-18-wanshuiyin-align-agentic-loop-image-gene",
-          "title": "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
-          "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
-          "at": "2026-11-18T13:47:12.433Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T13:47:12.433Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-3"
+          "trail": "2026-11-19-2"
         }
       ]
     },
@@ -1239,6 +1173,132 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "node-based tools": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-n1m21n-infinite",
+          "title": "n1m21n/Infinite",
+          "url": "https://github.com/n1m21n/Infinite",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
+        }
+      ]
+    },
+    "live coding": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-mrityunjaybhardwaj-stave",
+          "title": "MrityunjayBhardwaj/Stave",
+          "url": "https://github.com/MrityunjayBhardwaj/Stave",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
+        }
+      ]
+    },
+    "audio-visual art": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-mrityunjaybhardwaj-stave",
+          "title": "MrityunjayBhardwaj/Stave",
+          "url": "https://github.com/MrityunjayBhardwaj/Stave",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
+        }
+      ]
+    },
+    "livecoding music": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-alaca-weft-loom",
+          "title": "alaca/weft-loom",
+          "url": "https://github.com/alaca/weft-loom",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
+        }
+      ]
+    },
+    "pattern music": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-alaca-weft-loom",
+          "title": "alaca/weft-loom",
+          "url": "https://github.com/alaca/weft-loom",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
+        }
+      ]
+    },
+    "algorave": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T07:13:47.908Z",
+      "lastFed": "2026-11-19T07:13:47.908Z",
+      "sources": [
+        {
+          "id": "2026-11-19-alaca-weft-loom",
+          "title": "alaca/weft-loom",
+          "url": "https://github.com/alaca/weft-loom",
+          "at": "2026-11-19T07:13:47.908Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T07:13:47.908Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-2"
         }
       ]
     }

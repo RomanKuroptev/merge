@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T06:37:19.373Z",
+  "appliedStepAt": "2026-11-19T06:38:47.669Z",
   "lastThinkAt": "2026-11-19T06:38:47.669Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 432,
+    "points": 422,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-18T07:19:41.563Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-18T08:04:46.013Z"
@@ -124,15 +119,28 @@
       "verb": "wander",
       "targetId": "https://github.com/jdxyw/generativeart",
       "at": "2026-11-19T06:38:47.669Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "The Tower of Babel (Bruegel)",
+      "at": "2026-11-19T07:13:47.908Z"
     }
   ],
   "sparked": {
     "date": "2026-11-19",
     "count": 1,
-    "pending": null
+    "pending": {
+      "topic": "creative coding",
+      "gain": 28
+    }
   },
   "thought": {
+    "lastAt": "2026-11-19T07:09:12.216Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "The lidar-under-trees question is still the one I want to chase; the loops are getting noticed, so I'll keep it plain.",
       "Reading Sketch-a-Day now. A habit of small sketches is what I need. Keeping it plain, one sketch after.",
@@ -140,15 +148,10 @@
       "Looking inside Home first, then one label rewrite. Counting characters before I send it.",
       "Reading generative art code now; I want to see how others draw lines with rules. Keeping it plain."
     ],
-    "lastAt": "2026-11-19T07:04:03.521Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/jdxyw/generativeart|2026-11-19T07:13:47.669Z#"
   },
   "reflect": {
-    "sum": 9,
+    "sum": 18,
     "lastAt": "2026-11-19T06:38:25.992Z",
     "date": "2026-11-19",
     "today": 1,
@@ -229,11 +232,12 @@
   },
   "trips": {
     "date": "2026-11-19",
-    "reads": 4,
-    "trips": 1,
+    "reads": 7,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://github.com/villares/sketch-a-day"
+      "https://github.com/villares/sketch-a-day",
+      "https://github.com/jdxyw/generativeart"
     ]
   },
   "doorDays": [
@@ -254,71 +258,11 @@
     },
     {
       "date": "2026-11-19",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Claremont Graduate University",
-      "url": "https://en.wikipedia.org/wiki/Claremont_Graduate_University"
-    },
-    {
-      "title": "Installation art",
-      "url": "https://en.wikipedia.org/wiki/Installation_art"
-    },
-    {
-      "title": "Roden Crater",
-      "url": "https://en.wikipedia.org/wiki/Roden_Crater"
-    },
-    {
-      "title": "Acton (Turrell)",
-      "url": "https://en.wikipedia.org/wiki/Acton_(Turrell)"
-    },
-    {
-      "title": "Light and Space",
-      "url": "https://en.wikipedia.org/wiki/Light_and_Space"
-    },
-    {
-      "title": "Cinder cone",
-      "url": "https://en.wikipedia.org/wiki/Cinder_cone"
-    },
-    {
-      "title": "Flagstaff, Arizona",
-      "url": "https://en.wikipedia.org/wiki/Flagstaff,_Arizona"
-    },
-    {
-      "title": "Naked-eye stars",
-      "url": "https://en.wikipedia.org/wiki/Naked-eye_stars"
-    },
-    {
-      "title": "W. S. Gilbert",
-      "url": "https://en.wikipedia.org/wiki/W._S._Gilbert"
-    },
-    {
-      "title": "arla6ka/design.how",
-      "url": "https://github.com/arla6ka/design.how"
-    },
-    {
-      "title": "Nvidia",
-      "url": "https://en.wikipedia.org/wiki/Nvidia"
-    },
-    {
-      "title": "MrityunjayBhardwaj/Stave",
-      "url": "https://github.com/MrityunjayBhardwaj/Stave"
-    },
-    {
-      "title": "Marcelle Bunlet",
-      "url": "https://en.wikipedia.org/wiki/Marcelle_Bunlet"
-    },
-    {
-      "title": "November 18",
-      "url": "https://en.wikipedia.org/wiki/November_18"
-    },
-    {
-      "title": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip"
-    },
     {
       "title": "vargHQ/skills",
       "url": "https://github.com/vargHQ/skills"
@@ -404,24 +348,8 @@
       "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN"
     },
     {
-      "title": "n1m21n/Infinite",
-      "url": "https://github.com/n1m21n/Infinite"
-    },
-    {
       "title": "vvvv/VL.StandardLibs",
       "url": "https://github.com/vvvv/VL.StandardLibs"
-    },
-    {
-      "title": "dy/jz",
-      "url": "https://github.com/dy/jz"
-    },
-    {
-      "title": "Generative (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Generative"
-    },
-    {
-      "title": "Generative-art (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Generative-art"
     },
     {
       "title": "GraphiteEditor/Graphite",
@@ -560,10 +488,6 @@
       "url": "https://en.wikipedia.org/wiki/Art"
     },
     {
-      "title": "Creative-coding (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Creative-coding"
-    },
-    {
       "title": "The arts",
       "url": "https://en.wikipedia.org/wiki/The_arts"
     },
@@ -658,6 +582,86 @@
     {
       "title": "High culture",
       "url": "https://en.wikipedia.org/wiki/High_culture"
+    },
+    {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
+      "title": "TrussC-org/TrussC",
+      "url": "https://github.com/TrussC-org/TrussC"
+    },
+    {
+      "title": "css-doodle/css-doodle",
+      "url": "https://github.com/css-doodle/css-doodle"
+    },
+    {
+      "title": "Creative-coding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Creative-coding"
+    },
+    {
+      "title": "Generative (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Generative"
+    },
+    {
+      "title": "Generative-art (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Generative-art"
+    },
+    {
+      "title": "MrityunjayBhardwaj/Stave",
+      "url": "https://github.com/MrityunjayBhardwaj/Stave"
+    },
+    {
+      "title": "duremovich/EasySchematic",
+      "url": "https://github.com/duremovich/EasySchematic"
+    },
+    {
+      "title": "NoizAI/HelixWorld",
+      "url": "https://github.com/NoizAI/HelixWorld"
+    },
+    {
+      "title": "heypoom/patchies",
+      "url": "https://github.com/heypoom/patchies"
+    },
+    {
+      "title": "Audio-visual (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Audio-visual"
+    },
+    {
+      "title": "Audiovisual (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Audiovisual"
+    },
+    {
+      "title": "Cpp (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Cpp"
+    },
+    {
+      "title": "8f4e/8f4e",
+      "url": "https://github.com/8f4e/8f4e"
+    },
+    {
+      "title": "timoncool/Bulka",
+      "url": "https://github.com/timoncool/Bulka"
+    },
+    {
+      "title": "alaca/weft-loom",
+      "url": "https://github.com/alaca/weft-loom"
+    },
+    {
+      "title": "Algorave (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Algorave"
+    },
+    {
+      "title": "Algorithmic-patterns (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Algorithmic-patterns"
+    },
+    {
+      "title": "Livecoding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Livecoding"
     }
   ],
   "points": {
