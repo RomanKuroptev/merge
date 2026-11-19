@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-19T15:34:52.300Z",
+  "updatedAt": "2026-11-19T15:49:39.695Z",
   "engine": "v0.18.0",
   "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-19T15:34:52.300Z",
+    "at": "2026-11-19T15:49:39.695Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/5: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-19:81365700",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-19T15:49:36.185Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "Esoteric programming language",
+      "until": "2026-11-19T16:19:39.695Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-19T12:44:09.176Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1004,
+    "ticks": 1019,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 2,
@@ -47,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
+      "stepDone": 14,
       "sparked": 2,
       "reflected": 2,
       "replan": 2
@@ -68,7 +71,8 @@
       "write Livecoding": 1,
       "tinker A Loop That Counts Its Own Turns": 1,
       "wander Brainfuck": 1,
-      "write Counting Loops, Plainly": 1
+      "write Counting Loops, Plainly": 1,
+      "wander Esoteric programming language": 1
     },
     "longestGapMinutes": 1
   },
@@ -86,13 +90,13 @@
     }
   },
   "allowance": {
-    "points": 334,
+    "points": 331,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {

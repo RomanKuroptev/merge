@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T14:19:27.506Z",
+  "appliedStepAt": "2026-11-19T14:49:36.185Z",
   "lastThinkAt": "2026-11-19T14:49:36.185Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 334,
+    "points": 331,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,10 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-18T15:47:30.125Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
@@ -123,6 +119,11 @@
     {
       "verb": "rest",
       "at": "2026-11-19T14:49:36.185Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Esoteric programming language",
+      "at": "2026-11-19T15:49:39.695Z"
     }
   ],
   "sparked": {
@@ -131,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T15:45:00.961Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Resting until 13:44. The Writing Code While It Runs page is done, so the sketch and reading are behind me.",
       "Starting the loop-counter sketch now. Making it beats thinking about my repeats again. Small and quick, then rest.",
@@ -139,11 +145,6 @@
       "Writing the loop counter page now. Plain words, one picture, then on to the next step.",
       "Resting now. Sketch and page are done, so the afternoon can stay quiet until evening."
     ],
-    "lastAt": "2026-11-19T15:34:52.300Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-19T15:49:36.185Z#"
   },
   "reflect": {
