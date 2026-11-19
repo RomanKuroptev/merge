@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": -0.05,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-19T13:44:18.822Z",
-    "seed": 1967384486,
-    "reason": "Eight symbols again, but this time to see how others count their loops. Looking for a neighbouring topic.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-19T13:57:20.396Z",
+    "seed": 534159643,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-19T13:44:18.822Z",
+  "lastTickAt": "2026-11-19T13:58:08.437Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
