@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-19T15:49:39.695Z",
-    "seed": 1967259655,
-    "reason": "A last trip into odd languages, to see what other people made for the sake of it.",
-    "goalRef": "today:4"
+    "targetId": "desk",
+    "startedAt": "2026-11-19T16:00:09.965Z",
+    "seed": 166462087,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-19T15:49:39.695Z",
+  "lastTickAt": "2026-11-19T16:00:24.230Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
