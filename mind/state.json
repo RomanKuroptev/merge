@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T08:08:54.304Z",
-  "lastThinkAt": "2026-11-19T09:08:56.048Z",
+  "appliedStepAt": "2026-11-19T09:08:56.048Z",
+  "lastThinkAt": "2026-11-19T10:38:57.045Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 390,
+    "points": 387,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "interactive art",
-      "at": "2026-11-18T10:15:11.115Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Two Lamps Taking Turns",
@@ -124,6 +119,11 @@
       "verb": "tinker",
       "targetId": "A Hill That Draws Its Own Shadow Line",
       "at": "2026-11-19T09:08:56.048Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Algorave",
+      "at": "2026-11-19T10:38:57.045Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T10:38:46.218Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading generative art code now; I want to see how others draw lines with rules. Keeping it plain.",
       "Writing the Bruegel page now. Keeping it plain and short, one picture in words, then the next step.",
@@ -140,11 +145,6 @@
       "Resting now until 10:08. The label rewrite at Home was small and I am glad it is done.",
       "Shadows drawn by a rule, not a lidar file. Quick sketch now, then I can stop circling the lidar question."
     ],
-    "lastAt": "2026-11-19T10:23:26.888Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|A Hill That Draws Its Own Shadow Line|2026-11-19T10:38:56.048Z#"
   },
   "reflect": {
@@ -193,8 +193,8 @@
     "home"
   ],
   "sketches": {
-    "date": "2026-11-18",
-    "count": 3
+    "date": "2026-11-19",
+    "count": 1
   },
   "interestsFadedOn": "2026-11-19",
   "lastRewriteDate": "2026-11-18",

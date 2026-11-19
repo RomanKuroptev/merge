@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "home",
-    "startedAt": "2026-11-19T10:23:02.073Z",
-    "seed": 1234240444,
-    "reason": "I am working at the bench."
+    "type": "mind_read",
+    "startedAt": "2026-11-19T10:38:57.045Z",
+    "seed": 1967377237,
+    "reason": "Live coding with sound and picture. My loops are my own kind of algorave, so I want to see how others do it.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-19T10:23:26.888Z",
+  "lastTickAt": "2026-11-19T10:38:57.045Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
