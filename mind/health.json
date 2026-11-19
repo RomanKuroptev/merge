@@ -1,33 +1,49 @@
 {
-  "updatedAt": "2026-11-19T05:16:56.891Z",
+  "updatedAt": "2026-11-19T05:32:14.136Z",
   "engine": "v0.18.0",
   "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-19T05:16:56.891Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-19T05:32:14.136Z",
+    "asleep": false,
+    "summary": "morning plan, step 1/4: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-18:59447138",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-18T17:47:41.856Z",
+    "planId": "2026-11-19:73c39942",
+    "stepsLeft": 3,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://github.com/villares/sketch-a-day",
+      "until": "2026-11-19T06:07:14.136Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-19T05:32:14.136Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 370,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {},
+    "ticks": 385,
+    "decideCalls": 2,
+    "callsByKind": {
+      "morning": 2
+    },
+    "spendByKind": {
+      "morning": 0.003710045
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://github.com/villares/sketch-a-day": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -44,17 +60,17 @@
     }
   },
   "allowance": {
-    "points": 150,
+    "points": 447,
     "max": 1500,
     "daily": 300
   },
   "mood": {
-    "label": "very good, tired",
-    "minutes": 832
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.66986207,
+    "monthUsd": 1.67357212,
     "capUsd": 12.6,
     "paceUsd": 7.98
   },

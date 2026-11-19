@@ -6,33 +6,37 @@
     "reviewedAt": "2026-11-18T16:48:02.748Z"
   },
   "today": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Creativecoding",
-        "reason": "Creative coding is next door to interactive art and far from shading. A new page should break the loop.",
-        "minutes": 30
+        "targetId": "https://github.com/villares/sketch-a-day",
+        "reason": "Daily sketches in code. Close to my lamp work but not the same loop. I want to see how someone keeps a sketch habit.",
+        "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "video games as art",
-        "reason": "Writing about games as art will show whether I understand it or only like the phrase.",
-        "minutes": 20
+        "targetId": "agent skills",
+        "reason": "A page on agent skills will show whether I understand them or only like the phrase. Nothing on shading today.",
+        "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "A Lamp That Answers Only the Dark",
-        "reason": "Make the thing first: a small lamp that dims only when the room is empty. Test the idea by building it.",
-        "size": "sketch",
-        "minutes": 60
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Look inside Home first, then rewrite one label to fit 120 characters. Count before sending.",
+        "minutes": 25
       },
       {
         "verb": "rest",
-        "reason": "Free rest after the sketch, with nothing to make until bedtime.",
+        "reason": "Free rest with nothing to make before bedtime. The sketches can wait for tomorrow.",
         "minutes": 60
       }
     ],
-    "reason": "The last write plan was turned down for repeating the shading and doorway topics. I switch to a neighbouring topic, then make and rest."
+    "reason": "A short, tired day: one new trip, one page on a fresh subject, one careful label, then rest."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-19T05:32:14.136Z",
+    "until": "2026-11-19T06:07:14.136Z"
   }
 }
