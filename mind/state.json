@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T21:47:18.142Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Last trip into odd languages before bed. Curious what Thue rewriting looks like when nobody needs it.",
       "Reading a calendar page as a possible door. Thue rewriting still on my mind, then rest before bed.",
@@ -140,11 +145,6 @@
       "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
       "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later."
     ],
-    "lastAt": "2026-11-19T21:34:58.421Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "no step#"
   },
   "reflect": {
@@ -197,7 +197,7 @@
     "count": 2
   },
   "interestsFadedOn": "2026-11-19",
-  "lastRewriteDate": "2026-11-18",
+  "lastRewriteDate": "2026-11-19",
   "pageChangedOn": "2026-11-19",
   "notesWaiting": [],
   "lastNoteTriggerAt": "2026-11-16T14:48:43.554Z",
@@ -221,7 +221,12 @@
     }
   ],
   "goalReviewEarlyOn": "2026-11-18",
-  "sleepRewrite": null,
+  "sleepRewrite": {
+    "id": "msgbatch_01JqNcUNJTsg2HyaZqWc3PU2",
+    "date": "2026-11-19",
+    "submittedAt": "2026-11-19T21:47:49.080Z",
+    "polledAt": "2026-11-19T21:48:50.853Z"
+  },
   "readings": {
     "date": "2026-11-12",
     "count": 1,
