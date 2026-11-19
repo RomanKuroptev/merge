@@ -969,27 +969,6 @@
         }
       ]
     },
-    "node-based tools": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
-      "sources": [
-        {
-          "id": "2026-11-19-n1m21n-infinite",
-          "title": "n1m21n/Infinite",
-          "url": "https://github.com/n1m21n/Infinite",
-          "at": "2026-11-19T07:13:47.908Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T07:13:47.908Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-2"
-        }
-      ]
-    },
     "live coding": {
       "weight": 56,
       "firstSeen": "2026-11-19T07:13:47.908Z",
@@ -1074,48 +1053,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-19-3"
-        }
-      ]
-    },
-    "audio-visual art": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
-      "sources": [
-        {
-          "id": "2026-11-19-mrityunjaybhardwaj-stave",
-          "title": "MrityunjayBhardwaj/Stave",
-          "url": "https://github.com/MrityunjayBhardwaj/Stave",
-          "at": "2026-11-19T07:13:47.908Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T07:13:47.908Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-2"
-        }
-      ]
-    },
-    "livecoding music": {
-      "weight": 10,
-      "firstSeen": "2026-11-19T07:13:47.908Z",
-      "lastFed": "2026-11-19T07:13:47.908Z",
-      "sources": [
-        {
-          "id": "2026-11-19-alaca-weft-loom",
-          "title": "alaca/weft-loom",
-          "url": "https://github.com/alaca/weft-loom",
-          "at": "2026-11-19T07:13:47.908Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T07:13:47.908Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-2"
         }
       ]
     },
@@ -1336,9 +1273,9 @@
       ]
     },
     "brainfuck": {
-      "weight": 24,
+      "weight": 52,
       "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T14:19:27.506Z",
+      "lastFed": "2026-11-19T16:19:47.531Z",
       "sources": [
         {
           "id": "2026-11-19-brainfuck",
@@ -1347,16 +1284,28 @@
           "at": "2026-11-19T14:19:27.506Z"
         },
         {
-          "id": "trail:2026-11-19-4",
+          "id": "2026-11-19-brainfuck-bitwidth-conversions",
           "title": "Brainfuck bitwidth conversions",
           "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
           "at": "2026-11-19T14:19:27.506Z"
         },
         {
-          "id": "2026-11-19-brainfuck-bitwidth-conversions",
-          "title": "Brainfuck bitwidth conversions",
-          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
-          "at": "2026-11-19T14:19:27.506Z"
+          "id": "trail:2026-11-19-5",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-19T16:19:47.531Z"
+        },
+        {
+          "id": "2026-11-19-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-19T16:19:47.531Z"
+        },
+        {
+          "id": "2026-11-19-timeline-of-esoteric-programming-languag",
+          "title": "Timeline of esoteric programming languages",
+          "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages",
+          "at": "2026-11-19T16:19:47.531Z"
         }
       ],
       "history": [
@@ -1377,6 +1326,30 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-4"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
         }
       ]
     },
@@ -1419,6 +1392,93 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-4"
+        }
+      ]
+    },
+    "esoteric programming languages": {
+      "weight": 24,
+      "firstSeen": "2026-11-19T16:19:47.531Z",
+      "lastFed": "2026-11-19T16:19:47.531Z",
+      "sources": [
+        {
+          "id": "2026-11-19-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-19T16:19:47.531Z"
+        },
+        {
+          "id": "trail:2026-11-19-5",
+          "title": "Timeline of esoteric programming languages",
+          "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages",
+          "at": "2026-11-19T16:19:47.531Z"
+        },
+        {
+          "id": "2026-11-19-timeline-of-esoteric-programming-languag",
+          "title": "Timeline of esoteric programming languages",
+          "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages",
+          "at": "2026-11-19T16:19:47.531Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
+        }
+      ]
+    },
+    "intercal": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T16:19:47.531Z",
+      "lastFed": "2026-11-19T16:19:47.531Z",
+      "sources": [
+        {
+          "id": "2026-11-19-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-19T16:19:47.531Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
+        }
+      ]
+    },
+    "two-dimensional languages": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T16:19:47.531Z",
+      "lastFed": "2026-11-19T16:19:47.531Z",
+      "sources": [
+        {
+          "id": "2026-11-19-timeline-of-esoteric-programming-languag",
+          "title": "Timeline of esoteric programming languages",
+          "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages",
+          "at": "2026-11-19T16:19:47.531Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T16:19:47.531Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-5"
         }
       ]
     }

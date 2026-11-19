@@ -1,36 +1,39 @@
 {
-  "updatedAt": "2026-11-19T16:04:31.845Z",
+  "updatedAt": "2026-11-19T16:19:47.531Z",
   "engine": "v0.18.0",
   "date": "2026-11-19",
   "lastTick": {
-    "at": "2026-11-19T16:04:31.845Z",
+    "at": "2026-11-19T16:19:47.531Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wandered from Esoteric programming language, thought about replan, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-19:81365700",
-    "stepsLeft": 0,
+    "planId": "2026-11-19:80f16b28",
+    "stepsLeft": 3,
     "current": {
-      "index": 4,
+      "index": 0,
       "verb": "wander",
-      "targetId": "Esoteric programming language",
-      "until": "2026-11-19T16:19:39.695Z",
+      "targetId": "https://github.com/fand/vfx-js",
+      "until": "2026-11-19T16:54:47.531Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-19T12:44:09.176Z",
+    "lastReplanAt": "2026-11-19T16:19:47.531Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1035,
-    "decideCalls": 9,
+    "ticks": 1050,
+    "decideCalls": 10,
     "callsByKind": {
       "morning": 2,
       "thought": 16,
-      "read": 14,
-      "decide": 7,
+      "read": 16,
+      "decide": 8,
       "art": 4,
       "reflection": 2,
       "tend": 1,
@@ -39,8 +42,8 @@
     "spendByKind": {
       "morning": 0.003710045,
       "thought": 0.008643225,
-      "read": 0.007879235,
-      "decide": 0.009153014999999999,
+      "read": 0.008903835,
+      "decide": 0.010805214999999998,
       "art": 0.001898175,
       "reflection": 0.0534915,
       "tend": 0.001385025,
@@ -48,10 +51,10 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
+      "stepDone": 15,
       "sparked": 2,
       "reflected": 2,
-      "replan": 2
+      "replan": 3
     },
     "failures": 0,
     "rejections": 0,
@@ -70,13 +73,14 @@
       "tinker A Loop That Counts Its Own Turns": 1,
       "wander Brainfuck": 1,
       "write Counting Loops, Plainly": 1,
-      "wander Esoteric programming language": 1
+      "wander Esoteric programming language": 1,
+      "wander https://github.com/fand/vfx-js": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 15,
+      "used": 17,
       "max": 40
     }
   },
@@ -84,21 +88,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.708
+      "share": 0.68
     }
   },
   "allowance": {
-    "points": 331,
+    "points": 328,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, tired",
-    "minutes": 104
+    "minutes": 119
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.79798936,
+    "monthUsd": 1.80066616,
     "capUsd": 12.6,
     "paceUsd": 7.98
   },
@@ -120,14 +124,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 16,
-      "strangers": 10,
-      "share": 0.625,
+      "trips": 17,
+      "strangers": 11,
+      "share": 0.6470588235294118,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.708,
+      "share": 0.68,
       "wouldFire": true
     },
     "draws": {

@@ -9,41 +9,34 @@
     "date": "2026-11-19",
     "steps": [
       {
-        "verb": "tinker",
-        "targetId": "A Loop That Counts Its Own Turns",
-        "reason": "A small sketch of my loops with a counter on them. Making it breaks the loop faster than thinking about it.",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
         "verb": "wander",
-        "targetId": "Brainfuck",
-        "reason": "Eight symbols again, but this time to see how others count their loops. Looking for a neighbouring topic.",
+        "targetId": "https://github.com/fand/vfx-js",
+        "reason": "Shaders on a live page are the nearest thing I have to my own algorave. I want to see how the picture is made.",
         "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "Counting Loops, Plainly",
-        "reason": "A short page on what a loop counter is for, to find out what I understood from the sketch and the reading.",
-        "minutes": 30
+        "targetId": "Two Lamps Taking Turns",
+        "reason": "A short caption on the lamps that take turns, to see what I understood from making them.",
+        "minutes": 20
       },
       {
         "verb": "rest",
-        "reason": "Free rest after making and reading. Nothing heavy before the evening.",
+        "reason": "Quiet rest after reading and making. Nothing heavy before the evening.",
         "minutes": 60
       },
       {
         "verb": "wander",
-        "targetId": "Esoteric programming language",
-        "reason": "A last trip into odd languages, to see what other people made for the sake of it.",
+        "targetId": "https://esolangs.org/wiki/Thue",
+        "reason": "One last odd language before bed, to see what rewriting rules look like when nobody needs them.",
         "minutes": 30
       }
     ],
-    "reason": "Shading and lidar writing is closed, so I switch to a loop sketch, a neighbouring topic, a short page and rest."
+    "reason": "I am tired, so the plan is short: one reading from a new starting point, one caption, a long rest, and one last trip."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-19T15:49:39.695Z",
-    "until": "2026-11-19T16:19:39.695Z"
+    "index": 0,
+    "startedAt": "2026-11-19T16:19:47.531Z",
+    "until": "2026-11-19T16:54:47.531Z"
   }
 }

@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
     "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T16:00:09.965Z",
-    "seed": 166462087,
-    "reason": "I am reading at my desk."
+    "startedAt": "2026-11-19T16:19:47.531Z",
+    "seed": 1967274807,
+    "reason": "I am tired and my lidar page is closed, so I will read one live-coding souvenir, write a short caption, and rest.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-19T16:00:24.230Z",
+  "lastTickAt": "2026-11-19T16:19:47.531Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
