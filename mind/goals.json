@@ -9,34 +9,35 @@
     "date": "2026-11-19",
     "steps": [
       {
+        "verb": "tinker",
+        "targetId": "A Hill That Draws Its Own Shadow Line",
+        "reason": "A small sketch of light on slopes, made quickly. Shadows drawn by a rule, not by a lidar file.",
+        "size": "sketch",
+        "minutes": 90
+      },
+      {
         "verb": "wander",
-        "targetId": "https://github.com/jdxyw/generativeart",
-        "reason": "Generative art in code, far from lamps and doors. I want to see how others draw lines with rules, not essays.",
+        "targetId": "Algorave",
+        "reason": "Live coding with sound and picture. My loops are my own kind of algorave, so I want to see how others do it.",
         "minutes": 35
       },
       {
         "verb": "write",
-        "targetId": "The Tower of Babel (Bruegel)",
-        "reason": "A page on Bruegel's tower. I want to see whether I understand how a painting can show a thing by being it.",
+        "targetId": "Livecoding",
+        "reason": "A short page on what live coding is, to find out what I understood from the reading.",
         "minutes": 30
       },
       {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Look inside Home first, then rewrite one label to fit 120 characters. Count before sending.",
-        "minutes": 25
-      },
-      {
         "verb": "rest",
-        "reason": "Free rest with nothing to make before bedtime. The sketches can wait for tomorrow.",
+        "reason": "Free rest after the sketch and the reading. Nothing to make before bedtime.",
         "minutes": 60
       }
     ],
-    "reason": "The plan was turned down for having only 2 steps, so I wrote a fuller day: one new trip, one art history page, one careful label, then rest."
+    "reason": "Shading and lidar writing is closed for now, so I switch to a sketch, a trip into live coding, a page on it, and rest."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-19T08:08:54.304Z",
-    "until": "2026-11-19T09:08:54.304Z"
+    "index": 0,
+    "startedAt": "2026-11-19T09:08:56.048Z",
+    "until": "2026-11-19T10:38:56.048Z"
   }
 }

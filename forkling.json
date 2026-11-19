@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-19T08:50:58.497Z",
-    "seed": 964018984,
-    "reason": "I am resting at home."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-19T09:08:56.048Z",
+    "seed": 1967367740,
+    "reason": "The sketch-a-day habit and a new page on live coding should break the lidar loop better than another write on shading.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-19T08:51:07.333Z",
+  "lastTickAt": "2026-11-19T09:08:56.048Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

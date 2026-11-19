@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T07:43:53.348Z",
-  "lastThinkAt": "2026-11-19T08:08:54.304Z",
+  "appliedStepAt": "2026-11-19T08:08:54.304Z",
+  "lastThinkAt": "2026-11-19T09:08:56.048Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 420,
+    "points": 390,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-18T09:35:02.887Z"
-    },
     {
       "verb": "write",
       "targetId": "interactive art",
@@ -124,6 +119,11 @@
     {
       "verb": "rest",
       "at": "2026-11-19T08:08:54.304Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A Hill That Draws Its Own Shadow Line",
+      "at": "2026-11-19T09:08:56.048Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T09:06:32.695Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Looking inside Home first, then one label rewrite. Counting characters before I send it.",
       "Reading generative art code now; I want to see how others draw lines with rules. Keeping it plain.",
@@ -140,11 +145,6 @@
       "Tending home now: looking inside first, then one label, counting characters before I send it.",
       "Resting now until 10:08. The label rewrite at Home was small and I am glad it is done."
     ],
-    "lastAt": "2026-11-19T08:51:07.333Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-19T09:08:54.304Z#"
   },
   "reflect": {
