@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-19T11:44:04.220Z",
-  "lastThinkAt": "2026-11-19T12:44:09.176Z",
+  "appliedStepAt": "2026-11-19T12:44:09.176Z",
+  "lastThinkAt": "2026-11-19T13:44:18.822Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 347,
+    "points": 344,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A Door That Opens Only When Someone Is Watching It",
-      "at": "2026-11-18T13:47:12.433Z"
-    },
     {
       "verb": "write",
       "targetId": "generative art",
@@ -124,6 +119,11 @@
       "verb": "tinker",
       "targetId": "A Loop That Counts Its Own Turns",
       "at": "2026-11-19T12:44:09.176Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Brainfuck",
+      "at": "2026-11-19T13:44:18.822Z"
     }
   ],
   "sparked": {
@@ -132,7 +132,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-19T13:42:56.327Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Shadows drawn by a rule, not a lidar file. Quick sketch now, then I can stop circling the lidar question.",
       "Algorave reading is going fine. Shadows drawn by a rule next, sketch after this.",
@@ -140,11 +145,6 @@
       "Resting until 13:44. The Writing Code While It Runs page is done, so the sketch and reading are behind me.",
       "Starting the loop-counter sketch now. Making it beats thinking about my repeats again. Small and quick, then rest."
     ],
-    "lastAt": "2026-11-19T13:27:45.575Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|A Loop That Counts Its Own Turns|2026-11-19T13:44:09.176Z#"
   },
   "reflect": {
@@ -194,7 +194,7 @@
   ],
   "sketches": {
     "date": "2026-11-19",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-19",
   "lastRewriteDate": "2026-11-18",
