@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": 0.15,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-19T10:38:57.045Z",
-    "seed": 1967377237,
-    "reason": "Live coding with sound and picture. My loops are my own kind of algorave, so I want to see how others do it.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-19T10:48:19.096Z",
+    "seed": 996252548,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-19T10:38:57.045Z",
+  "lastTickAt": "2026-11-19T10:49:03.268Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
