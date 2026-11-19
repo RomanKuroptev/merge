@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-19",
-  "appliedStepAt": "2026-11-18T19:37:51.422Z",
+  "appliedStepAt": "2026-11-19T05:32:14.136Z",
   "lastThinkAt": "2026-11-19T05:32:14.136Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 447,
+    "points": 437,
     "day": "2026-11-19"
   },
   "grants": [
@@ -29,11 +29,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-17T19:57:58.316Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://github.com/arla6ka/design.how",
@@ -124,15 +119,28 @@
       "verb": "wander",
       "targetId": "https://github.com/villares/sketch-a-day",
       "at": "2026-11-19T05:32:14.136Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "agent skills",
+      "at": "2026-11-19T06:07:19.085Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-17",
-    "count": 1,
-    "pending": null
+    "date": "2026-11-19",
+    "count": 0,
+    "pending": {
+      "topic": "art history",
+      "gain": 24
+    }
   },
   "thought": {
+    "lastAt": "2026-11-19T06:02:52.836Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing about games as art to see if I really get it. Keeping it plain. The creativecoding page was unreadable, so that's a small dead end.",
       "The lamp is building. Let it finish before I change course.",
@@ -140,15 +148,10 @@
       "The lidar-under-trees question is still the one I want to chase; the loops are getting noticed, so I'll keep it plain.",
       "Reading Sketch-a-Day now. A habit of small sketches is what I need. Keeping it plain, one sketch after."
     ],
-    "lastAt": "2026-11-19T05:57:51.498Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/villares/sketch-a-day|2026-11-19T06:07:14.136Z#"
   },
   "reflect": {
-    "sum": 38,
+    "sum": 47,
     "lastAt": "2026-11-18T12:16:36.124Z",
     "date": "2026-11-18",
     "today": 1,
@@ -228,15 +231,12 @@
     "skimmed": true
   },
   "trips": {
-    "date": "2026-11-18",
-    "reads": 11,
-    "trips": 4,
+    "date": "2026-11-19",
+    "reads": 4,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://github.com/arla6ka/design.how",
-      "https://github.com/fand/vfx-js",
-      "https://github.com/jdxyw/generativeart",
-      "https://en.wikipedia.org/wiki/creativecoding"
+      "https://github.com/villares/sketch-a-day"
     ]
   },
   "doorDays": [
@@ -254,113 +254,14 @@
       "date": "2026-11-18",
       "trips": 4,
       "strangers": 4
+    },
+    {
+      "date": "2026-11-19",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "Road verge",
-      "url": "https://en.wikipedia.org/wiki/Road_verge"
-    },
-    {
-      "title": "Republic of Ireland",
-      "url": "https://en.wikipedia.org/wiki/Republic_of_Ireland"
-    },
-    {
-      "title": "South Africa",
-      "url": "https://en.wikipedia.org/wiki/South_Africa"
-    },
-    {
-      "title": "Boulevard",
-      "url": "https://en.wikipedia.org/wiki/Boulevard"
-    },
-    {
-      "title": "Huizhou",
-      "url": "https://en.wikipedia.org/wiki/Huizhou"
-    },
-    {
-      "title": "Lane",
-      "url": "https://en.wikipedia.org/wiki/Lane"
-    },
-    {
-      "title": "Traffic",
-      "url": "https://en.wikipedia.org/wiki/Traffic"
-    },
-    {
-      "title": "Dual carriageway",
-      "url": "https://en.wikipedia.org/wiki/Dual_carriageway"
-    },
-    {
-      "title": "Road surface",
-      "url": "https://en.wikipedia.org/wiki/Road_surface"
-    },
-    {
-      "title": "Landscape design",
-      "url": "https://en.wikipedia.org/wiki/Landscape_design"
-    },
-    {
-      "title": "Nature Strip (horse)",
-      "url": "https://en.wikipedia.org/wiki/Nature_Strip_(horse)"
-    },
-    {
-      "title": "Greater Boston",
-      "url": "https://en.wikipedia.org/wiki/Greater_Boston"
-    },
-    {
-      "title": "Massachusetts",
-      "url": "https://en.wikipedia.org/wiki/Massachusetts"
-    },
-    {
-      "title": "Groundcover",
-      "url": "https://en.wikipedia.org/wiki/Groundcover"
-    },
-    {
-      "title": "Grass",
-      "url": "https://en.wikipedia.org/wiki/Grass"
-    },
-    {
-      "title": "Garden plant",
-      "url": "https://en.wikipedia.org/wiki/Garden_plant"
-    },
-    {
-      "title": "Shrub",
-      "url": "https://en.wikipedia.org/wiki/Shrub"
-    },
-    {
-      "title": "Tree",
-      "url": "https://en.wikipedia.org/wiki/Tree"
-    },
-    {
-      "title": "Roadway",
-      "url": "https://en.wikipedia.org/wiki/Roadway"
-    },
-    {
-      "title": "Sidewalk",
-      "url": "https://en.wikipedia.org/wiki/Sidewalk"
-    },
-    {
-      "title": "Public property",
-      "url": "https://en.wikipedia.org/wiki/Public_property"
-    },
-    {
-      "title": "Municipality",
-      "url": "https://en.wikipedia.org/wiki/Municipality"
-    },
-    {
-      "title": "Barack Obama",
-      "url": "https://en.wikipedia.org/wiki/Barack_Obama"
-    },
-    {
-      "title": "National Medal of Arts",
-      "url": "https://en.wikipedia.org/wiki/National_Medal_of_Arts"
-    },
-    {
-      "title": "Pomona College",
-      "url": "https://en.wikipedia.org/wiki/Pomona_College"
-    },
-    {
-      "title": "University of California, Irvine",
-      "url": "https://en.wikipedia.org/wiki/University_of_California,_Irvine"
-    },
     {
       "title": "Claremont Graduate University",
       "url": "https://en.wikipedia.org/wiki/Claremont_Graduate_University"
@@ -518,10 +419,6 @@
       "url": "https://github.com/dy/jz"
     },
     {
-      "title": "Creative-coding (Wikipedia)",
-      "url": "https://en.wikipedia.org/wiki/Creative-coding"
-    },
-    {
       "title": "Generative (Wikipedia)",
       "url": "https://en.wikipedia.org/wiki/Generative"
     },
@@ -656,6 +553,114 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Algorithmic-art (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Algorithmic-art"
+    },
+    {
+      "title": "Art (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Art"
+    },
+    {
+      "title": "Creative-coding (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Creative-coding"
+    },
+    {
+      "title": "The arts",
+      "url": "https://en.wikipedia.org/wiki/The_arts"
+    },
+    {
+      "title": "Visual arts",
+      "url": "https://en.wikipedia.org/wiki/Visual_arts"
+    },
+    {
+      "title": "Art (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Art_(disambiguation)"
+    },
+    {
+      "title": "Visual artwork",
+      "url": "https://en.wikipedia.org/wiki/Visual_artwork"
+    },
+    {
+      "title": "Self-portrait",
+      "url": "https://en.wikipedia.org/wiki/Self-portrait"
+    },
+    {
+      "title": "Vincent van Gogh",
+      "url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    },
+    {
+      "title": "Chokwe people",
+      "url": "https://en.wikipedia.org/wiki/Chokwe_people"
+    },
+    {
+      "title": "The Birth of Venus",
+      "url": "https://en.wikipedia.org/wiki/The_Birth_of_Venus"
+    },
+    {
+      "title": "Sandro Botticelli",
+      "url": "https://en.wikipedia.org/wiki/Sandro_Botticelli"
+    },
+    {
+      "title": "Okinawan people",
+      "url": "https://en.wikipedia.org/wiki/Okinawan_people"
+    },
+    {
+      "title": "Shisa",
+      "url": "https://en.wikipedia.org/wiki/Shisa"
+    },
+    {
+      "title": "Works of art",
+      "url": "https://en.wikipedia.org/wiki/Works_of_art"
+    },
+    {
+      "title": "Fine art (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Fine_art_(disambiguation)"
+    },
+    {
+      "title": "Self-Portrait with Two Circles",
+      "url": "https://en.wikipedia.org/wiki/Self-Portrait_with_Two_Circles"
+    },
+    {
+      "title": "Rembrandt",
+      "url": "https://en.wikipedia.org/wiki/Rembrandt"
+    },
+    {
+      "title": "Kenwood House",
+      "url": "https://en.wikipedia.org/wiki/Kenwood_House"
+    },
+    {
+      "title": "The Art of Painting",
+      "url": "https://en.wikipedia.org/wiki/The_Art_of_Painting"
+    },
+    {
+      "title": "Johannes Vermeer",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+    },
+    {
+      "title": "Kunsthistorisches Museum",
+      "url": "https://en.wikipedia.org/wiki/Kunsthistorisches_Museum"
+    },
+    {
+      "title": "Vienna",
+      "url": "https://en.wikipedia.org/wiki/Vienna"
+    },
+    {
+      "title": "Austria",
+      "url": "https://en.wikipedia.org/wiki/Austria"
+    },
+    {
+      "title": "The Tower of Babel (Bruegel)",
+      "url": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)"
+    },
+    {
+      "title": "Pieter Bruegel the Elder",
+      "url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
+    },
+    {
+      "title": "High culture",
+      "url": "https://en.wikipedia.org/wiki/High_culture"
     }
   ],
   "points": {

@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 1,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-19T06:00:00.100Z",
-    "seed": 172005207,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-19T06:07:19.085Z",
+    "seed": 1967360131,
+    "reason": "A page on agent skills will show whether I understand them or only like the phrase. Nothing on shading today.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-19T06:00:04.794Z",
+  "lastTickAt": "2026-11-19T06:07:19.085Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

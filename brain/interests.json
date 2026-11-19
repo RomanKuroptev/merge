@@ -105,105 +105,6 @@
         }
       ]
     },
-    "terrain cartography": {
-      "weight": 7.278,
-      "firstSeen": "2026-11-14T18:49:24.196Z",
-      "lastFed": "2026-11-14T18:49:24.196Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-14-4",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        },
-        {
-          "id": "2026-11-14-terrain-cartography",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-14-4"
-        },
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-14-4"
-        }
-      ]
-    },
-    "shaded relief": {
-      "weight": 7.278,
-      "firstSeen": "2026-11-14T18:49:24.196Z",
-      "lastFed": "2026-11-14T18:49:24.196Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-14-4",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        },
-        {
-          "id": "2026-11-14-terrain-cartography",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-14-4"
-        },
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-14-4"
-        }
-      ]
-    },
-    "multi-directional shading": {
-      "weight": 7.278,
-      "firstSeen": "2026-11-14T18:49:24.196Z",
-      "lastFed": "2026-11-14T18:49:24.196Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-14-4",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        },
-        {
-          "id": "2026-11-14-terrain-cartography",
-          "title": "Terrain cartography",
-          "url": "https://en.wikipedia.org/wiki/Terrain_cartography",
-          "at": "2026-11-14T18:49:24.196Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-14-4"
-        },
-        {
-          "at": "2026-11-14T18:49:24.196Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-14-4"
-        }
-      ]
-    },
     "new media art": {
       "weight": 10.115,
       "firstSeen": "2026-11-17T07:59:47.308Z",
@@ -879,48 +780,6 @@
         }
       ]
     },
-    "design systems": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T06:49:40.528Z",
-      "lastFed": "2026-11-18T06:49:40.528Z",
-      "sources": [
-        {
-          "id": "2026-11-18-arla6ka-design-how",
-          "title": "arla6ka/design.how",
-          "url": "https://github.com/arla6ka/design.how",
-          "at": "2026-11-18T06:49:40.528Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T06:49:40.528Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-1"
-        }
-      ]
-    },
-    "coding agents": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T06:49:40.528Z",
-      "lastFed": "2026-11-18T06:49:40.528Z",
-      "sources": [
-        {
-          "id": "2026-11-18-arla6ka-design-how",
-          "title": "arla6ka/design.how",
-          "url": "https://github.com/arla6ka/design.how",
-          "at": "2026-11-18T06:49:40.528Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T06:49:40.528Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-1"
-        }
-      ]
-    },
     "interface design": {
       "weight": 11.9,
       "firstSeen": "2026-11-18T06:49:40.528Z",
@@ -951,27 +810,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-18-1"
-        }
-      ]
-    },
-    "webgl effects": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-18T09:35:02.887Z",
-      "lastFed": "2026-11-18T09:35:02.887Z",
-      "sources": [
-        {
-          "id": "2026-11-18-fand-vfx-js",
-          "title": "fand/vfx-js",
-          "url": "https://github.com/fand/vfx-js",
-          "at": "2026-11-18T09:35:02.887Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-18T09:35:02.887Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-18-2"
         }
       ]
     },
@@ -1018,15 +856,27 @@
       ]
     },
     "creative coding": {
-      "weight": 8.5,
+      "weight": 22.5,
       "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
       "sources": [
         {
           "id": "2026-11-18-vvvv-vl-standardlibs",
           "title": "vvvv/VL.StandardLibs",
           "url": "https://github.com/vvvv/VL.StandardLibs",
           "at": "2026-11-18T13:47:12.433Z"
+        },
+        {
+          "id": "trail:2026-11-19-1",
+          "title": "villares/sketch-a-day",
+          "url": "https://github.com/villares/sketch-a-day",
+          "at": "2026-11-19T06:07:19.085Z"
+        },
+        {
+          "id": "2026-11-19-villares-sketch-a-day",
+          "title": "villares/sketch-a-day",
+          "url": "https://github.com/villares/sketch-a-day",
+          "at": "2026-11-19T06:07:19.085Z"
         }
       ],
       "history": [
@@ -1035,6 +885,18 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-18-3"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-1"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
         }
       ]
     },
@@ -1081,15 +943,27 @@
       ]
     },
     "generative art": {
-      "weight": 8.5,
+      "weight": 22.5,
       "firstSeen": "2026-11-18T13:47:12.433Z",
-      "lastFed": "2026-11-18T13:47:12.433Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
       "sources": [
         {
           "id": "2026-11-18-wanshuiyin-align-agentic-loop-image-gene",
           "title": "wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
           "url": "https://github.com/wanshuiyin/ALIGN-Agentic-Loop-Image-GeneratioN",
           "at": "2026-11-18T13:47:12.433Z"
+        },
+        {
+          "id": "trail:2026-11-19-1",
+          "title": "villares/sketch-a-day",
+          "url": "https://github.com/villares/sketch-a-day",
+          "at": "2026-11-19T06:07:19.085Z"
+        },
+        {
+          "id": "2026-11-19-villares-sketch-a-day",
+          "title": "villares/sketch-a-day",
+          "url": "https://github.com/villares/sketch-a-day",
+          "at": "2026-11-19T06:07:19.085Z"
         }
       ],
       "history": [
@@ -1098,6 +972,18 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-18-3"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-1"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
         }
       ]
     },
@@ -1203,6 +1089,156 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-18-3"
+        }
+      ]
+    },
+    "daily sketching": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-villares-sketch-a-day",
+          "title": "villares/sketch-a-day",
+          "url": "https://github.com/villares/sketch-a-day",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "definition of art": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-art",
+          "title": "Art",
+          "url": "https://en.wikipedia.org/wiki/Art",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "art history": {
+      "weight": 24,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-art",
+          "title": "Art",
+          "url": "https://en.wikipedia.org/wiki/Art",
+          "at": "2026-11-19T06:07:19.085Z"
+        },
+        {
+          "id": "trail:2026-11-19-1",
+          "title": "Fine art",
+          "url": "https://en.wikipedia.org/wiki/Fine_art",
+          "at": "2026-11-19T06:07:19.085Z"
+        },
+        {
+          "id": "2026-11-19-fine-art",
+          "title": "Fine art",
+          "url": "https://en.wikipedia.org/wiki/Fine_art",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-19-1"
+        },
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "aesthetics": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-art",
+          "title": "Art",
+          "url": "https://en.wikipedia.org/wiki/Art",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "fine art": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-fine-art",
+          "title": "Fine art",
+          "url": "https://en.wikipedia.org/wiki/Fine_art",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
+        }
+      ]
+    },
+    "taste and hierarchy": {
+      "weight": 10,
+      "firstSeen": "2026-11-19T06:07:19.085Z",
+      "lastFed": "2026-11-19T06:07:19.085Z",
+      "sources": [
+        {
+          "id": "2026-11-19-fine-art",
+          "title": "Fine art",
+          "url": "https://en.wikipedia.org/wiki/Fine_art",
+          "at": "2026-11-19T06:07:19.085Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-19T06:07:19.085Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-19-1"
         }
       ]
     }
