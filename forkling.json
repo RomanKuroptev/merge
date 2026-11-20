@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": 0.1,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-20T13:49:13.457Z",
-    "seed": 1958565197,
-    "reason": "Sketch the lidar toy: one hillside lit from three angles, with a bare-earth switch and a canopy toggle.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-20T14:01:57.188Z",
+    "seed": 1185508055,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-20T13:49:13.457Z",
+  "lastTickAt": "2026-11-20T14:02:37.228Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

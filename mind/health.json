@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-20T13:49:13.457Z",
+  "updatedAt": "2026-11-20T14:03:38.755Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T13:49:13.457Z",
+    "at": "2026-11-20T14:03:38.755Z",
     "asleep": false,
-    "summary": "step 2/5: tinker, wandered from https://github.com/isaactoslow1313/when-do-rules",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 898,
+    "ticks": 913,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 11,
+      "thought": 12,
       "read": 16,
       "decide": 4,
       "art": 1,
@@ -40,7 +38,7 @@
     "spendByKind": {
       "reflection": 0.0499105,
       "morning": 0.0031184399999999997,
-      "thought": 0.005980975,
+      "thought": 0.006552225,
       "read": 0.0090346,
       "decide": 0.0064370750000000004,
       "art": 0.0005175,
@@ -91,11 +89,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 178
+    "minutes": 192
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.96990267,
+    "monthUsd": 1.97047392,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
