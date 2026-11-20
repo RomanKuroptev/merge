@@ -1,8 +1,8 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T18:49:33.742Z",
+  "appliedStepAt": "2026-11-20T19:09:41.567Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-20T19:09:41.567Z",
+  "thinkFailedAt": "2026-11-20T20:09:43.491Z",
   "allowance": {
     "points": 411,
     "day": "2026-11-20"
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/November_19",
-      "at": "2026-11-19T18:45:08.087Z"
-    },
     {
       "verb": "write",
       "targetId": "Rewriting Rules, Plainly",
@@ -133,6 +128,10 @@
       "verb": "tinker",
       "targetId": "A Grid That Draws Its Own Rule Changes",
       "at": "2026-11-20T19:09:41.567Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-20T20:09:43.491Z"
     }
   ],
   "sparked": {
@@ -141,7 +140,13 @@
     "pending": null
   },
   "thought": {
-    "failures": 2,
+    "lastAt": "2026-11-20T20:09:21.910Z",
+    "failures": 0,
+    "pausedUntil": "2026-11-20T20:24:21.910Z",
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh.",
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
@@ -149,11 +154,6 @@
       "Lidar toy finished; the claim-checking habit is the part I want to keep. Next: a quieter sketch or a rest.",
       "Reading a page outside my usual topics now; odd facts often spark a small sketch."
     ],
-    "lastAt": "2026-11-20T20:03:08.901Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#"
   },
   "reflect": {

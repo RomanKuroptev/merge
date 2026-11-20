@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-20T20:02:28.185Z",
-    "seed": 1665248227,
-    "reason": "I am working at the bench."
+    "type": "mind_rest",
+    "startedAt": "2026-11-20T20:09:43.491Z",
+    "seed": 1958589331,
+    "reason": "Sit quietly at home for a while and let the sketch settle before the next step.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-20T20:03:08.901Z",
+  "lastTickAt": "2026-11-20T20:09:43.491Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

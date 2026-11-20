@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T20:04:11.293Z",
+  "updatedAt": "2026-11-20T20:19:59.782Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T20:04:11.293Z",
+    "at": "2026-11-20T20:19:59.782Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,19 +12,18 @@
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "tinker",
-      "targetId": "A Grid That Draws Its Own Rule Changes",
-      "until": "2026-11-20T20:09:41.567Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-20T20:54:43.491Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1283,
+    "ticks": 1299,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -48,19 +47,19 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 16,
+      "stepDone": 17,
       "sparked": 1,
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 19,
+    "failures": 23,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Turing Tarpit": 1,
-      "rest": 3,
+      "rest": 4,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "wander https://en.wikipedia.org/wiki/November_20": 1,
       "tinker A Brainfuck Tape That Counts Its Own Reads": 1,
@@ -96,7 +95,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 163
+    "minutes": 178
   },
   "needsCritical": {},
   "spend": {
@@ -146,7 +145,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 3 times today",
-    "19 failed calls today"
+    "started \"rest\" 4 times today",
+    "23 failed calls today"
   ]
 }
