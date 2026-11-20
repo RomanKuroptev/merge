@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T08:19:13.142Z",
+  "updatedAt": "2026-11-20T08:34:31.262Z",
   "engine": "v0.19.0",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T08:19:13.142Z",
+    "at": "2026-11-20T08:34:31.262Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,23 +12,24 @@
   },
   "plan": {
     "planId": "2026-11-20:4ad2febd",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-20T08:28:38.824Z",
+      "index": 3,
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Brainfuck",
+      "until": "2026-11-20T09:08:39.934Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T05:48:23.565Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 557,
+    "ticks": 574,
     "decideCalls": 4,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 4,
+      "thought": 5,
       "read": 2,
       "decide": 2,
       "art": 1
@@ -36,14 +37,14 @@
     "spendByKind": {
       "reflection": 0.025251,
       "morning": 0.0031184399999999997,
-      "thought": 0.002120225,
+      "thought": 0.002655075,
       "read": 0.0021999,
       "decide": 0.002091325,
       "art": 0.0005175
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2,
+      "stepDone": 3,
       "sparked": 1,
       "buildResult": 1
     },
@@ -54,7 +55,8 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Turing Tarpit": 1,
-      "rest": 1
+      "rest": 1,
+      "wander https://esolangs.org/wiki/Brainfuck": 1
     },
     "longestGapMinutes": 1
   },
@@ -72,17 +74,17 @@
     }
   },
   "allowance": {
-    "points": 589,
+    "points": 586,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 147
+    "minutes": 161
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.87208396,
+    "monthUsd": 1.87261881,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },

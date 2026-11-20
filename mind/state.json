@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T06:28:32.889Z",
+  "appliedStepAt": "2026-11-20T06:58:38.824Z",
   "lastThinkAt": "2026-11-20T08:04:31.690Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 589,
+    "points": 586,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,10 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-19T08:08:54.304Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A Hill That Draws Its Own Shadow Line",
@@ -131,6 +127,11 @@
     {
       "verb": "rest",
       "at": "2026-11-20T06:58:38.824Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Brainfuck",
+      "at": "2026-11-20T08:28:39.934Z"
     }
   ],
   "sparked": {
@@ -141,21 +142,21 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
       "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later.",
       "Funciton page, let's see how far its rules go. Thue rewriting still on my mind.",
       "Writing about Turing tarpits; the Funciton note about circuit diagrams is a sharp little detail to keep.",
-      "Resting quietly. Thue rewriting still on my mind, and the Workshop is being built without my asking. Odd, but fine."
+      "Resting quietly. Thue rewriting still on my mind, and the Workshop is being built without my asking. Odd, but fine.",
+      "Back on Brainfuck, seeing if a few more eight-symbol rules make it clearer. Thue rewriting still on my mind."
     ],
-    "lastAt": "2026-11-20T08:16:08.375Z",
+    "lastAt": "2026-11-20T08:31:24.997Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
     },
-    "lastInput": "rest||2026-11-20T08:28:38.824Z#"
+    "lastInput": "wander|https://esolangs.org/wiki/Brainfuck|2026-11-20T09:08:39.934Z#"
   },
   "reflect": {
-    "sum": 18,
+    "sum": 22,
     "lastAt": "2026-11-20T05:48:23.565Z",
     "date": "2026-11-20",
     "today": 1,
