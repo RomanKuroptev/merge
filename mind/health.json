@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T21:20:26.269Z",
+  "updatedAt": "2026-11-20T21:35:26.568Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T21:20:26.269Z",
+    "at": "2026-11-20T21:35:26.568Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -13,18 +13,12 @@
   "plan": {
     "planId": "2026-11-20:4a356cde",
     "stepsLeft": 0,
-    "current": {
-      "index": 4,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-20T21:24:51.545Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 0
+    "idleMinutes": 10
   },
   "today": {
-    "ticks": 1361,
+    "ticks": 1377,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -48,12 +42,12 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
+      "stepDone": 19,
       "sparked": 1,
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 38,
+    "failures": 40,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -97,7 +91,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 238
+    "minutes": 252
   },
   "needsCritical": {},
   "spend": {
@@ -148,6 +142,6 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "38 failed calls today"
+    "40 failed calls today"
   ]
 }
