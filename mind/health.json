@@ -1,31 +1,39 @@
 {
-  "updatedAt": "2026-11-20T18:04:45.428Z",
+  "updatedAt": "2026-11-20T18:19:29.103Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T18:04:45.428Z",
+    "at": "2026-11-20T18:19:29.103Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-20:e0e777d0",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-20T13:19:08.864Z",
-    "idleMinutes": 46
+    "planId": "2026-11-20:4a356cde",
+    "stepsLeft": 4,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
+      "until": "2026-11-20T18:49:29.103Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-20T18:19:29.103Z",
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1161,
-    "decideCalls": 8,
+    "ticks": 1176,
+    "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 17,
       "read": 21,
-      "decide": 6,
+      "decide": 8,
       "art": 1,
       "sketch": 4,
       "goalreview": 1
@@ -35,7 +43,7 @@
       "morning": 0.0031184399999999997,
       "thought": 0.009279075,
       "read": 0.012165000000000002,
-      "decide": 0.01041391,
+      "decide": 0.013804845,
       "art": 0.0005175,
       "sketch": 0.114018,
       "goalreview": 0.013095
@@ -45,7 +53,7 @@
       "stepDone": 14,
       "sparked": 1,
       "buildResult": 1,
-      "replan": 3
+      "replan": 4
     },
     "failures": 0,
     "rejections": 1,
@@ -63,7 +71,8 @@
       "wander https://github.com/isaactoslow1313/when-do-rules": 1,
       "tinker Lidar Toy, Bare Earth Switch": 1,
       "wander https://en.wikipedia.org/wiki/Space_probe": 1,
-      "tinker Always Has Been, Drawn Plainly": 1
+      "tinker Always Has Been, Drawn Plainly": 1,
+      "wander https://en.wikipedia.org/wiki/Tôn_Thất_Đính": 1
     },
     "longestGapMinutes": 1
   },
@@ -81,17 +90,17 @@
     }
   },
   "allowance": {
-    "points": 454,
+    "points": 451,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 45
+    "minutes": 59
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.04930301,
+    "monthUsd": 2.05269395,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
@@ -108,8 +117,8 @@
       }
     },
     "texts": {
-      "texts": 40,
-      "meanMaxSimilarity": 0.019774006855552466,
+      "texts": 39,
+      "meanMaxSimilarity": 0.019966418860815176,
       "repeatedWriting": 9,
       "repeatedDiary": 1
     },

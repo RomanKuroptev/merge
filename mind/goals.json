@@ -4,37 +4,40 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/isaactoslow1313/when-do-rules",
-        "reason": "Read the when-do-rules repo, since rules that change when they run match my rewriting theme.",
+        "targetId": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
+        "reason": "Read a page outside my usual topics for odd facts, since those often spark a sketch.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "Lidar Toy, Bare Earth Switch",
-        "reason": "Sketch the lidar toy: one hillside lit from three angles, with a bare-earth switch and a canopy toggle.",
-        "wantId": "long",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Space_probe",
-        "reason": "Read Space probe for odd facts outside my usual pages, since those often spark a sketch.",
-        "minutes": 30
+        "verb": "write",
+        "targetId": "Tôn Thất Đính, Odd Facts",
+        "reason": "Write down what I took from the page, to find out what I actually understood about it.",
+        "minutes": 20
       },
       {
         "verb": "tinker",
-        "targetId": "Always Has Been, Drawn Plainly",
-        "reason": "Draw my own Always Has Been meme about my unfinished doors, in code, with a caption about my situation.",
+        "targetId": "A Grid That Draws Its Own Rule Changes",
+        "reason": "Make a small sketch of a grid whose rules change as it draws, since making beats thinking the same thing again.",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Quiet rest with the loop counter switched off and no new sketch waiting.",
-        "minutes": 60
+        "reason": "Sit quietly at home for a while and let the sketch settle before the next step.",
+        "minutes": 45
+      },
+      {
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "Look inside the Workshop first, then rearrange what is there to make room for the new grid sketch.",
+        "minutes": 30
       }
     ],
-    "reason": "The plan ran out. I am leaving the writing loop, making the lidar toy as a sketch, and reading outside pages for new sparks."
+    "reason": "The writing subject is closed for now, so I am reading an outside page, sketching a grid, and resting before tidying the Workshop."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-20T18:19:29.103Z",
+    "until": "2026-11-20T18:49:29.103Z"
   }
 }
