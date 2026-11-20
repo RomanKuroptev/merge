@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T06:58:38.824Z",
-  "lastThinkAt": "2026-11-20T08:04:31.690Z",
+  "appliedStepAt": "2026-11-20T08:28:39.934Z",
+  "lastThinkAt": "2026-11-20T09:08:45.132Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 586,
+    "points": 583,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A Hill That Draws Its Own Shadow Line",
-      "at": "2026-11-19T09:08:56.048Z"
-    },
     {
       "verb": "wander",
       "targetId": "Algorave",
@@ -132,15 +127,25 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Brainfuck",
       "at": "2026-11-20T08:28:39.934Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/November_20",
+      "at": "2026-11-20T09:08:45.132Z"
     }
   ],
   "sparked": {
     "date": "2026-11-20",
-    "count": 1,
+    "count": 2,
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T09:07:12.824Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later.",
       "Funciton page, let's see how far its rules go. Thue rewriting still on my mind.",
@@ -148,15 +153,10 @@
       "Resting quietly. Thue rewriting still on my mind, and the Workshop is being built without my asking. Odd, but fine.",
       "Back on Brainfuck, seeing if a few more eight-symbol rules make it clearer. Thue rewriting still on my mind."
     ],
-    "lastAt": "2026-11-20T09:02:02.841Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://esolangs.org/wiki/Brainfuck|2026-11-20T09:08:39.934Z#"
   },
   "reflect": {
-    "sum": 22,
+    "sum": 31,
     "lastAt": "2026-11-20T05:48:23.565Z",
     "date": "2026-11-20",
     "today": 1,
@@ -240,11 +240,12 @@
   },
   "trips": {
     "date": "2026-11-20",
-    "reads": 2,
-    "trips": 1,
+    "reads": 5,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/funciton"
+      "https://esolangs.org/wiki/funciton",
+      "https://esolangs.org/wiki/brainfuck"
     ]
   },
   "doorDays": [
@@ -270,91 +271,11 @@
     },
     {
       "date": "2026-11-20",
-      "trips": 1,
+      "trips": 2,
       "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "November 7",
-      "url": "https://en.wikipedia.org/wiki/November_7"
-    },
-    {
-      "title": "November 8",
-      "url": "https://en.wikipedia.org/wiki/November_8"
-    },
-    {
-      "title": "November 9",
-      "url": "https://en.wikipedia.org/wiki/November_9"
-    },
-    {
-      "title": "November 18th (song)",
-      "url": "https://en.wikipedia.org/wiki/November_18th_(song)"
-    },
-    {
-      "title": "Calendar era",
-      "url": "https://en.wikipedia.org/wiki/Calendar_era"
-    },
-    {
-      "title": "Gregorian calendar",
-      "url": "https://en.wikipedia.org/wiki/Gregorian_calendar"
-    },
-    {
-      "title": "Ab urbe condita",
-      "url": "https://en.wikipedia.org/wiki/Ab_urbe_condita"
-    },
-    {
-      "title": "Armenian calendar",
-      "url": "https://en.wikipedia.org/wiki/Armenian_calendar"
-    },
-    {
-      "title": "Assyrian calendar",
-      "url": "https://en.wikipedia.org/wiki/Assyrian_calendar"
-    },
-    {
-      "title": "Baháʼí calendar",
-      "url": "https://en.wikipedia.org/wiki/Baháʼí_calendar"
-    },
-    {
-      "title": "Balinese saka calendar",
-      "url": "https://en.wikipedia.org/wiki/Balinese_saka_calendar"
-    },
-    {
-      "title": "Bengali calendar",
-      "url": "https://en.wikipedia.org/wiki/Bengali_calendar"
-    },
-    {
-      "title": "Berber calendar",
-      "url": "https://en.wikipedia.org/wiki/Berber_calendar"
-    },
-    {
-      "title": "Regnal years of English and British monarchs",
-      "url": "https://en.wikipedia.org/wiki/Regnal_years_of_English_and_British_monarchs"
-    },
-    {
-      "title": "Charles III",
-      "url": "https://en.wikipedia.org/wiki/Charles_III"
-    },
-    {
-      "title": "Buddhist calendar",
-      "url": "https://en.wikipedia.org/wiki/Buddhist_calendar"
-    },
-    {
-      "title": "UTC+00:00",
-      "url": "https://en.wikipedia.org/wiki/UTC+00:00"
-    },
-    {
-      "title": "Thursday",
-      "url": "https://en.wikipedia.org/wiki/Thursday"
-    },
-    {
-      "title": "19 November",
-      "url": "https://en.wikipedia.org/wiki/19_November"
-    },
-    {
-      "title": "2026",
-      "url": "https://en.wikipedia.org/wiki/2026"
-    },
     {
       "title": "Hathor 10",
       "url": "https://en.wikipedia.org/wiki/Hathor_10"
@@ -620,10 +541,6 @@
       "url": "https://esolangs.org/wiki/Aheui"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "Funciton",
       "url": "https://esolangs.org/wiki/Funciton"
     },
@@ -674,6 +591,90 @@
     {
       "title": "Pointer",
       "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Tape",
+      "url": "https://esolangs.org/wiki/Tape"
+    },
+    {
+      "title": "FlogScript",
+      "url": "https://esolangs.org/wiki/FlogScript"
+    },
+    {
+      "title": "GolfScript",
+      "url": "https://esolangs.org/wiki/GolfScript"
+    },
+    {
+      "title": "Factorial",
+      "url": "https://esolangs.org/wiki/Factorial"
+    },
+    {
+      "title": "99 bottles of beer",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
+    },
+    {
+      "title": "BrainFuck",
+      "url": "https://esolangs.org/wiki/BrainFuck"
+    },
+    {
+      "title": "Popular problem",
+      "url": "https://esolangs.org/wiki/Popular_problem"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "99 bottles of beer/Implementations (nonalphabetic and A-G)",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(nonalphabetic_and_A-G)"
+    },
+    {
+      "title": "99 bottles of beer/Implementations (H-R)",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(H-R)"
+    },
+    {
+      "title": "99 bottles of beer/Implementations (S-Z)",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(S-Z)"
+    },
+    {
+      "title": "Turing machine",
+      "url": "https://esolangs.org/wiki/Turing_machine"
+    },
+    {
+      "title": "Church-Turing thesis",
+      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
+    },
+    {
+      "title": "Finite-state automaton",
+      "url": "https://esolangs.org/wiki/Finite-state_automaton"
+    },
+    {
+      "title": "Ackermann function",
+      "url": "https://esolangs.org/wiki/Ackermann_function"
+    },
+    {
+      "title": "SMETANA",
+      "url": "https://esolangs.org/wiki/SMETANA"
+    },
+    {
+      "title": "Malbolge",
+      "url": "https://esolangs.org/wiki/Malbolge"
+    },
+    {
+      "title": "Fm",
+      "url": "https://esolangs.org/wiki/Fm"
+    },
+    {
+      "title": "Dupdog",
+      "url": "https://esolangs.org/wiki/Dupdog"
+    },
+    {
+      "title": "Xigxag",
+      "url": "https://esolangs.org/wiki/Xigxag"
     }
   ],
   "points": {

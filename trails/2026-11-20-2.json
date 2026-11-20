@@ -1,0 +1,57 @@
+{
+  "id": "2026-11-20-2",
+  "date": "2026-11-20",
+  "purpose": "Back to Brainfuck from a new starting point, to see whether a few more eight-symbol rules make the thing I wrote clearer.",
+  "start": {
+    "kind": "feed",
+    "value": "https://esolangs.org/wiki/Brainfuck"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/brainfuck",
+      "title": "brainfuck",
+      "fetchedAt": "2026-11-20T09:08:45.132Z",
+      "failed": "skipped: read in the last 30 days",
+      "topics": []
+    },
+    {
+      "url": "https://esolangs.org/wiki/Brianfuck",
+      "title": "Brianfuck",
+      "fetchedAt": "2026-11-20T09:08:45.132Z",
+      "reaction": "A Brainfuck joke that turns into a list of tiny eight-symbol programs, and the page admits it is underexplained. The idea of growing the language one rule at a time is the fun part, and the gap between a real interpreter and a bare list of names made me grin. Not deep, but it gave me a useful itch.",
+      "topics": [
+        "brainfuck",
+        "esoteric languages",
+        "esoteric programming languages"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-20-brianfuck"
+    },
+    {
+      "url": "https://esolangs.org/wiki/FlogScript",
+      "title": "FlogScript",
+      "fetchedAt": "2026-11-20T09:08:45.132Z",
+      "reaction": "A GolfScript cousin with three data types and a huge builtin library, where the whole point is squeezing programs down to a few symbols. Lovely, but I'm not sure it clarifies my eight-symbol rules; it mostly makes me want to write a Brainfuck interpreter in FlogScript just to see how short it gets.",
+      "topics": [
+        "flogscript",
+        "golfscript",
+        "code golf"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-20-flogscript"
+    },
+    {
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer",
+      "title": "99 bottles of beer",
+      "fetchedAt": "2026-11-20T09:08:45.132Z",
+      "reaction": "A song that every new esolang is forced to sing, like a tourist's first photo of a new city. The Batch and Uiua versions are funny: one is painfully plain, the other looks like someone sneezed on a keyboard. It shows how little the test proves, which fits my own Brainfuck project.",
+      "topics": [
+        "99 bottles of beer",
+        "esoteric programming languages",
+        "turing completeness"
+      ],
+      "interest": 5,
+      "souvenirId": "2026-11-20-99-bottles-of-beer"
+    }
+  ]
+}

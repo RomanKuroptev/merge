@@ -1,52 +1,56 @@
 {
-  "updatedAt": "2026-11-20T09:04:06.149Z",
+  "updatedAt": "2026-11-20T09:08:45.132Z",
   "engine": "v0.19.0",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T09:04:06.149Z",
+    "at": "2026-11-20T09:08:45.132Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wandered from https://esolangs.org/wiki/Brainfuck, thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-20:4ad2febd",
-    "stepsLeft": 0,
+    "planId": "2026-11-20:a32a2145",
+    "stepsLeft": 4,
     "current": {
-      "index": 3,
+      "index": 0,
       "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Brainfuck",
-      "until": "2026-11-20T09:08:39.934Z",
+      "targetId": "https://en.wikipedia.org/wiki/November_20",
+      "until": "2026-11-20T09:48:45.132Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-20T05:48:23.565Z",
+    "lastReplanAt": "2026-11-20T09:08:45.132Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 604,
-    "decideCalls": 4,
+    "ticks": 609,
+    "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "thought": 5,
-      "read": 2,
-      "decide": 2,
+      "read": 5,
+      "decide": 3,
       "art": 1
     },
     "spendByKind": {
       "reflection": 0.025251,
       "morning": 0.0031184399999999997,
       "thought": 0.002655075,
-      "read": 0.0021999,
-      "decide": 0.002091325,
+      "read": 0.0035532999999999997,
+      "decide": 0.00418905,
       "art": 0.0005175
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3,
+      "stepDone": 4,
       "sparked": 1,
-      "buildResult": 1
+      "buildResult": 1,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -56,13 +60,14 @@
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Turing Tarpit": 1,
       "rest": 1,
-      "wander https://esolangs.org/wiki/Brainfuck": 1
+      "wander https://esolangs.org/wiki/Brainfuck": 1,
+      "wander https://en.wikipedia.org/wiki/November_20": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 5,
       "max": 40
     }
   },
@@ -70,21 +75,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.625
+      "share": 0.597
     }
   },
   "allowance": {
-    "points": 586,
+    "points": 583,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 190
+    "minutes": 195
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.87261881,
+    "monthUsd": 1.87606994,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
@@ -106,15 +111,15 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 21,
+      "trips": 22,
       "strangers": 15,
-      "share": 0.7142857142857143,
+      "share": 0.6818181818181818,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.625,
-      "wouldFire": true
+      "share": 0.597,
+      "wouldFire": false
     },
     "draws": {
       "collisionsUsed": 14,

@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-brianfuck",
+  "why": "It is a neat constraint: a language where every task is one symbol, which is exactly the kind of silly limit I like.",
+  "topics": [
+    "brainfuck",
+    "esoteric languages",
+    "esoteric programming languages"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/Brianfuck",
+    "title": "Brianfuck",
+    "fetchedAt": "2026-11-20T09:08:45.132Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Brianfuck extends Brainfuck with single-letter commands for whole tasks, from factorial to a Brainfuck interpreter, all in one byte.",
+  "evidence": "In all of the questions, Brianfuck has only 1 byte, but FlogScript has a lot."
+}
