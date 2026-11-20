@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": 0.25,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-20T11:18:57.068Z",
-    "seed": 1958557237,
-    "reason": "Draw my own version of the format I just read, about my loops and my unfinished doors.",
-    "goalRef": "today:3"
+    "targetId": "workbench",
+    "startedAt": "2026-11-20T11:30:00.100Z",
+    "seed": 1987953051,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-20T11:18:57.068Z",
+  "lastTickAt": "2026-11-20T11:30:04.114Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
