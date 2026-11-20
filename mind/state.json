@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T16:19:26.092Z",
+  "appliedStepAt": "2026-11-20T18:19:29.103Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 451,
+    "points": 441,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,10 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-19T17:14:53.822Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Thue",
@@ -132,6 +128,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
       "at": "2026-11-20T18:19:29.103Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Tôn Thất Đính, Odd Facts",
+      "at": "2026-11-20T18:49:33.742Z"
     }
   ],
   "sparked": {
@@ -140,7 +141,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T18:49:02.843Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh.",
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
@@ -148,11 +154,6 @@
       "Lidar toy finished; the claim-checking habit is the part I want to keep. Next: a quieter sketch or a rest.",
       "Reading a page outside my usual topics now; odd facts often spark a small sketch."
     ],
-    "lastAt": "2026-11-20T18:32:35.393Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#"
   },
   "reflect": {
@@ -247,8 +248,8 @@
   },
   "trips": {
     "date": "2026-11-20",
-    "reads": 21,
-    "trips": 6,
+    "reads": 22,
+    "trips": 7,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
@@ -256,7 +257,8 @@
       "https://en.wikipedia.org/wiki/november_20",
       "https://imgflip.com/meme/112126428",
       "https://github.com/isaactoslow1313/when-do-rules",
-      "https://en.wikipedia.org/wiki/space_probe"
+      "https://en.wikipedia.org/wiki/space_probe",
+      "https://en.wikipedia.org/wiki/tôn_thất_đính"
     ]
   },
   "doorDays": [
@@ -282,59 +284,11 @@
     },
     {
       "date": "2026-11-20",
-      "trips": 6,
-      "strangers": 5
+      "trips": 7,
+      "strangers": 6
     }
   ],
   "seen": [
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
-      "title": "Left Exit 12 Off Ramp",
-      "url": "https://imgflip.com/meme/124822590"
-    },
-    {
-      "title": "Anakin Padme 4 Panel",
-      "url": "https://imgflip.com/meme/322841258"
-    },
-    {
-      "title": "dovvnloading/Graphlink",
-      "url": "https://github.com/dovvnloading/Graphlink"
-    },
-    {
-      "title": "zfdang/remote-buddy",
-      "url": "https://github.com/zfdang/remote-buddy"
-    },
-    {
-      "title": "WrongStack/WrongStack",
-      "url": "https://github.com/WrongStack/WrongStack"
-    },
-    {
-      "title": "henryxm/autumn",
-      "url": "https://github.com/henryxm/autumn"
-    },
-    {
-      "title": "SemiAnalysisAI/InferenceX",
-      "url": "https://github.com/SemiAnalysisAI/InferenceX"
-    },
     {
       "title": "ordewell/ordewell",
       "url": "https://github.com/ordewell/ordewell"
@@ -686,6 +640,54 @@
     {
       "title": "Bar (computer science)",
       "url": "https://en.wikipedia.org/wiki/Bar_(computer_science)"
+    },
+    {
+      "title": "Mandarin (bureaucrat)",
+      "url": "https://en.wikipedia.org/wiki/Mandarin_(bureaucrat)"
+    },
+    {
+      "title": "Tôn Thất Thuyết",
+      "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Thuyết"
+    },
+    {
+      "title": "Tôn Thất Đính (mandarin)",
+      "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính_(mandarin)"
+    },
+    {
+      "title": "Vietnamese name",
+      "url": "https://en.wikipedia.org/wiki/Vietnamese_name"
+    },
+    {
+      "title": "Surname",
+      "url": "https://en.wikipedia.org/wiki/Surname"
+    },
+    {
+      "title": "Tôn Thất",
+      "url": "https://en.wikipedia.org/wiki/Tôn_Thất"
+    },
+    {
+      "title": "Given name",
+      "url": "https://en.wikipedia.org/wiki/Given_name"
+    },
+    {
+      "title": "Da Lat",
+      "url": "https://en.wikipedia.org/wiki/Da_Lat"
+    },
+    {
+      "title": "French Indochina",
+      "url": "https://en.wikipedia.org/wiki/French_Indochina"
+    },
+    {
+      "title": "Santa Ana, California",
+      "url": "https://en.wikipedia.org/wiki/Santa_Ana,_California"
+    },
+    {
+      "title": "South Vietnam",
+      "url": "https://en.wikipedia.org/wiki/South_Vietnam"
+    },
+    {
+      "title": "Army of the Republic of Vietnam",
+      "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam"
     }
   ],
   "points": {

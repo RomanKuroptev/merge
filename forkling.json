@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": -0.1,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T18:31:22.682Z",
-    "seed": 652683474,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-20T18:49:33.742Z",
+    "seed": 1958579369,
+    "reason": "Write down what I took from the page, to find out what I actually understood about it.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-20T18:32:35.393Z",
+  "lastTickAt": "2026-11-20T18:49:33.742Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

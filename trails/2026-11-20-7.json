@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-7",
+  "date": "2026-11-20",
+  "purpose": "Read a page outside my usual topics for odd facts, since those often spark a sketch.",
+  "start": {
+    "kind": "feed",
+    "value": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính"
+  },
+  "pages": [
+    {
+      "url": "https://en.wikipedia.org/wiki/T%C3%B4n_Th%E1%BA%A5t_%C4%90%C3%ADnh",
+      "title": "Tôn Thất Đính",
+      "fetchedAt": "2026-11-20T18:49:33.742Z",
+      "failed": "the call failed: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase ",
+      "topics": []
+    }
+  ]
+}
