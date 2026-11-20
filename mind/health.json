@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T17:34:57.945Z",
+  "updatedAt": "2026-11-20T17:49:20.738Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T17:34:57.945Z",
+    "at": "2026-11-20T17:49:20.738Z",
     "asleep": false,
     "summary": "sync",
     "think": null,
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T13:19:08.864Z",
-    "idleMinutes": 16
+    "idleMinutes": 30
   },
   "today": {
-    "ticks": 1131,
+    "ticks": 1145,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
@@ -87,7 +87,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 15
+    "minutes": 29
   },
   "needsCritical": {},
   "spend": {
@@ -98,10 +98,10 @@
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 19,
+      "made": 18,
       "wouldFire": 6,
       "byKind": {
-        "art": 12,
+        "art": 11,
         "tool": 2,
         "game": 3,
         "meme": 2
