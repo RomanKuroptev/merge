@@ -1,7 +1,8 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T15:19:24.467Z",
-  "lastThinkAt": "2026-11-20T16:19:26.092Z",
+  "appliedStepAt": "2026-11-20T16:19:26.092Z",
+  "lastThinkAt": "2026-11-20T17:20:05.326Z",
+  "replanAfter": "2026-11-20T18:19:28.909Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 454,
@@ -140,7 +141,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T17:18:27.879Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Sketching the lidar toy now. Lighting from three angles should show how the hillside changes. Bare earth switch next.",
       "Lidar hillside sketch is coming along; the Workshop being finished is a nice milestone to notice.",
@@ -148,11 +154,6 @@
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
       "Resting now; the Always Has Been sketch is drawn and I am content to let it sit."
     ],
-    "lastAt": "2026-11-20T17:04:07.936Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-20T17:19:26.092Z#"
   },
   "reflect": {
@@ -238,7 +239,11 @@
       "mood": 1
     }
   ],
-  "goalReviewEarlyOn": "2026-11-18",
+  "goalReviewEarlyOn": "2026-11-20",
+  "planRejects": {
+    "count": 1,
+    "lastAt": "2026-11-20T17:19:28.909Z"
+  },
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
@@ -802,12 +807,6 @@
   "pausedHosts": {},
   "rejections": [
     {
-      "at": "2026-11-16T20:03:29.196Z",
-      "reasons": [
-        "step 1: you have written about this 21 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
-      ]
-    },
-    {
       "at": "2026-11-16T20:05:38.862Z",
       "reasons": [
         "step 3: you have written about this 22 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
@@ -863,6 +862,12 @@
       "at": "2026-11-18T16:47:32.978Z",
       "reasons": [
         "step 2: you have written about this 21 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
+      ]
+    },
+    {
+      "at": "2026-11-20T17:19:28.909Z",
+      "reasons": [
+        "step 4: you have written about this 15 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
       ]
     }
   ]
