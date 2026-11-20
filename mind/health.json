@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-20T22:04:56.629Z",
+  "updatedAt": "2026-11-20T22:20:47.604Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T22:04:56.629Z",
-    "asleep": false,
+    "at": "2026-11-20T22:20:47.604Z",
+    "asleep": true,
     "summary": "",
     "think": null,
     "triggers": [],
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 39
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1407,
+    "ticks": 1423,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -47,7 +47,7 @@
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 48,
+    "failures": 49,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -91,7 +91,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 281
+    "minutes": 297
   },
   "needsCritical": {},
   "spend": {
@@ -142,6 +142,6 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "48 failed calls today"
+    "49 failed calls today"
   ]
 }
