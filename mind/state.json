@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T10:48:55.454Z",
-  "lastThinkAt": "2026-11-20T10:48:55.454Z",
+  "appliedStepAt": "2026-11-20T11:18:57.068Z",
+  "lastThinkAt": "2026-11-20T12:18:59.588Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 520,
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A Loop That Counts Its Own Turns",
-      "at": "2026-11-19T12:44:09.176Z"
-    },
     {
       "verb": "wander",
       "targetId": "Brainfuck",
@@ -133,6 +128,10 @@
       "verb": "tinker",
       "targetId": "Distracted Boyfriend, Drawn Plainly",
       "at": "2026-11-20T11:18:57.068Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-20T12:18:59.588Z"
     }
   ],
   "sparked": {
@@ -141,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T12:15:32.899Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Back on Brainfuck, seeing if a few more eight-symbol rules make it clearer. Thue rewriting still on my mind.",
       "Calendar page for a change, away from esoteric pages. Hoping for odd facts to sketch from.",
@@ -149,11 +153,6 @@
       "Reading the imgflip meme format now; the repeat counter joke is still funny to me, and my own loops are the punchline.",
       "Drawing my own Distracted Boyfriend, with my loops and unfinished doors as the punchline. Going well so far."
     ],
-    "lastAt": "2026-11-20T12:00:17.561Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|Distracted Boyfriend, Drawn Plainly|2026-11-20T12:18:57.068Z#"
   },
   "reflect": {
@@ -206,7 +205,7 @@
   ],
   "sketches": {
     "date": "2026-11-20",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-20",
   "lastRewriteDate": "2026-11-19",
