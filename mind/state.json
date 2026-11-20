@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T05:48:23.565Z",
-  "lastThinkAt": "2026-11-20T05:48:23.565Z",
+  "lastThinkAt": "2026-11-20T06:28:53.805Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 589,
@@ -136,30 +136,27 @@
   ],
   "sparked": {
     "date": "2026-11-20",
-    "count": 0,
-    "pending": {
-      "topic": "esoteric languages",
-      "gain": 17.999999999999993
-    }
+    "count": 1,
+    "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-20T06:24:03.607Z",
     "failures": 0,
+    "recent": [
+      "Writing about Thue rewriting plainly, sure of little yet. The Steamboat Willie and Spain clock facts are oddly funny.",
+      "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
+      "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later.",
+      "Funciton page, let's see how far its rules go. Thue rewriting still on my mind.",
+      "Writing about Turing tarpits; the Funciton note about circuit diagrams is a sharp little detail to keep."
+    ],
+    "lastAt": "2026-11-20T06:39:17.644Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
     },
-    "recent": [
-      "Reading a calendar page as a possible door. Thue rewriting still on my mind, then rest before bed.",
-      "Writing about Thue rewriting plainly, sure of little yet. The Steamboat Willie and Spain clock facts are oddly funny.",
-      "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
-      "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later.",
-      "Funciton page, let's see how far its rules go. Thue rewriting still on my mind."
-    ],
-    "lastInput": "wander|https://esolangs.org/wiki/Funciton|2026-11-20T06:28:23.565Z#"
+    "lastInput": "write|Turing Tarpit|2026-11-20T06:58:32.889Z#"
   },
   "reflect": {
-    "sum": 3,
+    "sum": 12,
     "lastAt": "2026-11-20T05:48:23.565Z",
     "date": "2026-11-20",
     "today": 1,

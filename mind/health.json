@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-20T06:28:32.889Z",
+  "updatedAt": "2026-11-20T06:43:24.241Z",
   "engine": "v0.18.0",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T06:28:32.889Z",
+    "at": "2026-11-20T06:43:24.241Z",
     "asleep": false,
-    "summary": "step 2/4: write, wandered from https://esolangs.org/wiki/Funciton",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,23 +24,26 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 443,
-    "decideCalls": 2,
+    "ticks": 459,
+    "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 1,
-      "read": 2
+      "thought": 2,
+      "read": 2,
+      "decide": 1
     },
     "spendByKind": {
       "reflection": 0.025251,
       "morning": 0.0031184399999999997,
-      "thought": 0.0005078249999999999,
-      "read": 0.0021999
+      "thought": 0.00106855,
+      "read": 0.0021999,
+      "decide": 0.0010017000000000001
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -74,11 +75,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 39
+    "minutes": 53
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.86786272,
+    "monthUsd": 1.86942515,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
