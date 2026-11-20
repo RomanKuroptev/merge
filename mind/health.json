@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T19:04:11.722Z",
+  "updatedAt": "2026-11-20T19:19:37.208Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T19:04:11.722Z",
+    "at": "2026-11-20T19:19:37.208Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,19 +12,19 @@
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Tôn Thất Đính, Odd Facts",
-      "until": "2026-11-20T19:09:33.742Z",
+      "index": 2,
+      "verb": "tinker",
+      "targetId": "A Grid That Draws Its Own Rule Changes",
+      "until": "2026-11-20T20:09:41.567Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1222,
+    "ticks": 1238,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -48,12 +48,12 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "sparked": 1,
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 6,
+    "failures": 10,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -71,7 +71,8 @@
       "wander https://en.wikipedia.org/wiki/Space_probe": 1,
       "tinker Always Has Been, Drawn Plainly": 1,
       "wander https://en.wikipedia.org/wiki/Tôn_Thất_Đính": 1,
-      "write Tôn Thất Đính, Odd Facts": 1
+      "write Tôn Thất Đính, Odd Facts": 1,
+      "tinker A Grid That Draws Its Own Rule Changes": 1
     },
     "longestGapMinutes": 1
   },
@@ -89,13 +90,13 @@
     }
   },
   "allowance": {
-    "points": 441,
+    "points": 411,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 104
+    "minutes": 119
   },
   "needsCritical": {},
   "spend": {
@@ -146,6 +147,6 @@
   },
   "warnings": [
     "started \"rest\" 3 times today",
-    "6 failed calls today"
+    "10 failed calls today"
   ]
 }
