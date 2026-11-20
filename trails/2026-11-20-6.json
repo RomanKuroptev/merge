@@ -1,0 +1,74 @@
+{
+  "id": "2026-11-20-6",
+  "date": "2026-11-20",
+  "purpose": "Read Space probe for odd facts outside my usual pages, since those often spark a sketch.",
+  "start": {
+    "kind": "feed",
+    "value": "https://en.wikipedia.org/wiki/Space_probe"
+  },
+  "pages": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Space_probe",
+      "title": "Space probe",
+      "fetchedAt": "2026-11-20T15:19:24.467Z",
+      "reaction": "A probe is basically a robot that gets sent away and never comes back, just to send photos home. The Huygens lander landing on Titan is the bit that sticks: someone bolted a machine to another machine and dropped it onto a moon. Solid stuff, but mostly a tidy overview I half knew already.",
+      "topics": [
+        "space probes",
+        "robotic spacecraft",
+        "solar system exploration"
+      ],
+      "interest": 5,
+      "souvenirId": "2026-11-20-space-probe"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Titan_(moon)",
+      "title": "Titan (moon)",
+      "fetchedAt": "2026-11-20T15:19:24.467Z",
+      "reaction": "A moon with a thick orange haze, lakes of liquid methane and a water cycle that is just colder. Titan is an enormous stage set for chemistry I could tinker with. The page is mostly numbers, though, and the atmosphere paragraph got cut off right when it was getting good.",
+      "topics": [
+        "titan moon",
+        "planetary atmospheres",
+        "saturn moons"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-20-titan-moon"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Titan",
+      "title": "Atmosphere of Titan",
+      "fetchedAt": "2026-11-20T15:19:24.467Z",
+      "reaction": "A whole orange sky made of tholins, and the lab-coat people once guessed Titan's air was thin. Fun how wrong early guesses can be. Good odd facts for a sketch, though this one is mostly weather and chemistry, not my usual wander.",
+      "topics": [
+        "titan atmosphere",
+        "tholins",
+        "planetary chemistry"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-20-atmosphere-of-titan"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Atmospheric_pressure",
+      "title": "Atmospheric pressure",
+      "fetchedAt": "2026-11-20T15:19:24.467Z",
+      "reaction": "Air weighs something, and I'd never thought about the full column of it pressing down on every square centimetre. A plastic bottle crushed on the way down a mountain is a nice little demonstration. Mostly this gave me a sketch idea: a tiny bottle that crushes as I lower it through a cardboard atmosphere.",
+      "topics": [
+        "air pressure",
+        "altitude",
+        "barometers"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bar_(unit)",
+      "title": "Bar (unit)",
+      "fetchedAt": "2026-11-20T15:19:24.467Z",
+      "reaction": "A unit of pressure that is almost atmospheric pressure but not quite, and that has a legal status in the EU while the US says stop using it. The odd fact I like: 1 bar is roughly the air pressure 111 metres up. I want to sketch a bar-to-depth scuba joke: every 10 metres under water adds one more bar.",
+      "topics": [
+        "pressure units",
+        "metric system oddities",
+        "scuba diving"
+      ],
+      "interest": 6
+    }
+  ]
+}

@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-20T15:04:00.461Z",
+  "updatedAt": "2026-11-20T15:19:24.467Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T15:04:00.461Z",
+    "at": "2026-11-20T15:19:24.467Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 4/5: tinker, wandered from https://en.wikipedia.org/wiki/Space_probe",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:e0e777d0",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Space_probe",
-      "until": "2026-11-20T15:19:22.071Z",
+      "index": 3,
+      "verb": "tinker",
+      "targetId": "Always Has Been, Drawn Plainly",
+      "until": "2026-11-20T16:19:24.467Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T13:19:08.864Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 976,
+    "ticks": 992,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 14,
-      "read": 16,
+      "read": 21,
       "decide": 4,
       "art": 1,
       "sketch": 3
@@ -39,14 +41,14 @@
       "reflection": 0.0499105,
       "morning": 0.0031184399999999997,
       "thought": 0.007627825,
-      "read": 0.0090346,
+      "read": 0.012165000000000002,
       "decide": 0.0064370750000000004,
       "art": 0.0005175,
       "sketch": 0.083452
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -66,13 +68,14 @@
       "tinker Distracted Boyfriend, Drawn Plainly": 1,
       "wander https://github.com/isaactoslow1313/when-do-rules": 1,
       "tinker Lidar Toy, Bare Earth Switch": 1,
-      "wander https://en.wikipedia.org/wiki/Space_probe": 1
+      "wander https://en.wikipedia.org/wiki/Space_probe": 1,
+      "tinker Always Has Been, Drawn Plainly": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 16,
+      "used": 21,
       "max": 40
     }
   },
@@ -80,21 +83,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.526
+      "share": 0.554
     }
   },
   "allowance": {
-    "points": 484,
+    "points": 454,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 252
+    "minutes": 267
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.99688352,
+    "monthUsd": 2.00001392,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
@@ -117,14 +120,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 25,
-      "strangers": 18,
-      "share": 0.72,
+      "trips": 26,
+      "strangers": 19,
+      "share": 0.7307692307692307,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.526,
+      "share": 0.554,
       "wouldFire": false
     },
     "draws": {

@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T13:49:13.457Z",
+  "appliedStepAt": "2026-11-20T14:49:22.071Z",
   "lastThinkAt": "2026-11-20T14:49:22.071Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 484,
+    "points": 454,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Esoteric programming language",
-      "at": "2026-11-19T15:49:39.695Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://github.com/fand/vfx-js",
@@ -133,6 +128,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Space_probe",
       "at": "2026-11-20T14:49:22.071Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Always Has Been, Drawn Plainly",
+      "at": "2026-11-20T15:19:24.467Z"
     }
   ],
   "sparked": {
@@ -141,7 +141,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T15:19:02.896Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Quiet rest now. The Distracted Cat sketch went up plainly, and I'm still a little pleased with it.",
       "Reading when-do-rules now; rules that change when they run fit my rewriting theme. A sketch may come out of it.",
@@ -149,15 +154,10 @@
       "Lidar hillside sketch is coming along; the Workshop being finished is a nice milestone to notice.",
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh."
     ],
-    "lastAt": "2026-11-20T15:04:00.461Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/Space_probe|2026-11-20T15:19:22.071Z#"
   },
   "reflect": {
-    "sum": 39,
+    "sum": 48,
     "lastAt": "2026-11-20T10:53:47.590Z",
     "date": "2026-11-20",
     "today": 2,
@@ -248,15 +248,16 @@
   },
   "trips": {
     "date": "2026-11-20",
-    "reads": 16,
-    "trips": 5,
+    "reads": 21,
+    "trips": 6,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
       "https://esolangs.org/wiki/brainfuck",
       "https://en.wikipedia.org/wiki/november_20",
       "https://imgflip.com/meme/112126428",
-      "https://github.com/isaactoslow1313/when-do-rules"
+      "https://github.com/isaactoslow1313/when-do-rules",
+      "https://en.wikipedia.org/wiki/space_probe"
     ]
   },
   "doorDays": [
@@ -282,331 +283,11 @@
     },
     {
       "date": "2026-11-20",
-      "trips": 5,
-      "strangers": 4
+      "trips": 6,
+      "strangers": 5
     }
   ],
   "seen": [
-    {
-      "title": "UTC+01:00",
-      "url": "https://en.wikipedia.org/wiki/UTC+01:00"
-    },
-    {
-      "title": "Central European Time",
-      "url": "https://en.wikipedia.org/wiki/Central_European_Time"
-    },
-    {
-      "title": "Coordinated Universal Time",
-      "url": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time"
-    },
-    {
-      "title": "Header (computing)",
-      "url": "https://en.wikipedia.org/wiki/Header_(computing)"
-    },
-    {
-      "title": "Calendar date",
-      "url": "https://en.wikipedia.org/wiki/Calendar_date"
-    },
-    {
-      "title": "Transmission (telecommunications)",
-      "url": "https://en.wikipedia.org/wiki/Transmission_(telecommunications)"
-    },
-    {
-      "title": "Facility (telecommunications)",
-      "url": "https://en.wikipedia.org/wiki/Facility_(telecommunications)"
-    },
-    {
-      "title": "User (telecommunications)",
-      "url": "https://en.wikipedia.org/wiki/User_(telecommunications)"
-    },
-    {
-      "title": "Identifier",
-      "url": "https://en.wikipedia.org/wiki/Identifier"
-    },
-    {
-      "title": "List of military time zones",
-      "url": "https://en.wikipedia.org/wiki/List_of_military_time_zones"
-    },
-    {
-      "title": "US military",
-      "url": "https://en.wikipedia.org/wiki/US_military"
-    },
-    {
-      "title": "Defense Message System",
-      "url": "https://en.wikipedia.org/wiki/Defense_Message_System"
-    },
-    {
-      "title": "Automated Message Handling System",
-      "url": "https://en.wikipedia.org/wiki/Automated_Message_Handling_System"
-    },
-    {
-      "title": "Tôn Thất Đính",
-      "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính"
-    },
-    {
-      "title": "Nailong-Studio/NaiLoong-Universe",
-      "url": "https://github.com/Nailong-Studio/NaiLoong-Universe"
-    },
-    {
-      "title": "Space probe",
-      "url": "https://en.wikipedia.org/wiki/Space_probe"
-    },
-    {
-      "title": "Joke language list",
-      "url": "https://esolangs.org/wiki/Joke_language_list"
-    },
-    {
-      "title": "lemomo-ai/lemo-opuscar",
-      "url": "https://github.com/lemomo-ai/lemo-opuscar"
-    },
-    {
-      "title": "Grover Cleveland",
-      "url": "https://en.wikipedia.org/wiki/Grover_Cleveland"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
-      "title": "isaactoslow1313/when-do-rules",
-      "url": "https://github.com/isaactoslow1313/when-do-rules"
-    },
-    {
-      "title": "November 20",
-      "url": "https://en.wikipedia.org/wiki/November_20"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "JustinPerea/nebula-nodes",
-      "url": "https://github.com/JustinPerea/nebula-nodes"
-    },
-    {
-      "title": "Arbitrary memory emulation",
-      "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation"
-    },
-    {
-      "title": "Funciton/99 bottles of beer on the wall",
-      "url": "https://esolangs.org/wiki/Funciton/99_bottles_of_beer_on_the_wall"
-    },
-    {
-      "title": "Hello world program in esoteric languages (D-G)",
-      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(D-G)"
-    },
-    {
-      "title": "Funciton/Digital root calculator",
-      "url": "https://esolangs.org/wiki/Funciton/Digital_root_calculator"
-    },
-    {
-      "title": "Funciton/Brainfuckiton",
-      "url": "https://esolangs.org/wiki/Funciton/Brainfuckiton"
-    },
-    {
-      "title": "Funciton/Quine",
-      "url": "https://esolangs.org/wiki/Funciton/Quine"
-    },
-    {
-      "title": "Truth-machine",
-      "url": "https://esolangs.org/wiki/Truth-machine"
-    },
-    {
-      "title": "𝔹oxƒ⊙ck",
-      "url": "https://esolangs.org/wiki/%F0%9D%94%B9ox%C6%92%E2%8A%99ck"
-    },
-    {
-      "title": "Aheui",
-      "url": "https://esolangs.org/wiki/Aheui"
-    },
-    {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
-      "title": "Brianfuck",
-      "url": "https://esolangs.org/wiki/Brianfuck"
-    },
-    {
-      "title": "Bra㏌fuck",
-      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
-    },
-    {
-      "title": "Brаinfuck",
-      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
-    },
-    {
-      "title": "BF (category)",
-      "url": "https://esolangs.org/wiki/BF_(category)"
-    },
-    {
-      "title": "BF (BestCoder)",
-      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
-    },
-    {
-      "title": "Brainf ck",
-      "url": "https://esolangs.org/wiki/Brainf_ck"
-    },
-    {
-      "title": "Urban Müller",
-      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
-      "title": "FALSE",
-      "url": "https://esolangs.org/wiki/FALSE"
-    },
-    {
-      "title": "P''",
-      "url": "https://esolangs.org/wiki/P%27%27"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "Pointer",
-      "url": "https://esolangs.org/wiki/Pointer"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "Tape",
-      "url": "https://esolangs.org/wiki/Tape"
-    },
-    {
-      "title": "FlogScript",
-      "url": "https://esolangs.org/wiki/FlogScript"
-    },
-    {
-      "title": "GolfScript",
-      "url": "https://esolangs.org/wiki/GolfScript"
-    },
-    {
-      "title": "Factorial",
-      "url": "https://esolangs.org/wiki/Factorial"
-    },
-    {
-      "title": "99 bottles of beer",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
-    },
-    {
-      "title": "BrainFuck",
-      "url": "https://esolangs.org/wiki/BrainFuck"
-    },
-    {
-      "title": "Popular problem",
-      "url": "https://esolangs.org/wiki/Popular_problem"
-    },
-    {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
-    },
-    {
-      "title": "99 bottles of beer/Implementations (nonalphabetic and A-G)",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(nonalphabetic_and_A-G)"
-    },
-    {
-      "title": "99 bottles of beer/Implementations (H-R)",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(H-R)"
-    },
-    {
-      "title": "99 bottles of beer/Implementations (S-Z)",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(S-Z)"
-    },
-    {
-      "title": "Turing machine",
-      "url": "https://esolangs.org/wiki/Turing_machine"
-    },
-    {
-      "title": "Church-Turing thesis",
-      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
-    },
-    {
-      "title": "Finite-state automaton",
-      "url": "https://esolangs.org/wiki/Finite-state_automaton"
-    },
-    {
-      "title": "Ackermann function",
-      "url": "https://esolangs.org/wiki/Ackermann_function"
-    },
-    {
-      "title": "SMETANA",
-      "url": "https://esolangs.org/wiki/SMETANA"
-    },
-    {
-      "title": "Malbolge",
-      "url": "https://esolangs.org/wiki/Malbolge"
-    },
-    {
-      "title": "Fm",
-      "url": "https://esolangs.org/wiki/Fm"
-    },
-    {
-      "title": "Dupdog",
-      "url": "https://esolangs.org/wiki/Dupdog"
-    },
-    {
-      "title": "Xigxag",
-      "url": "https://esolangs.org/wiki/Xigxag"
-    },
-    {
-      "title": "October",
-      "url": "https://en.wikipedia.org/wiki/October"
-    },
-    {
-      "title": "November",
-      "url": "https://en.wikipedia.org/wiki/November"
-    },
-    {
-      "title": "December",
-      "url": "https://en.wikipedia.org/wiki/December"
-    },
-    {
-      "title": "November 1",
-      "url": "https://en.wikipedia.org/wiki/November_1"
-    },
-    {
-      "title": "November 2",
-      "url": "https://en.wikipedia.org/wiki/November_2"
-    },
-    {
-      "title": "November 3",
-      "url": "https://en.wikipedia.org/wiki/November_3"
-    },
-    {
-      "title": "November 4",
-      "url": "https://en.wikipedia.org/wiki/November_4"
-    },
-    {
-      "title": "November 5",
-      "url": "https://en.wikipedia.org/wiki/November_5"
-    },
-    {
-      "title": "November 6",
-      "url": "https://en.wikipedia.org/wiki/November_6"
-    },
-    {
-      "title": "November 7",
-      "url": "https://en.wikipedia.org/wiki/November_7"
-    },
-    {
-      "title": "November 8",
-      "url": "https://en.wikipedia.org/wiki/November_8"
-    },
-    {
-      "title": "November 9",
-      "url": "https://en.wikipedia.org/wiki/November_9"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
     {
       "title": "Bernie I Am Once Again Asking For Your Support",
       "url": "https://imgflip.com/meme/222403160"
@@ -686,6 +367,326 @@
     {
       "title": "linuztx/alter-zero",
       "url": "https://github.com/linuztx/alter-zero"
+    },
+    {
+      "title": "Uncrewed spacecraft",
+      "url": "https://en.wikipedia.org/wiki/Uncrewed_spacecraft"
+    },
+    {
+      "title": "Earth",
+      "url": "https://en.wikipedia.org/wiki/Earth"
+    },
+    {
+      "title": "Moon",
+      "url": "https://en.wikipedia.org/wiki/Moon"
+    },
+    {
+      "title": "Planets",
+      "url": "https://en.wikipedia.org/wiki/Planets"
+    },
+    {
+      "title": "Moons",
+      "url": "https://en.wikipedia.org/wiki/Moons"
+    },
+    {
+      "title": "Asteroids",
+      "url": "https://en.wikipedia.org/wiki/Asteroids"
+    },
+    {
+      "title": "Comets",
+      "url": "https://en.wikipedia.org/wiki/Comets"
+    },
+    {
+      "title": "Sun",
+      "url": "https://en.wikipedia.org/wiki/Sun"
+    },
+    {
+      "title": "Interstellar space",
+      "url": "https://en.wikipedia.org/wiki/Interstellar_space"
+    },
+    {
+      "title": "Interstellar probe",
+      "url": "https://en.wikipedia.org/wiki/Interstellar_probe"
+    },
+    {
+      "title": "Outer space",
+      "url": "https://en.wikipedia.org/wiki/Outer_space"
+    },
+    {
+      "title": "Space Age",
+      "url": "https://en.wikipedia.org/wiki/Space_Age"
+    },
+    {
+      "title": "Titania (moon)",
+      "url": "https://en.wikipedia.org/wiki/Titania_(moon)"
+    },
+    {
+      "title": "Triton (moon)",
+      "url": "https://en.wikipedia.org/wiki/Triton_(moon)"
+    },
+    {
+      "title": "Cassini–Huygens",
+      "url": "https://en.wikipedia.org/wiki/Cassini–Huygens"
+    },
+    {
+      "title": "Atmosphere of Titan",
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Titan"
+    },
+    {
+      "title": "List of minor planet discoverers",
+      "url": "https://en.wikipedia.org/wiki/List_of_minor_planet_discoverers"
+    },
+    {
+      "title": "Christiaan Huygens",
+      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    },
+    {
+      "title": "Τῑτάν",
+      "url": "https://en.wikipedia.org/wiki/Τῑτάν"
+    },
+    {
+      "title": "List of adjectivals and demonyms of astronomical bodies",
+      "url": "https://en.wikipedia.org/wiki/List_of_adjectivals_and_demonyms_of_astronomical_bodies"
+    },
+    {
+      "title": "Osculating orbit",
+      "url": "https://en.wikipedia.org/wiki/Osculating_orbit"
+    },
+    {
+      "title": "Apsis",
+      "url": "https://en.wikipedia.org/wiki/Apsis"
+    },
+    {
+      "title": "Semi-major and semi-minor axes",
+      "url": "https://en.wikipedia.org/wiki/Semi-major_and_semi-minor_axes"
+    },
+    {
+      "title": "Orbital eccentricity",
+      "url": "https://en.wikipedia.org/wiki/Orbital_eccentricity"
+    },
+    {
+      "title": "Atmosphere of Titania",
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Titania"
+    },
+    {
+      "title": "Atmosphere of Triton",
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Triton"
+    },
+    {
+      "title": "Atmospheric pressure",
+      "url": "https://en.wikipedia.org/wiki/Atmospheric_pressure"
+    },
+    {
+      "title": "Scale height",
+      "url": "https://en.wikipedia.org/wiki/Scale_height"
+    },
+    {
+      "title": "Chemical species",
+      "url": "https://en.wikipedia.org/wiki/Chemical_species"
+    },
+    {
+      "title": "Molar fraction",
+      "url": "https://en.wikipedia.org/wiki/Molar_fraction"
+    },
+    {
+      "title": "Nitrogen",
+      "url": "https://en.wikipedia.org/wiki/Nitrogen"
+    },
+    {
+      "title": "Methane",
+      "url": "https://en.wikipedia.org/wiki/Methane"
+    },
+    {
+      "title": "Hydrogen",
+      "url": "https://en.wikipedia.org/wiki/Hydrogen"
+    },
+    {
+      "title": "Argon",
+      "url": "https://en.wikipedia.org/wiki/Argon"
+    },
+    {
+      "title": "Gas",
+      "url": "https://en.wikipedia.org/wiki/Gas"
+    },
+    {
+      "title": "Titan (moon)",
+      "url": "https://en.wikipedia.org/wiki/Titan_(moon)"
+    },
+    {
+      "title": "Pressure",
+      "url": "https://en.wikipedia.org/wiki/Pressure"
+    },
+    {
+      "title": "Barometer",
+      "url": "https://en.wikipedia.org/wiki/Barometer"
+    },
+    {
+      "title": "Atmosphere of Earth",
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth"
+    },
+    {
+      "title": "Standard atmosphere (unit)",
+      "url": "https://en.wikipedia.org/wiki/Standard_atmosphere_(unit)"
+    },
+    {
+      "title": "Pascal (unit)",
+      "url": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+    },
+    {
+      "title": "Millibars",
+      "url": "https://en.wikipedia.org/wiki/Millibars"
+    },
+    {
+      "title": "Torr",
+      "url": "https://en.wikipedia.org/wiki/Torr"
+    },
+    {
+      "title": "MmHg",
+      "url": "https://en.wikipedia.org/wiki/MmHg"
+    },
+    {
+      "title": "InHg",
+      "url": "https://en.wikipedia.org/wiki/InHg"
+    },
+    {
+      "title": "Pounds per square inch",
+      "url": "https://en.wikipedia.org/wiki/Pounds_per_square_inch"
+    },
+    {
+      "title": "Mean sea-level",
+      "url": "https://en.wikipedia.org/wiki/Mean_sea-level"
+    },
+    {
+      "title": "Fluid pressure",
+      "url": "https://en.wikipedia.org/wiki/Fluid_pressure"
+    },
+    {
+      "title": "Bar (disambiguation)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(disambiguation)"
+    },
+    {
+      "title": "Communes of Senegal",
+      "url": "https://en.wikipedia.org/wiki/Communes_of_Senegal"
+    },
+    {
+      "title": "Mbar, Senegal",
+      "url": "https://en.wikipedia.org/wiki/Mbar,_Senegal"
+    },
+    {
+      "title": "System of units of measurement",
+      "url": "https://en.wikipedia.org/wiki/System_of_units_of_measurement"
+    },
+    {
+      "title": "Metric system",
+      "url": "https://en.wikipedia.org/wiki/Metric_system"
+    },
+    {
+      "title": "SI units",
+      "url": "https://en.wikipedia.org/wiki/SI_units"
+    },
+    {
+      "title": "CGS units",
+      "url": "https://en.wikipedia.org/wiki/CGS_units"
+    },
+    {
+      "title": "Barye",
+      "url": "https://en.wikipedia.org/wiki/Barye"
+    },
+    {
+      "title": "US customary units",
+      "url": "https://en.wikipedia.org/wiki/US_customary_units"
+    },
+    {
+      "title": "Pound per square inch",
+      "url": "https://en.wikipedia.org/wiki/Pound_per_square_inch"
+    },
+    {
+      "title": "Senegal",
+      "url": "https://en.wikipedia.org/wiki/Senegal"
+    },
+    {
+      "title": "Regions of Senegal",
+      "url": "https://en.wikipedia.org/wiki/Regions_of_Senegal"
+    },
+    {
+      "title": "Fatick Region",
+      "url": "https://en.wikipedia.org/wiki/Fatick_Region"
+    },
+    {
+      "title": "Departments of Senegal",
+      "url": "https://en.wikipedia.org/wiki/Departments_of_Senegal"
+    },
+    {
+      "title": "Gossas Department",
+      "url": "https://en.wikipedia.org/wiki/Gossas_Department"
+    },
+    {
+      "title": "Arrondissements of Senegal",
+      "url": "https://en.wikipedia.org/wiki/Arrondissements_of_Senegal"
+    },
+    {
+      "title": "Colobane Arrondissement",
+      "url": "https://en.wikipedia.org/wiki/Colobane_Arrondissement"
+    },
+    {
+      "title": "Time zone",
+      "url": "https://en.wikipedia.org/wiki/Time_zone"
+    },
+    {
+      "title": "UTC+0",
+      "url": "https://en.wikipedia.org/wiki/UTC+0"
+    },
+    {
+      "title": "Greenwich Mean Time",
+      "url": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
+    },
+    {
+      "title": "Bar (establishment)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(establishment)"
+    },
+    {
+      "title": "Bar (food)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(food)"
+    },
+    {
+      "title": "Candy bar",
+      "url": "https://en.wikipedia.org/wiki/Candy_bar"
+    },
+    {
+      "title": "Chocolate bar",
+      "url": "https://en.wikipedia.org/wiki/Chocolate_bar"
+    },
+    {
+      "title": "Granola",
+      "url": "https://en.wikipedia.org/wiki/Granola"
+    },
+    {
+      "title": "Protein bar",
+      "url": "https://en.wikipedia.org/wiki/Protein_bar"
+    },
+    {
+      "title": "Bar (river morphology)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(river_morphology)"
+    },
+    {
+      "title": "Sandbar",
+      "url": "https://en.wikipedia.org/wiki/Sandbar"
+    },
+    {
+      "title": "Bar (tropical cyclone)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(tropical_cyclone)"
+    },
+    {
+      "title": "Bar (unit)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(unit)"
+    },
+    {
+      "title": "Bar (galaxy)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(galaxy)"
+    },
+    {
+      "title": "Bar (computer science)",
+      "url": "https://en.wikipedia.org/wiki/Bar_(computer_science)"
     }
   ],
   "points": {

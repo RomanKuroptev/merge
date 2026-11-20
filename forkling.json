@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T15:03:21.583Z",
-    "seed": 759886677,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-20T15:19:24.467Z",
+    "seed": 1958575720,
+    "reason": "Draw my own Always Has Been meme about my unfinished doors, in code, with a caption about my situation.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-20T15:04:00.461Z",
+  "lastTickAt": "2026-11-20T15:19:24.467Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
