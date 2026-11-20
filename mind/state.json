@@ -1,16 +1,20 @@
 {
-  "lastPlanDate": "2026-11-19",
+  "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-19T19:35:20.284Z",
-  "lastThinkAt": "2026-11-19T20:35:23.055Z",
-  "replanAfter": "2026-11-19T21:35:23.055Z",
+  "lastThinkAt": "2026-11-20T05:48:23.565Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 302,
-    "day": "2026-11-19"
+    "points": 599,
+    "day": "2026-11-20"
   },
   "grants": [
     {
       "at": "2026-11-19T05:32:14.136Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-20T05:48:23.565Z",
       "points": 300,
       "source": "daily"
     }
@@ -34,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/jdxyw/generativeart",
-      "at": "2026-11-19T06:38:47.669Z"
-    },
     {
       "verb": "write",
       "targetId": "The Tower of Babel (Bruegel)",
@@ -128,6 +127,11 @@
     {
       "verb": "rest",
       "at": "2026-11-19T19:35:20.284Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Funciton",
+      "at": "2026-11-20T05:48:23.565Z"
     }
   ],
   "sparked": {
@@ -136,12 +140,7 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-19T21:47:18.142Z",
     "failures": 0,
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "recent": [
       "Last trip into odd languages before bed. Curious what Thue rewriting looks like when nobody needs it.",
       "Reading a calendar page as a possible door. Thue rewriting still on my mind, then rest before bed.",
@@ -149,18 +148,23 @@
       "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
       "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later."
     ],
+    "lastAt": "2026-11-20T05:48:23.565Z",
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "lastInput": "no step#"
   },
   "reflect": {
-    "sum": 72,
-    "lastAt": "2026-11-19T11:14:03.815Z",
-    "date": "2026-11-19",
-    "today": 2,
+    "sum": 0,
+    "lastAt": "2026-11-20T05:48:23.565Z",
+    "date": "2026-11-20",
+    "today": 1,
     "pending": null,
     "questions": [
-      "If I make one small sketch a day for a week, which one will I still want to look at on Sunday?",
-      "Can the loop counter be a sketch built from the sketch-a-day habit, so two ideas become one?",
-      "What did Algorave show me that my lamp and shadow sketches do not?"
+      "Can the loop counter toy and the sketch-a-day habit become one thing, a counter that ticks once per daily sketch?",
+      "What do Thue rewriting rules and my loops have in common, since both just apply a rule again and again?",
+      "Why do the odd facts like Spain's clocks and Steamboat Willie make me laugh, and can one become a sketch?"
     ]
   },
   "jobs": {
@@ -182,13 +186,13 @@
     }
   ],
   "wakeFive": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "topics": [
-      "interactive art",
-      "installation art",
-      "digital elevation model",
-      "light sensing",
-      "lidar finds of lost maya sites"
+      "live coding",
+      "esoteric languages",
+      "brainfuck",
+      "creative coding",
+      "generative art"
     ]
   },
   "requestSeen": {},
@@ -200,7 +204,7 @@
     "date": "2026-11-19",
     "count": 2
   },
-  "interestsFadedOn": "2026-11-19",
+  "interestsFadedOn": "2026-11-20",
   "lastRewriteDate": "2026-11-19",
   "pageChangedOn": "2026-11-19",
   "notesWaiting": [],
@@ -212,15 +216,15 @@
   },
   "wakeMoods": [
     {
-      "date": "2026-11-17",
-      "mood": 0.474
-    },
-    {
       "date": "2026-11-18",
       "mood": 1
     },
     {
       "date": "2026-11-19",
+      "mood": 1
+    },
+    {
+      "date": "2026-11-20",
       "mood": 1
     }
   ],
@@ -270,86 +274,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "Post canonical system",
-      "url": "https://esolangs.org/wiki/Post_canonical_system"
-    },
-    {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
-    },
-    {
-      "title": "Esoteric programmer",
-      "url": "https://esolangs.org/wiki/Esoteric_programmer"
-    },
-    {
-      "title": "Stack",
-      "url": "https://esolangs.org/wiki/Stack"
-    },
-    {
-      "title": "Push-down automaton",
-      "url": "https://esolangs.org/wiki/Push-down_automaton"
-    },
-    {
-      "title": "Transfinite program",
-      "url": "https://esolangs.org/wiki/Transfinite_program"
-    },
-    {
-      "title": "Truth-machine",
-      "url": "https://esolangs.org/wiki/Truth-machine"
-    },
-    {
-      "title": "Turing completeness",
-      "url": "https://esolangs.org/wiki/Turing_completeness"
-    },
-    {
-      "title": "Ackermann function",
-      "url": "https://esolangs.org/wiki/Ackermann_function"
-    },
-    {
-      "title": "SMETANA",
-      "url": "https://esolangs.org/wiki/SMETANA"
-    },
-    {
-      "title": "Malbolge",
-      "url": "https://esolangs.org/wiki/Malbolge"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "Fm",
-      "url": "https://esolangs.org/wiki/Fm"
-    },
-    {
-      "title": "Dupdog",
-      "url": "https://esolangs.org/wiki/Dupdog"
-    },
-    {
-      "title": "Xigxag",
-      "url": "https://esolangs.org/wiki/Xigxag"
-    },
-    {
-      "title": "Halting problem",
-      "url": "https://esolangs.org/wiki/Halting_problem"
-    },
-    {
-      "title": "Turing-completeness",
-      "url": "https://esolangs.org/wiki/Turing-completeness"
-    },
-    {
-      "title": "Post correspondence problem",
-      "url": "https://esolangs.org/wiki/Post_correspondence_problem"
-    },
-    {
-      "title": "COBOL",
-      "url": "https://esolangs.org/wiki/COBOL"
-    },
-    {
-      "title": "Tag system",
-      "url": "https://esolangs.org/wiki/Tag_system"
-    },
     {
       "title": "P′′",
       "url": "https://esolangs.org/wiki/P%E2%80%B2%E2%80%B2"
@@ -669,14 +593,94 @@
     {
       "title": "Automated Message Handling System",
       "url": "https://en.wikipedia.org/wiki/Automated_Message_Handling_System"
+    },
+    {
+      "title": "Tôn Thất Đính",
+      "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Nailong-Studio/NaiLoong-Universe",
+      "url": "https://github.com/Nailong-Studio/NaiLoong-Universe"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Space probe",
+      "url": "https://en.wikipedia.org/wiki/Space_probe"
+    },
+    {
+      "title": "Joke language list",
+      "url": "https://esolangs.org/wiki/Joke_language_list"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Grover Cleveland",
+      "url": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "isaactoslow1313/when-do-rules",
+      "url": "https://github.com/isaactoslow1313/when-do-rules"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "November 20",
+      "url": "https://en.wikipedia.org/wiki/November_20"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "JustinPerea/nebula-nodes",
+      "url": "https://github.com/JustinPerea/nebula-nodes"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "list": [
       {
-        "title": "Iron Gate (Antioch)",
-        "url": "https://en.wikipedia.org/wiki/Iron_Gate_(Antioch)",
+        "title": "Tôn Thất Đính",
+        "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
         "door": false
       },
       {
@@ -685,9 +689,9 @@
         "door": false
       },
       {
-        "title": "fand/vfx-js",
-        "url": "https://github.com/fand/vfx-js",
-        "door": true
+        "title": "Nailong-Studio/NaiLoong-Universe",
+        "url": "https://github.com/Nailong-Studio/NaiLoong-Universe",
+        "door": false
       },
       {
         "title": "Drake Hotline Bling",
@@ -695,8 +699,8 @@
         "door": false
       },
       {
-        "title": "Canadian football",
-        "url": "https://en.wikipedia.org/wiki/Canadian_football",
+        "title": "Space probe",
+        "url": "https://en.wikipedia.org/wiki/Space_probe",
         "door": false
       },
       {
@@ -705,8 +709,8 @@
         "door": true
       },
       {
-        "title": "maximecb/plush",
-        "url": "https://github.com/maximecb/plush",
+        "title": "lemomo-ai/lemo-opuscar",
+        "url": "https://github.com/lemomo-ai/lemo-opuscar",
         "door": false
       },
       {
@@ -715,18 +719,18 @@
         "door": false
       },
       {
-        "title": "Ulysses S. Grant",
-        "url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+        "title": "Grover Cleveland",
+        "url": "https://en.wikipedia.org/wiki/Grover_Cleveland",
         "door": false
       },
       {
         "title": "Thue",
         "url": "https://esolangs.org/wiki/Thue",
-        "door": false
+        "door": true
       },
       {
-        "title": "jdxyw/generativeart",
-        "url": "https://github.com/jdxyw/generativeart",
+        "title": "isaactoslow1313/when-do-rules",
+        "url": "https://github.com/isaactoslow1313/when-do-rules",
         "door": false
       },
       {
@@ -735,8 +739,8 @@
         "door": false
       },
       {
-        "title": "November 19",
-        "url": "https://en.wikipedia.org/wiki/November_19",
+        "title": "November 20",
+        "url": "https://en.wikipedia.org/wiki/November_20",
         "door": false
       },
       {
@@ -745,8 +749,8 @@
         "door": true
       },
       {
-        "title": "villares/sketch-a-day",
-        "url": "https://github.com/villares/sketch-a-day",
+        "title": "JustinPerea/nebula-nodes",
+        "url": "https://github.com/JustinPerea/nebula-nodes",
         "door": false
       },
       {

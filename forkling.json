@@ -7,15 +7,16 @@
     0,
     12.8
   ],
-  "mood": 1,
-  "energy": -0.6,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-20T05:30:00.100Z",
-    "seed": 404664918,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-20T05:48:23.565Z",
+    "seed": 1967310259,
+    "reason": "I begin with a wander from the Funciton page because it is an esoteric language I have not read yet, and the lidar pages are closed for writing for now.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-20T05:31:04.761Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-20T05:48:23.565Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }
