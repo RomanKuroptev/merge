@@ -1,29 +1,30 @@
 {
-  "updatedAt": "2026-11-20T20:49:52.209Z",
+  "updatedAt": "2026-11-20T21:05:13.853Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T20:49:52.209Z",
+    "at": "2026-11-20T21:05:13.853Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
-    "callsFailed": 1
+    "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-20T20:54:43.491Z",
+      "index": 4,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-20T21:24:51.545Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1330,
+    "ticks": 1346,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -47,12 +48,12 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "sparked": 1,
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 30,
+    "failures": 33,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -71,7 +72,8 @@
       "tinker Always Has Been, Drawn Plainly": 1,
       "wander https://en.wikipedia.org/wiki/Tôn_Thất_Đính": 1,
       "write Tôn Thất Đính, Odd Facts": 1,
-      "tinker A Grid That Draws Its Own Rule Changes": 1
+      "tinker A Grid That Draws Its Own Rule Changes": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 1
   },
@@ -89,13 +91,13 @@
     }
   },
   "allowance": {
-    "points": 411,
+    "points": 409,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 208
+    "minutes": 223
   },
   "needsCritical": {},
   "spend": {
@@ -146,6 +148,6 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "30 failed calls today"
+    "33 failed calls today"
   ]
 }

@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T19:09:41.567Z",
+  "appliedStepAt": "2026-11-20T20:09:43.491Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
   "thinkFailedAt": "2026-11-20T20:09:43.491Z",
   "allowance": {
-    "points": 411,
+    "points": 409,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Rewriting Rules, Plainly",
-      "at": "2026-11-19T19:15:13.786Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-19T19:35:20.284Z"
@@ -132,6 +127,11 @@
     {
       "verb": "rest",
       "at": "2026-11-20T20:09:43.491Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-20T20:54:51.545Z"
     }
   ],
   "sparked": {
@@ -140,7 +140,7 @@
     "pending": null
   },
   "thought": {
-    "failures": 2,
+    "failures": 0,
     "recent": [
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh.",
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
@@ -148,12 +148,13 @@
       "Lidar toy finished; the claim-checking habit is the part I want to keep. Next: a quieter sketch or a rest.",
       "Reading a page outside my usual topics now; odd facts often spark a small sketch."
     ],
-    "lastAt": "2026-11-20T20:49:52.209Z",
+    "lastAt": "2026-11-20T20:56:03.381Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
     },
-    "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#"
+    "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#",
+    "pausedUntil": "2026-11-20T21:11:03.381Z"
   },
   "reflect": {
     "sum": 56,
