@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T21:35:26.568Z",
+  "updatedAt": "2026-11-20T21:49:45.341Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T21:35:26.568Z",
+    "at": "2026-11-20T21:49:45.341Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 10
+    "idleMinutes": 24
   },
   "today": {
-    "ticks": 1377,
+    "ticks": 1391,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -47,7 +47,7 @@
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 40,
+    "failures": 44,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -91,7 +91,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 252
+    "minutes": 266
   },
   "needsCritical": {},
   "spend": {
@@ -142,6 +142,6 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "40 failed calls today"
+    "44 failed calls today"
   ]
 }
