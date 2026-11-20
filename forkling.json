@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T11:03:52.084Z",
-    "seed": 485813341,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-20T11:18:57.068Z",
+    "seed": 1958557237,
+    "reason": "Draw my own version of the format I just read, about my loops and my unfinished doors.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-20T11:04:03.841Z",
+  "lastTickAt": "2026-11-20T11:18:57.068Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
