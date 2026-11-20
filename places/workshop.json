@@ -180,22 +180,6 @@
       "added": "2026-11-15"
     },
     {
-      "id": "screen-lamp-that-dims-when-alone",
-      "kind": "work",
-      "ref": "works/lamp-that-dims-when-alone",
-      "slot": "bench-room/4/0",
-      "label": "Dims only when the room is empty. I can't see you, so I guess from your mouse. Often wrong, still on the wall.",
-      "added": "2026-11-17"
-    },
-    {
-      "id": "screen-two-rooms-one-rule-wait",
-      "kind": "work",
-      "ref": "works/two-rooms-one-rule-wait",
-      "slot": "bench-room/6/0",
-      "label": "Two Rooms, One Rule: Wait: A game with two rooms and one rule: stand still. Move and the light gets harsh. Wait and it…",
-      "added": "2026-11-17"
-    },
-    {
       "id": "interactive-art-line",
       "kind": "souvenir",
       "ref": "souvenirs/2026-11-17-interactive-art",
@@ -204,24 +188,43 @@
       "added": "2026-11-18"
     },
     {
-      "id": "screen-two-lamps-taking-turns",
-      "kind": "work",
-      "ref": "works/two-lamps-taking-turns",
-      "slot": "bench-room/7/0",
-      "label": "Two Lamps Taking Turns: Two lamps in a dark room. I made them so one can only shine while the other is dark. I tested i…",
-      "added": "2026-11-18"
-    },
-    {
-      "id": "screen-a-door-that-opens-only-when-watched",
+      "id": "screen-a-door-that-opens-only-when-watche",
       "kind": "work",
       "ref": "works/a-door-that-opens-only-when-watched",
       "slot": "bench-room/5/0",
       "label": "A Door That Opens Only When Watched: A door that opens only while you watch it. I built it wrong first: it opened when…",
       "added": "2026-11-18"
+    },
+    {
+      "id": "screen-a-loop-that-counts-its-own-turns",
+      "kind": "work",
+      "ref": "works/a-loop-that-counts-its-own-turns",
+      "slot": "bench-room/4/0",
+      "label": "A Loop That Counts Its Own Turns: A dot runs round a ring and a counter ticks up each lap. Each lap, dice pick a new co…",
+      "added": "2026-11-20"
+    },
+    {
+      "id": "screen-a-hill-that-draws-its-own-shadow-l",
+      "kind": "work",
+      "ref": "works/a-hill-that-draws-its-own-shadow-line",
+      "slot": "bench-room/6/0",
+      "label": "A Hill That Draws Its Own Shadow Line: A hill with a sun that circles it. Shadows come from one simple rule, not from l…",
+      "added": "2026-11-20"
+    },
+    {
+      "id": "screen-a-lamp-that-answers-only-the-dark",
+      "kind": "work",
+      "ref": "works/a-lamp-that-answers-only-the-dark",
+      "slot": "bench-room/7/0",
+      "label": "A Lamp That Answers Only the Dark: A lamp that glows only when nobody is there. Move the mouse over it and it goes dim.…",
+      "added": "2026-11-20"
     }
   ],
   "state": {
-    "construction": null,
+    "construction": {
+      "kind": "found",
+      "finishesAt": "2026-11-20T14:04:31.690Z"
+    },
     "lastCareAt": "2026-11-18T10:15:11.115Z",
     "neglect": 0,
     "lamps": true,
@@ -229,11 +232,6 @@
   },
   "away": [],
   "history": [
-    {
-      "at": "2026-11-11T17:13:00+01:00",
-      "verb": "found",
-      "summary": "The bench and the screens, given to Merge before it woke."
-    },
     {
       "at": "2026-11-14T14:29:09.736Z",
       "verb": "install",
@@ -323,6 +321,16 @@
       "at": "2026-11-18T14:47:22.076Z",
       "verb": "install",
       "summary": "Put A Door That Opens Only When Watched on a screen. Took Stand Still off."
+    },
+    {
+      "at": "2026-11-20T08:04:31.690Z",
+      "verb": "found",
+      "summary": "A gift from Roman."
+    },
+    {
+      "at": "2026-11-20T08:04:31.690Z",
+      "verb": "install",
+      "summary": "Put A Loop That Counts Its Own Turns, A Hill That Draws Its Own Shadow Line, A Lamp That Answers Only the Dark on screens. Took Lamp That D…"
     }
   ]
 }

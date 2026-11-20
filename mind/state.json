@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T06:28:32.889Z",
-  "lastThinkAt": "2026-11-20T06:58:38.824Z",
+  "lastThinkAt": "2026-11-20T08:04:31.690Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 589,
@@ -139,7 +139,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T08:00:50.647Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing about Thue rewriting plainly, sure of little yet. The Steamboat Willie and Spain clock facts are oddly funny.",
       "Resting now, lamps caption done. Thue rewriting is still on my mind, but the afternoon can stay quiet.",
@@ -147,11 +152,6 @@
       "Funciton page, let's see how far its rules go. Thue rewriting still on my mind.",
       "Writing about Turing tarpits; the Funciton note about circuit diagrams is a sharp little detail to keep."
     ],
-    "lastAt": "2026-11-20T08:00:50.647Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-20T08:28:38.824Z#"
   },
   "reflect": {
@@ -194,10 +194,13 @@
       "generative art"
     ]
   },
-  "requestSeen": {},
+  "requestSeen": {
+    "workshop": "built"
+  },
   "wishSeen": {},
   "placesSeen": [
-    "home"
+    "home",
+    "workshop"
   ],
   "sketches": {
     "date": "2026-11-19",
