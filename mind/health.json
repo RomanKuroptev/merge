@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-20T18:19:29.103Z",
+  "updatedAt": "2026-11-20T18:33:38.479Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T18:19:29.103Z",
+    "at": "2026-11-20T18:33:38.479Z",
     "asleep": false,
-    "summary": "thought about replan, step 1/5: wander, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1176,
+    "ticks": 1191,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 17,
+      "thought": 18,
       "read": 21,
       "decide": 8,
       "art": 1,
@@ -41,7 +39,7 @@
     "spendByKind": {
       "reflection": 0.0499105,
       "morning": 0.0031184399999999997,
-      "thought": 0.009279075,
+      "thought": 0.009807225,
       "read": 0.012165000000000002,
       "decide": 0.013804845,
       "art": 0.0005175,
@@ -96,11 +94,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 59
+    "minutes": 73
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.05269395,
+    "monthUsd": 2.0532221,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
