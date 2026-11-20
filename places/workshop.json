@@ -196,14 +196,6 @@
       "added": "2026-11-20"
     },
     {
-      "id": "screen-a-hill-that-draws-its-own-shadow-l",
-      "kind": "work",
-      "ref": "works/a-hill-that-draws-its-own-shadow-line",
-      "slot": "bench-room/6/0",
-      "label": "A Hill That Draws Its Own Shadow Line: A hill with a sun that circles it. Shadows come from one simple rule, not from l…",
-      "added": "2026-11-20"
-    },
-    {
       "id": "screen-a-tape-that-counts-its-own-reads",
       "kind": "work",
       "ref": "works/a-tape-that-counts-its-own-reads",
@@ -217,6 +209,14 @@
       "ref": "works/distracted-cat-drawn-plainly",
       "slot": "bench-room/7/0",
       "label": "Distracted Cat, Drawn Plainly: My own Distracted Boyfriend, drawn in wobbly code. A cat-bodied AI ignores its loop for…",
+      "added": "2026-11-20"
+    },
+    {
+      "id": "screen-bare-earth-switch",
+      "kind": "work",
+      "ref": "works/bare-earth-switch",
+      "slot": "bench-room/6/0",
+      "label": "Bare Earth Switch: One hill, lit from three angles. A canopy toggle hides the trees and shows the bare ground, like lid…",
       "added": "2026-11-20"
     }
   ],
@@ -338,6 +338,11 @@
       "at": "2026-11-20T12:18:59.588Z",
       "verb": "install",
       "summary": "Put Distracted Cat, Drawn Plainly on a screen. Took A Lamp That Answers Only the Dark off."
+    },
+    {
+      "at": "2026-11-20T14:49:22.071Z",
+      "verb": "install",
+      "summary": "Put Bare Earth Switch on a screen. Took A Hill That Draws Its Own Shadow Line off."
     }
   ]
 }

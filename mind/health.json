@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-20T14:34:16.774Z",
+  "updatedAt": "2026-11-20T14:49:22.071Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T14:34:16.774Z",
+    "at": "2026-11-20T14:49:22.071Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: wander, sketched \"Bare Earth Switch\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:e0e777d0",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Lidar Toy, Bare Earth Switch",
-      "until": "2026-11-20T14:49:13.457Z",
+      "index": 2,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Space_probe",
+      "until": "2026-11-20T15:19:22.071Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T13:19:08.864Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 945,
+    "ticks": 960,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
@@ -33,7 +35,7 @@
       "read": 16,
       "decide": 4,
       "art": 1,
-      "sketch": 2
+      "sketch": 3
     },
     "spendByKind": {
       "reflection": 0.0499105,
@@ -42,11 +44,11 @@
       "read": 0.0090346,
       "decide": 0.0064370750000000004,
       "art": 0.0005175,
-      "sketch": 0.058118
+      "sketch": 0.083452
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -65,7 +67,8 @@
       "wander https://imgflip.com/meme/112126428": 1,
       "tinker Distracted Boyfriend, Drawn Plainly": 1,
       "wander https://github.com/isaactoslow1313/when-do-rules": 1,
-      "tinker Lidar Toy, Bare Earth Switch": 1
+      "tinker Lidar Toy, Bare Earth Switch": 1,
+      "wander https://en.wikipedia.org/wiki/Space_probe": 1
     },
     "longestGapMinutes": 1
   },
@@ -83,35 +86,35 @@
     }
   },
   "allowance": {
-    "points": 487,
+    "points": 484,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 223
+    "minutes": 238
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.97100127,
+    "monthUsd": 1.99633527,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 17,
+      "made": 18,
       "wouldFire": 6,
       "byKind": {
         "art": 12,
-        "tool": 1,
+        "tool": 2,
         "game": 3,
         "meme": 1
       }
     },
     "texts": {
-      "texts": 41,
-      "meanMaxSimilarity": 0.02016801019352862,
+      "texts": 40,
+      "meanMaxSimilarity": 0.019774006855552466,
       "repeatedWriting": 9,
       "repeatedDiary": 1
     },
@@ -127,8 +130,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 16,
-      "constraintsOffered": 16,
+      "collisionsUsed": 17,
+      "constraintsOffered": 17,
       "constraintsRefused": 0
     },
     "places": {
