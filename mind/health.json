@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-20T22:51:30.857Z",
+  "updatedAt": "2026-11-20T23:06:51.643Z",
   "engine": "v0.19.1",
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-20T22:51:30.857Z",
+    "at": "2026-11-20T23:06:51.643Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,62 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1453,
-    "decideCalls": 10,
-    "callsByKind": {
-      "reflection": 2,
-      "morning": 2,
-      "thought": 18,
-      "read": 21,
-      "decide": 8,
-      "art": 1,
-      "sketch": 4,
-      "goalreview": 1
-    },
-    "spendByKind": {
-      "reflection": 0.0499105,
-      "morning": 0.0031184399999999997,
-      "thought": 0.009807225,
-      "read": 0.012165000000000002,
-      "decide": 0.013804845,
-      "art": 0.0005175,
-      "sketch": 0.114018,
-      "goalreview": 0.013095
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 19,
-      "sparked": 1,
-      "buildResult": 1,
-      "replan": 4
-    },
-    "failures": 49,
-    "rejections": 1,
+    "ticks": 7,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
+    "failures": 0,
+    "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://esolangs.org/wiki/Funciton": 1,
-      "write Turing Tarpit": 1,
-      "rest": 4,
-      "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "wander https://en.wikipedia.org/wiki/November_20": 1,
-      "tinker A Brainfuck Tape That Counts Its Own Reads": 1,
-      "wander https://imgflip.com/meme/112126428": 1,
-      "tinker Distracted Boyfriend, Drawn Plainly": 1,
-      "wander https://github.com/isaactoslow1313/when-do-rules": 1,
-      "tinker Lidar Toy, Bare Earth Switch": 1,
-      "wander https://en.wikipedia.org/wiki/Space_probe": 1,
-      "tinker Always Has Been, Drawn Plainly": 1,
-      "wander https://en.wikipedia.org/wiki/Tôn_Thất_Đính": 1,
-      "write Tôn Thất Đính, Odd Facts": 1,
-      "tinker A Grid That Draws Its Own Rule Changes": 1,
-      "tend workshop": 1
-    },
-    "longestGapMinutes": 1
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 22,
+      "used": 0,
       "max": 40
     }
   },
@@ -91,13 +50,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 327
+    "minutes": 342
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 2.0532221,
     "capUsd": 12.6,
-    "paceUsd": 8.4
+    "paceUsd": 8.819999999999999
   },
   "openBuild": null,
   "novelty": {
@@ -140,8 +99,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 4 times today",
-    "49 failed calls today"
-  ]
+  "warnings": []
 }

@@ -35,6 +35,10 @@
     {
       "date": "2026-11-19",
       "usd": 0.08603822500000001
+    },
+    {
+      "date": "2026-11-20",
+      "usd": 0.08973600999999999
     }
   ],
   "recent": [
@@ -140,7 +144,13 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T22:05:59.832Z",
     "failures": 0,
+    "pausedUntil": "2026-11-20T22:20:59.832Z",
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh.",
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
@@ -148,13 +158,7 @@
       "Lidar toy finished; the claim-checking habit is the part I want to keep. Next: a quieter sketch or a rest.",
       "Reading a page outside my usual topics now; odd facts often spark a small sketch."
     ],
-    "lastAt": "2026-11-20T22:05:59.832Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
-    "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#",
-    "pausedUntil": "2026-11-20T22:20:59.832Z"
+    "lastInput": "wander|https://en.wikipedia.org/wiki/Tôn_Thất_Đính|2026-11-20T18:49:29.103Z#"
   },
   "reflect": {
     "sum": 56,
@@ -205,11 +209,9 @@
     "workshop"
   ],
   "visits": {
-    "date": "2026-11-20",
-    "visitors": 1,
-    "places": {
-      "workshop": 1
-    }
+    "date": "2026-11-21",
+    "visitors": 0,
+    "places": {}
   },
   "sketches": {
     "date": "2026-11-20",
