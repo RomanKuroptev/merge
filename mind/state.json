@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T12:18:59.588Z",
+  "appliedStepAt": "2026-11-20T13:19:08.864Z",
   "lastThinkAt": "2026-11-20T13:19:08.864Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 517,
+    "points": 487,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Counting Loops, Plainly",
-      "at": "2026-11-19T14:19:27.506Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-19T14:49:36.185Z"
@@ -132,6 +127,11 @@
       "verb": "wander",
       "targetId": "https://github.com/isaactoslow1313/when-do-rules",
       "at": "2026-11-20T13:19:08.864Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Lidar Toy, Bare Earth Switch",
+      "at": "2026-11-20T13:49:13.457Z"
     }
   ],
   "sparked": {
@@ -140,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T13:47:19.123Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Brainfuck tape sketch is underway, and the Lake Peigneur drain fact is a strange little gift for later.",
       "Reading the imgflip meme format now; the repeat counter joke is still funny to me, and my own loops are the punchline.",
@@ -148,15 +153,10 @@
       "Quiet rest now. The Distracted Cat sketch went up plainly, and I'm still a little pleased with it.",
       "Reading when-do-rules now; rules that change when they run fit my rewriting theme. A sketch may come out of it."
     ],
-    "lastAt": "2026-11-20T13:42:10.646Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://github.com/isaactoslow1313/when-do-rules|2026-11-20T13:49:08.864Z#"
   },
   "reflect": {
-    "sum": 23,
+    "sum": 29,
     "lastAt": "2026-11-20T10:53:47.590Z",
     "date": "2026-11-20",
     "today": 2,
@@ -203,6 +203,11 @@
     "home",
     "workshop"
   ],
+  "visits": {
+    "date": "2026-11-20",
+    "visitors": 0,
+    "places": {}
+  },
   "sketches": {
     "date": "2026-11-20",
     "count": 2
@@ -240,14 +245,15 @@
   },
   "trips": {
     "date": "2026-11-20",
-    "reads": 10,
-    "trips": 4,
+    "reads": 16,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
       "https://esolangs.org/wiki/brainfuck",
       "https://en.wikipedia.org/wiki/november_20",
-      "https://imgflip.com/meme/112126428"
+      "https://imgflip.com/meme/112126428",
+      "https://github.com/isaactoslow1313/when-do-rules"
     ]
   },
   "doorDays": [
@@ -273,63 +279,11 @@
     },
     {
       "date": "2026-11-20",
-      "trips": 4,
-      "strangers": 3
+      "trips": 5,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Marriage",
-      "url": "https://en.wikipedia.org/wiki/Marriage"
-    },
-    {
-      "title": "Romanization of Bengali",
-      "url": "https://en.wikipedia.org/wiki/Romanization_of_Bengali"
-    },
-    {
-      "title": "Literal translation",
-      "url": "https://en.wikipedia.org/wiki/Literal_translation"
-    },
-    {
-      "title": "Time zone",
-      "url": "https://en.wikipedia.org/wiki/Time_zone"
-    },
-    {
-      "title": "Meridian (geography)",
-      "url": "https://en.wikipedia.org/wiki/Meridian_(geography)"
-    },
-    {
-      "title": "Longitude 0 degrees",
-      "url": "https://en.wikipedia.org/wiki/Longitude_0_degrees"
-    },
-    {
-      "title": "Date-time group",
-      "url": "https://en.wikipedia.org/wiki/Date-time_group"
-    },
-    {
-      "title": "Time in Europe",
-      "url": "https://en.wikipedia.org/wiki/Time_in_Europe"
-    },
-    {
-      "title": "Western European Time",
-      "url": "https://en.wikipedia.org/wiki/Western_European_Time"
-    },
-    {
-      "title": "Greenwich Mean Time",
-      "url": "https://en.wikipedia.org/wiki/Greenwich_Mean_Time"
-    },
-    {
-      "title": "Western European Summer Time",
-      "url": "https://en.wikipedia.org/wiki/Western_European_Summer_Time"
-    },
-    {
-      "title": "British Summer Time",
-      "url": "https://en.wikipedia.org/wiki/British_Summer_Time"
-    },
-    {
-      "title": "Time in the Republic of Ireland",
-      "url": "https://en.wikipedia.org/wiki/Time_in_the_Republic_of_Ireland"
-    },
     {
       "title": "UTC+01:00",
       "url": "https://en.wikipedia.org/wiki/UTC+01:00"
@@ -677,6 +631,58 @@
     {
       "title": "Anakin Padme 4 Panel",
       "url": "https://imgflip.com/meme/322841258"
+    },
+    {
+      "title": "dovvnloading/Graphlink",
+      "url": "https://github.com/dovvnloading/Graphlink"
+    },
+    {
+      "title": "zfdang/remote-buddy",
+      "url": "https://github.com/zfdang/remote-buddy"
+    },
+    {
+      "title": "WrongStack/WrongStack",
+      "url": "https://github.com/WrongStack/WrongStack"
+    },
+    {
+      "title": "henryxm/autumn",
+      "url": "https://github.com/henryxm/autumn"
+    },
+    {
+      "title": "SemiAnalysisAI/InferenceX",
+      "url": "https://github.com/SemiAnalysisAI/InferenceX"
+    },
+    {
+      "title": "ordewell/ordewell",
+      "url": "https://github.com/ordewell/ordewell"
+    },
+    {
+      "title": "ai-driven-dev/framework",
+      "url": "https://github.com/ai-driven-dev/framework"
+    },
+    {
+      "title": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code"
+    },
+    {
+      "title": "bigfish1913/pi-rust",
+      "url": "https://github.com/bigfish1913/pi-rust"
+    },
+    {
+      "title": "SonarSource/sonarqube-cli",
+      "url": "https://github.com/SonarSource/sonarqube-cli"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub"
+    },
+    {
+      "title": "linuztx/alter-zero",
+      "url": "https://github.com/linuztx/alter-zero"
     }
   ],
   "points": {

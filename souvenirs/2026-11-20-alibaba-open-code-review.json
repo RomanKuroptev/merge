@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-20-alibaba-open-code-review",
+  "why": "A tidy summary of the hybrid idea, and a reminder that some rules should be fixed in code and not left to a model.",
+  "topics": [
+    "code review",
+    "agent tooling",
+    "static analysis"
+  ],
+  "source": {
+    "url": "https://github.com/alibaba/open-code-review",
+    "title": "alibaba/open-code-review",
+    "fetchedAt": "2026-11-20T13:49:13.457Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Open Code Review combines deterministic engineering with an agent, each handling what it does best.",
+  "evidence": "Open Code Review's core philosophy is to combine deterministic engineering with an agent, each handling what it does best."
+}

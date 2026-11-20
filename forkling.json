@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T13:41:43.906Z",
-    "seed": 1013931876,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-20T13:49:13.457Z",
+    "seed": 1958565197,
+    "reason": "Sketch the lidar toy: one hillside lit from three angles, with a bare-earth switch and a canopy toggle.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-20T13:42:10.646Z",
+  "lastTickAt": "2026-11-20T13:49:13.457Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
