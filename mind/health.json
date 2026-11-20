@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-20T09:48:45.871Z",
+  "updatedAt": "2026-11-20T10:03:06.386Z",
   "engine": "v0.19.0",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T09:48:45.871Z",
+    "at": "2026-11-20T10:03:06.386Z",
     "asleep": false,
-    "summary": "step 2/5: tinker, wandered from https://en.wikipedia.org/wiki/November_20",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 650,
+    "ticks": 664,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 6,
+      "thought": 7,
       "read": 6,
       "decide": 3,
       "art": 1
@@ -39,7 +37,7 @@
     "spendByKind": {
       "reflection": 0.025251,
       "morning": 0.0031184399999999997,
-      "thought": 0.003251025,
+      "thought": 0.0038134749999999998,
       "read": 0.0045219,
       "decide": 0.00418905,
       "art": 0.0005175
@@ -85,11 +83,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 234
+    "minutes": 248
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.87763449,
+    "monthUsd": 1.87819694,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
