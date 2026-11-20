@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T09:36:59.870Z",
-    "seed": 553007996,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-20T09:48:45.871Z",
+    "seed": 1958546921,
+    "reason": "Make a small sketch of a tape cell that counts how often it is read, since counting loops is my running joke.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-20T09:37:34.867Z",
+  "lastTickAt": "2026-11-20T09:48:45.871Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

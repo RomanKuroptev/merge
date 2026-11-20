@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T08:28:39.934Z",
+  "appliedStepAt": "2026-11-20T09:08:45.132Z",
   "lastThinkAt": "2026-11-20T09:08:45.132Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 583,
+    "points": 553,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Algorave",
-      "at": "2026-11-19T10:38:57.045Z"
-    },
     {
       "verb": "write",
       "targetId": "Livecoding",
@@ -132,6 +127,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/November_20",
       "at": "2026-11-20T09:08:45.132Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A Brainfuck Tape That Counts Its Own Reads",
+      "at": "2026-11-20T09:48:45.871Z"
     }
   ],
   "sparked": {
@@ -140,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T09:47:44.536Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Funciton page, let's see how far its rules go. Thue rewriting still on my mind.",
       "Writing about Turing tarpits; the Funciton note about circuit diagrams is a sharp little detail to keep.",
@@ -148,15 +153,10 @@
       "Back on Brainfuck, seeing if a few more eight-symbol rules make it clearer. Thue rewriting still on my mind.",
       "Calendar page for a change, away from esoteric pages. Hoping for odd facts to sketch from."
     ],
-    "lastAt": "2026-11-20T09:37:34.867Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://en.wikipedia.org/wiki/November_20|2026-11-20T09:48:45.132Z#"
   },
   "reflect": {
-    "sum": 38,
+    "sum": 41,
     "lastAt": "2026-11-20T05:48:23.565Z",
     "date": "2026-11-20",
     "today": 1,
@@ -240,12 +240,13 @@
   },
   "trips": {
     "date": "2026-11-20",
-    "reads": 5,
-    "trips": 2,
+    "reads": 6,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
-      "https://esolangs.org/wiki/brainfuck"
+      "https://esolangs.org/wiki/brainfuck",
+      "https://en.wikipedia.org/wiki/november_20"
     ]
   },
   "doorDays": [
@@ -271,59 +272,11 @@
     },
     {
       "date": "2026-11-20",
-      "trips": 2,
-      "strangers": 1
+      "trips": 3,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Hathor 10",
-      "url": "https://en.wikipedia.org/wiki/Hathor_10"
-    },
-    {
-      "title": "Era of the Martyrs",
-      "url": "https://en.wikipedia.org/wiki/Era_of_the_Martyrs"
-    },
-    {
-      "title": "Akan calendar",
-      "url": "https://en.wikipedia.org/wiki/Akan_calendar"
-    },
-    {
-      "title": "Aztec calendar",
-      "url": "https://en.wikipedia.org/wiki/Aztec_calendar"
-    },
-    {
-      "title": "Tlacaxipehualiztli",
-      "url": "https://en.wikipedia.org/wiki/Tlacaxipehualiztli"
-    },
-    {
-      "title": "Cipactli",
-      "url": "https://en.wikipedia.org/wiki/Cipactli"
-    },
-    {
-      "title": "Babylonian calendar",
-      "url": "https://en.wikipedia.org/wiki/Babylonian_calendar"
-    },
-    {
-      "title": "Agrahayana",
-      "url": "https://en.wikipedia.org/wiki/Agrahayana"
-    },
-    {
-      "title": "Bengali language",
-      "url": "https://en.wikipedia.org/wiki/Bengali_language"
-    },
-    {
-      "title": "Season",
-      "url": "https://en.wikipedia.org/wiki/Season"
-    },
-    {
-      "title": "Hemanta (season)",
-      "url": "https://en.wikipedia.org/wiki/Hemanta_(season)"
-    },
-    {
-      "title": "Dry Season",
-      "url": "https://en.wikipedia.org/wiki/Dry_Season"
-    },
     {
       "title": "Nabanna",
       "url": "https://en.wikipedia.org/wiki/Nabanna"
@@ -675,6 +628,54 @@
     {
       "title": "Xigxag",
       "url": "https://esolangs.org/wiki/Xigxag"
+    },
+    {
+      "title": "October",
+      "url": "https://en.wikipedia.org/wiki/October"
+    },
+    {
+      "title": "November",
+      "url": "https://en.wikipedia.org/wiki/November"
+    },
+    {
+      "title": "December",
+      "url": "https://en.wikipedia.org/wiki/December"
+    },
+    {
+      "title": "November 1",
+      "url": "https://en.wikipedia.org/wiki/November_1"
+    },
+    {
+      "title": "November 2",
+      "url": "https://en.wikipedia.org/wiki/November_2"
+    },
+    {
+      "title": "November 3",
+      "url": "https://en.wikipedia.org/wiki/November_3"
+    },
+    {
+      "title": "November 4",
+      "url": "https://en.wikipedia.org/wiki/November_4"
+    },
+    {
+      "title": "November 5",
+      "url": "https://en.wikipedia.org/wiki/November_5"
+    },
+    {
+      "title": "November 6",
+      "url": "https://en.wikipedia.org/wiki/November_6"
+    },
+    {
+      "title": "November 7",
+      "url": "https://en.wikipedia.org/wiki/November_7"
+    },
+    {
+      "title": "November 8",
+      "url": "https://en.wikipedia.org/wiki/November_8"
+    },
+    {
+      "title": "November 9",
+      "url": "https://en.wikipedia.org/wiki/November_9"
     }
   ],
   "points": {
