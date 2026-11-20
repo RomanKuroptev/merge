@@ -1,16 +1,14 @@
 {
-  "updatedAt": "2026-11-20T18:49:33.742Z",
+  "updatedAt": "2026-11-20T19:04:11.722Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T18:49:33.742Z",
+    "at": "2026-11-20T19:04:11.722Z",
     "asleep": false,
-    "summary": "step 2/5: write, looked for https://en.wikipedia.org/wiki/Tôn_Thất_Đính, read nothing",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
-    "callsFailed": 1
+    "triggers": [],
+    "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1207,
+    "ticks": 1222,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -55,7 +53,7 @@
       "buildResult": 1,
       "replan": 4
     },
-    "failures": 1,
+    "failures": 6,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
@@ -97,7 +95,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 89
+    "minutes": 104
   },
   "needsCritical": {},
   "spend": {
@@ -147,6 +145,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 3 times today"
+    "started \"rest\" 3 times today",
+    "6 failed calls today"
   ]
 }
