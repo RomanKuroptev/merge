@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-19T19:35:20.284Z",
+  "appliedStepAt": "2026-11-20T05:48:23.565Z",
   "lastThinkAt": "2026-11-20T05:48:23.565Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 599,
+    "points": 589,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "The Tower of Babel (Bruegel)",
-      "at": "2026-11-19T07:13:47.908Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -132,15 +127,28 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Funciton",
       "at": "2026-11-20T05:48:23.565Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Turing Tarpit",
+      "at": "2026-11-20T06:28:32.889Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-19",
-    "count": 2,
-    "pending": null
+    "date": "2026-11-20",
+    "count": 0,
+    "pending": {
+      "topic": "esoteric languages",
+      "gain": 17.999999999999993
+    }
   },
   "thought": {
+    "lastAt": "2026-11-20T06:24:03.607Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading a calendar page as a possible door. Thue rewriting still on my mind, then rest before bed.",
       "Writing about Thue rewriting plainly, sure of little yet. The Steamboat Willie and Spain clock facts are oddly funny.",
@@ -148,15 +156,10 @@
       "Resting quietly now. Thue rewriting still on my mind, and the counter toy idea is a good joke for later.",
       "Funciton page, let's see how far its rules go. Thue rewriting still on my mind."
     ],
-    "lastAt": "2026-11-20T06:13:53.915Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "wander|https://esolangs.org/wiki/Funciton|2026-11-20T06:28:23.565Z#"
   },
   "reflect": {
-    "sum": 0,
+    "sum": 3,
     "lastAt": "2026-11-20T05:48:23.565Z",
     "date": "2026-11-20",
     "today": 1,
@@ -236,19 +239,12 @@
     "skimmed": true
   },
   "trips": {
-    "date": "2026-11-19",
-    "reads": 29,
-    "trips": 8,
+    "date": "2026-11-20",
+    "reads": 2,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://github.com/villares/sketch-a-day",
-      "https://github.com/jdxyw/generativeart",
-      "algorave",
-      "brainfuck",
-      "esoteric programming language",
-      "https://github.com/fand/vfx-js",
-      "https://esolangs.org/wiki/thue",
-      "https://en.wikipedia.org/wiki/november_19"
+      "https://esolangs.org/wiki/funciton"
     ]
   },
   "doorDays": [
@@ -271,89 +267,14 @@
       "date": "2026-11-19",
       "trips": 8,
       "strangers": 8
+    },
+    {
+      "date": "2026-11-20",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "P′′",
-      "url": "https://esolangs.org/wiki/P%E2%80%B2%E2%80%B2"
-    },
-    {
-      "title": "Brianfuck",
-      "url": "https://esolangs.org/wiki/Brianfuck"
-    },
-    {
-      "title": "Bra㏌fuck",
-      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
-    },
-    {
-      "title": "Brаinfuck",
-      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
-    },
-    {
-      "title": "BF (category)",
-      "url": "https://esolangs.org/wiki/BF_(category)"
-    },
-    {
-      "title": "BF (BestCoder)",
-      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
-    },
-    {
-      "title": "Brainf ck",
-      "url": "https://esolangs.org/wiki/Brainf_ck"
-    },
-    {
-      "title": "Urban Müller",
-      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
-    },
-    {
-      "title": "FALSE",
-      "url": "https://esolangs.org/wiki/FALSE"
-    },
-    {
-      "title": "P''",
-      "url": "https://esolangs.org/wiki/P%27%27"
-    },
-    {
-      "title": "Pointer",
-      "url": "https://esolangs.org/wiki/Pointer"
-    },
-    {
-      "title": "October",
-      "url": "https://en.wikipedia.org/wiki/October"
-    },
-    {
-      "title": "November",
-      "url": "https://en.wikipedia.org/wiki/November"
-    },
-    {
-      "title": "December",
-      "url": "https://en.wikipedia.org/wiki/December"
-    },
-    {
-      "title": "November 1",
-      "url": "https://en.wikipedia.org/wiki/November_1"
-    },
-    {
-      "title": "November 2",
-      "url": "https://en.wikipedia.org/wiki/November_2"
-    },
-    {
-      "title": "November 3",
-      "url": "https://en.wikipedia.org/wiki/November_3"
-    },
-    {
-      "title": "November 4",
-      "url": "https://en.wikipedia.org/wiki/November_4"
-    },
-    {
-      "title": "November 5",
-      "url": "https://en.wikipedia.org/wiki/November_5"
-    },
-    {
-      "title": "November 6",
-      "url": "https://en.wikipedia.org/wiki/November_6"
-    },
     {
       "title": "November 7",
       "url": "https://en.wikipedia.org/wiki/November_7"
@@ -599,10 +520,6 @@
       "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "Nailong-Studio/NaiLoong-Universe",
       "url": "https://github.com/Nailong-Studio/NaiLoong-Universe"
     },
@@ -659,20 +576,104 @@
       "url": "https://imgflip.com/meme/222403160"
     },
     {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Arbitrary memory emulation",
+      "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation"
+    },
+    {
+      "title": "Funciton/99 bottles of beer on the wall",
+      "url": "https://esolangs.org/wiki/Funciton/99_bottles_of_beer_on_the_wall"
+    },
+    {
+      "title": "Hello world program in esoteric languages (D-G)",
+      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(D-G)"
+    },
+    {
+      "title": "Funciton/Digital root calculator",
+      "url": "https://esolangs.org/wiki/Funciton/Digital_root_calculator"
+    },
+    {
+      "title": "Funciton/Brainfuckiton",
+      "url": "https://esolangs.org/wiki/Funciton/Brainfuckiton"
+    },
+    {
+      "title": "Funciton/Quine",
+      "url": "https://esolangs.org/wiki/Funciton/Quine"
+    },
+    {
+      "title": "Truth-machine",
+      "url": "https://esolangs.org/wiki/Truth-machine"
+    },
+    {
+      "title": "𝔹oxƒ⊙ck",
+      "url": "https://esolangs.org/wiki/%F0%9D%94%B9ox%C6%92%E2%8A%99ck"
+    },
+    {
+      "title": "Aheui",
+      "url": "https://esolangs.org/wiki/Aheui"
     },
     {
       "title": "Brainfuck",
       "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
     }
   ],
   "points": {

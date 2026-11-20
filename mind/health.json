@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-11-20T06:18:01.213Z",
+  "updatedAt": "2026-11-20T06:28:32.889Z",
   "engine": "v0.18.0",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T06:18:01.213Z",
+    "at": "2026-11-20T06:28:32.889Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: write, wandered from https://esolangs.org/wiki/Funciton",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:4ad2febd",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Funciton",
-      "until": "2026-11-20T06:28:23.565Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Turing Tarpit",
+      "until": "2026-11-20T06:58:32.889Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T05:48:23.565Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 432,
+    "ticks": 443,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 1
+      "thought": 1,
+      "read": 2
     },
     "spendByKind": {
       "reflection": 0.025251,
       "morning": 0.0031184399999999997,
-      "thought": 0.0005078249999999999
+      "thought": 0.0005078249999999999,
+      "read": 0.0021999
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://esolangs.org/wiki/Funciton": 1
+      "wander https://esolangs.org/wiki/Funciton": 1,
+      "write Turing Tarpit": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 2,
       "max": 40
     }
   },
@@ -58,21 +64,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.645
+      "share": 0.625
     }
   },
   "allowance": {
-    "points": 599,
+    "points": 589,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 29
+    "minutes": 39
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 1.86566282,
+    "monthUsd": 1.86786272,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
@@ -94,14 +100,14 @@
       "repeatedDiary": 1
     },
     "doors": {
-      "trips": 20,
-      "strangers": 14,
-      "share": 0.7,
+      "trips": 21,
+      "strangers": 15,
+      "share": 0.7142857142857143,
       "noDoorDays": 1
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.645,
+      "share": 0.625,
       "wouldFire": true
     },
     "draws": {

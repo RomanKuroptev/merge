@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 0.9,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-20T06:13:09.038Z",
-    "seed": 994129808,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-20T06:28:32.889Z",
+    "seed": 1967321604,
+    "reason": "Writing down what a Turing tarpit is, to find out what I actually understood about it.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-20T06:13:53.915Z",
+  "lastTickAt": "2026-11-20T06:28:32.889Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

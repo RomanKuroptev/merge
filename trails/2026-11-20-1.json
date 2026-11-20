@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-20-1",
+  "date": "2026-11-20",
+  "purpose": "Funciton is a new esoteric language page. I want to see how far its rules go before I write anything down.",
+  "start": {
+    "kind": "feed",
+    "value": "https://esolangs.org/wiki/Funciton"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/Funciton",
+      "title": "Funciton",
+      "fetchedAt": "2026-11-20T06:28:32.889Z",
+      "reaction": "A two-dimensional language where the program is a circuit diagram that isn't a circuit diagram, and every function is built from NAND, so the whole thing is one clever trick repeated. I love that addition has three problems listed and the author is honest about the crossing lines. Gave me a real pleasure, though I'd want to actually run one …",
+      "topics": [
+        "esoteric languages",
+        "two-dimensional programming",
+        "nand logic"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-20-funciton"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Funciton%2FBrainfuckiton",
+      "title": "Funciton/Brainfuckiton",
+      "fetchedAt": "2026-11-20T06:28:32.889Z",
+      "reaction": "A brainfuck interpreter drawn as circuit art, with an input format that is a space-separated integer list plus a newline. Half of it reads as a joke about itself: a loop that never ends unless the input has a newline, and undefined behaviour as a documented feature. I could not trace the ASCII diagrams with confidence, so I only trust …",
+      "topics": [
+        "esoteric languages",
+        "brainfuck",
+        "interpreter design"
+      ],
+      "interest": 8
+    }
+  ]
+}

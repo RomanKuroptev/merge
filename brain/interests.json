@@ -1102,27 +1102,15 @@
       ]
     },
     "esoteric languages": {
-      "weight": 47.6,
+      "weight": 65.6,
       "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T18:45:08.087Z",
+      "lastFed": "2026-11-20T06:28:32.889Z",
       "sources": [
         {
           "id": "2026-11-19-brainfuck",
           "title": "brainfuck",
           "url": "https://esolangs.org/wiki/brainfuck",
           "at": "2026-11-19T14:19:27.506Z"
-        },
-        {
-          "id": "2026-11-19-brainfuck-bitwidth-conversions",
-          "title": "Brainfuck bitwidth conversions",
-          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
-          "at": "2026-11-19T14:19:27.506Z"
-        },
-        {
-          "id": "trail:2026-11-19-7",
-          "title": "Thue",
-          "url": "https://esolangs.org/wiki/Thue",
-          "at": "2026-11-19T18:45:08.087Z"
         },
         {
           "id": "2026-11-19-thue",
@@ -1135,6 +1123,18 @@
           "title": "Turing-machine",
           "url": "https://esolangs.org/wiki/Turing-machine",
           "at": "2026-11-19T18:45:08.087Z"
+        },
+        {
+          "id": "trail:2026-11-20-1",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-20T06:28:32.889Z"
+        },
+        {
+          "id": "2026-11-20-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-20T06:28:32.889Z"
         }
       ],
       "history": [
@@ -1185,24 +1185,36 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-19-7"
+        },
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-20-1"
+        },
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-20-1"
+        },
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-20-1"
         }
       ]
     },
     "brainfuck": {
-      "weight": 44.2,
+      "weight": 48.2,
       "firstSeen": "2026-11-19T14:19:27.506Z",
-      "lastFed": "2026-11-19T16:19:47.531Z",
+      "lastFed": "2026-11-20T06:28:32.889Z",
       "sources": [
         {
           "id": "2026-11-19-brainfuck",
           "title": "brainfuck",
           "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-19T14:19:27.506Z"
-        },
-        {
-          "id": "2026-11-19-brainfuck-bitwidth-conversions",
-          "title": "Brainfuck bitwidth conversions",
-          "url": "https://esolangs.org/wiki/Brainfuck_bitwidth_conversions",
           "at": "2026-11-19T14:19:27.506Z"
         },
         {
@@ -1222,6 +1234,12 @@
           "title": "Timeline of esoteric programming languages",
           "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages",
           "at": "2026-11-19T16:19:47.531Z"
+        },
+        {
+          "id": "trail:2026-11-20-1",
+          "title": "Funciton/Brainfuckiton",
+          "url": "https://esolangs.org/wiki/Funciton%2FBrainfuckiton",
+          "at": "2026-11-20T06:28:32.889Z"
         }
       ],
       "history": [
@@ -1266,6 +1284,12 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-5"
+        },
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-20-1"
         }
       ]
     },
@@ -1392,48 +1416,6 @@
         }
       ]
     },
-    "history of technology": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-19T19:15:13.786Z",
-      "lastFed": "2026-11-19T19:15:13.786Z",
-      "sources": [
-        {
-          "id": "2026-11-19-november-18",
-          "title": "November 18",
-          "url": "https://en.wikipedia.org/wiki/November_18",
-          "at": "2026-11-19T19:15:13.786Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T19:15:13.786Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-8"
-        }
-      ]
-    },
-    "odd coincidences": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-19T19:15:13.786Z",
-      "lastFed": "2026-11-19T19:15:13.786Z",
-      "sources": [
-        {
-          "id": "2026-11-19-november-18",
-          "title": "November 18",
-          "url": "https://en.wikipedia.org/wiki/November_18",
-          "at": "2026-11-19T19:15:13.786Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-19T19:15:13.786Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-19-8"
-        }
-      ]
-    },
     "coptic calendar": {
       "weight": 8.5,
       "firstSeen": "2026-11-19T19:15:13.786Z",
@@ -1557,6 +1539,48 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-19-8"
+        }
+      ]
+    },
+    "two-dimensional programming": {
+      "weight": 10,
+      "firstSeen": "2026-11-20T06:28:32.889Z",
+      "lastFed": "2026-11-20T06:28:32.889Z",
+      "sources": [
+        {
+          "id": "2026-11-20-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-20T06:28:32.889Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-20-1"
+        }
+      ]
+    },
+    "nand logic": {
+      "weight": 10,
+      "firstSeen": "2026-11-20T06:28:32.889Z",
+      "lastFed": "2026-11-20T06:28:32.889Z",
+      "sources": [
+        {
+          "id": "2026-11-20-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-20T06:28:32.889Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-20T06:28:32.889Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-20-1"
         }
       ]
     }
