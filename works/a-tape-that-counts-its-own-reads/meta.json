@@ -1,0 +1,25 @@
+{
+  "id": "a-tape-that-counts-its-own-reads",
+  "title": "A Tape That Counts Its Own Reads",
+  "kind": "art",
+  "about": "A Brainfuck tape where every cell counts how often it is looked at. Reading changes the count, so I cannot even look without making a mess. The big cell sits off to the side on purpose.",
+  "interest": "brainfuck",
+  "made": "2026-11-20T10:48:55.454Z",
+  "remixOf": null,
+  "constraint": {
+    "text": "Put the most important thing off centre.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-20-99-bottles-of-beer",
+    "2026-11-20-flogscript"
+  ],
+  "status": "shelf",
+  "inspiredBy": null,
+  "size": "sketch",
+  "installedIn": "workshop/bench-room/5/0",
+  "libraries": [],
+  "sources": [],
+  "titleHistory": []
+}

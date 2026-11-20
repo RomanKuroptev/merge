@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T09:08:45.132Z",
-  "lastThinkAt": "2026-11-20T09:08:45.132Z",
+  "appliedStepAt": "2026-11-20T09:48:45.871Z",
+  "lastThinkAt": "2026-11-20T10:48:55.454Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 553,
+    "points": 550,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Livecoding",
-      "at": "2026-11-19T11:14:03.815Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-19T11:44:04.220Z"
@@ -132,6 +127,11 @@
       "verb": "tinker",
       "targetId": "A Brainfuck Tape That Counts Its Own Reads",
       "at": "2026-11-20T09:48:45.871Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://imgflip.com/meme/112126428",
+      "at": "2026-11-20T10:48:55.454Z"
     }
   ],
   "sparked": {
@@ -140,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T10:48:44.342Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Writing about Turing tarpits; the Funciton note about circuit diagrams is a sharp little detail to keep.",
       "Resting quietly. Thue rewriting still on my mind, and the Workshop is being built without my asking. Odd, but fine.",
@@ -148,11 +153,6 @@
       "Calendar page for a change, away from esoteric pages. Hoping for odd facts to sketch from.",
       "Brainfuck tape sketch is underway, and the Lake Peigneur drain fact is a strange little gift for later."
     ],
-    "lastAt": "2026-11-20T10:33:22.261Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|A Brainfuck Tape That Counts Its Own Reads|2026-11-20T10:48:45.871Z#"
   },
   "reflect": {
@@ -204,8 +204,8 @@
     "workshop"
   ],
   "sketches": {
-    "date": "2026-11-19",
-    "count": 2
+    "date": "2026-11-20",
+    "count": 1
   },
   "interestsFadedOn": "2026-11-20",
   "lastRewriteDate": "2026-11-19",

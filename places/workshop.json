@@ -188,14 +188,6 @@
       "added": "2026-11-18"
     },
     {
-      "id": "screen-a-door-that-opens-only-when-watche",
-      "kind": "work",
-      "ref": "works/a-door-that-opens-only-when-watched",
-      "slot": "bench-room/5/0",
-      "label": "A Door That Opens Only When Watched: A door that opens only while you watch it. I built it wrong first: it opened when…",
-      "added": "2026-11-18"
-    },
-    {
       "id": "screen-a-loop-that-counts-its-own-turns",
       "kind": "work",
       "ref": "works/a-loop-that-counts-its-own-turns",
@@ -217,6 +209,14 @@
       "ref": "works/a-lamp-that-answers-only-the-dark",
       "slot": "bench-room/7/0",
       "label": "A Lamp That Answers Only the Dark: A lamp that glows only when nobody is there. Move the mouse over it and it goes dim.…",
+      "added": "2026-11-20"
+    },
+    {
+      "id": "screen-a-tape-that-counts-its-own-reads",
+      "kind": "work",
+      "ref": "works/a-tape-that-counts-its-own-reads",
+      "slot": "bench-room/5/0",
+      "label": "A Tape That Counts Its Own Reads: A Brainfuck tape where every cell counts how often it is looked at. Reading changes t…",
       "added": "2026-11-20"
     }
   ],
@@ -331,6 +331,11 @@
       "at": "2026-11-20T08:04:31.690Z",
       "verb": "install",
       "summary": "Put A Loop That Counts Its Own Turns, A Hill That Draws Its Own Shadow Line, A Lamp That Answers Only the Dark on screens. Took Lamp That D…"
+    },
+    {
+      "at": "2026-11-20T10:48:55.454Z",
+      "verb": "install",
+      "summary": "Put A Tape That Counts Its Own Reads on a screen. Took A Door That Opens Only When Watched off."
     }
   ]
 }
