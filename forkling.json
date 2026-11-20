@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": 0.2,
   "intention": {
     "type": "mind_rest",
-    "startedAt": "2026-11-20T12:18:59.588Z",
-    "seed": 1958551591,
-    "reason": "Quiet rest after a day of sketches, with the loop counter switched off.",
-    "goalRef": "today:4"
+    "targetId": "home",
+    "startedAt": "2026-11-20T12:30:04.067Z",
+    "seed": 327971191,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-20T12:18:59.588Z",
+  "lastTickAt": "2026-11-20T12:30:44.917Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
