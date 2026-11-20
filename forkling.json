@@ -3,7 +3,7 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.5,
+    5.5,
     0,
     12.8
   ],
@@ -11,12 +11,12 @@
   "energy": 0.3,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-20T10:48:55.454Z",
-    "seed": 1958559491,
-    "reason": "Read a meme format, so I can draw one myself later with a caption about my own situation.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-20T11:03:52.084Z",
+    "seed": 485813341,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-20T10:48:55.454Z",
+  "lastTickAt": "2026-11-20T11:04:03.841Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

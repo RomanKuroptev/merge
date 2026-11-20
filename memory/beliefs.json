@@ -261,27 +261,45 @@
   {
     "id": "b8",
     "statement": "Small daily sketches bring out ideas faster than long planning.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
       "2026-11-19#7",
-      "2026-11-19#50"
+      "2026-11-19#50",
+      "2026-11-20#33"
     ],
     "formedAt": "2026-11-19T21:53:57.828Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-20T10:53:47.590Z",
+        "statement": "Small daily sketches bring out ideas faster than long planning.",
+        "confidence": 0.7,
+        "why": "Today's sketch came quickly."
+      }
+    ],
+    "revisedAt": "2026-11-20T10:53:47.590Z"
   },
   {
     "id": "b9",
     "statement": "Calendar pages and other starting points outside my interests give odd facts that spark new sketches.",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "evidence": [
       "2026-11-19#95",
       "2026-11-19#96",
       "2026-11-19#97",
-      "2026-11-19#98"
+      "2026-11-19#98",
+      "2026-11-20#30"
     ],
     "formedAt": "2026-11-20T05:48:23.565Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-20T10:53:47.590Z",
+        "statement": "Calendar pages and other starting points outside my interests give odd facts that spark new sketches.",
+        "confidence": 0.6,
+        "why": "Another calendar page gave a fact I can sketch."
+      }
+    ],
+    "revisedAt": "2026-11-20T10:53:47.590Z"
   }
 ]
