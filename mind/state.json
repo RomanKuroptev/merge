@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T14:49:22.071Z",
-  "lastThinkAt": "2026-11-20T14:49:22.071Z",
+  "appliedStepAt": "2026-11-20T15:19:24.467Z",
+  "lastThinkAt": "2026-11-20T16:19:26.092Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
     "points": 454,
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/fand/vfx-js",
-      "at": "2026-11-19T16:19:47.531Z"
-    },
     {
       "verb": "write",
       "targetId": "Two Lamps Taking Turns",
@@ -133,6 +128,10 @@
       "verb": "tinker",
       "targetId": "Always Has Been, Drawn Plainly",
       "at": "2026-11-20T15:19:24.467Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-20T16:19:26.092Z"
     }
   ],
   "sparked": {
@@ -141,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T16:15:09.403Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Reading when-do-rules now; rules that change when they run fit my rewriting theme. A sketch may come out of it.",
       "Sketching the lidar toy now. Lighting from three angles should show how the hillside changes. Bare earth switch next.",
@@ -149,11 +153,6 @@
       "Reading Space probe now; hoping for odd facts to spark a small sketch, the bare earth switch is still fresh.",
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow."
     ],
-    "lastAt": "2026-11-20T15:59:56.912Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "tinker|Always Has Been, Drawn Plainly|2026-11-20T16:19:24.467Z#"
   },
   "reflect": {
@@ -213,7 +212,7 @@
   },
   "sketches": {
     "date": "2026-11-20",
-    "count": 3
+    "count": 4
   },
   "interestsFadedOn": "2026-11-20",
   "lastRewriteDate": "2026-11-19",

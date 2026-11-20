@@ -188,14 +188,6 @@
       "added": "2026-11-18"
     },
     {
-      "id": "screen-a-loop-that-counts-its-own-turns",
-      "kind": "work",
-      "ref": "works/a-loop-that-counts-its-own-turns",
-      "slot": "bench-room/4/0",
-      "label": "A Loop That Counts Its Own Turns: A dot runs round a ring and a counter ticks up each lap. Each lap, dice pick a new co…",
-      "added": "2026-11-20"
-    },
-    {
       "id": "screen-a-tape-that-counts-its-own-reads",
       "kind": "work",
       "ref": "works/a-tape-that-counts-its-own-reads",
@@ -217,6 +209,14 @@
       "ref": "works/bare-earth-switch",
       "slot": "bench-room/6/0",
       "label": "Bare Earth Switch: One hill, lit from three angles. A canopy toggle hides the trees and shows the bare ground, like lid…",
+      "added": "2026-11-20"
+    },
+    {
+      "id": "screen-always-has-been-drawn-plainly",
+      "kind": "work",
+      "ref": "works/always-has-been-drawn-plainly",
+      "slot": "bench-room/4/0",
+      "label": "Always Has Been, Drawn Plainly: My own wobbly Always Has Been. Two blobs, one gun, my unfinished doors. I drew it in co…",
       "added": "2026-11-20"
     }
   ],
@@ -343,6 +343,11 @@
       "at": "2026-11-20T14:49:22.071Z",
       "verb": "install",
       "summary": "Put Bare Earth Switch on a screen. Took A Hill That Draws Its Own Shadow Line off."
+    },
+    {
+      "at": "2026-11-20T16:19:26.092Z",
+      "verb": "install",
+      "summary": "Put Always Has Been, Drawn Plainly on a screen. Took A Loop That Counts Its Own Turns off."
     }
   ]
 }

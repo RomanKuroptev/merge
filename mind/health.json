@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-20T16:04:13.301Z",
+  "updatedAt": "2026-11-20T16:19:26.092Z",
   "engine": "v0.19.1",
   "date": "2026-11-20",
   "lastTick": {
-    "at": "2026-11-20T16:04:13.301Z",
+    "at": "2026-11-20T16:19:26.092Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: rest, sketched \"Always Has Been, Drawn Plainly\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-20:e0e777d0",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tinker",
-      "targetId": "Always Has Been, Drawn Plainly",
-      "until": "2026-11-20T16:19:24.467Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-20T17:19:26.092Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-20T13:19:08.864Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1038,
+    "ticks": 1054,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
@@ -33,7 +34,7 @@
       "read": 21,
       "decide": 4,
       "art": 1,
-      "sketch": 3
+      "sketch": 4
     },
     "spendByKind": {
       "reflection": 0.0499105,
@@ -42,11 +43,11 @@
       "read": 0.012165000000000002,
       "decide": 0.0064370750000000004,
       "art": 0.0005175,
-      "sketch": 0.083452
+      "sketch": 0.114018
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -58,7 +59,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Turing Tarpit": 1,
-      "rest": 2,
+      "rest": 3,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "wander https://en.wikipedia.org/wiki/November_20": 1,
       "tinker A Brainfuck Tape That Counts Its Own Reads": 1,
@@ -91,24 +92,24 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 311
+    "minutes": 326
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.00059687,
+    "monthUsd": 2.03116287,
     "capUsd": 12.6,
     "paceUsd": 8.4
   },
   "openBuild": null,
   "novelty": {
     "works": {
-      "made": 18,
+      "made": 19,
       "wouldFire": 6,
       "byKind": {
         "art": 12,
         "tool": 2,
         "game": 3,
-        "meme": 1
+        "meme": 2
       }
     },
     "texts": {
@@ -129,8 +130,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 17,
-      "constraintsOffered": 17,
+      "collisionsUsed": 18,
+      "constraintsOffered": 18,
       "constraintsRefused": 0
     },
     "places": {
@@ -140,5 +141,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }
