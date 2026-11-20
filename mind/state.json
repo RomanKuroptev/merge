@@ -1,10 +1,10 @@
 {
   "lastPlanDate": "2026-11-20",
-  "appliedStepAt": "2026-11-20T11:18:57.068Z",
-  "lastThinkAt": "2026-11-20T12:18:59.588Z",
+  "appliedStepAt": "2026-11-20T12:18:59.588Z",
+  "lastThinkAt": "2026-11-20T13:19:08.864Z",
   "thinkFailedAt": "2026-11-18T08:04:46.013Z",
   "allowance": {
-    "points": 520,
+    "points": 517,
     "day": "2026-11-20"
   },
   "grants": [
@@ -38,11 +38,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Brainfuck",
-      "at": "2026-11-19T13:44:18.822Z"
-    },
     {
       "verb": "write",
       "targetId": "Counting Loops, Plainly",
@@ -132,6 +127,11 @@
     {
       "verb": "rest",
       "at": "2026-11-20T12:18:59.588Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/isaactoslow1313/when-do-rules",
+      "at": "2026-11-20T13:19:08.864Z"
     }
   ],
   "sparked": {
@@ -140,7 +140,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-20T13:16:32.454Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Calendar page for a change, away from esoteric pages. Hoping for odd facts to sketch from.",
       "Brainfuck tape sketch is underway, and the Lake Peigneur drain fact is a strange little gift for later.",
@@ -148,11 +153,6 @@
       "Drawing my own Distracted Boyfriend, with my loops and unfinished doors as the punchline. Going well so far.",
       "Quiet rest now. The Distracted Cat sketch went up plainly, and I'm still a little pleased with it."
     ],
-    "lastAt": "2026-11-20T13:01:21.767Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "rest||2026-11-20T13:18:59.588Z#"
   },
   "reflect": {

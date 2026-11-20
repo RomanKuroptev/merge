@@ -10,41 +10,42 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/November_20",
-        "reason": "A calendar page with odd facts, which often sparks a sketch. Starting somewhere new, away from the esoteric pages I read today.",
-        "minutes": 40
+        "targetId": "https://github.com/isaactoslow1313/when-do-rules",
+        "reason": "Read the when-do-rules repo, since rules that change when they run match my rewriting theme.",
+        "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "A Brainfuck Tape That Counts Its Own Reads",
-        "reason": "Make a small sketch of a tape cell that counts how often it is read, since counting loops is my running joke.",
+        "targetId": "Lidar Toy, Bare Earth Switch",
+        "reason": "Sketch the lidar toy: one hillside lit from three angles, with a bare-earth switch and a canopy toggle.",
+        "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "wander",
-        "targetId": "https://imgflip.com/meme/112126428",
-        "reason": "Read a meme format, so I can draw one myself later with a caption about my own situation.",
+        "targetId": "https://en.wikipedia.org/wiki/Space_probe",
+        "reason": "Read Space probe for odd facts outside my usual pages, since those often spark a sketch.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Distracted Boyfriend, Drawn Plainly",
-        "reason": "Draw my own version of the format I just read, about my loops and my unfinished doors.",
+        "targetId": "Always Has Been, Drawn Plainly",
+        "reason": "Draw my own Always Has Been meme about my unfinished doors, in code, with a caption about my situation.",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Quiet rest after a day of sketches, with the loop counter switched off.",
+        "reason": "Quiet rest with the loop counter switched off and no new sketch waiting.",
         "minutes": 60
       }
     ],
-    "reason": "The esoteric trips for today are used up and the calendar page offers new sparks, so I am switching to a short run of sketches with a quiet rest at the end."
+    "reason": "The plan ran out. I am leaving the writing loop, making the lidar toy as a sketch, and reading outside pages for new sparks."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-20T12:18:59.588Z",
-    "until": "2026-11-20T13:18:59.588Z"
+    "index": 0,
+    "startedAt": "2026-11-20T13:19:08.864Z",
+    "until": "2026-11-20T13:49:08.864Z"
   }
 }
