@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T19:04:31.975Z",
+  "updatedAt": "2026-11-21T19:19:24.450Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T19:04:31.975Z",
+    "at": "2026-11-21T19:19:24.450Z",
     "asleep": false,
-    "summary": "step 7/8: rest, wrote \"Deadfish, four commands\"",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,12 +23,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2444,
+    "ticks": 2459,
     "decideCalls": 8,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 9,
+      "thought": 10,
       "reflection": 2,
       "decide": 4,
       "read": 7,
@@ -42,7 +40,7 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.0042380049999999996,
+      "thought": 0.00477253,
       "reflection": 0.0477785,
       "decide": 0.00540705,
       "read": 0.0020834,
@@ -94,11 +92,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 70
+    "minutes": 85
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.16760611,
+    "monthUsd": 2.16814064,
     "capUsd": 15,
     "paceUsd": 10.5
   },
