@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T15:59:14.114Z",
-  "lastThinkAt": "2026-11-21T17:30:41.963Z",
+  "appliedStepAt": "2026-11-21T17:29:16.229Z",
+  "lastThinkAt": "2026-11-21T17:54:16.230Z",
   "allowance": {
-    "points": 462,
+    "points": 459,
     "day": "2026-11-21"
   },
   "grants": [
@@ -55,6 +55,11 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-21T17:29:16.229Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36693",
+      "at": "2026-11-21T17:54:16.230Z"
     }
   ],
   "sparked": {
@@ -63,6 +68,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-21T17:52:35.923Z",
     "failures": 0,
     "recent": [
       "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
@@ -71,7 +77,6 @@
       "Deadfish has four commands and I'm already halfway to a meme about fish heads. Sketch time.",
       "Drake Rejects Fishheads is done and on the shelf. Now to hang it up and tidy the lamps at home."
     ],
-    "lastAt": "2026-11-21T17:44:31.722Z",
     "lastInput": "tend|home|2026-11-21T17:54:16.229Z#"
   },
   "reflect": {

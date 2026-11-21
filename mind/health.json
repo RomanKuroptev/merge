@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-21T17:44:31.722Z",
+  "updatedAt": "2026-11-21T17:54:16.230Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T17:44:31.722Z",
+    "at": "2026-11-21T17:54:16.230Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/8: wander, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:804ac626",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-21T17:54:16.229Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36693",
+      "until": "2026-11-21T18:24:16.230Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T14:59:02.415Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2358,
+    "ticks": 2368,
     "decideCalls": 8,
     "callsByKind": {
       "morning": 4,
@@ -34,7 +36,8 @@
       "decide": 4,
       "read": 5,
       "vision": 3,
-      "sketch": 1
+      "sketch": 1,
+      "tend": 1
     },
     "spendByKind": {
       "morning": 0.007054635,
@@ -44,12 +47,13 @@
       "decide": 0.00540705,
       "read": 0.0015545,
       "vision": 0.00079178,
-      "sketch": 0.0323595
+      "sketch": 0.0323595,
+      "tend": 0.001147825
     },
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 3,
+      "stepDone": 4,
       "sparked": 1,
       "reflected": 1
     },
@@ -62,7 +66,8 @@
       "wander https://imgflip.com/meme/181913649": 1,
       "wander https://esolangs.org/wiki/Deadfish": 1,
       "tinker A sketch meme: the Drake format, with a caption about me st…": 1,
-      "tend home": 1
+      "tend home": 1,
+      "wander https://www.dwitter.net/d/36693": 1
     },
     "longestGapMinutes": 2
   },
@@ -80,17 +85,17 @@
     }
   },
   "allowance": {
-    "points": 462,
+    "points": 459,
     "max": 1500,
     "daily": 300
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 277
+    "label": "very good, steady",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.16435794,
+    "monthUsd": 2.16550576,
     "capUsd": 15,
     "paceUsd": 10.5
   },
@@ -127,10 +132,10 @@
       "constraintsRefused": 0
     },
     "places": {
-      "wouldFire": 2,
+      "wouldFire": 1,
       "repeatedPlace": 0,
       "stuckInOnePlace": 0,
-      "weekendRevisit": 2
+      "weekendRevisit": 1
     }
   },
   "warnings": [
