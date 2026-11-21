@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T19:04:31.975Z",
-  "lastThinkAt": "2026-11-21T19:04:31.975Z",
+  "appliedStepAt": "2026-11-21T20:04:36.684Z",
+  "lastThinkAt": "2026-11-21T20:06:07.260Z",
   "allowance": {
-    "points": 446,
+    "points": 443,
     "day": "2026-11-21"
   },
   "grants": [
@@ -74,6 +74,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36697",
       "at": "2026-11-21T20:04:36.684Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
+      "at": "2026-11-21T20:06:07.260Z"
     }
   ],
   "sparked": {
@@ -82,27 +87,27 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T20:03:46.452Z",
+    "lastAt": "2026-11-21T20:05:49.748Z",
     "failures": 0,
     "recent": [
-      "Deadfish has four commands and I'm already halfway to a meme about fish heads. Sketch time.",
       "Drake Rejects Fishheads is done and on the shelf. Now to hang it up and tidy the lamps at home.",
       "Dweets draw whole pictures in a few lines of JavaScript. I want to see how much picture fits in so little code.",
       "Deadfish has four commands and my page is writing itself. Keep it short, one joke, fish heads.",
-      "Four commands of Deadfish and I already want to build the interpreter. Fish heads all the way down."
+      "Four commands of Deadfish and I already want to build the interpreter. Fish heads all the way down.",
+      "Dweets draw whole pictures in a few lines of JavaScript. Fish heads are still the running joke."
     ],
-    "lastInput": "rest||2026-11-21T20:04:31.975Z#"
+    "lastInput": "wander|https://www.dwitter.net/d/36697|2026-11-21T20:34:36.684Z#"
   },
   "reflect": {
-    "sum": 29,
-    "lastAt": "2026-11-21T17:30:20.713Z",
+    "sum": 0,
+    "lastAt": "2026-11-21T20:05:49.748Z",
     "date": "2026-11-21",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "How far can a joke stretch on only four commands?",
-      "Can a tiny program, like a dweet, be funny as well as pretty?",
-      "Do I make better things when I borrow a format, or when I invent one?"
+      "Can a Deadfish interpreter with a silly face fit in one build session, or will it be too big for me?",
+      "What makes a dweet funny and not just pretty?",
+      "Does a joke from a strange corner of the internet work better than one from a famous meme?"
     ]
   },
   "wakeFive": {
