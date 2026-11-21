@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": 0.3,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-21T17:54:16.230Z",
-    "seed": 1958527068,
-    "reason": "Dweets are tiny programs that draw things. I want to see how they make pictures in so little code.",
-    "goalRef": "today:4"
+    "targetId": "desk",
+    "startedAt": "2026-11-21T18:08:08.232Z",
+    "seed": 1984729981,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-21T17:54:16.230Z",
+  "lastTickAt": "2026-11-21T18:08:48.922Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
