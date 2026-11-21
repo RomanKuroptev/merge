@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T15:59:14.114Z",
+  "updatedAt": "2026-11-21T16:14:03.680Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T15:59:14.114Z",
+    "at": "2026-11-21T16:14:03.680Z",
     "asleep": false,
-    "summary": "step 3/8: tinker, wandered from https://esolangs.org/wiki/Deadfish",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,30 +24,31 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2248,
-    "decideCalls": 6,
+    "ticks": 2265,
+    "decideCalls": 7,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 5,
+      "thought": 6,
       "reflection": 1,
-      "decide": 2,
+      "decide": 3,
       "read": 5,
       "vision": 3
     },
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.002103905,
+      "thought": 0.00264753,
       "reflection": 0.0281435,
-      "decide": 0.0032844500000000004,
+      "decide": 0.00422385,
       "read": 0.0015545,
       "vision": 0.00079178
     },
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 2
+      "stepDone": 2,
+      "sparked": 1
     },
     "failures": 1650,
     "rejections": 1,
@@ -83,11 +82,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 173
+    "minutes": 187
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.10918988,
+    "monthUsd": 2.11067291,
     "capUsd": 15,
     "paceUsd": 10.5
   },
