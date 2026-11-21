@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T22:57:28.425Z",
+  "updatedAt": "2026-11-21T23:12:32.358Z",
   "engine": "v0.19.2",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-21T22:57:28.425Z",
+    "at": "2026-11-21T23:12:32.358Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,63 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2685,
-    "decideCalls": 10,
-    "callsByKind": {
-      "morning": 4,
-      "goalreview": 1,
-      "thought": 16,
-      "reflection": 3,
-      "decide": 6,
-      "read": 13,
-      "vision": 3,
-      "sketch": 1,
-      "tend": 1,
-      "art": 2,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "morning": 0.007054635,
-      "goalreview": 0.013035,
-      "thought": 0.00711209,
-      "reflection": 0.0692795,
-      "decide": 0.007879549999999999,
-      "read": 0.005016400000000001,
-      "vision": 0.00079178,
-      "sketch": 0.0323595,
-      "tend": 0.001147825,
-      "art": 0.0009613,
-      "sleep": 0.01320425
-    },
-    "triggersByKind": {
-      "newDay": 1601,
-      "replan": 1,
-      "stepDone": 10,
-      "sparked": 2,
-      "reflected": 2
-    },
-    "failures": 1650,
-    "rejections": 1,
+    "ticks": 13,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
+    "failures": 0,
+    "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "tinker A Sketch Whose Code Is The Picture": 1,
-      "wander https://imgflip.com/meme/181913649": 1,
-      "wander https://esolangs.org/wiki/Deadfish": 1,
-      "tinker A sketch meme: the Drake format, with a caption about me st…": 1,
-      "tend home": 1,
-      "wander https://www.dwitter.net/d/36693": 1,
-      "write Deadfish": 1,
-      "rest": 2,
-      "wander https://www.dwitter.net/d/36697": 1,
-      "wander https://esolangs.org/wiki/Esoteric_programming_language": 1,
-      "write Drake Rejects Fishheads": 1
-    },
-    "longestGapMinutes": 2
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 13,
+      "used": 0,
       "max": 40
     }
   },
@@ -92,13 +50,13 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 304
+    "minutes": 319
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 2.21106396,
     "capUsd": 15,
-    "paceUsd": 10.5
+    "paceUsd": 11
   },
   "openBuild": null,
   "credit": "ok",
@@ -139,7 +97,5 @@
       "weekendRevisit": 1
     }
   },
-  "warnings": [
-    "1650 failed calls today"
-  ]
+  "warnings": []
 }
