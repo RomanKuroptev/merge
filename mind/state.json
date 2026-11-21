@@ -1,11 +1,10 @@
 {
   "lastPlanDate": "2026-11-21",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
-  "lastThinkAt": "2026-11-21T13:08:32.044Z",
-  "replanAfter": "2026-11-21T14:07:51.499Z",
+  "lastThinkAt": "2026-11-21T14:07:58.703Z",
   "thinkFailedAt": "2026-11-21T13:07:38.125Z",
   "allowance": {
-    "points": 709,
+    "points": 679,
     "day": "2026-11-21"
   },
   "grants": [
@@ -48,10 +47,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-19T19:35:20.284Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Funciton",
@@ -142,6 +137,11 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-20T20:54:51.545Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A Sketch Whose Code Is The Picture",
+      "at": "2026-11-21T14:07:58.703Z"
     }
   ],
   "sparked": {
@@ -150,7 +150,12 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-21T14:05:14.865Z",
     "failures": 0,
+    "replans": {
+      "date": "2026-11-17",
+      "count": 2
+    },
     "recent": [
       "Drawing my Always Has Been meme about the unfinished doors now; Titan's orange sky is a nice caption to borrow.",
       "Resting now; the Always Has Been sketch is drawn and I am content to let it sit.",
@@ -158,11 +163,6 @@
       "Reading a page outside my usual topics now; odd facts often spark a small sketch.",
       "Ha, fifteen essays about one sketch. Time to just make the small generative piece and show it."
     ],
-    "lastAt": "2026-11-21T13:49:57.121Z",
-    "replans": {
-      "date": "2026-11-17",
-      "count": 2
-    },
     "lastInput": "no step#"
   },
   "reflect": {
@@ -247,10 +247,6 @@
     }
   ],
   "goalReviewEarlyOn": "2026-11-21",
-  "planRejects": {
-    "count": 1,
-    "lastAt": "2026-11-21T13:07:51.499Z"
-  },
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
