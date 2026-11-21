@@ -1,34 +1,38 @@
 {
-  "updatedAt": "2026-11-21T12:52:54.129Z",
+  "updatedAt": "2026-11-21T13:08:32.044Z",
   "engine": "v0.19.1",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T12:52:54.129Z",
+    "at": "2026-11-21T13:08:32.044Z",
     "asleep": false,
-    "summary": "sync",
-    "think": "morning",
-    "triggers": [
-      "newDay"
-    ],
-    "callsFailed": 1
+    "summary": "new long goal, reviewed the long goal early",
+    "think": null,
+    "triggers": [],
+    "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-20:4a356cde",
+    "planId": null,
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 3
+    "idleMinutes": 4
   },
   "today": {
-    "ticks": 2006,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {
-      "newDay": 1533
+    "ticks": 2074,
+    "decideCalls": 2,
+    "callsByKind": {
+      "morning": 2,
+      "goalreview": 1
     },
-    "failures": 1583,
-    "rejections": 0,
+    "spendByKind": {
+      "morning": 0.004288135,
+      "goalreview": 0.013035
+    },
+    "triggersByKind": {
+      "newDay": 1600
+    },
+    "failures": 1650,
+    "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {},
@@ -54,11 +58,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 2
+    "minutes": 3
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.0532221,
+    "monthUsd": 2.07054524,
     "capUsd": 12.6,
     "paceUsd": 8.819999999999999
   },
@@ -104,6 +108,6 @@
     }
   },
   "warnings": [
-    "1583 failed calls today"
+    "1650 failed calls today"
   ]
 }

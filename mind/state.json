@@ -1,8 +1,9 @@
 {
-  "lastPlanDate": "2026-11-20",
+  "lastPlanDate": "2026-11-21",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
-  "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-21T12:52:54.129Z",
+  "lastThinkAt": "2026-11-21T13:08:32.044Z",
+  "replanAfter": "2026-11-21T14:07:51.499Z",
+  "thinkFailedAt": "2026-11-21T13:07:38.125Z",
   "allowance": {
     "points": 709,
     "day": "2026-11-21"
@@ -149,9 +150,8 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T12:48:52.041Z",
-    "failures": 0,
-    "pausedUntil": "2026-11-21T13:03:52.041Z",
+    "lastAt": "2026-11-21T13:04:04.188Z",
+    "failures": 1,
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -246,7 +246,11 @@
       "mood": 0.8
     }
   ],
-  "goalReviewEarlyOn": "2026-11-20",
+  "goalReviewEarlyOn": "2026-11-21",
+  "planRejects": {
+    "count": 1,
+    "lastAt": "2026-11-21T13:07:51.499Z"
+  },
   "sleepRewrite": null,
   "readings": {
     "date": "2026-11-12",
@@ -811,12 +815,6 @@
   "pausedHosts": {},
   "rejections": [
     {
-      "at": "2026-11-16T20:05:38.862Z",
-      "reasons": [
-        "step 3: you have written about this 22 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
-      ]
-    },
-    {
       "at": "2026-11-16T20:07:40.958Z",
       "reasons": [
         "step 2: you have written about this 3 times in the last 7 days (\"What the sand taught me\", \"Grain and Light on a Sketch of Sand\", \"Grain and Ripples: What I Think the Sand\"): write about something else, or make or read something instead"
@@ -872,6 +870,12 @@
       "at": "2026-11-20T17:19:28.909Z",
       "reasons": [
         "step 4: you have written about this 15 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
+      ]
+    },
+    {
+      "at": "2026-11-21T13:07:51.499Z",
+      "reasons": [
+        "step 2: you have written about this 11 times in the last 7 days (\"Shaded Relief: What It Is Made Of\", \"Leaf Area Index, Again, With Lidar\", \"Multi-directional Shading: What the Ligh\"): write about something else, or make or read something instead"
       ]
     }
   ]

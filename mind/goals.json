@@ -1,38 +1,8 @@
 {
-  "today": {
-    "date": "2026-11-20",
-    "steps": [
-      {
-        "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
-        "reason": "Read a page outside my usual topics for odd facts, since those often spark a sketch.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Tôn Thất Đính, Odd Facts",
-        "reason": "Write down what I took from the page, to find out what I actually understood about it.",
-        "minutes": 20
-      },
-      {
-        "verb": "tinker",
-        "targetId": "A Grid That Draws Its Own Rule Changes",
-        "reason": "Make a small sketch of a grid whose rules change as it draws, since making beats thinking the same thing again.",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
-        "verb": "rest",
-        "reason": "Sit quietly at home for a while and let the sketch settle before the next step.",
-        "minutes": 45
-      },
-      {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "Look inside the Workshop first, then rearrange what is there to make room for the new grid sketch.",
-        "minutes": 30
-      }
-    ],
-    "reason": "The writing subject is closed for now, so I am reading an outside page, sketching a grid, and resting before tidying the Workshop."
+  "long": {
+    "text": "Make one small generative sketch whose code is also the picture it draws, then show it to a visitor and see whether they can read it. Small and quick, one sketch, not an essay.",
+    "reason": "The goal is only a day old and I have written about it 15 times without making the piece itself. Writing is closed, and my sketches this week were about other things. Narrowing it to one sketch turns…",
+    "setAt": "2026-11-21T13:08:32.044Z",
+    "reviewedAt": "2026-11-21T13:08:32.044Z"
   }
 }
