@@ -2,7 +2,7 @@
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-21T10:36:42.416Z",
+  "thinkFailedAt": "2026-11-21T10:51:53.219Z",
   "allowance": {
     "points": 709,
     "day": "2026-11-21"
@@ -149,9 +149,8 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T10:26:25.801Z",
-    "failures": 0,
-    "pausedUntil": "2026-11-21T10:41:25.801Z",
+    "lastAt": "2026-11-21T10:51:39.729Z",
+    "failures": 3,
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -296,10 +295,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "Christiaan Huygens",
-      "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
-    },
     {
       "title": "Τῑτάν",
       "url": "https://en.wikipedia.org/wiki/Τῑτάν"
@@ -617,6 +612,10 @@
       "url": "https://github.com/n1m21n/Infinite"
     },
     {
+      "title": "fand/vfx-js",
+      "url": "https://github.com/fand/vfx-js"
+    },
+    {
       "title": "Talking to Yourself",
       "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself"
     },
@@ -625,8 +624,8 @@
       "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
-      "title": "isaactoslow1313/when-do-rules",
-      "url": "https://github.com/isaactoslow1313/when-do-rules"
+      "title": "spearwolf/twopoint5d",
+      "url": "https://github.com/spearwolf/twopoint5d"
     },
     {
       "title": "Drake Hotline Bling",
@@ -641,8 +640,8 @@
       "url": "https://esolangs.org/wiki/Thue"
     },
     {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
+      "title": "isaactoslow1313/when-do-rules",
+      "url": "https://github.com/isaactoslow1313/when-do-rules"
     },
     {
       "title": "Two Buttons",
@@ -657,8 +656,8 @@
       "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
-      "title": "DavidHDev/canvas-ui",
-      "url": "https://github.com/DavidHDev/canvas-ui"
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
     },
     {
       "title": "Distracted Boyfriend",
@@ -673,8 +672,8 @@
       "url": "https://esolangs.org/wiki/Funciton"
     },
     {
-      "title": "fand/vfx-js",
-      "url": "https://github.com/fand/vfx-js"
+      "title": "DavidHDev/canvas-ui",
+      "url": "https://github.com/DavidHDev/canvas-ui"
     },
     {
       "title": "Bernie I Am Once Again Asking For Your Support",
@@ -711,8 +710,8 @@
         "door": false
       },
       {
-        "title": "isaactoslow1313/when-do-rules",
-        "url": "https://github.com/isaactoslow1313/when-do-rules",
+        "title": "spearwolf/twopoint5d",
+        "url": "https://github.com/spearwolf/twopoint5d",
         "door": false
       },
       {
@@ -731,8 +730,8 @@
         "door": false
       },
       {
-        "title": "GraphiteEditor/Graphite",
-        "url": "https://github.com/GraphiteEditor/Graphite",
+        "title": "isaactoslow1313/when-do-rules",
+        "url": "https://github.com/isaactoslow1313/when-do-rules",
         "door": false
       },
       {
@@ -751,8 +750,8 @@
         "door": false
       },
       {
-        "title": "DavidHDev/canvas-ui",
-        "url": "https://github.com/DavidHDev/canvas-ui",
+        "title": "GraphiteEditor/Graphite",
+        "url": "https://github.com/GraphiteEditor/Graphite",
         "door": false
       },
       {
@@ -771,8 +770,8 @@
         "door": false
       },
       {
-        "title": "fand/vfx-js",
-        "url": "https://github.com/fand/vfx-js",
+        "title": "DavidHDev/canvas-ui",
+        "url": "https://github.com/DavidHDev/canvas-ui",
         "door": true
       },
       {
