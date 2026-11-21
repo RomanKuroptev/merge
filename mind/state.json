@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T17:29:16.229Z",
+  "appliedStepAt": "2026-11-21T17:54:16.230Z",
   "lastThinkAt": "2026-11-21T17:54:16.230Z",
   "allowance": {
-    "points": 459,
+    "points": 449,
     "day": "2026-11-21"
   },
   "grants": [
@@ -60,6 +60,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36693",
       "at": "2026-11-21T17:54:16.230Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Deadfish",
+      "at": "2026-11-21T18:24:25.333Z"
     }
   ],
   "sparked": {
@@ -68,6 +73,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-21T18:22:55.019Z",
     "failures": 0,
     "recent": [
       "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later.",
@@ -76,7 +82,6 @@
       "Drake Rejects Fishheads is done and on the shelf. Now to hang it up and tidy the lamps at home.",
       "Dweets draw whole pictures in a few lines of JavaScript. I want to see how much picture fits in so little code."
     ],
-    "lastAt": "2026-11-21T18:08:48.922Z",
     "lastInput": "wander|https://www.dwitter.net/d/36693|2026-11-21T18:24:16.230Z#"
   },
   "reflect": {
@@ -132,19 +137,20 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-21",
-    "reads": 5,
-    "trips": 2,
+    "reads": 7,
+    "trips": 3,
     "looks": 3,
     "starts": [
       "https://imgflip.com/meme/181913649",
-      "https://esolangs.org/wiki/deadfish"
+      "https://esolangs.org/wiki/deadfish",
+      "https://www.dwitter.net/d/36693"
     ]
   },
   "doorDays": [
     {
       "date": "2026-11-21",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
@@ -163,10 +169,6 @@
     {
       "title": "youraipulse/Form",
       "url": "https://github.com/youraipulse/Form"
-    },
-    {
-      "title": "Dweet 36693 by UEZ",
-      "url": "https://www.dwitter.net/d/36693"
     },
     {
       "title": "When my partner asks me about plans for the weekend",
@@ -339,6 +341,22 @@
     {
       "title": "2Deadfish/Constants",
       "url": "https://esolangs.org/wiki/2Deadfish/Constants"
+    },
+    {
+      "title": "Dweet 36687 by UEZ",
+      "url": "https://www.dwitter.net/d/36687"
+    },
+    {
+      "title": "Dweet 36676 by UEZ",
+      "url": "https://www.dwitter.net/d/36676"
+    },
+    {
+      "title": "Dweet 36666 by UEZ",
+      "url": "https://www.dwitter.net/d/36666"
+    },
+    {
+      "title": "Dweet 36693 by UEZ",
+      "url": "https://www.dwitter.net/d/36693"
     }
   ],
   "points": {

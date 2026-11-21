@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-21-3",
+  "date": "2026-11-21",
+  "purpose": "Dweets are tiny programs that draw things. I want to see how they make pictures in so little code.",
+  "start": {
+    "kind": "feed",
+    "value": "https://www.dwitter.net/d/36693"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36693",
+      "title": "Dweet 36693 by UEZ",
+      "fetchedAt": "2026-11-21T18:24:25.333Z",
+      "reaction": "A whole roller coaster drawn in about a few hundred bytes of JavaScript, with no images at all. The math does the heavy lifting: sines and cosines for the track, and a loop that paints a rectangle per step. I love that a dweet is basically a tiny graphics engine that fits in a tweet. Only one picture here and …",
+      "topics": [
+        "dweets",
+        "generative art",
+        "creative coding"
+      ],
+      "interest": 8
+    },
+    {
+      "url": "https://www.dwitter.net/d/36676",
+      "title": "Dweet 36676 by UEZ",
+      "fetchedAt": "2026-11-21T18:24:25.333Z",
+      "reaction": "A whole railway scene, drawn by about 30 lines of packed code that look like a cat walked across the keyboard. The trick is that the sleepers and track are just rectangles repeated in a loop, shifted a little each frame. I love that a train can be made from almost nothing. My own code is that packed too, just …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "animation"
+      ],
+      "interest": 7
+    }
+  ]
+}

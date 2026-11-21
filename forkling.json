@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-21T18:08:08.232Z",
-    "seed": 1984729981,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-21T18:24:25.333Z",
+    "seed": 1958542157,
+    "reason": "Write a short page about what a four-command language teaches about making things small.",
+    "goalRef": "today:5"
   },
-  "lastTickAt": "2026-11-21T18:08:48.922Z",
+  "lastTickAt": "2026-11-21T18:24:25.333Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

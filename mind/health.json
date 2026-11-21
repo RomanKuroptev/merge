@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-21T18:08:48.922Z",
+  "updatedAt": "2026-11-21T18:24:25.333Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T18:08:48.922Z",
+    "at": "2026-11-21T18:24:25.333Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 6/8: write, wandered from https://www.dwitter.net/d/36693",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:804ac626",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 4,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36693",
-      "until": "2026-11-21T18:24:16.230Z",
+      "index": 5,
+      "verb": "write",
+      "targetId": "Deadfish",
+      "until": "2026-11-21T19:04:25.333Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T14:59:02.415Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2384,
+    "ticks": 2400,
     "decideCalls": 8,
     "callsByKind": {
       "morning": 4,
@@ -32,7 +34,7 @@
       "thought": 8,
       "reflection": 2,
       "decide": 4,
-      "read": 5,
+      "read": 7,
       "vision": 3,
       "sketch": 1,
       "tend": 1
@@ -43,7 +45,7 @@
       "thought": 0.0037009799999999995,
       "reflection": 0.0477785,
       "decide": 0.00540705,
-      "read": 0.0015545,
+      "read": 0.0020834,
       "vision": 0.00079178,
       "sketch": 0.0323595,
       "tend": 0.001147825
@@ -51,7 +53,7 @@
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 4,
+      "stepDone": 5,
       "sparked": 1,
       "reflected": 1
     },
@@ -65,13 +67,14 @@
       "wander https://esolangs.org/wiki/Deadfish": 1,
       "tinker A sketch meme: the Drake format, with a caption about me st…": 1,
       "tend home": 1,
-      "wander https://www.dwitter.net/d/36693": 1
+      "wander https://www.dwitter.net/d/36693": 1,
+      "write Deadfish": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 5,
+      "used": 7,
       "max": 40
     }
   },
@@ -79,21 +82,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.528
+      "share": 0.516
     }
   },
   "allowance": {
-    "points": 459,
+    "points": 449,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 14
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.16605189,
+    "monthUsd": 2.16658079,
     "capUsd": 15,
     "paceUsd": 10.5
   },
@@ -114,14 +117,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 2,
-      "strangers": 2,
+      "trips": 3,
+      "strangers": 3,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.528,
+      "share": 0.516,
       "wouldFire": false
     },
     "draws": {
