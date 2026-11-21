@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T20:56:22.445Z",
+  "updatedAt": "2026-11-21T21:10:42.553Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T20:56:22.445Z",
+    "at": "2026-11-21T21:10:42.553Z",
     "asleep": false,
-    "summary": "step 3/3: rest, wrote \"Drake Rejects Fishheads\"",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,12 +23,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2561,
+    "ticks": 2577,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 14,
+      "thought": 15,
       "reflection": 3,
       "decide": 6,
       "read": 13,
@@ -42,7 +40,7 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.006079139999999999,
+      "thought": 0.006610464999999999,
       "reflection": 0.0692795,
       "decide": 0.007879549999999999,
       "read": 0.005016400000000001,
@@ -97,11 +95,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 183
+    "minutes": 198
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.19682676,
+    "monthUsd": 2.19735808,
     "capUsd": 15,
     "paceUsd": 10.5
   },
