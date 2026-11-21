@@ -1,4 +1,6 @@
 {
+  "lastPlanDate": "2026-11-21",
+  "lastThinkAt": "2026-11-21T14:59:02.415Z",
   "allowance": {
     "points": 497,
     "day": "2026-11-21"
@@ -10,11 +12,75 @@
       "source": "fresh start"
     }
   ],
+  "overheadDays": [
+    {
+      "date": "2026-11-16",
+      "usd": 0.00031312000000000006
+    },
+    {
+      "date": "2026-11-17",
+      "usd": 0.10132183000000024
+    },
+    {
+      "date": "2026-11-18",
+      "usd": 0.06844619500000003
+    },
+    {
+      "date": "2026-11-19",
+      "usd": 0.08603822500000001
+    },
+    {
+      "date": "2026-11-20",
+      "usd": 0.08973600999999999
+    }
+  ],
   "recent": [
     {
       "verb": "wander",
       "targetId": "https://imgflip.com/meme/181913649",
       "at": "2026-11-21T14:59:02.415Z"
+    }
+  ],
+  "thought": {
+    "failures": 0,
+    "recent": [
+      "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
+      "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later."
+    ],
+    "lastAt": "2026-11-21T15:09:14.305Z",
+    "lastInput": "wander|https://imgflip.com/meme/181913649|2026-11-21T15:29:02.415Z#"
+  },
+  "wakeFive": {
+    "date": "2026-11-21",
+    "topics": []
+  },
+  "requestSeen": {},
+  "wishSeen": {},
+  "placesSeen": [
+    "home",
+    "workshop"
+  ],
+  "visits": {
+    "date": "2026-11-21",
+    "visitors": 0,
+    "places": {}
+  },
+  "interestsFadedOn": "2026-11-21",
+  "notesWaiting": [],
+  "requestStatuses": {},
+  "toolsSeen": [
+    "read-sites",
+    "look",
+    "sketches",
+    "works",
+    "places",
+    "notes",
+    "diary"
+  ],
+  "wakeMoods": [
+    {
+      "date": "2026-11-21",
+      "mood": 0.8
     }
   ],
   "sleepRewrite": null,
@@ -157,43 +223,6 @@
       "url": "https://imgflip.com/meme/252600902"
     }
   ],
-  "openBuild": null,
-  "openCode": null,
-  "brokenOff": [],
-  "pausedHosts": {},
-  "rejections": [],
-  "placesSeen": [
-    "home",
-    "workshop"
-  ],
-  "requestSeen": {},
-  "wishSeen": {},
-  "visits": {
-    "date": "2026-11-21",
-    "visitors": 0,
-    "places": {}
-  },
-  "requestStatuses": {},
-  "toolsSeen": [
-    "read-sites",
-    "look",
-    "sketches",
-    "works",
-    "places",
-    "notes",
-    "diary"
-  ],
-  "interestsFadedOn": "2026-11-21",
-  "wakeMoods": [
-    {
-      "date": "2026-11-21",
-      "mood": 0.8
-    }
-  ],
-  "wakeFive": {
-    "date": "2026-11-21",
-    "topics": []
-  },
   "points": {
     "date": "2026-11-21",
     "list": [
@@ -349,37 +378,9 @@
       }
     ]
   },
-  "thought": {
-    "failures": 0,
-    "recent": [
-      "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today."
-    ],
-    "lastAt": "2026-11-21T14:59:02.415Z",
-    "lastInput": "no step#"
-  },
-  "overheadDays": [
-    {
-      "date": "2026-11-16",
-      "usd": 0.00031312000000000006
-    },
-    {
-      "date": "2026-11-17",
-      "usd": 0.10132183000000024
-    },
-    {
-      "date": "2026-11-18",
-      "usd": 0.06844619500000003
-    },
-    {
-      "date": "2026-11-19",
-      "usd": 0.08603822500000001
-    },
-    {
-      "date": "2026-11-20",
-      "usd": 0.08973600999999999
-    }
-  ],
-  "lastThinkAt": "2026-11-21T14:59:02.415Z",
-  "lastPlanDate": "2026-11-21",
-  "notesWaiting": []
+  "openBuild": null,
+  "openCode": null,
+  "brokenOff": [],
+  "pausedHosts": {},
+  "rejections": []
 }
