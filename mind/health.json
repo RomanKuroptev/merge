@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T20:06:07.260Z",
+  "updatedAt": "2026-11-21T20:21:04.672Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T20:06:07.260Z",
+    "at": "2026-11-21T20:21:04.672Z",
     "asleep": false,
-    "summary": "thought about reflected, left wander, step 1/3: wander, new plan",
-    "think": "decide",
-    "triggers": [
-      "reflected"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2509,
+    "ticks": 2524,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 11,
+      "thought": 12,
       "reflection": 3,
       "decide": 5,
       "read": 7,
@@ -43,7 +41,7 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.0052996549999999995,
+      "thought": 0.005443684999999999,
       "reflection": 0.0692795,
       "decide": 0.00682875,
       "read": 0.0020834,
@@ -97,11 +95,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 132
+    "minutes": 147
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.19159047,
+    "monthUsd": 2.1917345,
     "capUsd": 15,
     "paceUsd": 10.5
   },
