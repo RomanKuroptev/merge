@@ -1,29 +1,33 @@
 {
-  "updatedAt": "2026-11-21T07:05:36.167Z",
+  "updatedAt": "2026-11-21T07:20:43.233Z",
   "engine": "v0.19.1",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T07:05:36.167Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
-    "callsFailed": 0
+    "at": "2026-11-21T07:20:43.233Z",
+    "asleep": false,
+    "summary": "sync",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
+    "callsFailed": 1
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 0
+    "idleMinutes": 1
   },
   "today": {
-    "ticks": 472,
+    "ticks": 532,
     "decideCalls": 0,
     "callsByKind": {},
     "spendByKind": {},
-    "triggersByKind": {},
-    "failures": 0,
+    "triggersByKind": {
+      "newDay": 59
+    },
+    "failures": 62,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
@@ -44,13 +48,13 @@
     }
   },
   "allowance": {
-    "points": 409,
+    "points": 709,
     "max": 1500,
     "daily": 300
   },
   "mood": {
-    "label": "very good, a bit worn",
-    "minutes": 807
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
@@ -99,5 +103,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "62 failed calls today"
+  ]
 }

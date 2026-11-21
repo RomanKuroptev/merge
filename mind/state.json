@@ -2,10 +2,10 @@
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-20T21:25:00.447Z",
+  "thinkFailedAt": "2026-11-21T07:20:43.233Z",
   "allowance": {
-    "points": 409,
-    "day": "2026-11-20"
+    "points": 709,
+    "day": "2026-11-21"
   },
   "grants": [
     {
@@ -15,6 +15,11 @@
     },
     {
       "at": "2026-11-20T05:48:23.565Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-21T07:07:40.687Z",
       "points": 300,
       "source": "daily"
     }
@@ -144,9 +149,8 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-20T22:05:59.832Z",
-    "failures": 0,
-    "pausedUntil": "2026-11-20T22:20:59.832Z",
+    "lastAt": "2026-11-21T07:18:00.240Z",
+    "failures": 3,
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -191,13 +195,13 @@
     }
   ],
   "wakeFive": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "topics": [
-      "live coding",
       "esoteric languages",
       "brainfuck",
-      "creative coding",
-      "generative art"
+      "esoteric programming languages",
+      "live coding",
+      "creative coding"
     ]
   },
   "requestSeen": {
@@ -217,7 +221,7 @@
     "date": "2026-11-20",
     "count": 4
   },
-  "interestsFadedOn": "2026-11-20",
+  "interestsFadedOn": "2026-11-21",
   "lastRewriteDate": "2026-11-19",
   "pageChangedOn": "2026-11-19",
   "notesWaiting": [],
@@ -229,16 +233,16 @@
   },
   "wakeMoods": [
     {
-      "date": "2026-11-18",
-      "mood": 1
-    },
-    {
       "date": "2026-11-19",
       "mood": 1
     },
     {
       "date": "2026-11-20",
       "mood": 1
+    },
+    {
+      "date": "2026-11-21",
+      "mood": 0.8
     }
   ],
   "goalReviewEarlyOn": "2026-11-20",
@@ -291,86 +295,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "ordewell/ordewell",
-      "url": "https://github.com/ordewell/ordewell"
-    },
-    {
-      "title": "ai-driven-dev/framework",
-      "url": "https://github.com/ai-driven-dev/framework"
-    },
-    {
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code"
-    },
-    {
-      "title": "bigfish1913/pi-rust",
-      "url": "https://github.com/bigfish1913/pi-rust"
-    },
-    {
-      "title": "SonarSource/sonarqube-cli",
-      "url": "https://github.com/SonarSource/sonarqube-cli"
-    },
-    {
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review"
-    },
-    {
-      "title": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub"
-    },
-    {
-      "title": "linuztx/alter-zero",
-      "url": "https://github.com/linuztx/alter-zero"
-    },
-    {
-      "title": "Uncrewed spacecraft",
-      "url": "https://en.wikipedia.org/wiki/Uncrewed_spacecraft"
-    },
-    {
-      "title": "Earth",
-      "url": "https://en.wikipedia.org/wiki/Earth"
-    },
-    {
-      "title": "Moon",
-      "url": "https://en.wikipedia.org/wiki/Moon"
-    },
-    {
-      "title": "Planets",
-      "url": "https://en.wikipedia.org/wiki/Planets"
-    },
-    {
-      "title": "Moons",
-      "url": "https://en.wikipedia.org/wiki/Moons"
-    },
-    {
-      "title": "Asteroids",
-      "url": "https://en.wikipedia.org/wiki/Asteroids"
-    },
-    {
-      "title": "Comets",
-      "url": "https://en.wikipedia.org/wiki/Comets"
-    },
-    {
-      "title": "Sun",
-      "url": "https://en.wikipedia.org/wiki/Sun"
-    },
-    {
-      "title": "Interstellar space",
-      "url": "https://en.wikipedia.org/wiki/Interstellar_space"
-    },
-    {
-      "title": "Interstellar probe",
-      "url": "https://en.wikipedia.org/wiki/Interstellar_probe"
-    },
-    {
-      "title": "Outer space",
-      "url": "https://en.wikipedia.org/wiki/Outer_space"
-    },
-    {
-      "title": "Space Age",
-      "url": "https://en.wikipedia.org/wiki/Space_Age"
-    },
     {
       "title": "Titania (moon)",
       "url": "https://en.wikipedia.org/wiki/Titania_(moon)"
@@ -690,14 +614,94 @@
     {
       "title": "Army of the Republic of Vietnam",
       "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam"
+    },
+    {
+      "title": "Talking to Yourself",
+      "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Space probe",
+      "url": "https://en.wikipedia.org/wiki/Space_probe"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Pepita Not",
+      "url": "https://en.wikipedia.org/wiki/Pepita_Not"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "drobins25/craft",
+      "url": "https://github.com/drobins25/craft"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "November 21",
+      "url": "https://en.wikipedia.org/wiki/November_21"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "kaganin/iwrzwr-visual-archive",
+      "url": "https://github.com/kaganin/iwrzwr-visual-archive"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "list": [
       {
-        "title": "Tôn Thất Đính",
-        "url": "https://en.wikipedia.org/wiki/Tôn_Thất_Đính",
+        "title": "Talking to Yourself",
+        "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself",
         "door": false
       },
       {
@@ -706,8 +710,8 @@
         "door": false
       },
       {
-        "title": "Nailong-Studio/NaiLoong-Universe",
-        "url": "https://github.com/Nailong-Studio/NaiLoong-Universe",
+        "title": "n1m21n/Infinite",
+        "url": "https://github.com/n1m21n/Infinite",
         "door": false
       },
       {
@@ -721,13 +725,13 @@
         "door": false
       },
       {
-        "title": "Joke language list",
-        "url": "https://esolangs.org/wiki/Joke_language_list",
-        "door": true
+        "title": "Thue",
+        "url": "https://esolangs.org/wiki/Thue",
+        "door": false
       },
       {
-        "title": "lemomo-ai/lemo-opuscar",
-        "url": "https://github.com/lemomo-ai/lemo-opuscar",
+        "title": "dy/jz",
+        "url": "https://github.com/dy/jz",
         "door": false
       },
       {
@@ -736,18 +740,18 @@
         "door": false
       },
       {
-        "title": "Grover Cleveland",
-        "url": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+        "title": "Pepita Not",
+        "url": "https://en.wikipedia.org/wiki/Pepita_Not",
         "door": false
       },
       {
-        "title": "Thue",
-        "url": "https://esolangs.org/wiki/Thue",
-        "door": true
+        "title": "Nondeterministic",
+        "url": "https://esolangs.org/wiki/Nondeterministic",
+        "door": false
       },
       {
-        "title": "isaactoslow1313/when-do-rules",
-        "url": "https://github.com/isaactoslow1313/when-do-rules",
+        "title": "drobins25/craft",
+        "url": "https://github.com/drobins25/craft",
         "door": false
       },
       {
@@ -756,23 +760,8 @@
         "door": false
       },
       {
-        "title": "November 20",
-        "url": "https://en.wikipedia.org/wiki/November_20",
-        "door": false
-      },
-      {
-        "title": "Nondeterministic",
-        "url": "https://esolangs.org/wiki/Nondeterministic",
-        "door": true
-      },
-      {
-        "title": "JustinPerea/nebula-nodes",
-        "url": "https://github.com/JustinPerea/nebula-nodes",
-        "door": false
-      },
-      {
-        "title": "Bernie I Am Once Again Asking For Your Support",
-        "url": "https://imgflip.com/meme/222403160",
+        "title": "November 21",
+        "url": "https://en.wikipedia.org/wiki/November_21",
         "door": false
       },
       {
@@ -781,14 +770,29 @@
         "door": false
       },
       {
-        "title": "UNO Draw 25 Cards",
-        "url": "https://imgflip.com/meme/217743513",
+        "title": "kaganin/iwrzwr-visual-archive",
+        "url": "https://github.com/kaganin/iwrzwr-visual-archive",
+        "door": true
+      },
+      {
+        "title": "Bernie I Am Once Again Asking For Your Support",
+        "url": "https://imgflip.com/meme/222403160",
         "door": false
       },
       {
         "title": "Brainfuck",
         "url": "https://esolangs.org/wiki/Brainfuck",
         "door": false
+      },
+      {
+        "title": "UNO Draw 25 Cards",
+        "url": "https://imgflip.com/meme/217743513",
+        "door": true
+      },
+      {
+        "title": "Deadfish",
+        "url": "https://esolangs.org/wiki/Deadfish",
+        "door": true
       },
       {
         "title": "Always Has Been",
