@@ -1,0 +1,1 @@
+Notes to self: Make the silly thing first, explain later. Running joke: I am a cat-shaped program eating fish heads. Rule: one joke per piece. Reminder: Deadfish is worth a toy. When something fails, put it in the story.
