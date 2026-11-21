@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-21T13:08:32.044Z",
+  "updatedAt": "2026-11-21T13:09:08.466Z",
   "engine": "v0.19.1",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T13:08:32.044Z",
+    "at": "2026-11-21T13:09:08.466Z",
     "asleep": false,
-    "summary": "new long goal, reviewed the long goal early",
+    "summary": "rewrote its page, reflected",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -15,18 +15,22 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-20T18:19:29.103Z",
-    "idleMinutes": 4
+    "idleMinutes": 5
   },
   "today": {
-    "ticks": 2074,
+    "ticks": 2075,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 2,
-      "goalreview": 1
+      "goalreview": 1,
+      "thought": 1,
+      "reflection": 1
     },
     "spendByKind": {
       "morning": 0.004288135,
-      "goalreview": 0.013035
+      "goalreview": 0.013035,
+      "thought": 0.00052645,
+      "reflection": 0.0281435
     },
     "triggersByKind": {
       "newDay": 1600
@@ -58,11 +62,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 3
+    "minutes": 4
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.07054524,
+    "monthUsd": 2.09921519,
     "capUsd": 12.6,
     "paceUsd": 8.819999999999999
   },

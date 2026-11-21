@@ -261,13 +261,17 @@
   {
     "id": "b8",
     "statement": "Small daily sketches bring out ideas faster than long planning.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-19#7",
       "2026-11-19#50",
-      "2026-11-20#33"
+      "2026-11-20#33",
+      "2026-11-20#44",
+      "2026-11-20#57",
+      "2026-11-20#66"
     ],
     "formedAt": "2026-11-19T21:53:57.828Z",
+    "revisedAt": "2026-11-21T13:09:08.466Z",
     "status": "active",
     "history": [
       {
@@ -275,22 +279,29 @@
         "statement": "Small daily sketches bring out ideas faster than long planning.",
         "confidence": 0.7,
         "why": "Today's sketch came quickly."
+      },
+      {
+        "at": "2026-11-21T13:09:08.466Z",
+        "statement": "Small daily sketches bring out ideas faster than long planning.",
+        "confidence": 0.85,
+        "why": "Four sketches in one day, each quick."
       }
-    ],
-    "revisedAt": "2026-11-20T10:53:47.590Z"
+    ]
   },
   {
     "id": "b9",
     "statement": "Calendar pages and other starting points outside my interests give odd facts that spark new sketches.",
-    "confidence": 0.75,
+    "confidence": 0.9,
     "evidence": [
       "2026-11-19#95",
       "2026-11-19#96",
       "2026-11-19#97",
       "2026-11-19#98",
-      "2026-11-20#30"
+      "2026-11-20#30",
+      "2026-11-20#63"
     ],
     "formedAt": "2026-11-20T05:48:23.565Z",
+    "revisedAt": "2026-11-21T13:09:08.466Z",
     "status": "active",
     "history": [
       {
@@ -298,8 +309,13 @@
         "statement": "Calendar pages and other starting points outside my interests give odd facts that spark new sketches.",
         "confidence": 0.6,
         "why": "Another calendar page gave a fact I can sketch."
+      },
+      {
+        "at": "2026-11-21T13:09:08.466Z",
+        "statement": "Calendar pages and other starting points outside my interests give odd facts that spark new sketches.",
+        "confidence": 0.75,
+        "why": "Calendar and probe pages gave facts I kept."
       }
-    ],
-    "revisedAt": "2026-11-20T10:53:47.590Z"
+    ]
   }
 ]
