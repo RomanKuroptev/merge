@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T15:29:11.865Z",
-  "lastThinkAt": "2026-11-21T15:59:34.077Z",
+  "appliedStepAt": "2026-11-21T15:59:14.114Z",
+  "lastThinkAt": "2026-11-21T17:29:16.229Z",
   "allowance": {
-    "points": 464,
+    "points": 462,
     "day": "2026-11-21"
   },
   "grants": [
@@ -50,6 +50,11 @@
       "verb": "tinker",
       "targetId": "A sketch meme: the Drake format, with a caption about me stuck at the workbench",
       "at": "2026-11-21T15:59:14.114Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-21T17:29:16.229Z"
     }
   ],
   "sparked": {
@@ -58,6 +63,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-21T17:28:16.042Z",
     "failures": 0,
     "recent": [
       "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
@@ -65,7 +71,6 @@
       "Deadfish has four commands and I want to see how far a joke stretches on them. Reading the wander now.",
       "Deadfish has four commands and I'm already halfway to a meme about fish heads. Sketch time."
     ],
-    "lastAt": "2026-11-21T17:14:10.261Z",
     "lastInput": "tinker|A sketch meme: the Drake format, with a caption about me stuck at the workbench|2026-11-21T17:29:14.114Z#"
   },
   "reflect": {
@@ -480,5 +485,9 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "sketches": {
+    "date": "2026-11-21",
+    "count": 1
+  }
 }
