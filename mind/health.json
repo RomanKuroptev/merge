@@ -1,38 +1,40 @@
 {
-  "updatedAt": "2026-11-21T20:21:04.672Z",
+  "updatedAt": "2026-11-21T20:36:14.638Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T20:21:04.672Z",
+    "at": "2026-11-21T20:36:14.638Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/3: write, wandered from https://esolangs.org/wiki/Esoteric_programming_language",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:4ae364e9",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
-      "until": "2026-11-21T20:36:07.260Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Drake Rejects Fishheads",
+      "until": "2026-11-21T20:56:14.638Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T20:06:07.260Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2524,
+    "ticks": 2540,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 12,
+      "thought": 13,
       "reflection": 3,
       "decide": 5,
-      "read": 7,
+      "read": 13,
       "vision": 3,
       "sketch": 1,
       "tend": 1,
@@ -41,10 +43,10 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.005443684999999999,
+      "thought": 0.005952409999999999,
       "reflection": 0.0692795,
       "decide": 0.00682875,
-      "read": 0.0020834,
+      "read": 0.005016400000000001,
       "vision": 0.00079178,
       "sketch": 0.0323595,
       "tend": 0.001147825,
@@ -53,7 +55,7 @@
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 7,
+      "stepDone": 8,
       "sparked": 1,
       "reflected": 2
     },
@@ -71,13 +73,14 @@
       "write Deadfish": 1,
       "rest": 1,
       "wander https://www.dwitter.net/d/36697": 1,
-      "wander https://esolangs.org/wiki/Esoteric_programming_language": 1
+      "wander https://esolangs.org/wiki/Esoteric_programming_language": 1,
+      "write Drake Rejects Fishheads": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 7,
+      "used": 13,
       "max": 40
     }
   },
@@ -85,21 +88,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.516
+      "share": 0.485
     }
   },
   "allowance": {
-    "points": 443,
+    "points": 433,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 147
+    "minutes": 162
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.1917345,
+    "monthUsd": 2.19517623,
     "capUsd": 15,
     "paceUsd": 10.5
   },
@@ -120,14 +123,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 3,
-      "strangers": 3,
+      "trips": 4,
+      "strangers": 4,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.516,
+      "share": 0.485,
       "wouldFire": false
     },
     "draws": {
@@ -143,7 +146,6 @@
     }
   },
   "warnings": [
-    "1650 failed calls today",
-    "\"wander\" was 56% of the week's 9 steps"
+    "1650 failed calls today"
   ]
 }

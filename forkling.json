@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-21T20:19:26.300Z",
-    "seed": 2109836473,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-21T20:36:14.638Z",
+    "seed": 1958681130,
+    "reason": "Caption my Drake sketch so the fishhead joke has a label a stranger can read.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-21T20:20:04.413Z",
+  "lastTickAt": "2026-11-21T20:36:14.638Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

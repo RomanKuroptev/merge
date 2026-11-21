@@ -185,9 +185,9 @@
       ]
     },
     "esoteric programming languages": {
-      "weight": 14,
+      "weight": 18,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -200,6 +200,12 @@
           "title": "Deadfish",
           "url": "https://esolangs.org/wiki/Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Malbolge",
+          "url": "https://esolangs.org/wiki/Malbolge",
+          "at": "2026-11-21T20:36:14.638Z"
         }
       ],
       "history": [
@@ -214,6 +220,12 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
         }
       ]
     },
@@ -269,9 +281,9 @@
       ]
     },
     "esoteric languages": {
-      "weight": 14,
+      "weight": 68,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -280,10 +292,28 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "2026-11-21-2deadfish",
-          "title": "2Deadfish",
-          "url": "https://esolangs.org/wiki/2Deadfish",
-          "at": "2026-11-21T15:59:14.114Z"
+          "id": "trail:2026-11-21-4",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-shakespeare",
+          "title": "Shakespeare",
+          "url": "https://esolangs.org/wiki/Shakespeare",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-21T20:36:14.638Z"
         }
       ],
       "history": [
@@ -298,13 +328,67 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
         }
       ]
     },
     "program flow": {
-      "weight": 14,
+      "weight": 46,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -317,6 +401,24 @@
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Shakespeare",
+          "url": "https://esolangs.org/wiki/Shakespeare",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-shakespeare",
+          "title": "Shakespeare",
+          "url": "https://esolangs.org/wiki/Shakespeare",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-21T20:36:14.638Z"
         }
       ],
       "history": [
@@ -331,6 +433,36 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
         }
       ]
     },
@@ -427,6 +559,222 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-3"
+        }
+      ]
+    },
+    "programming language history": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "code golf": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-esoteric-programming-language",
+          "title": "Esoteric programming language",
+          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "shakespeare language": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Shakespeare",
+          "url": "https://esolangs.org/wiki/Shakespeare",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-shakespeare",
+          "title": "Shakespeare",
+          "url": "https://esolangs.org/wiki/Shakespeare",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "brainfuck": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "2026-11-21-brainfuck",
+          "title": "brainfuck",
+          "url": "https://esolangs.org/wiki/brainfuck",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "pointers": {
+      "weight": 4,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Pointer",
+          "url": "https://esolangs.org/wiki/Pointer",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "malbolge": {
+      "weight": 4,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Malbolge",
+          "url": "https://esolangs.org/wiki/Malbolge",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "malbolge unshackled": {
+      "weight": 4,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Malbolge Unshackled",
+          "url": "https://esolangs.org/wiki/Malbolge_Unshackled",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "turing completeness": {
+      "weight": 4,
+      "firstSeen": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-21T20:36:14.638Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-4",
+          "title": "Malbolge Unshackled",
+          "url": "https://esolangs.org/wiki/Malbolge_Unshackled",
+          "at": "2026-11-21T20:36:14.638Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T20:36:14.638Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-4"
         }
       ]
     }

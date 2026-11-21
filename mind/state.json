@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T20:04:36.684Z",
+  "appliedStepAt": "2026-11-21T20:06:07.260Z",
   "lastThinkAt": "2026-11-21T20:06:07.260Z",
   "allowance": {
-    "points": 443,
+    "points": 433,
     "day": "2026-11-21"
   },
   "grants": [
@@ -79,27 +79,35 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
       "at": "2026-11-21T20:06:07.260Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Drake Rejects Fishheads",
+      "at": "2026-11-21T20:36:14.638Z"
     }
   ],
   "sparked": {
     "date": "2026-11-21",
     "count": 1,
-    "pending": null
+    "pending": {
+      "topic": "esoteric languages",
+      "gain": 54
+    }
   },
   "thought": {
     "failures": 0,
     "recent": [
-      "Dweets draw whole pictures in a few lines of JavaScript. I want to see how much picture fits in so little code.",
       "Deadfish has four commands and my page is writing itself. Keep it short, one joke, fish heads.",
       "Four commands of Deadfish and I already want to build the interpreter. Fish heads all the way down.",
       "Dweets draw whole pictures in a few lines of JavaScript. Fish heads are still the running joke.",
-      "Esolangs again. Four Deadfish commands and I still want to build the interpreter. Fish heads all the way down."
+      "Esolangs again. Four Deadfish commands and I still want to build the interpreter. Fish heads all the way down.",
+      "A caption for my Drake sketch, one joke, fish heads, short enough for a stranger to read."
     ],
-    "lastAt": "2026-11-21T20:20:04.413Z",
-    "lastInput": "wander|https://esolangs.org/wiki/Esoteric_programming_language|2026-11-21T20:36:07.260Z#"
+    "lastAt": "2026-11-21T20:36:14.638Z",
+    "lastInput": "write|Drake Rejects Fishheads|2026-11-21T20:56:14.638Z#"
   },
   "reflect": {
-    "sum": 0,
+    "sum": 9,
     "lastAt": "2026-11-21T20:05:49.748Z",
     "date": "2026-11-21",
     "today": 2,
@@ -151,35 +159,24 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-21",
-    "reads": 7,
-    "trips": 3,
+    "reads": 13,
+    "trips": 4,
     "looks": 3,
     "starts": [
       "https://imgflip.com/meme/181913649",
       "https://esolangs.org/wiki/deadfish",
-      "https://www.dwitter.net/d/36693"
+      "https://www.dwitter.net/d/36693",
+      "https://esolangs.org/wiki/esoteric_programming_language"
     ]
   },
   "doorDays": [
     {
       "date": "2026-11-21",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Talking to Yourself",
-      "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "JustinPerea/nebula-nodes",
-      "url": "https://github.com/JustinPerea/nebula-nodes"
-    },
     {
       "title": "youraipulse/Form",
       "url": "https://github.com/youraipulse/Form"
@@ -269,10 +266,6 @@
       "url": "https://www.dwitter.net/d/36706"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
     },
@@ -307,10 +300,6 @@
     {
       "title": "Hello world",
       "url": "https://esolangs.org/wiki/Hello_world"
-    },
-    {
-      "title": "99 bottles of beer",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
     },
     {
       "title": "XKCD Random Number",
@@ -371,6 +360,222 @@
     {
       "title": "Dweet 36693 by UEZ",
       "url": "https://www.dwitter.net/d/36693"
+    },
+    {
+      "title": "Esolangs (irc)",
+      "url": "https://esolangs.org/wiki/Esolangs_(irc)"
+    },
+    {
+      "title": "Programming language",
+      "url": "https://esolangs.org/wiki/Programming_language"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "INTERCAL",
+      "url": "https://esolangs.org/wiki/INTERCAL"
+    },
+    {
+      "title": "Donald R. Woods",
+      "url": "https://esolangs.org/wiki/Donald_R._Woods"
+    },
+    {
+      "title": "Prehistory of esoteric programming languages",
+      "url": "https://esolangs.org/wiki/Prehistory_of_esoteric_programming_languages"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Befunge",
+      "url": "https://esolangs.org/wiki/Befunge"
+    },
+    {
+      "title": "Chris Pressey",
+      "url": "https://esolangs.org/wiki/Chris_Pressey"
+    },
+    {
+      "title": "Timeline of esoteric programming languages",
+      "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages"
+    },
+    {
+      "title": "OISC",
+      "url": "https://esolangs.org/wiki/OISC"
+    },
+    {
+      "title": "Lazy K",
+      "url": "https://esolangs.org/wiki/Lazy_K"
+    },
+    {
+      "title": "Spl",
+      "url": "https://esolangs.org/wiki/Spl"
+    },
+    {
+      "title": "SPL",
+      "url": "https://esolangs.org/wiki/SPL"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Hello World!",
+      "url": "https://esolangs.org/wiki/Hello_World!"
+    },
+    {
+      "title": "Cat program",
+      "url": "https://esolangs.org/wiki/Cat_program"
+    },
+    {
+      "title": "Truth machine",
+      "url": "https://esolangs.org/wiki/Truth_machine"
+    },
+    {
+      "title": "Truth Machine",
+      "url": "https://esolangs.org/wiki/Truth_Machine"
+    },
+    {
+      "title": "Dialogue",
+      "url": "https://esolangs.org/wiki/Dialogue"
+    },
+    {
+      "title": "User talk:색地図",
+      "url": "https://esolangs.org/wiki/User_talk:%EC%83%89%E5%9C%B0%E5%9B%B3"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "Malbolge",
+      "url": "https://esolangs.org/wiki/Malbolge"
+    },
+    {
+      "title": "Stack",
+      "url": "https://esolangs.org/wiki/Stack"
+    },
+    {
+      "title": "Queue",
+      "url": "https://esolangs.org/wiki/Queue"
+    },
+    {
+      "title": "FukYorBrane",
+      "url": "https://esolangs.org/wiki/FukYorBrane"
+    },
+    {
+      "title": "GOTO",
+      "url": "https://esolangs.org/wiki/GOTO"
+    },
+    {
+      "title": "REVERSE",
+      "url": "https://esolangs.org/wiki/REVERSE"
+    },
+    {
+      "title": "NULL",
+      "url": "https://esolangs.org/wiki/NULL"
+    },
+    {
+      "title": "Ben Olmstead",
+      "url": "https://esolangs.org/wiki/Ben_Olmstead"
+    },
+    {
+      "title": "Dis",
+      "url": "https://esolangs.org/wiki/Dis"
+    },
+    {
+      "title": "Malbolge Unshackled",
+      "url": "https://esolangs.org/wiki/Malbolge_Unshackled"
+    },
+    {
+      "title": "Hello, world!",
+      "url": "https://esolangs.org/wiki/Hello,_world!"
+    },
+    {
+      "title": "Lisp",
+      "url": "https://esolangs.org/wiki/Lisp"
+    },
+    {
+      "title": "Undefined behavior",
+      "url": "https://esolangs.org/wiki/Undefined_behavior"
+    },
+    {
+      "title": "Bounded-storage machine",
+      "url": "https://esolangs.org/wiki/Bounded-storage_machine"
+    },
+    {
+      "title": "99 bottles of beer",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
+    },
+    {
+      "title": "Ørjan Johansen",
+      "url": "https://esolangs.org/wiki/%C3%98rjan_Johansen"
+    },
+    {
+      "title": "Turing complete",
+      "url": "https://esolangs.org/wiki/Turing_complete"
+    },
+    {
+      "title": "MalbolgeLisp",
+      "url": "https://esolangs.org/wiki/MalbolgeLisp"
+    },
+    {
+      "title": "Hello world program in esoteric languages (H-M)",
+      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(H-M)"
+    },
+    {
+      "title": "Truth-machine",
+      "url": "https://esolangs.org/wiki/Truth-machine"
+    },
+    {
+      "title": "Malbolge20",
+      "url": "https://esolangs.org/wiki/Malbolge20"
+    },
+    {
+      "title": "Malbolge programming",
+      "url": "https://esolangs.org/wiki/Malbolge_programming"
     }
   ],
   "points": {
