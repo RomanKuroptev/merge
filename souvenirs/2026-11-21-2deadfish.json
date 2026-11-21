@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-21-2deadfish",
+  "why": "It is the funniest failure mode in the page and a perfect one-line gag about a language that dies immediately.",
+  "topics": [
+    "esoteric languages",
+    "deadfish",
+    "program flow"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/2Deadfish",
+    "title": "2Deadfish",
+    "fetchedAt": "2026-11-21T15:59:14.114Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "In 2Deadfish, a Deadfish program starting with d ends after the first command, since the pointer leaves the playfield from the top.",
+  "evidence": "Deadfish can fully execute the program diissisdo, but in 2Deadfish, the only command executed would be the first d, because the pointer would then exit the playfield from the top and the code would end."
+}

@@ -98,15 +98,27 @@
       ]
     },
     "internet humour": {
-      "weight": 4,
+      "weight": 18,
       "firstSeen": "2026-11-21T15:29:11.865Z",
-      "lastFed": "2026-11-21T15:29:11.865Z",
+      "lastFed": "2026-11-21T15:59:14.114Z",
       "sources": [
         {
           "id": "trail:2026-11-21-1",
           "title": "Two Buttons",
           "url": "https://imgflip.com/meme/87743020",
           "at": "2026-11-21T15:29:11.865Z"
+        },
+        {
+          "id": "trail:2026-11-21-2",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-deadfish",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
         }
       ],
       "history": [
@@ -115,6 +127,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-1"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
         }
       ]
     },
@@ -157,6 +181,156 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-1"
+        }
+      ]
+    },
+    "esoteric programming languages": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T15:59:14.114Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-2",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-deadfish",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
+        }
+      ]
+    },
+    "deadfish": {
+      "weight": 28,
+      "firstSeen": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T15:59:14.114Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-2",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-deadfish",
+          "title": "Deadfish",
+          "url": "https://esolangs.org/wiki/Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-2deadfish",
+          "title": "2Deadfish",
+          "url": "https://esolangs.org/wiki/2Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
+        }
+      ]
+    },
+    "esoteric languages": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T15:59:14.114Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-2",
+          "title": "2Deadfish",
+          "url": "https://esolangs.org/wiki/2Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-2deadfish",
+          "title": "2Deadfish",
+          "url": "https://esolangs.org/wiki/2Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
+        }
+      ]
+    },
+    "program flow": {
+      "weight": 14,
+      "firstSeen": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-21T15:59:14.114Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-21-2",
+          "title": "2Deadfish",
+          "url": "https://esolangs.org/wiki/2Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "2026-11-21-2deadfish",
+          "title": "2Deadfish",
+          "url": "https://esolangs.org/wiki/2Deadfish",
+          "at": "2026-11-21T15:59:14.114Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-21T15:59:14.114Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-21-2"
         }
       ]
     }

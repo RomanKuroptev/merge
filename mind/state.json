@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T14:59:02.415Z",
+  "appliedStepAt": "2026-11-21T15:29:11.865Z",
   "lastThinkAt": "2026-11-21T14:59:02.415Z",
   "allowance": {
-    "points": 494,
+    "points": 464,
     "day": "2026-11-21"
   },
   "grants": [
@@ -45,20 +45,25 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Deadfish",
       "at": "2026-11-21T15:29:11.865Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "A sketch meme: the Drake format, with a caption about me stuck at the workbench",
+      "at": "2026-11-21T15:59:14.114Z"
     }
   ],
   "thought": {
+    "lastAt": "2026-11-21T15:54:53.243Z",
     "failures": 0,
     "recent": [
       "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
       "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later.",
       "Deadfish has four commands and I want to see how far a joke stretches on them. Reading the wander now."
     ],
-    "lastAt": "2026-11-21T15:39:47.452Z",
     "lastInput": "wander|https://esolangs.org/wiki/Deadfish|2026-11-21T15:59:11.865Z#"
   },
   "reflect": {
-    "sum": 10,
+    "sum": 16,
     "lastAt": null,
     "date": "",
     "today": 0,
@@ -101,18 +106,19 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-21",
-    "reads": 3,
-    "trips": 1,
+    "reads": 5,
+    "trips": 2,
     "looks": 3,
     "starts": [
-      "https://imgflip.com/meme/181913649"
+      "https://imgflip.com/meme/181913649",
+      "https://esolangs.org/wiki/deadfish"
     ]
   },
   "doorDays": [
     {
       "date": "2026-11-21",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
@@ -225,10 +231,6 @@
       "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
     },
@@ -251,6 +253,66 @@
     {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Trivial deadfish substitution",
+      "url": "https://esolangs.org/wiki/Trivial_deadfish_substitution"
+    },
+    {
+      "title": "HQ9 Plus",
+      "url": "https://esolangs.org/wiki/HQ9_Plus"
+    },
+    {
+      "title": "Hello world",
+      "url": "https://esolangs.org/wiki/Hello_world"
+    },
+    {
+      "title": "99 bottles of beer",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
+    },
+    {
+      "title": "XKCD Random Number",
+      "url": "https://esolangs.org/wiki/XKCD_Random_Number"
+    },
+    {
+      "title": "Popular problem",
+      "url": "https://esolangs.org/wiki/Popular_problem"
+    },
+    {
+      "title": "Deadfish/Implementations (nonalphabetic and A-L)",
+      "url": "https://esolangs.org/wiki/Deadfish/Implementations_(nonalphabetic_and_A-L)"
+    },
+    {
+      "title": "Deadfish/Implementations (M-Z)",
+      "url": "https://esolangs.org/wiki/Deadfish/Implementations_(M-Z)"
+    },
+    {
+      "title": "Goldfish++",
+      "url": "https://esolangs.org/wiki/Goldfish%2B%2B"
+    },
+    {
+      "title": "Deadfish i",
+      "url": "https://esolangs.org/wiki/Deadfish_i"
+    },
+    {
+      "title": "Deadfish~",
+      "url": "https://esolangs.org/wiki/Deadfish~"
+    },
+    {
+      "title": "FISHQ9+",
+      "url": "https://esolangs.org/wiki/FISHQ9%2B"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Deadfish/Constants",
+      "url": "https://esolangs.org/wiki/Deadfish/Constants"
+    },
+    {
+      "title": "2Deadfish/Constants",
+      "url": "https://esolangs.org/wiki/2Deadfish/Constants"
     }
   ],
   "points": {
@@ -412,5 +474,13 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "sparked": {
+    "date": "2026-11-21",
+    "count": 0,
+    "pending": {
+      "topic": "deadfish",
+      "gain": 28
+    }
+  }
 }

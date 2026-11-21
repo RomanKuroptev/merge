@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-21T15:43:48.273Z",
+  "updatedAt": "2026-11-21T15:59:14.114Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T15:43:48.273Z",
+    "at": "2026-11-21T15:59:14.114Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/8: tinker, wandered from https://esolangs.org/wiki/Deadfish",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:804ac626",
-    "stepsLeft": 6,
+    "stepsLeft": 5,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Deadfish",
-      "until": "2026-11-21T15:59:11.865Z",
+      "index": 2,
+      "verb": "tinker",
+      "targetId": "A sketch meme: the Drake format, with a caption about me st…",
+      "until": "2026-11-21T17:29:14.114Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T14:59:02.415Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2232,
+    "ticks": 2248,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 4,
@@ -32,7 +34,7 @@
       "thought": 5,
       "reflection": 1,
       "decide": 2,
-      "read": 3,
+      "read": 5,
       "vision": 3
     },
     "spendByKind": {
@@ -41,13 +43,13 @@
       "thought": 0.002103905,
       "reflection": 0.0281435,
       "decide": 0.0032844500000000004,
-      "read": 0.0005564,
+      "read": 0.0015545,
       "vision": 0.00079178
     },
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 1
+      "stepDone": 2
     },
     "failures": 1650,
     "rejections": 1,
@@ -56,13 +58,14 @@
     "stepsStarted": {
       "tinker A Sketch Whose Code Is The Picture": 1,
       "wander https://imgflip.com/meme/181913649": 1,
-      "wander https://esolangs.org/wiki/Deadfish": 1
+      "wander https://esolangs.org/wiki/Deadfish": 1,
+      "tinker A sketch meme: the Drake format, with a caption about me st…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 3,
+      "used": 5,
       "max": 40
     }
   },
@@ -70,21 +73,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.54
+      "share": 0.528
     }
   },
   "allowance": {
-    "points": 494,
+    "points": 464,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 158
+    "minutes": 173
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.10819178,
+    "monthUsd": 2.10918988,
     "capUsd": 15,
     "paceUsd": 10.5
   },
@@ -103,14 +106,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 1,
-      "strangers": 1,
+      "trips": 2,
+      "strangers": 2,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.54,
+      "share": 0.528,
       "wouldFire": false
     },
     "draws": {

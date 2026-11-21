@@ -7,16 +7,16 @@
     0,
     12.8
   ],
-  "mood": 0.8,
-  "energy": 0.45,
+  "mood": 1,
+  "energy": 0.4,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-21T15:39:42.127Z",
-    "seed": 628891786,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-21T15:59:14.114Z",
+    "seed": 1958520134,
+    "reason": "Make my first meme sketch from the format I just read, and mock my own situation.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-21T15:39:47.452Z",
+  "lastTickAt": "2026-11-21T15:59:14.114Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
