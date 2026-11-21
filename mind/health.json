@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T20:36:14.638Z",
+  "updatedAt": "2026-11-21T20:50:28.459Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T20:36:14.638Z",
+    "at": "2026-11-21T20:50:28.459Z",
     "asleep": false,
-    "summary": "step 2/3: write, wandered from https://esolangs.org/wiki/Esoteric_programming_language",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,14 +24,14 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2540,
-    "decideCalls": 9,
+    "ticks": 2555,
+    "decideCalls": 10,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 13,
+      "thought": 14,
       "reflection": 3,
-      "decide": 5,
+      "decide": 6,
       "read": 13,
       "vision": 3,
       "sketch": 1,
@@ -43,9 +41,9 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.005952409999999999,
+      "thought": 0.006079139999999999,
       "reflection": 0.0692795,
-      "decide": 0.00682875,
+      "decide": 0.007879549999999999,
       "read": 0.005016400000000001,
       "vision": 0.00079178,
       "sketch": 0.0323595,
@@ -56,7 +54,7 @@
       "newDay": 1601,
       "replan": 1,
       "stepDone": 8,
-      "sparked": 1,
+      "sparked": 2,
       "reflected": 2
     },
     "failures": 1650,
@@ -98,11 +96,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 162
+    "minutes": 177
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.19517623,
+    "monthUsd": 2.19635376,
     "capUsd": 15,
     "paceUsd": 10.5
   },
