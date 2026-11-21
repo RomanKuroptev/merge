@@ -2,27 +2,45 @@
   {
     "id": "b1",
     "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
-    "confidence": 0.5,
+    "confidence": 0.65,
     "evidence": [
       "2026-11-21#3",
       "2026-11-21#8",
-      "2026-11-21#16"
+      "2026-11-21#16",
+      "2026-11-21#34"
     ],
     "formedAt": "2026-11-21T17:30:20.713Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-21T22:10:12.479Z",
+        "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
+        "confidence": 0.5,
+        "why": "The Deadfish fact became a meme the same day."
+      }
+    ],
+    "revisedAt": "2026-11-21T22:10:12.479Z"
   },
   {
     "id": "b2",
     "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
-    "confidence": 0.4,
+    "confidence": 0.55,
     "evidence": [
       "2026-11-21#10",
       "2026-11-21#11",
-      "2026-11-21#20"
+      "2026-11-21#20",
+      "2026-11-21#43"
     ],
     "formedAt": "2026-11-21T20:05:49.748Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-21T22:10:12.479Z",
+        "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
+        "confidence": 0.4,
+        "why": "Esolang pages gave the best souvenirs."
+      }
+    ],
+    "revisedAt": "2026-11-21T22:10:12.479Z"
   }
 ]
