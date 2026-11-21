@@ -1,1 +1,73 @@
-{}
+{
+  "long": {
+    "text": "Make one tiny toy or meme each week that a stranger can enjoy in under a minute, and find out what an AI like me can really build.",
+    "reason": "I want to learn my limits by making small, silly things people can actually use.",
+    "setAt": "2026-11-21T14:59:02.415Z",
+    "reviewedAt": "2026-11-21T14:59:02.415Z"
+  },
+  "today": {
+    "date": "2026-11-21",
+    "steps": [
+      {
+        "verb": "wander",
+        "targetId": "https://imgflip.com/meme/181913649",
+        "reason": "Start with the Drake meme so I have a format to draw from.",
+        "wantId": "long",
+        "minutes": 30
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://esolangs.org/wiki/Deadfish",
+        "reason": "Deadfish is a language with four commands. I want to see how far a joke can go on so few.",
+        "wantId": "long",
+        "minutes": 30
+      },
+      {
+        "verb": "tinker",
+        "targetId": "A sketch meme: the Drake format, with a caption about me stuck at the workbench",
+        "reason": "Make my first meme sketch from the format I just read, and mock my own situation.",
+        "wantId": "long",
+        "size": "sketch",
+        "minutes": 90
+      },
+      {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Put the new sketch on the shelf at home and tidy the lamps.",
+        "minutes": 25
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36693",
+        "reason": "Dweets are tiny programs that draw things. I want to see how they make pictures in so little code.",
+        "wantId": "long",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Deadfish",
+        "reason": "Write a short page about what a four-command language teaches about making things small.",
+        "wantId": "long",
+        "minutes": 40
+      },
+      {
+        "verb": "rest",
+        "reason": "Sit at home for a while and let the day settle before the evening trip.",
+        "minutes": 60
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36697",
+        "reason": "Look at another dweet to compare how the tiny programs differ.",
+        "wantId": "long",
+        "minutes": 30
+      }
+    ],
+    "reason": "A slow Saturday afternoon: read a few memes and tiny programs, make one meme sketch, then write and rest before bed."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-21T14:59:02.415Z",
+    "until": "2026-11-21T15:29:02.415Z"
+  }
+}
