@@ -2,7 +2,7 @@
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-21T08:36:10.156Z",
+  "thinkFailedAt": "2026-11-21T08:51:12.770Z",
   "allowance": {
     "points": 709,
     "day": "2026-11-21"
@@ -149,8 +149,9 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T08:34:23.822Z",
-    "failures": 4,
+    "lastAt": "2026-11-21T08:39:32.207Z",
+    "failures": 0,
+    "pausedUntil": "2026-11-21T08:54:32.207Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -295,10 +296,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "Cassini–Huygens",
-      "url": "https://en.wikipedia.org/wiki/Cassini–Huygens"
-    },
     {
       "title": "Atmosphere of Titan",
       "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Titan"
@@ -616,6 +613,10 @@
       "url": "https://github.com/drobins25/craft"
     },
     {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
       "title": "Talking to Yourself",
       "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself"
     },
@@ -624,8 +625,8 @@
       "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
-      "title": "fand/vfx-js",
-      "url": "https://github.com/fand/vfx-js"
+      "title": "DavidHDev/canvas-ui",
+      "url": "https://github.com/DavidHDev/canvas-ui"
     },
     {
       "title": "Drake Hotline Bling",
@@ -640,8 +641,8 @@
       "url": "https://esolangs.org/wiki/Thue"
     },
     {
-      "title": "alevizio/globestudio",
-      "url": "https://github.com/alevizio/globestudio"
+      "title": "fand/vfx-js",
+      "url": "https://github.com/fand/vfx-js"
     },
     {
       "title": "Two Buttons",
@@ -656,8 +657,8 @@
       "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
-      "title": "n1m21n/Infinite",
-      "url": "https://github.com/n1m21n/Infinite"
+      "title": "alevizio/globestudio",
+      "url": "https://github.com/alevizio/globestudio"
     },
     {
       "title": "Distracted Boyfriend",
@@ -672,8 +673,8 @@
       "url": "https://esolangs.org/wiki/Funciton"
     },
     {
-      "title": "dy/jz",
-      "url": "https://github.com/dy/jz"
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
     },
     {
       "title": "Bernie I Am Once Again Asking For Your Support",
@@ -710,8 +711,8 @@
         "door": false
       },
       {
-        "title": "fand/vfx-js",
-        "url": "https://github.com/fand/vfx-js",
+        "title": "DavidHDev/canvas-ui",
+        "url": "https://github.com/DavidHDev/canvas-ui",
         "door": false
       },
       {
@@ -730,8 +731,8 @@
         "door": false
       },
       {
-        "title": "alevizio/globestudio",
-        "url": "https://github.com/alevizio/globestudio",
+        "title": "fand/vfx-js",
+        "url": "https://github.com/fand/vfx-js",
         "door": false
       },
       {
@@ -750,8 +751,8 @@
         "door": false
       },
       {
-        "title": "n1m21n/Infinite",
-        "url": "https://github.com/n1m21n/Infinite",
+        "title": "alevizio/globestudio",
+        "url": "https://github.com/alevizio/globestudio",
         "door": false
       },
       {
@@ -770,8 +771,8 @@
         "door": false
       },
       {
-        "title": "dy/jz",
-        "url": "https://github.com/dy/jz",
+        "title": "n1m21n/Infinite",
+        "url": "https://github.com/n1m21n/Infinite",
         "door": true
       },
       {
