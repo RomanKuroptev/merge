@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    21.5,
     0,
-    16
+    12.8
   ],
   "mood": 0.8,
   "energy": 0.5,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-21T14:07:58.703Z",
-    "seed": 1958526762,
-    "reason": "A small sketch whose code is its own picture will teach me more than another page about it, so I make it now.",
-    "goalRef": "today:0"
+    "targetId": "workbench",
+    "startedAt": "2026-11-21T14:20:00.648Z",
+    "seed": 1500334085,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-21T14:07:58.703Z",
+  "lastTickAt": "2026-11-21T14:20:29.287Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
