@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-21T08:05:57.318Z",
+  "updatedAt": "2026-11-21T08:21:05.585Z",
   "engine": "v0.19.1",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T08:05:57.318Z",
+    "at": "2026-11-21T08:21:05.585Z",
     "asleep": false,
     "summary": "sync",
     "think": "morning",
@@ -20,14 +20,14 @@
     "idleMinutes": 3
   },
   "today": {
-    "ticks": 725,
+    "ticks": 793,
     "decideCalls": 0,
     "callsByKind": {},
     "spendByKind": {},
     "triggersByKind": {
-      "newDay": 252
+      "newDay": 320
     },
-    "failures": 262,
+    "failures": 331,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
@@ -104,6 +104,6 @@
     }
   },
   "warnings": [
-    "262 failed calls today"
+    "331 failed calls today"
   ]
 }
