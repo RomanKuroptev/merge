@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-21T15:29:11.865Z",
+  "updatedAt": "2026-11-21T15:43:48.273Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T15:29:11.865Z",
+    "at": "2026-11-21T15:43:48.273Z",
     "asleep": false,
-    "summary": "step 2/8: wander, wandered from https://imgflip.com/meme/181913649",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2216,
+    "ticks": 2232,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
-      "thought": 4,
+      "thought": 5,
       "reflection": 1,
       "decide": 2,
       "read": 3,
@@ -40,7 +38,7 @@
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
-      "thought": 0.00160108,
+      "thought": 0.002103905,
       "reflection": 0.0281435,
       "decide": 0.0032844500000000004,
       "read": 0.0005564,
@@ -82,11 +80,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 143
+    "minutes": 158
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.10768896,
+    "monthUsd": 2.10819178,
     "capUsd": 15,
     "paceUsd": 10.5
   },

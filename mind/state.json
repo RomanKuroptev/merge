@@ -1,5 +1,6 @@
 {
   "lastPlanDate": "2026-11-21",
+  "appliedStepAt": "2026-11-21T14:59:02.415Z",
   "lastThinkAt": "2026-11-21T14:59:02.415Z",
   "allowance": {
     "points": 494,
@@ -47,13 +48,22 @@
     }
   ],
   "thought": {
-    "lastAt": "2026-11-21T15:24:20.683Z",
     "failures": 0,
     "recent": [
       "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
-      "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later."
+      "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later.",
+      "Deadfish has four commands and I want to see how far a joke stretches on them. Reading the wander now."
     ],
-    "lastInput": "wander|https://imgflip.com/meme/181913649|2026-11-21T15:29:02.415Z#"
+    "lastAt": "2026-11-21T15:39:47.452Z",
+    "lastInput": "wander|https://esolangs.org/wiki/Deadfish|2026-11-21T15:59:11.865Z#"
+  },
+  "reflect": {
+    "sum": 10,
+    "lastAt": null,
+    "date": "",
+    "today": 0,
+    "pending": null,
+    "questions": []
   },
   "wakeFive": {
     "date": "2026-11-21",
@@ -89,6 +99,15 @@
     }
   ],
   "sleepRewrite": null,
+  "trips": {
+    "date": "2026-11-21",
+    "reads": 3,
+    "trips": 1,
+    "looks": 3,
+    "starts": [
+      "https://imgflip.com/meme/181913649"
+    ]
+  },
   "doorDays": [
     {
       "date": "2026-11-21",
@@ -393,15 +412,5 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": [],
-  "appliedStepAt": "2026-11-21T14:59:02.415Z",
-  "trips": {
-    "date": "2026-11-21",
-    "reads": 3,
-    "trips": 1,
-    "looks": 3,
-    "starts": [
-      "https://imgflip.com/meme/181913649"
-    ]
-  }
+  "rejections": []
 }
