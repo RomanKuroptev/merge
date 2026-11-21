@@ -1,29 +1,26 @@
 {
-  "updatedAt": "2026-11-21T21:10:42.553Z",
+  "updatedAt": "2026-11-21T21:26:28.652Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T21:10:42.553Z",
+    "at": "2026-11-21T21:26:28.652Z",
     "asleep": false,
     "summary": "sync",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:4ae364e9",
     "stepsLeft": 0,
-    "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-21T21:26:22.445Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-21T20:06:07.260Z",
-    "idleMinutes": 0
+    "idleMinutes": 1
   },
   "today": {
-    "ticks": 2577,
+    "ticks": 2593,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 4,
@@ -52,7 +49,7 @@
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "sparked": 2,
       "reflected": 2
     },
@@ -95,7 +92,7 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 198
+    "minutes": 214
   },
   "needsCritical": {},
   "spend": {
