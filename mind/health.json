@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-21T19:49:39.374Z",
+  "updatedAt": "2026-11-21T20:04:36.684Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T19:49:39.374Z",
+    "at": "2026-11-21T20:04:36.684Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 8/8: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:804ac626",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 6,
-      "verb": "rest",
-      "until": "2026-11-21T20:04:31.975Z",
+      "index": 7,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36697",
+      "until": "2026-11-21T20:34:36.684Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T14:59:02.415Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2490,
+    "ticks": 2506,
     "decideCalls": 8,
     "callsByKind": {
       "morning": 4,
@@ -52,7 +55,7 @@
     "triggersByKind": {
       "newDay": 1601,
       "replan": 1,
-      "stepDone": 6,
+      "stepDone": 7,
       "sparked": 1,
       "reflected": 1
     },
@@ -68,7 +71,8 @@
       "tend home": 1,
       "wander https://www.dwitter.net/d/36693": 1,
       "write Deadfish": 1,
-      "rest": 1
+      "rest": 1,
+      "wander https://www.dwitter.net/d/36697": 1
     },
     "longestGapMinutes": 2
   },
@@ -86,13 +90,13 @@
     }
   },
   "allowance": {
-    "points": 449,
+    "points": 446,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 116
+    "minutes": 131
   },
   "needsCritical": {},
   "spend": {

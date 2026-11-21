@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-21T19:49:34.146Z",
-    "seed": 2017480061,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-21T20:04:36.684Z",
+    "seed": 1958536128,
+    "reason": "Look at another dweet to compare how the tiny programs differ.",
+    "goalRef": "today:7"
   },
-  "lastTickAt": "2026-11-21T19:49:39.374Z",
+  "lastTickAt": "2026-11-21T20:04:36.684Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

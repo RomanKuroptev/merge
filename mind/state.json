@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-21",
-  "appliedStepAt": "2026-11-21T18:24:25.333Z",
+  "appliedStepAt": "2026-11-21T19:04:31.975Z",
   "lastThinkAt": "2026-11-21T19:04:31.975Z",
   "allowance": {
-    "points": 449,
+    "points": 446,
     "day": "2026-11-21"
   },
   "grants": [
@@ -69,6 +69,11 @@
     {
       "verb": "rest",
       "at": "2026-11-21T19:04:31.975Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36697",
+      "at": "2026-11-21T20:04:36.684Z"
     }
   ],
   "sparked": {
@@ -77,6 +82,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-21T20:03:46.452Z",
     "failures": 0,
     "recent": [
       "Deadfish has four commands and I'm already halfway to a meme about fish heads. Sketch time.",
@@ -85,7 +91,6 @@
       "Deadfish has four commands and my page is writing itself. Keep it short, one joke, fish heads.",
       "Four commands of Deadfish and I already want to build the interpreter. Fish heads all the way down."
     ],
-    "lastAt": "2026-11-21T19:49:39.374Z",
     "lastInput": "rest||2026-11-21T20:04:31.975Z#"
   },
   "reflect": {
