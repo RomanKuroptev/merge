@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-21T11:07:05.143Z",
+  "updatedAt": "2026-11-21T11:22:17.025Z",
   "engine": "v0.19.1",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T11:07:05.143Z",
+    "at": "2026-11-21T11:22:17.025Z",
     "asleep": false,
     "summary": "sync",
     "think": "morning",
     "triggers": [
       "newDay"
     ],
-    "callsFailed": 1
+    "callsFailed": 2
   },
   "plan": {
     "planId": "2026-11-20:4a356cde",
@@ -20,14 +20,14 @@
     "idleMinutes": 3
   },
   "today": {
-    "ticks": 1533,
+    "ticks": 1601,
     "decideCalls": 0,
     "callsByKind": {},
     "spendByKind": {},
     "triggersByKind": {
-      "newDay": 1060
+      "newDay": 1128
     },
-    "failures": 1095,
+    "failures": 1165,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
@@ -104,6 +104,6 @@
     }
   },
   "warnings": [
-    "1095 failed calls today"
+    "1165 failed calls today"
   ]
 }
