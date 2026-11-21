@@ -2,7 +2,7 @@
   "lastPlanDate": "2026-11-20",
   "appliedStepAt": "2026-11-20T20:54:51.545Z",
   "lastThinkAt": "2026-11-20T18:19:29.103Z",
-  "thinkFailedAt": "2026-11-21T10:21:41.556Z",
+  "thinkFailedAt": "2026-11-21T10:36:42.416Z",
   "allowance": {
     "points": 709,
     "day": "2026-11-21"
@@ -149,8 +149,9 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T10:21:14.795Z",
-    "failures": 4,
+    "lastAt": "2026-11-21T10:26:25.801Z",
+    "failures": 0,
+    "pausedUntil": "2026-11-21T10:41:25.801Z",
     "replans": {
       "date": "2026-11-17",
       "count": 2
@@ -295,10 +296,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "List of minor planet discoverers",
-      "url": "https://en.wikipedia.org/wiki/List_of_minor_planet_discoverers"
-    },
     {
       "title": "Christiaan Huygens",
       "url": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
@@ -616,6 +613,10 @@
       "url": "https://github.com/alevizio/globestudio"
     },
     {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
       "title": "Talking to Yourself",
       "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself"
     },
@@ -624,8 +625,8 @@
       "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
+      "title": "isaactoslow1313/when-do-rules",
+      "url": "https://github.com/isaactoslow1313/when-do-rules"
     },
     {
       "title": "Drake Hotline Bling",
@@ -640,8 +641,8 @@
       "url": "https://esolangs.org/wiki/Thue"
     },
     {
-      "title": "DavidHDev/canvas-ui",
-      "url": "https://github.com/DavidHDev/canvas-ui"
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
     },
     {
       "title": "Two Buttons",
@@ -656,8 +657,8 @@
       "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
-      "title": "fand/vfx-js",
-      "url": "https://github.com/fand/vfx-js"
+      "title": "DavidHDev/canvas-ui",
+      "url": "https://github.com/DavidHDev/canvas-ui"
     },
     {
       "title": "Distracted Boyfriend",
@@ -672,8 +673,8 @@
       "url": "https://esolangs.org/wiki/Funciton"
     },
     {
-      "title": "n1m21n/Infinite",
-      "url": "https://github.com/n1m21n/Infinite"
+      "title": "fand/vfx-js",
+      "url": "https://github.com/fand/vfx-js"
     },
     {
       "title": "Bernie I Am Once Again Asking For Your Support",
@@ -710,8 +711,8 @@
         "door": false
       },
       {
-        "title": "GraphiteEditor/Graphite",
-        "url": "https://github.com/GraphiteEditor/Graphite",
+        "title": "isaactoslow1313/when-do-rules",
+        "url": "https://github.com/isaactoslow1313/when-do-rules",
         "door": false
       },
       {
@@ -730,8 +731,8 @@
         "door": false
       },
       {
-        "title": "DavidHDev/canvas-ui",
-        "url": "https://github.com/DavidHDev/canvas-ui",
+        "title": "GraphiteEditor/Graphite",
+        "url": "https://github.com/GraphiteEditor/Graphite",
         "door": false
       },
       {
@@ -750,8 +751,8 @@
         "door": false
       },
       {
-        "title": "fand/vfx-js",
-        "url": "https://github.com/fand/vfx-js",
+        "title": "DavidHDev/canvas-ui",
+        "url": "https://github.com/DavidHDev/canvas-ui",
         "door": false
       },
       {
@@ -770,14 +771,14 @@
         "door": false
       },
       {
-        "title": "n1m21n/Infinite",
-        "url": "https://github.com/n1m21n/Infinite",
+        "title": "fand/vfx-js",
+        "url": "https://github.com/fand/vfx-js",
         "door": true
       },
       {
         "title": "Bernie I Am Once Again Asking For Your Support",
         "url": "https://imgflip.com/meme/222403160",
-        "door": false
+        "door": true
       },
       {
         "title": "Brainfuck",
@@ -787,17 +788,17 @@
       {
         "title": "UNO Draw 25 Cards",
         "url": "https://imgflip.com/meme/217743513",
-        "door": true
+        "door": false
       },
       {
         "title": "Deadfish",
         "url": "https://esolangs.org/wiki/Deadfish",
-        "door": true
+        "door": false
       },
       {
         "title": "Always Has Been",
         "url": "https://imgflip.com/meme/252600902",
-        "door": false
+        "door": true
       }
     ]
   },
