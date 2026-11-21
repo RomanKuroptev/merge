@@ -2,7 +2,7 @@
   "lastPlanDate": "2026-11-21",
   "lastThinkAt": "2026-11-21T14:59:02.415Z",
   "allowance": {
-    "points": 497,
+    "points": 494,
     "day": "2026-11-21"
   },
   "grants": [
@@ -39,15 +39,20 @@
       "verb": "wander",
       "targetId": "https://imgflip.com/meme/181913649",
       "at": "2026-11-21T14:59:02.415Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Deadfish",
+      "at": "2026-11-21T15:29:11.865Z"
     }
   ],
   "thought": {
+    "lastAt": "2026-11-21T15:24:20.683Z",
     "failures": 0,
     "recent": [
       "Quiet morning, nothing new. Maybe a small sketch or a wander to see what the internet is laughing about today.",
       "Starting on the Drake meme page. A format to borrow, maybe a silly sketch later."
     ],
-    "lastAt": "2026-11-21T15:09:14.305Z",
     "lastInput": "wander|https://imgflip.com/meme/181913649|2026-11-21T15:29:02.415Z#"
   },
   "wakeFive": {
@@ -84,7 +89,13 @@
     }
   ],
   "sleepRewrite": null,
-  "doorDays": [],
+  "doorDays": [
+    {
+      "date": "2026-11-21",
+      "trips": 1,
+      "strangers": 1
+    }
+  ],
   "seen": [
     {
       "title": "Talking to Yourself",
@@ -101,10 +112,6 @@
     {
       "title": "youraipulse/Form",
       "url": "https://github.com/youraipulse/Form"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
     },
     {
       "title": "Dweet 36693 by UEZ",
@@ -135,10 +142,6 @@
       "url": "https://github.com/menakhaled3112008-commits/craft-cards"
     },
     {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
       "title": "Dweet 36697 by Axioplase",
       "url": "https://www.dwitter.net/d/36697"
     },
@@ -165,10 +168,6 @@
     {
       "title": "jaspreet9kaur/foldglass",
       "url": "https://github.com/jaspreet9kaur/foldglass"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
     },
     {
       "title": "Dweet 36703 by Axioplase",
@@ -199,10 +198,6 @@
       "url": "https://github.com/vitaminclaude/voidstruck"
     },
     {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
       "title": "Dweet 36706 by KilledByAPixel",
       "url": "https://www.dwitter.net/d/36706"
     },
@@ -211,16 +206,32 @@
       "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
       "title": "Deadfish",
       "url": "https://esolangs.org/wiki/Deadfish"
     },
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
     }
   ],
   "points": {
@@ -382,5 +393,15 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "appliedStepAt": "2026-11-21T14:59:02.415Z",
+  "trips": {
+    "date": "2026-11-21",
+    "reads": 3,
+    "trips": 1,
+    "looks": 3,
+    "starts": [
+      "https://imgflip.com/meme/181913649"
+    ]
+  }
 }

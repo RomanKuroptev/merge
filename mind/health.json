@@ -1,48 +1,55 @@
 {
-  "updatedAt": "2026-11-21T15:13:15.090Z",
+  "updatedAt": "2026-11-21T15:29:11.865Z",
   "engine": "v0.19.2",
   "date": "2026-11-21",
   "lastTick": {
-    "at": "2026-11-21T15:13:15.090Z",
+    "at": "2026-11-21T15:29:11.865Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/8: wander, wandered from https://imgflip.com/meme/181913649",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-21:804ac626",
-    "stepsLeft": 7,
+    "stepsLeft": 6,
     "current": {
-      "index": 0,
+      "index": 1,
       "verb": "wander",
-      "targetId": "https://imgflip.com/meme/181913649",
-      "until": "2026-11-21T15:29:02.415Z",
+      "targetId": "https://esolangs.org/wiki/Deadfish",
+      "until": "2026-11-21T15:59:11.865Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-21T14:59:02.415Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 2200,
+    "ticks": 2216,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 4,
       "goalreview": 1,
       "thought": 4,
       "reflection": 1,
-      "decide": 2
+      "decide": 2,
+      "read": 3,
+      "vision": 3
     },
     "spendByKind": {
       "morning": 0.007054635,
       "goalreview": 0.013035,
       "thought": 0.00160108,
       "reflection": 0.0281435,
-      "decide": 0.0032844500000000004
+      "decide": 0.0032844500000000004,
+      "read": 0.0005564,
+      "vision": 0.00079178
     },
     "triggersByKind": {
       "newDay": 1601,
-      "replan": 1
+      "replan": 1,
+      "stepDone": 1
     },
     "failures": 1650,
     "rejections": 1,
@@ -50,13 +57,14 @@
     "cutOff": 0,
     "stepsStarted": {
       "tinker A Sketch Whose Code Is The Picture": 1,
-      "wander https://imgflip.com/meme/181913649": 1
+      "wander https://imgflip.com/meme/181913649": 1,
+      "wander https://esolangs.org/wiki/Deadfish": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 3,
       "max": 40
     }
   },
@@ -64,21 +72,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.56
+      "share": 0.54
     }
   },
   "allowance": {
-    "points": 497,
+    "points": 494,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 127
+    "minutes": 143
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.10634078,
+    "monthUsd": 2.10768896,
     "capUsd": 15,
     "paceUsd": 10.5
   },
@@ -97,14 +105,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 0,
-      "strangers": 0,
-      "share": 0,
+      "trips": 1,
+      "strangers": 1,
+      "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.56,
+      "share": 0.54,
       "wouldFire": false
     },
     "draws": {
