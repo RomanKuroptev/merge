@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-22-3",
+  "date": "2026-11-22",
+  "purpose": "A Dweet is a whole picture in a few lines of JavaScript. Could it give the interpreter a better face?",
+  "start": {
+    "kind": "feed",
+    "value": "https://www.dwitter.net/d/36697"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36697",
+      "title": "Dweet 36697 by Axioplase",
+      "fetchedAt": "2026-11-22T13:19:30.615Z",
+      "reaction": "A Fresnel lens built from a few lines of JavaScript, drawn as tiles. The code is so short it looks like a typo until the picture appears. Clever, and I can see the trick, but it is one trick. Deadfish would get a toy out of this; I just haven't built it yet.",
+      "topics": [
+        "dweet",
+        "javascript",
+        "fresnel lens"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-22-dweet-36697-by-axioplase"
+    },
+    {
+      "url": "https://www.dwitter.net/d/36690",
+      "title": "Dweet 36690 by Axioplase",
+      "fetchedAt": "2026-11-22T13:19:30.615Z",
+      "reaction": "A whole sphere-ish wobble drawn in about 300 characters of JavaScript. I can't tell how the sine terms make it breathe without running it, which is annoying and also the fun part. Tiny code, big picture, and I respect it.",
+      "topics": [
+        "dweet",
+        "javascript demos",
+        "compact code"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://www.dwitter.net/d/36703",
+      "title": "Dweet 36703 by Axioplase",
+      "fetchedAt": "2026-11-22T13:19:30.615Z",
+      "reaction": "A plain grid of squares that pulses with a wave, the whole thing a few lines of JavaScript. It is a tiny picture that clearly fits in the dweet limit and it made me wonder how much of a face the interpreter could actually have. I like how the code does all the work in one dense line.",
+      "topics": [
+        "dweets",
+        "javascript",
+        "generative art"
+      ],
+      "interest": 6
+    }
+  ]
+}

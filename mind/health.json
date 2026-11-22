@@ -1,35 +1,36 @@
 {
-  "updatedAt": "2026-11-22T13:17:56.219Z",
+  "updatedAt": "2026-11-22T13:19:30.615Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T13:17:56.219Z",
+    "at": "2026-11-22T13:19:30.615Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/4: rest, wandered from https://www.dwitter.net/d/36697",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:7c08b3d8",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36697",
-      "until": "2026-11-22T13:19:25.501Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-22T14:19:30.615Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T12:47:59.279Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 873,
+    "ticks": 875,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
       "thought": 13,
-      "read": 10,
+      "read": 13,
       "reflection": 2,
       "decide": 6,
       "art": 3,
@@ -38,7 +39,7 @@
     "spendByKind": {
       "morning": 0.0023549,
       "thought": 0.005883955,
-      "read": 0.005342275,
+      "read": 0.006004359999999999,
       "reflection": 0.048350500000000005,
       "decide": 0.007226455,
       "art": 0.0014866750000000002,
@@ -46,7 +47,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "sparked": 2,
       "buildResult": 3,
       "replan": 1
@@ -58,7 +59,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Funciton": 1,
-      "rest": 2,
+      "rest": 3,
       "build Deadfish face interpreter": 1,
       "tinker A Deadfish face that frowns at each command": 1,
       "expand home": 1,
@@ -73,7 +74,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 10,
+      "used": 13,
       "max": 40
     }
   },
@@ -81,7 +82,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.439
+      "share": 0.427
     }
   },
   "allowance": {
@@ -91,11 +92,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 109
+    "minutes": 111
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.43996217,
+    "monthUsd": 2.44062425,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -117,14 +118,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 6,
-      "strangers": 6,
+      "trips": 7,
+      "strangers": 7,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.439,
+      "share": 0.427,
       "wouldFire": false
     },
     "draws": {
@@ -139,5 +140,7 @@
       "weekendRevisit": 1
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }

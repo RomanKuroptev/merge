@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-22T13:15:52.963Z",
-    "seed": 1127849021,
-    "reason": "I am reading at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-22T13:19:30.615Z",
+    "seed": 1958736246,
+    "reason": "Let the Dweet settle while the fish is still wobbling at the bench.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-22T13:15:54.721Z",
+  "lastTickAt": "2026-11-22T13:19:30.615Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
