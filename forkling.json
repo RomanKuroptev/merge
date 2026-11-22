@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    6.04,
+    5.5,
     0,
-    13.49
+    12.8
   ],
   "mood": 1,
   "energy": 0.45,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-22T07:34:24.769Z",
-    "seed": 1958707604,
-    "reason": "Write a short page on Funciton while the strange details are still fresh.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-22T07:44:00.739Z",
+    "seed": 862602375,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-22T07:34:24.769Z",
+  "lastTickAt": "2026-11-22T07:45:03.828Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
