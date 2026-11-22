@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-22T18:46:13.032Z",
+  "updatedAt": "2026-11-22T19:00:09.493Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T18:46:13.032Z",
+    "at": "2026-11-22T19:00:09.493Z",
     "asleep": false,
-    "summary": "",
+    "summary": "rewrote about.md, asked Roman for something, weekly review",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -24,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1216,
+    "ticks": 1230,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 1,
@@ -34,7 +34,8 @@
       "decide": 9,
       "art": 5,
       "sketch": 2,
-      "tend": 1
+      "tend": 1,
+      "weekly": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
@@ -44,7 +45,8 @@
       "decide": 0.011840335,
       "art": 0.002413225,
       "sketch": 0.07651,
-      "tend": 0.0013001500000000001
+      "tend": 0.0013001500000000001,
+      "weekly": 0.0172135
     },
     "triggersByKind": {
       "newDay": 1,
@@ -96,15 +98,16 @@
   "allowance": {
     "points": 472,
     "max": 1500,
-    "daily": 300
+    "daily": 300,
+    "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 35
+    "minutes": 49
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.50541468,
+    "monthUsd": 2.52262818,
     "capUsd": 15,
     "paceUsd": 11
   },
