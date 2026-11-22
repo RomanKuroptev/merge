@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-22T12:27:55.729Z",
-    "seed": 1958724959,
-    "reason": "A caption for my esolang wall, with its one crooked frame, once the builders are done.",
-    "goalRef": "today:3"
+    "targetId": "desk",
+    "startedAt": "2026-11-22T12:42:36.489Z",
+    "seed": 1567375340,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-22T12:27:55.729Z",
+  "lastTickAt": "2026-11-22T12:43:05.459Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
