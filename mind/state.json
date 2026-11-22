@@ -6,6 +6,21 @@
     "points": 472,
     "day": "2026-11-22"
   },
+  "prices": {
+    "fullWork": 150,
+    "expand": 50,
+    "expandEarned": 20,
+    "trip": 4,
+    "tend": 2,
+    "sketch": 23,
+    "found": 80,
+    "revisit": 1,
+    "caption": 1,
+    "page": 10,
+    "reply": 0,
+    "rest": 0
+  },
+  "pricesSetOn": "2026-11-22",
   "grants": [
     {
       "at": "2026-11-21T14:58:48.585Z",
@@ -18,6 +33,10 @@
       "source": "daily"
     }
   ],
+  "dailyPoints": {
+    "value": 300,
+    "setOn": "2026-11-22"
+  },
   "overheadDays": [
     {
       "date": "2026-11-16",
@@ -149,15 +168,15 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-22T18:59:19.223Z",
     "failures": 0,
     "recent": [
-      "Mairzy Doates reading first, then the Deadfish face toy. One joke, then build.",
       "Two buttons, one fish. The fish has to choose, and so do I: finish the Deadfish toy or read one more dweet.",
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy.",
       "Fish snacks on the bench, fainting-fish caption up. Then the Deadfish toy. One joke, then build.",
-      "Fish chest sine wave is next, then one joke and rest. Deadfish toy waits for the bench."
+      "Fish chest sine wave is next, then one joke and rest. Deadfish toy waits for the bench.",
+      "Fish chest sine wave first, then one joke and rest. The Deadfish toy waits for the bench."
     ],
+    "lastAt": "2026-11-22T19:13:26.001Z",
     "lastInput": "tinker|Dweet fish wobble: a fish that breathes like a sphere, using only a few lines|2026-11-22T19:31:31.352Z#"
   },
   "reflect": {
@@ -217,7 +236,9 @@
   "lastRewriteDate": "2026-11-21",
   "pageChangedOn": "2026-11-22",
   "notesWaiting": [],
-  "requestStatuses": {},
+  "requestStatuses": {
+    "2026-11-22": "open"
+  },
   "toolsSeen": [
     "read-sites",
     "look",
@@ -227,6 +248,7 @@
     "notes",
     "diary"
   ],
+  "lastWeeklyDate": "2026-11-22",
   "wakeMoods": [
     {
       "date": "2026-11-21",
@@ -824,25 +846,5 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": [],
-  "lastWeeklyDate": "2026-11-22",
-  "prices": {
-    "fullWork": 150,
-    "expand": 50,
-    "expandEarned": 20,
-    "trip": 4,
-    "tend": 2,
-    "sketch": 23,
-    "found": 80,
-    "revisit": 1,
-    "caption": 1,
-    "page": 10,
-    "reply": 0,
-    "rest": 0
-  },
-  "pricesSetOn": "2026-11-22",
-  "dailyPoints": {
-    "value": 300,
-    "setOn": "2026-11-22"
-  }
+  "rejections": []
 }
