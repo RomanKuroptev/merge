@@ -3,8 +3,8 @@
   "name": "Deadfish face interpreter",
   "aim": "Add sound, fish-head snacks, and example programs (like printing Hello).",
   "started": "2026-11-22T08:55:18.068Z",
-  "status": "building",
-  "reason": null,
+  "status": "done",
+  "reason": "Aim met: sound, snacks, examples all work, runs clean.",
   "sessions": [
     {
       "at": "2026-11-22T08:55:53.052Z",
@@ -21,6 +21,15 @@
       "usd": 0.057434,
       "turns": 3,
       "shot": "shots/2.png",
+      "broken": false,
+      "engine": false
+    },
+    {
+      "at": "2026-11-22T14:40:44.228Z",
+      "caption": "Checked the fish: it beeps, eats fish heads and compiles Hello into Deadfish. No errors. Shipping it.",
+      "usd": 0.010561,
+      "turns": 2,
+      "shot": "shots/3.png",
       "broken": false,
       "engine": false
     }
