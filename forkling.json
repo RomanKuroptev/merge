@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-22T08:35:05.230Z",
-    "seed": 1570980321,
-    "reason": "I am resting at home."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-22T08:54:34.220Z",
+    "seed": 1958721374,
+    "reason": "Build the Deadfish interpreter with a silly fish face that reacts to each command.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-22T08:35:27.790Z",
+  "lastTickAt": "2026-11-22T08:54:34.220Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
