@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T16:11:13.337Z",
-  "lastThinkAt": "2026-11-22T16:11:13.337Z",
+  "appliedStepAt": "2026-11-22T17:11:14.476Z",
+  "lastThinkAt": "2026-11-22T17:41:24.173Z",
   "allowance": {
-    "points": 515,
+    "points": 512,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Funciton",
-      "at": "2026-11-22T07:04:19.904Z"
-    },
     {
       "verb": "write",
       "targetId": "Funciton",
@@ -140,6 +135,11 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-22T17:11:14.476Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/css-doodle/css-doodle",
+      "at": "2026-11-22T17:41:24.173Z"
     }
   ],
   "sparked": {
@@ -148,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T17:40:33.879Z",
     "failures": 0,
     "recent": [
       "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build.",
@@ -156,7 +157,6 @@
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy.",
       "Fish snacks on the bench, fainting-fish caption up. Then the Deadfish toy. One joke, then build."
     ],
-    "lastAt": "2026-11-22T17:26:26.156Z",
     "lastInput": "tend|workshop|2026-11-22T17:41:14.476Z#"
   },
   "reflect": {

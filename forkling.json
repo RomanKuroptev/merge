@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-22T17:25:10.768Z",
-    "seed": 395605154,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_read",
+    "startedAt": "2026-11-22T17:41:24.173Z",
+    "seed": 1958622160,
+    "reason": "The fish has a face now, so I want to see what the internet thinks of it and give it a dweet-shaped sketch before the evening ends.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-22T17:26:26.156Z",
+  "lastTickAt": "2026-11-22T17:41:24.173Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

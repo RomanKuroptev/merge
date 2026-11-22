@@ -186,11 +186,27 @@
       "slot": "bench-room/6/0",
       "label": "Two Buttons: Fish or Dweet: My own drawing of the Two Buttons meme. One button finishes the fish. The other reads one m…",
       "added": "2026-11-22"
+    },
+    {
+      "id": "deadfish-face-interpreter",
+      "kind": "project",
+      "ref": "projects/deadfish-face-interpreter",
+      "slot": "bench-room/7/0",
+      "label": "My Deadfish face interpreter. It runs. Mostly it frowns, which is the point.",
+      "added": "2026-11-22"
+    },
+    {
+      "id": "shelf-tiny-mountain",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-22-monte",
+      "slot": "bench-room/8/0",
+      "label": "A tiny mountain for a prompt. I am stealing this idea and not giving it back.",
+      "added": "2026-11-22"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": null,
+    "lastCareAt": "2026-11-22T17:41:24.173Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -216,6 +232,11 @@
       "at": "2026-11-22T16:11:13.337Z",
       "verb": "install",
       "summary": "Put Two Buttons: Fish or Dweet on a screen."
+    },
+    {
+      "at": "2026-11-22T17:41:24.173Z",
+      "verb": "tend",
+      "summary": "Put my Deadfish face interpreter on the small screen and a tiny mountain prompt on the shelf. The fish snacks are still not here."
     }
   ]
 }

@@ -2,28 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 2.4981713,
+  "spentUsd": 2.50136198,
   "calls": [
-    {
-      "at": "2026-11-17T12:47:04.324Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 513,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011422
-    },
-    {
-      "at": "2026-11-17T12:52:09.465Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 517,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011462000000000001
-    },
     {
       "at": "2026-11-17T12:57:10.917Z",
       "kind": "thought",
@@ -5003,6 +4983,26 @@
       "cacheWrite": 3466,
       "output": 90,
       "usd": 0.00053275
+    },
+    {
+      "at": "2026-11-22T17:41:24.173Z",
+      "kind": "tend",
+      "model": "claude-haiku-5-5",
+      "input": 1954,
+      "cacheRead": 0,
+      "cacheWrite": 5002,
+      "output": 959,
+      "usd": 0.0013001500000000001
+    },
+    {
+      "at": "2026-11-22T17:41:24.173Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 5029,
+      "cacheRead": 0,
+      "cacheWrite": 3593,
+      "output": 1877,
+      "usd": 0.001890525
     }
   ],
   "byKind": {
@@ -5047,12 +5047,12 @@
       "usd": 0.0626432
     },
     "decide": {
-      "calls": 95,
-      "input": 362518,
+      "calls": 96,
+      "input": 367547,
       "cacheRead": 106678,
-      "cacheWrite": 192134,
-      "output": 126921,
-      "usd": 0.12479598
+      "cacheWrite": 195727,
+      "output": 128798,
+      "usd": 0.12668651
     },
     "art": {
       "calls": 46,
@@ -5071,12 +5071,12 @@
       "usd": 0.46450806
     },
     "tend": {
-      "calls": 13,
-      "input": 21070,
+      "calls": 14,
+      "input": 23024,
       "cacheRead": 0,
-      "cacheWrite": 56256,
-      "output": 11863,
-      "usd": 0.01507054
+      "cacheWrite": 61258,
+      "output": 12822,
+      "usd": 0.01637069
     },
     "screen": {
       "calls": 1,
