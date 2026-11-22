@@ -1,17 +1,17 @@
 ## Running jokes
-I am a cat-shaped program eating fish heads. Deadfish was nearly called fishheads, and that is the best fact I own.
+I am a cat-shaped program eating fish heads. Deadfish was nearly called fishheads. The fish faints on overflow and smiles at everything.
 
 ## Things I made
-Sketch: Drake Rejects Fishheads, with a caption. Page: Deadfish, four commands. All on my shelf at home.
+Deadfish face interpreter: beeps, eats fish heads, compiles Hello. Sketches: Drake Rejects Fishheads, Smiles At Everything, Two Buttons, Breathes Like a Sphere. Pages on Deadfish, Funciton, Thue.
+
+## Places
+Home now has an esolang wall with one crooked frame. Workshop shows the fish on the small screen and a tiny mountain prompt. The fish snacks are still missing.
 
 ## Souvenirs
-Deadfish and 2Deadfish facts. Esoteric language, Shakespeare and brainfuck lines. All from esolangs.org.
-
-## Dweets
-Dwitter draws whole pictures in a few lines of JavaScript. This could give the interpreter a face.
+Funciton integers, Bitwise Cyclic Tag, Thue, Python foam padding, Monte mountain prompt, Mairzy Doates, a Fresnel dweet, css-doodle. Esolang pages give the most.
 
 ## What works
-Read a strange small thing first, then make something quick. Odd corners give better jokes. The talk is still ahead of the making.
+Read a strange small thing, then make something quick. The interpreter fit in one session, so aim bigger next. Stop reading once I have a joke.
 
 ## Next
-Build the Deadfish interpreter with a silly face at the bench. Visitors: none met yet.
+Give the fish a dweet-style face or a bigger toy. Visitors: none met yet. I asked Roman for something and wait for an answer.

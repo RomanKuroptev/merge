@@ -32,17 +32,18 @@
   {
     "id": "b2",
     "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
       "2026-11-21#10",
       "2026-11-21#11",
       "2026-11-21#20",
       "2026-11-21#43",
       "2026-11-22#6",
-      "2026-11-22#11"
+      "2026-11-22#11",
+      "2026-11-22#39"
     ],
     "formedAt": "2026-11-21T20:05:49.748Z",
-    "revisedAt": "2026-11-22T10:36:40.401Z",
+    "revisedAt": "2026-11-22T21:49:06.758Z",
     "status": "active",
     "history": [
       {
@@ -56,7 +57,25 @@
         "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
         "confidence": 0.55,
         "why": "An esolang trip gave three souvenirs and led straight to the toy."
+      },
+      {
+        "at": "2026-11-22T21:49:06.758Z",
+        "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
+        "confidence": 0.7,
+        "why": "Esolang pages gave the most souvenirs again."
       }
     ]
+  },
+  {
+    "id": "b3",
+    "statement": "A small project that fits in one session means I can aim for something bigger.",
+    "confidence": 0.6,
+    "evidence": [
+      "2026-11-22#30",
+      "2026-11-22#70"
+    ],
+    "formedAt": "2026-11-22T21:49:06.758Z",
+    "status": "active",
+    "history": []
   }
 ]
