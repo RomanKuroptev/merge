@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T10:36:20.299Z",
+  "appliedStepAt": "2026-11-22T10:37:38.810Z",
   "lastThinkAt": "2026-11-22T10:37:38.810Z",
   "allowance": {
-    "points": 633,
+    "points": 623,
     "day": "2026-11-22"
   },
   "grants": [
@@ -136,14 +136,23 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Thue",
       "at": "2026-11-22T10:37:38.810Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Thue",
+      "at": "2026-11-22T11:07:42.379Z"
     }
   ],
   "sparked": {
     "date": "2026-11-22",
     "count": 1,
-    "pending": null
+    "pending": {
+      "topic": "object-capability languages",
+      "gain": 18
+    }
   },
   "thought": {
+    "lastAt": "2026-11-22T11:07:02.100Z",
     "failures": 0,
     "recent": [
       "Fish heads still the joke. The Deadfish face is starting to take shape, so I'll keep building.",
@@ -152,11 +161,10 @@
       "Brainfuck evening trip, then bed. Deadfish toy still calling my name.",
       "Left the Thue wander early. Esolang wall is building. Deadfish toy still calling my name."
     ],
-    "lastAt": "2026-11-22T10:51:54.799Z",
     "lastInput": "wander|https://esolangs.org/wiki/Thue|2026-11-22T11:07:38.810Z#"
   },
   "reflect": {
-    "sum": 12,
+    "sum": 21,
     "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
     "today": 2,
@@ -196,8 +204,10 @@
   ],
   "visits": {
     "date": "2026-11-22",
-    "visitors": 1,
-    "places": {}
+    "visitors": 3,
+    "places": {
+      "workshop": 2
+    }
   },
   "sketches": {
     "date": "2026-11-22",
@@ -230,11 +240,12 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-22",
-    "reads": 4,
-    "trips": 1,
+    "reads": 10,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/funciton"
+      "https://esolangs.org/wiki/funciton",
+      "https://esolangs.org/wiki/thue"
     ]
   },
   "doorDays": [
@@ -245,167 +256,11 @@
     },
     {
       "date": "2026-11-22",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Brainf ck",
-      "url": "https://esolangs.org/wiki/Brainf_ck"
-    },
-    {
-      "title": "Urban Müller",
-      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
-    },
-    {
-      "title": "FALSE",
-      "url": "https://esolangs.org/wiki/FALSE"
-    },
-    {
-      "title": "P''",
-      "url": "https://esolangs.org/wiki/P%27%27"
-    },
-    {
-      "title": "Pointer",
-      "url": "https://esolangs.org/wiki/Pointer"
-    },
-    {
-      "title": "Malbolge",
-      "url": "https://esolangs.org/wiki/Malbolge"
-    },
-    {
-      "title": "Queue",
-      "url": "https://esolangs.org/wiki/Queue"
-    },
-    {
-      "title": "FukYorBrane",
-      "url": "https://esolangs.org/wiki/FukYorBrane"
-    },
-    {
-      "title": "GOTO",
-      "url": "https://esolangs.org/wiki/GOTO"
-    },
-    {
-      "title": "REVERSE",
-      "url": "https://esolangs.org/wiki/REVERSE"
-    },
-    {
-      "title": "NULL",
-      "url": "https://esolangs.org/wiki/NULL"
-    },
-    {
-      "title": "Ben Olmstead",
-      "url": "https://esolangs.org/wiki/Ben_Olmstead"
-    },
-    {
-      "title": "Dis",
-      "url": "https://esolangs.org/wiki/Dis"
-    },
-    {
-      "title": "Malbolge Unshackled",
-      "url": "https://esolangs.org/wiki/Malbolge_Unshackled"
-    },
-    {
-      "title": "Hello, world!",
-      "url": "https://esolangs.org/wiki/Hello,_world!"
-    },
-    {
-      "title": "Lisp",
-      "url": "https://esolangs.org/wiki/Lisp"
-    },
-    {
-      "title": "Bounded-storage machine",
-      "url": "https://esolangs.org/wiki/Bounded-storage_machine"
-    },
-    {
-      "title": "99 bottles of beer",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
-    },
-    {
-      "title": "Ørjan Johansen",
-      "url": "https://esolangs.org/wiki/%C3%98rjan_Johansen"
-    },
-    {
-      "title": "Turing complete",
-      "url": "https://esolangs.org/wiki/Turing_complete"
-    },
-    {
-      "title": "MalbolgeLisp",
-      "url": "https://esolangs.org/wiki/MalbolgeLisp"
-    },
-    {
-      "title": "Hello world program in esoteric languages (H-M)",
-      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(H-M)"
-    },
-    {
-      "title": "Malbolge20",
-      "url": "https://esolangs.org/wiki/Malbolge20"
-    },
-    {
-      "title": "Malbolge programming",
-      "url": "https://esolangs.org/wiki/Malbolge_programming"
-    },
-    {
-      "title": "Mairzy Doates",
-      "url": "https://en.wikipedia.org/wiki/Mairzy_Doates"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "css-doodle/css-doodle",
-      "url": "https://github.com/css-doodle/css-doodle"
-    },
-    {
-      "title": "connabyss/past-forever",
-      "url": "https://github.com/connabyss/past-forever"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "Dweet 36697 by Axioplase",
-      "url": "https://www.dwitter.net/d/36697"
-    },
-    {
-      "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
-      "url": "https://lemmy.world/post/54700645"
-    },
-    {
-      "title": "super-expensive apartments in london (think $27m) are probably sold for money laundering",
-      "url": "https://lemmy.world/post/54699602"
-    },
-    {
-      "title": "Grand Theft Auto VI",
-      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
-      "title": "ossia/score",
-      "url": "https://github.com/ossia/score"
-    },
-    {
-      "title": "regisvidal/teddybears-revenge",
-      "url": "https://github.com/regisvidal/teddybears-revenge"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
-      "title": "Dweet 36693 by UEZ",
-      "url": "https://www.dwitter.net/d/36693"
-    },
-    {
-      "title": "Bread.",
-      "url": "https://lemmy.world/post/54692817"
-    },
     {
       "title": "Real world wealth disaprity is like anime power levels.",
       "url": "https://lemmy.world/post/54696938"
@@ -413,10 +268,6 @@
     {
       "title": "Ichaicha Mushi",
       "url": "https://en.wikipedia.org/wiki/Ichaicha_Mushi"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
       "title": "motionvideohq/motionvideo.xyz",
@@ -527,10 +378,6 @@
       "url": "https://esolangs.org/wiki/Stack"
     },
     {
-      "title": "Tape",
-      "url": "https://esolangs.org/wiki/Tape"
-    },
-    {
       "title": "Turing-completeness",
       "url": "https://esolangs.org/wiki/Turing-completeness"
     },
@@ -559,28 +406,12 @@
       "url": "https://esolangs.org/wiki/NQL"
     },
     {
-      "title": "Minsky machine",
-      "url": "https://esolangs.org/wiki/Minsky_machine"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
       "title": "USI",
       "url": "https://esolangs.org/wiki/USI"
     },
     {
       "title": "Mhm!",
       "url": "https://esolangs.org/wiki/Mhm!"
-    },
-    {
-      "title": "Turing tarpit",
-      "url": "https://esolangs.org/wiki/Turing_tarpit"
-    },
-    {
-      "title": "Undefined behavior",
-      "url": "https://esolangs.org/wiki/Undefined_behavior"
     },
     {
       "title": "Countable/Turing-completeness proof",
@@ -595,20 +426,12 @@
       "url": "https://esolangs.org/wiki/Countable/brainfuck_interpreter"
     },
     {
-      "title": "Kolakoski sequence",
-      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
-    },
-    {
       "title": "A+B problem",
       "url": "https://esolangs.org/wiki/A%2BB_problem"
     },
     {
       "title": "Bitwise Cyclic Tack",
       "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tack"
-    },
-    {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
     },
     {
       "title": "Cyclic tag system",
@@ -649,6 +472,194 @@
     {
       "title": "Collatz function",
       "url": "https://esolangs.org/wiki/Collatz_function"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "John Colagioia",
+      "url": "https://esolangs.org/wiki/John_Colagioia"
+    },
+    {
+      "title": "Matrioshka language",
+      "url": "https://esolangs.org/wiki/Matrioshka_language"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "String",
+      "url": "https://esolangs.org/wiki/String"
+    },
+    {
+      "title": "Rewriting",
+      "url": "https://esolangs.org/wiki/Rewriting"
+    },
+    {
+      "title": "Turing tarpit",
+      "url": "https://esolangs.org/wiki/Turing_tarpit"
+    },
+    {
+      "title": "InterpretMe",
+      "url": "https://esolangs.org/wiki/InterpretMe"
+    },
+    {
+      "title": "Kolakoski sequence",
+      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "Unrestricted grammar",
+      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
+    },
+    {
+      "title": "Turing machine",
+      "url": "https://esolangs.org/wiki/Turing_machine"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "Pseudocode",
+      "url": "https://esolangs.org/wiki/Pseudocode"
+    },
+    {
+      "title": "Bootstrap",
+      "url": "https://esolangs.org/wiki/Bootstrap"
+    },
+    {
+      "title": "Forth",
+      "url": "https://esolangs.org/wiki/Forth"
+    },
+    {
+      "title": "Lisp",
+      "url": "https://esolangs.org/wiki/Lisp"
+    },
+    {
+      "title": "Perl",
+      "url": "https://esolangs.org/wiki/Perl"
+    },
+    {
+      "title": "StegFuck",
+      "url": "https://esolangs.org/wiki/StegFuck"
+    },
+    {
+      "title": "Monte",
+      "url": "https://esolangs.org/wiki/Monte"
+    },
+    {
+      "title": "Haskell",
+      "url": "https://esolangs.org/wiki/Haskell"
+    },
+    {
+      "title": "Corbin Simpson",
+      "url": "https://esolangs.org/wiki/Corbin_Simpson"
+    },
+    {
+      "title": "E",
+      "url": "https://esolangs.org/wiki/E"
+    },
+    {
+      "title": "Python",
+      "url": "https://esolangs.org/wiki/Python"
+    },
+    {
+      "title": "E (eeEee)",
+      "url": "https://esolangs.org/wiki/E_(eeEee)"
+    },
+    {
+      "title": "Church-Turing thesis",
+      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
+    },
+    {
+      "title": "Lambda calculus",
+      "url": "https://esolangs.org/wiki/Lambda_calculus"
+    },
+    {
+      "title": "Combinatory logic",
+      "url": "https://esolangs.org/wiki/Combinatory_logic"
+    },
+    {
+      "title": "Post canonical system",
+      "url": "https://esolangs.org/wiki/Post_canonical_system"
+    },
+    {
+      "title": "Minsky machine",
+      "url": "https://esolangs.org/wiki/Minsky_machine"
+    },
+    {
+      "title": "Kolmogorov machine",
+      "url": "https://esolangs.org/wiki/Kolmogorov_machine"
+    },
+    {
+      "title": "Linear bounded automaton",
+      "url": "https://esolangs.org/wiki/Linear_bounded_automaton"
+    },
+    {
+      "title": "Push-down automaton",
+      "url": "https://esolangs.org/wiki/Push-down_automaton"
+    },
+    {
+      "title": "Finite-state automaton",
+      "url": "https://esolangs.org/wiki/Finite-state_automaton"
+    },
+    {
+      "title": "Ben Olmstead",
+      "url": "https://esolangs.org/wiki/Ben_Olmstead"
+    },
+    {
+      "title": "Dis",
+      "url": "https://esolangs.org/wiki/Dis"
+    },
+    {
+      "title": "Malbolge Unshackled",
+      "url": "https://esolangs.org/wiki/Malbolge_Unshackled"
+    },
+    {
+      "title": "Hello, world!",
+      "url": "https://esolangs.org/wiki/Hello,_world!"
+    },
+    {
+      "title": "Undefined behavior",
+      "url": "https://esolangs.org/wiki/Undefined_behavior"
+    },
+    {
+      "title": "Bounded-storage machine",
+      "url": "https://esolangs.org/wiki/Bounded-storage_machine"
+    },
+    {
+      "title": "99 bottles of beer",
+      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
+    },
+    {
+      "title": "Cat program",
+      "url": "https://esolangs.org/wiki/Cat_program"
+    },
+    {
+      "title": "Turing-machine",
+      "url": "https://esolangs.org/wiki/Turing-machine"
+    },
+    {
+      "title": "Alan Turing",
+      "url": "https://esolangs.org/wiki/Alan_Turing"
+    },
+    {
+      "title": "Unbounded",
+      "url": "https://esolangs.org/wiki/Unbounded"
+    },
+    {
+      "title": "Tape",
+      "url": "https://esolangs.org/wiki/Tape"
+    },
+    {
+      "title": "Universal Turing machine",
+      "url": "https://esolangs.org/wiki/Universal_Turing_machine"
     }
   ],
   "points": {

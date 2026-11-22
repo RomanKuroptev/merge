@@ -80,9 +80,9 @@
       ]
     },
     "esoteric programming languages": {
-      "weight": 15.3,
+      "weight": 29.3,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -101,6 +101,18 @@
           "title": "Malbolge",
           "url": "https://esolangs.org/wiki/Malbolge",
           "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-monte",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
         }
       ],
       "history": [
@@ -121,6 +133,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
         }
       ]
     },
@@ -178,25 +202,13 @@
     "esoteric languages": {
       "weight": 100,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "trail:2026-11-22-1",
-          "title": "Funciton",
-          "url": "https://esolangs.org/wiki/Funciton",
-          "at": "2026-11-22T07:34:24.769Z"
-        },
-        {
-          "id": "2026-11-22-funciton",
-          "title": "Funciton",
-          "url": "https://esolangs.org/wiki/Funciton",
-          "at": "2026-11-22T07:34:24.769Z"
         },
         {
           "id": "2026-11-22-arbitrary-memory-emulation",
@@ -209,21 +221,21 @@
           "title": "Bitwise Cyclic Tag",
           "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
           "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-21T15:59:14.114Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-2"
-        },
-        {
-          "at": "2026-11-21T15:59:14.114Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-2"
-        },
         {
           "at": "2026-11-21T20:36:14.638Z",
           "change": 4,
@@ -319,6 +331,30 @@
           "change": 6.2,
           "event": "souvenir",
           "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-22-2"
         }
       ]
     },
@@ -761,9 +797,9 @@
       ]
     },
     "turing completeness": {
-      "weight": 14,
+      "weight": 18,
       "firstSeen": "2026-11-22T07:34:24.769Z",
-      "lastFed": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
       "sources": [
         {
           "id": "trail:2026-11-22-1",
@@ -776,6 +812,12 @@
           "title": "Bitwise Cyclic Tag",
           "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
           "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Computational class",
+          "url": "https://esolangs.org/wiki/Computational_class",
+          "at": "2026-11-22T11:07:42.379Z"
         }
       ],
       "history": [
@@ -790,6 +832,354 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "string rewriting": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "nondeterminism": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-thue",
+          "title": "Thue",
+          "url": "https://esolangs.org/wiki/Thue",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "closure quirk": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-python",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "lambda expressions": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-python",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "python quirks": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-python",
+          "title": "Python",
+          "url": "https://esolangs.org/wiki/Python",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "object-capability languages": {
+      "weight": 18,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-monte",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "monte language": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "2026-11-22-monte",
+          "title": "Monte",
+          "url": "https://esolangs.org/wiki/Monte",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "e programming language": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "E",
+          "url": "https://esolangs.org/wiki/E",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "computational class": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Computational class",
+          "url": "https://esolangs.org/wiki/Computational_class",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "turing machine": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "halting problem": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
+        }
+      ]
+    },
+    "computability": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-22T11:07:42.379Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-2",
+          "title": "Turing machine",
+          "url": "https://esolangs.org/wiki/Turing_machine",
+          "at": "2026-11-22T11:07:42.379Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T11:07:42.379Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-2"
         }
       ]
     }

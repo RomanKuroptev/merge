@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-22T10:51:37.834Z",
-    "seed": 353065095,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-22T11:07:42.379Z",
+    "seed": 1958729322,
+    "reason": "A short page on Thue while the strange rules are fresh, before the wall goes up.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-22T10:51:54.799Z",
+  "lastTickAt": "2026-11-22T11:07:42.379Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

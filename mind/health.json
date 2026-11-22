@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-22T10:51:54.799Z",
+  "updatedAt": "2026-11-22T11:07:42.379Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T10:51:54.799Z",
+    "at": "2026-11-22T11:07:42.379Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/4: write, wandered from https://esolangs.org/wiki/Thue",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:6183f6af",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Thue",
-      "until": "2026-11-22T11:07:38.810Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Thue",
+      "until": "2026-11-22T11:27:42.379Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T10:37:38.810Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 718,
+    "ticks": 737,
     "decideCalls": 4,
     "callsByKind": {
       "morning": 1,
       "thought": 8,
-      "read": 4,
+      "read": 10,
       "reflection": 2,
       "decide": 3,
       "art": 1,
@@ -38,7 +40,7 @@
     "spendByKind": {
       "morning": 0.0023549,
       "thought": 0.0035600950000000005,
-      "read": 0.0029757,
+      "read": 0.005342275,
       "reflection": 0.048350500000000005,
       "decide": 0.0038018749999999997,
       "art": 0.000514325,
@@ -46,7 +48,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 6,
+      "stepDone": 7,
       "sparked": 1,
       "buildResult": 2
     },
@@ -62,13 +64,14 @@
       "tinker A Deadfish face that frowns at each command": 1,
       "expand home": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "wander https://esolangs.org/wiki/Thue": 1
+      "wander https://esolangs.org/wiki/Thue": 1,
+      "write Thue": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 4,
+      "used": 10,
       "max": 40
     }
   },
@@ -76,21 +79,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.465
+      "share": 0.439
     }
   },
   "allowance": {
-    "points": 633,
+    "points": 623,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 14
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.37344068,
+    "monthUsd": 2.37580726,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -112,14 +115,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 5,
-      "strangers": 5,
+      "trips": 6,
+      "strangers": 6,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.465,
+      "share": 0.439,
       "wouldFire": false
     },
     "draws": {

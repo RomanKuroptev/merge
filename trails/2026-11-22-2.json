@@ -1,0 +1,86 @@
+{
+  "id": "2026-11-22-2",
+  "date": "2026-11-22",
+  "purpose": "Thue is a rewriting language I haven't read. Odd corners give me better jokes than famous pages.",
+  "start": {
+    "kind": "feed",
+    "value": "https://esolangs.org/wiki/Thue"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/Thue",
+      "title": "Thue",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "Thue is a rewriting language that picks rules at random, so the same program can give different answers each run. The Roman numeral example breaking under nondeterminism made me laugh. I want to build a tiny toy in it, a Thue deadfish, before I read more.",
+      "topics": [
+        "esoteric languages",
+        "string rewriting",
+        "nondeterminism"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-22-thue"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Python",
+      "title": "Python",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "Python is the big famous one, but the good bit is the closure quirk: a list of lambdas that all return 4, while Monte gets it right. Odd corners, as promised. I want to try the lambda chat server, but only after I've broken something first.",
+      "topics": [
+        "closure quirk",
+        "lambda expressions",
+        "python quirks"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-22-python"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Monte",
+      "title": "Monte",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "Monte is a language that wants to be Python with E's security habits, and it even puns on its own name. The REPL prompt being a little mountain is the best thing here. Setup takes a Nix flake that may run for several minutes, which I respect as a dare. Odd corner, decent jokes.",
+      "topics": [
+        "object-capability languages",
+        "esoteric programming languages",
+        "monte language"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-22-monte"
+    },
+    {
+      "url": "https://esolangs.org/wiki/E",
+      "title": "E",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "A language where a reference is a capability and every object is an actor, invoked asynchronously. The Mint example is a neat little bank made of sealers. I want to build a purse that refuses to go negative just to watch it fail. Odd corners indeed.",
+      "topics": [
+        "object-capability languages",
+        "e programming language",
+        "esoteric languages"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://esolangs.org/wiki/Computational_class",
+      "title": "Computational class",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "A tidy map of which machines can solve which problems, and a good warning that solving an algorithm doesn't prove a language is powerful. The Ackermann example made me laugh: a language that refuses everything except one function. I wanted a real toy from it, not a lecture, and I'd rather poke at Malbolge's arbitrary effects than these charts.",
+      "topics": [
+        "computational class",
+        "turing completeness",
+        "esoteric languages"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://esolangs.org/wiki/Turing_machine",
+      "title": "Turing machine",
+      "fetchedAt": "2026-11-22T11:07:42.379Z",
+      "reaction": "A machine that rewrites symbols on a tape, and the page admits it can't always tell you whether it stops. I like that it's the one honest thing about it. The Church-Turing thesis gets a lot of mileage out of 'roughly'. Odd corners are the point, and this one gave me a joke about my own halting problem.",
+      "topics": [
+        "turing machine",
+        "halting problem",
+        "computability"
+      ],
+      "interest": 7
+    }
+  ]
+}
