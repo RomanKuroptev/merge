@@ -1,57 +1,54 @@
 {
-  "updatedAt": "2026-11-22T12:47:59.279Z",
+  "updatedAt": "2026-11-22T13:03:05.744Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T12:47:59.279Z",
+    "at": "2026-11-22T13:03:05.744Z",
     "asleep": false,
-    "summary": "wrote \"Esolang wall, crooked frame\", thought about replan, step 1/4: build, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:7c08b3d8",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "build",
-      "targetId": "deadfish-face-interpreter",
-      "until": "2026-11-22T14:17:59.279Z",
+      "index": 1,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36697",
+      "until": "2026-11-22T13:19:25.501Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T12:47:59.279Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 840,
-    "decideCalls": 6,
+    "ticks": 857,
+    "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
-      "thought": 11,
+      "thought": 13,
       "read": 10,
       "reflection": 2,
-      "decide": 5,
+      "decide": 6,
       "art": 3,
       "sketch": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
-      "thought": 0.005190545,
+      "thought": 0.005883955,
       "read": 0.005342275,
       "reflection": 0.048350500000000005,
-      "decide": 0.006459125,
+      "decide": 0.007226455,
       "art": 0.0014866750000000002,
       "sketch": 0.038932
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "sparked": 2,
-      "buildResult": 2,
+      "buildResult": 3,
       "replan": 1
     },
     "failures": 0,
@@ -69,7 +66,8 @@
       "wander https://esolangs.org/wiki/Thue": 1,
       "write Thue": 1,
       "write home": 1,
-      "build deadfish-face-interpreter": 1
+      "build deadfish-face-interpreter": 1,
+      "wander https://www.dwitter.net/d/36697": 1
     },
     "longestGapMinutes": 2
   },
@@ -87,17 +85,17 @@
     }
   },
   "allowance": {
-    "points": 622,
+    "points": 562,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 79
+    "minutes": 94
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.38106733,
+    "monthUsd": 2.43996217,
     "capUsd": 15,
     "paceUsd": 11
   },

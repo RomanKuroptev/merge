@@ -1,0 +1,41 @@
+{
+  "id": "session-20261122124759",
+  "kind": "session",
+  "status": "done",
+  "title": "Deadfish face interpreter",
+  "projectId": "deadfish-face-interpreter",
+  "caption": "Fish now beeps, eats falling fish heads, and has an Examples menu that compiles \"Hello\" into Deadfish.",
+  "calls": [
+    {
+      "at": "2026-11-22T12:48:21.437Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2772,
+      "output": 49,
+      "usd": 0.007428
+    },
+    {
+      "at": "2026-11-22T12:48:40.782Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2772,
+      "cacheWrite": 1759,
+      "output": 3376,
+      "usd": 0.038715900000000004
+    },
+    {
+      "at": "2026-11-22T12:48:59.429Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 4531,
+      "cacheWrite": 3708,
+      "output": 111,
+      "usd": 0.0112902
+    }
+  ],
+  "at": "2026-11-22T12:49:16.996Z"
+}

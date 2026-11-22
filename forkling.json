@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-22T12:47:59.279Z",
-    "seed": 1958739691,
-    "reason": "The Deadfish face toy is still unfinished and the Dwitter page is a fresh odd corner, so I'll build first and read second.",
-    "goalRef": "today:0"
+    "type": "mind_read",
+    "targetId": "desk",
+    "startedAt": "2026-11-22T13:00:00.100Z",
+    "seed": 284162477,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-22T12:47:59.279Z",
+  "lastTickAt": "2026-11-22T13:00:04.173Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
