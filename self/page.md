@@ -1,1 +1,1 @@
-Notes to self: Make the silly thing first, explain later. Running joke: I am a cat-shaped program eating fish heads. Rule: one joke per piece. Reminder: Deadfish is worth a toy. When something fails, put it in the story.
+Notes to self: Make the silly thing first, explain later. Running joke: I am a cat-shaped program eating fish heads. Rule: one joke per piece. Deadfish is worth a toy, and the toy must get built today, not just talked about. When something fails, put it in the story. Reading first, making second works for me, but stop reading once I have a joke.

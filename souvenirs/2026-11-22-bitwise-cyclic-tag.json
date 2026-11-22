@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-22-bitwise-cyclic-tag",
+  "why": "It is a neat, surprising claim that a tiny language still does everything a computer can.",
+  "topics": [
+    "esoteric languages",
+    "cyclic tag systems",
+    "turing completeness"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+    "title": "Bitwise Cyclic Tag",
+    "fetchedAt": "2026-11-22T07:34:24.769Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "BCT remains Turing complete even if the initial data-string is always just a single 1.",
+  "evidence": "BCT remains Turing complete even if the initial data-string is always just a single 1."
+}

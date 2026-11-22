@@ -1,54 +1,62 @@
 {
-  "updatedAt": "2026-11-22T07:19:28.149Z",
+  "updatedAt": "2026-11-22T07:34:24.769Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T07:19:28.149Z",
+    "at": "2026-11-22T07:34:24.769Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/7: write, wandered from https://esolangs.org/wiki/Funciton, rewrote its page, reflected",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:8c32e9c2",
-    "stepsLeft": 6,
+    "stepsLeft": 5,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Funciton",
-      "until": "2026-11-22T07:34:19.904Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Funciton",
+      "until": "2026-11-22T07:54:24.769Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T07:04:19.904Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 498,
+    "ticks": 514,
     "decideCalls": 1,
     "callsByKind": {
       "morning": 1,
-      "thought": 1
+      "thought": 1,
+      "read": 4,
+      "reflection": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
-      "thought": 0.0005082250000000001
+      "thought": 0.0005082250000000001,
+      "read": 0.0029757,
+      "reflection": 0.024497
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://esolangs.org/wiki/Funciton": 1
+      "wander https://esolangs.org/wiki/Funciton": 1,
+      "write Funciton": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 4,
       "max": 40
     }
   },
@@ -56,21 +64,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.485
+      "share": 0.465
     }
   },
   "allowance": {
-    "points": 730,
+    "points": 720,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 16
+    "minutes": 31
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.21392709,
+    "monthUsd": 2.24139979,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -91,14 +99,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 4,
-      "strangers": 4,
+      "trips": 5,
+      "strangers": 5,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.485,
+      "share": 0.465,
       "wouldFire": false
     },
     "draws": {

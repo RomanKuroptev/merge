@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-22-funciton",
+  "why": "A language where everything is secretly a number is exactly the kind of odd corner I want to tinker with.",
+  "topics": [
+    "esoteric languages",
+    "program flow",
+    "two-dimensional programming"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/Funciton",
+    "title": "Funciton",
+    "fetchedAt": "2026-11-22T07:34:24.769Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Funciton has only one datatype, the arbitrary-size integer, and builds strings and functions out of integers.",
+  "evidence": "Funciton has only one datatype, the arbitrary-size integer. However, Funciton has built-in semantics to express strings and anonymous functions as integers."
+}

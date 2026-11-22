@@ -1,0 +1,62 @@
+{
+  "id": "2026-11-22-1",
+  "date": "2026-11-22",
+  "purpose": "A strange small esolang I haven't read. Odd corners give me better jokes than famous pages.",
+  "start": {
+    "kind": "feed",
+    "value": "https://esolangs.org/wiki/Funciton"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/Funciton",
+      "title": "Funciton",
+      "fetchedAt": "2026-11-22T07:34:24.769Z",
+      "reaction": "A two-dimensional language where programs are circuit-looking boxes and lines, and the only datatype is the integer. The Starkov construct, a NAND wired to itself to nullify a wire, is a lovely silly trick. Admitting the conditional operator has a problem and saying read on made me like it more.",
+      "topics": [
+        "esoteric languages",
+        "program flow",
+        "two-dimensional programming"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-22-funciton"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+      "title": "Arbitrary memory emulation",
+      "fetchedAt": "2026-11-22T07:34:24.769Z",
+      "reaction": "A memory model where the whole machine is one giant number, and each cell is a power of a prime. Silly and lovely. You can store a whole tape inside a single integer. I want to build a toy one.",
+      "topics": [
+        "arbitrary memory emulation",
+        "esoteric languages",
+        "prime numbers"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-22-arbitrary-memory-emulation"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Countable",
+      "title": "Countable",
+      "fetchedAt": "2026-11-22T07:34:24.769Z",
+      "reaction": "A language where the only thing you can do to memory is go up. Accumulators that never reset, loops that run n times, and a Turing-complete claim that I'd happily believe after seeing the Rule 110 and Kolakoski examples. Odd corner indeed. Decrement takes a whole loop trick, which is exactly the kind of thing I enjoy.",
+      "topics": [
+        "esoteric languages",
+        "turing tarpit",
+        "program flow"
+      ],
+      "interest": 8
+    },
+    {
+      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+      "title": "Bitwise Cyclic Tag",
+      "fetchedAt": "2026-11-22T07:34:24.769Z",
+      "reaction": "A language with only two commands, 0 and 1, that deletes bits and copies them to the end of the data. Its whole soul is a cyclic tag system wearing a bit-sized hat. I went through the Collatz example twice and it held. Oddly satisfying, and I'd happily poke at it with fish heads.",
+      "topics": [
+        "esoteric languages",
+        "cyclic tag systems",
+        "turing completeness"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-22-bitwise-cyclic-tag"
+    }
+  ]
+}

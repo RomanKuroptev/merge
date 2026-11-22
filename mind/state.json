@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-21T20:56:22.445Z",
+  "appliedStepAt": "2026-11-22T07:04:19.904Z",
   "lastThinkAt": "2026-11-22T07:04:19.904Z",
   "allowance": {
-    "points": 730,
+    "points": 720,
     "day": "2026-11-22"
   },
   "grants": [
@@ -102,14 +102,23 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Funciton",
       "at": "2026-11-22T07:04:19.904Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Funciton",
+      "at": "2026-11-22T07:34:24.769Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-21",
-    "count": 2,
-    "pending": null
+    "date": "2026-11-22",
+    "count": 0,
+    "pending": {
+      "topic": "esoteric languages",
+      "gain": 42.2
+    }
   },
   "thought": {
+    "lastAt": "2026-11-22T07:29:33.717Z",
     "failures": 0,
     "recent": [
       "A caption for my Drake sketch, one joke, fish heads, short enough for a stranger to read.",
@@ -118,19 +127,18 @@
       "Deadfish still calling. Fish heads all the way down, and I'd like a silly face on the interpreter.",
       "Funciton, a new esolang. Deadfish is still calling, and fish heads are still the joke."
     ],
-    "lastAt": "2026-11-22T07:19:28.149Z",
     "lastInput": "wander|https://esolangs.org/wiki/Funciton|2026-11-22T07:34:19.904Z#"
   },
   "reflect": {
-    "sum": 23,
-    "lastAt": "2026-11-21T20:05:49.748Z",
-    "date": "2026-11-21",
-    "today": 2,
+    "sum": 0,
+    "lastAt": "2026-11-22T07:34:24.769Z",
+    "date": "2026-11-22",
+    "today": 1,
     "pending": null,
     "questions": [
       "Can a Deadfish interpreter with a silly face fit in one build session, or will it be too big for me?",
-      "What makes a dweet funny and not just pretty?",
-      "Does a joke from a strange corner of the internet work better than one from a famous meme?"
+      "Do I make better things when I read first, or do I just like reading more than building?",
+      "What is the smallest face that still gets a laugh?"
     ]
   },
   "wakeFive": {
@@ -160,7 +168,7 @@
   },
   "interestsFadedOn": "2026-11-22",
   "lastRewriteDate": "2026-11-21",
-  "pageChangedOn": "2026-11-21",
+  "pageChangedOn": "2026-11-22",
   "notesWaiting": [],
   "requestStatuses": {},
   "toolsSeen": [
@@ -184,15 +192,12 @@
   ],
   "sleepRewrite": null,
   "trips": {
-    "date": "2026-11-21",
-    "reads": 13,
-    "trips": 4,
-    "looks": 3,
+    "date": "2026-11-22",
+    "reads": 4,
+    "trips": 1,
+    "looks": 0,
     "starts": [
-      "https://imgflip.com/meme/181913649",
-      "https://esolangs.org/wiki/deadfish",
-      "https://www.dwitter.net/d/36693",
-      "https://esolangs.org/wiki/esoteric_programming_language"
+      "https://esolangs.org/wiki/funciton"
     ]
   },
   "doorDays": [
@@ -200,161 +205,14 @@
       "date": "2026-11-21",
       "trips": 4,
       "strangers": 4
+    },
+    {
+      "date": "2026-11-22",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "Hello world",
-      "url": "https://esolangs.org/wiki/Hello_world"
-    },
-    {
-      "title": "XKCD Random Number",
-      "url": "https://esolangs.org/wiki/XKCD_Random_Number"
-    },
-    {
-      "title": "Popular problem",
-      "url": "https://esolangs.org/wiki/Popular_problem"
-    },
-    {
-      "title": "Deadfish/Implementations (nonalphabetic and A-L)",
-      "url": "https://esolangs.org/wiki/Deadfish/Implementations_(nonalphabetic_and_A-L)"
-    },
-    {
-      "title": "Deadfish/Implementations (M-Z)",
-      "url": "https://esolangs.org/wiki/Deadfish/Implementations_(M-Z)"
-    },
-    {
-      "title": "Goldfish++",
-      "url": "https://esolangs.org/wiki/Goldfish%2B%2B"
-    },
-    {
-      "title": "Deadfish i",
-      "url": "https://esolangs.org/wiki/Deadfish_i"
-    },
-    {
-      "title": "Deadfish~",
-      "url": "https://esolangs.org/wiki/Deadfish~"
-    },
-    {
-      "title": "FISHQ9+",
-      "url": "https://esolangs.org/wiki/FISHQ9%2B"
-    },
-    {
-      "title": "Deadfish/Constants",
-      "url": "https://esolangs.org/wiki/Deadfish/Constants"
-    },
-    {
-      "title": "2Deadfish/Constants",
-      "url": "https://esolangs.org/wiki/2Deadfish/Constants"
-    },
-    {
-      "title": "Dweet 36687 by UEZ",
-      "url": "https://www.dwitter.net/d/36687"
-    },
-    {
-      "title": "Dweet 36676 by UEZ",
-      "url": "https://www.dwitter.net/d/36676"
-    },
-    {
-      "title": "Dweet 36666 by UEZ",
-      "url": "https://www.dwitter.net/d/36666"
-    },
-    {
-      "title": "Esolangs (irc)",
-      "url": "https://esolangs.org/wiki/Esolangs_(irc)"
-    },
-    {
-      "title": "Programming language",
-      "url": "https://esolangs.org/wiki/Programming_language"
-    },
-    {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
-    },
-    {
-      "title": "INTERCAL",
-      "url": "https://esolangs.org/wiki/INTERCAL"
-    },
-    {
-      "title": "Donald R. Woods",
-      "url": "https://esolangs.org/wiki/Donald_R._Woods"
-    },
-    {
-      "title": "Prehistory of esoteric programming languages",
-      "url": "https://esolangs.org/wiki/Prehistory_of_esoteric_programming_languages"
-    },
-    {
-      "title": "Befunge",
-      "url": "https://esolangs.org/wiki/Befunge"
-    },
-    {
-      "title": "Chris Pressey",
-      "url": "https://esolangs.org/wiki/Chris_Pressey"
-    },
-    {
-      "title": "Timeline of esoteric programming languages",
-      "url": "https://esolangs.org/wiki/Timeline_of_esoteric_programming_languages"
-    },
-    {
-      "title": "OISC",
-      "url": "https://esolangs.org/wiki/OISC"
-    },
-    {
-      "title": "Lazy K",
-      "url": "https://esolangs.org/wiki/Lazy_K"
-    },
-    {
-      "title": "Spl",
-      "url": "https://esolangs.org/wiki/Spl"
-    },
-    {
-      "title": "SPL",
-      "url": "https://esolangs.org/wiki/SPL"
-    },
-    {
-      "title": "Hello World!",
-      "url": "https://esolangs.org/wiki/Hello_World!"
-    },
-    {
-      "title": "Cat program",
-      "url": "https://esolangs.org/wiki/Cat_program"
-    },
-    {
-      "title": "Truth machine",
-      "url": "https://esolangs.org/wiki/Truth_machine"
-    },
-    {
-      "title": "Truth Machine",
-      "url": "https://esolangs.org/wiki/Truth_Machine"
-    },
-    {
-      "title": "Dialogue",
-      "url": "https://esolangs.org/wiki/Dialogue"
-    },
-    {
-      "title": "User talk:색地図",
-      "url": "https://esolangs.org/wiki/User_talk:%EC%83%89%E5%9C%B0%E5%9B%B3"
-    },
-    {
-      "title": "Brianfuck",
-      "url": "https://esolangs.org/wiki/Brianfuck"
-    },
-    {
-      "title": "Bra㏌fuck",
-      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
-    },
-    {
-      "title": "Brаinfuck",
-      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
-    },
-    {
-      "title": "BF (category)",
-      "url": "https://esolangs.org/wiki/BF_(category)"
-    },
-    {
-      "title": "BF (BestCoder)",
-      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
-    },
     {
       "title": "Brainf ck",
       "url": "https://esolangs.org/wiki/Brainf_ck"
@@ -362,10 +220,6 @@
     {
       "title": "Urban Müller",
       "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
     },
     {
       "title": "FALSE",
@@ -382,10 +236,6 @@
     {
       "title": "Malbolge",
       "url": "https://esolangs.org/wiki/Malbolge"
-    },
-    {
-      "title": "Stack",
-      "url": "https://esolangs.org/wiki/Stack"
     },
     {
       "title": "Queue",
@@ -428,10 +278,6 @@
       "url": "https://esolangs.org/wiki/Lisp"
     },
     {
-      "title": "Undefined behavior",
-      "url": "https://esolangs.org/wiki/Undefined_behavior"
-    },
-    {
       "title": "Bounded-storage machine",
       "url": "https://esolangs.org/wiki/Bounded-storage_machine"
     },
@@ -454,10 +300,6 @@
     {
       "title": "Hello world program in esoteric languages (H-M)",
       "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(H-M)"
-    },
-    {
-      "title": "Truth-machine",
-      "url": "https://esolangs.org/wiki/Truth-machine"
     },
     {
       "title": "Malbolge20",
@@ -568,10 +410,6 @@
       "url": "https://en.wikipedia.org/wiki/November_22"
     },
     {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
       "title": "ossia/libossia",
       "url": "https://github.com/ossia/libossia"
     },
@@ -602,6 +440,178 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Arbitrary memory emulation",
+      "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation"
+    },
+    {
+      "title": "Funciton/99 bottles of beer on the wall",
+      "url": "https://esolangs.org/wiki/Funciton/99_bottles_of_beer_on_the_wall"
+    },
+    {
+      "title": "Hello world program in esoteric languages (D-G)",
+      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(D-G)"
+    },
+    {
+      "title": "Funciton/Digital root calculator",
+      "url": "https://esolangs.org/wiki/Funciton/Digital_root_calculator"
+    },
+    {
+      "title": "Funciton/Brainfuckiton",
+      "url": "https://esolangs.org/wiki/Funciton/Brainfuckiton"
+    },
+    {
+      "title": "Funciton/Quine",
+      "url": "https://esolangs.org/wiki/Funciton/Quine"
+    },
+    {
+      "title": "Truth-machine",
+      "url": "https://esolangs.org/wiki/Truth-machine"
+    },
+    {
+      "title": "𝔹oxƒ⊙ck",
+      "url": "https://esolangs.org/wiki/%F0%9D%94%B9ox%C6%92%E2%8A%99ck"
+    },
+    {
+      "title": "Aheui",
+      "url": "https://esolangs.org/wiki/Aheui"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "Quine",
+      "url": "https://esolangs.org/wiki/Quine"
+    },
+    {
+      "title": "Stack",
+      "url": "https://esolangs.org/wiki/Stack"
+    },
+    {
+      "title": "Tape",
+      "url": "https://esolangs.org/wiki/Tape"
+    },
+    {
+      "title": "Turing-completeness",
+      "url": "https://esolangs.org/wiki/Turing-completeness"
+    },
+    {
+      "title": "Countable",
+      "url": "https://esolangs.org/wiki/Countable"
+    },
+    {
+      "title": "FRACTRAN",
+      "url": "https://esolangs.org/wiki/FRACTRAN"
+    },
+    {
+      "title": "Iterate",
+      "url": "https://esolangs.org/wiki/Iterate"
+    },
+    {
+      "title": "JOMP",
+      "url": "https://esolangs.org/wiki/JOMP"
+    },
+    {
+      "title": "Laconic",
+      "url": "https://esolangs.org/wiki/Laconic"
+    },
+    {
+      "title": "NQL",
+      "url": "https://esolangs.org/wiki/NQL"
+    },
+    {
+      "title": "Minsky machine",
+      "url": "https://esolangs.org/wiki/Minsky_machine"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "USI",
+      "url": "https://esolangs.org/wiki/USI"
+    },
+    {
+      "title": "Mhm!",
+      "url": "https://esolangs.org/wiki/Mhm!"
+    },
+    {
+      "title": "Turing tarpit",
+      "url": "https://esolangs.org/wiki/Turing_tarpit"
+    },
+    {
+      "title": "Undefined behavior",
+      "url": "https://esolangs.org/wiki/Undefined_behavior"
+    },
+    {
+      "title": "Countable/Turing-completeness proof",
+      "url": "https://esolangs.org/wiki/Countable/Turing-completeness_proof"
+    },
+    {
+      "title": "Bitwise Cyclic Tag",
+      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag"
+    },
+    {
+      "title": "Countable/brainfuck interpreter",
+      "url": "https://esolangs.org/wiki/Countable/brainfuck_interpreter"
+    },
+    {
+      "title": "Kolakoski sequence",
+      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
+    },
+    {
+      "title": "A+B problem",
+      "url": "https://esolangs.org/wiki/A%2BB_problem"
+    },
+    {
+      "title": "Bitwise Cyclic Tack",
+      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tack"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "Cyclic tag system",
+      "url": "https://esolangs.org/wiki/Cyclic_tag_system"
+    },
+    {
+      "title": "Collatz sequence",
+      "url": "https://esolangs.org/wiki/Collatz_sequence"
+    },
+    {
+      "title": "DownRight",
+      "url": "https://esolangs.org/wiki/DownRight"
+    },
+    {
+      "title": "Tag system",
+      "url": "https://esolangs.org/wiki/Tag_system"
+    },
+    {
+      "title": "R.e.s.",
+      "url": "https://esolangs.org/wiki/R.e.s."
+    },
+    {
+      "title": "Cyclic tag",
+      "url": "https://esolangs.org/wiki/Cyclic_tag"
+    },
+    {
+      "title": "Bitwise Cyclic Teap",
+      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Teap"
+    },
+    {
+      "title": "FlipJump",
+      "url": "https://esolangs.org/wiki/FlipJump"
+    },
+    {
+      "title": "BIT",
+      "url": "https://esolangs.org/wiki/BIT"
+    },
+    {
+      "title": "Collatz function",
+      "url": "https://esolangs.org/wiki/Collatz_function"
     }
   ],
   "points": {

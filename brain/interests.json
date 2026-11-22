@@ -176,9 +176,9 @@
       ]
     },
     "esoteric languages": {
-      "weight": 57.8,
+      "weight": 100,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -187,28 +187,28 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "trail:2026-11-21-4",
-          "title": "Esoteric programming language",
-          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-          "at": "2026-11-21T20:36:14.638Z"
+          "id": "trail:2026-11-22-1",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
         },
         {
-          "id": "2026-11-21-esoteric-programming-language",
-          "title": "Esoteric programming language",
-          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-          "at": "2026-11-21T20:36:14.638Z"
+          "id": "2026-11-22-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
         },
         {
-          "id": "2026-11-21-shakespeare",
-          "title": "Shakespeare",
-          "url": "https://esolangs.org/wiki/Shakespeare",
-          "at": "2026-11-21T20:36:14.638Z"
+          "id": "2026-11-22-arbitrary-memory-emulation",
+          "title": "Arbitrary memory emulation",
+          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+          "at": "2026-11-22T07:34:24.769Z"
         },
         {
-          "id": "2026-11-21-brainfuck",
-          "title": "brainfuck",
-          "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-21T20:36:14.638Z"
+          "id": "2026-11-22-bitwise-cyclic-tag",
+          "title": "Bitwise Cyclic Tag",
+          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+          "at": "2026-11-22T07:34:24.769Z"
         }
       ],
       "history": [
@@ -277,31 +277,61 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 6.2,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
         }
       ]
     },
     "program flow": {
-      "weight": 39.1,
+      "weight": 57.1,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-21T20:36:14.638Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "2026-11-21-2deadfish",
-          "title": "2Deadfish",
-          "url": "https://esolangs.org/wiki/2Deadfish",
-          "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "trail:2026-11-21-4",
-          "title": "Shakespeare",
-          "url": "https://esolangs.org/wiki/Shakespeare",
-          "at": "2026-11-21T20:36:14.638Z"
         },
         {
           "id": "2026-11-21-shakespeare",
@@ -314,6 +344,18 @@
           "title": "brainfuck",
           "url": "https://esolangs.org/wiki/brainfuck",
           "at": "2026-11-21T20:36:14.638Z"
+        },
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
         }
       ],
       "history": [
@@ -358,6 +400,24 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-21-4"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
         }
       ]
     },
@@ -544,6 +604,192 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-21-4"
+        }
+      ]
+    },
+    "two-dimensional programming": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-funciton",
+          "title": "Funciton",
+          "url": "https://esolangs.org/wiki/Funciton",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        }
+      ]
+    },
+    "arbitrary memory emulation": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Arbitrary memory emulation",
+          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-arbitrary-memory-emulation",
+          "title": "Arbitrary memory emulation",
+          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        }
+      ]
+    },
+    "prime numbers": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Arbitrary memory emulation",
+          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-arbitrary-memory-emulation",
+          "title": "Arbitrary memory emulation",
+          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        }
+      ]
+    },
+    "turing tarpit": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Countable",
+          "url": "https://esolangs.org/wiki/Countable",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        }
+      ]
+    },
+    "cyclic tag systems": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Bitwise Cyclic Tag",
+          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-bitwise-cyclic-tag",
+          "title": "Bitwise Cyclic Tag",
+          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
+        }
+      ]
+    },
+    "turing completeness": {
+      "weight": 14,
+      "firstSeen": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-22T07:34:24.769Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-1",
+          "title": "Bitwise Cyclic Tag",
+          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+          "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "2026-11-22-bitwise-cyclic-tag",
+          "title": "Bitwise Cyclic Tag",
+          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
+          "at": "2026-11-22T07:34:24.769Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-22T07:34:24.769Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-22-1"
         }
       ]
     }
