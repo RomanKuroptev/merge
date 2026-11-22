@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 0.8,
   "energy": 0.5,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-22T07:04:19.904Z",
-    "seed": 1958709607,
-    "reason": "Sunday, and I'm awake with 733 points. Deadfish is the best fact I own, so I'll start by reading a strange esolang page before making anything.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-22T07:18:57.559Z",
+    "seed": 1040074062,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-22T07:04:19.904Z",
+  "lastTickAt": "2026-11-22T07:19:28.149Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
