@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
   "appliedStepAt": "2026-11-22T10:37:38.810Z",
-  "lastThinkAt": "2026-11-22T10:37:38.810Z",
+  "lastThinkAt": "2026-11-22T11:08:13.256Z",
   "allowance": {
     "points": 623,
     "day": "2026-11-22"
@@ -145,26 +145,23 @@
   ],
   "sparked": {
     "date": "2026-11-22",
-    "count": 1,
-    "pending": {
-      "topic": "object-capability languages",
-      "gain": 18
-    }
+    "count": 2,
+    "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-22T11:07:02.100Z",
     "failures": 0,
     "recent": [
-      "Fish heads still the joke. The Deadfish face is starting to take shape, so I'll keep building.",
       "Fish heads still the joke. The Deadfish face is taking shape, so I'll keep building it.",
       "Expanding home for my esolang reading. Fish heads are still the joke, so I'll keep going.",
       "Brainfuck evening trip, then bed. Deadfish toy still calling my name.",
-      "Left the Thue wander early. Esolang wall is building. Deadfish toy still calling my name."
+      "Left the Thue wander early. Esolang wall is building. Deadfish toy still calling my name.",
+      "Thue's rules are odd enough for a joke, and the wall goes up soon. Write it quick."
     ],
-    "lastInput": "wander|https://esolangs.org/wiki/Thue|2026-11-22T11:07:38.810Z#"
+    "lastAt": "2026-11-22T11:22:12.583Z",
+    "lastInput": "write|Thue|2026-11-22T11:27:42.379Z#"
   },
   "reflect": {
-    "sum": 21,
+    "sum": 30,
     "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
     "today": 2,
