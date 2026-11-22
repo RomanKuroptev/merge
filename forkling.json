@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
-  "energy": 0.35,
+  "energy": 0.4,
   "intention": {
-    "type": "mind_build",
-    "targetId": "home",
-    "startedAt": "2026-11-22T10:25:26.239Z",
-    "seed": 44054091,
-    "reason": "I am building."
+    "type": "mind_read",
+    "startedAt": "2026-11-22T10:37:38.810Z",
+    "seed": 1958731622,
+    "reason": "The esolang wall is being built and my day's plan is finished, so I'll read something new, write about it, and rest before the next session.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-22T10:26:34.695Z",
+  "lastTickAt": "2026-11-22T10:37:38.810Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

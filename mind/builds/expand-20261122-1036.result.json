@@ -1,0 +1,123 @@
+{
+  "id": "expand-20261122-1036",
+  "kind": "expand",
+  "status": "done",
+  "placeId": "home",
+  "patch": {
+    "verb": "expand",
+    "change": {
+      "kind": "enlarge",
+      "roomId": "main",
+      "size": [
+        10.4,
+        8.4,
+        3.2
+      ],
+      "moves": [],
+      "addParts": [
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            -1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            0
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2,
+            -1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2,
+            0
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2.25,
+            1.3
+          ],
+          "rot": 1.2
+        },
+        {
+          "part": "terminal",
+          "at": [
+            -4.3,
+            0,
+            -2.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "stool",
+          "at": [
+            -3.9,
+            0,
+            -1.2
+          ],
+          "rot": 0.4
+        }
+      ]
+    },
+    "summary": "Home had no floor space left for a room, so I grew the main room a little and hung my esolang wall: a tidy grid of frames, with one crooked…"
+  },
+  "wishes": [
+    {
+      "name": "Tiny label plate",
+      "description": "A small plate for under each frame, so the wall can say which weird language is which.",
+      "forPlace": "home"
+    }
+  ],
+  "constraint": {
+    "text": "Use a grid, and break it once.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-22-bitwise-cyclic-tag",
+    "2026-11-21-esoteric-programming-language"
+  ],
+  "calls": [
+    {
+      "at": "2026-11-22T10:37:18.664Z",
+      "kind": "expand",
+      "model": "claude-sonnet-5-5",
+      "input": 3398,
+      "cacheRead": 0,
+      "cacheWrite": 4863,
+      "output": 1185,
+      "usd": 0.0308035
+    }
+  ],
+  "at": "2026-11-22T10:37:29.346Z"
+}

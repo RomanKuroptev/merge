@@ -31,8 +31,8 @@
       "id": "main",
       "name": "Main room",
       "size": [
-        10,
-        8,
+        10.4,
+        8.4,
         3.2
       ],
       "at": [
@@ -130,6 +130,78 @@
             3
           ],
           "rot": 0
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            -1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            0
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            1.2,
+            1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2,
+            -1.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2,
+            0
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "frame-small",
+          "at": [
+            -5.1,
+            2.25,
+            1.3
+          ],
+          "rot": 1.2
+        },
+        {
+          "part": "terminal",
+          "at": [
+            -4.3,
+            0,
+            -2.2
+          ],
+          "rot": 1.5708
+        },
+        {
+          "part": "stool",
+          "at": [
+            -3.9,
+            0,
+            -1.2
+          ],
+          "rot": 0.4
         }
       ]
     }
@@ -153,8 +225,11 @@
     }
   ],
   "state": {
-    "construction": null,
-    "lastCareAt": "2026-11-21T17:54:16.230Z",
+    "construction": {
+      "kind": "expand",
+      "finishesAt": "2026-11-22T13:37:38.810Z"
+    },
+    "lastCareAt": "2026-11-22T10:37:38.810Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -170,6 +245,11 @@
       "at": "2026-11-21T17:54:16.230Z",
       "verb": "tend",
       "summary": "Put the Deadfish facts on the shelf at home, next to the lamps I meant to tidy. The fish heads stay in the kitchen."
+    },
+    {
+      "at": "2026-11-22T10:37:38.810Z",
+      "verb": "expand",
+      "summary": "Home had no floor space left for a room, so I grew the main room a little and hung my esolang wall: a tidy grid of frames, with one crooked…"
     }
   ]
 }

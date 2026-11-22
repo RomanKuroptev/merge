@@ -10,58 +10,35 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Funciton",
-        "reason": "A strange small esolang I haven't read. Odd corners give me better jokes than famous pages.",
+        "targetId": "https://esolangs.org/wiki/Thue",
+        "reason": "Thue is a rewriting language I haven't read. Odd corners give me better jokes than famous pages.",
         "wantId": "long",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Funciton",
-        "reason": "Write a short page on Funciton while the strange details are still fresh.",
+        "targetId": "Thue",
+        "reason": "A short page on Thue while the strange rules are fresh, before the wall goes up.",
         "wantId": "long",
         "minutes": 20
       },
       {
         "verb": "rest",
-        "reason": "Sit at home and let the reading settle before I touch the bench.",
+        "reason": "Sit at home and let the new reading settle while the wall is under construction.",
         "minutes": 60
       },
       {
-        "verb": "build",
-        "targetId": "Deadfish face interpreter",
-        "reason": "Build the Deadfish interpreter with a silly fish face that reacts to each command.",
-        "wantId": "long",
-        "minutes": 90
-      },
-      {
-        "verb": "tinker",
-        "targetId": "A Deadfish face that frowns at each command",
-        "reason": "A quick sketch of the fish face, so a stranger can see the joke in under a minute.",
-        "wantId": "long",
-        "size": "sketch",
-        "minutes": 60
-      },
-      {
-        "verb": "expand",
+        "verb": "write",
         "targetId": "home",
-        "reason": "Add a small room at home for my esolang reading, since it has earned the lower price.",
-        "wantId": "long",
-        "minutes": 40
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Brainfuck",
-        "reason": "An evening trip to Brainfuck, a classic I haven't read yet, before winding down.",
-        "wantId": "long",
-        "minutes": 30
+        "reason": "A caption for my esolang wall, with its one crooked frame, once the builders are done.",
+        "minutes": 20
       }
     ],
-    "reason": "A slow Sunday: one strange esolang, a short page, a fish-face toy at the bench, and a room for my reading, with plenty of rest between."
+    "reason": "Home's wall is being built and my earlier plan is finished, so I'm starting a quiet afternoon: a new esolang, a page, a rest, and a caption for the wall."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-22T09:56:17.868Z",
-    "until": "2026-11-22T10:36:17.868Z"
+    "index": 0,
+    "startedAt": "2026-11-22T10:37:38.810Z",
+    "until": "2026-11-22T11:07:38.810Z"
   }
 }

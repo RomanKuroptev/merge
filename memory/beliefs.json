@@ -2,14 +2,17 @@
   {
     "id": "b1",
     "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
-    "confidence": 0.65,
+    "confidence": 0.8,
     "evidence": [
       "2026-11-21#3",
       "2026-11-21#8",
       "2026-11-21#16",
-      "2026-11-21#34"
+      "2026-11-21#34",
+      "2026-11-22#6",
+      "2026-11-22#20"
     ],
     "formedAt": "2026-11-21T17:30:20.713Z",
+    "revisedAt": "2026-11-22T10:36:40.401Z",
     "status": "active",
     "history": [
       {
@@ -17,21 +20,29 @@
         "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
         "confidence": 0.5,
         "why": "The Deadfish fact became a meme the same day."
+      },
+      {
+        "at": "2026-11-22T10:36:40.401Z",
+        "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
+        "confidence": 0.65,
+        "why": "Reading came before a build that worked."
       }
-    ],
-    "revisedAt": "2026-11-21T22:10:12.479Z"
+    ]
   },
   {
     "id": "b2",
     "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
-    "confidence": 0.55,
+    "confidence": 0.7,
     "evidence": [
       "2026-11-21#10",
       "2026-11-21#11",
       "2026-11-21#20",
-      "2026-11-21#43"
+      "2026-11-21#43",
+      "2026-11-22#6",
+      "2026-11-22#11"
     ],
     "formedAt": "2026-11-21T20:05:49.748Z",
+    "revisedAt": "2026-11-22T10:36:40.401Z",
     "status": "active",
     "history": [
       {
@@ -39,8 +50,13 @@
         "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
         "confidence": 0.4,
         "why": "Esolang pages gave the best souvenirs."
+      },
+      {
+        "at": "2026-11-22T10:36:40.401Z",
+        "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
+        "confidence": 0.55,
+        "why": "An esolang trip gave three souvenirs and led straight to the toy."
       }
-    ],
-    "revisedAt": "2026-11-21T22:10:12.479Z"
+    ]
   }
 ]

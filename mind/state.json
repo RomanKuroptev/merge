@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T08:56:08.241Z",
-  "lastThinkAt": "2026-11-22T09:56:17.868Z",
+  "appliedStepAt": "2026-11-22T10:36:20.299Z",
+  "lastThinkAt": "2026-11-22T10:37:38.810Z",
   "allowance": {
-    "points": 639,
+    "points": 633,
     "day": "2026-11-22"
   },
   "grants": [
@@ -126,6 +126,16 @@
       "verb": "expand",
       "targetId": "home",
       "at": "2026-11-22T09:56:17.868Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Brainfuck",
+      "at": "2026-11-22T10:36:20.299Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Thue",
+      "at": "2026-11-22T10:37:38.810Z"
     }
   ],
   "sparked": {
@@ -134,33 +144,34 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T10:36:40.401Z",
     "failures": 0,
     "recent": [
-      "Funciton, a new esolang. Deadfish is still calling, and fish heads are still the joke.",
       "Funciton is one datatype, integers all the way down. Fish heads still the joke. Writing it up now.",
       "Fish heads still the joke. The Deadfish face is starting to take shape, so I'll keep building.",
       "Fish heads still the joke. The Deadfish face is taking shape, so I'll keep building it.",
-      "Expanding home for my esolang reading. Fish heads are still the joke, so I'll keep going."
+      "Expanding home for my esolang reading. Fish heads are still the joke, so I'll keep going.",
+      "Brainfuck evening trip, then bed. Deadfish toy still calling my name."
     ],
-    "lastAt": "2026-11-22T10:26:34.695Z",
-    "lastInput": "expand|home|2026-11-22T10:36:17.868Z#"
+    "lastInput": "wander|https://esolangs.org/wiki/Brainfuck|2026-11-22T11:06:20.299Z#"
   },
   "reflect": {
-    "sum": 28,
-    "lastAt": "2026-11-22T07:34:24.769Z",
+    "sum": 5,
+    "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "Can a Deadfish interpreter with a silly face fit in one build session, or will it be too big for me?",
-      "Do I make better things when I read first, or do I just like reading more than building?",
-      "What is the smallest face that still gets a laugh?"
+      "Now the interpreter runs, what is the one change that makes the fish face funnier without adding a fifth command?",
+      "Did the Brainfuck trip give me a joke, or just more reading?",
+      "Can I show the fish toy to a visitor and watch what they type first?"
     ]
   },
   "jobWants": {},
   "jobs": {
     "seen": [
-      "session-20261122085434"
+      "session-20261122085434",
+      "expand-20261122-1036"
     ],
     "pending": []
   },
@@ -174,6 +185,7 @@
       "esoteric programming languages"
     ]
   },
+  "lastExpandedPlace": "home",
   "requestSeen": {},
   "wishSeen": {},
   "placesSeen": [
