@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T17:11:14.476Z",
+  "appliedStepAt": "2026-11-22T17:41:24.173Z",
   "lastThinkAt": "2026-11-22T17:41:24.173Z",
   "allowance": {
-    "points": 512,
+    "points": 502,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Funciton",
-      "at": "2026-11-22T07:34:24.769Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-22T07:54:27.744Z"
@@ -140,6 +135,11 @@
       "verb": "wander",
       "targetId": "https://github.com/css-doodle/css-doodle",
       "at": "2026-11-22T17:41:24.173Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Deadfish Smiles At Everything",
+      "at": "2026-11-22T18:11:27.953Z"
     }
   ],
   "sparked": {
@@ -148,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T18:10:47.770Z",
     "failures": 0,
     "recent": [
       "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build.",
@@ -156,11 +157,10 @@
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy.",
       "Fish snacks on the bench, fainting-fish caption up. Then the Deadfish toy. One joke, then build."
     ],
-    "lastAt": "2026-11-22T17:54:40.599Z",
     "lastInput": "wander|https://github.com/css-doodle/css-doodle|2026-11-22T18:11:24.173Z#"
   },
   "reflect": {
-    "sum": 92,
+    "sum": 95,
     "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
     "today": 2,
@@ -238,14 +238,15 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-22",
-    "reads": 17,
-    "trips": 4,
+    "reads": 21,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
       "https://esolangs.org/wiki/thue",
       "https://www.dwitter.net/d/36697",
-      "https://en.wikipedia.org/wiki/mairzy_doates"
+      "https://en.wikipedia.org/wiki/mairzy_doates",
+      "https://github.com/css-doodle/css-doodle"
     ]
   },
   "doorDays": [
@@ -256,59 +257,11 @@
     },
     {
       "date": "2026-11-22",
-      "trips": 4,
-      "strangers": 4
+      "trips": 5,
+      "strangers": 5
     }
   ],
   "seen": [
-    {
-      "title": "Turing tarpit",
-      "url": "https://esolangs.org/wiki/Turing_tarpit"
-    },
-    {
-      "title": "InterpretMe",
-      "url": "https://esolangs.org/wiki/InterpretMe"
-    },
-    {
-      "title": "Kolakoski sequence",
-      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
-      "title": "Unrestricted grammar",
-      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
-    },
-    {
-      "title": "Turing machine",
-      "url": "https://esolangs.org/wiki/Turing_machine"
-    },
-    {
-      "title": "Turing-complete",
-      "url": "https://esolangs.org/wiki/Turing-complete"
-    },
-    {
-      "title": "Pseudocode",
-      "url": "https://esolangs.org/wiki/Pseudocode"
-    },
-    {
-      "title": "Bootstrap",
-      "url": "https://esolangs.org/wiki/Bootstrap"
-    },
-    {
-      "title": "Forth",
-      "url": "https://esolangs.org/wiki/Forth"
-    },
-    {
-      "title": "Lisp",
-      "url": "https://esolangs.org/wiki/Lisp"
-    },
-    {
-      "title": "Perl",
-      "url": "https://esolangs.org/wiki/Perl"
-    },
     {
       "title": "StegFuck",
       "url": "https://esolangs.org/wiki/StegFuck"
@@ -660,6 +613,54 @@
     {
       "title": "UCI WorldTour",
       "url": "https://en.wikipedia.org/wiki/UCI_WorldTour"
+    },
+    {
+      "title": "Leonxlnx/tastecode",
+      "url": "https://github.com/Leonxlnx/tastecode"
+    },
+    {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
+      "title": "grifdail/NodePainter",
+      "url": "https://github.com/grifdail/NodePainter"
+    },
+    {
+      "title": "ma1902056219-coder/openpixel",
+      "url": "https://github.com/ma1902056219-coder/openpixel"
+    },
+    {
+      "title": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux"
+    },
+    {
+      "title": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify"
+    },
+    {
+      "title": "Chat2AnyLLM/awesome-claude-skills",
+      "url": "https://github.com/Chat2AnyLLM/awesome-claude-skills"
+    },
+    {
+      "title": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "title": "gosom/google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper"
+    },
+    {
+      "title": "whystrohm/shotkit",
+      "url": "https://github.com/whystrohm/shotkit"
+    },
+    {
+      "title": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code"
     }
   ],
   "points": {
