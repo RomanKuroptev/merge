@@ -1,57 +1,54 @@
 {
-  "updatedAt": "2026-11-22T14:39:40.959Z",
+  "updatedAt": "2026-11-22T14:53:54.931Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T14:39:40.959Z",
+    "at": "2026-11-22T14:53:54.931Z",
     "asleep": false,
-    "summary": "wrote \"Bench caption: the fainting fish\", thought about replan, step 1/5: build, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:49c48bfb",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "build",
-      "targetId": "deadfish-face-interpreter",
-      "until": "2026-11-22T16:09:40.959Z",
+      "index": 1,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
+      "until": "2026-11-22T15:10:54.976Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T14:39:40.959Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 960,
-    "decideCalls": 8,
+    "ticks": 975,
+    "decideCalls": 9,
     "callsByKind": {
       "morning": 1,
-      "thought": 16,
+      "thought": 17,
       "read": 13,
       "reflection": 2,
-      "decide": 7,
+      "decide": 8,
       "art": 4,
       "sketch": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
-      "thought": 0.007492705,
+      "thought": 0.008042755,
       "read": 0.006004359999999999,
       "reflection": 0.048350500000000005,
-      "decide": 0.00906738,
+      "decide": 0.00994981,
       "art": 0.0019323000000000003,
       "sketch": 0.038932
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
+      "stepDone": 15,
       "sparked": 2,
-      "buildResult": 3,
+      "buildResult": 4,
       "replan": 2
     },
     "failures": 0,
@@ -71,7 +68,8 @@
       "write home": 1,
       "build deadfish-face-interpreter": 2,
       "wander https://www.dwitter.net/d/36697": 1,
-      "write workshop": 1
+      "write workshop": 1,
+      "wander https://en.wikipedia.org/wiki/Mairzy_Doates": 1
     },
     "longestGapMinutes": 2
   },
@@ -89,17 +87,17 @@
     }
   },
   "allowance": {
-    "points": 561,
+    "points": 547,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 191
+    "minutes": 205
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.44451955,
+    "monthUsd": 2.45651283,
     "capUsd": 15,
     "paceUsd": 11
   },

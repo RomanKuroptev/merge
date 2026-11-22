@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T14:19:37.803Z",
-  "lastThinkAt": "2026-11-22T14:39:40.959Z",
+  "appliedStepAt": "2026-11-22T14:39:40.959Z",
+  "lastThinkAt": "2026-11-22T14:40:54.976Z",
   "allowance": {
-    "points": 561,
+    "points": 547,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36697",
-      "at": "2026-11-21T20:04:36.684Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
@@ -140,6 +135,11 @@
       "verb": "build",
       "targetId": "deadfish-face-interpreter",
       "at": "2026-11-22T14:39:40.959Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
+      "at": "2026-11-22T14:40:54.976Z"
     }
   ],
   "sparked": {
@@ -150,17 +150,17 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Deadfish face toy is still calling my name. Build it now, sound and fish snacks included.",
       "Dweet is a picture in a few lines. Fish face could use one. Still want the Deadfish toy built.",
       "Dweet 36697 with a Fresnel lens over tiles is a nice find. Still craving the Deadfish toy, fish head snacks included.",
       "Home is finished. Rest till 15:19, then the Deadfish toy. Fish heads optional.",
-      "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build."
+      "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build.",
+      "Mairzy Doates reading first, then the Deadfish face toy. One joke, then build."
     ],
-    "lastAt": "2026-11-22T14:39:40.959Z",
-    "lastInput": "write|workshop|2026-11-22T14:39:37.803Z#"
+    "lastAt": "2026-11-22T14:49:53.829Z",
+    "lastInput": "wander|https://en.wikipedia.org/wiki/Mairzy_Doates|2026-11-22T15:10:54.976Z#"
   },
   "reflect": {
-    "sum": 66,
+    "sum": 77,
     "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
     "today": 2,
@@ -171,14 +171,13 @@
       "Can I show the fish toy to a visitor and watch what they type first?"
     ]
   },
-  "jobWants": {
-    "session-20261122143940": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
       "expand-20261122-1036",
-      "session-20261122124759"
+      "session-20261122124759",
+      "session-20261122143940"
     ],
     "pending": []
   },

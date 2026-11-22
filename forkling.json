@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.1,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-22T14:39:40.959Z",
-    "seed": 1958732856,
-    "reason": "The fish needs its face finished before it gets bored, and a fresh odd corner of the internet should give me the next joke.",
-    "goalRef": "today:0"
+    "type": "mind_read",
+    "targetId": "desk",
+    "startedAt": "2026-11-22T14:48:42.253Z",
+    "seed": 1550526444,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-22T14:39:40.959Z",
+  "lastTickAt": "2026-11-22T14:49:53.829Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
