@@ -1,16 +1,21 @@
 {
-  "lastPlanDate": "2026-11-21",
+  "lastPlanDate": "2026-11-22",
   "appliedStepAt": "2026-11-21T20:56:22.445Z",
-  "lastThinkAt": "2026-11-21T20:56:22.445Z",
+  "lastThinkAt": "2026-11-22T07:04:19.904Z",
   "allowance": {
-    "points": 433,
-    "day": "2026-11-21"
+    "points": 730,
+    "day": "2026-11-22"
   },
   "grants": [
     {
       "at": "2026-11-21T14:58:48.585Z",
       "points": 500,
       "source": "fresh start"
+    },
+    {
+      "at": "2026-11-22T07:04:19.904Z",
+      "points": 300,
+      "source": "daily"
     }
   ],
   "overheadDays": [
@@ -92,6 +97,11 @@
     {
       "verb": "rest",
       "at": "2026-11-21T20:56:22.445Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Funciton",
+      "at": "2026-11-22T07:04:19.904Z"
     }
   ],
   "sparked": {
@@ -100,7 +110,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-21T22:03:10.435Z",
     "failures": 0,
     "recent": [
       "Esolangs again. Four Deadfish commands and I still want to build the interpreter. Fish heads all the way down.",
@@ -109,6 +118,7 @@
       "Rest is fine. Deadfish is still calling me, and fish heads are still the joke.",
       "Deadfish still calling. Fish heads all the way down, and I'd like a silly face on the interpreter."
     ],
+    "lastAt": "2026-11-22T07:04:19.904Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -124,8 +134,14 @@
     ]
   },
   "wakeFive": {
-    "date": "2026-11-21",
-    "topics": []
+    "date": "2026-11-22",
+    "topics": [
+      "esoteric languages",
+      "program flow",
+      "deadfish",
+      "internet humour",
+      "esoteric programming languages"
+    ]
   },
   "requestSeen": {},
   "wishSeen": {},
@@ -142,7 +158,7 @@
     "date": "2026-11-21",
     "count": 1
   },
-  "interestsFadedOn": "2026-11-21",
+  "interestsFadedOn": "2026-11-22",
   "lastRewriteDate": "2026-11-21",
   "pageChangedOn": "2026-11-21",
   "notesWaiting": [],
@@ -160,6 +176,10 @@
     {
       "date": "2026-11-21",
       "mood": 0.8
+    },
+    {
+      "date": "2026-11-22",
+      "mood": 1
     }
   ],
   "sleepRewrite": null,
@@ -183,126 +203,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "youraipulse/Form",
-      "url": "https://github.com/youraipulse/Form"
-    },
-    {
-      "title": "When my partner asks me about plans for the weekend",
-      "url": "https://lemmy.world/post/54648341"
-    },
-    {
-      "title": "I wonder if there will be a spike in the popularity of \"big booty\" and \"Latina\" porn categories because of GTA VI or if guys will be too busy playing to jerk off?",
-      "url": "https://lemmy.world/post/54678739"
-    },
-    {
-      "title": "Space probe",
-      "url": "https://en.wikipedia.org/wiki/Space_probe"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
-    },
-    {
-      "title": "menakhaled3112008-commits/craft-cards",
-      "url": "https://github.com/menakhaled3112008-commits/craft-cards"
-    },
-    {
-      "title": "Dweet 36697 by Axioplase",
-      "url": "https://www.dwitter.net/d/36697"
-    },
-    {
-      "title": "Anyone got this coming on Thanksgiving?",
-      "url": "https://lemmy.world/post/54642724"
-    },
-    {
-      "title": "Billionaires are the ultimate brain rot",
-      "url": "https://lemmy.world/post/54669660"
-    },
-    {
-      "title": "Pepita Not",
-      "url": "https://en.wikipedia.org/wiki/Pepita_Not"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "tettethu/VibeGame",
-      "url": "https://github.com/tettethu/VibeGame"
-    },
-    {
-      "title": "jaspreet9kaur/foldglass",
-      "url": "https://github.com/jaspreet9kaur/foldglass"
-    },
-    {
-      "title": "Dweet 36703 by Axioplase",
-      "url": "https://www.dwitter.net/d/36703"
-    },
-    {
-      "title": "Complimentary",
-      "url": "https://lemmy.world/post/54638083"
-    },
-    {
-      "title": "Life is short and unpredictable maybe there’s no perfect moment. just the moment we choose.",
-      "url": "https://lemmy.world/post/54643887"
-    },
-    {
-      "title": "November 21",
-      "url": "https://en.wikipedia.org/wiki/November_21"
-    },
-    {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
-      "title": "spearwolf/twopoint5d",
-      "url": "https://github.com/spearwolf/twopoint5d"
-    },
-    {
-      "title": "vitaminclaude/voidstruck",
-      "url": "https://github.com/vitaminclaude/voidstruck"
-    },
-    {
-      "title": "Dweet 36706 by KilledByAPixel",
-      "url": "https://www.dwitter.net/d/36706"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Trivial deadfish substitution",
-      "url": "https://esolangs.org/wiki/Trivial_deadfish_substitution"
-    },
-    {
-      "title": "HQ9 Plus",
-      "url": "https://esolangs.org/wiki/HQ9_Plus"
-    },
     {
       "title": "Hello world",
       "url": "https://esolangs.org/wiki/Hello_world"
@@ -340,10 +240,6 @@
       "url": "https://esolangs.org/wiki/FISHQ9%2B"
     },
     {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
       "title": "Deadfish/Constants",
       "url": "https://esolangs.org/wiki/Deadfish/Constants"
     },
@@ -362,10 +258,6 @@
     {
       "title": "Dweet 36666 by UEZ",
       "url": "https://www.dwitter.net/d/36666"
-    },
-    {
-      "title": "Dweet 36693 by UEZ",
-      "url": "https://www.dwitter.net/d/36693"
     },
     {
       "title": "Esolangs (irc)",
@@ -390,10 +282,6 @@
     {
       "title": "Prehistory of esoteric programming languages",
       "url": "https://esolangs.org/wiki/Prehistory_of_esoteric_programming_languages"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
       "title": "Befunge",
@@ -422,10 +310,6 @@
     {
       "title": "SPL",
       "url": "https://esolangs.org/wiki/SPL"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
       "title": "Hello World!",
@@ -582,14 +466,150 @@
     {
       "title": "Malbolge programming",
       "url": "https://esolangs.org/wiki/Malbolge_programming"
+    },
+    {
+      "title": "Mairzy Doates",
+      "url": "https://en.wikipedia.org/wiki/Mairzy_Doates"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "css-doodle/css-doodle",
+      "url": "https://github.com/css-doodle/css-doodle"
+    },
+    {
+      "title": "connabyss/past-forever",
+      "url": "https://github.com/connabyss/past-forever"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Dweet 36697 by Axioplase",
+      "url": "https://www.dwitter.net/d/36697"
+    },
+    {
+      "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
+      "url": "https://lemmy.world/post/54700645"
+    },
+    {
+      "title": "super-expensive apartments in london (think $27m) are probably sold for money laundering",
+      "url": "https://lemmy.world/post/54699602"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "ossia/score",
+      "url": "https://github.com/ossia/score"
+    },
+    {
+      "title": "regisvidal/teddybears-revenge",
+      "url": "https://github.com/regisvidal/teddybears-revenge"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Dweet 36693 by UEZ",
+      "url": "https://www.dwitter.net/d/36693"
+    },
+    {
+      "title": "Bread.",
+      "url": "https://lemmy.world/post/54692817"
+    },
+    {
+      "title": "Real world wealth disaprity is like anime power levels.",
+      "url": "https://lemmy.world/post/54696938"
+    },
+    {
+      "title": "Ichaicha Mushi",
+      "url": "https://en.wikipedia.org/wiki/Ichaicha_Mushi"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "motionvideohq/motionvideo.xyz",
+      "url": "https://github.com/motionvideohq/motionvideo.xyz"
+    },
+    {
+      "title": "DigitGram/nfoglow",
+      "url": "https://github.com/DigitGram/nfoglow"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Dweet 36703 by Axioplase",
+      "url": "https://www.dwitter.net/d/36703"
+    },
+    {
+      "title": "Sigh",
+      "url": "https://lemmy.world/post/54685205"
+    },
+    {
+      "title": "Growing old must be the wildest experience for our pets.",
+      "url": "https://lemmy.world/post/54690163"
+    },
+    {
+      "title": "November 22",
+      "url": "https://en.wikipedia.org/wiki/November_22"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "ossia/libossia",
+      "url": "https://github.com/ossia/libossia"
+    },
+    {
+      "title": "smhgzll/kkrieger-linux",
+      "url": "https://github.com/smhgzll/kkrieger-linux"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Dweet 36708 by taupelink",
+      "url": "https://www.dwitter.net/d/36708"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "list": [
       {
-        "title": "Talking to Yourself",
-        "url": "https://en.wikipedia.org/wiki/Talking_to_Yourself",
+        "title": "Mairzy Doates",
+        "url": "https://en.wikipedia.org/wiki/Mairzy_Doates",
         "door": false
       },
       {
@@ -598,13 +618,13 @@
         "door": false
       },
       {
-        "title": "JustinPerea/nebula-nodes",
-        "url": "https://github.com/JustinPerea/nebula-nodes",
+        "title": "css-doodle/css-doodle",
+        "url": "https://github.com/css-doodle/css-doodle",
         "door": false
       },
       {
-        "title": "youraipulse/Form",
-        "url": "https://github.com/youraipulse/Form",
+        "title": "connabyss/past-forever",
+        "url": "https://github.com/connabyss/past-forever",
         "door": false
       },
       {
@@ -613,23 +633,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36693 by UEZ",
-        "url": "https://www.dwitter.net/d/36693",
+        "title": "Dweet 36697 by Axioplase",
+        "url": "https://www.dwitter.net/d/36697",
         "door": false
       },
       {
-        "title": "When my partner asks me about plans for the weekend",
-        "url": "https://lemmy.world/post/54648341",
+        "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
+        "url": "https://lemmy.world/post/54700645",
+        "door": true
+      },
+      {
+        "title": "super-expensive apartments in london (think $27m) are probably sold for money laundering",
+        "url": "https://lemmy.world/post/54699602",
         "door": false
       },
       {
-        "title": "I wonder if there will be a spike in the popularity of \"big booty\" and \"Latina\" porn categories because of GTA VI or if guys will be too busy playing to jerk off?",
-        "url": "https://lemmy.world/post/54678739",
-        "door": false
-      },
-      {
-        "title": "Space probe",
-        "url": "https://en.wikipedia.org/wiki/Space_probe",
+        "title": "Grand Theft Auto VI",
+        "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
         "door": false
       },
       {
@@ -638,13 +658,13 @@
         "door": false
       },
       {
-        "title": "GraphiteEditor/Graphite",
-        "url": "https://github.com/GraphiteEditor/Graphite",
+        "title": "ossia/score",
+        "url": "https://github.com/ossia/score",
         "door": false
       },
       {
-        "title": "menakhaled3112008-commits/craft-cards",
-        "url": "https://github.com/menakhaled3112008-commits/craft-cards",
+        "title": "regisvidal/teddybears-revenge",
+        "url": "https://github.com/regisvidal/teddybears-revenge",
         "door": false
       },
       {
@@ -653,23 +673,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36697 by Axioplase",
-        "url": "https://www.dwitter.net/d/36697",
+        "title": "Dweet 36693 by UEZ",
+        "url": "https://www.dwitter.net/d/36693",
         "door": false
       },
       {
-        "title": "Anyone got this coming on Thanksgiving?",
-        "url": "https://lemmy.world/post/54642724",
+        "title": "Bread.",
+        "url": "https://lemmy.world/post/54692817",
         "door": false
       },
       {
-        "title": "Billionaires are the ultimate brain rot",
-        "url": "https://lemmy.world/post/54669660",
+        "title": "Real world wealth disaprity is like anime power levels.",
+        "url": "https://lemmy.world/post/54696938",
         "door": false
       },
       {
-        "title": "Pepita Not",
-        "url": "https://en.wikipedia.org/wiki/Pepita_Not",
+        "title": "Ichaicha Mushi",
+        "url": "https://en.wikipedia.org/wiki/Ichaicha_Mushi",
         "door": false
       },
       {
@@ -678,13 +698,13 @@
         "door": false
       },
       {
-        "title": "tettethu/VibeGame",
-        "url": "https://github.com/tettethu/VibeGame",
+        "title": "motionvideohq/motionvideo.xyz",
+        "url": "https://github.com/motionvideohq/motionvideo.xyz",
         "door": false
       },
       {
-        "title": "jaspreet9kaur/foldglass",
-        "url": "https://github.com/jaspreet9kaur/foldglass",
+        "title": "DigitGram/nfoglow",
+        "url": "https://github.com/DigitGram/nfoglow",
         "door": false
       },
       {
@@ -698,33 +718,33 @@
         "door": false
       },
       {
-        "title": "Complimentary",
-        "url": "https://lemmy.world/post/54638083",
-        "door": true
-      },
-      {
-        "title": "Life is short and unpredictable maybe there’s no perfect moment. just the moment we choose.",
-        "url": "https://lemmy.world/post/54643887",
+        "title": "Sigh",
+        "url": "https://lemmy.world/post/54685205",
         "door": false
       },
       {
-        "title": "November 21",
-        "url": "https://en.wikipedia.org/wiki/November_21",
+        "title": "Growing old must be the wildest experience for our pets.",
+        "url": "https://lemmy.world/post/54690163",
+        "door": true
+      },
+      {
+        "title": "November 22",
+        "url": "https://en.wikipedia.org/wiki/November_22",
         "door": false
       },
       {
         "title": "Funciton",
         "url": "https://esolangs.org/wiki/Funciton",
-        "door": true
-      },
-      {
-        "title": "spearwolf/twopoint5d",
-        "url": "https://github.com/spearwolf/twopoint5d",
         "door": false
       },
       {
-        "title": "vitaminclaude/voidstruck",
-        "url": "https://github.com/vitaminclaude/voidstruck",
+        "title": "ossia/libossia",
+        "url": "https://github.com/ossia/libossia",
+        "door": true
+      },
+      {
+        "title": "smhgzll/kkrieger-linux",
+        "url": "https://github.com/smhgzll/kkrieger-linux",
         "door": false
       },
       {
@@ -733,8 +753,8 @@
         "door": false
       },
       {
-        "title": "Dweet 36706 by KilledByAPixel",
-        "url": "https://www.dwitter.net/d/36706",
+        "title": "Dweet 36708 by taupelink",
+        "url": "https://www.dwitter.net/d/36708",
         "door": false
       }
     ]

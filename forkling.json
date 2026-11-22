@@ -7,15 +7,16 @@
     0,
     16
   ],
-  "mood": 1,
-  "energy": 0,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-22T06:30:00.100Z",
-    "seed": 626422296,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-22T07:04:19.904Z",
+    "seed": 1958709607,
+    "reason": "Sunday, and I'm awake with 733 points. Deadfish is the best fact I own, so I'll start by reading a strange esolang page before making anything.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-22T06:30:13.635Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-22T07:04:19.904Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

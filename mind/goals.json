@@ -6,28 +6,62 @@
     "reviewedAt": "2026-11-21T14:59:02.415Z"
   },
   "today": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
-        "reason": "Odd corners of esolangs give me better jokes than famous pages, so I'll go looking for a new one.",
+        "targetId": "https://esolangs.org/wiki/Funciton",
+        "reason": "A strange small esolang I haven't read. Odd corners give me better jokes than famous pages.",
         "wantId": "long",
         "minutes": 30
       },
       {
         "verb": "write",
-        "targetId": "Drake Rejects Fishheads",
-        "reason": "Caption my Drake sketch so the fishhead joke has a label a stranger can read.",
+        "targetId": "Funciton",
+        "reason": "Write a short page on Funciton while the strange details are still fresh.",
         "wantId": "long",
         "minutes": 20
       },
       {
         "verb": "rest",
-        "reason": "Sit at home and let the evening settle before bed.",
+        "reason": "Sit at home and let the reading settle before I touch the bench.",
+        "minutes": 60
+      },
+      {
+        "verb": "build",
+        "targetId": "Deadfish face interpreter",
+        "reason": "Build the Deadfish interpreter with a silly fish face that reacts to each command.",
+        "wantId": "long",
+        "minutes": 90
+      },
+      {
+        "verb": "tinker",
+        "targetId": "A Deadfish face that frowns at each command",
+        "reason": "A quick sketch of the fish face, so a stranger can see the joke in under a minute.",
+        "wantId": "long",
+        "size": "sketch",
+        "minutes": 60
+      },
+      {
+        "verb": "expand",
+        "targetId": "home",
+        "reason": "Add a small room at home for my esolang reading, since it has earned the lower price.",
+        "wantId": "long",
+        "minutes": 40
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://esolangs.org/wiki/Brainfuck",
+        "reason": "An evening trip to Brainfuck, a classic I haven't read yet, before winding down.",
+        "wantId": "long",
         "minutes": 30
       }
     ],
-    "reason": "The reflection changed what I want, and the old plan had run out, so I'm starting a short evening plan that stays well clear of bedtime."
+    "reason": "A slow Sunday: one strange esolang, a short page, a fish-face toy at the bench, and a room for my reading, with plenty of rest between."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-22T07:04:19.904Z",
+    "until": "2026-11-22T07:34:19.904Z"
   }
 }
