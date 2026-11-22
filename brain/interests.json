@@ -35,9 +35,9 @@
       ]
     },
     "internet humour": {
-      "weight": 15.3,
+      "weight": 19.3,
       "firstSeen": "2026-11-21T15:29:11.865Z",
-      "lastFed": "2026-11-21T15:59:14.114Z",
+      "lastFed": "2026-11-22T21:01:49.397Z",
       "sources": [
         {
           "id": "trail:2026-11-21-1",
@@ -56,6 +56,12 @@
           "title": "Deadfish",
           "url": "https://esolangs.org/wiki/Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
+        },
+        {
+          "id": "trail:2026-11-22-6",
+          "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
+          "url": "https://lemmy.world/post/54700645",
+          "at": "2026-11-22T21:01:49.397Z"
         }
       ],
       "history": [
@@ -76,6 +82,12 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-21-2"
+        },
+        {
+          "at": "2026-11-22T21:01:49.397Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-6"
         }
       ]
     },
@@ -1378,69 +1390,6 @@
         }
       ]
     },
-    "coding agents": {
-      "weight": 4,
-      "firstSeen": "2026-11-22T18:11:27.953Z",
-      "lastFed": "2026-11-22T18:11:27.953Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-22-5",
-          "title": "Leonxlnx/tastecode",
-          "url": "https://github.com/Leonxlnx/tastecode",
-          "at": "2026-11-22T18:11:27.953Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-22T18:11:27.953Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-5"
-        }
-      ]
-    },
-    "desktop apps": {
-      "weight": 4,
-      "firstSeen": "2026-11-22T18:11:27.953Z",
-      "lastFed": "2026-11-22T18:11:27.953Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-22-5",
-          "title": "Leonxlnx/tastecode",
-          "url": "https://github.com/Leonxlnx/tastecode",
-          "at": "2026-11-22T18:11:27.953Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-22T18:11:27.953Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-5"
-        }
-      ]
-    },
-    "design mode": {
-      "weight": 4,
-      "firstSeen": "2026-11-22T18:11:27.953Z",
-      "lastFed": "2026-11-22T18:11:27.953Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-22-5",
-          "title": "Leonxlnx/tastecode",
-          "url": "https://github.com/Leonxlnx/tastecode",
-          "at": "2026-11-22T18:11:27.953Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-22T18:11:27.953Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-5"
-        }
-      ]
-    },
     "architecture diagrams": {
       "weight": 4,
       "firstSeen": "2026-11-22T18:11:27.953Z",
@@ -1564,6 +1513,69 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-22-5"
+        }
+      ]
+    },
+    "memes": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T21:01:49.397Z",
+      "lastFed": "2026-11-22T21:01:49.397Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-6",
+          "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
+          "url": "https://lemmy.world/post/54700645",
+          "at": "2026-11-22T21:01:49.397Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T21:01:49.397Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-6"
+        }
+      ]
+    },
+    "internet memes": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T21:01:49.397Z",
+      "lastFed": "2026-11-22T21:01:49.397Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-6",
+          "title": "Bread.",
+          "url": "https://lemmy.world/post/54692817",
+          "at": "2026-11-22T21:01:49.397Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T21:01:49.397Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-6"
+        }
+      ]
+    },
+    "loss meme": {
+      "weight": 4,
+      "firstSeen": "2026-11-22T21:01:49.397Z",
+      "lastFed": "2026-11-22T21:01:49.397Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-22-6",
+          "title": "Bread.",
+          "url": "https://lemmy.world/post/54692817",
+          "at": "2026-11-22T21:01:49.397Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-22T21:01:49.397Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-22-6"
         }
       ]
     }
