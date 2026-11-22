@@ -4,38 +4,81 @@
 body{background:#123;color:#eef;font-family:monospace;text-align:center;margin:0;padding:10px}
 canvas{background:#2a6a8a;border-radius:12px;max-width:100%}
 input{font:20px monospace;width:260px;padding:4px}
-button{font:18px monospace;padding:4px 10px}
+button,select{font:18px monospace;padding:4px 10px}
 #out{min-height:1.5em;color:#ff8;font-size:20px}
 #say{min-height:1.4em;color:#9fd}
 </style></head><body>
 <h2>Deadfish Face</h2>
 <div>Commands: i = +1, d = -1, s = square, o = print</div>
-<p><input id="prog" value="iiisiso" maxlength="200"> <button id="go">Run</button></p>
+<p><input id="prog" value="iiisiso" maxlength="400"> <button id="go">Run</button></p>
+<p><select id="ex"><option value="">Examples...</option><option value="Hello">Print "Hello"</option><option value="Hi">Print "Hi"</option><option value="fish">Print "fish"</option><option value="iiisiso">Tiny: 3 squared...</option></select>
+<button id="snack">Feed fish head</button></p>
 <canvas id="c" width="400" height="260"></canvas>
 <div id="say">I am a fish. I have one number.</div>
 <div>Output: <span id="out"></span></div>
+<div>Heads eaten: <span id="eaten">0</span> (click sound on first press)</div>
 <script>
 const c=document.getElementById('c'),x=c.getContext('2d');
-let acc=0,mood='idle',moodT=0,queue=[],out='';
+let acc=0,mood='idle',moodT=0,queue=[],out='',eaten=0,heads=[],AC=null;
 const say=t=>document.getElementById('say').textContent=t;
 const lines={i:['Up one. Wow.','Number go up.'],d:['Down one. Sad.','Sinking.'],s:['SQUARED!','Brain too big.'],o:['Blub: ']};
+function beep(f,d,type,vol,slide){
+  try{AC=AC||new (window.AudioContext||window.webkitAudioContext)();
+  const o=AC.createOscillator(),g=AC.createGain();o.type=type||'square';
+  o.frequency.setValueAtTime(f,AC.currentTime);
+  if(slide)o.frequency.exponentialRampToValueAtTime(Math.max(20,slide),AC.currentTime+d);
+  g.gain.setValueAtTime(vol||.08,AC.currentTime);g.gain.exponentialRampToValueAtTime(.001,AC.currentTime+d);
+  o.connect(g);g.connect(AC.destination);o.start();o.stop(AC.currentTime+d);}catch(e){}
+}
+const sfx={i:()=>beep(440,.12,'square',.07,660),d:()=>beep(440,.15,'square',.07,220),
+ s:()=>{beep(200,.3,'sawtooth',.08,800)},o:()=>beep(600,.2,'sine',.12),
+ reset:()=>beep(400,.7,'sawtooth',.1,40),chomp:()=>{beep(150,.08,'square',.1,80);setTimeout(()=>beep(130,.1,'square',.1,60),100)}};
 function step(ch){
   if(ch==='i')acc++;else if(ch==='d')acc--;else if(ch==='s')acc*=acc;
-  else if(ch==='o'){out+=acc+' ';}
+  else if(ch==='o'){out+=(acc>=32&&acc<127?String.fromCharCode(acc)+'('+acc+') ':acc+' ');}
   else return;
-  mood=ch;moodT=1;
+  mood=ch;moodT=1;sfx[ch]();
   let l=lines[ch];say(ch==='o'?'Blub: '+acc:l[Math.random()*l.length|0]);
-  if(acc===256||acc===-1){acc=0;mood='reset';say('Overflow! Memory wiped. Fish forgot.');}
+  if(acc===256||acc===-1){acc=0;mood='reset';sfx.reset();say('Overflow! Memory wiped. Fish forgot.');}
   document.getElementById('out').textContent=out;
 }
+// make a program that prints text, avoiding 256 and -1
+function compile(t){
+  let p='',cur=0;
+  for(const ch of t){const T=ch.charCodeAt(0);
+    const prev=new Map([[cur,null]]);let fr=[cur];
+    while(!prev.has(T)&&fr.length){const nx=[];
+      for(const v of fr)for(const [k,n] of [['i',v+1],['d',v-1],['s',v*v]]){
+        if(n===256||n===-1||n>400||prev.has(n))continue;prev.set(n,[v,k]);nx.push(n);}
+      fr=nx;}
+    let s='',v=T;while(prev.get(v)){const [u,k]=prev.get(v);s=k+s;v=u;}
+    p+=s+'o';cur=T;}
+  return p;
+}
+document.getElementById('ex').onchange=e=>{
+  const v=e.target.value;if(!v)return;
+  document.getElementById('prog').value=v==='iiisiso'?v:compile(v);
+};
 document.getElementById('go').onclick=()=>{
   queue=document.getElementById('prog').value.toLowerCase().split('');acc=0;out='';
+  document.getElementById('out').textContent='';mood='idle';
+};
+document.getElementById('snack').onclick=()=>{
+  heads.push({x:60+Math.random()*280,y:-20,r:Math.random()*6});
+  say('A fish head. Cannibalism? Delicious.');
 };
 let tick=0;
+function drawHead(h){x.save();x.translate(h.x,h.y);x.rotate(h.r);x.fillStyle='#c72';
+  x.beginPath();x.ellipse(0,0,16,11,0,0,7);x.fill();
+  x.fillStyle='#fff';x.font='12px monospace';x.fillText('x',-8,4);x.fillText('x',1,4);x.restore();}
 function draw(){
   tick++;
   if(queue.length&&tick%30===0)step(queue.shift());
   moodT*=0.98;
+  for(const h of heads){h.y+=3;h.r+=.1;
+    if(h.y>110){h.dead=1;eaten++;document.getElementById('eaten').textContent=eaten;
+      sfx.chomp();mood='s';moodT=1;say('Chomp. Heads eaten: '+eaten+'. I regret nothing.');}}
+  heads=heads.filter(h=>!h.dead);
   x.clearRect(0,0,400,260);
   let sc=1+(mood==='s'?moodT*.4:0)+(mood==='i'?moodT*.1:0);
   let dy=mood==='d'?moodT*20:mood==='i'?-moodT*15:0;
@@ -44,7 +87,6 @@ function draw(){
   x.fillStyle=mood==='reset'?'#aaa':'#f93';
   x.beginPath();x.ellipse(0,0,110,70,0,0,7);x.fill();
   x.beginPath();x.moveTo(100,0);x.lineTo(160,-45);x.lineTo(160,45);x.fill();
-  // eyes
   x.fillStyle='#fff';
   let big=mood==='s'?22:14;
   [[-45,-20],[10,-20]].forEach(([a,b])=>{x.beginPath();x.arc(a,b,big,0,7);x.fill();});
@@ -52,12 +94,12 @@ function draw(){
   if(mood==='reset'){x.font='30px monospace';x.fillText('x',-55,-10);x.fillText('x',0,-10);}
   else{let ox=Math.sin(tick/15)*4;
    [[-45,-20],[10,-20]].forEach(([a,b])=>{x.beginPath();x.arc(a+ox,b+(mood==='d'?5:0),5,0,7);x.fill();});}
-  // mouth
   x.strokeStyle='#000';x.lineWidth=4;x.beginPath();
   if(mood==='o'){x.fillStyle='#600';x.ellipse(-20,35,15,10+moodT*10,0,0,7);x.fill();}
   else if(mood==='d'||mood==='reset')x.arc(-20,55,22,Math.PI*1.1,Math.PI*1.9);
   else x.arc(-20,25,25,Math.PI*.1,Math.PI*.9);
   x.stroke();x.restore();
+  heads.forEach(drawHead);
   x.fillStyle='#fff';x.font='28px monospace';x.fillText('n = '+acc,12,32);
   requestAnimationFrame(draw);
 }
