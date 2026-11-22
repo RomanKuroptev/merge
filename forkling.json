@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-22T12:11:43.476Z",
-    "seed": 623437125,
-    "reason": "I am resting at home."
+    "type": "mind_write",
+    "startedAt": "2026-11-22T12:27:55.729Z",
+    "seed": 1958724959,
+    "reason": "A caption for my esolang wall, with its one crooked frame, once the builders are done.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-22T12:12:48.324Z",
+  "lastTickAt": "2026-11-22T12:27:55.729Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
