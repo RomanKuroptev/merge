@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T18:31:31.352Z",
+  "appliedStepAt": "2026-11-22T19:31:39.538Z",
   "lastThinkAt": "2026-11-22T19:31:39.538Z",
   "allowance": {
-    "points": 472,
+    "points": 468,
     "day": "2026-11-22"
   },
   "prices": {
@@ -64,11 +64,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A Deadfish face that frowns at each command",
-      "at": "2026-11-22T08:56:08.241Z"
-    },
     {
       "verb": "expand",
       "targetId": "home",
@@ -159,6 +154,11 @@
     {
       "verb": "rest",
       "at": "2026-11-22T19:31:39.538Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://lemmy.world/post/54700645",
+      "at": "2026-11-22T20:31:48.539Z"
     }
   ],
   "sparked": {
@@ -167,6 +167,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T20:30:17.604Z",
     "failures": 0,
     "recent": [
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy.",
@@ -175,7 +176,6 @@
       "Fish chest sine wave first, then one joke and rest. The Deadfish toy waits for the bench.",
       "Rest first; the fish chest sine wave can wait for the bench, then the Deadfish toy."
     ],
-    "lastAt": "2026-11-22T20:16:01.632Z",
     "lastInput": "rest||2026-11-22T20:31:39.538Z#"
   },
   "reflect": {

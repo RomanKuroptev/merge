@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-22T20:17:01.955Z",
+  "updatedAt": "2026-11-22T20:31:48.539Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T20:17:01.955Z",
+    "at": "2026-11-22T20:31:48.539Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:8cae009d",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-22T20:31:39.538Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "https://lemmy.world/post/54700645",
+      "until": "2026-11-22T21:01:48.539Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T17:41:24.173Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1309,
+    "ticks": 1325,
     "decideCalls": 10,
     "callsByKind": {
       "morning": 1,
@@ -49,7 +52,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 22,
+      "stepDone": 23,
       "sparked": 2,
       "buildResult": 4,
       "replan": 3
@@ -77,7 +80,8 @@
       "tend workshop": 1,
       "wander https://github.com/css-doodle/css-doodle": 1,
       "write Deadfish Smiles At Everything": 1,
-      "tinker Dweet fish wobble: a fish that breathes like a sphere, usin…": 1
+      "tinker Dweet fish wobble: a fish that breathes like a sphere, usin…": 1,
+      "wander https://lemmy.world/post/54700645": 1
     },
     "longestGapMinutes": 2
   },
@@ -95,14 +99,14 @@
     }
   },
   "allowance": {
-    "points": 472,
+    "points": 468,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 126
+    "minutes": 141
   },
   "needsCritical": {},
   "spend": {

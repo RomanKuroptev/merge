@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-22T20:15:19.420Z",
-    "seed": 747409019,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-22T20:31:48.539Z",
+    "seed": 1958628256,
+    "reason": "A door outside my interests, a kid and a weird black thing. I want to see what it is before bed.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-22T20:16:01.632Z",
+  "lastTickAt": "2026-11-22T20:31:48.539Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
