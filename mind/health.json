@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-22T15:09:01.890Z",
+  "updatedAt": "2026-11-22T15:11:04.646Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T15:09:01.890Z",
+    "at": "2026-11-22T15:11:04.646Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: tinker, wandered from https://en.wikipedia.org/wiki/Mairzy_Doates",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:49c48bfb",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
-      "until": "2026-11-22T15:10:54.976Z",
+      "index": 2,
+      "verb": "tinker",
+      "targetId": "Two Buttons: finish the fish, or read one more dweet",
+      "until": "2026-11-22T16:11:04.646Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T14:39:40.959Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 991,
+    "ticks": 993,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 1,
       "thought": 17,
-      "read": 13,
+      "read": 17,
       "reflection": 2,
       "decide": 8,
       "art": 4,
@@ -38,7 +40,7 @@
     "spendByKind": {
       "morning": 0.0023549,
       "thought": 0.008042755,
-      "read": 0.006004359999999999,
+      "read": 0.008453074999999999,
       "reflection": 0.048350500000000005,
       "decide": 0.00994981,
       "art": 0.0019323000000000003,
@@ -46,7 +48,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "sparked": 2,
       "buildResult": 4,
       "replan": 2
@@ -69,13 +71,14 @@
       "build deadfish-face-interpreter": 2,
       "wander https://www.dwitter.net/d/36697": 1,
       "write workshop": 1,
-      "wander https://en.wikipedia.org/wiki/Mairzy_Doates": 1
+      "wander https://en.wikipedia.org/wiki/Mairzy_Doates": 1,
+      "tinker Two Buttons: finish the fish, or read one more dweet": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 13,
+      "used": 17,
       "max": 40
     }
   },
@@ -83,21 +86,21 @@
     "pausedHosts": {},
     "topHost": {
       "host": "en.wikipedia.org",
-      "share": 0.427
+      "share": 0.447
     }
   },
   "allowance": {
-    "points": 547,
+    "points": 517,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 220
+    "minutes": 222
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.45651283,
+    "monthUsd": 2.45896155,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -119,14 +122,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 7,
-      "strangers": 7,
+      "trips": 8,
+      "strangers": 8,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "en.wikipedia.org",
-      "share": 0.427,
+      "share": 0.447,
       "wouldFire": false
     },
     "draws": {

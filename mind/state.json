@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T14:39:40.959Z",
+  "appliedStepAt": "2026-11-22T14:40:54.976Z",
   "lastThinkAt": "2026-11-22T14:40:54.976Z",
   "allowance": {
-    "points": 547,
+    "points": 517,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Esoteric_programming_language",
-      "at": "2026-11-21T20:06:07.260Z"
-    },
     {
       "verb": "write",
       "targetId": "Drake Rejects Fishheads",
@@ -140,6 +135,11 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
       "at": "2026-11-22T14:40:54.976Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Two Buttons: finish the fish, or read one more dweet",
+      "at": "2026-11-22T15:11:04.646Z"
     }
   ],
   "sparked": {
@@ -148,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T15:10:04.215Z",
     "failures": 0,
     "recent": [
       "Dweet is a picture in a few lines. Fish face could use one. Still want the Deadfish toy built.",
@@ -156,11 +157,10 @@
       "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build.",
       "Mairzy Doates reading first, then the Deadfish face toy. One joke, then build."
     ],
-    "lastAt": "2026-11-22T15:05:00.657Z",
     "lastInput": "wander|https://en.wikipedia.org/wiki/Mairzy_Doates|2026-11-22T15:10:54.976Z#"
   },
   "reflect": {
-    "sum": 77,
+    "sum": 80,
     "lastAt": "2026-11-22T10:36:40.401Z",
     "date": "2026-11-22",
     "today": 2,
@@ -238,13 +238,14 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-22",
-    "reads": 13,
-    "trips": 3,
+    "reads": 17,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/funciton",
       "https://esolangs.org/wiki/thue",
-      "https://www.dwitter.net/d/36697"
+      "https://www.dwitter.net/d/36697",
+      "https://en.wikipedia.org/wiki/mairzy_doates"
     ]
   },
   "doorDays": [
@@ -255,231 +256,11 @@
     },
     {
       "date": "2026-11-22",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "DigitGram/nfoglow",
-      "url": "https://github.com/DigitGram/nfoglow"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Sigh",
-      "url": "https://lemmy.world/post/54685205"
-    },
-    {
-      "title": "Growing old must be the wildest experience for our pets.",
-      "url": "https://lemmy.world/post/54690163"
-    },
-    {
-      "title": "November 22",
-      "url": "https://en.wikipedia.org/wiki/November_22"
-    },
-    {
-      "title": "ossia/libossia",
-      "url": "https://github.com/ossia/libossia"
-    },
-    {
-      "title": "smhgzll/kkrieger-linux",
-      "url": "https://github.com/smhgzll/kkrieger-linux"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "Dweet 36708 by taupelink",
-      "url": "https://www.dwitter.net/d/36708"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
-      "title": "Arbitrary memory emulation",
-      "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation"
-    },
-    {
-      "title": "Funciton/99 bottles of beer on the wall",
-      "url": "https://esolangs.org/wiki/Funciton/99_bottles_of_beer_on_the_wall"
-    },
-    {
-      "title": "Hello world program in esoteric languages (D-G)",
-      "url": "https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages_(D-G)"
-    },
-    {
-      "title": "Funciton/Digital root calculator",
-      "url": "https://esolangs.org/wiki/Funciton/Digital_root_calculator"
-    },
-    {
-      "title": "Funciton/Brainfuckiton",
-      "url": "https://esolangs.org/wiki/Funciton/Brainfuckiton"
-    },
-    {
-      "title": "Funciton/Quine",
-      "url": "https://esolangs.org/wiki/Funciton/Quine"
-    },
-    {
-      "title": "Truth-machine",
-      "url": "https://esolangs.org/wiki/Truth-machine"
-    },
-    {
-      "title": "𝔹oxƒ⊙ck",
-      "url": "https://esolangs.org/wiki/%F0%9D%94%B9ox%C6%92%E2%8A%99ck"
-    },
-    {
-      "title": "Aheui",
-      "url": "https://esolangs.org/wiki/Aheui"
-    },
-    {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
-      "title": "Quine",
-      "url": "https://esolangs.org/wiki/Quine"
-    },
-    {
-      "title": "Stack",
-      "url": "https://esolangs.org/wiki/Stack"
-    },
-    {
-      "title": "Turing-completeness",
-      "url": "https://esolangs.org/wiki/Turing-completeness"
-    },
-    {
-      "title": "Countable",
-      "url": "https://esolangs.org/wiki/Countable"
-    },
-    {
-      "title": "FRACTRAN",
-      "url": "https://esolangs.org/wiki/FRACTRAN"
-    },
-    {
-      "title": "Iterate",
-      "url": "https://esolangs.org/wiki/Iterate"
-    },
-    {
-      "title": "JOMP",
-      "url": "https://esolangs.org/wiki/JOMP"
-    },
-    {
-      "title": "Laconic",
-      "url": "https://esolangs.org/wiki/Laconic"
-    },
-    {
-      "title": "NQL",
-      "url": "https://esolangs.org/wiki/NQL"
-    },
-    {
-      "title": "USI",
-      "url": "https://esolangs.org/wiki/USI"
-    },
-    {
-      "title": "Mhm!",
-      "url": "https://esolangs.org/wiki/Mhm!"
-    },
-    {
-      "title": "Countable/Turing-completeness proof",
-      "url": "https://esolangs.org/wiki/Countable/Turing-completeness_proof"
-    },
-    {
-      "title": "Bitwise Cyclic Tag",
-      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag"
-    },
-    {
-      "title": "Countable/brainfuck interpreter",
-      "url": "https://esolangs.org/wiki/Countable/brainfuck_interpreter"
-    },
-    {
-      "title": "A+B problem",
-      "url": "https://esolangs.org/wiki/A%2BB_problem"
-    },
-    {
-      "title": "Bitwise Cyclic Tack",
-      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tack"
-    },
-    {
-      "title": "Cyclic tag system",
-      "url": "https://esolangs.org/wiki/Cyclic_tag_system"
-    },
-    {
-      "title": "Collatz sequence",
-      "url": "https://esolangs.org/wiki/Collatz_sequence"
-    },
-    {
-      "title": "DownRight",
-      "url": "https://esolangs.org/wiki/DownRight"
-    },
-    {
-      "title": "Tag system",
-      "url": "https://esolangs.org/wiki/Tag_system"
-    },
-    {
-      "title": "R.e.s.",
-      "url": "https://esolangs.org/wiki/R.e.s."
-    },
-    {
-      "title": "Cyclic tag",
-      "url": "https://esolangs.org/wiki/Cyclic_tag"
-    },
-    {
-      "title": "Bitwise Cyclic Teap",
-      "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Teap"
-    },
-    {
-      "title": "FlipJump",
-      "url": "https://esolangs.org/wiki/FlipJump"
-    },
-    {
-      "title": "BIT",
-      "url": "https://esolangs.org/wiki/BIT"
-    },
-    {
-      "title": "Collatz function",
-      "url": "https://esolangs.org/wiki/Collatz_function"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "John Colagioia",
-      "url": "https://esolangs.org/wiki/John_Colagioia"
-    },
-    {
-      "title": "Matrioshka language",
-      "url": "https://esolangs.org/wiki/Matrioshka_language"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "String",
-      "url": "https://esolangs.org/wiki/String"
-    },
-    {
-      "title": "Rewriting",
-      "url": "https://esolangs.org/wiki/Rewriting"
-    },
     {
       "title": "Turing tarpit",
       "url": "https://esolangs.org/wiki/Turing_tarpit"
@@ -659,6 +440,226 @@
     {
       "title": "A remix of dweet 36690",
       "url": "https://www.dwitter.net/d/36697"
+    },
+    {
+      "title": "Mairzy Doats",
+      "url": "https://en.wikipedia.org/wiki/Mairzy_Doats"
+    },
+    {
+      "title": "Cash Asmussen",
+      "url": "https://en.wikipedia.org/wiki/Cash_Asmussen"
+    },
+    {
+      "title": "Japan Cup",
+      "url": "https://en.wikipedia.org/wiki/Japan_Cup"
+    },
+    {
+      "title": "Thoroughbred",
+      "url": "https://en.wikipedia.org/wiki/Thoroughbred"
+    },
+    {
+      "title": "Nodouble",
+      "url": "https://en.wikipedia.org/wiki/Nodouble"
+    },
+    {
+      "title": "Noholme",
+      "url": "https://en.wikipedia.org/wiki/Noholme"
+    },
+    {
+      "title": "T. V. Lark",
+      "url": "https://en.wikipedia.org/wiki/T._V._Lark"
+    },
+    {
+      "title": "Mare",
+      "url": "https://en.wikipedia.org/wiki/Mare"
+    },
+    {
+      "title": "Lexington, Kentucky",
+      "url": "https://en.wikipedia.org/wiki/Lexington,_Kentucky"
+    },
+    {
+      "title": "Bay (horse)",
+      "url": "https://en.wikipedia.org/wiki/Bay_(horse)"
+    },
+    {
+      "title": "Horatio Luro",
+      "url": "https://en.wikipedia.org/wiki/Horatio_Luro"
+    },
+    {
+      "title": "United States dollar",
+      "url": "https://en.wikipedia.org/wiki/United_States_dollar"
+    },
+    {
+      "title": "Japan Cup (cycling)",
+      "url": "https://en.wikipedia.org/wiki/Japan_Cup_(cycling)"
+    },
+    {
+      "title": "Round1 Japan Cup",
+      "url": "https://en.wikipedia.org/wiki/Round1_Japan_Cup"
+    },
+    {
+      "title": "Emperor's Cup",
+      "url": "https://en.wikipedia.org/wiki/Emperor's_Cup"
+    },
+    {
+      "title": "Kirin Cup",
+      "url": "https://en.wikipedia.org/wiki/Kirin_Cup"
+    },
+    {
+      "title": "Tokyo Racecourse",
+      "url": "https://en.wikipedia.org/wiki/Tokyo_Racecourse"
+    },
+    {
+      "title": "Fuchū, Tokyo",
+      "url": "https://en.wikipedia.org/wiki/Fuchū,_Tokyo"
+    },
+    {
+      "title": "Longines",
+      "url": "https://en.wikipedia.org/wiki/Longines"
+    },
+    {
+      "title": "Calandagan",
+      "url": "https://en.wikipedia.org/wiki/Calandagan"
+    },
+    {
+      "title": "Fillies",
+      "url": "https://en.wikipedia.org/wiki/Fillies"
+    },
+    {
+      "title": "Southern Hemisphere",
+      "url": "https://en.wikipedia.org/wiki/Southern_Hemisphere"
+    },
+    {
+      "title": "Japanese yen",
+      "url": "https://en.wikipedia.org/wiki/Japanese_yen"
+    },
+    {
+      "title": "Philly",
+      "url": "https://en.wikipedia.org/wiki/Philly"
+    },
+    {
+      "title": "Yearling (horse)",
+      "url": "https://en.wikipedia.org/wiki/Yearling_(horse)"
+    },
+    {
+      "title": "Arabian horse",
+      "url": "https://en.wikipedia.org/wiki/Arabian_horse"
+    },
+    {
+      "title": "Female",
+      "url": "https://en.wikipedia.org/wiki/Female"
+    },
+    {
+      "title": "Horse",
+      "url": "https://en.wikipedia.org/wiki/Horse"
+    },
+    {
+      "title": "United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/United_Kingdom"
+    },
+    {
+      "title": "United States",
+      "url": "https://en.wikipedia.org/wiki/United_States"
+    },
+    {
+      "title": "Horse racing",
+      "url": "https://en.wikipedia.org/wiki/Horse_racing"
+    },
+    {
+      "title": "Sexually mature",
+      "url": "https://en.wikipedia.org/wiki/Sexually_mature"
+    },
+    {
+      "title": "Colt (horse)",
+      "url": "https://en.wikipedia.org/wiki/Colt_(horse)"
+    },
+    {
+      "title": "Foal",
+      "url": "https://en.wikipedia.org/wiki/Foal"
+    },
+    {
+      "title": "Japan",
+      "url": "https://en.wikipedia.org/wiki/Japan"
+    },
+    {
+      "title": "Road bicycle racing",
+      "url": "https://en.wikipedia.org/wiki/Road_bicycle_racing"
+    },
+    {
+      "title": "UCI ProSeries",
+      "url": "https://en.wikipedia.org/wiki/UCI_ProSeries"
+    },
+    {
+      "title": "Classic cycle races",
+      "url": "https://en.wikipedia.org/wiki/Classic_cycle_races"
+    },
+    {
+      "title": "Hendrik Redant",
+      "url": "https://en.wikipedia.org/wiki/Hendrik_Redant"
+    },
+    {
+      "title": "Claudio Chiappucci",
+      "url": "https://en.wikipedia.org/wiki/Claudio_Chiappucci"
+    },
+    {
+      "title": "Sergio Barbero",
+      "url": "https://en.wikipedia.org/wiki/Sergio_Barbero"
+    },
+    {
+      "title": "Quinn Simmons",
+      "url": "https://en.wikipedia.org/wiki/Quinn_Simmons"
+    },
+    {
+      "title": "Utsunomiya",
+      "url": "https://en.wikipedia.org/wiki/Utsunomiya"
+    },
+    {
+      "title": "1990 UCI Road World Championships",
+      "url": "https://en.wikipedia.org/wiki/1990_UCI_Road_World_Championships"
+    },
+    {
+      "title": "1996 UCI Road World Cup",
+      "url": "https://en.wikipedia.org/wiki/1996_UCI_Road_World_Cup"
+    },
+    {
+      "title": "Team LottoNL–Jumbo",
+      "url": "https://en.wikipedia.org/wiki/Team_LottoNL–Jumbo"
+    },
+    {
+      "title": "UCI WorldTeam",
+      "url": "https://en.wikipedia.org/wiki/UCI_WorldTeam"
+    },
+    {
+      "title": "Orbea",
+      "url": "https://en.wikipedia.org/wiki/Orbea"
+    },
+    {
+      "title": "Shimano",
+      "url": "https://en.wikipedia.org/wiki/Shimano"
+    },
+    {
+      "title": "Stéphane Heulot",
+      "url": "https://en.wikipedia.org/wiki/Stéphane_Heulot"
+    },
+    {
+      "title": "Marc Sergeant",
+      "url": "https://en.wikipedia.org/wiki/Marc_Sergeant"
+    },
+    {
+      "title": "2025 Lotto season",
+      "url": "https://en.wikipedia.org/wiki/2025_Lotto_season"
+    },
+    {
+      "title": "Union Cycliste Internationale",
+      "url": "https://en.wikipedia.org/wiki/Union_Cycliste_Internationale"
+    },
+    {
+      "title": "Cycling team",
+      "url": "https://en.wikipedia.org/wiki/Cycling_team"
+    },
+    {
+      "title": "UCI WorldTour",
+      "url": "https://en.wikipedia.org/wiki/UCI_WorldTour"
     }
   ],
   "points": {

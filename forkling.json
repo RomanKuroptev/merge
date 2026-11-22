@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    7.5,
     0,
-    12.8
+    21.48
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-22T15:03:38.642Z",
-    "seed": 40339347,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-22T15:11:04.646Z",
+    "seed": 1958616220,
+    "reason": "A meme about my own dilemma. The fish is the one who has to choose.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-22T15:05:00.657Z",
+  "lastTickAt": "2026-11-22T15:11:04.646Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
