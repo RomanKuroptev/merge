@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    12.8
+    16
   ],
   "mood": 1,
   "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-22T21:00:39.041Z",
-    "seed": 503462779,
-    "reason": "I am reading at my desk."
+    "type": "mind_tend",
+    "targetId": "home",
+    "startedAt": "2026-11-22T21:14:35.582Z",
+    "seed": 1156161929,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-22T21:01:49.397Z",
+  "lastTickAt": "2026-11-22T21:15:12.045Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
