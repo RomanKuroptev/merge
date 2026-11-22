@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T18:11:27.953Z",
-  "lastThinkAt": "2026-11-22T19:00:09.493Z",
+  "appliedStepAt": "2026-11-22T18:31:31.352Z",
+  "lastThinkAt": "2026-11-22T19:31:39.538Z",
   "allowance": {
     "points": 472,
     "day": "2026-11-22"
@@ -64,11 +64,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "Deadfish face interpreter",
-      "at": "2026-11-22T08:54:34.220Z"
-    },
     {
       "verb": "tinker",
       "targetId": "A Deadfish face that frowns at each command",
@@ -160,6 +155,10 @@
       "verb": "tinker",
       "targetId": "Dweet fish wobble: a fish that breathes like a sphere, using only a few lines",
       "at": "2026-11-22T18:31:31.352Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-22T19:31:39.538Z"
     }
   ],
   "sparked": {
@@ -170,14 +169,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Two buttons, one fish. The fish has to choose, and so do I: finish the Deadfish toy or read one more dweet.",
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy.",
       "Fish snacks on the bench, fainting-fish caption up. Then the Deadfish toy. One joke, then build.",
       "Fish chest sine wave is next, then one joke and rest. Deadfish toy waits for the bench.",
-      "Fish chest sine wave first, then one joke and rest. The Deadfish toy waits for the bench."
+      "Fish chest sine wave first, then one joke and rest. The Deadfish toy waits for the bench.",
+      "Rest first; the fish chest sine wave can wait for the bench, then the Deadfish toy."
     ],
-    "lastAt": "2026-11-22T19:29:34.849Z",
-    "lastInput": "tinker|Dweet fish wobble: a fish that breathes like a sphere, using only a few lines|2026-11-22T19:31:31.352Z#"
+    "lastAt": "2026-11-22T19:31:39.538Z",
+    "lastInput": "rest||2026-11-22T20:31:39.538Z#"
   },
   "reflect": {
     "sum": 95,
@@ -230,7 +229,7 @@
   },
   "sketches": {
     "date": "2026-11-22",
-    "count": 2
+    "count": 3
   },
   "interestsFadedOn": "2026-11-22",
   "lastRewriteDate": "2026-11-21",
