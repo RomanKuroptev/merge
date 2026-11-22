@@ -8,15 +8,15 @@
     12.8
   ],
   "mood": 1,
-  "energy": 0.4,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-22T09:50:52.082Z",
-    "seed": 1003537444,
-    "reason": "I am working at the bench."
+    "type": "mind_build",
+    "startedAt": "2026-11-22T09:56:17.868Z",
+    "seed": 1958717141,
+    "reason": "Add a small room at home for my esolang reading, since it has earned the lower price.",
+    "goalRef": "today:5"
   },
-  "lastTickAt": "2026-11-22T09:51:14.297Z",
+  "lastTickAt": "2026-11-22T09:56:17.868Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
