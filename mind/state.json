@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T14:40:54.976Z",
-  "lastThinkAt": "2026-11-22T14:40:54.976Z",
+  "appliedStepAt": "2026-11-22T15:11:04.646Z",
+  "lastThinkAt": "2026-11-22T16:11:13.337Z",
   "allowance": {
     "points": 517,
     "day": "2026-11-22"
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Drake Rejects Fishheads",
-      "at": "2026-11-21T20:36:14.638Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-21T20:56:22.445Z"
@@ -140,6 +135,10 @@
       "verb": "tinker",
       "targetId": "Two Buttons: finish the fish, or read one more dweet",
       "at": "2026-11-22T15:11:04.646Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-22T16:11:13.337Z"
     }
   ],
   "sparked": {
@@ -148,6 +147,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T16:10:33.129Z",
     "failures": 0,
     "recent": [
       "Dweet 36697 with a Fresnel lens over tiles is a nice find. Still craving the Deadfish toy, fish head snacks included.",
@@ -156,7 +156,6 @@
       "Mairzy Doates reading first, then the Deadfish face toy. One joke, then build.",
       "Two buttons, one fish. The fish has to choose, and so do I: finish the Deadfish toy or read one more dweet."
     ],
-    "lastAt": "2026-11-22T15:55:25.181Z",
     "lastInput": "tinker|Two Buttons: finish the fish, or read one more dweet|2026-11-22T16:11:04.646Z#"
   },
   "reflect": {
@@ -209,7 +208,7 @@
   },
   "sketches": {
     "date": "2026-11-22",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-22",
   "lastRewriteDate": "2026-11-21",

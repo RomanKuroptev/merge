@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-22T15:56:25.466Z",
+  "updatedAt": "2026-11-22T16:11:13.337Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T15:56:25.466Z",
+    "at": "2026-11-22T16:11:13.337Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/5: rest, sketched \"Two Buttons: Fish or Dweet\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:49c48bfb",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "tinker",
-      "targetId": "Two Buttons: finish the fish, or read one more dweet",
-      "until": "2026-11-22T16:11:04.646Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-22T17:11:13.337Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T14:39:40.959Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1039,
+    "ticks": 1055,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 1,
@@ -33,7 +34,7 @@
       "reflection": 2,
       "decide": 8,
       "art": 4,
-      "sketch": 1
+      "sketch": 2
     },
     "spendByKind": {
       "morning": 0.0023549,
@@ -42,11 +43,11 @@
       "reflection": 0.048350500000000005,
       "decide": 0.00994981,
       "art": 0.0019323000000000003,
-      "sketch": 0.038932
+      "sketch": 0.07651
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 16,
+      "stepDone": 17,
       "sparked": 2,
       "buildResult": 4,
       "replan": 2
@@ -58,7 +59,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Funciton": 1,
-      "rest": 3,
+      "rest": 4,
       "build Deadfish face interpreter": 1,
       "tinker A Deadfish face that frowns at each command": 1,
       "expand home": 1,
@@ -94,11 +95,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 267
+    "minutes": 282
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.4595181,
+    "monthUsd": 2.4970961,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -106,10 +107,10 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 2,
+      "made": 3,
       "wouldFire": 0,
       "byKind": {
-        "meme": 1,
+        "meme": 2,
         "tool": 1
       }
     },
@@ -131,8 +132,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 2,
-      "constraintsOffered": 2,
+      "collisionsUsed": 3,
+      "constraintsOffered": 3,
       "constraintsRefused": 0
     },
     "places": {
@@ -143,6 +144,6 @@
     }
   },
   "warnings": [
-    "started \"rest\" 3 times today"
+    "started \"rest\" 4 times today"
   ]
 }
