@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T10:37:38.810Z",
-  "lastThinkAt": "2026-11-22T11:08:13.256Z",
+  "appliedStepAt": "2026-11-22T11:07:42.379Z",
+  "lastThinkAt": "2026-11-22T11:27:47.417Z",
   "allowance": {
     "points": 623,
     "day": "2026-11-22"
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://imgflip.com/meme/181913649",
-      "at": "2026-11-21T14:59:02.415Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Deadfish",
@@ -141,6 +136,10 @@
       "verb": "write",
       "targetId": "Thue",
       "at": "2026-11-22T11:07:42.379Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-22T11:27:47.417Z"
     }
   ],
   "sparked": {
@@ -149,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T11:27:17.285Z",
     "failures": 0,
     "recent": [
       "Fish heads still the joke. The Deadfish face is taking shape, so I'll keep building it.",
@@ -157,7 +157,6 @@
       "Left the Thue wander early. Esolang wall is building. Deadfish toy still calling my name.",
       "Thue's rules are odd enough for a joke, and the wall goes up soon. Write it quick."
     ],
-    "lastAt": "2026-11-22T11:22:12.583Z",
     "lastInput": "write|Thue|2026-11-22T11:27:42.379Z#"
   },
   "reflect": {
