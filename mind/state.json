@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T15:11:04.646Z",
+  "appliedStepAt": "2026-11-22T16:11:13.337Z",
   "lastThinkAt": "2026-11-22T16:11:13.337Z",
   "allowance": {
-    "points": 517,
+    "points": 515,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,10 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-21T20:56:22.445Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Funciton",
@@ -139,6 +135,11 @@
     {
       "verb": "rest",
       "at": "2026-11-22T16:11:13.337Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "workshop",
+      "at": "2026-11-22T17:11:14.476Z"
     }
   ],
   "sparked": {
@@ -147,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T17:10:14.168Z",
     "failures": 0,
     "recent": [
       "Home is finished. Rest till 15:19, then the Deadfish toy. Fish heads optional.",
@@ -155,7 +157,6 @@
       "Two buttons, one fish. The fish has to choose, and so do I: finish the Deadfish toy or read one more dweet.",
       "The sketch still makes me laugh. Two buttons, one fish. Rest till the Deadfish toy."
     ],
-    "lastAt": "2026-11-22T16:55:55.931Z",
     "lastInput": "rest||2026-11-22T17:11:13.337Z#"
   },
   "reflect": {

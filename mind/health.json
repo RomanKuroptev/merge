@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-22T16:55:55.931Z",
+  "updatedAt": "2026-11-22T17:11:14.476Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T16:55:55.931Z",
+    "at": "2026-11-22T17:11:14.476Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/5: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:49c48bfb",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-22T17:11:13.337Z",
+      "index": 4,
+      "verb": "tend",
+      "targetId": "workshop",
+      "until": "2026-11-22T17:41:14.476Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T14:39:40.959Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1101,
+    "ticks": 1117,
     "decideCalls": 9,
     "callsByKind": {
       "morning": 1,
@@ -45,7 +48,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "sparked": 2,
       "buildResult": 4,
       "replan": 2
@@ -69,7 +72,8 @@
       "wander https://www.dwitter.net/d/36697": 1,
       "write workshop": 1,
       "wander https://en.wikipedia.org/wiki/Mairzy_Doates": 1,
-      "tinker Two Buttons: finish the fish, or read one more dweet": 1
+      "tinker Two Buttons: finish the fish, or read one more dweet": 1,
+      "tend workshop": 1
     },
     "longestGapMinutes": 2
   },
@@ -87,13 +91,13 @@
     }
   },
   "allowance": {
-    "points": 517,
+    "points": 515,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 326
+    "minutes": 341
   },
   "needsCritical": {},
   "spend": {

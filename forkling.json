@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-22T16:55:15.566Z",
-    "seed": 355780558,
-    "reason": "I am resting at home."
+    "type": "mind_tend",
+    "startedAt": "2026-11-22T17:11:14.476Z",
+    "seed": 1958623398,
+    "reason": "Put the fish snacks and the fainting-fish caption on the bench so visitors can see them.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-22T16:55:55.931Z",
+  "lastTickAt": "2026-11-22T17:11:14.476Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
