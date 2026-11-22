@@ -1,0 +1,65 @@
+<!doctype html>
+<html><head><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; connect-src 'none'; form-action 'none'"><meta charset="utf-8"><title>Deadfish Face</title>
+<style>
+body{background:#123;color:#eef;font-family:monospace;text-align:center;margin:0;padding:10px}
+canvas{background:#2a6a8a;border-radius:12px;max-width:100%}
+input{font:20px monospace;width:260px;padding:4px}
+button{font:18px monospace;padding:4px 10px}
+#out{min-height:1.5em;color:#ff8;font-size:20px}
+#say{min-height:1.4em;color:#9fd}
+</style></head><body>
+<h2>Deadfish Face</h2>
+<div>Commands: i = +1, d = -1, s = square, o = print</div>
+<p><input id="prog" value="iiisiso" maxlength="200"> <button id="go">Run</button></p>
+<canvas id="c" width="400" height="260"></canvas>
+<div id="say">I am a fish. I have one number.</div>
+<div>Output: <span id="out"></span></div>
+<script>
+const c=document.getElementById('c'),x=c.getContext('2d');
+let acc=0,mood='idle',moodT=0,queue=[],out='';
+const say=t=>document.getElementById('say').textContent=t;
+const lines={i:['Up one. Wow.','Number go up.'],d:['Down one. Sad.','Sinking.'],s:['SQUARED!','Brain too big.'],o:['Blub: ']};
+function step(ch){
+  if(ch==='i')acc++;else if(ch==='d')acc--;else if(ch==='s')acc*=acc;
+  else if(ch==='o'){out+=acc+' ';}
+  else return;
+  mood=ch;moodT=1;
+  let l=lines[ch];say(ch==='o'?'Blub: '+acc:l[Math.random()*l.length|0]);
+  if(acc===256||acc===-1){acc=0;mood='reset';say('Overflow! Memory wiped. Fish forgot.');}
+  document.getElementById('out').textContent=out;
+}
+document.getElementById('go').onclick=()=>{
+  queue=document.getElementById('prog').value.toLowerCase().split('');acc=0;out='';
+};
+let tick=0;
+function draw(){
+  tick++;
+  if(queue.length&&tick%30===0)step(queue.shift());
+  moodT*=0.98;
+  x.clearRect(0,0,400,260);
+  let sc=1+(mood==='s'?moodT*.4:0)+(mood==='i'?moodT*.1:0);
+  let dy=mood==='d'?moodT*20:mood==='i'?-moodT*15:0;
+  x.save();x.translate(200,130+dy+Math.sin(tick/20)*4);
+  x.rotate(mood==='reset'?moodT*6:0);x.scale(sc,sc);
+  x.fillStyle=mood==='reset'?'#aaa':'#f93';
+  x.beginPath();x.ellipse(0,0,110,70,0,0,7);x.fill();
+  x.beginPath();x.moveTo(100,0);x.lineTo(160,-45);x.lineTo(160,45);x.fill();
+  // eyes
+  x.fillStyle='#fff';
+  let big=mood==='s'?22:14;
+  [[-45,-20],[10,-20]].forEach(([a,b])=>{x.beginPath();x.arc(a,b,big,0,7);x.fill();});
+  x.fillStyle='#000';
+  if(mood==='reset'){x.font='30px monospace';x.fillText('x',-55,-10);x.fillText('x',0,-10);}
+  else{let ox=Math.sin(tick/15)*4;
+   [[-45,-20],[10,-20]].forEach(([a,b])=>{x.beginPath();x.arc(a+ox,b+(mood==='d'?5:0),5,0,7);x.fill();});}
+  // mouth
+  x.strokeStyle='#000';x.lineWidth=4;x.beginPath();
+  if(mood==='o'){x.fillStyle='#600';x.ellipse(-20,35,15,10+moodT*10,0,0,7);x.fill();}
+  else if(mood==='d'||mood==='reset')x.arc(-20,55,22,Math.PI*1.1,Math.PI*1.9);
+  else x.arc(-20,25,25,Math.PI*.1,Math.PI*.9);
+  x.stroke();x.restore();
+  x.fillStyle='#fff';x.font='28px monospace';x.fillText('n = '+acc,12,32);
+  requestAnimationFrame(draw);
+}
+draw();
+</script></body></html>

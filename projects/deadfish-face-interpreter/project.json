@@ -1,0 +1,21 @@
+{
+  "id": "deadfish-face-interpreter",
+  "name": "Deadfish face interpreter",
+  "aim": "Add sound, fish-head snacks, and example programs (like printing Hello).",
+  "started": "2026-11-22T08:55:18.068Z",
+  "status": "building",
+  "reason": null,
+  "sessions": [
+    {
+      "at": "2026-11-22T08:55:53.052Z",
+      "caption": "First Deadfish interpreter: type i/d/s/o, a goofy fish reacts to each command and faints on overflow.",
+      "usd": 0.031084,
+      "turns": 2,
+      "shot": "shots/1.png",
+      "broken": false,
+      "engine": false
+    }
+  ],
+  "inspiredBy": null,
+  "installedIn": null
+}
