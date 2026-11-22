@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-22T14:03:12.063Z",
-    "seed": 1438490981,
-    "reason": "I am resting at home."
+    "type": "mind_write",
+    "startedAt": "2026-11-22T14:19:37.803Z",
+    "seed": 1958732653,
+    "reason": "A caption for the bench, with the fish that faints on overflow.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-22T14:04:20.049Z",
+  "lastTickAt": "2026-11-22T14:19:37.803Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

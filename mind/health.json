@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T14:07:20.956Z",
+  "updatedAt": "2026-11-22T14:22:38.713Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T14:07:20.956Z",
+    "at": "2026-11-22T14:22:38.713Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,18 +12,19 @@
   },
   "plan": {
     "planId": "2026-11-22:7c08b3d8",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-22T14:19:30.615Z",
+      "index": 3,
+      "verb": "write",
+      "targetId": "workshop",
+      "until": "2026-11-22T14:39:37.803Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T12:47:59.279Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 926,
+    "ticks": 942,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
@@ -45,7 +46,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "sparked": 2,
       "buildResult": 3,
       "replan": 1
@@ -66,7 +67,8 @@
       "write Thue": 1,
       "write home": 1,
       "build deadfish-face-interpreter": 1,
-      "wander https://www.dwitter.net/d/36697": 1
+      "wander https://www.dwitter.net/d/36697": 1,
+      "write workshop": 1
     },
     "longestGapMinutes": 2
   },
@@ -84,13 +86,13 @@
     }
   },
   "allowance": {
-    "points": 562,
+    "points": 561,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 158
+    "minutes": 173
   },
   "needsCritical": {},
   "spend": {

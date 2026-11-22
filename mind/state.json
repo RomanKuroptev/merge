@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T12:49:25.501Z",
+  "appliedStepAt": "2026-11-22T13:19:30.615Z",
   "lastThinkAt": "2026-11-22T12:49:25.501Z",
   "allowance": {
-    "points": 562,
+    "points": 561,
     "day": "2026-11-22"
   },
   "grants": [
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Deadfish",
-      "at": "2026-11-21T18:24:25.333Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-21T19:04:31.975Z"
@@ -139,6 +134,11 @@
     {
       "verb": "rest",
       "at": "2026-11-22T13:19:30.615Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "workshop",
+      "at": "2026-11-22T14:19:37.803Z"
     }
   ],
   "sparked": {
@@ -147,6 +147,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T14:19:27.752Z",
     "failures": 0,
     "recent": [
       "Writing the caption for my esolang wall now. One joke, short sentences, fish heads optional.",
@@ -155,7 +156,6 @@
       "Dweet 36697 with a Fresnel lens over tiles is a nice find. Still craving the Deadfish toy, fish head snacks included.",
       "Home is finished. Rest till 15:19, then the Deadfish toy. Fish heads optional."
     ],
-    "lastAt": "2026-11-22T14:04:20.049Z",
     "lastInput": "rest||2026-11-22T14:19:30.615Z#"
   },
   "reflect": {
