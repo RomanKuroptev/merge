@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
   "energy": 0.15,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-22T14:19:37.803Z",
-    "seed": 1958732653,
-    "reason": "A caption for the bench, with the fish that faints on overflow.",
-    "goalRef": "today:3"
+    "targetId": "desk",
+    "startedAt": "2026-11-22T14:34:16.226Z",
+    "seed": 17778217,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-22T14:19:37.803Z",
+  "lastTickAt": "2026-11-22T14:34:37.240Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

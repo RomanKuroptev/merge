@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T14:22:38.713Z",
+  "updatedAt": "2026-11-22T14:37:38.091Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T14:22:38.713Z",
+    "at": "2026-11-22T14:37:38.091Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -24,11 +24,11 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 942,
+    "ticks": 958,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
-      "thought": 15,
+      "thought": 16,
       "read": 13,
       "reflection": 2,
       "decide": 6,
@@ -37,7 +37,7 @@
     },
     "spendByKind": {
       "morning": 0.0023549,
-      "thought": 0.006963855,
+      "thought": 0.007492705,
       "read": 0.006004359999999999,
       "reflection": 0.048350500000000005,
       "decide": 0.007226455,
@@ -92,11 +92,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 173
+    "minutes": 189
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.44170415,
+    "monthUsd": 2.442233,
     "capUsd": 15,
     "paceUsd": 11
   },
