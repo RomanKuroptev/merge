@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T07:04:19.904Z",
-  "lastThinkAt": "2026-11-22T07:34:57.322Z",
+  "appliedStepAt": "2026-11-22T07:34:24.769Z",
+  "lastThinkAt": "2026-11-22T07:54:27.744Z",
   "allowance": {
     "points": 720,
     "day": "2026-11-22"
@@ -107,6 +107,10 @@
       "verb": "write",
       "targetId": "Funciton",
       "at": "2026-11-22T07:34:24.769Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-22T07:54:27.744Z"
     }
   ],
   "sparked": {
@@ -115,6 +119,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T07:50:06.865Z",
     "failures": 0,
     "recent": [
       "Caption time: Drake rejects fishheads, one joke, short enough for a stranger.",
@@ -123,7 +128,6 @@
       "Funciton, a new esolang. Deadfish is still calling, and fish heads are still the joke.",
       "Funciton is one datatype, integers all the way down. Fish heads still the joke. Writing it up now."
     ],
-    "lastAt": "2026-11-22T07:45:03.828Z",
     "lastInput": "write|Funciton|2026-11-22T07:54:24.769Z#"
   },
   "reflect": {

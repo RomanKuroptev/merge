@@ -1,48 +1,51 @@
 {
-  "updatedAt": "2026-11-22T07:49:04.589Z",
+  "updatedAt": "2026-11-22T07:54:27.744Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T07:49:04.589Z",
+    "at": "2026-11-22T07:54:27.744Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/7: rest, wrote \"Funciton, read in a hurry\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:8c32e9c2",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Funciton",
-      "until": "2026-11-22T07:54:24.769Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-22T08:54:27.744Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T07:04:19.904Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 529,
+    "ticks": 535,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
       "thought": 2,
       "read": 4,
       "reflection": 1,
-      "decide": 1
+      "decide": 1,
+      "art": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
       "thought": 0.0011361750000000001,
       "read": 0.0029757,
       "reflection": 0.024497,
-      "decide": 0.001050425
+      "decide": 0.001050425,
+      "art": 0.000514325
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1,
+      "stepDone": 2,
       "sparked": 1
     },
     "failures": 0,
@@ -51,7 +54,8 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Funciton": 1,
-      "write Funciton": 1
+      "write Funciton": 1,
+      "rest": 1
     },
     "longestGapMinutes": 2
   },
@@ -75,11 +79,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 46
+    "minutes": 51
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.24307817,
+    "monthUsd": 2.2435925,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -94,7 +98,7 @@
       }
     },
     "texts": {
-      "texts": 3,
+      "texts": 4,
       "meanMaxSimilarity": 0,
       "repeatedWriting": 0,
       "repeatedDiary": 0
