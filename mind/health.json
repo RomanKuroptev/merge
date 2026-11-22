@@ -1,53 +1,52 @@
 {
-  "updatedAt": "2026-11-22T08:54:34.220Z",
+  "updatedAt": "2026-11-22T09:09:54.055Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T08:54:34.220Z",
+    "at": "2026-11-22T09:09:54.055Z",
     "asleep": false,
-    "summary": "step 4/7: build",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-22:8c32e9c2",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 3,
-      "verb": "build",
-      "targetId": "Deadfish face interpreter",
-      "until": "2026-11-22T10:24:34.220Z",
+      "index": 4,
+      "verb": "tinker",
+      "targetId": "A Deadfish face that frowns at each command",
+      "until": "2026-11-22T09:56:08.241Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-22T07:04:19.904Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 597,
-    "decideCalls": 2,
+    "ticks": 613,
+    "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
-      "thought": 3,
+      "thought": 5,
       "read": 4,
       "reflection": 1,
-      "decide": 1,
+      "decide": 2,
       "art": 1
     },
     "spendByKind": {
       "morning": 0.0023549,
-      "thought": 0.0016706250000000002,
+      "thought": 0.002347135,
       "read": 0.0029757,
       "reflection": 0.024497,
-      "decide": 0.001050425,
+      "decide": 0.00219265,
       "art": 0.000514325
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3,
-      "sparked": 1
+      "stepDone": 4,
+      "sparked": 1,
+      "buildResult": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -57,7 +56,8 @@
       "wander https://esolangs.org/wiki/Funciton": 1,
       "write Funciton": 1,
       "rest": 1,
-      "build Deadfish face interpreter": 1
+      "build Deadfish face interpreter": 1,
+      "tinker A Deadfish face that frowns at each command": 1
     },
     "longestGapMinutes": 2
   },
@@ -75,17 +75,17 @@
     }
   },
   "allowance": {
-    "points": 720,
+    "points": 659,
     "max": 1500,
     "daily": 300
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 111
+    "minutes": 127
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.24412695,
+    "monthUsd": 2.27702949,
     "capUsd": 15,
     "paceUsd": 11
   },

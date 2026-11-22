@@ -1,0 +1,31 @@
+{
+  "id": "session-20261122085434",
+  "kind": "session",
+  "status": "done",
+  "title": "Deadfish face interpreter",
+  "projectId": "deadfish-face-interpreter",
+  "caption": "First Deadfish interpreter: type i/d/s/o, a goofy fish reacts to each command and faints on overflow.",
+  "calls": [
+    {
+      "at": "2026-11-22T08:55:30.632Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2459,
+      "output": 1763,
+      "usd": 0.0237855
+    },
+    {
+      "at": "2026-11-22T08:55:44.457Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2459,
+      "cacheWrite": 2097,
+      "output": 156,
+      "usd": 0.0072983
+    }
+  ],
+  "at": "2026-11-22T08:56:02.787Z"
+}
