@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-22T22:47:22.253Z",
+  "updatedAt": "2026-11-22T23:02:25.713Z",
   "engine": "v0.19.2",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-22T22:47:22.253Z",
+    "at": "2026-11-22T23:02:25.713Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,79 +18,27 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1461,
-    "decideCalls": 10,
-    "callsByKind": {
-      "morning": 1,
-      "thought": 27,
-      "read": 23,
-      "reflection": 2,
-      "decide": 9,
-      "art": 5,
-      "sketch": 3,
-      "tend": 1,
-      "weekly": 1,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "morning": 0.0023549,
-      "thought": 0.013422655,
-      "read": 0.010896544999999999,
-      "reflection": 0.048350500000000005,
-      "decide": 0.011840335,
-      "art": 0.002413225,
-      "sketch": 0.108898,
-      "tend": 0.0013001500000000001,
-      "weekly": 0.0172135,
-      "sleep": 0.0168295
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 24,
-      "sparked": 2,
-      "buildResult": 4,
-      "replan": 3
-    },
+    "ticks": 3,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://esolangs.org/wiki/Funciton": 1,
-      "write Funciton": 1,
-      "rest": 5,
-      "build Deadfish face interpreter": 1,
-      "tinker A Deadfish face that frowns at each command": 1,
-      "expand home": 1,
-      "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "wander https://esolangs.org/wiki/Thue": 1,
-      "write Thue": 1,
-      "write home": 1,
-      "build deadfish-face-interpreter": 2,
-      "wander https://www.dwitter.net/d/36697": 1,
-      "write workshop": 1,
-      "wander https://en.wikipedia.org/wiki/Mairzy_Doates": 1,
-      "tinker Two Buttons: finish the fish, or read one more dweet": 1,
-      "tend workshop": 1,
-      "wander https://github.com/css-doodle/css-doodle": 1,
-      "write Deadfish Smiles At Everything": 1,
-      "tinker Dweet fish wobble: a fish that breathes like a sphere, usin…": 1,
-      "wander https://lemmy.world/post/54700645": 1
-    },
-    "longestGapMinutes": 3
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 23,
+      "used": 0,
       "max": 40
     }
   },
   "web": {
     "pausedHosts": {},
-    "topHost": {
-      "host": "en.wikipedia.org",
-      "share": 0.425
-    }
+    "topHost": null
   },
   "allowance": {
     "points": 468,
@@ -100,13 +48,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 277
+    "minutes": 292
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 2.57446554,
     "capUsd": 15,
-    "paceUsd": 11
+    "paceUsd": 11.5
   },
   "openBuild": null,
   "credit": "ok",
@@ -132,11 +80,7 @@
       "share": 1,
       "noDoorDays": 0
     },
-    "oneHost": {
-      "host": "en.wikipedia.org",
-      "share": 0.425,
-      "wouldFire": false
-    },
+    "oneHost": null,
     "draws": {
       "collisionsUsed": 4,
       "constraintsOffered": 4,
@@ -149,7 +93,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 5 times today"
-  ]
+  "warnings": []
 }
