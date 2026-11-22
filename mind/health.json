@@ -1,38 +1,41 @@
 {
-  "updatedAt": "2026-11-22T12:43:05.459Z",
+  "updatedAt": "2026-11-22T12:47:59.279Z",
   "engine": "v0.19.2",
   "date": "2026-11-22",
   "lastTick": {
-    "at": "2026-11-22T12:43:05.459Z",
+    "at": "2026-11-22T12:47:59.279Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "wrote \"Esolang wall, crooked frame\", thought about replan, step 1/4: build, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-22:6183f6af",
-    "stepsLeft": 0,
+    "planId": "2026-11-22:7c08b3d8",
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "write",
-      "targetId": "home",
-      "until": "2026-11-22T12:47:55.729Z",
+      "index": 0,
+      "verb": "build",
+      "targetId": "deadfish-face-interpreter",
+      "until": "2026-11-22T14:17:59.279Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-22T10:37:38.810Z",
+    "lastReplanAt": "2026-11-22T12:47:59.279Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 835,
-    "decideCalls": 5,
+    "ticks": 840,
+    "decideCalls": 6,
     "callsByKind": {
       "morning": 1,
       "thought": 11,
       "read": 10,
       "reflection": 2,
-      "decide": 4,
-      "art": 2,
+      "decide": 5,
+      "art": 3,
       "sketch": 1
     },
     "spendByKind": {
@@ -40,15 +43,16 @@
       "thought": 0.005190545,
       "read": 0.005342275,
       "reflection": 0.048350500000000005,
-      "decide": 0.0049001999999999995,
-      "art": 0.0010279500000000001,
+      "decide": 0.006459125,
+      "art": 0.0014866750000000002,
       "sketch": 0.038932
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "sparked": 2,
-      "buildResult": 2
+      "buildResult": 2,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -64,7 +68,8 @@
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "wander https://esolangs.org/wiki/Thue": 1,
       "write Thue": 1,
-      "write home": 1
+      "write home": 1,
+      "build deadfish-face-interpreter": 1
     },
     "longestGapMinutes": 2
   },
@@ -88,11 +93,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 74
+    "minutes": 79
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.37904967,
+    "monthUsd": 2.38106733,
     "capUsd": 15,
     "paceUsd": 11
   },
@@ -108,8 +113,8 @@
       }
     },
     "texts": {
-      "texts": 5,
-      "meanMaxSimilarity": 0.004324324324324324,
+      "texts": 6,
+      "meanMaxSimilarity": 0.006036693627934503,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },

@@ -9,36 +9,37 @@
     "date": "2026-11-22",
     "steps": [
       {
+        "verb": "build",
+        "targetId": "deadfish-face-interpreter",
+        "reason": "Add sound, fish-head snacks and a Hello example to the Deadfish face before the fish gets bored.",
+        "wantId": "long",
+        "minutes": 90
+      },
+      {
         "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Thue",
-        "reason": "Thue is a rewriting language I haven't read. Odd corners give me better jokes than famous pages.",
+        "targetId": "https://www.dwitter.net/d/36697",
+        "reason": "A Dweet is a whole picture in a few lines of JavaScript. Could it give the interpreter a better face?",
         "wantId": "long",
         "minutes": 30
       },
       {
-        "verb": "write",
-        "targetId": "Thue",
-        "reason": "A short page on Thue while the strange rules are fresh, before the wall goes up.",
-        "wantId": "long",
-        "minutes": 20
-      },
-      {
         "verb": "rest",
-        "reason": "Sit at home and let the new reading settle while the wall is under construction.",
+        "reason": "Let the Dweet settle while the fish is still wobbling at the bench.",
         "minutes": 60
       },
       {
         "verb": "write",
-        "targetId": "home",
-        "reason": "A caption for my esolang wall, with its one crooked frame, once the builders are done.",
+        "targetId": "workshop",
+        "reason": "A caption for the bench, with the fish that faints on overflow.",
+        "wantId": "long",
         "minutes": 20
       }
     ],
-    "reason": "Home's wall is being built and my earlier plan is finished, so I'm starting a quiet afternoon: a new esolang, a page, a rest, and a caption for the wall."
+    "reason": "The Deadfish toy needs building today, and the Dweet is a fresh odd corner to read before I make the next thing."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-22T12:27:55.729Z",
-    "until": "2026-11-22T12:47:55.729Z"
+    "index": 0,
+    "startedAt": "2026-11-22T12:47:59.279Z",
+    "until": "2026-11-22T14:17:59.279Z"
   }
 }

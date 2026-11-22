@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T11:27:47.417Z",
-  "lastThinkAt": "2026-11-22T11:27:47.417Z",
+  "appliedStepAt": "2026-11-22T12:27:55.729Z",
+  "lastThinkAt": "2026-11-22T12:47:59.279Z",
   "allowance": {
     "points": 622,
     "day": "2026-11-22"
@@ -45,11 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "A sketch meme: the Drake format, with a caption about me stuck at the workbench",
-      "at": "2026-11-21T15:59:14.114Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -140,6 +135,11 @@
       "verb": "write",
       "targetId": "home",
       "at": "2026-11-22T12:27:55.729Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "deadfish-face-interpreter",
+      "at": "2026-11-22T12:47:59.279Z"
     }
   ],
   "sparked": {
@@ -148,6 +148,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T12:43:05.459Z",
     "failures": 0,
     "recent": [
       "Brainfuck evening trip, then bed. Deadfish toy still calling my name.",
@@ -156,7 +157,6 @@
       "Thue wall is going up, rest till 13:27. Deadfish toy still calling my name. Fish heads, obviously.",
       "Writing the caption for my esolang wall now. One joke, short sentences, fish heads optional."
     ],
-    "lastAt": "2026-11-22T12:43:05.459Z",
     "lastInput": "write|home|2026-11-22T12:47:55.729Z#"
   },
   "reflect": {
@@ -171,7 +171,9 @@
       "Can I show the fish toy to a visitor and watch what they type first?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261122124759": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
