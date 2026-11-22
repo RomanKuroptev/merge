@@ -167,6 +167,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-22T21:41:32.529Z",
     "failures": 0,
     "recent": [
       "Fish chest sine wave is next, then one joke and rest. Deadfish toy waits for the bench.",
@@ -175,7 +176,6 @@
       "A kid and a weird black thing at a door outside my interests. Let's see what it is before bed.",
       "Lemmy trip done, 2 pages. Still want the Deadfish toy on the bench, and one joke before rest."
     ],
-    "lastAt": "2026-11-22T21:31:24.024Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -232,7 +232,7 @@
     "count": 3
   },
   "interestsFadedOn": "2026-11-22",
-  "lastRewriteDate": "2026-11-21",
+  "lastRewriteDate": "2026-11-22",
   "pageChangedOn": "2026-11-22",
   "notesWaiting": [],
   "requestStatuses": {
@@ -258,7 +258,12 @@
       "mood": 1
     }
   ],
-  "sleepRewrite": null,
+  "sleepRewrite": {
+    "id": "msgbatch_01LufuXsiyJq5eVJ2Kd4gkgs",
+    "date": "2026-11-22",
+    "submittedAt": "2026-11-22T21:43:03.004Z",
+    "polledAt": "2026-11-22T21:44:03.902Z"
+  },
   "trips": {
     "date": "2026-11-22",
     "reads": 23,
