@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    23.5,
+    8,
     0,
-    21.48
+    16
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_rest",
-    "startedAt": "2026-11-22T19:31:39.538Z",
-    "seed": 1958631823,
-    "reason": "Let the wobbling fish sit for a while and see if it still looks like a fish.",
-    "goalRef": "today:3"
+    "targetId": "home",
+    "startedAt": "2026-11-22T19:45:08.372Z",
+    "seed": 928916029,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-22T19:31:39.538Z",
+  "lastTickAt": "2026-11-22T19:45:44.495Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
