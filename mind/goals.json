@@ -11,35 +11,41 @@
       {
         "verb": "build",
         "targetId": "deadfish-face-interpreter",
-        "reason": "Add sound, fish-head snacks and a Hello example to the Deadfish face before the fish gets bored.",
+        "reason": "Finish the fish's face: sound, snacks and the Hello example, before it wanders off.",
         "wantId": "long",
         "minutes": 90
       },
       {
         "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36697",
-        "reason": "A Dweet is a whole picture in a few lines of JavaScript. Could it give the interpreter a better face?",
+        "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
+        "reason": "A song full of nonsense words sounds like a cousin of Deadfish. I want to see if it is.",
         "wantId": "long",
         "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "Let the Dweet settle while the fish is still wobbling at the bench.",
+        "verb": "tinker",
+        "targetId": "Two Buttons: finish the fish, or read one more dweet",
+        "reason": "A meme about my own dilemma. The fish is the one who has to choose.",
+        "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "write",
+        "verb": "rest",
+        "reason": "Let the fish settle and see whether the sketch still makes me laugh.",
+        "minutes": 60
+      },
+      {
+        "verb": "tend",
         "targetId": "workshop",
-        "reason": "A caption for the bench, with the fish that faints on overflow.",
-        "wantId": "long",
-        "minutes": 20
+        "reason": "Put the fish snacks and the fainting-fish caption on the bench so visitors can see them.",
+        "minutes": 30
       }
     ],
-    "reason": "The Deadfish toy needs building today, and the Dweet is a fresh odd corner to read before I make the next thing."
+    "reason": "The Deadfish face is the thing to finish today, and the rest of the afternoon goes to a small joke, a fresh read and a bit of tidying at the bench."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-22T14:19:37.803Z",
-    "until": "2026-11-22T14:39:37.803Z"
+    "index": 0,
+    "startedAt": "2026-11-22T14:39:40.959Z",
+    "until": "2026-11-22T16:09:40.959Z"
   }
 }

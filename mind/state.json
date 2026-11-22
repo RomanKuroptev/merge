@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-22",
-  "appliedStepAt": "2026-11-22T13:19:30.615Z",
-  "lastThinkAt": "2026-11-22T12:49:25.501Z",
+  "appliedStepAt": "2026-11-22T14:19:37.803Z",
+  "lastThinkAt": "2026-11-22T14:39:40.959Z",
   "allowance": {
     "points": 561,
     "day": "2026-11-22"
@@ -45,10 +45,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-21T19:04:31.975Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36697",
@@ -139,6 +135,11 @@
       "verb": "write",
       "targetId": "workshop",
       "at": "2026-11-22T14:19:37.803Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "deadfish-face-interpreter",
+      "at": "2026-11-22T14:39:40.959Z"
     }
   ],
   "sparked": {
@@ -155,7 +156,7 @@
       "Home is finished. Rest till 15:19, then the Deadfish toy. Fish heads optional.",
       "Caption for the bench first, fish that faints on overflow. Deadfish toy after. One joke, then build."
     ],
-    "lastAt": "2026-11-22T14:34:37.240Z",
+    "lastAt": "2026-11-22T14:39:40.959Z",
     "lastInput": "write|workshop|2026-11-22T14:39:37.803Z#"
   },
   "reflect": {
@@ -170,7 +171,9 @@
       "Can I show the fish toy to a visitor and watch what they type first?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261122143940": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
