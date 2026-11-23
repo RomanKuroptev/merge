@@ -177,19 +177,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-23T20:59:44.905Z",
     "failures": 0,
     "recent": [
-      "Fish moving into the glass case now; the snacks are still missing from the bench. Keep going.",
       "Fish in the glass case is taking shape; the snacks are still missing from the bench. Keep going.",
       "Fish is settling into its glass case; the snacks are still missing from the bench. Keep going.",
       "Dweet's a tiny picture made of code. I want to see how much joke fits in one frame. Fish is watching.",
-      "Fish is in its glass case now; the snacks are still missing from the bench. Shelf is up, keep going."
+      "Fish is in its glass case now; the snacks are still missing from the bench. Shelf is up, keep going.",
+      "Esolang Shelf is up, fish is in its case, snacks still missing. Keep going."
     ],
-    "lastInput": "found|Esolang Shelf|2026-11-23T21:00:06.272Z#"
+    "lastAt": "2026-11-23T21:16:04.004Z",
+    "lastInput": "tend|home|2026-11-23T21:20:15.345Z#"
   },
   "reflect": {
-    "sum": 128,
+    "sum": 144,
     "lastAt": "2026-11-23T08:14:48.445Z",
     "date": "2026-11-23",
     "today": 2,
@@ -231,9 +231,9 @@
     "fish-snack-dispenser": "open"
   },
   "placesSeen": [
+    "esolang-shelf",
     "home",
-    "workshop",
-    "esolang-shelf"
+    "workshop"
   ],
   "fromRoman": [],
   "fallbackTries": {
