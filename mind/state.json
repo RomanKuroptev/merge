@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T16:18:45.615Z",
+  "appliedStepAt": "2026-11-23T16:58:54.962Z",
   "lastThinkAt": "2026-11-23T16:58:54.962Z",
   "allowance": {
-    "points": 626,
+    "points": 616,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Dweet fish wobble: a fish that breathes like a sphere, using only a few lines",
-      "at": "2026-11-22T18:31:31.352Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-22T19:31:39.538Z"
@@ -168,6 +163,11 @@
       "verb": "expand",
       "targetId": "workshop",
       "at": "2026-11-23T16:58:54.962Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Befunge",
+      "at": "2026-11-23T17:28:56.119Z"
     }
   ],
   "sparked": {
@@ -176,6 +176,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T17:28:25.958Z",
     "failures": 0,
     "recent": [
       "Frame still crooked, fish judging me. META II hung high on the shelf, safe from the fish. Resting a while longer.",
@@ -184,7 +185,6 @@
       "Frame still crooked, fish judging me. Befunge fish is drifting on its grid; META II stays high on the shelf. Keep going.",
       "Expanding the workshop so the fish has room; the Thue quote is hung low and the foam joke sits high, out of reach."
     ],
-    "lastAt": "2026-11-23T17:12:13.451Z",
     "lastInput": "expand|workshop|2026-11-23T17:28:54.962Z#"
   },
   "reflect": {
@@ -219,7 +219,7 @@
       "deadfish"
     ]
   },
-  "lastExpandedPlace": "home",
+  "lastExpandedPlace": "workshop",
   "requestSeen": {},
   "wishSeen": {
     "tiny-label-plate": "built"
