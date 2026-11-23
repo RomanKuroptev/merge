@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T12:43:12.307Z",
+  "updatedAt": "2026-11-23T12:57:25.255Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T12:43:12.307Z",
+    "at": "2026-11-23T12:57:25.255Z",
     "asleep": false,
-    "summary": "step 3/5: write, sketched \"Brainfuck Fish\", installed works in Workshop",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,7 +24,7 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 843,
+    "ticks": 857,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
@@ -94,7 +92,7 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 251
+    "minutes": 265
   },
   "needsCritical": {},
   "spend": {
