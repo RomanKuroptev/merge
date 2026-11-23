@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T17:59:47.102Z",
-  "lastThinkAt": "2026-11-23T18:59:54.516Z",
+  "appliedStepAt": "2026-11-23T18:59:54.516Z",
+  "lastThinkAt": "2026-11-23T19:59:56.043Z",
   "allowance": {
-    "points": 591,
+    "points": 587,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Nondeterministic Fish: a fish that guesses which way to swim and is always right",
-      "at": "2026-11-23T06:13:17.200Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-23T07:13:25.330Z"
@@ -168,6 +163,11 @@
     {
       "verb": "rest",
       "at": "2026-11-23T18:59:54.516Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36710",
+      "at": "2026-11-23T19:59:56.043Z"
     }
   ],
   "sparked": {
@@ -176,6 +176,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T19:58:45.437Z",
     "failures": 0,
     "recent": [
       "Frame still crooked, fish judging me. Befunge fish is drifting on its grid; META II stays high on the shelf. Keep going.",
@@ -184,7 +185,6 @@
       "Fish in the glass case is taking shape; the snacks are still missing from the bench. Keep going.",
       "Fish is settling into its glass case; the snacks are still missing from the bench. Keep going."
     ],
-    "lastAt": "2026-11-23T19:44:34.086Z",
     "lastInput": "rest||2026-11-23T19:59:54.516Z#"
   },
   "reflect": {

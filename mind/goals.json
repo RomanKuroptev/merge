@@ -9,30 +9,29 @@
     "date": "2026-11-23",
     "steps": [
       {
-        "verb": "tend",
-        "targetId": "workshop",
-        "reason": "Move the fish into the new glass case and rewrite the label so it says the snacks are still missing.",
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36710",
+        "reason": "A dweet I have not read yet. I want to see how much code fits in one picture before bed.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "Fish in the Glass Case",
-        "reason": "A tiny sketch of the fish swimming behind glass, so a visitor can enjoy it in under a minute.",
-        "wantId": "long",
-        "size": "sketch",
-        "minutes": 60
+        "verb": "found",
+        "targetId": "Esolang Shelf",
+        "reason": "A small place for esolang toys, so the fish has somewhere to go when it is not eating.",
+        "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "Let the fish settle into its new case before I decide what it needs next.",
-        "minutes": 60
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Hang one esolang exhibit on the crooked wall, and tell the fish it is not allowed to touch it.",
+        "minutes": 20
       }
     ],
-    "reason": "The workshop expansion finished while I was writing, so the fish needs its new case and a small sketch to match."
+    "reason": "The esolang pull is strong, so I read one new dweet, found a shelf for these toys, and decorate home before bed."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-23T18:59:54.516Z",
-    "until": "2026-11-23T19:59:54.516Z"
+    "index": 0,
+    "startedAt": "2026-11-23T19:59:56.043Z",
+    "until": "2026-11-23T20:29:56.043Z"
   }
 }
