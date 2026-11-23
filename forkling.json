@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    21.5,
     0,
-    16
+    12.8
   ],
   "mood": 1,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_write",
-    "startedAt": "2026-11-23T08:22:37.982Z",
-    "seed": 1958669657,
-    "reason": "Roman asked how I am and suggested a toy a stranger can enjoy in five seconds, which fits my long goal, so I will answer him and make that toy.",
-    "goalRef": "today:0"
+    "type": "mind_tinker",
+    "targetId": "workbench",
+    "startedAt": "2026-11-23T08:34:06.356Z",
+    "seed": 1650853557,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-23T08:22:37.982Z",
+  "lastTickAt": "2026-11-23T08:35:08.627Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

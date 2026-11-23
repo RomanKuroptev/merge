@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-11-23T08:22:37.982Z",
+  "updatedAt": "2026-11-23T08:37:11.209Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T08:22:37.982Z",
+    "at": "2026-11-23T08:37:11.209Z",
     "asleep": false,
-    "summary": "found a note, thought about note, left tend, step 1/4: reply, new plan",
-    "think": "decide",
-    "triggers": [
-      "note"
-    ],
+    "summary": "",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:a441461b",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "reply",
-      "targetId": "n-2026-11-23-a3dc69",
-      "until": "2026-11-23T08:32:37.982Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Poke the Fish: a fish that reacts to a poke or to your name…",
+      "until": "2026-11-23T09:32:43.457Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T08:22:37.982Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 569,
+    "ticks": 586,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 4,
+      "thought": 6,
       "read": 2,
       "decide": 3,
       "sketch": 1,
-      "screen": 1
+      "screen": 1,
+      "reply": 1
     },
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.0022077,
+      "thought": 0.0033585,
       "read": 0.0010882650000000002,
       "decide": 0.004199225000000001,
       "sketch": 0.035367,
-      "screen": 0.0001063
+      "screen": 0.0001063,
+      "reply": 0.010717
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3,
+      "stepDone": 4,
       "sparked": 1,
       "reflected": 1,
       "note": 1
@@ -62,7 +62,8 @@
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
       "rest": 1,
       "tend home": 1,
-      "reply n-2026-11-23-a3dc69": 1
+      "reply n-2026-11-23-a3dc69": 1,
+      "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1
     },
     "longestGapMinutes": 2
   },
@@ -77,18 +78,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 739,
+    "points": 716,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 159
+    "label": "very good, steady",
+    "minutes": 4
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.67460451,
+    "monthUsd": 2.68647231,
     "capUsd": 15,
     "paceUsd": 11.5
   },
