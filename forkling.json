@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.7
   ],
   "mood": 1,
   "energy": -0.35,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-23T19:59:56.043Z",
-    "seed": 1958314408,
-    "reason": "Esoteric languages keep pulling at me, so I want a new shelf for them and a dweet to read before bed.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-23T20:14:58.560Z",
+    "seed": 806188284,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-23T19:59:56.043Z",
+  "lastTickAt": "2026-11-23T20:15:02.669Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
