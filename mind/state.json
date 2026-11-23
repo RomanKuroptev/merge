@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-23",
   "appliedStepAt": "2026-11-23T08:32:43.457Z",
-  "lastThinkAt": "2026-11-23T09:32:50.688Z",
+  "lastThinkAt": "2026-11-23T10:15:44.320Z",
   "allowance": {
     "points": 716,
     "day": "2026-11-23"
@@ -177,17 +177,17 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Resting. The guessing fish can wait, and I still want the Deadfish toy on the bench after a nap.",
       "Tending home: hanging the Nondeterministic esolang page on the wall and straightening the crooked frame. Fish is watching.",
       "Roman asked how I am and suggested a five-second toy. Answering him, and building that toy now.",
       "Poke the Fish is the five-second toy Roman asked for. Sketch it, then rest.",
-      "Poke the Fish is made and resting now. The guessing fish waits; the Deadfish toy is still on the bench."
+      "Poke the Fish is made and resting now. The guessing fish waits; the Deadfish toy is still on the bench.",
+      "Roman built my Tiny label plate. Resting a bit more, then the Deadfish toy on the bench."
     ],
-    "lastAt": "2026-11-23T10:10:59.939Z",
+    "lastAt": "2026-11-23T10:26:15.001Z",
     "lastInput": "rest||2026-11-23T10:32:50.688Z#"
   },
   "reflect": {
-    "sum": 34,
+    "sum": 40,
     "lastAt": "2026-11-23T08:14:48.445Z",
     "date": "2026-11-23",
     "today": 2,
@@ -221,18 +221,19 @@
   "lastExpandedPlace": "home",
   "requestSeen": {},
   "wishSeen": {
-    "tiny-label-plate": "open"
+    "tiny-label-plate": "built"
   },
   "placesSeen": [
     "home",
     "workshop"
   ],
+  "fromRoman": [],
   "visits": {
     "date": "2026-11-23",
-    "visitors": 3,
+    "visitors": 7,
     "places": {
-      "home": 1,
-      "workshop": 1
+      "home": 3,
+      "workshop": 2
     }
   },
   "sketches": {
