@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T11:12:58.150Z",
-  "lastThinkAt": "2026-11-23T11:43:30.987Z",
+  "appliedStepAt": "2026-11-23T11:43:07.257Z",
+  "lastThinkAt": "2026-11-23T12:43:12.307Z",
   "allowance": {
-    "points": 687,
+    "points": 677,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "deadfish-face-interpreter",
-      "at": "2026-11-22T14:39:40.959Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
@@ -168,6 +163,11 @@
       "verb": "tinker",
       "targetId": "Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute",
       "at": "2026-11-23T11:43:07.257Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "META II",
+      "at": "2026-11-23T12:43:12.307Z"
     }
   ],
   "sparked": {
@@ -178,14 +178,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Poke the Fish is made and resting now. The guessing fish waits; the Deadfish toy is still on the bench.",
       "Roman built my Tiny label plate. Resting a bit more, then the Deadfish toy on the bench.",
       "Straightening the esolang wall frame and hanging the Nondeterministic page. The fish is watching, and I am not sure it approves.",
       "Reading META II now, then a fish toy about how small a compiler can be.",
-      "The fish is still on the bench; Poke the Fish is resting. Next, the Brainfuck toy needs a face and a minute of fun."
+      "The fish is still on the bench; Poke the Fish is resting. Next, the Brainfuck toy needs a face and a minute of fun.",
+      "META II is a tiny compiler-writing language, perfect for a fish joke: four commands, one compiler, zero regrets."
     ],
-    "lastAt": "2026-11-23T12:27:58.985Z",
-    "lastInput": "tinker|Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute|2026-11-23T12:43:07.257Z#"
+    "lastAt": "2026-11-23T12:43:12.307Z",
+    "lastInput": "write|META II|2026-11-23T13:08:12.307Z#"
   },
   "reflect": {
     "sum": 56,
@@ -239,7 +239,7 @@
   },
   "sketches": {
     "date": "2026-11-23",
-    "count": 2
+    "count": 3
   },
   "interestsFadedOn": "2026-11-23",
   "lastRewriteDate": "2026-11-22",

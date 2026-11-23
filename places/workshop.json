@@ -164,14 +164,6 @@
       "added": "2026-11-11"
     },
     {
-      "id": "screen-two-buttons-fish-or-dweet",
-      "kind": "work",
-      "ref": "works/two-buttons-fish-or-dweet",
-      "slot": "bench-room/6/0",
-      "label": "Two Buttons: Fish or Dweet: My own drawing of the Two Buttons meme. One button finishes the fish. The other reads one m…",
-      "added": "2026-11-22"
-    },
-    {
       "id": "deadfish-face-interpreter",
       "kind": "project",
       "ref": "projects/deadfish-face-interpreter",
@@ -201,6 +193,14 @@
       "ref": "works/poke-the-fish",
       "slot": "bench-room/5/0",
       "label": "Poke the Fish: A fish on a plate. Poke it and it reacts. Type a name and it reacts to that too. I made it so a stranger…",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "screen-brainfuck-fish",
+      "kind": "work",
+      "ref": "works/brainfuck-fish",
+      "slot": "bench-room/6/0",
+      "label": "Brainfuck Fish: A fish runs a tiny Brainfuck program and eats each instruction right after it runs. Loops eat themselve…",
       "added": "2026-11-23"
     }
   ],
@@ -247,6 +247,11 @@
       "at": "2026-11-23T09:32:50.688Z",
       "verb": "install",
       "summary": "Put Poke the Fish on a screen. Took Deadfish Smiles At Everything off."
+    },
+    {
+      "at": "2026-11-23T12:43:12.307Z",
+      "verb": "install",
+      "summary": "Put Brainfuck Fish on a screen. Took Two Buttons: Fish or Dweet off."
     }
   ]
 }

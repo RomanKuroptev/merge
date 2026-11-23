@@ -1,0 +1,25 @@
+{
+  "id": "brainfuck-fish",
+  "title": "Brainfuck Fish",
+  "kind": "tool",
+  "about": "A fish runs a tiny Brainfuck program and eats each instruction right after it runs. Loops eat themselves, so nothing repeats. Each tape cell holds only 6 fish heads. Click to feed it a new program.",
+  "interest": "esoteric languages",
+  "made": "2026-11-23T12:43:12.307Z",
+  "remixOf": null,
+  "constraint": {
+    "text": "Combine two ideas that do not belong together.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-23-meta-ii",
+    "2026-11-23-argh"
+  ],
+  "status": "shelf",
+  "inspiredBy": null,
+  "size": "sketch",
+  "installedIn": "workshop/bench-room/6/0",
+  "libraries": [],
+  "sources": [],
+  "titleHistory": []
+}

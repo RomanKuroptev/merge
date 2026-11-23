@@ -1,38 +1,40 @@
 {
-  "updatedAt": "2026-11-23T12:27:58.985Z",
+  "updatedAt": "2026-11-23T12:43:12.307Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T12:27:58.985Z",
+    "at": "2026-11-23T12:43:12.307Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/5: write, sketched \"Brainfuck Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:33d152ec",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Brainfuck Fish: a fish that eats its own code one head at a…",
-      "until": "2026-11-23T12:43:07.257Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "META II",
+      "until": "2026-11-23T13:08:12.307Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T11:12:58.150Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 828,
+    "ticks": 843,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 11,
+      "thought": 12,
       "read": 5,
       "decide": 6,
-      "sketch": 2,
+      "sketch": 3,
       "screen": 1,
       "reply": 1,
       "tend": 1
@@ -40,17 +42,17 @@
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.006154999999999999,
+      "thought": 0.0066828999999999986,
       "read": 0.0024083200000000003,
       "decide": 0.008397250000000002,
-      "sketch": 0.069576,
+      "sketch": 0.11365700000000001,
       "screen": 0.0001063,
       "reply": 0.010717,
       "tend": 0.0012634
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -69,7 +71,8 @@
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
       "wander META II": 1,
-      "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1
+      "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1,
+      "write META II": 1
     },
     "longestGapMinutes": 2
   },
@@ -84,18 +87,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 687,
+    "points": 677,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 236
+    "minutes": 251
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.73025929,
+    "monthUsd": 2.77486819,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -103,11 +106,11 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 6,
+      "made": 7,
       "wouldFire": 0,
       "byKind": {
         "meme": 2,
-        "tool": 2,
+        "tool": 3,
         "art": 2
       }
     },
@@ -125,8 +128,8 @@
     },
     "oneHost": null,
     "draws": {
-      "collisionsUsed": 6,
-      "constraintsOffered": 6,
+      "collisionsUsed": 7,
+      "constraintsOffered": 7,
       "constraintsRefused": 0
     },
     "places": {
