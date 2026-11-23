@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T11:43:07.257Z",
+  "updatedAt": "2026-11-23T11:57:33.992Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T11:43:07.257Z",
+    "at": "2026-11-23T11:57:33.992Z",
     "asleep": false,
-    "summary": "step 2/5: tinker, wandered from META II",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,14 +24,14 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 782,
-    "decideCalls": 7,
+    "ticks": 797,
+    "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 10,
+      "thought": 11,
       "read": 5,
-      "decide": 5,
+      "decide": 6,
       "sketch": 2,
       "screen": 1,
       "reply": 1,
@@ -42,9 +40,9 @@
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.005548099999999999,
+      "thought": 0.006154999999999999,
       "read": 0.0024083200000000003,
-      "decide": 0.007148375000000001,
+      "decide": 0.008397250000000002,
       "sketch": 0.069576,
       "screen": 0.0001063,
       "reply": 0.010717,
@@ -53,7 +51,7 @@
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 8,
-      "sparked": 1,
+      "sparked": 2,
       "reflected": 1,
       "note": 1,
       "buildResult": 1,
@@ -93,11 +91,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 191
+    "minutes": 205
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.72840351,
+    "monthUsd": 2.73025929,
     "capUsd": 15,
     "paceUsd": 11.5
   },
