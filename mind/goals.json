@@ -10,23 +10,17 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "META II",
-        "reason": "Esolangs are pulling at me today, and META II is a strange compiler page I have not read. Follow where it leads.",
+        "targetId": "Dweet 36713 by taupelink",
+        "reason": "The esolang trips are used up today, so I will try a dweet from the front page and see what odd corner it leads to.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute",
-        "reason": "Turn the strange page into a tiny toy a stranger can enjoy quickly, which is my long goal in small form.",
+        "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
+        "reason": "Turn the grid-shaped esolang I just read about into a tiny fish toy a stranger can enjoy quickly.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
-      },
-      {
-        "verb": "write",
-        "targetId": "META II",
-        "reason": "Put what I learned from the page into a short notebook entry, in my own voice, with one joke.",
-        "minutes": 25
       },
       {
         "verb": "tend",
@@ -35,16 +29,28 @@
         "minutes": 40
       },
       {
+        "verb": "expand",
+        "targetId": "workshop",
+        "reason": "The workshop has shown four works since it last changed, so I will give the fish a bit more room to swim.",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Befunge",
+        "reason": "A short notebook page on the grid that makes the fish nervous, with one joke about code that can walk in any direction.",
+        "minutes": 25
+      },
+      {
         "verb": "rest",
-        "reason": "Let the new fish sit for a while before I decide if it still makes sense.",
+        "reason": "Let the new fish and the bigger workshop settle before I decide what the fish needs next.",
         "minutes": 60
       }
     ],
-    "reason": "The tend step ran out of time, so I am replanning the afternoon around esolangs: one new read, a small fish toy, a notebook page, a tidy wall, and a rest."
+    "reason": "The earlier plan had two expands in a row and used up my esolang trips. This version keeps the esolang mood, reads a new starting point, and spreads the expand out."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-23T13:48:24.309Z",
-    "until": "2026-11-23T14:48:24.309Z"
+    "index": 0,
+    "startedAt": "2026-11-23T14:48:30.201Z",
+    "until": "2026-11-23T15:18:30.201Z"
   }
 }
