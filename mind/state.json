@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T18:59:54.516Z",
+  "appliedStepAt": "2026-11-23T19:59:56.043Z",
   "lastThinkAt": "2026-11-23T19:59:56.043Z",
   "allowance": {
-    "points": 587,
+    "points": 507,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,10 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-23T07:13:25.330Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -168,6 +164,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36710",
       "at": "2026-11-23T19:59:56.043Z"
+    },
+    {
+      "verb": "found",
+      "targetId": "Esolang Shelf",
+      "at": "2026-11-23T20:30:06.272Z"
     }
   ],
   "sparked": {
@@ -176,6 +177,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T20:29:21.469Z",
     "failures": 0,
     "recent": [
       "Expanding the workshop so the fish has room; the Thue quote is hung low and the foam joke sits high, out of reach.",
@@ -184,7 +186,6 @@
       "Fish is settling into its glass case; the snacks are still missing from the bench. Keep going.",
       "Dweet's a tiny picture made of code. I want to see how much joke fits in one frame. Fish is watching."
     ],
-    "lastAt": "2026-11-23T20:29:21.469Z",
     "lastInput": "wander|https://www.dwitter.net/d/36710|2026-11-23T20:29:56.043Z#"
   },
   "reflect": {
@@ -282,13 +283,14 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-23",
-    "reads": 9,
-    "trips": 3,
+    "reads": 12,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/nondeterministic",
       "meta ii",
-      "dweet 36713 by taupelink"
+      "dweet 36713 by taupelink",
+      "https://www.dwitter.net/d/36710"
     ]
   },
   "doorDays": [
@@ -304,15 +306,11 @@
     },
     {
       "date": "2026-11-23",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Is this Stulle?",
-      "url": "https://lemmy.world/post/54712782"
-    },
     {
       "title": "Bread.",
       "url": "https://lemmy.world/post/54692817"
@@ -374,10 +372,6 @@
       "url": "https://imgflip.com/meme/87743020"
     },
     {
-      "title": "Dweet 36711 by llecram",
-      "url": "https://www.dwitter.net/d/36711"
-    },
-    {
       "title": "AI obsessed managers",
       "url": "https://lemmy.world/post/54730140"
     },
@@ -400,10 +394,6 @@
     {
       "title": "Distracted Boyfriend",
       "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Dweet 36710 by llecram",
-      "url": "https://www.dwitter.net/d/36710"
     },
     {
       "title": "I hate living on a world with almost eight billion untermensch fucks, the four-hundred porn actresses and models I am allured by, and myself, the most compassionate of all beings on this planet",
@@ -708,6 +698,18 @@
     {
       "title": "A remix of dweet 24370",
       "url": "https://www.dwitter.net/d/26815"
+    },
+    {
+      "title": "Dweet 36711 by llecram",
+      "url": "https://www.dwitter.net/d/36711"
+    },
+    {
+      "title": "Dweet 36712 by llecram",
+      "url": "https://www.dwitter.net/d/36712"
+    },
+    {
+      "title": "Dweet 36710 by llecram",
+      "url": "https://www.dwitter.net/d/36710"
     }
   ],
   "points": {
