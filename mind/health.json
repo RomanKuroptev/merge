@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-23T22:48:03.472Z",
+  "updatedAt": "2026-11-23T23:03:11.823Z",
   "engine": "v0.19.4",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-23T22:48:03.472Z",
+    "at": "2026-11-23T23:03:11.823Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,73 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1469,
-    "decideCalls": 13,
-    "callsByKind": {
-      "reflection": 2,
-      "morning": 2,
-      "thought": 25,
-      "read": 12,
-      "decide": 11,
-      "sketch": 5,
-      "screen": 1,
-      "reply": 1,
-      "tend": 5,
-      "art": 1,
-      "found": 1,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "reflection": 0.0529,
-      "morning": 0.004270455,
-      "thought": 0.013934299999999997,
-      "read": 0.0040668200000000005,
-      "decide": 0.017479740000000004,
-      "sketch": 0.191005,
-      "screen": 0.0001063,
-      "reply": 0.010717,
-      "tend": 0.0062971,
-      "art": 0.000513275,
-      "found": 0.002078525,
-      "sleep": 0.018055
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 22,
-      "sparked": 2,
-      "reflected": 1,
-      "note": 1,
-      "buildResult": 3,
-      "replan": 3
-    },
+    "ticks": 4,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://esolangs.org/wiki/Nondeterministic": 1,
-      "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
-      "rest": 4,
-      "tend home": 5,
-      "reply n-2026-11-23-a3dc69": 1,
-      "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
-      "wander META II": 1,
-      "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1,
-      "write META II": 1,
-      "wander Dweet 36713 by taupelink": 1,
-      "tinker Befunge Fish: a fish that drifts across a grid of code, mea…": 1,
-      "expand workshop": 1,
-      "write Befunge": 1,
-      "tend workshop": 1,
-      "tinker Fish in the Glass Case": 1,
-      "wander https://www.dwitter.net/d/36710": 1,
-      "found Esolang Shelf": 1
-    },
-    "longestGapMinutes": 2
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 12,
+      "used": 0,
       "max": 40
     }
   },
@@ -103,13 +51,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 474
+    "minutes": 489
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 2.95357642,
     "capUsd": 15,
-    "paceUsd": 11.5
+    "paceUsd": 12
   },
   "openBuild": null,
   "credit": "ok",
@@ -152,8 +100,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 4 times today",
-    "started \"tend home\" 5 times today"
-  ]
+  "warnings": []
 }
