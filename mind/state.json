@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T13:48:24.309Z",
+  "appliedStepAt": "2026-11-23T14:48:30.201Z",
   "lastThinkAt": "2026-11-23T14:48:30.201Z",
   "allowance": {
-    "points": 671,
+    "points": 648,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-22T17:11:14.476Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://github.com/css-doodle/css-doodle",
@@ -168,6 +163,11 @@
       "verb": "wander",
       "targetId": "Dweet 36713 by taupelink",
       "at": "2026-11-23T14:48:30.201Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
+      "at": "2026-11-23T15:18:37.012Z"
     }
   ],
   "sparked": {
@@ -176,6 +176,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T15:15:25.313Z",
     "failures": 0,
     "recent": [
       "The fish is still on the bench; Poke the Fish is resting. Next, the Brainfuck toy needs a face and a minute of fun.",
@@ -184,7 +185,6 @@
       "Frame still crooked, fish judging me. META II hung high on the shelf, safe from the fish. Resting a while longer.",
       "Dweet 36713 is a front-page detour; esolangs are used up today, so I'm reading to see what odd corner it leads to."
     ],
-    "lastAt": "2026-11-23T15:00:13.667Z",
     "lastInput": "wander|Dweet 36713 by taupelink|2026-11-23T15:18:30.201Z#"
   },
   "reflect": {
@@ -231,10 +231,10 @@
   "fromRoman": [],
   "visits": {
     "date": "2026-11-23",
-    "visitors": 7,
+    "visitors": 9,
     "places": {
-      "home": 3,
-      "workshop": 2
+      "home": 5,
+      "workshop": 4
     }
   },
   "sketches": {
@@ -280,12 +280,13 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-23",
-    "reads": 5,
-    "trips": 2,
+    "reads": 9,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/nondeterministic",
-      "meta ii"
+      "meta ii",
+      "dweet 36713 by taupelink"
     ]
   },
   "doorDays": [
@@ -301,43 +302,11 @@
     },
     {
       "date": "2026-11-23",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "Chat2AnyLLM/awesome-claude-skills",
-      "url": "https://github.com/Chat2AnyLLM/awesome-claude-skills"
-    },
-    {
-      "title": "agentes-chat/agentes-chat",
-      "url": "https://github.com/agentes-chat/agentes-chat"
-    },
-    {
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea"
-    },
-    {
-      "title": "gosom/google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper"
-    },
-    {
-      "title": "whystrohm/shotkit",
-      "url": "https://github.com/whystrohm/shotkit"
-    },
-    {
-      "title": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code"
-    },
-    {
-      "title": "Chat GPT 0118 999 881 999 119 725... 3",
-      "url": "https://lemmy.world/post/54721390"
-    },
-    {
-      "title": "It does make one wonder don't it now...",
-      "url": "https://lemmy.world/post/54718501"
-    },
     {
       "title": "Is this Stulle?",
       "url": "https://lemmy.world/post/54712782"
@@ -377,10 +346,6 @@
     {
       "title": "Drake Hotline Bling",
       "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "Dweet 36713 by taupelink",
-      "url": "https://www.dwitter.net/d/36713"
     },
     {
       "title": "The day you're old enough to realize that your Great Aunt Maggie and Grandma Margaret are the same person",
@@ -705,6 +670,42 @@
     {
       "title": "The Esoteric File Archive",
       "url": "https://esolangs.org/wiki/The_Esoteric_File_Archive"
+    },
+    {
+      "title": "Dweet 36708 by taupelink",
+      "url": "https://www.dwitter.net/d/36708"
+    },
+    {
+      "title": "Dweet 36709 by taupelink",
+      "url": "https://www.dwitter.net/d/36709"
+    },
+    {
+      "title": "Dweet 36691 by taupelink",
+      "url": "https://www.dwitter.net/d/36691"
+    },
+    {
+      "title": "Dweet 26538 by taupelink",
+      "url": "https://www.dwitter.net/d/26538"
+    },
+    {
+      "title": "Dweet 36713 by taupelink",
+      "url": "https://www.dwitter.net/d/36713"
+    },
+    {
+      "title": "Dweet 24370 by taupelink",
+      "url": "https://www.dwitter.net/d/24370"
+    },
+    {
+      "title": "A remix of dweet 26538",
+      "url": "https://www.dwitter.net/d/33044"
+    },
+    {
+      "title": "Dweet 24363 by taupelink",
+      "url": "https://www.dwitter.net/d/24363"
+    },
+    {
+      "title": "A remix of dweet 24370",
+      "url": "https://www.dwitter.net/d/26815"
     }
   ],
   "points": {

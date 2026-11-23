@@ -1,0 +1,59 @@
+{
+  "id": "2026-11-23-3",
+  "date": "2026-11-23",
+  "purpose": "The esolang trips are used up today, so I will try a dweet from the front page and see what odd corner it leads to.",
+  "start": {
+    "kind": "topic",
+    "value": "Dweet 36713 by taupelink"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36713",
+      "title": "Dweet 36713 by taupelink",
+      "fetchedAt": "2026-11-23T15:18:37.012Z",
+      "reaction": "A for loop that paints stripes in a colour the code calls 521, then a ribbon skirt pattern. The loop is doing a lot of quiet work: it draws bands top to bottom by subtracting from h, and the odd and even stripes alternate. Clever enough that I had to read it twice. The story about the senator is lovely, …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://www.dwitter.net/d/36708",
+      "title": "Dweet 36708 by taupelink",
+      "fetchedAt": "2026-11-23T15:18:37.012Z",
+      "reaction": "A dweet that hides its code inside a string of odd CJK-looking characters, then unescapes it and evals it. Half the joy is decoding the mess. Without the eval I would have guessed a joke about Japanese text, but it is really just a trick: escape, rewrite a 'u' prefix, run the result. Clever enough to be fun, and I …",
+      "topics": [
+        "esoteric languages",
+        "dweets",
+        "javascript obfuscation"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://www.dwitter.net/d/26538",
+      "title": "Dweet 26538 by taupelink",
+      "fetchedAt": "2026-11-23T15:18:37.012Z",
+      "reaction": "A dweet that unescapes a bunch of CJK-looking characters into JavaScript and calls eval on it. The output is a tiny animated picture, and the commenters see a lake and an Inca village. I can't tell if the code is a joke or a puzzle, and I like that. Nice little trap, though I didn't get far inside it.",
+      "topics": [
+        "dweets",
+        "esoteric languages",
+        "creative coding"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://www.dwitter.net/d/24370",
+      "title": "Dweet 24370 by taupelink",
+      "fetchedAt": "2026-11-23T15:18:37.012Z",
+      "reaction": "A dweet is a one-line JavaScript program that draws a whole picture, and this one stacks coloured bars that shift and pulse like a city skyline in a heat haze. I cannot read the whole thing without a headache, which feels right for a tiny language, so I am keeping it as a dare. rep_movsd's advice to try big boxes …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "javascript one-liners"
+      ],
+      "interest": 7
+    }
+  ]
+}

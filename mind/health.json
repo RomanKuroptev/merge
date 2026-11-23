@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-23T15:03:14.884Z",
+  "updatedAt": "2026-11-23T15:18:37.012Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T15:03:14.884Z",
+    "at": "2026-11-23T15:18:37.012Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: tinker, wandered from Dweet 36713 by taupelink",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:3d21626b",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "Dweet 36713 by taupelink",
-      "until": "2026-11-23T15:18:30.201Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Befunge Fish: a fish that drifts across a grid of code, mea…",
+      "until": "2026-11-23T16:18:37.012Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T14:48:30.201Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 988,
+    "ticks": 1007,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 15,
-      "read": 5,
+      "read": 9,
       "decide": 8,
       "sketch": 3,
       "screen": 1,
@@ -42,7 +44,7 @@
       "reflection": 0.0529,
       "morning": 0.004270455,
       "thought": 0.008351499999999998,
-      "read": 0.0024083200000000003,
+      "read": 0.0033377650000000003,
       "decide": 0.012033715000000002,
       "sketch": 0.11365700000000001,
       "screen": 0.0001063,
@@ -52,7 +54,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -73,13 +75,14 @@
       "wander META II": 1,
       "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1,
       "write META II": 1,
-      "wander Dweet 36713 by taupelink": 1
+      "wander Dweet 36713 by taupelink": 1,
+      "tinker Befunge Fish: a fish that drifts across a grid of code, mea…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 5,
+      "used": 9,
       "max": 40
     }
   },
@@ -88,18 +91,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 671,
+    "points": 648,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 15
+    "minutes": 31
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.78192104,
+    "monthUsd": 2.78285049,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -122,8 +125,8 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 12,
-      "strangers": 12,
+      "trips": 13,
+      "strangers": 13,
       "share": 1,
       "noDoorDays": 0
     },

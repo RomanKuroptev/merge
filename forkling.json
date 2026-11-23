@@ -8,15 +8,15 @@
     13.7
   ],
   "mood": 1,
-  "energy": -0.1,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-23T15:00:03.696Z",
-    "seed": 1449753145,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-23T15:18:37.012Z",
+    "seed": 1958298585,
+    "reason": "Turn the grid-shaped esolang I just read about into a tiny fish toy a stranger can enjoy quickly.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-23T15:00:13.667Z",
+  "lastTickAt": "2026-11-23T15:18:37.012Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
