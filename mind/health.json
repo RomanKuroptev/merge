@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-23T21:45:44.847Z",
-  "engine": "v0.19.3",
+  "updatedAt": "2026-11-23T22:02:42.864Z",
+  "engine": "v0.19.4",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T21:45:44.847Z",
-    "asleep": false,
+    "at": "2026-11-23T22:02:42.864Z",
+    "asleep": true,
     "summary": "",
     "think": null,
     "triggers": [],
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-23T19:59:56.043Z",
-    "idleMinutes": 25
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 1407,
+    "ticks": 1424,
     "decideCalls": 13,
     "callsByKind": {
       "reflection": 2,
@@ -31,7 +31,8 @@
       "reply": 1,
       "tend": 5,
       "art": 1,
-      "found": 1
+      "found": 1,
+      "sleep": 1
     },
     "spendByKind": {
       "reflection": 0.0529,
@@ -44,7 +45,8 @@
       "reply": 0.010717,
       "tend": 0.0062971,
       "art": 0.000513275,
-      "found": 0.002078525
+      "found": 0.002078525,
+      "sleep": 0.018055
     },
     "triggersByKind": {
       "newDay": 1,
@@ -101,11 +103,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 412
+    "minutes": 429
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.93552142,
+    "monthUsd": 2.95357642,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -122,8 +124,8 @@
       }
     },
     "texts": {
-      "texts": 10,
-      "meanMaxSimilarity": 0.008522551184275487,
+      "texts": 11,
+      "meanMaxSimilarity": 0.008856421253997672,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },

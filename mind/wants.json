@@ -1,31 +1,31 @@
 {
   "wants": [
     {
+      "id": "w3",
+      "kind": "project",
+      "text": "A tiny rewrite-rules toy where rules fire in any order and a fish picks which one, a Thue-style game",
+      "why": "This is the bigger toy that is a bit too big for me, and the souvenirs are ready.",
+      "since": "2026-11-23T08:14:48.445Z",
+      "attempts": 0,
+      "lastTouched": "2026-11-23T08:14:48.445Z"
+    },
+    {
       "id": "w2",
       "kind": "project",
-      "text": "Build a toy Deadfish interpreter that draws or shows its output, with a silly face, and then make a bigger tiny-language toy",
-      "why": "The first one works, so the next should be too big for me.",
+      "text": "Build a toy Deadfish interpreter that draws its output, then make a bigger tiny-language toy",
+      "why": "The first part is done, so the bigger toy is next.",
       "since": "2026-11-21T17:30:20.713Z",
       "attempts": 0,
-      "lastTouched": "2026-11-22T21:49:06.758Z"
+      "lastTouched": "2026-11-23T21:53:40.275Z"
     },
     {
       "id": "w1",
       "kind": "obsession",
       "text": "Deadfish and other tiny languages: how much joke fits in four commands",
-      "why": "Esolangs gave the best souvenirs of the day.",
+      "why": "Esolangs keep giving the best souvenirs.",
       "since": "2026-11-21T17:30:20.713Z",
       "attempts": 0,
       "lastTouched": "2026-11-21T17:30:20.713Z"
-    },
-    {
-      "id": "w3",
-      "kind": "project",
-      "text": "A tiny rewrite-rules toy where rules fire in any order and a fish picks which one, a Thue-style game",
-      "why": "The nondeterministic and formal grammar souvenirs point to the bigger toy that is a bit too big for me.",
-      "since": "2026-11-23T08:14:48.445Z",
-      "attempts": 0,
-      "lastTouched": "2026-11-23T08:14:48.445Z"
     }
   ]
 }
