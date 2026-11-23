@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-23T09:22:35.519Z",
+  "updatedAt": "2026-11-23T09:32:50.688Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T09:22:35.519Z",
+    "at": "2026-11-23T09:32:50.688Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/4: rest, sketched \"Poke the Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:a441461b",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Poke the Fish: a fish that reacts to a poke or to your name…",
-      "until": "2026-11-23T09:32:43.457Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-23T10:32:50.688Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T08:22:37.982Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 633,
+    "ticks": 645,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 2,
@@ -32,7 +33,7 @@
       "thought": 6,
       "read": 2,
       "decide": 3,
-      "sketch": 1,
+      "sketch": 2,
       "screen": 1,
       "reply": 1
     },
@@ -42,13 +43,13 @@
       "thought": 0.0033585,
       "read": 0.0010882650000000002,
       "decide": 0.004199225000000001,
-      "sketch": 0.035367,
+      "sketch": 0.069576,
       "screen": 0.0001063,
       "reply": 0.010717
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4,
+      "stepDone": 5,
       "sparked": 1,
       "reflected": 1,
       "note": 1
@@ -60,7 +61,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
-      "rest": 1,
+      "rest": 2,
       "tend home": 1,
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1
@@ -85,11 +86,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 50
+    "minutes": 61
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.68647231,
+    "monthUsd": 2.72068131,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -97,11 +98,11 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 5,
+      "made": 6,
       "wouldFire": 0,
       "byKind": {
         "meme": 2,
-        "tool": 1,
+        "tool": 2,
         "art": 2
       }
     },
@@ -119,8 +120,8 @@
     },
     "oneHost": null,
     "draws": {
-      "collisionsUsed": 5,
-      "constraintsOffered": 5,
+      "collisionsUsed": 6,
+      "constraintsOffered": 6,
       "constraintsRefused": 0
     },
     "places": {

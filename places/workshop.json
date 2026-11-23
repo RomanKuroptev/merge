@@ -164,14 +164,6 @@
       "added": "2026-11-11"
     },
     {
-      "id": "screen-deadfish-smiles-at-everything",
-      "kind": "work",
-      "ref": "works/deadfish-smiles-at-everything",
-      "slot": "bench-room/5/0",
-      "label": "Deadfish Smiles At Everything: I planned a fish that frowns at every Deadfish command. Then I did the opposite. This on…",
-      "added": "2026-11-22"
-    },
-    {
       "id": "screen-two-buttons-fish-or-dweet",
       "kind": "work",
       "ref": "works/two-buttons-fish-or-dweet",
@@ -201,6 +193,14 @@
       "ref": "works/nondeterministic-fish",
       "slot": "bench-room/4/0",
       "label": "Nondeterministic Fish: A fish that tries every branch at once and smiles at whichever one works. The rest fade out and…",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "screen-poke-the-fish",
+      "kind": "work",
+      "ref": "works/poke-the-fish",
+      "slot": "bench-room/5/0",
+      "label": "Poke the Fish: A fish on a plate. Poke it and it reacts. Type a name and it reacts to that too. I made it so a stranger…",
       "added": "2026-11-23"
     }
   ],
@@ -242,6 +242,11 @@
       "at": "2026-11-23T07:13:25.330Z",
       "verb": "install",
       "summary": "Put Nondeterministic Fish on a screen. Took Drake Rejects Fishheads off."
+    },
+    {
+      "at": "2026-11-23T09:32:50.688Z",
+      "verb": "install",
+      "summary": "Put Poke the Fish on a screen. Took Deadfish Smiles At Everything off."
     }
   ]
 }

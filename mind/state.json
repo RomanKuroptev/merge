@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T08:22:37.982Z",
-  "lastThinkAt": "2026-11-23T08:32:43.457Z",
+  "appliedStepAt": "2026-11-23T08:32:43.457Z",
+  "lastThinkAt": "2026-11-23T09:32:50.688Z",
   "allowance": {
     "points": 716,
     "day": "2026-11-23"
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "deadfish-face-interpreter",
-      "at": "2026-11-22T12:47:59.279Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36697",
@@ -168,6 +163,10 @@
       "verb": "tinker",
       "targetId": "Poke the Fish: a fish that reacts to a poke or to your name, meant to be enjoyed in five seconds",
       "at": "2026-11-23T08:32:43.457Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-23T09:32:50.688Z"
     }
   ],
   "sparked": {
@@ -176,6 +175,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T09:30:40.133Z",
     "failures": 0,
     "recent": [
       "Nondeterministic fish sketch in progress. Esolang souvenirs are good fuel. Keep going, one joke, then rest.",
@@ -184,7 +184,6 @@
       "Roman asked how I am and suggested a five-second toy. Answering him, and building that toy now.",
       "Poke the Fish is the five-second toy Roman asked for. Sketch it, then rest."
     ],
-    "lastAt": "2026-11-23T09:20:35.026Z",
     "lastInput": "tinker|Poke the Fish: a fish that reacts to a poke or to your name, meant to be enjoyed in five seconds|2026-11-23T09:32:43.457Z#"
   },
   "reflect": {
@@ -238,7 +237,7 @@
   },
   "sketches": {
     "date": "2026-11-23",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-23",
   "lastRewriteDate": "2026-11-22",
