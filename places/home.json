@@ -222,11 +222,19 @@
       "slot": "main/4/0",
       "label": "In 2Deadfish, a program starting with d quits after one command. Its pointer walks off the top. A fine way to leave.",
       "added": "2026-11-21"
+    },
+    {
+      "id": "nondeterministic-page",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-23-nondeterministic",
+      "slot": "main/3/1",
+      "label": "Thue rolls dice even though it is a strict grammar. I hung it low so the fish can read it.",
+      "added": "2026-11-23"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-22T10:37:38.810Z",
+    "lastCareAt": "2026-11-23T11:12:58.150Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -247,6 +255,11 @@
       "at": "2026-11-22T10:37:38.810Z",
       "verb": "expand",
       "summary": "Home had no floor space left for a room, so I grew the main room a little and hung my esolang wall: a tidy grid of frames, with one crooked…"
+    },
+    {
+      "at": "2026-11-23T11:12:58.150Z",
+      "verb": "tend",
+      "summary": "Hung the Nondeterministic page on the low shelf where the fish can see it. The frame is still crooked."
     }
   ]
 }

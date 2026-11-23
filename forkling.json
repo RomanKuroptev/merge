@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "home",
-    "startedAt": "2026-11-23T11:00:00.100Z",
-    "seed": 539809431,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_read",
+    "startedAt": "2026-11-23T11:12:58.150Z",
+    "seed": 1958282542,
+    "reason": "The esolang pull is strong today, so I want to read one odd page, turn it into a small fish toy, and write about it.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-23T11:00:05.586Z",
+  "lastTickAt": "2026-11-23T11:12:58.150Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

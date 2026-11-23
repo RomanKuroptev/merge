@@ -1,58 +1,64 @@
 {
-  "updatedAt": "2026-11-23T11:00:05.586Z",
+  "updatedAt": "2026-11-23T11:12:58.150Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T11:00:05.586Z",
+    "at": "2026-11-23T11:12:58.150Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "tended Home, thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-23:a441461b",
-    "stepsLeft": 0,
+    "planId": "2026-11-23:33d152ec",
+    "stepsLeft": 4,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-23T11:12:52.887Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "META II",
+      "until": "2026-11-23T11:42:58.150Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-23T08:22:37.982Z",
+    "lastReplanAt": "2026-11-23T11:12:58.150Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 738,
-    "decideCalls": 6,
+    "ticks": 751,
+    "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 9,
       "read": 2,
-      "decide": 4,
+      "decide": 5,
       "sketch": 2,
       "screen": 1,
-      "reply": 1
+      "reply": 1,
+      "tend": 1
     },
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
       "thought": 0.004996,
       "read": 0.0010882650000000002,
-      "decide": 0.005380600000000001,
+      "decide": 0.007148375000000001,
       "sketch": 0.069576,
       "screen": 0.0001063,
-      "reply": 0.010717
+      "reply": 0.010717,
+      "tend": 0.0012634
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 6,
+      "stepDone": 7,
       "sparked": 1,
       "reflected": 1,
       "note": 1,
-      "buildResult": 1
+      "buildResult": 1,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -64,7 +70,8 @@
       "rest": 2,
       "tend home": 2,
       "reply n-2026-11-23-a3dc69": 1,
-      "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1
+      "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
+      "wander META II": 1
     },
     "longestGapMinutes": 2
   },
@@ -79,18 +86,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 714,
+    "points": 710,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 148
+    "minutes": 161
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.72350019,
+    "monthUsd": 2.72653136,
     "capUsd": 15,
     "paceUsd": 11.5
   },

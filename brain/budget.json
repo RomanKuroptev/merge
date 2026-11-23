@@ -2,28 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 2.72350019,
+  "spentUsd": 2.72653136,
   "calls": [
-    {
-      "at": "2026-11-17T15:30:07.599Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 537,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011662
-    },
-    {
-      "at": "2026-11-17T15:31:00.481Z",
-      "kind": "art",
-      "model": "claude-haiku-5-5",
-      "input": 266,
-      "cacheRead": 0,
-      "cacheWrite": 2585,
-      "output": 164,
-      "usd": 0.00043172500000000004
-    },
     {
       "at": "2026-11-17T15:35:08.058Z",
       "kind": "thought",
@@ -5003,6 +4983,26 @@
       "cacheWrite": 3512,
       "output": 87,
       "usd": 0.0005435
+    },
+    {
+      "at": "2026-11-23T11:12:58.150Z",
+      "kind": "tend",
+      "model": "claude-haiku-5-5",
+      "input": 2249,
+      "cacheRead": 0,
+      "cacheWrite": 5048,
+      "output": 815,
+      "usd": 0.0012634
+    },
+    {
+      "at": "2026-11-23T11:12:58.150Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 5324,
+      "cacheRead": 0,
+      "cacheWrite": 3639,
+      "output": 1561,
+      "usd": 0.001767775
     }
   ],
   "byKind": {
@@ -5047,12 +5047,12 @@
       "usd": 0.06617495
     },
     "decide": {
-      "calls": 100,
-      "input": 389113,
+      "calls": 101,
+      "input": 394437,
       "cacheRead": 106678,
-      "cacheWrite": 210283,
-      "output": 131607,
-      "usd": 0.13206711
+      "cacheWrite": 213922,
+      "output": 133168,
+      "usd": 0.13383488
     },
     "art": {
       "calls": 47,
@@ -5071,12 +5071,12 @@
       "usd": 0.56647206
     },
     "tend": {
-      "calls": 14,
-      "input": 23024,
+      "calls": 15,
+      "input": 25273,
       "cacheRead": 0,
-      "cacheWrite": 61258,
-      "output": 12822,
-      "usd": 0.01637069
+      "cacheWrite": 66306,
+      "output": 13637,
+      "usd": 0.01763409
     },
     "screen": {
       "calls": 2,
