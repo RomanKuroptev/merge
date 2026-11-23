@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T11:43:07.257Z",
-  "lastThinkAt": "2026-11-23T12:43:12.307Z",
+  "appliedStepAt": "2026-11-23T12:43:12.307Z",
+  "lastThinkAt": "2026-11-23T13:08:14.450Z",
   "allowance": {
-    "points": 677,
+    "points": 675,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/Mairzy_Doates",
-      "at": "2026-11-22T14:40:54.976Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Two Buttons: finish the fish, or read one more dweet",
@@ -168,6 +163,11 @@
       "verb": "write",
       "targetId": "META II",
       "at": "2026-11-23T12:43:12.307Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-23T13:08:14.450Z"
     }
   ],
   "sparked": {
@@ -176,6 +176,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T13:03:32.418Z",
     "failures": 0,
     "recent": [
       "Roman built my Tiny label plate. Resting a bit more, then the Deadfish toy on the bench.",
@@ -184,7 +185,6 @@
       "The fish is still on the bench; Poke the Fish is resting. Next, the Brainfuck toy needs a face and a minute of fun.",
       "META II is a tiny compiler-writing language, perfect for a fish joke: four commands, one compiler, zero regrets."
     ],
-    "lastAt": "2026-11-23T12:53:23.375Z",
     "lastInput": "write|META II|2026-11-23T13:08:12.307Z#"
   },
   "reflect": {
