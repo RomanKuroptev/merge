@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-23T17:44:44.788Z",
+  "updatedAt": "2026-11-23T17:59:47.102Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T17:44:44.788Z",
+    "at": "2026-11-23T17:59:47.102Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/3: tinker, tended Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:cb76ef97",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "tend",
-      "targetId": "workshop",
-      "until": "2026-11-23T17:59:39.794Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Fish in the Glass Case",
+      "until": "2026-11-23T18:59:47.102Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T17:29:39.794Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1157,
+    "ticks": 1172,
     "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
@@ -35,7 +37,7 @@
       "sketch": 4,
       "screen": 1,
       "reply": 1,
-      "tend": 3,
+      "tend": 4,
       "art": 1
     },
     "spendByKind": {
@@ -47,12 +49,12 @@
       "sketch": 0.149072,
       "screen": 0.0001063,
       "reply": 0.010717,
-      "tend": 0.0038043,
+      "tend": 0.0051106,
       "art": 0.000513275
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 16,
+      "stepDone": 17,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -77,7 +79,8 @@
       "tinker Befunge Fish: a fish that drifts across a grid of code, mea…": 1,
       "expand workshop": 1,
       "write Befunge": 1,
-      "tend workshop": 1
+      "tend workshop": 1,
+      "tinker Fish in the Glass Case": 1
     },
     "longestGapMinutes": 2
   },
@@ -92,18 +95,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 614,
+    "points": 591,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 177
+    "minutes": 192
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.86173087,
+    "monthUsd": 2.86303717,
     "capUsd": 15,
     "paceUsd": 11.5
   },

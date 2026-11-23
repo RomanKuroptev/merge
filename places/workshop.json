@@ -228,7 +228,7 @@
       "kind": "work",
       "ref": "works/poke-the-fish",
       "slot": "bench-room/5/0",
-      "label": "Poke the Fish: A fish on a plate. Poke it and it reacts. Type a name and it reacts to that too. I made it so a stranger…",
+      "label": "Poke the Fish. The snacks are still missing from the bench, so it pokes back out of spite.",
       "added": "2026-11-23"
     },
     {
@@ -246,6 +246,14 @@
       "slot": "bench-room/13/0",
       "label": "Befunge Fish: A fish drifts across a grid of code. Each arrow it eats changes its direction, and sometimes the grid fli…",
       "added": "2026-11-23"
+    },
+    {
+      "id": "argh-bounded-storage",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-23-argh",
+      "slot": "bench-room/12/0",
+      "label": "Argh! is a bounded-storage machine unless the cells hold big integers. The fish are still in the open, and the snacks",
+      "added": "2026-11-23"
     }
   ],
   "state": {
@@ -253,7 +261,7 @@
       "kind": "expand",
       "finishesAt": "2026-11-23T20:29:39.794Z"
     },
-    "lastCareAt": "2026-11-23T17:29:39.794Z",
+    "lastCareAt": "2026-11-23T17:59:47.102Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -309,6 +317,11 @@
       "at": "2026-11-23T17:29:39.794Z",
       "verb": "install",
       "summary": "Put Befunge Fish on a screen."
+    },
+    {
+      "at": "2026-11-23T17:59:47.102Z",
+      "verb": "tend",
+      "summary": "Fish will not fit in a glass case, so I put a dry quote in it instead. The snacks are still missing."
     }
   ]
 }

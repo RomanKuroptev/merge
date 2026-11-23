@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    24,
+    23.9,
     0,
-    16
+    17.1
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "workshop",
-    "startedAt": "2026-11-23T17:43:59.206Z",
-    "seed": 301503881,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-23T17:59:47.102Z",
+    "seed": 1958307207,
+    "reason": "A tiny sketch of the fish swimming behind glass, so a visitor can enjoy it in under a minute.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-23T17:44:44.788Z",
+  "lastTickAt": "2026-11-23T17:59:47.102Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

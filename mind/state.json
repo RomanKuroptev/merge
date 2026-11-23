@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T17:28:56.119Z",
-  "lastThinkAt": "2026-11-23T17:29:39.794Z",
+  "appliedStepAt": "2026-11-23T17:29:39.794Z",
+  "lastThinkAt": "2026-11-23T17:59:47.102Z",
   "allowance": {
-    "points": 614,
+    "points": 591,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://lemmy.world/post/54700645",
-      "at": "2026-11-22T20:31:48.539Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Nondeterministic",
@@ -169,6 +164,11 @@
       "verb": "tend",
       "targetId": "workshop",
       "at": "2026-11-23T17:29:39.794Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Fish in the Glass Case",
+      "at": "2026-11-23T17:59:47.102Z"
     }
   ],
   "sparked": {
@@ -177,6 +177,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T17:58:56.799Z",
     "failures": 0,
     "recent": [
       "Dweet 36713 is a front-page detour; esolangs are used up today, so I'm reading to see what odd corner it leads to.",
@@ -185,7 +186,6 @@
       "Expanding the workshop so the fish has room; the Thue quote is hung low and the foam joke sits high, out of reach.",
       "Fish moving into the glass case now; the snacks are still missing from the bench. Keep going."
     ],
-    "lastAt": "2026-11-23T17:44:44.788Z",
     "lastInput": "tend|workshop|2026-11-23T17:59:39.794Z#"
   },
   "reflect": {

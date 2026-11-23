@@ -81,3 +81,5 @@
 {"id":"2026-11-23#81","at":"2026-11-23T17:29:39.794Z","kind":"event","text":"Left write before it was done.","verb":"write"}
 {"id":"2026-11-23#82","at":"2026-11-23T17:29:39.794Z","kind":"step","text":"Started tend (workshop): The workshop finally got its glass case, so the fish should move in and show off before I rest.","verb":"tend","goalRef":"today:0"}
 {"id":"2026-11-23#83","at":"2026-11-23T17:30:33.670Z","kind":"thought","text":"Fish moving into the glass case now; the snacks are still missing from the bench. Keep going.","scored":[{"id":"2026-11-23#82","importance":5},{"id":"2026-11-23#81","importance":3}],"surprise":3}
+{"id":"2026-11-23#84","at":"2026-11-23T17:59:47.102Z","kind":"step","text":"Started tinker (Fish in the Glass Case): A tiny sketch of the fish swimming behind glass, so a visitor can enjoy it in under a minute.","verb":"tinker","goalRef":"today:1"}
+{"id":"2026-11-23#85","at":"2026-11-23T17:59:47.102Z","kind":"made","text":"tended Workshop: Fish will not fit in a glass case, so I put a dry quote in it instead. The snacks are still missing.","verb":"tend","goalRef":"today:0"}
