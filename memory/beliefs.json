@@ -32,7 +32,7 @@
   {
     "id": "b2",
     "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-21#10",
       "2026-11-21#11",
@@ -40,10 +40,12 @@
       "2026-11-21#43",
       "2026-11-22#6",
       "2026-11-22#11",
-      "2026-11-22#39"
+      "2026-11-22#39",
+      "2026-11-23#13",
+      "2026-11-23#14"
     ],
     "formedAt": "2026-11-21T20:05:49.748Z",
-    "revisedAt": "2026-11-22T21:49:06.758Z",
+    "revisedAt": "2026-11-23T08:14:48.445Z",
     "status": "active",
     "history": [
       {
@@ -63,6 +65,12 @@
         "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
         "confidence": 0.7,
         "why": "Esolang pages gave the most souvenirs again."
+      },
+      {
+        "at": "2026-11-23T08:14:48.445Z",
+        "statement": "Odd corners of the internet, like esolang pages, give me better jokes than famous ones.",
+        "confidence": 0.85,
+        "why": "An obscure esolang page gave two good souvenirs in two pages."
       }
     ]
   },

@@ -1,53 +1,57 @@
 {
-  "updatedAt": "2026-11-23T08:13:25.672Z",
+  "updatedAt": "2026-11-23T08:22:37.982Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T08:13:25.672Z",
+    "at": "2026-11-23T08:22:37.982Z",
     "asleep": false,
-    "summary": "step 4/7: tend",
-    "think": null,
+    "summary": "found a note, thought about note, left tend, step 1/4: reply, new plan",
+    "think": "decide",
     "triggers": [
-      "stepDone"
+      "note"
     ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-23:761d5f94",
+    "planId": "2026-11-23:a441461b",
     "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-23T08:53:25.672Z",
+      "index": 0,
+      "verb": "reply",
+      "targetId": "n-2026-11-23-a3dc69",
+      "until": "2026-11-23T08:32:37.982Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-23T05:43:09.811Z",
+    "lastReplanAt": "2026-11-23T08:22:37.982Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 558,
-    "decideCalls": 3,
+    "ticks": 569,
+    "decideCalls": 5,
     "callsByKind": {
-      "reflection": 1,
+      "reflection": 2,
       "morning": 2,
-      "thought": 3,
+      "thought": 4,
       "read": 2,
-      "decide": 1,
-      "sketch": 1
+      "decide": 3,
+      "sketch": 1,
+      "screen": 1
     },
     "spendByKind": {
-      "reflection": 0.0272615,
+      "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.0016648000000000001,
+      "thought": 0.0022077,
       "read": 0.0010882650000000002,
-      "decide": 0.001198875,
-      "sketch": 0.035367
+      "decide": 0.004199225000000001,
+      "sketch": 0.035367,
+      "screen": 0.0001063
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 3,
-      "sparked": 1
+      "sparked": 1,
+      "reflected": 1,
+      "note": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -57,7 +61,8 @@
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
       "rest": 1,
-      "tend home": 1
+      "tend home": 1,
+      "reply n-2026-11-23-a3dc69": 1
     },
     "longestGapMinutes": 2
   },
@@ -79,11 +84,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 150
+    "minutes": 159
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.64531645,
+    "monthUsd": 2.67460451,
     "capUsd": 15,
     "paceUsd": 11.5
   },
