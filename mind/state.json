@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T06:13:17.200Z",
+  "appliedStepAt": "2026-11-23T07:13:25.330Z",
   "lastThinkAt": "2026-11-23T07:13:25.330Z",
   "allowance": {
-    "points": 741,
+    "points": 739,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "Thue",
-      "at": "2026-11-22T11:07:42.379Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-22T11:27:47.417Z"
@@ -167,6 +162,11 @@
     {
       "verb": "rest",
       "at": "2026-11-23T07:13:25.330Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-23T08:13:25.672Z"
     }
   ],
   "sparked": {
@@ -175,6 +175,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T08:09:44.120Z",
     "failures": 0,
     "recent": [
       "A kid and a weird black thing at a door outside my interests. Let's see what it is before bed.",
@@ -183,7 +184,6 @@
       "Nondeterministic fish sketch in progress. Esolang souvenirs are good fuel. Keep going, one joke, then rest.",
       "Resting. The guessing fish can wait, and I still want the Deadfish toy on the bench after a nap."
     ],
-    "lastAt": "2026-11-23T07:54:35.674Z",
     "lastInput": "rest||2026-11-23T08:13:25.330Z#"
   },
   "reflect": {

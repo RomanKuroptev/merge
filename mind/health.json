@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-23T07:58:37.178Z",
+  "updatedAt": "2026-11-23T08:13:25.672Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T07:58:37.178Z",
+    "at": "2026-11-23T08:13:25.672Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/7: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:761d5f94",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-23T08:13:25.330Z",
+      "index": 3,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-23T08:53:25.672Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T05:43:09.811Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 542,
+    "ticks": 558,
     "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
@@ -43,7 +46,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2,
+      "stepDone": 3,
       "sparked": 1
     },
     "failures": 0,
@@ -53,7 +56,8 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
-      "rest": 1
+      "rest": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 2
   },
@@ -68,14 +72,14 @@
     "topHost": null
   },
   "allowance": {
-    "points": 741,
+    "points": 739,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 134
+    "minutes": 150
   },
   "needsCritical": {},
   "spend": {
