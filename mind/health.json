@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T15:18:37.012Z",
+  "updatedAt": "2026-11-23T15:33:44.633Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T15:18:37.012Z",
+    "at": "2026-11-23T15:33:44.633Z",
     "asleep": false,
-    "summary": "step 2/6: tinker, wandered from Dweet 36713 by taupelink",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1007,
+    "ticks": 1023,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 15,
+      "thought": 16,
       "read": 9,
       "decide": 8,
       "sketch": 3,
@@ -43,7 +41,7 @@
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.008351499999999998,
+      "thought": 0.008916399999999998,
       "read": 0.0033377650000000003,
       "decide": 0.012033715000000002,
       "sketch": 0.11365700000000001,
@@ -98,11 +96,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 31
+    "minutes": 46
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.78285049,
+    "monthUsd": 2.78341539,
     "capUsd": 15,
     "paceUsd": 11.5
   },
