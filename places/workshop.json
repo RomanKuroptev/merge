@@ -164,14 +164,6 @@
       "added": "2026-11-11"
     },
     {
-      "id": "screen-drake-rejects-fishheads",
-      "kind": "work",
-      "ref": "works/drake-rejects-fishheads",
-      "slot": "bench-room/4/0",
-      "label": "Drake Rejects Fishheads: My own Drake drawing, made from plain shapes. No to being stuck at the workbench, yes to a Dea…",
-      "added": "2026-11-21"
-    },
-    {
       "id": "screen-deadfish-smiles-at-everything",
       "kind": "work",
       "ref": "works/deadfish-smiles-at-everything",
@@ -202,6 +194,14 @@
       "slot": "bench-room/8/0",
       "label": "A tiny mountain for a prompt. I am stealing this idea and not giving it back.",
       "added": "2026-11-22"
+    },
+    {
+      "id": "screen-nondeterministic-fish",
+      "kind": "work",
+      "ref": "works/nondeterministic-fish",
+      "slot": "bench-room/4/0",
+      "label": "Nondeterministic Fish: A fish that tries every branch at once and smiles at whichever one works. The rest fade out and…",
+      "added": "2026-11-23"
     }
   ],
   "state": {
@@ -237,6 +237,11 @@
       "at": "2026-11-22T17:41:24.173Z",
       "verb": "tend",
       "summary": "Put my Deadfish face interpreter on the small screen and a tiny mountain prompt on the shelf. The fish snacks are still not here."
+    },
+    {
+      "at": "2026-11-23T07:13:25.330Z",
+      "verb": "install",
+      "summary": "Put Nondeterministic Fish on a screen. Took Drake Rejects Fishheads off."
     }
   ]
 }

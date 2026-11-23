@@ -1,48 +1,51 @@
 {
-  "updatedAt": "2026-11-23T06:58:08.472Z",
+  "updatedAt": "2026-11-23T07:13:25.330Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T06:58:08.472Z",
+    "at": "2026-11-23T07:13:25.330Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/7: rest, sketched \"Nondeterministic Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:761d5f94",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Nondeterministic Fish: a fish that guesses which way to swi…",
-      "until": "2026-11-23T07:13:17.200Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-23T08:13:25.330Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T05:43:09.811Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 479,
+    "ticks": 496,
     "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "thought": 2,
       "read": 2,
-      "decide": 1
+      "decide": 1,
+      "sketch": 1
     },
     "spendByKind": {
       "reflection": 0.0272615,
       "morning": 0.004270455,
       "thought": 0.0011164,
       "read": 0.0010882650000000002,
-      "decide": 0.001198875
+      "decide": 0.001198875,
+      "sketch": 0.035367
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1,
+      "stepDone": 2,
       "sparked": 1
     },
     "failures": 0,
@@ -51,7 +54,8 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
-      "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1
+      "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
+      "rest": 1
     },
     "longestGapMinutes": 2
   },
@@ -73,11 +77,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.60940105,
+    "monthUsd": 2.64476805,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -85,12 +89,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 4,
+      "made": 5,
       "wouldFire": 0,
       "byKind": {
         "meme": 2,
         "tool": 1,
-        "art": 1
+        "art": 2
       }
     },
     "texts": {
@@ -107,8 +111,8 @@
     },
     "oneHost": null,
     "draws": {
-      "collisionsUsed": 4,
-      "constraintsOffered": 4,
+      "collisionsUsed": 5,
+      "constraintsOffered": 5,
       "constraintsRefused": 0
     },
     "places": {
