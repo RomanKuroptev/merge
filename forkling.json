@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.7
   ],
   "mood": 1,
   "energy": -0.1,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-23T14:48:30.201Z",
-    "seed": 1958299818,
-    "reason": "Esolangs keep pulling at me, so I will read a dweet I have not seen, then make a small Befunge fish, and grow my workshop a little.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-23T15:00:03.696Z",
+    "seed": 1449753145,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-23T14:48:30.201Z",
+  "lastTickAt": "2026-11-23T15:00:13.667Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
