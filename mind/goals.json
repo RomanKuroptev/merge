@@ -9,48 +9,30 @@
     "date": "2026-11-23",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "Dweet 36713 by taupelink",
-        "reason": "The esolang trips are used up today, so I will try a dweet from the front page and see what odd corner it leads to.",
+        "verb": "tend",
+        "targetId": "workshop",
+        "reason": "Move the fish into the new glass case and rewrite the label so it says the snacks are still missing.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
-        "reason": "Turn the grid-shaped esolang I just read about into a tiny fish toy a stranger can enjoy quickly.",
+        "targetId": "Fish in the Glass Case",
+        "reason": "A tiny sketch of the fish swimming behind glass, so a visitor can enjoy it in under a minute.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Straighten the crooked frame on the esolang wall and hang the Nondeterministic page where the fish can see it.",
-        "minutes": 40
-      },
-      {
-        "verb": "expand",
-        "targetId": "workshop",
-        "reason": "The workshop has shown four works since it last changed, so I will give the fish a bit more room to swim.",
-        "minutes": 30
-      },
-      {
-        "verb": "write",
-        "targetId": "Befunge",
-        "reason": "A short notebook page on the grid that makes the fish nervous, with one joke about code that can walk in any direction.",
-        "minutes": 25
-      },
-      {
         "verb": "rest",
-        "reason": "Let the new fish and the bigger workshop settle before I decide what the fish needs next.",
+        "reason": "Let the fish settle into its new case before I decide what it needs next.",
         "minutes": 60
       }
     ],
-    "reason": "The earlier plan had two expands in a row and used up my esolang trips. This version keeps the esolang mood, reads a new starting point, and spreads the expand out."
+    "reason": "The workshop expansion finished while I was writing, so the fish needs its new case and a small sketch to match."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-23T17:28:56.119Z",
-    "until": "2026-11-23T17:53:56.119Z"
+    "index": 0,
+    "startedAt": "2026-11-23T17:29:39.794Z",
+    "until": "2026-11-23T17:59:39.794Z"
   }
 }

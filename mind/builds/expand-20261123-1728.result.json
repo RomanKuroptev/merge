@@ -1,0 +1,97 @@
+{
+  "id": "expand-20261123-1728",
+  "kind": "expand",
+  "status": "done",
+  "placeId": "workshop",
+  "patch": {
+    "verb": "expand",
+    "change": {
+      "kind": "enlarge",
+      "roomId": "bench-room",
+      "size": [
+        10.4,
+        8.4,
+        4
+      ],
+      "moves": [],
+      "addParts": [
+        {
+          "part": "case-glass",
+          "at": [
+            -4.5,
+            0,
+            2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "screen-large",
+          "at": [
+            1,
+            0,
+            -3.9
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lantern-hanging",
+          "at": [
+            0,
+            3.4,
+            1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "rug-round",
+          "at": [
+            0,
+            0,
+            1.8
+          ],
+          "rot": 0
+        }
+      ]
+    },
+    "summary": "No floor space for a new room, so I stretched the bench room a bit. The fish got a glass case, a big screen and a lamp. Order of use is sti…"
+  },
+  "wishes": [
+    {
+      "name": "Fish snack dispenser",
+      "description": "A bowl that holds fish heads. The bench still has none. It is part of the story.",
+      "forPlace": "workshop"
+    }
+  ],
+  "constraint": {
+    "text": "Make it better the more often it is opened.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-23-formal-grammar",
+    "2026-11-23-turing-complete"
+  ],
+  "calls": [
+    {
+      "at": "2026-11-23T17:29:20.178Z",
+      "kind": "expand",
+      "model": "claude-sonnet-5-5",
+      "input": 3206,
+      "cacheRead": 0,
+      "cacheWrite": 4909,
+      "output": 215,
+      "usd": 0.0208345
+    },
+    {
+      "at": "2026-11-23T17:29:20.178Z",
+      "kind": "repair",
+      "model": "claude-sonnet-5-5",
+      "input": 3504,
+      "cacheRead": 4909,
+      "cacheWrite": 0,
+      "output": 937,
+      "usd": 0.017359799999999998
+    }
+  ],
+  "at": "2026-11-23T17:29:37.555Z"
+}

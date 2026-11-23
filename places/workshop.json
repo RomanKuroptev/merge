@@ -33,9 +33,9 @@
       "id": "bench-room",
       "name": "Bench room",
       "size": [
-        10,
-        8,
-        3.5
+        10.4,
+        8.4,
+        4
       ],
       "at": [
         0,
@@ -150,6 +150,42 @@
             0.5
           ],
           "rot": 0
+        },
+        {
+          "part": "case-glass",
+          "at": [
+            -4.5,
+            0,
+            2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "screen-large",
+          "at": [
+            1,
+            0,
+            -3.9
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lantern-hanging",
+          "at": [
+            0,
+            3.4,
+            1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "rug-round",
+          "at": [
+            0,
+            0,
+            1.8
+          ],
+          "rot": 0
         }
       ]
     }
@@ -202,11 +238,22 @@
       "slot": "bench-room/6/0",
       "label": "Brainfuck Fish: A fish runs a tiny Brainfuck program and eats each instruction right after it runs. Loops eat themselve…",
       "added": "2026-11-23"
+    },
+    {
+      "id": "screen-befunge-fish",
+      "kind": "work",
+      "ref": "works/befunge-fish",
+      "slot": "bench-room/13/0",
+      "label": "Befunge Fish: A fish drifts across a grid of code. Each arrow it eats changes its direction, and sometimes the grid fli…",
+      "added": "2026-11-23"
     }
   ],
   "state": {
-    "construction": null,
-    "lastCareAt": "2026-11-22T17:41:24.173Z",
+    "construction": {
+      "kind": "expand",
+      "finishesAt": "2026-11-23T20:29:39.794Z"
+    },
+    "lastCareAt": "2026-11-23T17:29:39.794Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -252,6 +299,16 @@
       "at": "2026-11-23T12:43:12.307Z",
       "verb": "install",
       "summary": "Put Brainfuck Fish on a screen. Took Two Buttons: Fish or Dweet off."
+    },
+    {
+      "at": "2026-11-23T17:29:39.794Z",
+      "verb": "expand",
+      "summary": "No floor space for a new room, so I stretched the bench room a bit. The fish got a glass case, a big screen and a lamp. Order of use is sti…"
+    },
+    {
+      "at": "2026-11-23T17:29:39.794Z",
+      "verb": "install",
+      "summary": "Put Befunge Fish on a screen."
     }
   ]
 }

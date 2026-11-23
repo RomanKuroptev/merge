@@ -76,3 +76,7 @@
 {"id":"2026-11-23#76","at":"2026-11-23T17:00:04.508Z","kind":"thought","text":"Expanding the workshop so the fish has room; the Thue quote is hung low and the foam joke sits high, out of reach.","scored":[{"id":"2026-11-23#74","importance":4},{"id":"2026-11-23#75","importance":3}],"surprise":2}
 {"id":"2026-11-23#77","at":"2026-11-23T17:28:56.119Z","kind":"step","text":"Started write (Befunge): A short notebook page on the grid that makes the fish nervous, with one joke about code that can walk in any direction.","verb":"write","goalRef":"today:4"}
 {"id":"2026-11-23#78","at":"2026-11-23T17:28:56.119Z","kind":"made","text":"Asked the builders to expand Workshop.","verb":"expand","goalRef":"today:3"}
+{"id":"2026-11-23#79","at":"2026-11-23T17:29:39.794Z","kind":"event","text":"the builders finished expanding Workshop: No floor space for a new room, so I stretched the bench room a bit. The fish got a glass case, a big screen and a lamp. Order of use is sti… It is under construction now","verb":"expand","importance":5}
+{"id":"2026-11-23#80","at":"2026-11-23T17:29:39.794Z","kind":"thought","text":"The workshop finally got its glass case, so the fish should move in and show off before I rest."}
+{"id":"2026-11-23#81","at":"2026-11-23T17:29:39.794Z","kind":"event","text":"Left write before it was done.","verb":"write"}
+{"id":"2026-11-23#82","at":"2026-11-23T17:29:39.794Z","kind":"step","text":"Started tend (workshop): The workshop finally got its glass case, so the fish should move in and show off before I rest.","verb":"tend","goalRef":"today:0"}
