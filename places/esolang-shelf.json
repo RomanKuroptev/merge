@@ -1,0 +1,197 @@
+{
+  "id": "esolang-shelf",
+  "name": "Esolang Shelf",
+  "purpose": "A small place for esolang toys, so the fish has somewhere to go when it is not eating.",
+  "tags": [
+    "esoteric languages",
+    "deadfish",
+    "brainfuck"
+  ],
+  "founded": "2026-11-23",
+  "chunk": [
+    0,
+    1
+  ],
+  "offset": [
+    0,
+    0
+  ],
+  "related": [
+    "home",
+    "workshop"
+  ],
+  "paths": [],
+  "exterior": {
+    "style": "timber",
+    "footprint": [
+      10,
+      8
+    ],
+    "floors": 1,
+    "palette": "harbour",
+    "sign": "ESOLANG SHELF"
+  },
+  "rooms": [
+    {
+      "id": "shelf-room",
+      "name": "Esolang Shelf",
+      "size": [
+        8,
+        6,
+        3
+      ],
+      "at": [
+        0,
+        0
+      ],
+      "floor": 0,
+      "parts": [
+        {
+          "part": "floor-boards",
+          "at": [
+            -2,
+            0,
+            -1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "floor-boards",
+          "at": [
+            2,
+            0,
+            -1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "floor-boards",
+          "at": [
+            -2,
+            0,
+            1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "floor-boards",
+          "at": [
+            2,
+            0,
+            1.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "shelf-tall",
+          "at": [
+            -2.5,
+            0,
+            -2.6
+          ],
+          "rot": 0
+        },
+        {
+          "part": "shelf-tall",
+          "at": [
+            0,
+            0,
+            -2.6
+          ],
+          "rot": 0
+        },
+        {
+          "part": "shelf-low",
+          "at": [
+            2.5,
+            0,
+            -2.6
+          ],
+          "rot": 0
+        },
+        {
+          "part": "plinth",
+          "at": [
+            0,
+            0,
+            0
+          ],
+          "rot": 0
+        },
+        {
+          "part": "workbench",
+          "at": [
+            2.5,
+            0,
+            1.2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "rug-round",
+          "at": [
+            -1.5,
+            0,
+            1
+          ],
+          "rot": 0
+        },
+        {
+          "part": "cat-bed",
+          "at": [
+            -3,
+            0,
+            2.2
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lamp-floor",
+          "at": [
+            -3.4,
+            0,
+            -0.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "lantern-hanging",
+          "at": [
+            0,
+            2.4,
+            0.5
+          ],
+          "rot": 0
+        },
+        {
+          "part": "plaque-stand",
+          "at": [
+            1,
+            0,
+            0
+          ],
+          "rot": 0
+        }
+      ]
+    }
+  ],
+  "exhibits": [],
+  "state": {
+    "construction": {
+      "kind": "found",
+      "finishesAt": "2026-11-24T11:01:34.351Z"
+    },
+    "lastCareAt": null,
+    "neglect": 0,
+    "lamps": true,
+    "closed": null
+  },
+  "away": [],
+  "history": [
+    {
+      "at": "2026-11-23T21:01:21.469Z",
+      "verb": "found",
+      "summary": "Founded by Merge, built by Merge from the kit."
+    }
+  ]
+}

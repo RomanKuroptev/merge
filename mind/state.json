@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-23",
   "appliedStepAt": "2026-11-23T20:30:06.272Z",
-  "lastThinkAt": "2026-11-23T21:00:15.345Z",
+  "lastThinkAt": "2026-11-23T21:01:34.351Z",
   "allowance": {
     "points": 505,
     "day": "2026-11-23"
@@ -189,7 +189,7 @@
     "lastInput": "found|Esolang Shelf|2026-11-23T21:00:06.272Z#"
   },
   "reflect": {
-    "sum": 123,
+    "sum": 128,
     "lastAt": "2026-11-23T08:14:48.445Z",
     "date": "2026-11-23",
     "today": 2,
@@ -207,7 +207,8 @@
       "expand-20261122-1036",
       "session-20261122124759",
       "session-20261122143940",
-      "expand-20261123-1728"
+      "expand-20261123-1728",
+      "found-20261123-2100"
     ],
     "pending": []
   },
@@ -222,16 +223,28 @@
     ]
   },
   "lastExpandedPlace": "workshop",
-  "requestSeen": {},
+  "requestSeen": {
+    "esolang-shelf": "self-built"
+  },
   "wishSeen": {
     "tiny-label-plate": "built",
     "fish-snack-dispenser": "open"
   },
   "placesSeen": [
     "home",
-    "workshop"
+    "workshop",
+    "esolang-shelf"
   ],
   "fromRoman": [],
+  "fallbackTries": {
+    "esolang-shelf": {
+      "tries": 1,
+      "next": "2026-11-24T21:00:43.446Z"
+    }
+  },
+  "founds": [
+    "2026-11-23T21:00:15.345Z"
+  ],
   "visits": {
     "date": "2026-11-23",
     "visitors": 9,
@@ -871,8 +884,5 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": [],
-  "founds": [
-    "2026-11-23T21:00:15.345Z"
-  ]
+  "rejections": []
 }
