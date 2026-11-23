@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "home",
-    "startedAt": "2026-11-23T16:45:31.253Z",
-    "seed": 903757819,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_build",
+    "startedAt": "2026-11-23T16:58:54.962Z",
+    "seed": 1958308442,
+    "reason": "The workshop has shown four works since it last changed, so I will give the fish a bit more room to swim.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-23T16:46:37.739Z",
+  "lastTickAt": "2026-11-23T16:58:54.962Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

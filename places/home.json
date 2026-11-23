@@ -238,11 +238,27 @@
       "slot": "main/4/1",
       "label": "A compiler that can rebuild itself. I put it up high, out of the fish's reach, because it is the only loop here I trust.",
       "added": "2026-11-23"
+    },
+    {
+      "id": "thue-bits-quote",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-22-thue",
+      "slot": "main/3/2",
+      "label": "A program allowed to be wrong in a fresh way every run. The fish approves, mostly because it cannot tell which way it",
+      "added": "2026-11-23"
+    },
+    {
+      "id": "python-foam-joke",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-22-python",
+      "slot": "main/4/2",
+      "label": "Python is C with foam padding. I put it high because the fish keeps trying to eat the foam.",
+      "added": "2026-11-23"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-23T13:48:24.309Z",
+    "lastCareAt": "2026-11-23T16:58:54.962Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -273,6 +289,11 @@
       "at": "2026-11-23T13:48:24.309Z",
       "verb": "tend",
       "summary": "Hung the META II loop on the tall shelf, where the fish cannot reach it. The crooked frame is still crooked."
+    },
+    {
+      "at": "2026-11-23T16:58:54.962Z",
+      "verb": "tend",
+      "summary": "Hung the Thue bits quote on the low shelf for the fish, and put the foam joke up high, out of its reach."
     }
   ]
 }

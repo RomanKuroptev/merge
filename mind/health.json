@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-23T16:48:38.335Z",
+  "updatedAt": "2026-11-23T16:58:54.962Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T16:48:38.335Z",
+    "at": "2026-11-23T16:58:54.962Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/6: expand, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:3d21626b",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 2,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-23T16:58:45.615Z",
+      "index": 3,
+      "verb": "expand",
+      "targetId": "workshop",
+      "until": "2026-11-23T17:28:54.962Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T14:48:30.201Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1099,
+    "ticks": 1110,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -35,7 +37,7 @@
       "sketch": 4,
       "screen": 1,
       "reply": 1,
-      "tend": 2,
+      "tend": 3,
       "art": 1
     },
     "spendByKind": {
@@ -47,12 +49,12 @@
       "sketch": 0.149072,
       "screen": 0.0001063,
       "reply": 0.010717,
-      "tend": 0.0024979,
+      "tend": 0.0038043,
       "art": 0.000513275
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 14,
+      "stepDone": 15,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -74,7 +76,8 @@
       "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1,
       "write META II": 1,
       "wander Dweet 36713 by taupelink": 1,
-      "tinker Befunge Fish: a fish that drifts across a grid of code, mea…": 1
+      "tinker Befunge Fish: a fish that drifts across a grid of code, mea…": 1,
+      "expand workshop": 1
     },
     "longestGapMinutes": 2
   },
@@ -89,18 +92,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 646,
+    "points": 626,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 121
+    "minutes": 131
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.81939369,
+    "monthUsd": 2.82070009,
     "capUsd": 15,
     "paceUsd": 11.5
   },
