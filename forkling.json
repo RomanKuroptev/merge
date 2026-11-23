@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.7,
+    21.5,
     0,
-    13.06
+    12.8
   ],
   "mood": 1,
   "energy": 0.45,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-23T06:13:17.200Z",
-    "seed": 1958659049,
-    "reason": "A sketch of a fish that tries every branch and smiles at whichever one works. Quick, silly, and small enough for one go.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-23T06:23:00.998Z",
+    "seed": 929373567,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-23T06:13:17.200Z",
+  "lastTickAt": "2026-11-23T06:23:50.899Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

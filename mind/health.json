@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T06:13:17.200Z",
+  "updatedAt": "2026-11-23T06:27:52.366Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T06:13:17.200Z",
+    "at": "2026-11-23T06:27:52.366Z",
     "asleep": false,
-    "summary": "step 2/7: tinker, wandered from https://esolangs.org/wiki/Nondeterministic",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,23 +24,26 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 433,
-    "decideCalls": 2,
+    "ticks": 448,
+    "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 1,
-      "read": 2
+      "thought": 2,
+      "read": 2,
+      "decide": 1
     },
     "spendByKind": {
       "reflection": 0.0272615,
       "morning": 0.004270455,
-      "thought": 0.0005202999999999999,
-      "read": 0.0010882650000000002
+      "thought": 0.0011164,
+      "read": 0.0010882650000000002,
+      "decide": 0.001198875
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -72,11 +73,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 30
+    "minutes": 44
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.60760607,
+    "monthUsd": 2.60940105,
     "capUsd": 15,
     "paceUsd": 11.5
   },
