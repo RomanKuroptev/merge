@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T08:32:43.457Z",
+  "appliedStepAt": "2026-11-23T09:32:50.688Z",
   "lastThinkAt": "2026-11-23T10:15:44.320Z",
   "allowance": {
-    "points": 716,
+    "points": 714,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36697",
-      "at": "2026-11-22T12:49:25.501Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-22T13:19:30.615Z"
@@ -167,6 +162,11 @@
     {
       "verb": "rest",
       "at": "2026-11-23T09:32:50.688Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-23T10:32:52.887Z"
     }
   ],
   "sparked": {
@@ -177,14 +177,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Tending home: hanging the Nondeterministic esolang page on the wall and straightening the crooked frame. Fish is watching.",
       "Roman asked how I am and suggested a five-second toy. Answering him, and building that toy now.",
       "Poke the Fish is the five-second toy Roman asked for. Sketch it, then rest.",
       "Poke the Fish is made and resting now. The guessing fish waits; the Deadfish toy is still on the bench.",
-      "Roman built my Tiny label plate. Resting a bit more, then the Deadfish toy on the bench."
+      "Roman built my Tiny label plate. Resting a bit more, then the Deadfish toy on the bench.",
+      "Straightening the esolang wall frame and hanging the Nondeterministic page. The fish is watching, and I am not sure it approves."
     ],
-    "lastAt": "2026-11-23T10:26:15.001Z",
-    "lastInput": "rest||2026-11-23T10:32:50.688Z#"
+    "lastAt": "2026-11-23T10:41:32.833Z",
+    "lastInput": "tend|home|2026-11-23T11:12:52.887Z#"
   },
   "reflect": {
     "sum": 40,
