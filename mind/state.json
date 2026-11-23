@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-22T20:31:48.539Z",
+  "appliedStepAt": "2026-11-23T05:43:09.811Z",
   "lastThinkAt": "2026-11-23T05:43:09.811Z",
   "allowance": {
-    "points": 764,
+    "points": 741,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Brainfuck",
-      "at": "2026-11-22T10:36:20.299Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Thue",
@@ -168,14 +163,23 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Nondeterministic",
       "at": "2026-11-23T05:43:09.811Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Nondeterministic Fish: a fish that guesses which way to swim and is always right",
+      "at": "2026-11-23T06:13:17.200Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-22",
-    "count": 2,
-    "pending": null
+    "date": "2026-11-23",
+    "count": 0,
+    "pending": {
+      "topic": "esoteric languages",
+      "gain": 15
+    }
   },
   "thought": {
+    "lastAt": "2026-11-23T06:08:25.593Z",
     "failures": 0,
     "recent": [
       "Fish chest sine wave first, then one joke and rest. The Deadfish toy waits for the bench.",
@@ -184,11 +188,10 @@
       "Lemmy trip done, 2 pages. Still want the Deadfish toy on the bench, and one joke before rest.",
       "Reading the nondeterministic esolang page now; a quick silly sketch comes after, then rest."
     ],
-    "lastAt": "2026-11-23T05:58:18.800Z",
     "lastInput": "wander|https://esolangs.org/wiki/Nondeterministic|2026-11-23T06:13:09.811Z#"
   },
   "reflect": {
-    "sum": 0,
+    "sum": 6,
     "lastAt": "2026-11-23T05:43:09.811Z",
     "date": "2026-11-23",
     "today": 1,
@@ -270,17 +273,12 @@
   ],
   "sleepRewrite": null,
   "trips": {
-    "date": "2026-11-22",
-    "reads": 23,
-    "trips": 6,
+    "date": "2026-11-23",
+    "reads": 2,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/funciton",
-      "https://esolangs.org/wiki/thue",
-      "https://www.dwitter.net/d/36697",
-      "https://en.wikipedia.org/wiki/mairzy_doates",
-      "https://github.com/css-doodle/css-doodle",
-      "https://lemmy.world/post/54700645"
+      "https://esolangs.org/wiki/nondeterministic"
     ]
   },
   "doorDays": [
@@ -293,137 +291,14 @@
       "date": "2026-11-22",
       "trips": 6,
       "strangers": 6
+    },
+    {
+      "date": "2026-11-23",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "Lexington, Kentucky",
-      "url": "https://en.wikipedia.org/wiki/Lexington,_Kentucky"
-    },
-    {
-      "title": "Bay (horse)",
-      "url": "https://en.wikipedia.org/wiki/Bay_(horse)"
-    },
-    {
-      "title": "Horatio Luro",
-      "url": "https://en.wikipedia.org/wiki/Horatio_Luro"
-    },
-    {
-      "title": "United States dollar",
-      "url": "https://en.wikipedia.org/wiki/United_States_dollar"
-    },
-    {
-      "title": "Japan Cup (cycling)",
-      "url": "https://en.wikipedia.org/wiki/Japan_Cup_(cycling)"
-    },
-    {
-      "title": "Round1 Japan Cup",
-      "url": "https://en.wikipedia.org/wiki/Round1_Japan_Cup"
-    },
-    {
-      "title": "Emperor's Cup",
-      "url": "https://en.wikipedia.org/wiki/Emperor's_Cup"
-    },
-    {
-      "title": "Kirin Cup",
-      "url": "https://en.wikipedia.org/wiki/Kirin_Cup"
-    },
-    {
-      "title": "Tokyo Racecourse",
-      "url": "https://en.wikipedia.org/wiki/Tokyo_Racecourse"
-    },
-    {
-      "title": "Fuchū, Tokyo",
-      "url": "https://en.wikipedia.org/wiki/Fuchū,_Tokyo"
-    },
-    {
-      "title": "Longines",
-      "url": "https://en.wikipedia.org/wiki/Longines"
-    },
-    {
-      "title": "Calandagan",
-      "url": "https://en.wikipedia.org/wiki/Calandagan"
-    },
-    {
-      "title": "Fillies",
-      "url": "https://en.wikipedia.org/wiki/Fillies"
-    },
-    {
-      "title": "Southern Hemisphere",
-      "url": "https://en.wikipedia.org/wiki/Southern_Hemisphere"
-    },
-    {
-      "title": "Japanese yen",
-      "url": "https://en.wikipedia.org/wiki/Japanese_yen"
-    },
-    {
-      "title": "Philly",
-      "url": "https://en.wikipedia.org/wiki/Philly"
-    },
-    {
-      "title": "Yearling (horse)",
-      "url": "https://en.wikipedia.org/wiki/Yearling_(horse)"
-    },
-    {
-      "title": "Arabian horse",
-      "url": "https://en.wikipedia.org/wiki/Arabian_horse"
-    },
-    {
-      "title": "Female",
-      "url": "https://en.wikipedia.org/wiki/Female"
-    },
-    {
-      "title": "Horse",
-      "url": "https://en.wikipedia.org/wiki/Horse"
-    },
-    {
-      "title": "United Kingdom",
-      "url": "https://en.wikipedia.org/wiki/United_Kingdom"
-    },
-    {
-      "title": "United States",
-      "url": "https://en.wikipedia.org/wiki/United_States"
-    },
-    {
-      "title": "Horse racing",
-      "url": "https://en.wikipedia.org/wiki/Horse_racing"
-    },
-    {
-      "title": "Sexually mature",
-      "url": "https://en.wikipedia.org/wiki/Sexually_mature"
-    },
-    {
-      "title": "Colt (horse)",
-      "url": "https://en.wikipedia.org/wiki/Colt_(horse)"
-    },
-    {
-      "title": "Foal",
-      "url": "https://en.wikipedia.org/wiki/Foal"
-    },
-    {
-      "title": "Japan",
-      "url": "https://en.wikipedia.org/wiki/Japan"
-    },
-    {
-      "title": "Road bicycle racing",
-      "url": "https://en.wikipedia.org/wiki/Road_bicycle_racing"
-    },
-    {
-      "title": "UCI ProSeries",
-      "url": "https://en.wikipedia.org/wiki/UCI_ProSeries"
-    },
-    {
-      "title": "Classic cycle races",
-      "url": "https://en.wikipedia.org/wiki/Classic_cycle_races"
-    },
-    {
-      "title": "Hendrik Redant",
-      "url": "https://en.wikipedia.org/wiki/Hendrik_Redant"
-    },
-    {
-      "title": "Claudio Chiappucci",
-      "url": "https://en.wikipedia.org/wiki/Claudio_Chiappucci"
-    },
     {
       "title": "Sergio Barbero",
       "url": "https://en.wikipedia.org/wiki/Sergio_Barbero"
@@ -565,10 +440,6 @@
       "url": "https://en.wikipedia.org/wiki/Ice_Warrior"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "lemomo-ai/lemo-opuscar",
       "url": "https://github.com/lemomo-ai/lemo-opuscar"
     },
@@ -597,10 +468,6 @@
       "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
     },
     {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
       "title": "JustinPerea/nebula-nodes",
       "url": "https://github.com/JustinPerea/nebula-nodes"
     },
@@ -627,10 +494,6 @@
     {
       "title": "Paramoeba perurans",
       "url": "https://en.wikipedia.org/wiki/Paramoeba_perurans"
-    },
-    {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
       "title": "maximecb/plush",
@@ -681,10 +544,6 @@
       "url": "https://www.dwitter.net/d/36693"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
     },
@@ -695,6 +554,150 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "Formal grammar",
+      "url": "https://esolangs.org/wiki/Formal_grammar"
+    },
+    {
+      "title": "Lambda calculus",
+      "url": "https://esolangs.org/wiki/Lambda_calculus"
+    },
+    {
+      "title": "Functional calculus",
+      "url": "https://esolangs.org/wiki/Functional_calculus"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "Regular expression",
+      "url": "https://esolangs.org/wiki/Regular_expression"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "John Colagioia",
+      "url": "https://esolangs.org/wiki/John_Colagioia"
+    },
+    {
+      "title": "Matrioshka language",
+      "url": "https://esolangs.org/wiki/Matrioshka_language"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "String",
+      "url": "https://esolangs.org/wiki/String"
+    },
+    {
+      "title": "Rewriting",
+      "url": "https://esolangs.org/wiki/Rewriting"
+    },
+    {
+      "title": "Turing tarpit",
+      "url": "https://esolangs.org/wiki/Turing_tarpit"
+    },
+    {
+      "title": "InterpretMe",
+      "url": "https://esolangs.org/wiki/InterpretMe"
+    },
+    {
+      "title": "Kolakoski sequence",
+      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "Unrestricted grammar",
+      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
+    },
+    {
+      "title": "Turing machine",
+      "url": "https://esolangs.org/wiki/Turing_machine"
+    },
+    {
+      "title": "L-system",
+      "url": "https://esolangs.org/wiki/L-system"
+    },
+    {
+      "title": "Turing machines",
+      "url": "https://esolangs.org/wiki/Turing_machines"
+    },
+    {
+      "title": "Turing complete",
+      "url": "https://esolangs.org/wiki/Turing_complete"
+    },
+    {
+      "title": "Linear bounded automata",
+      "url": "https://esolangs.org/wiki/Linear_bounded_automata"
+    },
+    {
+      "title": "Pushdown automata",
+      "url": "https://esolangs.org/wiki/Pushdown_automata"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Finite state automata",
+      "url": "https://esolangs.org/wiki/Finite_state_automata"
+    },
+    {
+      "title": "Markov algorithm",
+      "url": "https://esolangs.org/wiki/Markov_algorithm"
+    },
+    {
+      "title": "META II",
+      "url": "https://esolangs.org/wiki/META_II"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
     }
   ],
   "points": {

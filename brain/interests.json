@@ -212,9 +212,9 @@
       ]
     },
     "esoteric languages": {
-      "weight": 85,
+      "weight": 100,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-23T06:13:17.200Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -223,55 +223,31 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "2026-11-22-arbitrary-memory-emulation",
-          "title": "Arbitrary memory emulation",
-          "url": "https://esolangs.org/wiki/Arbitrary_memory_emulation",
-          "at": "2026-11-22T07:34:24.769Z"
-        },
-        {
-          "id": "2026-11-22-bitwise-cyclic-tag",
-          "title": "Bitwise Cyclic Tag",
-          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
-          "at": "2026-11-22T07:34:24.769Z"
-        },
-        {
-          "id": "trail:2026-11-22-2",
-          "title": "Thue",
-          "url": "https://esolangs.org/wiki/Thue",
-          "at": "2026-11-22T11:07:42.379Z"
-        },
-        {
           "id": "2026-11-22-thue",
           "title": "Thue",
           "url": "https://esolangs.org/wiki/Thue",
           "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "trail:2026-11-23-1",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-nondeterministic",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-formal-grammar",
+          "title": "Formal grammar",
+          "url": "https://esolangs.org/wiki/Formal_grammar",
+          "at": "2026-11-23T06:13:17.200Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        },
         {
           "at": "2026-11-21T20:36:14.638Z",
           "change": 4,
@@ -367,31 +343,43 @@
           "change": 0,
           "event": "page",
           "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 3.972,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 9.93,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 1.098,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
         }
       ]
     },
     "program flow": {
-      "weight": 48.535,
+      "weight": 62.535,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-22T07:34:24.769Z",
+      "lastFed": "2026-11-23T06:13:17.200Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "2026-11-21-shakespeare",
-          "title": "Shakespeare",
-          "url": "https://esolangs.org/wiki/Shakespeare",
-          "at": "2026-11-21T20:36:14.638Z"
-        },
-        {
-          "id": "2026-11-21-brainfuck",
-          "title": "brainfuck",
-          "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-21T20:36:14.638Z"
         },
         {
           "id": "trail:2026-11-22-1",
@@ -404,6 +392,18 @@
           "title": "Funciton",
           "url": "https://esolangs.org/wiki/Funciton",
           "at": "2026-11-22T07:34:24.769Z"
+        },
+        {
+          "id": "trail:2026-11-23-1",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-nondeterministic",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
         }
       ],
       "history": [
@@ -466,6 +466,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-22-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
         }
       ]
     },
@@ -848,9 +860,9 @@
       ]
     },
     "turing completeness": {
-      "weight": 15.3,
+      "weight": 29.3,
       "firstSeen": "2026-11-22T07:34:24.769Z",
-      "lastFed": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-23T06:13:17.200Z",
       "sources": [
         {
           "id": "trail:2026-11-22-1",
@@ -869,6 +881,18 @@
           "title": "Computational class",
           "url": "https://esolangs.org/wiki/Computational_class",
           "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "trail:2026-11-23-1",
+          "title": "Formal grammar",
+          "url": "https://esolangs.org/wiki/Formal_grammar",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-formal-grammar",
+          "title": "Formal grammar",
+          "url": "https://esolangs.org/wiki/Formal_grammar",
+          "at": "2026-11-23T06:13:17.200Z"
         }
       ],
       "history": [
@@ -889,6 +913,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
         }
       ]
     },
@@ -926,9 +962,9 @@
       ]
     },
     "nondeterminism": {
-      "weight": 11.9,
+      "weight": 25.9,
       "firstSeen": "2026-11-22T11:07:42.379Z",
-      "lastFed": "2026-11-22T11:07:42.379Z",
+      "lastFed": "2026-11-23T06:13:17.200Z",
       "sources": [
         {
           "id": "trail:2026-11-22-2",
@@ -941,6 +977,18 @@
           "title": "Thue",
           "url": "https://esolangs.org/wiki/Thue",
           "at": "2026-11-22T11:07:42.379Z"
+        },
+        {
+          "id": "trail:2026-11-23-1",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-nondeterministic",
+          "title": "Nondeterministic",
+          "url": "https://esolangs.org/wiki/Nondeterministic",
+          "at": "2026-11-23T06:13:17.200Z"
         }
       ],
       "history": [
@@ -955,6 +1003,18 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-22-2"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
         }
       ]
     },
@@ -1387,6 +1447,39 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-22-5"
+        }
+      ]
+    },
+    "formal grammar": {
+      "weight": 14,
+      "firstSeen": "2026-11-23T06:13:17.200Z",
+      "lastFed": "2026-11-23T06:13:17.200Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-23-1",
+          "title": "Formal grammar",
+          "url": "https://esolangs.org/wiki/Formal_grammar",
+          "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "2026-11-23-formal-grammar",
+          "title": "Formal grammar",
+          "url": "https://esolangs.org/wiki/Formal_grammar",
+          "at": "2026-11-23T06:13:17.200Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T06:13:17.200Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-1"
         }
       ]
     }

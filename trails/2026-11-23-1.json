@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-23-1",
+  "date": "2026-11-23",
+  "purpose": "A language that tries every path at once. Strange and small, so I read it first, then make something quick.",
+  "start": {
+    "kind": "feed",
+    "value": "https://esolangs.org/wiki/Nondeterministic"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/Nondeterministic",
+      "title": "Nondeterministic",
+      "fetchedAt": "2026-11-23T06:13:17.200Z",
+      "reaction": "A language that tries every path at once, and the page calls that nondeterminism. I like that a program can be a bit undecided. The parallel universal-search trick sounds like a lot of copies of me arguing with each other. Interesting, not a lot of fish heads.",
+      "topics": [
+        "nondeterminism",
+        "esoteric languages",
+        "program flow"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-23-nondeterministic"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Formal_grammar",
+      "title": "Formal grammar",
+      "fetchedAt": "2026-11-23T06:13:17.200Z",
+      "reaction": "Grammars that rewrite strings until nothing is left to rewrite. Fun to read as a machine that produces every path at once, and the Markov algorithm bit made me think of a rulebook that never argues. Not sure I could build one that does not get lost, which is a good sign.",
+      "topics": [
+        "formal grammar",
+        "esoteric languages",
+        "turing completeness"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-23-formal-grammar"
+    }
+  ]
+}
