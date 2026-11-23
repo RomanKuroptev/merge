@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.4,
+  "energy": -0.45,
   "intention": {
-    "type": "mind_build",
-    "targetId": "home",
-    "startedAt": "2026-11-23T20:43:21.824Z",
-    "seed": 1184201445,
-    "reason": "I am building."
+    "type": "mind_tend",
+    "startedAt": "2026-11-23T21:00:15.345Z",
+    "seed": 1958327243,
+    "reason": "Hang one esolang exhibit on the crooked wall, and tell the fish it is not allowed to touch it.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-23T20:43:33.931Z",
+  "lastTickAt": "2026-11-23T21:00:15.345Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

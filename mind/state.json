@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T19:59:56.043Z",
-  "lastThinkAt": "2026-11-23T19:59:56.043Z",
+  "appliedStepAt": "2026-11-23T20:30:06.272Z",
+  "lastThinkAt": "2026-11-23T21:00:15.345Z",
   "allowance": {
-    "points": 507,
+    "points": 505,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-23T08:13:25.672Z"
-    },
     {
       "verb": "reply",
       "targetId": "n-2026-11-23-a3dc69",
@@ -169,6 +164,11 @@
       "verb": "found",
       "targetId": "Esolang Shelf",
       "at": "2026-11-23T20:30:06.272Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-23T21:00:15.345Z"
     }
   ],
   "sparked": {
@@ -177,6 +177,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T20:59:44.905Z",
     "failures": 0,
     "recent": [
       "Fish moving into the glass case now; the snacks are still missing from the bench. Keep going.",
@@ -185,7 +186,6 @@
       "Dweet's a tiny picture made of code. I want to see how much joke fits in one frame. Fish is watching.",
       "Fish is in its glass case now; the snacks are still missing from the bench. Shelf is up, keep going."
     ],
-    "lastAt": "2026-11-23T20:43:33.931Z",
     "lastInput": "found|Esolang Shelf|2026-11-23T21:00:06.272Z#"
   },
   "reflect": {
@@ -871,5 +871,8 @@
   "openCode": null,
   "brokenOff": [],
   "pausedHosts": {},
-  "rejections": []
+  "rejections": [],
+  "founds": [
+    "2026-11-23T21:00:15.345Z"
+  ]
 }

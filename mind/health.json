@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-23T20:44:34.363Z",
+  "updatedAt": "2026-11-23T21:00:15.345Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T20:44:34.363Z",
+    "at": "2026-11-23T21:00:15.345Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: tend, founded Esolang Shelf",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:7191f01c",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "found",
-      "targetId": "Esolang Shelf",
-      "until": "2026-11-23T21:00:06.272Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-23T21:20:15.345Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T19:59:56.043Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1341,
+    "ticks": 1358,
     "decideCalls": 12,
     "callsByKind": {
       "reflection": 2,
@@ -36,7 +38,8 @@
       "screen": 1,
       "reply": 1,
       "tend": 4,
-      "art": 1
+      "art": 1,
+      "found": 1
     },
     "spendByKind": {
       "reflection": 0.0529,
@@ -48,11 +51,12 @@
       "screen": 0.0001063,
       "reply": 0.010717,
       "tend": 0.0051106,
-      "art": 0.000513275
+      "art": 0.000513275,
+      "found": 0.002078525
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 20,
+      "stepDone": 21,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -67,7 +71,7 @@
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
       "rest": 4,
-      "tend home": 4,
+      "tend home": 5,
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
       "wander META II": 1,
@@ -98,18 +102,18 @@
     }
   },
   "allowance": {
-    "points": 507,
+    "points": 505,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 353
+    "minutes": 368
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.91047661,
+    "monthUsd": 2.91255514,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -156,6 +160,6 @@
   },
   "warnings": [
     "started \"rest\" 4 times today",
-    "started \"tend home\" 4 times today"
+    "started \"tend home\" 5 times today"
   ]
 }
