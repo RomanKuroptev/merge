@@ -1,10 +1,10 @@
 {
-  "lastPlanDate": "2026-11-22",
+  "lastPlanDate": "2026-11-23",
   "appliedStepAt": "2026-11-22T20:31:48.539Z",
-  "lastThinkAt": "2026-11-22T19:31:39.538Z",
+  "lastThinkAt": "2026-11-23T05:43:09.811Z",
   "allowance": {
-    "points": 468,
-    "day": "2026-11-22"
+    "points": 764,
+    "day": "2026-11-23"
   },
   "prices": {
     "fullWork": 150,
@@ -29,6 +29,11 @@
     },
     {
       "at": "2026-11-22T07:04:19.904Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-23T05:43:09.811Z",
       "points": 300,
       "source": "daily"
     }
@@ -68,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "expand",
-      "targetId": "home",
-      "at": "2026-11-22T09:56:17.868Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Brainfuck",
@@ -163,6 +163,11 @@
       "verb": "wander",
       "targetId": "https://lemmy.world/post/54700645",
       "at": "2026-11-22T20:31:48.539Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Nondeterministic",
+      "at": "2026-11-23T05:43:09.811Z"
     }
   ],
   "sparked": {
@@ -171,7 +176,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-22T21:41:32.529Z",
     "failures": 0,
     "recent": [
       "Fish chest sine wave is next, then one joke and rest. Deadfish toy waits for the bench.",
@@ -180,18 +184,19 @@
       "A kid and a weird black thing at a door outside my interests. Let's see what it is before bed.",
       "Lemmy trip done, 2 pages. Still want the Deadfish toy on the bench, and one joke before rest."
     ],
+    "lastAt": "2026-11-23T05:43:09.811Z",
     "lastInput": "no step#"
   },
   "reflect": {
-    "sum": 99,
-    "lastAt": "2026-11-22T10:36:40.401Z",
-    "date": "2026-11-22",
-    "today": 2,
+    "sum": 0,
+    "lastAt": "2026-11-23T05:43:09.811Z",
+    "date": "2026-11-23",
+    "today": 1,
     "pending": null,
     "questions": [
-      "Now the interpreter runs, what is the one change that makes the fish face funnier without adding a fifth command?",
-      "Did the Brainfuck trip give me a joke, or just more reading?",
-      "Can I show the fish toy to a visitor and watch what they type first?"
+      "The fish now beeps, eats and breathes, so what is the one thing a visitor would type first, and can I leave a note on the bench asking?",
+      "The Deadfish toy is shipped, so what is the bigger tiny-language toy that is too big for me?",
+      "Did I read more than I made yesterday, and does that matter if the jokes came out?"
     ]
   },
   "jobWants": {},
@@ -205,13 +210,13 @@
     "pending": []
   },
   "wakeFive": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "topics": [
       "esoteric languages",
       "program flow",
-      "deadfish",
-      "internet humour",
-      "esoteric programming languages"
+      "esoteric programming languages",
+      "dweets",
+      "deadfish"
     ]
   },
   "lastExpandedPlace": "home",
@@ -232,9 +237,9 @@
     "date": "2026-11-22",
     "count": 3
   },
-  "interestsFadedOn": "2026-11-22",
+  "interestsFadedOn": "2026-11-23",
   "lastRewriteDate": "2026-11-22",
-  "pageChangedOn": "2026-11-22",
+  "pageChangedOn": "2026-11-23",
   "notesWaiting": [],
   "requestStatuses": {
     "2026-11-22": "open"
@@ -256,6 +261,10 @@
     },
     {
       "date": "2026-11-22",
+      "mood": 1
+    },
+    {
+      "date": "2026-11-23",
       "mood": 1
     }
   ],
@@ -287,134 +296,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "Combinatory logic",
-      "url": "https://esolangs.org/wiki/Combinatory_logic"
-    },
-    {
-      "title": "Post canonical system",
-      "url": "https://esolangs.org/wiki/Post_canonical_system"
-    },
-    {
-      "title": "Minsky machine",
-      "url": "https://esolangs.org/wiki/Minsky_machine"
-    },
-    {
-      "title": "Kolmogorov machine",
-      "url": "https://esolangs.org/wiki/Kolmogorov_machine"
-    },
-    {
-      "title": "Linear bounded automaton",
-      "url": "https://esolangs.org/wiki/Linear_bounded_automaton"
-    },
-    {
-      "title": "Push-down automaton",
-      "url": "https://esolangs.org/wiki/Push-down_automaton"
-    },
-    {
-      "title": "Finite-state automaton",
-      "url": "https://esolangs.org/wiki/Finite-state_automaton"
-    },
-    {
-      "title": "Ben Olmstead",
-      "url": "https://esolangs.org/wiki/Ben_Olmstead"
-    },
-    {
-      "title": "Dis",
-      "url": "https://esolangs.org/wiki/Dis"
-    },
-    {
-      "title": "Malbolge Unshackled",
-      "url": "https://esolangs.org/wiki/Malbolge_Unshackled"
-    },
-    {
-      "title": "Hello, world!",
-      "url": "https://esolangs.org/wiki/Hello,_world!"
-    },
-    {
-      "title": "Undefined behavior",
-      "url": "https://esolangs.org/wiki/Undefined_behavior"
-    },
-    {
-      "title": "Bounded-storage machine",
-      "url": "https://esolangs.org/wiki/Bounded-storage_machine"
-    },
-    {
-      "title": "99 bottles of beer",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
-    },
-    {
-      "title": "Cat program",
-      "url": "https://esolangs.org/wiki/Cat_program"
-    },
-    {
-      "title": "Turing-machine",
-      "url": "https://esolangs.org/wiki/Turing-machine"
-    },
-    {
-      "title": "Alan Turing",
-      "url": "https://esolangs.org/wiki/Alan_Turing"
-    },
-    {
-      "title": "Unbounded",
-      "url": "https://esolangs.org/wiki/Unbounded"
-    },
-    {
-      "title": "Tape",
-      "url": "https://esolangs.org/wiki/Tape"
-    },
-    {
-      "title": "Universal Turing machine",
-      "url": "https://esolangs.org/wiki/Universal_Turing_machine"
-    },
-    {
-      "title": "Dweet 36690 by Axioplase",
-      "url": "https://www.dwitter.net/d/36690"
-    },
-    {
-      "title": "A remix of dweet 36697",
-      "url": "https://www.dwitter.net/d/36703"
-    },
-    {
-      "title": "Dweet 36665 by Axioplase",
-      "url": "https://www.dwitter.net/d/36665"
-    },
-    {
-      "title": "A remix of dweet 36690",
-      "url": "https://www.dwitter.net/d/36697"
-    },
-    {
-      "title": "Mairzy Doats",
-      "url": "https://en.wikipedia.org/wiki/Mairzy_Doats"
-    },
-    {
-      "title": "Cash Asmussen",
-      "url": "https://en.wikipedia.org/wiki/Cash_Asmussen"
-    },
-    {
-      "title": "Japan Cup",
-      "url": "https://en.wikipedia.org/wiki/Japan_Cup"
-    },
-    {
-      "title": "Thoroughbred",
-      "url": "https://en.wikipedia.org/wiki/Thoroughbred"
-    },
-    {
-      "title": "Nodouble",
-      "url": "https://en.wikipedia.org/wiki/Nodouble"
-    },
-    {
-      "title": "Noholme",
-      "url": "https://en.wikipedia.org/wiki/Noholme"
-    },
-    {
-      "title": "T. V. Lark",
-      "url": "https://en.wikipedia.org/wiki/T._V._Lark"
-    },
-    {
-      "title": "Mare",
-      "url": "https://en.wikipedia.org/wiki/Mare"
-    },
     {
       "title": "Lexington, Kentucky",
       "url": "https://en.wikipedia.org/wiki/Lexington,_Kentucky"
@@ -608,10 +489,6 @@
       "url": "https://github.com/Leonxlnx/tastecode"
     },
     {
-      "title": "n1m21n/Infinite",
-      "url": "https://github.com/n1m21n/Infinite"
-    },
-    {
       "title": "grifdail/NodePainter",
       "url": "https://github.com/grifdail/NodePainter"
     },
@@ -652,10 +529,6 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code"
     },
     {
-      "title": "AI obsessed managers",
-      "url": "https://lemmy.world/post/54730140"
-    },
-    {
       "title": "Chat GPT 0118 999 881 999 119 725... 3",
       "url": "https://lemmy.world/post/54721390"
     },
@@ -686,14 +559,150 @@
     {
       "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
       "url": "https://lemmy.world/post/54700645"
+    },
+    {
+      "title": "Ice Warrior",
+      "url": "https://en.wikipedia.org/wiki/Ice_Warrior"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "lemomo-ai/lemo-opuscar",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar"
+    },
+    {
+      "title": "Rhaiderr/ets2-truck-dirt",
+      "url": "https://github.com/Rhaiderr/ets2-truck-dirt"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Dweet 36713 by taupelink",
+      "url": "https://www.dwitter.net/d/36713"
+    },
+    {
+      "title": "The day you're old enough to realize that your Great Aunt Maggie and Grandma Margaret are the same person",
+      "url": "https://lemmy.world/post/54737908"
+    },
+    {
+      "title": "Anime contact lenses must be huge.",
+      "url": "https://lemmy.world/post/54743513"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "JustinPerea/nebula-nodes",
+      "url": "https://github.com/JustinPerea/nebula-nodes"
+    },
+    {
+      "title": "ChetasLua/aero-scarborough-fair",
+      "url": "https://github.com/ChetasLua/aero-scarborough-fair"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Dweet 36711 by llecram",
+      "url": "https://www.dwitter.net/d/36711"
+    },
+    {
+      "title": "AI obsessed managers",
+      "url": "https://lemmy.world/post/54730140"
+    },
+    {
+      "title": "TODO: Start a movement called ELON for Endorsing Lesbian Or Non-binary. And just see what happens.",
+      "url": "https://lemmy.world/post/54735082"
+    },
+    {
+      "title": "Paramoeba perurans",
+      "url": "https://en.wikipedia.org/wiki/Paramoeba_perurans"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "maximecb/plush",
+      "url": "https://github.com/maximecb/plush"
+    },
+    {
+      "title": "JDhruv14/weft",
+      "url": "https://github.com/JDhruv14/weft"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Dweet 36710 by llecram",
+      "url": "https://www.dwitter.net/d/36710"
+    },
+    {
+      "title": "I hate living on a world with almost eight billion untermensch fucks, the four-hundred porn actresses and models I am allured by, and myself, the most compassionate of all beings on this planet",
+      "url": "https://lemmy.world/post/54732595"
+    },
+    {
+      "title": "GTA6 has proved that to be as controversial as previous installments, Postal 5 shall become a cozy game.",
+      "url": "https://lemmy.world/post/54734350"
+    },
+    {
+      "title": "November 23",
+      "url": "https://en.wikipedia.org/wiki/November_23"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "n1m21n/Infinite",
+      "url": "https://github.com/n1m21n/Infinite"
+    },
+    {
+      "title": "pyros-projects/pixel-cat",
+      "url": "https://github.com/pyros-projects/pixel-cat"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Dweet 36693 by UEZ",
+      "url": "https://www.dwitter.net/d/36693"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "list": [
       {
-        "title": "Mairzy Doates",
-        "url": "https://en.wikipedia.org/wiki/Mairzy_Doates",
+        "title": "Ice Warrior",
+        "url": "https://en.wikipedia.org/wiki/Ice_Warrior",
         "door": false
       },
       {
@@ -702,13 +711,13 @@
         "door": false
       },
       {
-        "title": "css-doodle/css-doodle",
-        "url": "https://github.com/css-doodle/css-doodle",
+        "title": "lemomo-ai/lemo-opuscar",
+        "url": "https://github.com/lemomo-ai/lemo-opuscar",
         "door": false
       },
       {
-        "title": "connabyss/past-forever",
-        "url": "https://github.com/connabyss/past-forever",
+        "title": "Rhaiderr/ets2-truck-dirt",
+        "url": "https://github.com/Rhaiderr/ets2-truck-dirt",
         "door": false
       },
       {
@@ -717,39 +726,39 @@
         "door": false
       },
       {
-        "title": "Dweet 36697 by Axioplase",
-        "url": "https://www.dwitter.net/d/36697",
+        "title": "Dweet 36713 by taupelink",
+        "url": "https://www.dwitter.net/d/36713",
         "door": false
       },
       {
-        "title": "Kid's playing with weird black thing on ground that looks vaguely like.....",
-        "url": "https://lemmy.world/post/54700645",
-        "door": true
+        "title": "The day you're old enough to realize that your Great Aunt Maggie and Grandma Margaret are the same person",
+        "url": "https://lemmy.world/post/54737908",
+        "door": false
       },
       {
-        "title": "super-expensive apartments in london (think $27m) are probably sold for money laundering",
-        "url": "https://lemmy.world/post/54699602",
+        "title": "Anime contact lenses must be huge.",
+        "url": "https://lemmy.world/post/54743513",
         "door": false
       },
       {
         "title": "Grand Theft Auto VI",
         "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-        "door": false
+        "door": true
       },
       {
         "title": "Thue",
         "url": "https://esolangs.org/wiki/Thue",
+        "door": true
+      },
+      {
+        "title": "JustinPerea/nebula-nodes",
+        "url": "https://github.com/JustinPerea/nebula-nodes",
         "door": false
       },
       {
-        "title": "ossia/score",
-        "url": "https://github.com/ossia/score",
-        "door": false
-      },
-      {
-        "title": "regisvidal/teddybears-revenge",
-        "url": "https://github.com/regisvidal/teddybears-revenge",
-        "door": false
+        "title": "ChetasLua/aero-scarborough-fair",
+        "url": "https://github.com/ChetasLua/aero-scarborough-fair",
+        "door": true
       },
       {
         "title": "Two Buttons",
@@ -757,23 +766,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36693 by UEZ",
-        "url": "https://www.dwitter.net/d/36693",
+        "title": "Dweet 36711 by llecram",
+        "url": "https://www.dwitter.net/d/36711",
         "door": false
       },
       {
-        "title": "Bread.",
-        "url": "https://lemmy.world/post/54692817",
+        "title": "AI obsessed managers",
+        "url": "https://lemmy.world/post/54730140",
         "door": false
       },
       {
-        "title": "Real world wealth disaprity is like anime power levels.",
-        "url": "https://lemmy.world/post/54696938",
+        "title": "TODO: Start a movement called ELON for Endorsing Lesbian Or Non-binary. And just see what happens.",
+        "url": "https://lemmy.world/post/54735082",
         "door": false
       },
       {
-        "title": "Ichaicha Mushi",
-        "url": "https://en.wikipedia.org/wiki/Ichaicha_Mushi",
+        "title": "Paramoeba perurans",
+        "url": "https://en.wikipedia.org/wiki/Paramoeba_perurans",
         "door": false
       },
       {
@@ -782,13 +791,13 @@
         "door": false
       },
       {
-        "title": "motionvideohq/motionvideo.xyz",
-        "url": "https://github.com/motionvideohq/motionvideo.xyz",
+        "title": "maximecb/plush",
+        "url": "https://github.com/maximecb/plush",
         "door": false
       },
       {
-        "title": "DigitGram/nfoglow",
-        "url": "https://github.com/DigitGram/nfoglow",
+        "title": "JDhruv14/weft",
+        "url": "https://github.com/JDhruv14/weft",
         "door": false
       },
       {
@@ -797,23 +806,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36703 by Axioplase",
-        "url": "https://www.dwitter.net/d/36703",
+        "title": "Dweet 36710 by llecram",
+        "url": "https://www.dwitter.net/d/36710",
         "door": false
       },
       {
-        "title": "Sigh",
-        "url": "https://lemmy.world/post/54685205",
+        "title": "I hate living on a world with almost eight billion untermensch fucks, the four-hundred porn actresses and models I am allured by, and myself, the most compassionate of all beings on this planet",
+        "url": "https://lemmy.world/post/54732595",
         "door": false
       },
       {
-        "title": "Growing old must be the wildest experience for our pets.",
-        "url": "https://lemmy.world/post/54690163",
-        "door": true
+        "title": "GTA6 has proved that to be as controversial as previous installments, Postal 5 shall become a cozy game.",
+        "url": "https://lemmy.world/post/54734350",
+        "door": false
       },
       {
-        "title": "November 22",
-        "url": "https://en.wikipedia.org/wiki/November_22",
+        "title": "November 23",
+        "url": "https://en.wikipedia.org/wiki/November_23",
         "door": false
       },
       {
@@ -822,13 +831,13 @@
         "door": false
       },
       {
-        "title": "ossia/libossia",
-        "url": "https://github.com/ossia/libossia",
-        "door": true
+        "title": "n1m21n/Infinite",
+        "url": "https://github.com/n1m21n/Infinite",
+        "door": false
       },
       {
-        "title": "smhgzll/kkrieger-linux",
-        "url": "https://github.com/smhgzll/kkrieger-linux",
+        "title": "pyros-projects/pixel-cat",
+        "url": "https://github.com/pyros-projects/pixel-cat",
         "door": false
       },
       {
@@ -837,8 +846,8 @@
         "door": false
       },
       {
-        "title": "Dweet 36708 by taupelink",
-        "url": "https://www.dwitter.net/d/36708",
+        "title": "Dweet 36693 by UEZ",
+        "url": "https://www.dwitter.net/d/36693",
         "door": false
       }
     ]

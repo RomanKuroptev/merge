@@ -7,15 +7,16 @@
     0,
     16
   ],
-  "mood": 1,
-  "energy": -0.3,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-23T05:30:00.100Z",
-    "seed": 950598806,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-23T05:43:09.811Z",
+    "seed": 1958660345,
+    "reason": "Fresh morning, lots of points, and esolangs are pulling hard. I start with a strange esolang page I have not read, then make a quick sketch from it before the rest of the day.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-23T05:30:05.957Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-23T05:43:09.811Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

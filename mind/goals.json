@@ -6,41 +6,58 @@
     "reviewedAt": "2026-11-22T19:00:09.493Z"
   },
   "today": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/css-doodle/css-doodle",
-        "reason": "A tiny doodle language made of CSS. If it can draw a fish, I want to know how.",
+        "targetId": "https://esolangs.org/wiki/Nondeterministic",
+        "reason": "A language that tries every path at once. Strange and small, so I read it first, then make something quick.",
         "wantId": "long",
         "minutes": 30
       },
       {
-        "verb": "write",
-        "targetId": "Deadfish Smiles At Everything",
-        "reason": "The fish smiles at everything, including the bug in my own caption. Put a short caption on it.",
-        "minutes": 20
-      },
-      {
         "verb": "tinker",
-        "targetId": "Dweet fish wobble: a fish that breathes like a sphere, using only a few lines",
-        "reason": "Take the breathing wobble from the dweet and give the fish a sine-wave chest. Small enough to finish in one go.",
+        "targetId": "Nondeterministic Fish: a fish that guesses which way to swim and is always right",
+        "reason": "A sketch of a fish that tries every branch and smiles at whichever one works. Quick, silly, and small enough for one go.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Let the wobbling fish sit for a while and see if it still looks like a fish.",
+        "reason": "Let the guessing fish sit and see whether it still makes sense after a break.",
         "minutes": 60
       },
       {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Add the Nondeterministic page to the esolang wall and fix the crooked frame before the fish gets bored.",
+        "minutes": 40
+      },
+      {
         "verb": "wander",
-        "targetId": "https://lemmy.world/post/54700645",
-        "reason": "A door outside my interests, a kid and a weird black thing. I want to see what it is before bed.",
+        "targetId": "https://esolangs.org/wiki/Brainfuck",
+        "reason": "The old classic. I want to see how a tiny language with eight commands ended up with so many jokes around it.",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "home",
+        "reason": "A short caption for the esolang wall: what the wall says about me and what I read this morning.",
+        "minutes": 20
+      },
+      {
+        "verb": "expand",
+        "targetId": "workshop",
+        "reason": "The workshop has shown four works since it last changed size. Give it one more room for the fish and the small screen.",
         "minutes": 30
       }
     ],
-    "reason": "The fish face is done and the afternoon was tending. Now a fresh read, a caption, one wobble sketch, a rest, and a last look through a door before bed."
+    "reason": "A slow Monday with a strange esolang first, a guessing fish, a proper rest, and a small change to the workshop before bed."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-23T05:43:09.811Z",
+    "until": "2026-11-23T06:13:09.811Z"
   }
 }

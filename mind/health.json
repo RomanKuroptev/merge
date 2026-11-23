@@ -1,33 +1,51 @@
 {
-  "updatedAt": "2026-11-23T05:34:06.300Z",
+  "updatedAt": "2026-11-23T05:43:09.811Z",
   "engine": "v0.19.2",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T05:34:06.300Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-23T05:43:09.811Z",
+    "asleep": false,
+    "summary": "rewrote its page, reflected, morning plan, step 1/7: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-22:8cae009d",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-22T17:41:24.173Z",
+    "planId": "2026-11-23:761d5f94",
+    "stepsLeft": 6,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://esolangs.org/wiki/Nondeterministic",
+      "until": "2026-11-23T06:13:09.811Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-23T05:43:09.811Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 393,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {},
+    "ticks": 402,
+    "decideCalls": 2,
+    "callsByKind": {
+      "reflection": 1,
+      "morning": 2
+    },
+    "spendByKind": {
+      "reflection": 0.0272615,
+      "morning": 0.004270455
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://esolangs.org/wiki/Nondeterministic": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -41,18 +59,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 468,
+    "points": 764,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, a bit worn",
-    "minutes": 682
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.57446554,
+    "monthUsd": 2.6059975,
     "capUsd": 15,
     "paceUsd": 11.5
   },
