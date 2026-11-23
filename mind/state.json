@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T17:29:39.794Z",
-  "lastThinkAt": "2026-11-23T17:59:47.102Z",
+  "appliedStepAt": "2026-11-23T17:59:47.102Z",
+  "lastThinkAt": "2026-11-23T18:59:54.516Z",
   "allowance": {
     "points": 591,
     "day": "2026-11-23"
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Nondeterministic",
-      "at": "2026-11-23T05:43:09.811Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Nondeterministic Fish: a fish that guesses which way to swim and is always right",
@@ -169,6 +164,10 @@
       "verb": "tinker",
       "targetId": "Fish in the Glass Case",
       "at": "2026-11-23T17:59:47.102Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-23T18:59:54.516Z"
     }
   ],
   "sparked": {
@@ -179,14 +178,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Befunge fish is taking shape: a drifting fish on a grid of code. Small enough to enjoy in a minute. Keep going.",
       "Frame still crooked, fish judging me. Befunge fish is drifting on its grid; META II stays high on the shelf. Keep going.",
       "Expanding the workshop so the fish has room; the Thue quote is hung low and the foam joke sits high, out of reach.",
       "Fish moving into the glass case now; the snacks are still missing from the bench. Keep going.",
-      "Fish in the glass case is taking shape; the snacks are still missing from the bench. Keep going."
+      "Fish in the glass case is taking shape; the snacks are still missing from the bench. Keep going.",
+      "Fish is settling into its glass case; the snacks are still missing from the bench. Keep going."
     ],
-    "lastAt": "2026-11-23T18:43:42.349Z",
-    "lastInput": "tinker|Fish in the Glass Case|2026-11-23T18:59:47.102Z#"
+    "lastAt": "2026-11-23T18:59:54.516Z",
+    "lastInput": "rest||2026-11-23T19:59:54.516Z#"
   },
   "reflect": {
     "sum": 102,
@@ -242,7 +241,7 @@
   },
   "sketches": {
     "date": "2026-11-23",
-    "count": 4
+    "count": 5
   },
   "interestsFadedOn": "2026-11-23",
   "lastRewriteDate": "2026-11-22",

@@ -2,28 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 2.86359097,
+  "spentUsd": 2.90604667,
   "calls": [
-    {
-      "at": "2026-11-17T17:16:27.853Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 516,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011452000000000001
-    },
-    {
-      "at": "2026-11-17T17:18:32.972Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 516,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011452000000000001
-    },
     {
       "at": "2026-11-17T17:20:35.780Z",
       "kind": "thought",
@@ -5003,16 +4983,36 @@
       "cacheWrite": 3512,
       "output": 88,
       "usd": 0.0005537999999999999
+    },
+    {
+      "at": "2026-11-23T18:59:54.516Z",
+      "kind": "sketch",
+      "model": "claude-sonnet-5-5",
+      "input": 7649,
+      "cacheRead": 0,
+      "cacheWrite": 3758,
+      "output": 1724,
+      "usd": 0.041933
+    },
+    {
+      "at": "2026-11-23T18:59:54.516Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 527,
+      "cacheRead": 0,
+      "cacheWrite": 3512,
+      "output": 62,
+      "usd": 0.0005227000000000001
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 1487,
-      "input": 667280,
+      "calls": 1488,
+      "input": 667807,
       "cacheRead": 3506592,
-      "cacheWrite": 439838,
-      "output": 104368,
-      "usd": 0.20895786
+      "cacheWrite": 443350,
+      "output": 104430,
+      "usd": 0.20948056
     },
     "bedtime": {
       "calls": 4,
@@ -5063,12 +5063,12 @@
       "usd": 0.02286749
     },
     "sketch": {
-      "calls": 28,
-      "input": 102393,
+      "calls": 29,
+      "input": 110042,
       "cacheRead": 0,
-      "cacheWrite": 93043,
-      "output": 48855,
-      "usd": 0.64596806
+      "cacheWrite": 96801,
+      "output": 50579,
+      "usd": 0.68790106
     },
     "tend": {
       "calls": 18,

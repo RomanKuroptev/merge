@@ -1,38 +1,39 @@
 {
-  "updatedAt": "2026-11-23T18:44:42.950Z",
+  "updatedAt": "2026-11-23T18:59:54.516Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T18:44:42.950Z",
+    "at": "2026-11-23T18:59:54.516Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: rest, sketched \"Fish in the Glass Case\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:cb76ef97",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Fish in the Glass Case",
-      "until": "2026-11-23T18:59:47.102Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-23T19:59:54.516Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T17:29:39.794Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1218,
+    "ticks": 1233,
     "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 20,
+      "thought": 21,
       "read": 9,
       "decide": 9,
-      "sketch": 4,
+      "sketch": 5,
       "screen": 1,
       "reply": 1,
       "tend": 4,
@@ -41,10 +42,10 @@
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.011176899999999998,
+      "thought": 0.011699599999999998,
       "read": 0.0033377650000000003,
       "decide": 0.013726790000000003,
-      "sketch": 0.149072,
+      "sketch": 0.191005,
       "screen": 0.0001063,
       "reply": 0.010717,
       "tend": 0.0051106,
@@ -52,7 +53,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -66,7 +67,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
-      "rest": 3,
+      "rest": 4,
       "tend home": 4,
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
@@ -100,11 +101,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 236
+    "minutes": 251
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.86359097,
+    "monthUsd": 2.90604667,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -112,12 +113,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 8,
+      "made": 9,
       "wouldFire": 1,
       "byKind": {
         "meme": 2,
         "tool": 4,
-        "art": 2
+        "art": 3
       }
     },
     "texts": {
@@ -134,8 +135,8 @@
     },
     "oneHost": null,
     "draws": {
-      "collisionsUsed": 8,
-      "constraintsOffered": 8,
+      "collisionsUsed": 9,
+      "constraintsOffered": 9,
       "constraintsRefused": 0
     },
     "places": {
@@ -146,7 +147,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 3 times today",
+    "started \"rest\" 4 times today",
     "started \"tend home\" 4 times today"
   ]
 }
