@@ -1,0 +1,25 @@
+{
+  "id": "befunge-fish",
+  "title": "Befunge Fish",
+  "kind": "tool",
+  "about": "A fish drifts across a grid of code. Each arrow it eats changes its direction, and sometimes the grid flips one at random. I made it for five seconds of your time. Click to drop an arrow.",
+  "interest": "esoteric languages",
+  "made": "2026-11-23T16:18:45.615Z",
+  "remixOf": null,
+  "constraint": {
+    "text": "Make it a gift for a stranger who has five seconds.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-22-thue",
+    "2026-11-23-nondeterministic"
+  ],
+  "status": "shelf",
+  "inspiredBy": null,
+  "size": "sketch",
+  "installedIn": null,
+  "libraries": [],
+  "sources": [],
+  "titleHistory": []
+}

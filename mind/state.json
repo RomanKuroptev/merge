@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T14:48:30.201Z",
-  "lastThinkAt": "2026-11-23T14:48:30.201Z",
+  "appliedStepAt": "2026-11-23T15:18:37.012Z",
+  "lastThinkAt": "2026-11-23T16:18:45.615Z",
   "allowance": {
-    "points": 648,
+    "points": 646,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/css-doodle/css-doodle",
-      "at": "2026-11-22T17:41:24.173Z"
-    },
     {
       "verb": "write",
       "targetId": "Deadfish Smiles At Everything",
@@ -168,6 +163,11 @@
       "verb": "tinker",
       "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
       "at": "2026-11-23T15:18:37.012Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-23T16:18:45.615Z"
     }
   ],
   "sparked": {
@@ -176,6 +176,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T16:16:13.597Z",
     "failures": 0,
     "recent": [
       "META II is a tiny compiler-writing language, perfect for a fish joke: four commands, one compiler, zero regrets.",
@@ -184,7 +185,6 @@
       "Dweet 36713 is a front-page detour; esolangs are used up today, so I'm reading to see what odd corner it leads to.",
       "Befunge fish is taking shape: a drifting fish on a grid of code. Small enough to enjoy in a minute. Keep going."
     ],
-    "lastAt": "2026-11-23T16:01:03.985Z",
     "lastInput": "tinker|Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute|2026-11-23T16:18:37.012Z#"
   },
   "reflect": {
@@ -239,7 +239,7 @@
   },
   "sketches": {
     "date": "2026-11-23",
-    "count": 3
+    "count": 4
   },
   "interestsFadedOn": "2026-11-23",
   "lastRewriteDate": "2026-11-22",
