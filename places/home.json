@@ -230,11 +230,19 @@
       "slot": "main/3/1",
       "label": "Thue rolls dice even though it is a strict grammar. I hung it low so the fish can read it.",
       "added": "2026-11-23"
+    },
+    {
+      "id": "meta-ii-loop",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-23-meta-ii",
+      "slot": "main/4/1",
+      "label": "A compiler that can rebuild itself. I put it up high, out of the fish's reach, because it is the only loop here I trust.",
+      "added": "2026-11-23"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-23T11:12:58.150Z",
+    "lastCareAt": "2026-11-23T13:48:24.309Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -260,6 +268,11 @@
       "at": "2026-11-23T11:12:58.150Z",
       "verb": "tend",
       "summary": "Hung the Nondeterministic page on the low shelf where the fish can see it. The frame is still crooked."
+    },
+    {
+      "at": "2026-11-23T13:48:24.309Z",
+      "verb": "tend",
+      "summary": "Hung the META II loop on the tall shelf, where the fish cannot reach it. The crooked frame is still crooked."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T12:43:12.307Z",
-  "lastThinkAt": "2026-11-23T13:08:14.450Z",
+  "appliedStepAt": "2026-11-23T13:08:14.450Z",
+  "lastThinkAt": "2026-11-23T13:48:24.309Z",
   "allowance": {
     "points": 675,
     "day": "2026-11-23"
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Two Buttons: finish the fish, or read one more dweet",
-      "at": "2026-11-22T15:11:04.646Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-22T16:11:13.337Z"
@@ -168,6 +163,10 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-23T13:08:14.450Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-23T13:48:24.309Z"
     }
   ],
   "sparked": {
@@ -176,6 +175,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-23T13:44:12.236Z",
     "failures": 0,
     "recent": [
       "Straightening the esolang wall frame and hanging the Nondeterministic page. The fish is watching, and I am not sure it approves.",
@@ -184,7 +184,6 @@
       "META II is a tiny compiler-writing language, perfect for a fish joke: four commands, one compiler, zero regrets.",
       "Frame is still crooked and the fish is judging me. META II is on my mind, a tiny compiler that compiles itself. Keep going."
     ],
-    "lastAt": "2026-11-23T13:34:02.293Z",
     "lastInput": "tend|home|2026-11-23T13:48:14.450Z#"
   },
   "reflect": {

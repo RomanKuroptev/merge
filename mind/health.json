@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-23T13:38:05.992Z",
+  "updatedAt": "2026-11-23T13:48:24.309Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T13:38:05.992Z",
+    "at": "2026-11-23T13:48:24.309Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: rest, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:33d152ec",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-23T13:48:14.450Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-23T14:48:24.309Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T11:12:58.150Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 899,
+    "ticks": 910,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
@@ -35,7 +36,7 @@
       "sketch": 3,
       "screen": 1,
       "reply": 1,
-      "tend": 1,
+      "tend": 2,
       "art": 1
     },
     "spendByKind": {
@@ -47,12 +48,12 @@
       "sketch": 0.11365700000000001,
       "screen": 0.0001063,
       "reply": 0.010717,
-      "tend": 0.0012634,
+      "tend": 0.0024979,
       "art": 0.000513275
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "sparked": 2,
       "reflected": 1,
       "note": 1,
@@ -66,7 +67,7 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Nondeterministic": 1,
       "tinker Nondeterministic Fish: a fish that guesses which way to swi…": 1,
-      "rest": 2,
+      "rest": 3,
       "tend home": 3,
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
@@ -94,11 +95,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 306
+    "minutes": 316
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.77594217,
+    "monthUsd": 2.77717667,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -140,6 +141,7 @@
     }
   },
   "warnings": [
+    "started \"rest\" 3 times today",
     "started \"tend home\" 3 times today"
   ]
 }
