@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    21.83,
+    8,
     0,
-    15.08
+    16
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-23T16:18:45.615Z",
-    "seed": 1958313457,
-    "reason": "Straighten the crooked frame on the esolang wall and hang the Nondeterministic page where the fish can see it.",
-    "goalRef": "today:2"
+    "targetId": "home",
+    "startedAt": "2026-11-23T16:31:16.693Z",
+    "seed": 520669266,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-23T16:18:45.615Z",
+  "lastTickAt": "2026-11-23T16:31:28.834Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
