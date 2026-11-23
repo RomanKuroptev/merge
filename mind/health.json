@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-23T20:30:06.272Z",
+  "updatedAt": "2026-11-23T20:44:34.363Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T20:30:06.272Z",
+    "at": "2026-11-23T20:44:34.363Z",
     "asleep": false,
-    "summary": "step 2/3: found, wandered from https://www.dwitter.net/d/36710",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,12 +24,12 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1326,
+    "ticks": 1341,
     "decideCalls": 12,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 22,
+      "thought": 23,
       "read": 12,
       "decide": 10,
       "sketch": 5,
@@ -43,7 +41,7 @@
     "spendByKind": {
       "reflection": 0.0529,
       "morning": 0.004270455,
-      "thought": 0.012245599999999997,
+      "thought": 0.012812599999999997,
       "read": 0.0040668200000000005,
       "decide": 0.016314665000000002,
       "sketch": 0.191005,
@@ -107,11 +105,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 339
+    "minutes": 353
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.90990961,
+    "monthUsd": 2.91047661,
     "capUsd": 15,
     "paceUsd": 11.5
   },
