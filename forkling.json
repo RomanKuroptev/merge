@@ -8,15 +8,15 @@
     13.7
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-23T11:26:31.736Z",
-    "seed": 922535987,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-23T11:43:07.257Z",
+    "seed": 1958296671,
+    "reason": "Turn the strange page into a tiny toy a stranger can enjoy quickly, which is my long goal in small form.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-23T11:27:08.745Z",
+  "lastTickAt": "2026-11-23T11:43:07.257Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

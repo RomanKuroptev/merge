@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-23T11:27:08.745Z",
+  "updatedAt": "2026-11-23T11:43:07.257Z",
   "engine": "v0.19.3",
   "date": "2026-11-23",
   "lastTick": {
-    "at": "2026-11-23T11:27:08.745Z",
+    "at": "2026-11-23T11:43:07.257Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/5: tinker, wandered from META II",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-23:33d152ec",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "META II",
-      "until": "2026-11-23T11:42:58.150Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Brainfuck Fish: a fish that eats its own code one head at a…",
+      "until": "2026-11-23T12:43:07.257Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-23T11:12:58.150Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 765,
+    "ticks": 782,
     "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 10,
-      "read": 2,
+      "read": 5,
       "decide": 5,
       "sketch": 2,
       "screen": 1,
@@ -41,7 +43,7 @@
       "reflection": 0.0529,
       "morning": 0.004270455,
       "thought": 0.005548099999999999,
-      "read": 0.0010882650000000002,
+      "read": 0.0024083200000000003,
       "decide": 0.007148375000000001,
       "sketch": 0.069576,
       "screen": 0.0001063,
@@ -50,7 +52,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 7,
+      "stepDone": 8,
       "sparked": 1,
       "reflected": 1,
       "note": 1,
@@ -68,13 +70,14 @@
       "tend home": 2,
       "reply n-2026-11-23-a3dc69": 1,
       "tinker Poke the Fish: a fish that reacts to a poke or to your name…": 1,
-      "wander META II": 1
+      "wander META II": 1,
+      "tinker Brainfuck Fish: a fish that eats its own code one head at a…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 5,
       "max": 40
     }
   },
@@ -83,18 +86,18 @@
     "topHost": null
   },
   "allowance": {
-    "points": 710,
+    "points": 687,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 175
+    "minutes": 191
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.72708346,
+    "monthUsd": 2.72840351,
     "capUsd": 15,
     "paceUsd": 11.5
   },
@@ -117,8 +120,8 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 11,
-      "strangers": 11,
+      "trips": 12,
+      "strangers": 12,
       "share": 1,
       "noDoorDays": 0
     },

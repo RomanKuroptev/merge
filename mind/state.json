@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-23",
-  "appliedStepAt": "2026-11-23T10:32:52.887Z",
+  "appliedStepAt": "2026-11-23T11:12:58.150Z",
   "lastThinkAt": "2026-11-23T11:12:58.150Z",
   "allowance": {
-    "points": 710,
+    "points": 687,
     "day": "2026-11-23"
   },
   "prices": {
@@ -73,11 +73,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "workshop",
-      "at": "2026-11-22T14:19:37.803Z"
-    },
     {
       "verb": "build",
       "targetId": "deadfish-face-interpreter",
@@ -168,14 +163,23 @@
       "verb": "wander",
       "targetId": "META II",
       "at": "2026-11-23T11:12:58.150Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute",
+      "at": "2026-11-23T11:43:07.257Z"
     }
   ],
   "sparked": {
     "date": "2026-11-23",
     "count": 1,
-    "pending": null
+    "pending": {
+      "topic": "turing completeness",
+      "gain": 27.999999999999996
+    }
   },
   "thought": {
+    "lastAt": "2026-11-23T11:42:26.231Z",
     "failures": 0,
     "recent": [
       "Poke the Fish is the five-second toy Roman asked for. Sketch it, then rest.",
@@ -184,11 +188,10 @@
       "Straightening the esolang wall frame and hanging the Nondeterministic page. The fish is watching, and I am not sure it approves.",
       "Reading META II now, then a fish toy about how small a compiler can be."
     ],
-    "lastAt": "2026-11-23T11:27:08.745Z",
     "lastInput": "wander|META II|2026-11-23T11:42:58.150Z#"
   },
   "reflect": {
-    "sum": 47,
+    "sum": 56,
     "lastAt": "2026-11-23T08:14:48.445Z",
     "date": "2026-11-23",
     "today": 2,
@@ -280,11 +283,12 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-23",
-    "reads": 2,
-    "trips": 1,
+    "reads": 5,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/nondeterministic"
+      "https://esolangs.org/wiki/nondeterministic",
+      "meta ii"
     ]
   },
   "doorDays": [
@@ -300,91 +304,11 @@
     },
     {
       "date": "2026-11-23",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Sergio Barbero",
-      "url": "https://en.wikipedia.org/wiki/Sergio_Barbero"
-    },
-    {
-      "title": "Quinn Simmons",
-      "url": "https://en.wikipedia.org/wiki/Quinn_Simmons"
-    },
-    {
-      "title": "Utsunomiya",
-      "url": "https://en.wikipedia.org/wiki/Utsunomiya"
-    },
-    {
-      "title": "1990 UCI Road World Championships",
-      "url": "https://en.wikipedia.org/wiki/1990_UCI_Road_World_Championships"
-    },
-    {
-      "title": "1996 UCI Road World Cup",
-      "url": "https://en.wikipedia.org/wiki/1996_UCI_Road_World_Cup"
-    },
-    {
-      "title": "Team LottoNL–Jumbo",
-      "url": "https://en.wikipedia.org/wiki/Team_LottoNL–Jumbo"
-    },
-    {
-      "title": "UCI WorldTeam",
-      "url": "https://en.wikipedia.org/wiki/UCI_WorldTeam"
-    },
-    {
-      "title": "Orbea",
-      "url": "https://en.wikipedia.org/wiki/Orbea"
-    },
-    {
-      "title": "Shimano",
-      "url": "https://en.wikipedia.org/wiki/Shimano"
-    },
-    {
-      "title": "Stéphane Heulot",
-      "url": "https://en.wikipedia.org/wiki/Stéphane_Heulot"
-    },
-    {
-      "title": "Marc Sergeant",
-      "url": "https://en.wikipedia.org/wiki/Marc_Sergeant"
-    },
-    {
-      "title": "2025 Lotto season",
-      "url": "https://en.wikipedia.org/wiki/2025_Lotto_season"
-    },
-    {
-      "title": "Union Cycliste Internationale",
-      "url": "https://en.wikipedia.org/wiki/Union_Cycliste_Internationale"
-    },
-    {
-      "title": "Cycling team",
-      "url": "https://en.wikipedia.org/wiki/Cycling_team"
-    },
-    {
-      "title": "UCI WorldTour",
-      "url": "https://en.wikipedia.org/wiki/UCI_WorldTour"
-    },
-    {
-      "title": "Leonxlnx/tastecode",
-      "url": "https://github.com/Leonxlnx/tastecode"
-    },
-    {
-      "title": "grifdail/NodePainter",
-      "url": "https://github.com/grifdail/NodePainter"
-    },
-    {
-      "title": "ma1902056219-coder/openpixel",
-      "url": "https://github.com/ma1902056219-coder/openpixel"
-    },
-    {
-      "title": "manaflow-ai/cmux",
-      "url": "https://github.com/manaflow-ai/cmux"
-    },
-    {
-      "title": "tt-a1i/archify",
-      "url": "https://github.com/tt-a1i/archify"
-    },
     {
       "title": "Chat2AnyLLM/awesome-claude-skills",
       "url": "https://github.com/Chat2AnyLLM/awesome-claude-skills"
@@ -582,10 +506,6 @@
       "url": "https://esolangs.org/wiki/Regular_expression"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "John Colagioia",
       "url": "https://esolangs.org/wiki/John_Colagioia"
     },
@@ -618,16 +538,8 @@
       "url": "https://esolangs.org/wiki/Kolakoski_sequence"
     },
     {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
       "title": "Unrestricted grammar",
       "url": "https://esolangs.org/wiki/Unrestricted_grammar"
-    },
-    {
-      "title": "Turing machine",
-      "url": "https://esolangs.org/wiki/Turing_machine"
     },
     {
       "title": "L-system",
@@ -644,14 +556,6 @@
     {
       "title": "Linear bounded automata",
       "url": "https://esolangs.org/wiki/Linear_bounded_automata"
-    },
-    {
-      "title": "Pushdown automata",
-      "url": "https://esolangs.org/wiki/Pushdown_automata"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
       "title": "Finite state automata",
@@ -704,6 +608,106 @@
     {
       "title": "Pointer",
       "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "Dewey Val Schorre",
+      "url": "https://esolangs.org/wiki/Dewey_Val_Schorre"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "Pushdown automata",
+      "url": "https://esolangs.org/wiki/Pushdown_automata"
+    },
+    {
+      "title": "Zaddy",
+      "url": "https://esolangs.org/wiki/Zaddy"
+    },
+    {
+      "title": "Metacompiler",
+      "url": "https://esolangs.org/wiki/Metacompiler"
+    },
+    {
+      "title": "Turing-complete",
+      "url": "https://esolangs.org/wiki/Turing-complete"
+    },
+    {
+      "title": "Tmg",
+      "url": "https://esolangs.org/wiki/Tmg"
+    },
+    {
+      "title": "Turing machine",
+      "url": "https://esolangs.org/wiki/Turing_machine"
+    },
+    {
+      "title": "Church-Turing thesis",
+      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
+    },
+    {
+      "title": "Finite-state automaton",
+      "url": "https://esolangs.org/wiki/Finite-state_automaton"
+    },
+    {
+      "title": "Ackermann function",
+      "url": "https://esolangs.org/wiki/Ackermann_function"
+    },
+    {
+      "title": "SMETANA",
+      "url": "https://esolangs.org/wiki/SMETANA"
+    },
+    {
+      "title": "Malbolge",
+      "url": "https://esolangs.org/wiki/Malbolge"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Fm",
+      "url": "https://esolangs.org/wiki/Fm"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Dupdog",
+      "url": "https://esolangs.org/wiki/Dupdog"
+    },
+    {
+      "title": "Xigxag",
+      "url": "https://esolangs.org/wiki/Xigxag"
+    },
+    {
+      "title": "Befunge",
+      "url": "https://esolangs.org/wiki/Befunge"
+    },
+    {
+      "title": "ASCII",
+      "url": "https://esolangs.org/wiki/ASCII"
+    },
+    {
+      "title": "Counter machine",
+      "url": "https://esolangs.org/wiki/Counter_machine"
+    },
+    {
+      "title": "The Waterfall Model",
+      "url": "https://esolangs.org/wiki/The_Waterfall_Model"
+    },
+    {
+      "title": "Wire-crossing problem",
+      "url": "https://esolangs.org/wiki/Wire-crossing_problem"
+    },
+    {
+      "title": "Bounded-storage machine",
+      "url": "https://esolangs.org/wiki/Bounded-storage_machine"
+    },
+    {
+      "title": "The Esoteric File Archive",
+      "url": "https://esolangs.org/wiki/The_Esoteric_File_Archive"
     }
   ],
   "points": {

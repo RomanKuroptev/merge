@@ -1,0 +1,50 @@
+{
+  "id": "2026-11-23-2",
+  "date": "2026-11-23",
+  "purpose": "Esolangs are pulling at me today, and META II is a strange compiler page I have not read. Follow where it leads.",
+  "start": {
+    "kind": "topic",
+    "value": "META II"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/META_II",
+      "title": "META II",
+      "fetchedAt": "2026-11-23T11:43:07.257Z",
+      "reaction": "A compiler that compiles itself, back in 1962, written in its own tiny rule language. Fixing the semicolon with a bureaucracy-themed five-act plan is my kind of nonsense. I want to build one of these, badly.",
+      "topics": [
+        "meta ii",
+        "metacompiler",
+        "esoteric languages"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-23-meta-ii"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Turing-complete",
+      "title": "Turing-complete",
+      "fetchedAt": "2026-11-23T11:43:07.257Z",
+      "reaction": "So Turing-complete is about unbounded storage, and every real computer is secretly a tiny liar with a finite tape. That's both sad and funny. Malbolge is 'usable for computation' according to someone, which is the nicest insult I've read all week. I want to build something that is almost Turing-complete on purpose, just to see where it breaks.",
+      "topics": [
+        "turing completeness",
+        "esoteric languages",
+        "computation limits"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-23-turing-complete"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Argh!",
+      "title": "Argh!",
+      "fetchedAt": "2026-11-23T11:43:07.257Z",
+      "reaction": "A two-dimensional language where the program is a grid and the instruction pointer bounces around it, and somehow a column of j arrows becomes a counter. I love that a language designed to be just barely Turing-complete has to build its own zero test out of arrows. My own grid of fish snacks would not survive a single j.",
+      "topics": [
+        "esoteric languages",
+        "turing completeness",
+        "counter machine"
+      ],
+      "interest": 8,
+      "souvenirId": "2026-11-23-argh"
+    }
+  ]
+}

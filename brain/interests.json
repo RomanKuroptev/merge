@@ -214,7 +214,7 @@
     "esoteric languages": {
       "weight": 100,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-23T06:13:17.200Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -223,67 +223,31 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "2026-11-22-thue",
-          "title": "Thue",
-          "url": "https://esolangs.org/wiki/Thue",
-          "at": "2026-11-22T11:07:42.379Z"
+          "id": "trail:2026-11-23-2",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
         },
         {
-          "id": "trail:2026-11-23-1",
-          "title": "Nondeterministic",
-          "url": "https://esolangs.org/wiki/Nondeterministic",
-          "at": "2026-11-23T06:13:17.200Z"
+          "id": "2026-11-23-meta-ii",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
         },
         {
-          "id": "2026-11-23-nondeterministic",
-          "title": "Nondeterministic",
-          "url": "https://esolangs.org/wiki/Nondeterministic",
-          "at": "2026-11-23T06:13:17.200Z"
+          "id": "2026-11-23-turing-complete",
+          "title": "Turing-complete",
+          "url": "https://esolangs.org/wiki/Turing-complete",
+          "at": "2026-11-23T11:43:07.257Z"
         },
         {
-          "id": "2026-11-23-formal-grammar",
-          "title": "Formal grammar",
-          "url": "https://esolangs.org/wiki/Formal_grammar",
-          "at": "2026-11-23T06:13:17.200Z"
+          "id": "2026-11-23-argh",
+          "title": "Argh!",
+          "url": "https://esolangs.org/wiki/Argh!",
+          "at": "2026-11-23T11:43:07.257Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-22T07:34:24.769Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-1"
-        },
         {
           "at": "2026-11-22T07:34:24.769Z",
           "change": 10,
@@ -367,6 +331,42 @@
           "change": 0,
           "event": "souvenir",
           "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
         }
       ]
     },
@@ -860,9 +860,9 @@
       ]
     },
     "turing completeness": {
-      "weight": 29.3,
+      "weight": 57.3,
       "firstSeen": "2026-11-22T07:34:24.769Z",
-      "lastFed": "2026-11-23T06:13:17.200Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
       "sources": [
         {
           "id": "trail:2026-11-22-1",
@@ -871,28 +871,28 @@
           "at": "2026-11-22T07:34:24.769Z"
         },
         {
-          "id": "2026-11-22-bitwise-cyclic-tag",
-          "title": "Bitwise Cyclic Tag",
-          "url": "https://esolangs.org/wiki/Bitwise_Cyclic_Tag",
-          "at": "2026-11-22T07:34:24.769Z"
-        },
-        {
-          "id": "trail:2026-11-22-2",
-          "title": "Computational class",
-          "url": "https://esolangs.org/wiki/Computational_class",
-          "at": "2026-11-22T11:07:42.379Z"
-        },
-        {
-          "id": "trail:2026-11-23-1",
-          "title": "Formal grammar",
-          "url": "https://esolangs.org/wiki/Formal_grammar",
-          "at": "2026-11-23T06:13:17.200Z"
-        },
-        {
           "id": "2026-11-23-formal-grammar",
           "title": "Formal grammar",
           "url": "https://esolangs.org/wiki/Formal_grammar",
           "at": "2026-11-23T06:13:17.200Z"
+        },
+        {
+          "id": "trail:2026-11-23-2",
+          "title": "Turing-complete",
+          "url": "https://esolangs.org/wiki/Turing-complete",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-turing-complete",
+          "title": "Turing-complete",
+          "url": "https://esolangs.org/wiki/Turing-complete",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-argh",
+          "title": "Argh!",
+          "url": "https://esolangs.org/wiki/Argh!",
+          "at": "2026-11-23T11:43:07.257Z"
         }
       ],
       "history": [
@@ -925,6 +925,30 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-23-1"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
         }
       ]
     },
@@ -1501,6 +1525,138 @@
           "change": 6,
           "event": "note",
           "trail": "note:n-2026-11-23-a3dc69"
+        }
+      ]
+    },
+    "meta ii": {
+      "weight": 14,
+      "firstSeen": "2026-11-23T11:43:07.257Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-23-2",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-meta-ii",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        }
+      ]
+    },
+    "metacompiler": {
+      "weight": 14,
+      "firstSeen": "2026-11-23T11:43:07.257Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-23-2",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-meta-ii",
+          "title": "META II",
+          "url": "https://esolangs.org/wiki/META_II",
+          "at": "2026-11-23T11:43:07.257Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        }
+      ]
+    },
+    "computation limits": {
+      "weight": 14,
+      "firstSeen": "2026-11-23T11:43:07.257Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-23-2",
+          "title": "Turing-complete",
+          "url": "https://esolangs.org/wiki/Turing-complete",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-turing-complete",
+          "title": "Turing-complete",
+          "url": "https://esolangs.org/wiki/Turing-complete",
+          "at": "2026-11-23T11:43:07.257Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
+        }
+      ]
+    },
+    "counter machine": {
+      "weight": 14,
+      "firstSeen": "2026-11-23T11:43:07.257Z",
+      "lastFed": "2026-11-23T11:43:07.257Z",
+      "sources": [
+        {
+          "id": "trail:2026-11-23-2",
+          "title": "Argh!",
+          "url": "https://esolangs.org/wiki/Argh!",
+          "at": "2026-11-23T11:43:07.257Z"
+        },
+        {
+          "id": "2026-11-23-argh",
+          "title": "Argh!",
+          "url": "https://esolangs.org/wiki/Argh!",
+          "at": "2026-11-23T11:43:07.257Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-23-2"
+        },
+        {
+          "at": "2026-11-23T11:43:07.257Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-23-2"
         }
       ]
     }
