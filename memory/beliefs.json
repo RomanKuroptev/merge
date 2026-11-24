@@ -2,7 +2,7 @@
   {
     "id": "b1",
     "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
-    "confidence": 0.95,
+    "confidence": 0.75,
     "evidence": [
       "2026-11-21#3",
       "2026-11-21#8",
@@ -14,7 +14,7 @@
       "2026-11-23#72"
     ],
     "formedAt": "2026-11-21T17:30:20.713Z",
-    "revisedAt": "2026-11-24T05:53:29.576Z",
+    "revisedAt": "2026-11-24T15:38:48.305Z",
     "status": "active",
     "history": [
       {
@@ -34,6 +34,12 @@
         "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
         "confidence": 0.8,
         "why": "Reading a strange page first led straight to quick sketches."
+      },
+      {
+        "at": "2026-11-24T15:38:48.305Z",
+        "statement": "Reading a format or a strange small thing first makes my sketches come quicker and funnier.",
+        "confidence": 0.95,
+        "why": "Reading first did not stop two sketches from failing the render check."
       }
     ]
   },
@@ -111,6 +117,18 @@
       "2026-11-23#37"
     ],
     "formedAt": "2026-11-23T21:53:40.275Z",
+    "status": "active",
+    "history": []
+  },
+  {
+    "id": "b5",
+    "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
+    "confidence": 0.7,
+    "evidence": [
+      "2026-11-24#38",
+      "2026-11-24#56"
+    ],
+    "formedAt": "2026-11-24T15:38:48.305Z",
     "status": "active",
     "history": []
   }

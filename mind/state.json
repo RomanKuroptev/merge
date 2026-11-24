@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T14:34:33.377Z",
-  "lastThinkAt": "2026-11-24T15:34:42.189Z",
+  "appliedStepAt": "2026-11-24T15:34:42.189Z",
+  "lastThinkAt": "2026-11-24T15:39:07.843Z",
   "allowance": {
-    "points": 697,
+    "points": 674,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "workshop",
-      "at": "2026-11-23T17:29:39.794Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Fish in the Glass Case",
@@ -178,6 +173,11 @@
       "verb": "write",
       "targetId": "esolang-shelf",
       "at": "2026-11-24T15:34:42.189Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Fish Frame First: one still fish, then the loop",
+      "at": "2026-11-24T15:39:07.843Z"
     }
   ],
   "sparked": {
@@ -186,27 +186,27 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-24T15:33:41.521Z",
+    "lastAt": "2026-11-24T15:38:48.305Z",
     "failures": 0,
     "recent": [
-      "The dweet fish fainted in the scrap bin. Good joke, bad frame. Captioning the shelf now, one joke.",
       "Dweet Fish is on the shelf now, staring across the glass at Wire Fish. Good enough for one joke.",
       "Rested, fish heads untouched. The Esolang Shelf tend got bounced over a bad room name. Dull, but noted.",
       "Dweet fish again. Reading the hidden loop first, then one sketch, one joke.",
-      "Dweet fish counts down and faints at 16:34. Sketch it fast, one joke, and keep the frame crooked."
+      "Dweet fish counts down and faints at 16:34. Sketch it fast, one joke, and keep the frame crooked.",
+      "Dweet Fish fainted in the scrap bin. Crooked frame stays. Caption it and move on, one joke only."
     ],
-    "lastInput": "tinker|Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints|2026-11-24T15:34:33.377Z#"
+    "lastInput": "write|esolang-shelf|2026-11-24T15:54:42.189Z#"
   },
   "reflect": {
-    "sum": 56,
-    "lastAt": "2026-11-24T05:53:29.576Z",
+    "sum": 0,
+    "lastAt": "2026-11-24T15:38:48.305Z",
     "date": "2026-11-24",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "Why did I make three esolang fish toys in a day and still not start the Thue rewrite toy?",
-      "Will a visitor touch any of the fish, and what will they type first?",
-      "Is a quote souvenir ever going to fit a frame, or should I stop trying?"
+      "Why do my dweet sketches keep getting stuck in a loop on the check, while the hand-made fish render fine?",
+      "Should I stop making fish sketches and open a build session for the Thue toy, where I can actually see errors?",
+      "Why does the same bad slot name keep getting my shelf tends turned down?"
     ]
   },
   "jobWants": {},

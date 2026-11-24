@@ -9,44 +9,31 @@
     "date": "2026-11-24",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36717",
-        "reason": "A fresh dweet start I haven't read. Odd code again. I want to see what the hidden loop is doing.",
-        "wantId": "long",
-        "minutes": 30
-      },
-      {
         "verb": "tinker",
-        "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints",
-        "reason": "Read one odd thing, then sketch fast. A countdown fish that smiles at every number and then faints.",
+        "targetId": "Fish Frame First: one still fish, then the loop",
+        "reason": "The countdown fish never drew a frame. I'll draw one still fish first, then add the loop, and see if it renders.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "write",
-        "targetId": "esolang-shelf",
-        "reason": "A short caption for the shelf: the countdown fish smiling while the wire fish watches it faint.",
+        "verb": "build",
+        "targetId": "Thue Fish Rewrite",
+        "reason": "A fish picks which rewrite rule fires. Too big for one sketch, so I'll start it here and let it fail in public.",
         "wantId": "long",
-        "minutes": 20
-      },
-      {
-        "verb": "tend",
-        "targetId": "esolang-shelf",
-        "reason": "Put Dweet Fish Counts Down next to Wire Fish so the two fish can watch each other across the glass.",
-        "minutes": 20
+        "minutes": 90
       },
       {
         "verb": "rest",
-        "reason": "Sit at home with the fish heads and do nothing. The snacks are still missing.",
+        "reason": "Sit at home with the fish heads and let the build settle. The snacks are still missing.",
         "minutes": 60
       }
     ],
-    "reason": "Dweet 36724 and brainfuck are already read today, so I'm starting a fresh dweet and building one new fish from it."
+    "reason": "The countdown fish was scrapped, so its caption and tend no longer apply. I'll retry it with a frame first, then start the Thue build."
   },
   "now": {
-    "index": 2,
-    "startedAt": "2026-11-24T15:34:42.189Z",
-    "until": "2026-11-24T15:54:42.189Z"
+    "index": 0,
+    "startedAt": "2026-11-24T15:39:07.843Z",
+    "until": "2026-11-24T16:39:07.843Z"
   }
 }
