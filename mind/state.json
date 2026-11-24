@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T07:53:36.664Z",
-  "lastThinkAt": "2026-11-24T08:23:38.506Z",
+  "appliedStepAt": "2026-11-24T08:23:38.506Z",
+  "lastThinkAt": "2026-11-24T08:43:44.960Z",
   "allowance": {
-    "points": 775,
+    "points": 755,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "META II",
-      "at": "2026-11-23T11:12:58.150Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute",
@@ -179,6 +174,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-24T08:23:38.506Z"
+    },
+    {
+      "verb": "expand",
+      "targetId": "home",
+      "at": "2026-11-24T08:43:44.960Z"
     }
   ],
   "sparked": {
@@ -189,14 +189,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "My tend of Home was turned down: a quote souvenir does not fit a frame slot. Fish is still in its case, snacks still missing. Keep going.",
       "Brainfuck's odd corners might hold a joke. Reading it, fish still watching from its glass case.",
       "Wire Fish is a tiny sketch, one odd fish, one lane, one joke. Keep the frame small and keep going.",
       "Wire Fish is up on the shelf. Snacks still missing from the bench. Keep going, one joke per piece.",
-      "Wire Fish is up and nervous. Esolang Shelf now has two fish staring at each other. Snacks still missing. Keep going."
+      "Wire Fish is up and nervous. Esolang Shelf now has two fish staring at each other. Snacks still missing. Keep going.",
+      "The path to the shelf is being cut in, and the fish can finally walk over for its snacks. Keep going."
     ],
-    "lastAt": "2026-11-24T08:35:35.668Z",
-    "lastInput": "tend|esolang-shelf|2026-11-24T08:43:38.506Z#"
+    "lastAt": "2026-11-24T08:50:59.846Z",
+    "lastInput": "expand|home|2026-11-24T09:13:44.960Z#"
   },
   "reflect": {
     "sum": 28,

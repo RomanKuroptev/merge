@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T08:38:37.560Z",
+  "updatedAt": "2026-11-24T08:53:00.989Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T08:38:37.560Z",
+    "at": "2026-11-24T08:53:00.989Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,39 +12,41 @@
   },
   "plan": {
     "planId": "2026-11-24:9a135263",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-24T08:43:38.506Z",
+      "index": 4,
+      "verb": "expand",
+      "targetId": "home",
+      "until": "2026-11-24T09:13:44.960Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T05:53:29.576Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 584,
+    "ticks": 598,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 4,
+      "thought": 5,
       "read": 1,
       "sketch": 1,
-      "art": 1
+      "art": 1,
+      "tend": 1
     },
     "spendByKind": {
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
-      "thought": 0.0022498,
+      "thought": 0.0028143250000000003,
       "read": 0.0004781,
       "sketch": 0.0374075,
-      "art": 0.000456
+      "art": 0.000456,
+      "tend": 0.0014135250000000001
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3
+      "stepDone": 4
     },
     "failures": 0,
     "rejections": 0,
@@ -54,7 +56,8 @@
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
       "write esolang-shelf": 1,
-      "tend esolang-shelf": 1
+      "tend esolang-shelf": 1,
+      "expand home": 1
     },
     "longestGapMinutes": 2
   },
@@ -72,18 +75,18 @@
     }
   },
   "allowance": {
-    "points": 775,
+    "points": 755,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 166
+    "label": "very good, steady",
+    "minutes": 9
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.02634271,
+    "monthUsd": 3.02832077,
     "capUsd": 15,
     "paceUsd": 12
   },
