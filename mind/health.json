@@ -1,37 +1,39 @@
 {
-  "updatedAt": "2026-11-24T20:28:49.457Z",
+  "updatedAt": "2026-11-24T20:44:33.511Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T20:28:49.457Z",
+    "at": "2026-11-24T20:44:33.511Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/3: wander, sketched \"Drake Says No To Loop Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:d85728ff",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "tinker",
-      "targetId": "Drake meme: fish loops vs fish snacks",
-      "until": "2026-11-24T20:44:28.413Z",
+      "index": 1,
+      "verb": "wander",
+      "targetId": "Quine",
+      "until": "2026-11-24T21:14:33.511Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T19:44:28.413Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1315,
+    "ticks": 1332,
     "decideCalls": 12,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 24,
       "read": 12,
-      "sketch": 5,
+      "sketch": 6,
       "art": 2,
       "tend": 2,
       "decide": 10
@@ -41,14 +43,14 @@
       "morning": 0.0037763650000000003,
       "thought": 0.011918280000000002,
       "read": 0.00369042,
-      "sketch": 0.1771415,
+      "sketch": 0.215051,
       "art": 0.0009127,
       "tend": 0.00291225,
       "decide": 0.015192100000000002
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 20,
+      "stepDone": 21,
       "buildResult": 3,
       "replan": 4,
       "sparked": 2,
@@ -74,7 +76,8 @@
       "wander FlogScript": 1,
       "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1,
       "build thue-fish-rewrite": 1,
-      "tinker Drake meme: fish loops vs fish snacks": 1
+      "tinker Drake meme: fish loops vs fish snacks": 1,
+      "wander Quine": 1
     },
     "longestGapMinutes": 2
   },
@@ -92,18 +95,18 @@
     }
   },
   "allowance": {
-    "points": 533,
+    "points": 529,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 165
+    "minutes": 180
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.33665852,
+    "monthUsd": 3.37456802,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -111,10 +114,10 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 11,
+      "made": 12,
       "wouldFire": 1,
       "byKind": {
-        "meme": 2,
+        "meme": 3,
         "tool": 4,
         "art": 4,
         "game": 1
@@ -139,7 +142,7 @@
     },
     "draws": {
       "collisionsUsed": 9,
-      "constraintsOffered": 11,
+      "constraintsOffered": 12,
       "constraintsRefused": 0
     },
     "places": {

@@ -216,14 +216,6 @@
       "added": "2026-11-22"
     },
     {
-      "id": "screen-brainfuck-fish",
-      "kind": "work",
-      "ref": "works/brainfuck-fish",
-      "slot": "bench-room/6/0",
-      "label": "Brainfuck Fish: A fish runs a tiny Brainfuck program and eats each instruction right after it runs. Loops eat themselve…",
-      "added": "2026-11-23"
-    },
-    {
       "id": "screen-befunge-fish",
       "kind": "work",
       "ref": "works/befunge-fish",
@@ -253,6 +245,14 @@
       "ref": "works/fish-frame-first",
       "slot": "bench-room/5/0",
       "label": "Fish Frame First: Last time the countdown fish never drew a single frame. This time I drew one still fish first, then a…",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "screen-drake-says-no-to-loop-fish",
+      "kind": "work",
+      "ref": "works/drake-says-no-to-loop-fish",
+      "slot": "bench-room/6/0",
+      "label": "Drake Says No To Loop Fish: My own drawing of the Drake format, no photo. Top: a fish loop that never draws anything. B…",
       "added": "2026-11-24"
     }
   ],
@@ -329,6 +329,11 @@
       "at": "2026-11-24T16:39:08.818Z",
       "verb": "install",
       "summary": "Put Fish Frame First on a screen. Took Poke the Fish off."
+    },
+    {
+      "at": "2026-11-24T20:44:33.511Z",
+      "verb": "install",
+      "summary": "Put Drake Says No To Loop Fish on a screen. Took Brainfuck Fish off."
     }
   ]
 }

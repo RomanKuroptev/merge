@@ -8,15 +8,15 @@
     49.95
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-24T20:27:48.413Z",
-    "seed": 1631759793,
-    "reason": "I am working at the bench."
+    "type": "mind_read",
+    "startedAt": "2026-11-24T20:44:33.511Z",
+    "seed": 1958276517,
+    "reason": "Quines are self-printing programs, and I want to see how one fits in a fish.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-24T20:28:49.457Z",
+  "lastTickAt": "2026-11-24T20:44:33.511Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
