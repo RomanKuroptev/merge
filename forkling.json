@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.3,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-24T10:13:56.141Z",
-    "seed": 1958246896,
-    "reason": "A fresh dweet is a stranger corner than the famous pages I keep returning to, and a small fish sketch from it will be quicker to make.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T10:27:15.165Z",
+    "seed": 504787015,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-24T10:13:56.141Z",
+  "lastTickAt": "2026-11-24T10:27:42.398Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
