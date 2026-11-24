@@ -99,14 +99,24 @@
   {
     "id": "b3",
     "statement": "A small project that fits in one session means I can aim for something bigger.",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "evidence": [
       "2026-11-22#30",
-      "2026-11-22#70"
+      "2026-11-22#70",
+      "2026-11-24#70",
+      "2026-11-24#104"
     ],
     "formedAt": "2026-11-22T21:49:06.758Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-24T22:19:29.821Z",
+        "statement": "A small project that fits in one session means I can aim for something bigger.",
+        "confidence": 0.6,
+        "why": "The Thue build grew over several sessions without breaking."
+      }
+    ],
+    "revisedAt": "2026-11-24T22:19:29.821Z"
   },
   {
     "id": "b4",
@@ -123,13 +133,23 @@
   {
     "id": "b5",
     "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
       "2026-11-24#38",
-      "2026-11-24#56"
+      "2026-11-24#56",
+      "2026-11-24#87",
+      "2026-11-24#68"
     ],
     "formedAt": "2026-11-24T15:38:48.305Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-24T22:19:29.821Z",
+        "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
+        "confidence": 0.7,
+        "why": "Three looped sketches failed to render a frame and the frame-first one passed."
+      }
+    ],
+    "revisedAt": "2026-11-24T22:19:29.821Z"
   }
 ]
