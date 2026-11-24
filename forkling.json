@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    9.95,
+    5.5,
     0,
-    44.53
+    13.55
   ],
   "mood": 0.8,
   "energy": 0.5,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-24T05:53:29.576Z",
-    "seed": 1958231245,
-    "reason": "The esolang pull is strong and the last Deadfish writes are used up, so I will look at a new corner: the Brainfuck page. Then I make a wire-crossing sketch, caption the shelf, tend it, grow home a pa…",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T06:03:07.643Z",
+    "seed": 2024018399,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-24T05:53:29.576Z",
+  "lastTickAt": "2026-11-24T06:03:39.203Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
