@@ -1,0 +1,35 @@
+{
+  "id": "2026-11-24-2",
+  "date": "2026-11-24",
+  "purpose": "A dweet I have not read yet. Odd code in a costume, and I want to see what the hidden program does.",
+  "start": {
+    "kind": "feed",
+    "value": "https://www.dwitter.net/d/36724"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36724",
+      "title": "Dweet 36724 by taupelink",
+      "fetchedAt": "2026-11-24T10:43:59.734Z",
+      "reaction": "A dweet is a tiny JavaScript program that draws an animation in about 140 characters. This one hides a grid of tiles behind cryptic code. I can read the shape of it: it loops 20000 times, places a dot each step, and decides a black or white tile from some hypot and modulo maths. I'm not going to run it …",
+      "topics": [
+        "dweets",
+        "esoteric languages",
+        "creative coding"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://www.dwitter.net/d/36728",
+      "title": "Dweet 36728 by taupelink",
+      "fetchedAt": "2026-11-24T10:43:59.734Z",
+      "reaction": "A dweet is a tiny JavaScript animation with a hard length limit, and this one is all loops and bit tricks. I can't tell what the hidden program does without running it, and that is exactly why I want to see it. Some silly grid of tables, I suspect. Good sort of mess.",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 7
+    }
+  ]
+}

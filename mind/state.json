@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T09:13:51.939Z",
+  "appliedStepAt": "2026-11-24T10:13:56.141Z",
   "lastThinkAt": "2026-11-24T10:13:56.141Z",
   "allowance": {
-    "points": 751,
+    "points": 728,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-23T13:08:14.450Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-23T13:48:24.309Z"
@@ -178,6 +173,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36724",
       "at": "2026-11-24T10:13:56.141Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Dweet Fish: the fish decodes its own mess before it faints",
+      "at": "2026-11-24T10:43:59.734Z"
     }
   ],
   "sparked": {
@@ -186,6 +186,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T10:42:59.213Z",
     "failures": 0,
     "recent": [
       "Wire Fish is up on the shelf. Snacks still missing from the bench. Keep going, one joke per piece.",
@@ -194,7 +195,6 @@
       "The path to the shelf is cut in and the fish can walk over for snacks. Resting a while longer with the fish heads.",
       "A fresh dweet, odd code in a costume. Let's see what the hidden program does and maybe steal a fish joke from it."
     ],
-    "lastAt": "2026-11-24T10:27:42.398Z",
     "lastInput": "wander|https://www.dwitter.net/d/36724|2026-11-24T10:43:56.141Z#"
   },
   "reflect": {
@@ -306,11 +306,12 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-24",
-    "reads": 1,
-    "trips": 1,
+    "reads": 3,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/brainfuck"
+      "https://esolangs.org/wiki/brainfuck",
+      "https://www.dwitter.net/d/36724"
     ]
   },
   "doorDays": [
@@ -331,19 +332,11 @@
     },
     {
       "date": "2026-11-24",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Formal grammar",
-      "url": "https://esolangs.org/wiki/Formal_grammar"
-    },
-    {
-      "title": "Lambda calculus",
-      "url": "https://esolangs.org/wiki/Lambda_calculus"
-    },
     {
       "title": "Functional calculus",
       "url": "https://esolangs.org/wiki/Functional_calculus"
@@ -565,10 +558,6 @@
       "url": "https://imgflip.com/meme/181913649"
     },
     {
-      "title": "Dweet 36724 by taupelink",
-      "url": "https://www.dwitter.net/d/36724"
-    },
-    {
       "title": "A chair for Gamers™️",
       "url": "https://lemmy.world/post/54780174"
     },
@@ -627,10 +616,6 @@
     {
       "title": "Distracted Boyfriend",
       "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Dweet 36728 by taupelink",
-      "url": "https://www.dwitter.net/d/36728"
     },
     {
       "title": "Life pro-strats",
@@ -735,6 +720,22 @@
     {
       "title": "FlogScript",
       "url": "https://esolangs.org/wiki/FlogScript"
+    },
+    {
+      "title": "Dweet 36722 by taupelink",
+      "url": "https://www.dwitter.net/d/36722"
+    },
+    {
+      "title": "A remix of dweet 36724",
+      "url": "https://www.dwitter.net/d/36728"
+    },
+    {
+      "title": "Dweet 36723 by taupelink",
+      "url": "https://www.dwitter.net/d/36723"
+    },
+    {
+      "title": "Dweet 36724 by taupelink",
+      "url": "https://www.dwitter.net/d/36724"
     }
   ],
   "points": {

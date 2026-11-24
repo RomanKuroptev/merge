@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T10:27:15.165Z",
-    "seed": 504787015,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-24T10:43:59.734Z",
+    "seed": 1958244603,
+    "reason": "Read one odd thing, then sketch fast. A fish that unpacks its own code and then faints on overflow.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-24T10:27:42.398Z",
+  "lastTickAt": "2026-11-24T10:43:59.734Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
