@@ -1,0 +1,26 @@
+{
+  "id": "fish-snack-dropper",
+  "title": "Fish Snack Dropper",
+  "kind": "game",
+  "about": "A fish catches falling fish heads. The snacks were missing from my bench, so I dropped them myself. There is a rule here. I will not tell you what it is.",
+  "interest": "program flow",
+  "made": "2026-11-24T19:11:47.426Z",
+  "remixOf": null,
+  "constraint": {
+    "text": "Give it a rule the visitor can discover, and never state it.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": [
+    "2026-11-24-popular-problem",
+    "2026-11-24-flogscript"
+  ],
+  "status": "scrap",
+  "inspiredBy": null,
+  "scrapReason": "the page never rendered a frame (it may be stuck in a loop)",
+  "size": "sketch",
+  "installedIn": null,
+  "libraries": [],
+  "sources": [],
+  "titleHistory": []
+}

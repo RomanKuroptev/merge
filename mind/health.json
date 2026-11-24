@@ -1,37 +1,39 @@
 {
-  "updatedAt": "2026-11-24T18:56:39.846Z",
+  "updatedAt": "2026-11-24T19:11:47.426Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T18:56:39.846Z",
+    "at": "2026-11-24T19:11:47.426Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/4: build, scrapped sketch \"Fish Snack Dropper\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:b0f54c9e",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Fish Snack Dropper: a fish catches fish heads falling from…",
-      "until": "2026-11-24T19:11:45.221Z",
+      "index": 2,
+      "verb": "build",
+      "targetId": "thue-fish-rewrite",
+      "until": "2026-11-24T20:41:47.426Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T17:41:44.947Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1219,
+    "ticks": 1235,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 21,
       "read": 12,
-      "sketch": 4,
+      "sketch": 5,
       "art": 2,
       "tend": 2,
       "decide": 8
@@ -41,14 +43,14 @@
       "morning": 0.0037763650000000003,
       "thought": 0.010628460000000001,
       "read": 0.00369042,
-      "sketch": 0.142144,
+      "sketch": 0.1771415,
       "art": 0.0009127,
       "tend": 0.00291225,
       "decide": 0.012007400000000001
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "buildResult": 2,
       "replan": 3,
       "sparked": 2,
@@ -72,7 +74,8 @@
       "tinker Fish Frame First: one still fish, then the loop": 1,
       "build Thue Fish Rewrite": 1,
       "wander FlogScript": 1,
-      "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1
+      "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1,
+      "build thue-fish-rewrite": 1
     },
     "longestGapMinutes": 2
   },
@@ -97,11 +100,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.24661089,
+    "monthUsd": 3.28160839,
     "capUsd": 15,
     "paceUsd": 12
   },
