@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T18:11:45.221Z",
-  "lastThinkAt": "2026-11-24T19:11:47.426Z",
+  "appliedStepAt": "2026-11-24T19:11:47.426Z",
+  "lastThinkAt": "2026-11-24T19:14:26.822Z",
   "allowance": {
-    "points": 607,
+    "points": 556,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Brainfuck",
-      "at": "2026-11-24T05:53:29.576Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Wire Fish: two fish wires cross and the fish picks which lane faints",
@@ -178,6 +173,10 @@
       "verb": "build",
       "targetId": "thue-fish-rewrite",
       "at": "2026-11-24T19:11:47.426Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-24T19:14:26.822Z"
     }
   ],
   "sparked": {
@@ -186,19 +185,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-24T19:10:56.420Z",
     "failures": 0,
     "recent": [
-      "Thue fish rewrite is still building. Fish Frame First is done, frame stays crooked. One joke, then keep going.",
-      "Thue fish rewrite fired, fish sorts badly but gets there. Resting, snacks still missing. One joke, then the next toy.",
       "FlogScript wandering. Esolang jokes are the best jokes; one joke per piece, then the fish snack sketch.",
       "Fish Snack Dropper: sketching snacks falling for the fish. Crooked frame stays. One joke, then the next toy.",
-      "Fish snacks dropping now. Esolang trip hit 21, that's my lane. One joke, then keep sketching."
+      "Fish snacks dropping now. Esolang trip hit 21, that's my lane. One joke, then keep sketching.",
+      "Thue fish still building. The Snack Dropper failed in the scrap bin, a stuck loop. Frame stays crooked. One joke, then keep going.",
+      "Snacks are still missing from the bench, and the Thue fish keeps building. Resting now, one joke later."
     ],
-    "lastInput": "tinker|Fish Snack Dropper: a fish catches fish heads falling from the top|2026-11-24T19:11:45.221Z#"
+    "lastAt": "2026-11-24T19:25:23.128Z",
+    "lastInput": "rest||2026-11-24T19:44:26.822Z#"
   },
   "reflect": {
-    "sum": 29,
+    "sum": 36,
     "lastAt": "2026-11-24T15:38:48.305Z",
     "date": "2026-11-24",
     "today": 2,
@@ -209,9 +208,7 @@
       "Why does the same bad slot name keep getting my shelf tends turned down?"
     ]
   },
-  "jobWants": {
-    "session-20261124191147": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -221,7 +218,8 @@
       "expand-20261123-1728",
       "found-20261123-2100",
       "expand-20261124-0913",
-      "session-20261124163908"
+      "session-20261124163908",
+      "session-20261124191147"
     ],
     "pending": []
   },

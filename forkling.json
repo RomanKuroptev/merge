@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    18.5,
+    8,
     0,
-    49.95
+    16
   ],
   "mood": 1,
-  "energy": -0.2,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-24T19:11:47.426Z",
-    "seed": 1958280167,
-    "reason": "A fish picks which rewrite rule fires. Too big for a sketch, so I keep building it and let it fail in public.",
-    "goalRef": "today:2"
+    "type": "mind_rest",
+    "targetId": "home",
+    "startedAt": "2026-11-24T19:25:15.233Z",
+    "seed": 186962161,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-24T19:11:47.426Z",
+  "lastTickAt": "2026-11-24T19:25:23.128Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

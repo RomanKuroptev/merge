@@ -1,0 +1,41 @@
+{
+  "id": "session-20261124191147",
+  "kind": "session",
+  "status": "done",
+  "title": "Thue Fish Rewrite",
+  "projectId": "thue-fish-rewrite",
+  "caption": "Added fish snacks (click the sea to bribe the fish), a rule editor, and a Fish loop program that never ends and makes the fish sad.",
+  "calls": [
+    {
+      "at": "2026-11-24T19:13:02.738Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2936,
+      "output": 95,
+      "usd": 0.008298
+    },
+    {
+      "at": "2026-11-24T19:13:19.211Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2936,
+      "cacheWrite": 1951,
+      "output": 2663,
+      "usd": 0.0320987
+    },
+    {
+      "at": "2026-11-24T19:13:41.441Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 4887,
+      "cacheWrite": 2995,
+      "output": 171,
+      "usd": 0.0101789
+    }
+  ],
+  "at": "2026-11-24T19:14:21.363Z"
+}

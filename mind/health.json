@@ -1,57 +1,54 @@
 {
-  "updatedAt": "2026-11-24T19:11:47.426Z",
+  "updatedAt": "2026-11-24T19:26:24.025Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T19:11:47.426Z",
+    "at": "2026-11-24T19:26:24.025Z",
     "asleep": false,
-    "summary": "step 3/4: build, scrapped sketch \"Fish Snack Dropper\"",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:b0f54c9e",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "build",
-      "targetId": "thue-fish-rewrite",
-      "until": "2026-11-24T20:41:47.426Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-24T19:44:26.822Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T17:41:44.947Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1235,
-    "decideCalls": 10,
+    "ticks": 1251,
+    "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 21,
+      "thought": 23,
       "read": 12,
       "sketch": 5,
       "art": 2,
       "tend": 2,
-      "decide": 8
+      "decide": 9
     },
     "spendByKind": {
       "reflection": 0.0561195,
       "morning": 0.0037763650000000003,
-      "thought": 0.010628460000000001,
+      "thought": 0.011360055,
       "read": 0.00369042,
       "sketch": 0.1771415,
       "art": 0.0009127,
       "tend": 0.00291225,
-      "decide": 0.012007400000000001
+      "decide": 0.013306100000000001
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
-      "buildResult": 2,
+      "stepDone": 19,
+      "buildResult": 3,
       "replan": 3,
       "sparked": 2,
       "reflected": 1
@@ -66,7 +63,7 @@
       "write esolang-shelf": 3,
       "tend esolang-shelf": 2,
       "expand home": 1,
-      "rest": 3,
+      "rest": 4,
       "wander https://www.dwitter.net/d/36724": 1,
       "tinker Dweet Fish: the fish decodes its own mess before it faints": 1,
       "wander https://www.dwitter.net/d/36717": 1,
@@ -93,18 +90,18 @@
     }
   },
   "allowance": {
-    "points": 607,
+    "points": 556,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 89
+    "minutes": 103
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.28160839,
+    "monthUsd": 3.33421429,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -152,6 +149,6 @@
   },
   "warnings": [
     "started \"write esolang-shelf\" 3 times today",
-    "started \"rest\" 3 times today"
+    "started \"rest\" 4 times today"
   ]
 }
