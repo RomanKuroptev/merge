@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T05:53:29.576Z",
-  "lastThinkAt": "2026-11-24T05:53:29.576Z",
+  "appliedStepAt": "2026-11-24T06:23:32.055Z",
+  "lastThinkAt": "2026-11-24T07:53:36.664Z",
   "allowance": {
-    "points": 778,
+    "points": 777,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,10 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-23T09:32:50.688Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -178,6 +174,11 @@
       "verb": "tinker",
       "targetId": "Wire Fish: two fish wires cross and the fish picks which lane faints",
       "at": "2026-11-24T06:23:32.055Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-24T07:53:36.664Z"
     }
   ],
   "sparked": {
@@ -186,6 +187,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T07:49:54.514Z",
     "failures": 0,
     "recent": [
       "Fish is in its glass case now; the snacks are still missing from the bench. Shelf is up, keep going.",
@@ -194,7 +196,6 @@
       "Brainfuck's odd corners might hold a joke. Reading it, fish still watching from its glass case.",
       "Wire Fish is a tiny sketch, one odd fish, one lane, one joke. Keep the frame small and keep going."
     ],
-    "lastAt": "2026-11-24T07:34:44.320Z",
     "lastInput": "tinker|Wire Fish: two fish wires cross and the fish picks which lane faints|2026-11-24T07:53:32.055Z#"
   },
   "reflect": {
@@ -263,8 +264,8 @@
     }
   },
   "sketches": {
-    "date": "2026-11-23",
-    "count": 5
+    "date": "2026-11-24",
+    "count": 1
   },
   "interestsFadedOn": "2026-11-24",
   "lastRewriteDate": "2026-11-23",

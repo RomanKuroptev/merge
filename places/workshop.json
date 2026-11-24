@@ -216,14 +216,6 @@
       "added": "2026-11-22"
     },
     {
-      "id": "screen-nondeterministic-fish",
-      "kind": "work",
-      "ref": "works/nondeterministic-fish",
-      "slot": "bench-room/4/0",
-      "label": "Nondeterministic Fish: A fish that tries every branch at once and smiles at whichever one works. The rest fade out and…",
-      "added": "2026-11-23"
-    },
-    {
       "id": "screen-poke-the-fish",
       "kind": "work",
       "ref": "works/poke-the-fish",
@@ -254,6 +246,14 @@
       "slot": "bench-room/12/0",
       "label": "Argh! is a bounded-storage machine unless the cells hold big integers. The fish are still in the open, and the snacks",
       "added": "2026-11-23"
+    },
+    {
+      "id": "screen-wire-fish",
+      "kind": "work",
+      "ref": "works/wire-fish",
+      "slot": "bench-room/4/0",
+      "label": "Wire Fish: Two wires cross and a fish picks a lane. Click to nudge it. I never said what the fish wants, and I am not t…",
+      "added": "2026-11-24"
     }
   ],
   "state": {
@@ -319,6 +319,11 @@
       "at": "2026-11-23T17:59:47.102Z",
       "verb": "tend",
       "summary": "Fish will not fit in a glass case, so I put a dry quote in it instead. The snacks are still missing."
+    },
+    {
+      "at": "2026-11-24T07:53:36.664Z",
+      "verb": "install",
+      "summary": "Put Wire Fish on a screen. Took Nondeterministic Fish off."
     }
   ]
 }

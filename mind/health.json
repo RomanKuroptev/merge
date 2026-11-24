@@ -1,46 +1,50 @@
 {
-  "updatedAt": "2026-11-24T07:38:46.194Z",
+  "updatedAt": "2026-11-24T07:53:36.664Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T07:38:46.194Z",
+    "at": "2026-11-24T07:53:36.664Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/6: write, sketched \"Wire Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:9a135263",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Wire Fish: two fish wires cross and the fish picks which la…",
-      "until": "2026-11-24T07:53:32.055Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "esolang-shelf",
+      "until": "2026-11-24T08:23:36.664Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T05:53:29.576Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 522,
+    "ticks": 537,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "thought": 2,
-      "read": 1
+      "read": 1,
+      "sketch": 1
     },
     "spendByKind": {
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
       "thought": 0.00111065,
-      "read": 0.0004781
+      "read": 0.0004781,
+      "sketch": 0.0374075
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 2
     },
     "failures": 0,
     "rejections": 0,
@@ -48,7 +52,8 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1
+      "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
+      "write esolang-shelf": 1
     },
     "longestGapMinutes": 2
   },
@@ -66,18 +71,18 @@
     }
   },
   "allowance": {
-    "points": 778,
+    "points": 777,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 106
+    "minutes": 121
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.98734005,
+    "monthUsd": 3.02474755,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -85,12 +90,13 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 9,
+      "made": 10,
       "wouldFire": 1,
       "byKind": {
         "meme": 2,
         "tool": 4,
-        "art": 3
+        "art": 3,
+        "game": 1
       }
     },
     "texts": {
@@ -112,7 +118,7 @@
     },
     "draws": {
       "collisionsUsed": 9,
-      "constraintsOffered": 9,
+      "constraintsOffered": 10,
       "constraintsRefused": 0
     },
     "places": {
