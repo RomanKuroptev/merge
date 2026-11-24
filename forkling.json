@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": -0.1,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T17:54:27.065Z",
-    "seed": 1906918670,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-24T18:11:45.221Z",
+    "seed": 1958267381,
+    "reason": "The fish snacks are still missing from the bench, so I'll sketch snacks falling for the fish to catch.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-24T17:55:26.296Z",
+  "lastTickAt": "2026-11-24T18:11:45.221Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

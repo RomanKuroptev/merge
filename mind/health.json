@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-24T17:56:26.892Z",
+  "updatedAt": "2026-11-24T18:11:45.221Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T17:56:26.892Z",
+    "at": "2026-11-24T18:11:45.221Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: tinker, wandered from FlogScript",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:b0f54c9e",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "FlogScript",
-      "until": "2026-11-24T18:11:44.947Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Fish Snack Dropper: a fish catches fish heads falling from…",
+      "until": "2026-11-24T19:11:45.221Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T17:41:44.947Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1158,
+    "ticks": 1174,
     "decideCalls": 9,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 19,
-      "read": 9,
+      "thought": 20,
+      "read": 12,
       "sketch": 4,
       "art": 2,
       "tend": 2,
@@ -39,8 +41,8 @@
     "spendByKind": {
       "reflection": 0.0561195,
       "morning": 0.0037763650000000003,
-      "thought": 0.009944765000000001,
-      "read": 0.00231314,
+      "thought": 0.01048859,
+      "read": 0.00369042,
       "sketch": 0.142144,
       "art": 0.0009127,
       "tend": 0.00291225,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 16,
+      "stepDone": 17,
       "buildResult": 2,
       "replan": 3,
       "sparked": 1,
@@ -71,13 +73,14 @@
       "tinker Dweet Fish Counts Down: a tiny loop where the fish smiles u…": 1,
       "tinker Fish Frame First: one still fish, then the loop": 1,
       "build Thue Fish Rewrite": 1,
-      "wander FlogScript": 1
+      "wander FlogScript": 1,
+      "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 9,
+      "used": 12,
       "max": 40
     }
   },
@@ -85,22 +88,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.714
+      "share": 0.625
     }
   },
   "allowance": {
-    "points": 630,
+    "points": 607,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 14
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.24331382,
+    "monthUsd": 3.24523492,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -124,14 +127,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 17,
-      "strangers": 17,
+      "trips": 18,
+      "strangers": 18,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.714,
+      "share": 0.625,
       "wouldFire": true
     },
     "draws": {

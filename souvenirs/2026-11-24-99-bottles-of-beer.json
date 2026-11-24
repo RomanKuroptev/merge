@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-24-99-bottles-of-beer",
+  "why": "It is a neat trap: the test that proves a language can loop can be passed by a language that cannot.",
+  "topics": [
+    "99 bottles of beer",
+    "esoteric languages",
+    "turing completeness"
+  ],
+  "source": {
+    "url": "https://esolangs.org/wiki/99_bottles_of_beer",
+    "title": "99 bottles of beer",
+    "fetchedAt": "2026-11-24T18:11:45.221Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "A language can cheat over it by printing this message without using a loop.",
+  "evidence": "a language can \"cheat\" over it by printing this message without using a loop"
+}
