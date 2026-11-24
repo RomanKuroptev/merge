@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T12:59:06.344Z",
+  "updatedAt": "2026-11-24T13:14:24.478Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T12:59:06.344Z",
+    "at": "2026-11-24T13:14:24.478Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,43 +12,42 @@
   },
   "plan": {
     "planId": "2026-11-24:390ae4c4",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-24T13:04:18.273Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-24T14:04:23.906Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T10:13:56.141Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 851,
+    "ticks": 868,
     "decideCalls": 4,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 11,
+      "thought": 12,
       "read": 3,
       "sketch": 2,
       "art": 2,
-      "tend": 1,
+      "tend": 2,
       "decide": 2
     },
     "spendByKind": {
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
-      "thought": 0.006221175,
+      "thought": 0.0067875,
       "read": 0.00101514,
       "sketch": 0.072773,
       "art": 0.0009127,
-      "tend": 0.0014135250000000001,
+      "tend": 0.00291225,
       "decide": 0.0029587
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
+      "stepDone": 10,
       "buildResult": 1,
       "replan": 1
     },
@@ -62,7 +61,7 @@
       "write esolang-shelf": 2,
       "tend esolang-shelf": 2,
       "expand home": 1,
-      "rest": 1,
+      "rest": 2,
       "wander https://www.dwitter.net/d/36724": 1,
       "tinker Dweet Fish: the fish decodes its own mess before it faints": 1
     },
@@ -89,11 +88,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 165
+    "minutes": 180
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.09202658,
+    "monthUsd": 3.09409164,
     "capUsd": 15,
     "paceUsd": 12
   },

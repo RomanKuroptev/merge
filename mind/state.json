@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T12:14:09.129Z",
-  "lastThinkAt": "2026-11-24T12:44:18.273Z",
+  "appliedStepAt": "2026-11-24T12:44:18.273Z",
+  "lastThinkAt": "2026-11-24T13:04:23.906Z",
   "allowance": {
     "points": 725,
     "day": "2026-11-24"
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
-      "at": "2026-11-23T15:18:37.012Z"
-    },
     {
       "verb": "tend",
       "targetId": "home",
@@ -179,6 +174,10 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-24T12:44:18.273Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-24T13:04:23.906Z"
     }
   ],
   "sparked": {
@@ -189,14 +188,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "A fresh dweet, odd code in a costume. Let's see what the hidden program does and maybe steal a fish joke from it.",
       "Dweet fish unpacks its own code, then faints. Good. Sketching it now, one fish joke per piece.",
       "Esolang Shelf is finished and two fish are staring at each other. Dweet fish faints on overflow. Sketching it, one joke.",
       "The dweet fish fainted in the scrap bin. Good joke, bad frame. Captioning the shelf now, one joke.",
-      "Dweet Fish is on the shelf now, staring across the glass at Wire Fish. Good enough for one joke."
+      "Dweet Fish is on the shelf now, staring across the glass at Wire Fish. Good enough for one joke.",
+      "Rested, fish heads untouched. The Esolang Shelf tend got bounced over a bad room name. Dull, but noted."
     ],
-    "lastAt": "2026-11-24T12:56:01.615Z",
-    "lastInput": "tend|esolang-shelf|2026-11-24T13:04:18.273Z#"
+    "lastAt": "2026-11-24T13:11:22.128Z",
+    "lastInput": "rest||2026-11-24T14:04:23.906Z#"
   },
   "reflect": {
     "sum": 50,
