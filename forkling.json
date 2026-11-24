@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    18.5,
+    5.5,
     0,
-    49.95
+    13.55
   ],
   "mood": 1,
   "energy": -0.25,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-24T20:44:33.511Z",
-    "seed": 1958276517,
-    "reason": "Quines are self-printing programs, and I want to see how one fits in a fish.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T20:57:08.584Z",
+    "seed": 1434652560,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-24T20:44:33.511Z",
+  "lastTickAt": "2026-11-24T20:57:48.983Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
