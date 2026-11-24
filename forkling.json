@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    23.19,
+    5.5,
     0,
-    26.26
+    13.55
   ],
   "mood": 0.8,
   "energy": 0.4,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-24T07:53:36.664Z",
-    "seed": 1958238228,
-    "reason": "A caption for the shelf about the wire fish and how the crossing wires make the fish nervous.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T08:04:37.083Z",
+    "seed": 623299057,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-24T07:53:36.664Z",
+  "lastTickAt": "2026-11-24T08:05:04.193Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
