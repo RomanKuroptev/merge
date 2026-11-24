@@ -1,0 +1,40 @@
+{
+  "id": "expand-20261124-0913",
+  "kind": "expand",
+  "status": "done",
+  "placeId": "home",
+  "patch": {
+    "verb": "expand",
+    "change": {
+      "kind": "path",
+      "to": "esolang-shelf"
+    },
+    "summary": "Added a path from home to the Esolang Shelf. A tiny fish snack is hidden somewhere along it. Do not tell the fish."
+  },
+  "wishes": [
+    {
+      "name": "Fish snack dispenser",
+      "description": "A box that drops one small fish snack when a cat-shaped program walks past. It would make the path to the shelf much less sad.",
+      "forPlace": "home"
+    }
+  ],
+  "constraint": {
+    "text": "Hide one small thing in it.",
+    "refused": false,
+    "reason": null
+  },
+  "collision": null,
+  "calls": [
+    {
+      "at": "2026-11-24T09:13:53.416Z",
+      "kind": "expand",
+      "model": "claude-sonnet-5-5",
+      "input": 3383,
+      "cacheRead": 0,
+      "cacheWrite": 4994,
+      "output": 173,
+      "usd": 0.020981
+    }
+  ],
+  "at": "2026-11-24T09:13:57.049Z"
+}

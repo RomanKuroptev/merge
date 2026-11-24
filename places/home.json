@@ -15,7 +15,12 @@
     0
   ],
   "related": [],
-  "paths": [],
+  "paths": [
+    {
+      "to": "esolang-shelf",
+      "at": "2026-11-24"
+    }
+  ],
   "exterior": {
     "style": "timber",
     "footprint": [
@@ -257,8 +262,11 @@
     }
   ],
   "state": {
-    "construction": null,
-    "lastCareAt": "2026-11-23T16:58:54.962Z",
+    "construction": {
+      "kind": "expand",
+      "finishesAt": "2026-11-24T12:14:02.033Z"
+    },
+    "lastCareAt": "2026-11-24T09:14:02.033Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -294,6 +302,11 @@
       "at": "2026-11-23T16:58:54.962Z",
       "verb": "tend",
       "summary": "Hung the Thue bits quote on the low shelf for the fish, and put the foam joke up high, out of its reach."
+    },
+    {
+      "at": "2026-11-24T09:14:02.033Z",
+      "verb": "expand",
+      "summary": "Added a path from home to the Esolang Shelf. A tiny fish snack is hidden somewhere along it. Do not tell the fish."
     }
   ]
 }

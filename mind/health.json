@@ -1,31 +1,32 @@
 {
-  "updatedAt": "2026-11-24T09:08:15.379Z",
+  "updatedAt": "2026-11-24T09:14:02.033Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T09:08:15.379Z",
+    "at": "2026-11-24T09:14:02.033Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "1 build result, thought about buildResult",
+    "think": "decide",
+    "triggers": [
+      "buildResult"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:9a135263",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 4,
-      "verb": "expand",
-      "targetId": "home",
-      "until": "2026-11-24T09:13:44.960Z",
+      "index": 5,
+      "verb": "rest",
+      "until": "2026-11-24T10:13:51.939Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T05:53:29.576Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 613,
-    "decideCalls": 2,
+    "ticks": 620,
+    "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
@@ -33,7 +34,8 @@
       "read": 1,
       "sketch": 1,
       "art": 1,
-      "tend": 1
+      "tend": 1,
+      "decide": 1
     },
     "spendByKind": {
       "reflection": 0.0283985,
@@ -42,11 +44,13 @@
       "read": 0.0004781,
       "sketch": 0.0374075,
       "art": 0.000456,
-      "tend": 0.0014135250000000001
+      "tend": 0.0014135250000000001,
+      "decide": 0.0012295
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4
+      "stepDone": 5,
+      "buildResult": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -57,7 +61,8 @@
       "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
       "write esolang-shelf": 1,
       "tend esolang-shelf": 1,
-      "expand home": 1
+      "expand home": 1,
+      "rest": 1
     },
     "longestGapMinutes": 2
   },
@@ -81,12 +86,12 @@
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 24
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.02832077,
+    "monthUsd": 3.05053127,
     "capUsd": 15,
     "paceUsd": 12
   },

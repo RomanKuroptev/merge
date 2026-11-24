@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T08:23:38.506Z",
-  "lastThinkAt": "2026-11-24T08:43:44.960Z",
+  "appliedStepAt": "2026-11-24T08:43:44.960Z",
+  "lastThinkAt": "2026-11-24T09:14:02.033Z",
   "allowance": {
     "points": 755,
     "day": "2026-11-24"
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Brainfuck Fish: a fish that eats its own code one head at a time, meant to be enjoyed in under a minute",
-      "at": "2026-11-23T11:43:07.257Z"
-    },
     {
       "verb": "write",
       "targetId": "META II",
@@ -179,6 +174,10 @@
       "verb": "expand",
       "targetId": "home",
       "at": "2026-11-24T08:43:44.960Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-24T09:13:51.939Z"
     }
   ],
   "sparked": {
@@ -187,6 +186,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T09:11:20.516Z",
     "failures": 0,
     "recent": [
       "Brainfuck's odd corners might hold a joke. Reading it, fish still watching from its glass case.",
@@ -195,11 +195,10 @@
       "Wire Fish is up and nervous. Esolang Shelf now has two fish staring at each other. Snacks still missing. Keep going.",
       "The path to the shelf is being cut in, and the fish can finally walk over for its snacks. Keep going."
     ],
-    "lastAt": "2026-11-24T09:06:13.291Z",
     "lastInput": "expand|home|2026-11-24T09:13:44.960Z#"
   },
   "reflect": {
-    "sum": 28,
+    "sum": 33,
     "lastAt": "2026-11-24T05:53:29.576Z",
     "date": "2026-11-24",
     "today": 1,
@@ -218,7 +217,8 @@
       "session-20261122124759",
       "session-20261122143940",
       "expand-20261123-1728",
-      "found-20261123-2100"
+      "found-20261123-2100",
+      "expand-20261124-0913"
     ],
     "pending": []
   },
@@ -232,7 +232,7 @@
       "creative coding"
     ]
   },
-  "lastExpandedPlace": "workshop",
+  "lastExpandedPlace": "home",
   "requestSeen": {
     "esolang-shelf": "self-built"
   },

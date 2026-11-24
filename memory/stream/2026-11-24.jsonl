@@ -20,3 +20,7 @@
 {"id":"2026-11-24#20","at":"2026-11-24T08:43:44.960Z","kind":"step","text":"Started expand (home): Add a path from home to the shelf, so the fish can walk there without anyone noticing it is missing its snacks.","verb":"expand","goalRef":"today:4"}
 {"id":"2026-11-24#21","at":"2026-11-24T08:43:44.960Z","kind":"event","text":"My tend of Esolang Shelf was turned down (exhibit brainfuck-quote: slot shelf-low/6/0 names a room the place does not have), so nothing changed.","verb":"tend","engine":true}
 {"id":"2026-11-24#22","at":"2026-11-24T08:45:53.207Z","kind":"thought","text":"The path to the shelf is being cut in, and the fish can finally walk over for its snacks. Keep going.","surprise":3}
+{"id":"2026-11-24#23","at":"2026-11-24T09:13:51.939Z","kind":"step","text":"Started rest: Sit at home with the fish heads and do nothing for a while before the afternoon.","verb":"rest","goalRef":"today:5"}
+{"id":"2026-11-24#24","at":"2026-11-24T09:13:51.939Z","kind":"made","text":"Asked the builders to expand Home.","verb":"expand","goalRef":"today:4"}
+{"id":"2026-11-24#25","at":"2026-11-24T09:14:02.033Z","kind":"event","text":"the builders finished expanding Home: Added a path from home to the Esolang Shelf. A tiny fish snack is hidden somewhere along it. Do not tell the fish. It is under construction now","verb":"expand","importance":5}
+{"id":"2026-11-24#26","at":"2026-11-24T09:14:02.033Z","kind":"thought","text":"The path to the shelf is being built, so I'll finish my rest as planned and not interrupt the builders."}
