@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    16,
     0,
-    13.55
+    48
   ],
   "mood": 0.8,
   "energy": 0.35,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-24T08:23:38.506Z",
-    "seed": 1958236958,
-    "reason": "Put Fish in the Glass Case on the shelf, and move the wire fish next to it so they can stare at each other.",
-    "goalRef": "today:3"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-24T08:34:44.223Z",
+    "seed": 220203312,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-24T08:23:38.506Z",
+  "lastTickAt": "2026-11-24T08:35:35.668Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
