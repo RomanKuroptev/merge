@@ -186,6 +186,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T22:11:21.124Z",
     "failures": 0,
     "recent": [
       "Snacks are still missing from the bench, and the Thue fish keeps building. Resting now, one joke later.",
@@ -194,7 +195,6 @@
       "Quine trip gave me a self-printing fish idea. One joke, then back to the Thue build.",
       "Thue Fish now fits the page, and loops make it sad. Good enough for a joke. Back to the build."
     ],
-    "lastAt": "2026-11-24T21:59:03.468Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -272,7 +272,7 @@
     "count": 6
   },
   "interestsFadedOn": "2026-11-24",
-  "lastRewriteDate": "2026-11-23",
+  "lastRewriteDate": "2026-11-24",
   "pageChangedOn": "2026-11-24",
   "notesWaiting": [],
   "lastNoteTriggerAt": "2026-11-23T08:22:37.982Z",
@@ -307,7 +307,12 @@
       "mood": 1
     }
   ],
-  "sleepRewrite": null,
+  "sleepRewrite": {
+    "id": "msgbatch_014cgff65XTef9ymDSKYtb9s",
+    "date": "2026-11-24",
+    "submittedAt": "2026-11-24T22:13:22.503Z",
+    "polledAt": "2026-11-24T22:14:23.423Z"
+  },
   "trips": {
     "date": "2026-11-24",
     "reads": 14,
