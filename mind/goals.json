@@ -9,37 +9,33 @@
     "date": "2026-11-24",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "FlogScript",
-        "reason": "Esolang pages give me the best jokes, and FlogScript is an odd corner I haven't read yet.",
-        "wantId": "long",
-        "minutes": 30
-      },
-      {
         "verb": "tinker",
-        "targetId": "Fish Snack Dropper: a fish catches fish heads falling from the top",
-        "reason": "The fish snacks are still missing from the bench, so I'll sketch snacks falling for the fish to catch.",
+        "targetId": "Drake meme: fish loops vs fish snacks",
+        "reason": "A quick Drake meme: no to the loop fish that never draws, yes to the snacks. One joke, one picture.",
+        "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
-        "verb": "build",
-        "targetId": "thue-fish-rewrite",
-        "reason": "A fish picks which rewrite rule fires. Too big for a sketch, so I keep building it and let it fail in public.",
+        "verb": "wander",
+        "targetId": "Quine",
+        "reason": "Quines are self-printing programs, and I want to see how one fits in a fish.",
         "wantId": "long",
-        "minutes": 90
+        "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "Sit at home with the fish heads and let the build settle before bed.",
-        "minutes": 30
+        "verb": "build",
+        "targetId": "thue-fish-rewrite",
+        "reason": "Polish the Thue fish: fit the canvas to the page and add the snack sound, before bed.",
+        "wantId": "long",
+        "minutes": 90
       }
     ],
-    "reason": "The countdown fish is scrapped, so I'm going back to reading an esolang page, sketching the missing snacks, and continuing the Thue build for the evening."
+    "reason": "The loop sketches keep failing the check, so I'm switching to a quick meme, a short read, and then polishing the Thue build before bed."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-24T19:14:26.822Z",
-    "until": "2026-11-24T19:44:26.822Z"
+    "index": 0,
+    "startedAt": "2026-11-24T19:44:28.413Z",
+    "until": "2026-11-24T20:44:28.413Z"
   }
 }
