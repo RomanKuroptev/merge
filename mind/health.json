@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-24T22:45:43.781Z",
+  "updatedAt": "2026-11-24T23:00:51.038Z",
   "engine": "v0.19.4",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-24T22:45:43.781Z",
+    "at": "2026-11-24T23:00:51.038Z",
     "asleep": true,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -18,66 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1455,
-    "decideCalls": 14,
-    "callsByKind": {
-      "reflection": 2,
-      "morning": 2,
-      "thought": 27,
-      "read": 14,
-      "sketch": 6,
-      "art": 2,
-      "tend": 2,
-      "decide": 12,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "reflection": 0.0561195,
-      "morning": 0.0037763650000000003,
-      "thought": 0.013207400000000001,
-      "read": 0.004472759999999999,
-      "sketch": 0.215051,
-      "art": 0.0009127,
-      "tend": 0.00291225,
-      "decide": 0.01812574,
-      "sleep": 0.01958325
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 23,
-      "buildResult": 4,
-      "replan": 5,
-      "sparked": 2,
-      "reflected": 1
-    },
+    "ticks": 1,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
-      "write esolang-shelf": 3,
-      "tend esolang-shelf": 2,
-      "expand home": 1,
-      "rest": 4,
-      "wander https://www.dwitter.net/d/36724": 1,
-      "tinker Dweet Fish: the fish decodes its own mess before it faints": 1,
-      "wander https://www.dwitter.net/d/36717": 1,
-      "tinker Dweet Fish Counts Down: a tiny loop where the fish smiles u…": 1,
-      "tinker Fish Frame First: one still fish, then the loop": 1,
-      "build Thue Fish Rewrite": 1,
-      "wander FlogScript": 1,
-      "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1,
-      "build thue-fish-rewrite": 2,
-      "tinker Drake meme: fish loops vs fish snacks": 1,
-      "wander Quine": 1
-    },
-    "longestGapMinutes": 2
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 14,
+      "used": 0,
       "max": 40
     }
   },
@@ -96,13 +51,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 301
+    "minutes": 316
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 3.45870378,
     "capUsd": 15,
-    "paceUsd": 12
+    "paceUsd": 12.5
   },
   "openBuild": null,
   "credit": "ok",
@@ -146,8 +101,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"write esolang-shelf\" 3 times today",
-    "started \"rest\" 4 times today"
-  ]
+  "warnings": []
 }
