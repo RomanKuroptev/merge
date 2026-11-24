@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    18.5,
+    5.5,
     0,
-    49.95
+    13.55
   ],
   "mood": 1,
   "energy": 0.2,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-24T12:14:09.129Z",
-    "seed": 1958241541,
-    "reason": "A short caption for the shelf about the dweet fish unpacking its own mess while the wire fish watches.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T12:25:19.630Z",
+    "seed": 173191682,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-24T12:14:09.129Z",
+  "lastTickAt": "2026-11-24T12:25:27.441Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
