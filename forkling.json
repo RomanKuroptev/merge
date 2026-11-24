@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T14:16:03.246Z",
-    "seed": 128699862,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-24T14:34:33.377Z",
+    "seed": 1958263533,
+    "reason": "Read one odd thing, then sketch fast. A countdown fish that smiles at every number and then faints.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-24T14:17:24.807Z",
+  "lastTickAt": "2026-11-24T14:34:33.377Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

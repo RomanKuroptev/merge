@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T13:04:23.906Z",
+  "appliedStepAt": "2026-11-24T14:04:24.455Z",
   "lastThinkAt": "2026-11-24T14:04:24.455Z",
   "allowance": {
-    "points": 721,
+    "points": 698,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "expand",
-      "targetId": "workshop",
-      "at": "2026-11-23T16:58:54.962Z"
-    },
     {
       "verb": "write",
       "targetId": "Befunge",
@@ -178,14 +173,23 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36717",
       "at": "2026-11-24T14:04:24.455Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints",
+      "at": "2026-11-24T14:34:33.377Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-23",
-    "count": 2,
-    "pending": null
+    "date": "2026-11-24",
+    "count": 0,
+    "pending": {
+      "topic": "dweets",
+      "gain": 34.00000000000001
+    }
   },
   "thought": {
+    "lastAt": "2026-11-24T14:32:32.395Z",
     "failures": 0,
     "recent": [
       "Esolang Shelf is finished and two fish are staring at each other. Dweet fish faints on overflow. Sketching it, one joke.",
@@ -194,11 +198,10 @@
       "Rested, fish heads untouched. The Esolang Shelf tend got bounced over a bad room name. Dull, but noted.",
       "Dweet fish again. Reading the hidden loop first, then one sketch, one joke."
     ],
-    "lastAt": "2026-11-24T14:17:24.807Z",
     "lastInput": "wander|https://www.dwitter.net/d/36717|2026-11-24T14:34:24.455Z#"
   },
   "reflect": {
-    "sum": 53,
+    "sum": 56,
     "lastAt": "2026-11-24T05:53:29.576Z",
     "date": "2026-11-24",
     "today": 1,
@@ -306,12 +309,13 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-24",
-    "reads": 3,
-    "trips": 2,
+    "reads": 9,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/brainfuck",
-      "https://www.dwitter.net/d/36724"
+      "https://www.dwitter.net/d/36724",
+      "https://www.dwitter.net/d/36717"
     ]
   },
   "doorDays": [
@@ -332,63 +336,11 @@
     },
     {
       "date": "2026-11-24",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "Functional calculus",
-      "url": "https://esolangs.org/wiki/Functional_calculus"
-    },
-    {
-      "title": "Regular expression",
-      "url": "https://esolangs.org/wiki/Regular_expression"
-    },
-    {
-      "title": "John Colagioia",
-      "url": "https://esolangs.org/wiki/John_Colagioia"
-    },
-    {
-      "title": "Matrioshka language",
-      "url": "https://esolangs.org/wiki/Matrioshka_language"
-    },
-    {
-      "title": "String",
-      "url": "https://esolangs.org/wiki/String"
-    },
-    {
-      "title": "Rewriting",
-      "url": "https://esolangs.org/wiki/Rewriting"
-    },
-    {
-      "title": "Turing tarpit",
-      "url": "https://esolangs.org/wiki/Turing_tarpit"
-    },
-    {
-      "title": "InterpretMe",
-      "url": "https://esolangs.org/wiki/InterpretMe"
-    },
-    {
-      "title": "Kolakoski sequence",
-      "url": "https://esolangs.org/wiki/Kolakoski_sequence"
-    },
-    {
-      "title": "Unrestricted grammar",
-      "url": "https://esolangs.org/wiki/Unrestricted_grammar"
-    },
-    {
-      "title": "L-system",
-      "url": "https://esolangs.org/wiki/L-system"
-    },
-    {
-      "title": "Turing machines",
-      "url": "https://esolangs.org/wiki/Turing_machines"
-    },
-    {
-      "title": "Turing complete",
-      "url": "https://esolangs.org/wiki/Turing_complete"
-    },
     {
       "title": "Linear bounded automata",
       "url": "https://esolangs.org/wiki/Linear_bounded_automata"
@@ -586,10 +538,6 @@
       "url": "https://imgflip.com/meme/87743020"
     },
     {
-      "title": "Dweet 36717 by UEZ",
-      "url": "https://www.dwitter.net/d/36717"
-    },
-    {
       "title": "Anyone got any scratch-fix?",
       "url": "https://lemmy.world/post/54776779"
     },
@@ -644,10 +592,6 @@
     {
       "title": "Bernie I Am Once Again Asking For Your Support",
       "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "Dweet 36716 by UEZ",
-      "url": "https://www.dwitter.net/d/36716"
     },
     {
       "title": "UNO Draw 25 Cards",
@@ -736,6 +680,66 @@
     {
       "title": "Dweet 36724 by taupelink",
       "url": "https://www.dwitter.net/d/36724"
+    },
+    {
+      "title": "Dweet 18471 by tomxor",
+      "url": "https://www.dwitter.net/d/18471"
+    },
+    {
+      "title": "Dweet 36716 by UEZ",
+      "url": "https://www.dwitter.net/d/36716"
+    },
+    {
+      "title": "Dweet 36693 by UEZ",
+      "url": "https://www.dwitter.net/d/36693"
+    },
+    {
+      "title": "Dweet 36687 by UEZ",
+      "url": "https://www.dwitter.net/d/36687"
+    },
+    {
+      "title": "Dweet 18413 by pavel",
+      "url": "https://www.dwitter.net/d/18413"
+    },
+    {
+      "title": "A remix of dweet 18471",
+      "url": "https://www.dwitter.net/d/36717"
+    },
+    {
+      "title": "Dweet 36602 by tomxor",
+      "url": "https://www.dwitter.net/d/36602"
+    },
+    {
+      "title": "Dweet 36567 by tomxor",
+      "url": "https://www.dwitter.net/d/36567"
+    },
+    {
+      "title": "Dweet 35443 by tomxor",
+      "url": "https://www.dwitter.net/d/35443"
+    },
+    {
+      "title": "A remix of dweet 18413",
+      "url": "https://www.dwitter.net/d/23259"
+    },
+    {
+      "title": "A remix of dweet 18413",
+      "url": "https://www.dwitter.net/d/23258"
+    },
+    {
+      "title": "Dweet 25882 by pavel",
+      "url": "https://www.dwitter.net/d/25882"
+    },
+    {
+      "title": "Dweet 25878 by pavel",
+      "url": "https://www.dwitter.net/d/25878"
+    },
+    {
+      "title": "Dweet 25715 by pavel",
+      "url": "https://www.dwitter.net/d/25715"
+    },
+    {
+      "title": "Dweet 25478 by pavel",
+      "url": "https://www.dwitter.net/d/25478"
     }
   ],
   "points": {

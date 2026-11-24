@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-24T14:19:26.290Z",
+  "updatedAt": "2026-11-24T14:34:33.377Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T14:19:26.290Z",
+    "at": "2026-11-24T14:34:33.377Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: tinker, wandered from https://www.dwitter.net/d/36717",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:9585ddb1",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36717",
-      "until": "2026-11-24T14:34:24.455Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles u…",
+      "until": "2026-11-24T15:34:33.377Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T14:04:24.455Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 934,
+    "ticks": 950,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "thought": 13,
-      "read": 3,
+      "read": 9,
       "sketch": 2,
       "art": 2,
       "tend": 2,
@@ -40,7 +42,7 @@
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
       "thought": 0.0073427250000000005,
-      "read": 0.00101514,
+      "read": 0.00231314,
       "sketch": 0.072773,
       "art": 0.0009127,
       "tend": 0.00291225,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "buildResult": 1,
       "replan": 2
     },
@@ -65,13 +67,14 @@
       "rest": 2,
       "wander https://www.dwitter.net/d/36724": 1,
       "tinker Dweet Fish: the fish decodes its own mess before it faints": 1,
-      "wander https://www.dwitter.net/d/36717": 1
+      "wander https://www.dwitter.net/d/36717": 1,
+      "tinker Dweet Fish Counts Down: a tiny loop where the fish smiles u…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 3,
+      "used": 9,
       "max": 40
     }
   },
@@ -79,22 +82,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.6
+      "share": 0.714
     }
   },
   "allowance": {
-    "points": 721,
+    "points": 698,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 244
+    "minutes": 260
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.09643696,
+    "monthUsd": 3.09773496,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -118,15 +121,15 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 16,
-      "strangers": 16,
+      "trips": 17,
+      "strangers": 17,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.6,
-      "wouldFire": false
+      "share": 0.714,
+      "wouldFire": true
     },
     "draws": {
       "collisionsUsed": 9,

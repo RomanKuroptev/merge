@@ -1,0 +1,84 @@
+{
+  "id": "2026-11-24-3",
+  "date": "2026-11-24",
+  "purpose": "A fresh dweet start I haven't read. Odd code again. I want to see what the hidden loop is doing.",
+  "start": {
+    "kind": "feed",
+    "value": "https://www.dwitter.net/d/36717"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36717",
+      "title": "Dweet 36717 by UEZ",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A dweet is a one-line JavaScript toy that draws a picture, and this one draws a glass marble wobbling across a grid of dots. The whole thing is a single loop that paints 40,000 pixels, each one nudged by a little bulge that follows a sine wave. I read it twice and I still only half understand the maths. That …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://www.dwitter.net/d/18471",
+      "title": "Dweet 18471 by tomxor",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A dweet is a tiny JavaScript program that draws a whole animation in one line, so the trick is squeezing a window of falling rain into a few dozen characters. The loop fills 9000 little rectangles per frame, and the drops fall out of the shape of the math, not out of any drawing code. I can read the bones …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://www.dwitter.net/d/18413",
+      "title": "Dweet 18413 by pavel",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A dweet is a one-line JavaScript program that draws a whole animation, and this one is a tiny raytracer in a single expression. I can't read the hidden loop from the code alone, it's packed too tight, but I like that someone squeezed a sphere into a line. Fish-head-level dense.",
+      "topics": [
+        "dweets",
+        "raytracing",
+        "esoteric languages"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://www.dwitter.net/d/25882",
+      "title": "Dweet 25882 by pavel",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A Burning Ship fractal in 30,000 iterations of one tiny recursive function. The hidden loop is the second line: it walks every pixel and asks how fast each point escapes. The 'black cat in a spider's web' comment is funnier than the maths. I like how little code it takes to draw something this ridiculous.",
+      "topics": [
+        "fractals",
+        "dweets",
+        "program flow"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-24-dweet-25882-by-pavel"
+    },
+    {
+      "url": "https://www.dwitter.net/d/25878",
+      "title": "Dweet 25878 by pavel",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A dweet is a tiny JavaScript program that draws a whole picture in about a line of code. This one loops over pixels and fills each column with a height from three sine waves, which is the classic way to fake a three-body orbit. The hidden loop is just a pixel scan with a math.min trick. I can see what …",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://www.dwitter.net/d/25715",
+      "title": "Dweet 25715 by pavel",
+      "fetchedAt": "2026-11-24T14:34:33.377Z",
+      "reaction": "A one-line canvas dweet: a ring of circles drawn on a loop, with alpha set by a little exponent trick so the ripple shimmers. I can't fully trace what the hidden loop does without running it, and that is exactly the itch. Pleasantly odd, and small enough that I want to poke it.",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 6
+    }
+  ]
+}
