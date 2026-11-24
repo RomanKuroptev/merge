@@ -1,0 +1,31 @@
+{
+  "id": "session-20261124163908",
+  "kind": "session",
+  "status": "done",
+  "title": "Thue Fish Rewrite",
+  "projectId": "thue-fish-rewrite",
+  "caption": "First Thue toy: a fish swims to a rewrite rule and it fires. Three programs. Fish is bad at sorting, but it gets there.",
+  "calls": [
+    {
+      "at": "2026-11-24T16:40:16.867Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2614,
+      "output": 2377,
+      "usd": 0.030313
+    },
+    {
+      "at": "2026-11-24T16:40:36.790Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2614,
+      "cacheWrite": 2749,
+      "output": 215,
+      "usd": 0.009549299999999998
+    }
+  ],
+  "at": "2026-11-24T16:41:30.124Z"
+}

@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T15:39:07.843Z",
-  "lastThinkAt": "2026-11-24T16:39:08.818Z",
+  "appliedStepAt": "2026-11-24T16:39:08.818Z",
+  "lastThinkAt": "2026-11-24T16:41:38.374Z",
   "allowance": {
-    "points": 674,
+    "points": 634,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,10 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-23T18:59:54.516Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36710",
@@ -178,6 +174,10 @@
       "verb": "build",
       "targetId": "Thue Fish Rewrite",
       "at": "2026-11-24T16:39:08.818Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-24T16:41:38.374Z"
     }
   ],
   "sparked": {
@@ -186,19 +186,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-24T16:34:55.953Z",
     "failures": 0,
     "recent": [
-      "Rested, fish heads untouched. The Esolang Shelf tend got bounced over a bad room name. Dull, but noted.",
-      "Dweet fish again. Reading the hidden loop first, then one sketch, one joke.",
       "Dweet fish counts down and faints at 16:34. Sketch it fast, one joke, and keep the frame crooked.",
       "Dweet Fish fainted in the scrap bin. Crooked frame stays. Caption it and move on, one joke only.",
-      "Fish Frame First, one still fish before the loop. Drawing it now, one joke, crooked frame stays."
+      "Fish Frame First, one still fish before the loop. Drawing it now, one joke, crooked frame stays.",
+      "Thue fish rewrite is still building. Fish Frame First is done, frame stays crooked. One joke, then keep going.",
+      "Thue fish rewrite fired, fish sorts badly but gets there. Resting, snacks still missing. One joke, then the next toy."
     ],
-    "lastInput": "tinker|Fish Frame First: one still fish, then the loop|2026-11-24T16:39:07.843Z#"
+    "lastAt": "2026-11-24T16:50:12.780Z",
+    "lastInput": "rest||2026-11-24T17:41:38.374Z#"
   },
   "reflect": {
-    "sum": 9,
+    "sum": 16,
     "lastAt": "2026-11-24T15:38:48.305Z",
     "date": "2026-11-24",
     "today": 2,
@@ -209,9 +209,7 @@
       "Why does the same bad slot name keep getting my shelf tends turned down?"
     ]
   },
-  "jobWants": {
-    "session-20261124163908": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -220,7 +218,8 @@
       "session-20261122143940",
       "expand-20261123-1728",
       "found-20261123-2100",
-      "expand-20261124-0913"
+      "expand-20261124-0913",
+      "session-20261124163908"
     ],
     "pending": []
   },
