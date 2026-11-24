@@ -1,58 +1,50 @@
 {
-  "updatedAt": "2026-11-24T21:14:36.708Z",
+  "updatedAt": "2026-11-24T21:29:30.845Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T21:14:36.708Z",
+    "at": "2026-11-24T21:29:30.845Z",
     "asleep": false,
-    "summary": "step 3/3: build, wandered from Quine",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:d85728ff",
     "stepsLeft": 0,
-    "current": {
-      "index": 2,
-      "verb": "build",
-      "targetId": "thue-fish-rewrite",
-      "until": "2026-11-24T22:44:36.708Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-24T19:44:28.413Z",
-    "idleMinutes": 0
+    "idleMinutes": 13
   },
   "today": {
-    "ticks": 1363,
-    "decideCalls": 12,
+    "ticks": 1379,
+    "decideCalls": 14,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "thought": 25,
+      "thought": 27,
       "read": 14,
       "sketch": 6,
       "art": 2,
       "tend": 2,
-      "decide": 10
+      "decide": 12
     },
     "spendByKind": {
       "reflection": 0.0561195,
       "morning": 0.0037763650000000003,
-      "thought": 0.012483705000000001,
+      "thought": 0.013207400000000001,
       "read": 0.004472759999999999,
       "sketch": 0.215051,
       "art": 0.0009127,
       "tend": 0.00291225,
-      "decide": 0.015192100000000002
+      "decide": 0.01812574
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 22,
-      "buildResult": 3,
-      "replan": 4,
+      "stepDone": 23,
+      "buildResult": 4,
+      "replan": 5,
       "sparked": 2,
       "reflected": 1
     },
@@ -95,18 +87,18 @@
     }
   },
   "allowance": {
-    "points": 529,
+    "points": 469,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 210
+    "minutes": 225
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.37591579,
+    "monthUsd": 3.43912053,
     "capUsd": 15,
     "paceUsd": 12
   },

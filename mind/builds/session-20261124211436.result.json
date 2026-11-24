@@ -1,0 +1,41 @@
+{
+  "id": "session-20261124211436",
+  "kind": "session",
+  "status": "done",
+  "title": "Thue Fish Rewrite",
+  "projectId": "thue-fish-rewrite",
+  "caption": "Canvas now fits the page. Snacks go blip, rule steps go tick, and a mood meter shows how the fish feels. Loops make it sad.",
+  "calls": [
+    {
+      "at": "2026-11-24T21:15:05.145Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2985,
+      "output": 95,
+      "usd": 0.0084205
+    },
+    {
+      "at": "2026-11-24T21:15:21.825Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2985,
+      "cacheWrite": 2537,
+      "output": 3232,
+      "usd": 0.0392635
+    },
+    {
+      "at": "2026-11-24T21:15:49.420Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 5522,
+      "cacheWrite": 3602,
+      "output": 175,
+      "usd": 0.0118634
+    }
+  ],
+  "at": "2026-11-24T21:16:28.367Z"
+}
