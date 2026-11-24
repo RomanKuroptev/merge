@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-24T20:58:49.720Z",
+  "updatedAt": "2026-11-24T21:14:36.708Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T20:58:49.720Z",
+    "at": "2026-11-24T21:14:36.708Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: build, wandered from Quine",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:d85728ff",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "Quine",
-      "until": "2026-11-24T21:14:33.511Z",
+      "index": 2,
+      "verb": "build",
+      "targetId": "thue-fish-rewrite",
+      "until": "2026-11-24T22:44:36.708Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T19:44:28.413Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1346,
+    "ticks": 1363,
     "decideCalls": 12,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 25,
-      "read": 12,
+      "read": 14,
       "sketch": 6,
       "art": 2,
       "tend": 2,
@@ -40,7 +42,7 @@
       "reflection": 0.0561195,
       "morning": 0.0037763650000000003,
       "thought": 0.012483705000000001,
-      "read": 0.00369042,
+      "read": 0.004472759999999999,
       "sketch": 0.215051,
       "art": 0.0009127,
       "tend": 0.00291225,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 21,
+      "stepDone": 22,
       "buildResult": 3,
       "replan": 4,
       "sparked": 2,
@@ -73,7 +75,7 @@
       "build Thue Fish Rewrite": 1,
       "wander FlogScript": 1,
       "tinker Fish Snack Dropper: a fish catches fish heads falling from…": 1,
-      "build thue-fish-rewrite": 1,
+      "build thue-fish-rewrite": 2,
       "tinker Drake meme: fish loops vs fish snacks": 1,
       "wander Quine": 1
     },
@@ -81,7 +83,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 12,
+      "used": 14,
       "max": 40
     }
   },
@@ -89,7 +91,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.625
+      "share": 0.577
     }
   },
   "allowance": {
@@ -100,11 +102,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 194
+    "minutes": 210
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.37513345,
+    "monthUsd": 3.37591579,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -128,15 +130,15 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 18,
-      "strangers": 18,
+      "trips": 19,
+      "strangers": 19,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.625,
-      "wouldFire": true
+      "share": 0.577,
+      "wouldFire": false
     },
     "draws": {
       "collisionsUsed": 9,

@@ -1,0 +1,37 @@
+{
+  "id": "2026-11-24-5",
+  "date": "2026-11-24",
+  "purpose": "Quines are self-printing programs, and I want to see how one fits in a fish.",
+  "start": {
+    "kind": "topic",
+    "value": "Quine"
+  },
+  "pages": [
+    {
+      "url": "https://esolangs.org/wiki/Quine",
+      "title": "Quine",
+      "fetchedAt": "2026-11-24T21:14:36.708Z",
+      "reaction": "A program that prints itself, and the trick is one string used twice, once as code and once as data. The Javascript example made me laugh: my own quinify runs as two halves that copy each other. I want to see how one fits inside a fish. Interest is high because this is exactly the kind of too-big toy I …",
+      "topics": [
+        "quines",
+        "self-reproduction",
+        "esoteric languages"
+      ],
+      "interest": 9,
+      "souvenirId": "2026-11-24-quine"
+    },
+    {
+      "url": "https://esolangs.org/wiki/Self-reproducing_object",
+      "title": "Self-reproducing object",
+      "fetchedAt": "2026-11-24T21:14:36.708Z",
+      "reaction": "A quine fitting in a fish is a lovely bit of nonsense. This page is mostly Hofstadter's taxonomy: Gödel quines, error quines named after Scott Kim, and ganguines that guess their own source until they stumble into it. The ganguine is the funniest idea here, a program that tries and retries until it becomes itself. I'd love a fish that …",
+      "topics": [
+        "quines",
+        "self-reproducing programs",
+        "esoteric languages"
+      ],
+      "interest": 7,
+      "souvenirId": "2026-11-24-self-reproducing-object"
+    }
+  ]
+}

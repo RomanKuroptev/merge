@@ -191,9 +191,9 @@
       ]
     },
     "esoteric languages": {
-      "weight": 97.916,
+      "weight": 100,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-24T18:11:45.221Z",
+      "lastFed": "2026-11-24T21:14:36.708Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -202,55 +202,31 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "trail:2026-11-24-4",
-          "title": "FlogScript",
-          "url": "https://esolangs.org/wiki/FlogScript",
-          "at": "2026-11-24T18:11:45.221Z"
-        },
-        {
-          "id": "2026-11-24-flogscript",
-          "title": "FlogScript",
-          "url": "https://esolangs.org/wiki/FlogScript",
-          "at": "2026-11-24T18:11:45.221Z"
-        },
-        {
-          "id": "2026-11-24-99-bottles-of-beer",
-          "title": "99 bottles of beer",
-          "url": "https://esolangs.org/wiki/99_bottles_of_beer",
-          "at": "2026-11-24T18:11:45.221Z"
-        },
-        {
           "id": "2026-11-24-popular-problem",
           "title": "Popular problem",
           "url": "https://esolangs.org/wiki/Popular_problem",
           "at": "2026-11-24T18:11:45.221Z"
+        },
+        {
+          "id": "trail:2026-11-24-5",
+          "title": "Quine",
+          "url": "https://esolangs.org/wiki/Quine",
+          "at": "2026-11-24T21:14:36.708Z"
+        },
+        {
+          "id": "2026-11-24-quine",
+          "title": "Quine",
+          "url": "https://esolangs.org/wiki/Quine",
+          "at": "2026-11-24T21:14:36.708Z"
+        },
+        {
+          "id": "2026-11-24-self-reproducing-object",
+          "title": "Self-reproducing object",
+          "url": "https://esolangs.org/wiki/Self-reproducing_object",
+          "at": "2026-11-24T21:14:36.708Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 0,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 0,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 0,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 0,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        },
         {
           "at": "2026-11-23T11:43:07.257Z",
           "change": 0,
@@ -346,6 +322,30 @@
           "change": 4.934,
           "event": "souvenir",
           "trail": "2026-11-24-4"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 1.804,
+          "event": "page",
+          "trail": "2026-11-24-5"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 0.28,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-24-5"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 0,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
         }
       ]
     },
@@ -799,72 +799,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-24-3"
-        }
-      ]
-    },
-    "code golf": {
-      "weight": 8.598,
-      "firstSeen": "2026-11-21T20:36:14.638Z",
-      "lastFed": "2026-11-21T20:36:14.638Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-21-4",
-          "title": "Esoteric programming language",
-          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-          "at": "2026-11-21T20:36:14.638Z"
-        },
-        {
-          "id": "2026-11-21-esoteric-programming-language",
-          "title": "Esoteric programming language",
-          "url": "https://esolangs.org/wiki/Esoteric_programming_language",
-          "at": "2026-11-21T20:36:14.638Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        }
-      ]
-    },
-    "shakespeare language": {
-      "weight": 8.598,
-      "firstSeen": "2026-11-21T20:36:14.638Z",
-      "lastFed": "2026-11-21T20:36:14.638Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-21-4",
-          "title": "Shakespeare",
-          "url": "https://esolangs.org/wiki/Shakespeare",
-          "at": "2026-11-21T20:36:14.638Z"
-        },
-        {
-          "id": "2026-11-21-shakespeare",
-          "title": "Shakespeare",
-          "url": "https://esolangs.org/wiki/Shakespeare",
-          "at": "2026-11-21T20:36:14.638Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
         }
       ]
     },
@@ -1936,27 +1870,6 @@
         }
       ]
     },
-    "99 bottles of beer": {
-      "weight": 10,
-      "firstSeen": "2026-11-24T18:11:45.221Z",
-      "lastFed": "2026-11-24T18:11:45.221Z",
-      "sources": [
-        {
-          "id": "2026-11-24-99-bottles-of-beer",
-          "title": "99 bottles of beer",
-          "url": "https://esolangs.org/wiki/99_bottles_of_beer",
-          "at": "2026-11-24T18:11:45.221Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-24T18:11:45.221Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-24-4"
-        }
-      ]
-    },
     "popular problem": {
       "weight": 10,
       "firstSeen": "2026-11-24T18:11:45.221Z",
@@ -1996,6 +1909,93 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-24-4"
+        }
+      ]
+    },
+    "quines": {
+      "weight": 24,
+      "firstSeen": "2026-11-24T21:14:36.708Z",
+      "lastFed": "2026-11-24T21:14:36.708Z",
+      "sources": [
+        {
+          "id": "2026-11-24-quine",
+          "title": "Quine",
+          "url": "https://esolangs.org/wiki/Quine",
+          "at": "2026-11-24T21:14:36.708Z"
+        },
+        {
+          "id": "trail:2026-11-24-5",
+          "title": "Self-reproducing object",
+          "url": "https://esolangs.org/wiki/Self-reproducing_object",
+          "at": "2026-11-24T21:14:36.708Z"
+        },
+        {
+          "id": "2026-11-24-self-reproducing-object",
+          "title": "Self-reproducing object",
+          "url": "https://esolangs.org/wiki/Self-reproducing_object",
+          "at": "2026-11-24T21:14:36.708Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-24-5"
+        },
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
+        }
+      ]
+    },
+    "self-reproduction": {
+      "weight": 10,
+      "firstSeen": "2026-11-24T21:14:36.708Z",
+      "lastFed": "2026-11-24T21:14:36.708Z",
+      "sources": [
+        {
+          "id": "2026-11-24-quine",
+          "title": "Quine",
+          "url": "https://esolangs.org/wiki/Quine",
+          "at": "2026-11-24T21:14:36.708Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
+        }
+      ]
+    },
+    "self-reproducing programs": {
+      "weight": 10,
+      "firstSeen": "2026-11-24T21:14:36.708Z",
+      "lastFed": "2026-11-24T21:14:36.708Z",
+      "sources": [
+        {
+          "id": "2026-11-24-self-reproducing-object",
+          "title": "Self-reproducing object",
+          "url": "https://esolangs.org/wiki/Self-reproducing_object",
+          "at": "2026-11-24T21:14:36.708Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-24T21:14:36.708Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-24-5"
         }
       ]
     }

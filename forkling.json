@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T20:57:08.584Z",
-    "seed": 1434652560,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-24T21:14:36.708Z",
+    "seed": 1958274216,
+    "reason": "Polish the Thue fish: fit the canvas to the page and add the snack sound, before bed.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-24T20:57:48.983Z",
+  "lastTickAt": "2026-11-24T21:14:36.708Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

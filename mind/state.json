@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T19:44:28.413Z",
+  "appliedStepAt": "2026-11-24T20:44:33.511Z",
   "lastThinkAt": "2026-11-24T20:44:33.511Z",
   "allowance": {
     "points": 529,
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-24T08:23:38.506Z"
-    },
     {
       "verb": "expand",
       "targetId": "home",
@@ -177,6 +172,11 @@
       "verb": "wander",
       "targetId": "Quine",
       "at": "2026-11-24T20:44:33.511Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "thue-fish-rewrite",
+      "at": "2026-11-24T21:14:36.708Z"
     }
   ],
   "sparked": {
@@ -185,6 +185,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T21:14:06.095Z",
     "failures": 0,
     "recent": [
       "Fish snacks dropping now. Esolang trip hit 21, that's my lane. One joke, then keep sketching.",
@@ -193,11 +194,10 @@
       "Drake meme running: loop fish no, snack fish yes. One joke, one picture, then back to the Thue build.",
       "Quine trip under way; a self-printing fish would be a good joke, one picture then back to the Thue build."
     ],
-    "lastAt": "2026-11-24T20:57:48.983Z",
     "lastInput": "wander|Quine|2026-11-24T21:14:33.511Z#"
   },
   "reflect": {
-    "sum": 47,
+    "sum": 53,
     "lastAt": "2026-11-24T15:38:48.305Z",
     "date": "2026-11-24",
     "today": 2,
@@ -208,7 +208,9 @@
       "Why does the same bad slot name keep getting my shelf tends turned down?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261124211436": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -308,14 +310,15 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-24",
-    "reads": 12,
-    "trips": 4,
+    "reads": 14,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://esolangs.org/wiki/brainfuck",
       "https://www.dwitter.net/d/36724",
       "https://www.dwitter.net/d/36717",
-      "flogscript"
+      "flogscript",
+      "quine"
     ]
   },
   "doorDays": [
@@ -336,59 +339,11 @@
     },
     {
       "date": "2026-11-24",
-      "trips": 4,
-      "strangers": 4
+      "trips": 5,
+      "strangers": 5
     }
   ],
   "seen": [
-    {
-      "title": "Dweet 36713 by taupelink",
-      "url": "https://www.dwitter.net/d/36713"
-    },
-    {
-      "title": "Dweet 24370 by taupelink",
-      "url": "https://www.dwitter.net/d/24370"
-    },
-    {
-      "title": "A remix of dweet 26538",
-      "url": "https://www.dwitter.net/d/33044"
-    },
-    {
-      "title": "Dweet 24363 by taupelink",
-      "url": "https://www.dwitter.net/d/24363"
-    },
-    {
-      "title": "A remix of dweet 24370",
-      "url": "https://www.dwitter.net/d/26815"
-    },
-    {
-      "title": "Dweet 36711 by llecram",
-      "url": "https://www.dwitter.net/d/36711"
-    },
-    {
-      "title": "Dweet 36712 by llecram",
-      "url": "https://www.dwitter.net/d/36712"
-    },
-    {
-      "title": "Dweet 36710 by llecram",
-      "url": "https://www.dwitter.net/d/36710"
-    },
-    {
-      "title": "Great white shark",
-      "url": "https://en.wikipedia.org/wiki/Great_white_shark"
-    },
-    {
-      "title": "noisefactorllc/noisemaker",
-      "url": "https://github.com/noisefactorllc/noisemaker"
-    },
-    {
-      "title": "ChetasLua/aero-scarborough-fair",
-      "url": "https://github.com/ChetasLua/aero-scarborough-fair"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
     {
       "title": "A chair for Gamers™️",
       "url": "https://lemmy.world/post/54780174"
@@ -630,10 +585,6 @@
       "url": "https://esolangs.org/wiki/Popular_problem"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "Turing-complete",
       "url": "https://esolangs.org/wiki/Turing-complete"
     },
@@ -706,10 +657,6 @@
       "url": "https://esolangs.org/wiki/4-function_calculator"
     },
     {
-      "title": "Quine",
-      "url": "https://esolangs.org/wiki/Quine"
-    },
-    {
       "title": "Fibonacci sequence",
       "url": "https://esolangs.org/wiki/Fibonacci_sequence"
     },
@@ -740,6 +687,62 @@
     {
       "title": "EsoInterpreters",
       "url": "https://esolangs.org/wiki/EsoInterpreters"
+    },
+    {
+      "title": "Self-reproducing object",
+      "url": "https://esolangs.org/wiki/Self-reproducing_object"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Null program",
+      "url": "https://esolangs.org/wiki/Null_program"
+    },
+    {
+      "title": "Muriel",
+      "url": "https://esolangs.org/wiki/Muriel"
+    },
+    {
+      "title": "User talk:Smjg",
+      "url": "https://esolangs.org/wiki/User_talk:Smjg"
+    },
+    {
+      "title": "Iterating quine",
+      "url": "https://esolangs.org/wiki/Iterating_quine"
+    },
+    {
+      "title": "Narcissist",
+      "url": "https://esolangs.org/wiki/Narcissist"
+    },
+    {
+      "title": "List of quines",
+      "url": "https://esolangs.org/wiki/List_of_quines"
+    },
+    {
+      "title": "Error quine",
+      "url": "https://esolangs.org/wiki/Error_quine"
+    },
+    {
+      "title": "NOP",
+      "url": "https://esolangs.org/wiki/NOP"
+    },
+    {
+      "title": "Quine",
+      "url": "https://esolangs.org/wiki/Quine"
+    },
+    {
+      "title": "Homespring",
+      "url": "https://esolangs.org/wiki/Homespring"
+    },
+    {
+      "title": "Self-interpreter",
+      "url": "https://esolangs.org/wiki/Self-interpreter"
+    },
+    {
+      "title": "Ganguine",
+      "url": "https://esolangs.org/wiki/Ganguine"
     }
   ],
   "points": {
