@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T16:39:08.818Z",
-  "lastThinkAt": "2026-11-24T16:41:38.374Z",
+  "appliedStepAt": "2026-11-24T16:41:38.374Z",
+  "lastThinkAt": "2026-11-24T17:41:44.947Z",
   "allowance": {
-    "points": 634,
+    "points": 630,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36710",
-      "at": "2026-11-23T19:59:56.043Z"
-    },
     {
       "verb": "found",
       "targetId": "Esolang Shelf",
@@ -178,6 +173,11 @@
     {
       "verb": "rest",
       "at": "2026-11-24T16:41:38.374Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "FlogScript",
+      "at": "2026-11-24T17:41:44.947Z"
     }
   ],
   "sparked": {
@@ -186,6 +186,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T17:41:04.304Z",
     "failures": 0,
     "recent": [
       "Dweet fish counts down and faints at 16:34. Sketch it fast, one joke, and keep the frame crooked.",
@@ -194,7 +195,6 @@
       "Thue fish rewrite is still building. Fish Frame First is done, frame stays crooked. One joke, then keep going.",
       "Thue fish rewrite fired, fish sorts badly but gets there. Resting, snacks still missing. One joke, then the next toy."
     ],
-    "lastAt": "2026-11-24T17:38:58.110Z",
     "lastInput": "rest||2026-11-24T17:41:38.374Z#"
   },
   "reflect": {
