@@ -3,8 +3,8 @@
   "name": "Thue Fish Rewrite",
   "aim": "Polish: make the canvas fit the page, add a snack-eating sound, and a fish mood meter.",
   "started": "2026-11-24T16:39:59.389Z",
-  "status": "building",
-  "reason": null,
+  "status": "done",
+  "reason": "Polish goals met: canvas fits, sound added, mood meter works.",
   "sessions": [
     {
       "at": "2026-11-24T16:40:57.679Z",
@@ -21,6 +21,15 @@
       "usd": 0.050576,
       "turns": 3,
       "shot": "shots/2.png",
+      "broken": false,
+      "engine": false
+    },
+    {
+      "at": "2026-11-24T21:16:03.742Z",
+      "caption": "Canvas now fits the page. Snacks go blip, rule steps go tick, and a mood meter shows how the fish feels. Loops make it sad.",
+      "usd": 0.059547,
+      "turns": 3,
+      "shot": "shots/3.png",
       "broken": false,
       "engine": false
     }
