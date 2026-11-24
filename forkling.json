@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T12:25:19.630Z",
-    "seed": 173191682,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-24T12:44:18.273Z",
+    "seed": 1958255670,
+    "reason": "Put Dweet Fish on the shelf next to Wire Fish, so the two fish can stare at each other across the glass.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-24T12:25:27.441Z",
+  "lastTickAt": "2026-11-24T12:44:18.273Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

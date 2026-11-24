@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-24T12:28:29.906Z",
+  "updatedAt": "2026-11-24T12:44:18.273Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T12:28:29.906Z",
+    "at": "2026-11-24T12:44:18.273Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/5: tend, wrote \"Dweet Fish Unpacks\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:390ae4c4",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "write",
+      "index": 3,
+      "verb": "tend",
       "targetId": "esolang-shelf",
-      "until": "2026-11-24T12:44:09.129Z",
+      "until": "2026-11-24T13:04:18.273Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T10:13:56.141Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 819,
+    "ticks": 836,
     "decideCalls": 4,
     "callsByKind": {
       "reflection": 1,
@@ -32,7 +34,7 @@
       "thought": 10,
       "read": 3,
       "sketch": 2,
-      "art": 1,
+      "art": 2,
       "tend": 1,
       "decide": 2
     },
@@ -42,13 +44,13 @@
       "thought": 0.00565775,
       "read": 0.00101514,
       "sketch": 0.072773,
-      "art": 0.000456,
+      "art": 0.0009127,
       "tend": 0.0014135250000000001,
       "decide": 0.0029587
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "buildResult": 1,
       "replan": 1
     },
@@ -60,7 +62,7 @@
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
       "write esolang-shelf": 2,
-      "tend esolang-shelf": 1,
+      "tend esolang-shelf": 2,
       "expand home": 1,
       "rest": 1,
       "wander https://www.dwitter.net/d/36724": 1,
@@ -82,18 +84,18 @@
     }
   },
   "allowance": {
-    "points": 727,
+    "points": 725,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 134
+    "minutes": 151
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.09100645,
+    "monthUsd": 3.09146315,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -111,8 +113,8 @@
       }
     },
     "texts": {
-      "texts": 12,
-      "meanMaxSimilarity": 0.009147192733860004,
+      "texts": 13,
+      "meanMaxSimilarity": 0.009483063563064121,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },
@@ -133,9 +135,9 @@
       "constraintsRefused": 0
     },
     "places": {
-      "wouldFire": 0,
+      "wouldFire": 1,
       "repeatedPlace": 0,
-      "stuckInOnePlace": 0,
+      "stuckInOnePlace": 1,
       "weekendRevisit": 0
     }
   },

@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T10:43:59.734Z",
-  "lastThinkAt": "2026-11-24T12:14:09.129Z",
+  "appliedStepAt": "2026-11-24T12:14:09.129Z",
+  "lastThinkAt": "2026-11-24T12:44:18.273Z",
   "allowance": {
-    "points": 727,
+    "points": 725,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "Dweet 36713 by taupelink",
-      "at": "2026-11-23T14:48:30.201Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Befunge Fish: a fish that drifts across a grid of code, meant to be enjoyed in under a minute",
@@ -179,6 +174,11 @@
       "verb": "write",
       "targetId": "esolang-shelf",
       "at": "2026-11-24T12:14:09.129Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-24T12:44:18.273Z"
     }
   ],
   "sparked": {
@@ -187,6 +187,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T12:40:44.329Z",
     "failures": 0,
     "recent": [
       "The path to the shelf is cut in and the fish can walk over for snacks. Resting a while longer with the fish heads.",
@@ -195,7 +196,6 @@
       "Esolang Shelf is finished and two fish are staring at each other. Dweet fish faints on overflow. Sketching it, one joke.",
       "The dweet fish fainted in the scrap bin. Good joke, bad frame. Captioning the shelf now, one joke."
     ],
-    "lastAt": "2026-11-24T12:25:27.441Z",
     "lastInput": "write|esolang-shelf|2026-11-24T12:44:09.129Z#"
   },
   "reflect": {
