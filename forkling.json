@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    18.5,
     0,
-    13.55
+    49.95
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-24T10:43:59.734Z",
-    "seed": 1958244603,
-    "reason": "Read one odd thing, then sketch fast. A fish that unpacks its own code and then faints on overflow.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-24T10:57:19.529Z",
+    "seed": 62085614,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-24T10:43:59.734Z",
+  "lastTickAt": "2026-11-24T10:58:13.377Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
