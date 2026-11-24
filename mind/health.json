@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-24T21:44:49.342Z",
+  "updatedAt": "2026-11-24T21:59:03.468Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T21:44:49.342Z",
+    "at": "2026-11-24T21:59:03.468Z",
     "asleep": false,
     "summary": "sync",
     "think": null,
@@ -15,10 +15,10 @@
     "stepsLeft": 0,
     "current": null,
     "lastReplanAt": "2026-11-24T19:44:28.413Z",
-    "idleMinutes": 29
+    "idleMinutes": 43
   },
   "today": {
-    "ticks": 1395,
+    "ticks": 1409,
     "decideCalls": 14,
     "callsByKind": {
       "reflection": 2,
@@ -94,7 +94,7 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 241
+    "minutes": 255
   },
   "needsCritical": {},
   "spend": {
