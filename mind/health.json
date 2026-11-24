@@ -1,37 +1,39 @@
 {
-  "updatedAt": "2026-11-24T16:23:41.095Z",
+  "updatedAt": "2026-11-24T16:39:08.818Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T16:23:41.095Z",
+    "at": "2026-11-24T16:39:08.818Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/3: build, sketched \"Fish Frame First\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:0910c6f3",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "tinker",
-      "targetId": "Fish Frame First: one still fish, then the loop",
-      "until": "2026-11-24T16:39:07.843Z",
+      "index": 1,
+      "verb": "build",
+      "targetId": "Thue Fish Rewrite",
+      "until": "2026-11-24T18:09:08.818Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T15:39:07.843Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1062,
+    "ticks": 1079,
     "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "thought": 16,
       "read": 9,
-      "sketch": 3,
+      "sketch": 4,
       "art": 2,
       "tend": 2,
       "decide": 5
@@ -41,14 +43,14 @@
       "morning": 0.0037763650000000003,
       "thought": 0.008661745000000002,
       "read": 0.00231314,
-      "sketch": 0.10868850000000001,
+      "sketch": 0.142144,
       "art": 0.0009127,
       "tend": 0.00291225,
       "decide": 0.0076184
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
+      "stepDone": 14,
       "buildResult": 1,
       "replan": 2,
       "sparked": 1,
@@ -69,7 +71,8 @@
       "tinker Dweet Fish: the fish decodes its own mess before it faints": 1,
       "wander https://www.dwitter.net/d/36717": 1,
       "tinker Dweet Fish Counts Down: a tiny loop where the fish smiles u…": 1,
-      "tinker Fish Frame First: one still fish, then the loop": 1
+      "tinker Fish Frame First: one still fish, then the loop": 1,
+      "build Thue Fish Rewrite": 1
     },
     "longestGapMinutes": 2
   },
@@ -93,12 +96,12 @@
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 368
+    "label": "very good, a bit worn",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.16556009,
+    "monthUsd": 3.19901559,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -106,12 +109,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 10,
+      "made": 11,
       "wouldFire": 1,
       "byKind": {
         "meme": 2,
         "tool": 4,
-        "art": 3,
+        "art": 4,
         "game": 1
       }
     },
@@ -134,7 +137,7 @@
     },
     "draws": {
       "collisionsUsed": 9,
-      "constraintsOffered": 10,
+      "constraintsOffered": 11,
       "constraintsRefused": 0
     },
     "places": {

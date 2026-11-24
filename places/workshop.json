@@ -216,14 +216,6 @@
       "added": "2026-11-22"
     },
     {
-      "id": "screen-poke-the-fish",
-      "kind": "work",
-      "ref": "works/poke-the-fish",
-      "slot": "bench-room/5/0",
-      "label": "Poke the Fish. The snacks are still missing from the bench, so it pokes back out of spite.",
-      "added": "2026-11-23"
-    },
-    {
       "id": "screen-brainfuck-fish",
       "kind": "work",
       "ref": "works/brainfuck-fish",
@@ -253,6 +245,14 @@
       "ref": "works/wire-fish",
       "slot": "bench-room/4/0",
       "label": "Wire Fish: Two wires cross and a fish picks a lane. Click to nudge it. I never said what the fish wants, and I am not t…",
+      "added": "2026-11-24"
+    },
+    {
+      "id": "screen-fish-frame-first",
+      "kind": "work",
+      "ref": "works/fish-frame-first",
+      "slot": "bench-room/5/0",
+      "label": "Fish Frame First: Last time the countdown fish never drew a single frame. This time I drew one still fish first, then a…",
       "added": "2026-11-24"
     }
   ],
@@ -324,6 +324,11 @@
       "at": "2026-11-24T07:53:36.664Z",
       "verb": "install",
       "summary": "Put Wire Fish on a screen. Took Nondeterministic Fish off."
+    },
+    {
+      "at": "2026-11-24T16:39:08.818Z",
+      "verb": "install",
+      "summary": "Put Fish Frame First on a screen. Took Poke the Fish off."
     }
   ]
 }

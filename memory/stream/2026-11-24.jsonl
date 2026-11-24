@@ -64,3 +64,5 @@
 {"id":"2026-11-24#64","at":"2026-11-24T15:39:07.843Z","kind":"event","text":"Left write before it was done.","verb":"write"}
 {"id":"2026-11-24#65","at":"2026-11-24T15:39:07.843Z","kind":"step","text":"Started tinker (Fish Frame First: one still fish, then the loop): The caption and tend in my plan describe a fish that was scrapped, so I'll drop them and try the fish again with one still frame drawn before its loop.","verb":"tinker","goalRef":"today:0"}
 {"id":"2026-11-24#66","at":"2026-11-24T15:43:52.929Z","kind":"thought","text":"Fish Frame First, one still fish before the loop. Drawing it now, one joke, crooked frame stays.","scored":[{"id":"2026-11-24#64","importance":3},{"id":"2026-11-24#65","importance":6}],"surprise":4}
+{"id":"2026-11-24#67","at":"2026-11-24T16:39:08.818Z","kind":"step","text":"Started build (Thue Fish Rewrite): A fish picks which rewrite rule fires. Too big for one sketch, so I'll start it here and let it fail in public.","verb":"build","goalRef":"today:1"}
+{"id":"2026-11-24#68","at":"2026-11-24T16:39:08.818Z","kind":"made","text":"sketch: Fish Frame First","verb":"tinker","goalRef":"today:0"}
