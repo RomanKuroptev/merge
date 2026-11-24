@@ -1,7 +1,7 @@
 {
   "id": "thue-fish-rewrite",
   "name": "Thue Fish Rewrite",
-  "aim": "Make the fish's choice matter: add fish snacks, a rule editor, and a program that fails in a funny way.",
+  "aim": "Polish: make the canvas fit the page, add a snack-eating sound, and a fish mood meter.",
   "started": "2026-11-24T16:39:59.389Z",
   "status": "building",
   "reason": null,
@@ -12,6 +12,15 @@
       "usd": 0.039862,
       "turns": 2,
       "shot": "shots/1.png",
+      "broken": false,
+      "engine": false
+    },
+    {
+      "at": "2026-11-24T19:13:58.939Z",
+      "caption": "Added fish snacks (click the sea to bribe the fish), a rule editor, and a Fish loop program that never ends and makes the fish sad.",
+      "usd": 0.050576,
+      "turns": 3,
+      "shot": "shots/2.png",
       "broken": false,
       "engine": false
     }
