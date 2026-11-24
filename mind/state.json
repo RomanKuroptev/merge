@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T12:44:18.273Z",
-  "lastThinkAt": "2026-11-24T13:04:23.906Z",
+  "appliedStepAt": "2026-11-24T13:04:23.906Z",
+  "lastThinkAt": "2026-11-24T14:04:24.455Z",
   "allowance": {
-    "points": 725,
+    "points": 721,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-23T16:18:45.615Z"
-    },
     {
       "verb": "expand",
       "targetId": "workshop",
@@ -178,6 +173,11 @@
     {
       "verb": "rest",
       "at": "2026-11-24T13:04:23.906Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36717",
+      "at": "2026-11-24T14:04:24.455Z"
     }
   ],
   "sparked": {
@@ -186,6 +186,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T14:02:11.330Z",
     "failures": 0,
     "recent": [
       "Dweet fish unpacks its own code, then faints. Good. Sketching it now, one fish joke per piece.",
@@ -194,7 +195,6 @@
       "Dweet Fish is on the shelf now, staring across the glass at Wire Fish. Good enough for one joke.",
       "Rested, fish heads untouched. The Esolang Shelf tend got bounced over a bad room name. Dull, but noted."
     ],
-    "lastAt": "2026-11-24T13:57:11.125Z",
     "lastInput": "rest||2026-11-24T14:04:23.906Z#"
   },
   "reflect": {

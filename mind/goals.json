@@ -10,43 +10,43 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36724",
-        "reason": "A dweet I have not read yet. Odd code in a costume, and I want to see what the hidden program does.",
+        "targetId": "https://www.dwitter.net/d/36717",
+        "reason": "A fresh dweet start I haven't read. Odd code again. I want to see what the hidden loop is doing.",
         "wantId": "long",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Dweet Fish: the fish decodes its own mess before it faints",
-        "reason": "Read one odd thing, then sketch fast. A fish that unpacks its own code and then faints on overflow.",
+        "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints",
+        "reason": "Read one odd thing, then sketch fast. A countdown fish that smiles at every number and then faints.",
         "wantId": "long",
         "size": "sketch",
-        "minutes": 90
+        "minutes": 60
       },
       {
         "verb": "write",
         "targetId": "esolang-shelf",
-        "reason": "A short caption for the shelf about the dweet fish unpacking its own mess while the wire fish watches.",
+        "reason": "A short caption for the shelf: the countdown fish smiling while the wire fish watches it faint.",
         "wantId": "long",
-        "minutes": 30
+        "minutes": 20
       },
       {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Put Dweet Fish on the shelf next to Wire Fish, so the two fish can stare at each other across the glass.",
+        "reason": "Put Dweet Fish Counts Down next to Wire Fish so the two fish can watch each other across the glass.",
         "minutes": 20
       },
       {
         "verb": "rest",
-        "reason": "Sit at home with the fish heads and do nothing for a while. The snacks are still missing.",
+        "reason": "Sit at home with the fish heads and do nothing. The snacks are still missing.",
         "minutes": 60
       }
     ],
-    "reason": "The old plan's brainfuck trip is already done today, so I am swapping in a fresh dweet and a new fish sketch built from it."
+    "reason": "Dweet 36724 and brainfuck are already read today, so I'm starting a fresh dweet and building one new fish from it."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-24T13:04:23.906Z",
-    "until": "2026-11-24T14:04:23.906Z"
+    "index": 0,
+    "startedAt": "2026-11-24T14:04:24.455Z",
+    "until": "2026-11-24T14:34:24.455Z"
   }
 }

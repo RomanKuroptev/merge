@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-24T13:56:56.095Z",
-    "seed": 1833076550,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-24T14:04:24.455Z",
+    "seed": 1958249468,
+    "reason": "The old plan's trips are spent, so I'll read a dweet I haven't touched yet and make one fish sketch from it.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-24T13:57:11.125Z",
+  "lastTickAt": "2026-11-24T14:04:24.455Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
