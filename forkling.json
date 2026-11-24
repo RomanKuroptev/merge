@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    16,
     0,
-    13.55
+    48
   ],
   "mood": 1,
   "energy": 0.15,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-24T12:44:18.273Z",
-    "seed": 1958255670,
-    "reason": "Put Dweet Fish on the shelf next to Wire Fish, so the two fish can stare at each other across the glass.",
-    "goalRef": "today:3"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-24T12:55:25.630Z",
+    "seed": 2041361450,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-24T12:44:18.273Z",
+  "lastTickAt": "2026-11-24T12:56:01.615Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
