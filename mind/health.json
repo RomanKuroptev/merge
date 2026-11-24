@@ -1,56 +1,62 @@
 {
-  "updatedAt": "2026-11-24T06:07:41.528Z",
+  "updatedAt": "2026-11-24T06:23:32.055Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T06:07:41.528Z",
+    "at": "2026-11-24T06:23:32.055Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: tinker, wandered from https://esolangs.org/wiki/Brainfuck",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:9a135263",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Brainfuck",
-      "until": "2026-11-24T06:23:29.576Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Wire Fish: two fish wires cross and the fish picks which la…",
+      "until": "2026-11-24T07:53:32.055Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T05:53:29.576Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 427,
+    "ticks": 443,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "thought": 1
+      "thought": 1,
+      "read": 1
     },
     "spendByKind": {
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
-      "thought": 0.000536725
+      "thought": 0.000536725,
+      "read": 0.0004781
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://esolangs.org/wiki/Brainfuck": 1
+      "wander https://esolangs.org/wiki/Brainfuck": 1,
+      "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 1,
       "max": 40
     }
   },
@@ -58,22 +64,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.583
+      "share": 0.538
     }
   },
   "allowance": {
-    "points": 801,
+    "points": 778,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 15
+    "minutes": 31
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 2.98628802,
+    "monthUsd": 2.98676612,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -96,14 +102,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 14,
-      "strangers": 14,
+      "trips": 15,
+      "strangers": 15,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.583,
+      "share": 0.538,
       "wouldFire": false
     },
     "draws": {

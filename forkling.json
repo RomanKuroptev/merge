@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 0.8,
-  "energy": 0.5,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-24T06:03:07.643Z",
-    "seed": 2024018399,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-24T06:23:32.055Z",
+    "seed": 1958230000,
+    "reason": "A small sketch from the wire-crossing page. Read one odd thing, then sketch fast.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-24T06:03:39.203Z",
+  "lastTickAt": "2026-11-24T06:23:32.055Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
