@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    23.2,
     0,
-    13.55
+    26.15
   ],
   "mood": 0.8,
   "energy": 0.45,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-24T06:23:32.055Z",
-    "seed": 1958230000,
-    "reason": "A small sketch from the wire-crossing page. Read one odd thing, then sketch fast.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-24T06:33:47.072Z",
+    "seed": 478099881,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-24T06:23:32.055Z",
+  "lastTickAt": "2026-11-24T06:33:58.593Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
