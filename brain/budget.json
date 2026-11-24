@@ -2,28 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 3.09773496,
+  "spentUsd": 3.09962939,
   "calls": [
-    {
-      "at": "2026-11-17T18:42:57.798Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 517,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011462000000000001
-    },
-    {
-      "at": "2026-11-17T18:45:00.539Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 511,
-      "cacheRead": 3042,
-      "cacheWrite": 0,
-      "output": 65,
-      "usd": 0.00011402000000000001
-    },
     {
       "at": "2026-11-17T18:47:03.560Z",
       "kind": "thought",
@@ -5003,16 +4983,36 @@
       "cacheWrite": 0,
       "output": 149,
       "usd": 0.00015613999999999998
+    },
+    {
+      "at": "2026-11-24T14:35:08.778Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 5346,
+      "cacheRead": 0,
+      "cacheWrite": 3724,
+      "output": 610,
+      "usd": 0.0013051
+    },
+    {
+      "at": "2026-11-24T14:37:38.754Z",
+      "kind": "thought",
+      "model": "claude-haiku-5-5",
+      "input": 797,
+      "cacheRead": 0,
+      "cacheWrite": 3597,
+      "output": 120,
+      "usd": 0.000589325
     }
   ],
   "byKind": {
     "thought": {
-      "calls": 1505,
-      "input": 678960,
+      "calls": 1506,
+      "input": 679757,
       "cacheRead": 3506592,
-      "cacheWrite": 504159,
-      "output": 106152,
-      "usd": 0.21905804
+      "cacheWrite": 507756,
+      "output": 106272,
+      "usd": 0.21964737
     },
     "bedtime": {
       "calls": 4,
@@ -5047,12 +5047,12 @@
       "usd": 0.07146666
     },
     "decide": {
-      "calls": 110,
-      "input": 441786,
+      "calls": 111,
+      "input": 447132,
       "cacheRead": 110317,
-      "cacheWrite": 243289,
-      "output": 146444,
-      "usd": 0.14891505
+      "cacheWrite": 247013,
+      "output": 147054,
+      "usd": 0.15022015
     },
     "art": {
       "calls": 50,

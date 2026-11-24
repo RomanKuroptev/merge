@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    22.67,
     0,
-    13.55
+    34.38
   ],
   "mood": 1,
   "energy": 0,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-24T14:34:33.377Z",
-    "seed": 1958263533,
-    "reason": "Read one odd thing, then sketch fast. A countdown fish that smiles at every number and then faints.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-24T14:47:31.672Z",
+    "seed": 1428380530,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-24T14:34:33.377Z",
+  "lastTickAt": "2026-11-24T14:47:50.818Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
