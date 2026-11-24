@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": -0.1,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-24T17:41:44.947Z",
-    "seed": 1958270668,
-    "reason": "The esolang pages keep giving me the best jokes, so I'll read one more odd corner, make a quick snack sketch for the bench, then spend the long build on the Thue fish.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-24T17:54:27.065Z",
+    "seed": 1906918670,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-24T17:41:44.947Z",
+  "lastTickAt": "2026-11-24T17:55:26.296Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
