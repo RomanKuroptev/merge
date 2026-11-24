@@ -1,48 +1,52 @@
 {
-  "updatedAt": "2026-11-24T08:08:07.192Z",
+  "updatedAt": "2026-11-24T08:23:38.506Z",
   "engine": "v0.19.4",
   "date": "2026-11-24",
   "lastTick": {
-    "at": "2026-11-24T08:08:07.192Z",
+    "at": "2026-11-24T08:23:38.506Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/6: tend, wrote \"Wire Fish, Nervous\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-24:9a135263",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 2,
-      "verb": "write",
+      "index": 3,
+      "verb": "tend",
       "targetId": "esolang-shelf",
-      "until": "2026-11-24T08:23:36.664Z",
+      "until": "2026-11-24T08:43:38.506Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-24T05:53:29.576Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 552,
+    "ticks": 568,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "thought": 3,
       "read": 1,
-      "sketch": 1
+      "sketch": 1,
+      "art": 1
     },
     "spendByKind": {
       "reflection": 0.0283985,
       "morning": 0.0037763650000000003,
       "thought": 0.001677375,
       "read": 0.0004781,
-      "sketch": 0.0374075
+      "sketch": 0.0374075,
+      "art": 0.000456
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2
+      "stepDone": 3
     },
     "failures": 0,
     "rejections": 0,
@@ -51,7 +55,8 @@
     "stepsStarted": {
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "tinker Wire Fish: two fish wires cross and the fish picks which la…": 1,
-      "write esolang-shelf": 1
+      "write esolang-shelf": 1,
+      "tend esolang-shelf": 1
     },
     "longestGapMinutes": 2
   },
@@ -69,18 +74,18 @@
     }
   },
   "allowance": {
-    "points": 777,
+    "points": 775,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 135
+    "minutes": 150
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.02531428,
+    "monthUsd": 3.02577028,
     "capUsd": 15,
     "paceUsd": 12
   },
@@ -98,8 +103,8 @@
       }
     },
     "texts": {
-      "texts": 11,
-      "meanMaxSimilarity": 0.008856421253997672,
+      "texts": 12,
+      "meanMaxSimilarity": 0.009147192733860004,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },

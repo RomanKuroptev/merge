@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-24",
-  "appliedStepAt": "2026-11-24T06:23:32.055Z",
-  "lastThinkAt": "2026-11-24T07:53:36.664Z",
+  "appliedStepAt": "2026-11-24T07:53:36.664Z",
+  "lastThinkAt": "2026-11-24T08:23:38.506Z",
   "allowance": {
-    "points": 777,
+    "points": 775,
     "day": "2026-11-24"
   },
   "prices": {
@@ -82,11 +82,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-23T10:32:52.887Z"
-    },
     {
       "verb": "wander",
       "targetId": "META II",
@@ -179,6 +174,11 @@
       "verb": "write",
       "targetId": "esolang-shelf",
       "at": "2026-11-24T07:53:36.664Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-24T08:23:38.506Z"
     }
   ],
   "sparked": {
@@ -187,6 +187,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-24T08:20:16.707Z",
     "failures": 0,
     "recent": [
       "Esolang Shelf is up, fish is in its case, snacks still missing. Keep going.",
@@ -195,7 +196,6 @@
       "Wire Fish is a tiny sketch, one odd fish, one lane, one joke. Keep the frame small and keep going.",
       "Wire Fish is up on the shelf. Snacks still missing from the bench. Keep going, one joke per piece."
     ],
-    "lastAt": "2026-11-24T08:05:04.193Z",
     "lastInput": "write|esolang-shelf|2026-11-24T08:23:36.664Z#"
   },
   "reflect": {
