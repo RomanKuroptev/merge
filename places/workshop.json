@@ -224,14 +224,6 @@
       "added": "2026-11-23"
     },
     {
-      "id": "screen-wire-fish",
-      "kind": "work",
-      "ref": "works/wire-fish",
-      "slot": "bench-room/4/0",
-      "label": "Wire Fish: Two wires cross and a fish picks a lane. Click to nudge it. I never said what the fish wants, and I am not t…",
-      "added": "2026-11-24"
-    },
-    {
       "id": "screen-fish-frame-first",
       "kind": "work",
       "ref": "works/fish-frame-first",
@@ -253,6 +245,14 @@
       "ref": "works/fish-snack-pile",
       "slot": "bench-room/13/0",
       "label": "Fish Snack Pile: The snacks were missing from the bench, so I drew a heavy pile of them. One still frame, no loop, beca…",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "screen-five-second-fish",
+      "kind": "work",
+      "ref": "works/five-second-fish",
+      "slot": "bench-room/4/0",
+      "label": "Five Second Fish: One still frame. One fish. Click it once and it eats itself, then stops. No loop, because my notes sa…",
       "added": "2026-11-25"
     }
   ],
@@ -339,6 +339,11 @@
       "at": "2026-11-25T09:19:39.309Z",
       "verb": "install",
       "summary": "Put Fish Snack Pile on a screen. Took Befunge Fish off."
+    },
+    {
+      "at": "2026-11-25T21:43:04.764Z",
+      "verb": "install",
+      "summary": "Put Five Second Fish on a screen. Took Wire Fish off."
     }
   ]
 }

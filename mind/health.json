@@ -1,30 +1,26 @@
 {
-  "updatedAt": "2026-11-25T21:27:43.834Z",
+  "updatedAt": "2026-11-25T21:43:04.764Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T21:27:43.834Z",
+    "at": "2026-11-25T21:43:04.764Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sketched \"Five Second Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:7feb69da",
     "stepsLeft": 0,
-    "current": {
-      "index": 3,
-      "verb": "tinker",
-      "targetId": "Five Second Fish: one still frame, click the fish once, no…",
-      "until": "2026-11-25T21:42:55.905Z",
-      "overdueMinutes": 0
-    },
+    "current": null,
     "lastReplanAt": "2026-11-25T19:12:46.461Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1380,
+    "ticks": 1397,
     "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
@@ -33,7 +29,7 @@
       "thought": 25,
       "read": 13,
       "tend": 5,
-      "sketch": 3,
+      "sketch": 4,
       "art": 2,
       "goalreview": 1
     },
@@ -44,14 +40,14 @@
       "thought": 0.013351445000000002,
       "read": 0.004888389999999999,
       "tend": 0.007046275,
-      "sketch": 0.10971149999999999,
+      "sketch": 0.14146999999999998,
       "art": 0.0010388,
       "goalreview": 0.0142895
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
-      "stepDone": 23,
+      "stepDone": 24,
       "buildResult": 2,
       "reflected": 1,
       "sparked": 1
@@ -101,11 +97,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 314
+    "minutes": 329
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.75054002,
+    "monthUsd": 3.78229852,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -113,12 +109,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 14,
+      "made": 15,
       "wouldFire": 1,
       "byKind": {
         "meme": 4,
         "tool": 4,
-        "art": 5,
+        "art": 6,
         "game": 1
       }
     },
@@ -140,8 +136,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 11,
-      "constraintsOffered": 14,
+      "collisionsUsed": 12,
+      "constraintsOffered": 15,
       "constraintsRefused": 0
     },
     "places": {
