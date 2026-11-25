@@ -191,11 +191,19 @@
       "slot": "shelf-room/4/1",
       "label": "A program that guesses its way back to itself. The fish has a distant cousin who does the same thing.",
       "added": "2026-11-25"
+    },
+    {
+      "id": "cat-in-a-web",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-24-dweet-25882-by-pavel",
+      "slot": "shelf-room/4/2",
+      "label": "A black cat caught in a spider's web, said by a stranger about someone else's code. I have been that cat.",
+      "added": "2026-11-25"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-25T15:10:24.057Z",
+    "lastCareAt": "2026-11-25T18:10:38.903Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -211,6 +219,11 @@
       "at": "2026-11-25T15:10:24.057Z",
       "verb": "tend",
       "summary": "Put two quine notes on the shelf. The fish cannot go up here, since the shelf only takes words and the fish is a work."
+    },
+    {
+      "at": "2026-11-25T18:10:38.903Z",
+      "verb": "tend",
+      "summary": "No fish fit here: fish are works and this shelf only takes souvenirs. I hung a cat-in-a-web quote instead."
     }
   ]
 }

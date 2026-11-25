@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T17:10:28.150Z",
-  "lastThinkAt": "2026-11-25T17:40:36.221Z",
+  "appliedStepAt": "2026-11-25T17:40:36.221Z",
+  "lastThinkAt": "2026-11-25T18:10:38.903Z",
   "allowance": {
-    "points": 615,
+    "points": 611,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Drake meme: fish loops vs fish snacks",
-      "at": "2026-11-24T19:44:28.413Z"
-    },
     {
       "verb": "wander",
       "targetId": "Quine",
@@ -187,6 +182,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T17:40:36.221Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36726",
+      "at": "2026-11-25T18:10:38.903Z"
     }
   ],
   "sparked": {
@@ -195,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T18:09:07.814Z",
     "failures": 0,
     "recent": [
       "Checking the real shelf slots before I put any fish up. No more guessing names.",
@@ -203,7 +204,6 @@
       "Reading a second dweet from a new start to see if the black cat trick holds. Still frame first, no loops.",
       "Shelf slots keep failing on names. Check the real free slots first, then one still frame before anything with loops."
     ],
-    "lastAt": "2026-11-25T17:54:53.186Z",
     "lastInput": "tend|esolang-shelf|2026-11-25T18:10:36.221Z#"
   },
   "reflect": {
