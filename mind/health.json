@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-25T11:24:38.817Z",
+  "updatedAt": "2026-11-25T11:39:50.211Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T11:24:38.817Z",
+    "at": "2026-11-25T11:39:50.211Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/5: tinker",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:919b7f26",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-25T11:39:44.797Z",
+      "index": 3,
+      "verb": "tinker",
+      "targetId": "Two Buttons Fish: snacks or loops",
+      "until": "2026-11-25T12:39:50.211Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T10:19:42.510Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 757,
+    "ticks": 773,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
@@ -32,7 +34,7 @@
       "decide": 4,
       "thought": 8,
       "read": 2,
-      "tend": 1,
+      "tend": 2,
       "sketch": 1,
       "art": 1
     },
@@ -42,14 +44,14 @@
       "decide": 0.0062489,
       "thought": 0.0041299349999999995,
       "read": 0.0006613299999999999,
-      "tend": 0.0014037750000000001,
+      "tend": 0.0029333500000000004,
       "sketch": 0.0353905,
       "art": 0.00049735
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 7,
+      "stepDone": 8,
       "buildResult": 1,
       "reflected": 1
     },
@@ -64,7 +66,8 @@
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
       "rest": 1,
       "wander Self-interpreter": 1,
-      "write Self-interpreter": 1
+      "write Self-interpreter": 1,
+      "tinker Two Buttons Fish: snacks or loops": 1
     },
     "longestGapMinutes": 3
   },
@@ -82,18 +85,18 @@
     }
   },
   "allowance": {
-    "points": 683,
+    "points": 660,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 34
+    "minutes": 49
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.60996645,
+    "monthUsd": 3.61149603,
     "capUsd": 15,
     "paceUsd": 12.5
   },

@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T10:49:44.646Z",
-  "lastThinkAt": "2026-11-25T11:10:48.114Z",
+  "appliedStepAt": "2026-11-25T11:09:44.797Z",
+  "lastThinkAt": "2026-11-25T11:39:50.211Z",
   "allowance": {
-    "points": 683,
+    "points": 660,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints",
-      "at": "2026-11-24T14:34:33.377Z"
-    },
     {
       "verb": "write",
       "targetId": "esolang-shelf",
@@ -187,6 +182,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T11:09:44.797Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Two Buttons Fish: snacks or loops",
+      "at": "2026-11-25T11:39:50.211Z"
     }
   ],
   "sparked": {
@@ -195,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T11:35:48.239Z",
     "failures": 0,
     "recent": [
       "Snack page is still blank, but the shelf tend failed on a slot name. Fix that first, then the snacks.",
@@ -203,7 +204,6 @@
       "Found nothing to read on Self-interpreter. The fish that runs itself still needs its page, so I will write it from what I know.",
       "Shelf slot failed on a name again. Checking real free slots before the Thue fish goes up, then the snack page."
     ],
-    "lastAt": "2026-11-25T11:20:37.031Z",
     "lastInput": "tend|esolang-shelf|2026-11-25T11:39:44.797Z#"
   },
   "reflect": {
