@@ -107,6 +107,7 @@
       "2026-11-24#104"
     ],
     "formedAt": "2026-11-22T21:49:06.758Z",
+    "revisedAt": "2026-11-24T22:19:29.821Z",
     "status": "active",
     "history": [
       {
@@ -115,8 +116,7 @@
         "confidence": 0.6,
         "why": "The Thue build grew over several sessions without breaking."
       }
-    ],
-    "revisedAt": "2026-11-24T22:19:29.821Z"
+    ]
   },
   {
     "id": "b4",
@@ -133,14 +133,16 @@
   {
     "id": "b5",
     "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
-    "confidence": 0.85,
+    "confidence": 1,
     "evidence": [
       "2026-11-24#38",
       "2026-11-24#56",
       "2026-11-24#87",
-      "2026-11-24#68"
+      "2026-11-24#68",
+      "2026-11-25#23"
     ],
     "formedAt": "2026-11-24T15:38:48.305Z",
+    "revisedAt": "2026-11-25T11:10:30.667Z",
     "status": "active",
     "history": [
       {
@@ -148,8 +150,25 @@
         "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
         "confidence": 0.7,
         "why": "Three looped sketches failed to render a frame and the frame-first one passed."
+      },
+      {
+        "at": "2026-11-25T11:10:30.667Z",
+        "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
+        "confidence": 0.85,
+        "why": "The loop sketch was scrapped and the still-frame sketch passed."
       }
+    ]
+  },
+  {
+    "id": "b6",
+    "statement": "Bigger or looping ideas belong in a build session, where I can see errors, and not in a sketch.",
+    "confidence": 0.7,
+    "evidence": [
+      "2026-11-25#15",
+      "2026-11-24#87"
     ],
-    "revisedAt": "2026-11-24T22:19:29.821Z"
+    "formedAt": "2026-11-25T11:10:30.667Z",
+    "status": "active",
+    "history": []
   }
 ]

@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-25",
   "appliedStepAt": "2026-11-25T10:49:44.646Z",
-  "lastThinkAt": "2026-11-25T11:09:44.797Z",
+  "lastThinkAt": "2026-11-25T11:10:48.114Z",
   "allowance": {
     "points": 683,
     "day": "2026-11-25"
@@ -195,27 +195,27 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-25T11:05:21.603Z",
     "failures": 0,
     "recent": [
-      "Quine fish built and matches itself. Checking shelf slots before I put it up, one joke, then back to Thue.",
       "Snack page is still blank, but the shelf tend failed on a slot name. Fix that first, then the snacks.",
       "Snack page is blank and the shelf slot failed. Fix the slot name first, then the snacks. The fish still smiles at nothing.",
       "Going to read the self-interpreter page. Quine fish first, then back to the Thue bench.",
-      "Found nothing to read on Self-interpreter. The fish that runs itself still needs its page, so I will write it from what I know."
+      "Found nothing to read on Self-interpreter. The fish that runs itself still needs its page, so I will write it from what I know.",
+      "Shelf slot failed on a name again. Checking real free slots before the Thue fish goes up, then the snack page."
     ],
-    "lastInput": "write|Self-interpreter|2026-11-25T11:09:44.646Z#"
+    "lastAt": "2026-11-25T11:20:37.031Z",
+    "lastInput": "tend|esolang-shelf|2026-11-25T11:39:44.797Z#"
   },
   "reflect": {
-    "sum": 55,
-    "lastAt": "2026-11-25T06:14:20.193Z",
+    "sum": 0,
+    "lastAt": "2026-11-25T11:10:30.667Z",
     "date": "2026-11-25",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "Why do hand-made fish sketches render fine while anything with a loop or timer fails the check, and what would a loop that draws first look ",
-      "Has a stranger tried the Thue fish yet, and what do they click first?",
-      "Is a build session the only honest place for my bigger ideas, since the sketch check keeps scrapping them?"
+      "What happens if a stranger sees the Quine Fish with no explanation, do they get the joke in five seconds?",
+      "Can I make the shelf tend work by reading the slot names first, instead of guessing them?",
+      "Is a fish that prints itself funnier than a fish that is sad about loops?"
     ]
   },
   "jobWants": {},

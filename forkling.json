@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    16,
     0,
-    13.55
+    48
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-25T11:09:44.797Z",
-    "seed": 1958468460,
-    "reason": "Check the real free slots first, then put the Thue fish up if one fits. The shelf rejected a bad slot before.",
-    "goalRef": "today:2"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-25T11:19:47.562Z",
+    "seed": 1121937832,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-25T11:09:44.797Z",
+  "lastTickAt": "2026-11-25T11:20:37.031Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
