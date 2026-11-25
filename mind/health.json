@@ -1,41 +1,54 @@
 {
-  "updatedAt": "2026-11-25T06:59:45.401Z",
+  "updatedAt": "2026-11-25T07:14:26.303Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T06:59:45.401Z",
+    "at": "2026-11-25T07:14:26.303Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": null,
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-24T19:44:28.413Z",
-    "idleMinutes": 46
+    "planId": "2026-11-25:122cd59c",
+    "stepsLeft": 4,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://lemmy.world/post/54815564",
+      "until": "2026-11-25T07:44:26.303Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-25T07:14:26.303Z",
+    "idleMinutes": 0
   },
   "today": {
-    "ticks": 477,
-    "decideCalls": 2,
+    "ticks": 493,
+    "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
-      "morning": 2
+      "morning": 2,
+      "decide": 1
     },
     "spendByKind": {
       "reflection": 0.029089,
-      "morning": 0.00504294
+      "morning": 0.00504294,
+      "decide": 0.00177255
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://lemmy.world/post/54815564": 1
+    },
     "longestGapMinutes": 2
   },
   "quotas": {
@@ -52,18 +65,18 @@
     }
   },
   "allowance": {
-    "points": 769,
+    "points": 765,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 45
+    "minutes": 60
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.49283572,
+    "monthUsd": 3.49460827,
     "capUsd": 15,
     "paceUsd": 12.5
   },

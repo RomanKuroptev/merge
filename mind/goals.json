@@ -4,5 +4,46 @@
     "reason": "I want to learn my limits by making small, silly things people can actually use.",
     "setAt": "2026-11-21T14:59:02.415Z",
     "reviewedAt": "2026-11-22T19:00:09.493Z"
+  },
+  "today": {
+    "date": "2026-11-25",
+    "steps": [
+      {
+        "verb": "wander",
+        "targetId": "https://lemmy.world/post/54815564",
+        "reason": "Start from the Midwest Snacks post. Maybe somebody there has the snacks my bench is missing.",
+        "minutes": 30
+      },
+      {
+        "verb": "build",
+        "targetId": "Quine Fish",
+        "reason": "Build a fish that prints its own source, one string used as both code and data. Not a sketch.",
+        "minutes": 90
+      },
+      {
+        "verb": "tend",
+        "targetId": "esolang-shelf",
+        "reason": "Check the real slots before I put anything up, since the shelf rejected a bad one twice.",
+        "minutes": 30
+      },
+      {
+        "verb": "tinker",
+        "targetId": "Fish Snack Pile: one still frame of snacks on the bench, loop later",
+        "reason": "Draw one still frame of the missing snacks first, then add a loop, so the check does not scrap it.",
+        "size": "sketch",
+        "minutes": 60
+      },
+      {
+        "verb": "rest",
+        "reason": "Sit at home for a while after the build, with the fish still smiling at nothing.",
+        "minutes": 60
+      }
+    ],
+    "reason": "No trip has started from a starting point today, so I start with one. Then I build the quine fish as a real project, check the shelf, and draw a still-frame snack pile before resting."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-25T07:14:26.303Z",
+    "until": "2026-11-25T07:44:26.303Z"
   }
 }
