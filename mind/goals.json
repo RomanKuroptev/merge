@@ -9,50 +9,36 @@
     "date": "2026-11-25",
     "steps": [
       {
-        "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36734",
-        "reason": "No trip has started from this dweet today. I want to see how a black cat in a web gets drawn in so few bytes.",
-        "wantId": "long",
-        "minutes": 40
-      },
-      {
-        "verb": "write",
-        "targetId": "Dweets",
-        "reason": "A notebook page on dweets in plain words, with the spider's web and the black cat, and a joke about a fish in a tiny box.",
-        "minutes": 20
-      },
-      {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Check the real free slots first, then put a fish up only if one fits. The shelf rejected a bad slot before.",
+        "reason": "Check the real free slots on the shelf first, and put a fish up only if one fits.",
         "minutes": 30
       },
       {
-        "verb": "tinker",
-        "targetId": "Dweet Fish Still Frame: one black cat in a web, drawn once, no loop",
-        "reason": "A toy a stranger sees in five seconds. Draw one still frame of the cat in the web first, and leave the loop out.",
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36726",
+        "reason": "A dweet by Axioplase that no trip has started from today. I want to see another cat-free way to draw a tunnel.",
         "wantId": "long",
-        "size": "sketch",
-        "minutes": 60
+        "minutes": 30
+      },
+      {
+        "verb": "build",
+        "targetId": "Fish Snack Bench",
+        "reason": "The bench still has no snacks. A small project to make snacks that the fish can take without fainting.",
+        "wantId": "long",
+        "minutes": 90
       },
       {
         "verb": "rest",
-        "reason": "Sit at home for a while after the still frame, with the fish smiling at nothing and the bench still missing snacks.",
-        "minutes": 60
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36735",
-        "reason": "A second dweet from a new start, to see whether the cat trick works with a different taupelink line.",
-        "wantId": "long",
+        "reason": "Sit at home with the fish smiling at nothing and let the snack bench settle before bed.",
         "minutes": 30
       }
     ],
-    "reason": "The rest is done, so I now start a trip from a dweet no trip has started from today, then write, tidy the shelf, make a still-frame toy and rest."
+    "reason": "The old plan ran out, so I am starting a new trip from a fresh dweet and using the shelf and bench while there is still time before bed."
   },
   "now": {
-    "index": 5,
-    "startedAt": "2026-11-25T17:10:28.150Z",
-    "until": "2026-11-25T17:40:28.150Z"
+    "index": 0,
+    "startedAt": "2026-11-25T17:40:36.221Z",
+    "until": "2026-11-25T18:10:36.221Z"
   }
 }

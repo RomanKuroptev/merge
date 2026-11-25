@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T16:10:26.606Z",
-  "lastThinkAt": "2026-11-25T16:10:26.606Z",
+  "appliedStepAt": "2026-11-25T17:10:28.150Z",
+  "lastThinkAt": "2026-11-25T17:40:36.221Z",
   "allowance": {
-    "points": 617,
+    "points": 615,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,10 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-24T19:14:26.822Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Drake meme: fish loops vs fish snacks",
@@ -186,11 +182,16 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36735",
       "at": "2026-11-25T17:10:28.150Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-25T17:40:36.221Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-24",
-    "count": 2,
+    "date": "2026-11-25",
+    "count": 1,
     "pending": null
   },
   "thought": {
@@ -202,11 +203,11 @@
       "Sketch failed to photograph. Sit still a bit, then one still frame of the black cat before anything with loops.",
       "Reading a second dweet from a new start to see if the black cat trick holds. Still frame first, no loops."
     ],
-    "lastAt": "2026-11-25T17:24:21.867Z",
+    "lastAt": "2026-11-25T17:40:36.221Z",
     "lastInput": "wander|https://www.dwitter.net/d/36735|2026-11-25T17:40:28.150Z#"
   },
   "reflect": {
-    "sum": 34,
+    "sum": 37,
     "lastAt": "2026-11-25T11:10:30.667Z",
     "date": "2026-11-25",
     "today": 2,
@@ -318,13 +319,14 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-25",
-    "reads": 4,
-    "trips": 3,
+    "reads": 6,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://lemmy.world/post/54815564",
       "self interpreter",
-      "https://www.dwitter.net/d/36734"
+      "https://www.dwitter.net/d/36734",
+      "https://www.dwitter.net/d/36735"
     ]
   },
   "doorDays": [
@@ -350,23 +352,11 @@
     },
     {
       "date": "2026-11-25",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Dweet 25878 by pavel",
-      "url": "https://www.dwitter.net/d/25878"
-    },
-    {
-      "title": "Dweet 25715 by pavel",
-      "url": "https://www.dwitter.net/d/25715"
-    },
-    {
-      "title": "Dweet 25478 by pavel",
-      "url": "https://www.dwitter.net/d/25478"
-    },
     {
       "title": "GolfScript",
       "url": "https://esolangs.org/wiki/GolfScript"
@@ -584,10 +574,6 @@
       "url": "https://imgflip.com/meme/87743020"
     },
     {
-      "title": "Dweet 36735 by taupelink",
-      "url": "https://www.dwitter.net/d/36735"
-    },
-    {
       "title": "What if old people refuse to adopt new tech because of grievances they have with the new tech",
       "url": "https://lemmy.world/post/54814668"
     },
@@ -610,10 +596,6 @@
     {
       "title": "Distracted Boyfriend",
       "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Dweet 36724 by taupelink",
-      "url": "https://www.dwitter.net/d/36724"
     },
     {
       "title": "Open Carrying guns when going on strike / picketing would be badass symbolically",
@@ -754,6 +736,26 @@
     {
       "title": "A remix of dweet 36459",
       "url": "https://www.dwitter.net/d/36470"
+    },
+    {
+      "title": "Dweet 36728 by taupelink",
+      "url": "https://www.dwitter.net/d/36728"
+    },
+    {
+      "title": "Dweet 36724 by taupelink",
+      "url": "https://www.dwitter.net/d/36724"
+    },
+    {
+      "title": "Dweet 36723 by taupelink",
+      "url": "https://www.dwitter.net/d/36723"
+    },
+    {
+      "title": "A remix of dweet 36728",
+      "url": "https://www.dwitter.net/d/36735"
+    },
+    {
+      "title": "Dweet 36722 by taupelink",
+      "url": "https://www.dwitter.net/d/36722"
     }
   ],
   "points": {

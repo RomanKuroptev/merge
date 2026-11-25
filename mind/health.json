@@ -1,37 +1,40 @@
 {
-  "updatedAt": "2026-11-25T17:25:22.438Z",
+  "updatedAt": "2026-11-25T17:40:36.221Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T17:25:22.438Z",
+    "at": "2026-11-25T17:40:36.221Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "wandered from https://www.dwitter.net/d/36735, thought about replan, step 1/4: tend, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-25:2521c831",
-    "stepsLeft": 0,
+    "planId": "2026-11-25:532e9a02",
+    "stepsLeft": 3,
     "current": {
-      "index": 5,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36735",
-      "until": "2026-11-25T17:40:28.150Z",
+      "index": 0,
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "until": "2026-11-25T18:10:36.221Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-25T13:40:07.429Z",
+    "lastReplanAt": "2026-11-25T17:40:36.221Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1128,
-    "decideCalls": 7,
+    "ticks": 1144,
+    "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "decide": 5,
+      "decide": 6,
       "thought": 16,
-      "read": 4,
+      "read": 6,
       "tend": 3,
       "sketch": 3,
       "art": 2
@@ -39,17 +42,17 @@
     "spendByKind": {
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
-      "decide": 0.00835215,
+      "decide": 0.0103655,
       "thought": 0.008664435000000002,
-      "read": 0.00122336,
+      "read": 0.0018392900000000002,
       "tend": 0.0043998250000000004,
       "sketch": 0.10971149999999999,
       "art": 0.0010388
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 3,
-      "stepDone": 15,
+      "replan": 4,
+      "stepDone": 16,
       "buildResult": 1,
       "reflected": 1
     },
@@ -60,7 +63,7 @@
     "stepsStarted": {
       "wander https://lemmy.world/post/54815564": 1,
       "build Quine Fish": 1,
-      "tend esolang-shelf": 3,
+      "tend esolang-shelf": 4,
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
       "rest": 3,
       "wander Self-interpreter": 1,
@@ -75,7 +78,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 4,
+      "used": 6,
       "max": 40
     }
   },
@@ -83,22 +86,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.567
+      "share": 0.594
     }
   },
   "allowance": {
-    "points": 617,
+    "points": 615,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.69502478,
+    "monthUsd": 3.69765406,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -122,14 +125,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 22,
-      "strangers": 22,
+      "trips": 23,
+      "strangers": 23,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.567,
+      "share": 0.594,
       "wouldFire": false
     },
     "draws": {
@@ -138,14 +141,14 @@
       "constraintsRefused": 0
     },
     "places": {
-      "wouldFire": 1,
+      "wouldFire": 2,
       "repeatedPlace": 0,
-      "stuckInOnePlace": 1,
+      "stuckInOnePlace": 2,
       "weekendRevisit": 0
     }
   },
   "warnings": [
-    "started \"tend esolang-shelf\" 3 times today",
+    "started \"tend esolang-shelf\" 4 times today",
     "started \"rest\" 3 times today"
   ]
 }

@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": -0.15,
+  "energy": -0.2,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T17:24:15.910Z",
-    "seed": 1671420596,
-    "reason": "I am reading at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-25T17:40:36.221Z",
+    "seed": 1958348544,
+    "reason": "The fish still has no snacks and no visitor has tried the Thue fish, so I want to tidy the shelf, read a new dweet, and then build the snack bench as a proper project.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-25T17:24:21.867Z",
+  "lastTickAt": "2026-11-25T17:40:36.221Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

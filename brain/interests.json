@@ -203,21 +203,15 @@
       ]
     },
     "esoteric languages": {
-      "weight": 70.855,
+      "weight": 71.524,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-25T14:20:10.352Z",
+      "lastFed": "2026-11-25T17:40:36.221Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "trail:2026-11-24-5",
-          "title": "Quine",
-          "url": "https://esolangs.org/wiki/Quine",
-          "at": "2026-11-24T21:14:36.708Z"
         },
         {
           "id": "2026-11-24-quine",
@@ -236,15 +230,15 @@
           "title": "Dweet 36459 by UEZ",
           "url": "https://www.dwitter.net/d/36459",
           "at": "2026-11-25T14:20:10.352Z"
+        },
+        {
+          "id": "trail:2026-11-25-4",
+          "title": "Dweet 36723 by taupelink",
+          "url": "https://www.dwitter.net/d/36723",
+          "at": "2026-11-25T17:40:36.221Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 0,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        },
         {
           "at": "2026-11-23T15:18:37.012Z",
           "change": 0,
@@ -358,13 +352,19 @@
           "change": 0.855,
           "event": "page",
           "trail": "2026-11-25-3"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 0.669,
+          "event": "page",
+          "trail": "2026-11-25-4"
         }
       ]
     },
     "program flow": {
-      "weight": 80.972,
+      "weight": 98.972,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-25T14:20:10.352Z",
+      "lastFed": "2026-11-25T17:40:36.221Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
@@ -373,18 +373,6 @@
           "at": "2026-11-21T15:59:14.114Z"
         },
         {
-          "id": "trail:2026-11-24-2",
-          "title": "Dweet 36728 by taupelink",
-          "url": "https://www.dwitter.net/d/36728",
-          "at": "2026-11-24T10:43:59.734Z"
-        },
-        {
-          "id": "trail:2026-11-24-3",
-          "title": "Dweet 36717 by UEZ",
-          "url": "https://www.dwitter.net/d/36717",
-          "at": "2026-11-24T14:34:33.377Z"
-        },
-        {
           "id": "2026-11-24-dweet-25882-by-pavel",
           "title": "Dweet 25882 by pavel",
           "url": "https://www.dwitter.net/d/25882",
@@ -395,27 +383,21 @@
           "title": "Dweet 36734 by UEZ",
           "url": "https://www.dwitter.net/d/36734",
           "at": "2026-11-25T14:20:10.352Z"
+        },
+        {
+          "id": "trail:2026-11-25-4",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
+        },
+        {
+          "id": "2026-11-25-dweet-36735-by-taupelink",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-21T15:59:14.114Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-2"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        },
         {
           "at": "2026-11-21T20:36:14.638Z",
           "change": 4,
@@ -517,31 +499,37 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-25-3"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-4"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-4"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-4"
         }
       ]
     },
     "dweets": {
-      "weight": 81.617,
+      "weight": 99.617,
       "firstSeen": "2026-11-21T18:24:25.333Z",
-      "lastFed": "2026-11-25T14:20:10.352Z",
+      "lastFed": "2026-11-25T17:40:36.221Z",
       "sources": [
         {
           "id": "trail:2026-11-21-3",
           "title": "Dweet 36693 by UEZ",
           "url": "https://www.dwitter.net/d/36693",
           "at": "2026-11-21T18:24:25.333Z"
-        },
-        {
-          "id": "trail:2026-11-24-2",
-          "title": "Dweet 36724 by taupelink",
-          "url": "https://www.dwitter.net/d/36724",
-          "at": "2026-11-24T10:43:59.734Z"
-        },
-        {
-          "id": "trail:2026-11-24-3",
-          "title": "Dweet 36717 by UEZ",
-          "url": "https://www.dwitter.net/d/36717",
-          "at": "2026-11-24T14:34:33.377Z"
         },
         {
           "id": "2026-11-24-dweet-25882-by-pavel",
@@ -554,27 +542,21 @@
           "title": "Dweet 36734 by UEZ",
           "url": "https://www.dwitter.net/d/36734",
           "at": "2026-11-25T14:20:10.352Z"
+        },
+        {
+          "id": "trail:2026-11-25-4",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
+        },
+        {
+          "id": "2026-11-25-dweet-36735-by-taupelink",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-22T13:19:30.615Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-3"
-        },
-        {
-          "at": "2026-11-22T13:19:30.615Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-3"
-        },
-        {
-          "at": "2026-11-23T15:18:37.012Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-3"
-        },
         {
           "at": "2026-11-23T15:18:37.012Z",
           "change": 4,
@@ -676,31 +658,37 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-25-3"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-4"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-4"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-4"
         }
       ]
     },
     "creative coding": {
-      "weight": 58.514,
+      "weight": 72.514,
       "firstSeen": "2026-11-21T18:24:25.333Z",
-      "lastFed": "2026-11-25T14:20:10.352Z",
+      "lastFed": "2026-11-25T17:40:36.221Z",
       "sources": [
         {
           "id": "trail:2026-11-21-3",
           "title": "Dweet 36693 by UEZ",
           "url": "https://www.dwitter.net/d/36693",
           "at": "2026-11-21T18:24:25.333Z"
-        },
-        {
-          "id": "trail:2026-11-23-4",
-          "title": "Dweet 36710 by llecram",
-          "url": "https://www.dwitter.net/d/36710",
-          "at": "2026-11-23T20:30:06.272Z"
-        },
-        {
-          "id": "trail:2026-11-24-2",
-          "title": "Dweet 36724 by taupelink",
-          "url": "https://www.dwitter.net/d/36724",
-          "at": "2026-11-24T10:43:59.734Z"
         },
         {
           "id": "trail:2026-11-24-3",
@@ -713,6 +701,18 @@
           "title": "Dweet 36734 by UEZ",
           "url": "https://www.dwitter.net/d/36734",
           "at": "2026-11-25T14:20:10.352Z"
+        },
+        {
+          "id": "trail:2026-11-25-4",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
+        },
+        {
+          "id": "2026-11-25-dweet-36735-by-taupelink",
+          "title": "Dweet 36735 by taupelink",
+          "url": "https://www.dwitter.net/d/36735",
+          "at": "2026-11-25T17:40:36.221Z"
         }
       ],
       "history": [
@@ -823,6 +823,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-25-3"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-4"
+        },
+        {
+          "at": "2026-11-25T17:40:36.221Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-4"
         }
       ]
     },

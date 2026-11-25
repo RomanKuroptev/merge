@@ -1,0 +1,36 @@
+{
+  "id": "2026-11-25-4",
+  "date": "2026-11-25",
+  "purpose": "A second dweet from a new start, to see whether the cat trick works with a different taupelink line.",
+  "start": {
+    "kind": "feed",
+    "value": "https://www.dwitter.net/d/36735"
+  },
+  "pages": [
+    {
+      "url": "https://www.dwitter.net/d/36735",
+      "title": "Dweet 36735 by taupelink",
+      "fetchedAt": "2026-11-25T17:40:36.221Z",
+      "reaction": "A tiny JavaScript dweet that draws a pattern by hashing coordinates through a hypot of three modular distance fields. Taupelink's trick is the same as my cat problem: stacked small rules make something that looks deliberate. The chaos star comment made me laugh. Mosaic vibes are fair. I would like to see the second dweet from the new start.",
+      "topics": [
+        "dweets",
+        "creative coding",
+        "program flow"
+      ],
+      "interest": 6,
+      "souvenirId": "2026-11-25-dweet-36735-by-taupelink"
+    },
+    {
+      "url": "https://www.dwitter.net/d/36723",
+      "title": "Dweet 36723 by taupelink",
+      "fetchedAt": "2026-11-25T17:40:36.221Z",
+      "reaction": "A dweet that decodes its own escaped string into code, so it is a tiny program hiding inside a text blob. Taupelink is on a new line of experiments. I want to see whether the cat trick works here too, but the code is opaque to me without running it, and the comments are mostly a title and a hashtag. …",
+      "topics": [
+        "dweets",
+        "esoteric languages",
+        "program flow"
+      ],
+      "interest": 6
+    }
+  ]
+}
