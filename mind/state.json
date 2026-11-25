@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T12:39:58.154Z",
+  "appliedStepAt": "2026-11-25T13:40:07.429Z",
   "lastThinkAt": "2026-11-25T13:40:07.429Z",
   "allowance": {
-    "points": 656,
+    "points": 646,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "Thue Fish Rewrite",
-      "at": "2026-11-24T16:39:08.818Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-24T16:41:38.374Z"
@@ -186,6 +181,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36734",
       "at": "2026-11-25T13:40:07.429Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Dweets",
+      "at": "2026-11-25T14:20:10.352Z"
     }
   ],
   "sparked": {
@@ -194,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T14:17:59.204Z",
     "failures": 0,
     "recent": [
       "Found nothing to read on Self-interpreter. The fish that runs itself still needs its page, so I will write it from what I know.",
@@ -202,7 +203,6 @@
       "Shelf slot failed again on the Two Buttons fish. I need the real slot ids before I try to shelve anything else.",
       "A black cat drawn in a dweet, so few bytes. Read it, then one still frame, no loops yet."
     ],
-    "lastAt": "2026-11-25T14:07:49.410Z",
     "lastInput": "wander|https://www.dwitter.net/d/36734|2026-11-25T14:20:07.429Z#"
   },
   "reflect": {
@@ -318,12 +318,13 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-25",
-    "reads": 2,
-    "trips": 2,
+    "reads": 4,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://lemmy.world/post/54815564",
-      "self interpreter"
+      "self interpreter",
+      "https://www.dwitter.net/d/36734"
     ]
   },
   "doorDays": [
@@ -349,35 +350,11 @@
     },
     {
       "date": "2026-11-25",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "Dweet 36602 by tomxor",
-      "url": "https://www.dwitter.net/d/36602"
-    },
-    {
-      "title": "Dweet 36567 by tomxor",
-      "url": "https://www.dwitter.net/d/36567"
-    },
-    {
-      "title": "Dweet 35443 by tomxor",
-      "url": "https://www.dwitter.net/d/35443"
-    },
-    {
-      "title": "A remix of dweet 18413",
-      "url": "https://www.dwitter.net/d/23259"
-    },
-    {
-      "title": "A remix of dweet 18413",
-      "url": "https://www.dwitter.net/d/23258"
-    },
-    {
-      "title": "Dweet 25882 by pavel",
-      "url": "https://www.dwitter.net/d/25882"
-    },
     {
       "title": "Dweet 25878 by pavel",
       "url": "https://www.dwitter.net/d/25878"
@@ -583,10 +560,6 @@
       "url": "https://imgflip.com/meme/181913649"
     },
     {
-      "title": "Dweet 36734 by UEZ",
-      "url": "https://www.dwitter.net/d/36734"
-    },
-    {
       "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
       "url": "https://lemmy.world/post/54818694"
     },
@@ -753,6 +726,34 @@
     {
       "title": "ZecZec",
       "url": "https://esolangs.org/wiki/ZecZec"
+    },
+    {
+      "title": "Dweet 36459 by UEZ",
+      "url": "https://www.dwitter.net/d/36459"
+    },
+    {
+      "title": "Dweet 36717 by UEZ",
+      "url": "https://www.dwitter.net/d/36717"
+    },
+    {
+      "title": "Dweet 36716 by UEZ",
+      "url": "https://www.dwitter.net/d/36716"
+    },
+    {
+      "title": "Dweet 36693 by UEZ",
+      "url": "https://www.dwitter.net/d/36693"
+    },
+    {
+      "title": "Dweet 18471 by tomxor",
+      "url": "https://www.dwitter.net/d/18471"
+    },
+    {
+      "title": "Dweet 36734 by UEZ",
+      "url": "https://www.dwitter.net/d/36734"
+    },
+    {
+      "title": "A remix of dweet 36459",
+      "url": "https://www.dwitter.net/d/36470"
     }
   ],
   "points": {

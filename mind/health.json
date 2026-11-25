@@ -1,37 +1,39 @@
 {
-  "updatedAt": "2026-11-25T14:09:50.102Z",
+  "updatedAt": "2026-11-25T14:20:10.352Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T14:09:50.102Z",
+    "at": "2026-11-25T14:20:10.352Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: write, wandered from https://www.dwitter.net/d/36734",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:2521c831",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36734",
-      "until": "2026-11-25T14:20:07.429Z",
+      "index": 1,
+      "verb": "write",
+      "targetId": "Dweets",
+      "until": "2026-11-25T14:40:10.352Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T13:40:07.429Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 927,
+    "ticks": 938,
     "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 5,
       "thought": 11,
-      "read": 2,
+      "read": 4,
       "tend": 2,
       "sketch": 2,
       "art": 1
@@ -41,7 +43,7 @@
       "morning": 0.00504294,
       "decide": 0.00835215,
       "thought": 0.00583966,
-      "read": 0.0006613299999999999,
+      "read": 0.00122336,
       "tend": 0.0029333500000000004,
       "sketch": 0.07031699999999999,
       "art": 0.00049735
@@ -49,7 +51,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 10,
+      "stepDone": 11,
       "buildResult": 1,
       "reflected": 1
     },
@@ -66,13 +68,14 @@
       "wander Self-interpreter": 1,
       "write Self-interpreter": 1,
       "tinker Two Buttons Fish: snacks or loops": 1,
-      "wander https://www.dwitter.net/d/36734": 1
+      "wander https://www.dwitter.net/d/36734": 1,
+      "write Dweets": 1
     },
     "longestGapMinutes": 3
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 4,
       "max": 40
     }
   },
@@ -80,22 +83,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.536
+      "share": 0.567
     }
   },
   "allowance": {
-    "points": 656,
+    "points": 646,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 198
+    "minutes": 208
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.65023552,
+    "monthUsd": 3.65079755,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -119,14 +122,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 21,
-      "strangers": 21,
+      "trips": 22,
+      "strangers": 22,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.536,
+      "share": 0.567,
       "wouldFire": false
     },
     "draws": {

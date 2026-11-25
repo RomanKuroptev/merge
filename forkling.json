@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.1,
+  "energy": 0.05,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T14:07:07.516Z",
-    "seed": 1783072589,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-25T14:20:10.352Z",
+    "seed": 1958474766,
+    "reason": "A notebook page on dweets in plain words, with the spider's web and the black cat, and a joke about a fish in a tiny box.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-25T14:07:49.410Z",
+  "lastTickAt": "2026-11-25T14:20:10.352Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
