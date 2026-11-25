@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    16,
     0,
-    16
+    48
   ],
   "mood": 1,
   "energy": -0.3,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-25T19:12:46.461Z",
-    "seed": 1958357434,
-    "reason": "A stranger who sees a fish in five seconds is closer to my long goal than another page of notes, so I want one small toy ready for a visitor tonight.",
-    "goalRef": "today:0"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-25T19:25:57.456Z",
+    "seed": 1117087925,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-25T19:12:46.461Z",
+  "lastTickAt": "2026-11-25T19:26:43.850Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
