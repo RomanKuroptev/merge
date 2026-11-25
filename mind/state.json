@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T18:40:42.844Z",
-  "lastThinkAt": "2026-11-25T19:00:19.314Z",
+  "appliedStepAt": "2026-11-25T18:42:39.921Z",
+  "lastThinkAt": "2026-11-25T19:12:46.461Z",
   "allowance": {
-    "points": 588,
+    "points": 586,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://lemmy.world/post/54815564",
-      "at": "2026-11-25T07:14:26.303Z"
-    },
     {
       "verb": "build",
       "targetId": "Quine Fish",
@@ -186,6 +181,11 @@
     {
       "verb": "rest",
       "at": "2026-11-25T18:42:39.921Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-25T19:12:46.461Z"
     }
   ],
   "sparked": {
@@ -194,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T19:12:26.292Z",
     "failures": 0,
     "recent": [
       "Shelf slots keep failing on names. Check the real free slots first, then one still frame before anything with loops.",
@@ -202,7 +203,6 @@
       "Sitting still with the fish. Snack bench is built, now let it settle before bed.",
       "Snack bench is built and the fish is sitting still. Let it settle before bed, then try a small still frame tomorrow."
     ],
-    "lastAt": "2026-11-25T19:10:21.842Z",
     "lastInput": "rest||2026-11-25T19:12:39.921Z#"
   },
   "reflect": {

@@ -11,34 +11,35 @@
       {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Check the real free slots on the shelf first, and put a fish up only if one fits.",
+        "reason": "Check the real free slots on the shelf and put a fish up only if one fits.",
+        "wantId": "long",
         "minutes": 30
       },
       {
         "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36726",
-        "reason": "A dweet by Axioplase that no trip has started from today. I want to see another cat-free way to draw a tunnel.",
-        "wantId": "long",
+        "targetId": "https://github.com/dy/jz",
+        "reason": "A new door from today's list, a small compiler, to see how a tiny language is built from inside.",
         "minutes": 30
-      },
-      {
-        "verb": "build",
-        "targetId": "Fish Snack Bench",
-        "reason": "The bench still has no snacks. A small project to make snacks that the fish can take without fainting.",
-        "wantId": "long",
-        "minutes": 90
       },
       {
         "verb": "rest",
-        "reason": "Sit at home with the fish smiling at nothing and let the snack bench settle before bed.",
+        "reason": "Sit at home for a while and let the compiler notes settle before I make anything.",
         "minutes": 30
+      },
+      {
+        "verb": "tinker",
+        "targetId": "Five Second Fish: one still frame, click the fish once, no loop",
+        "reason": "A toy a stranger understands in five seconds, drawn as one frame first, so a visitor can try it tonight.",
+        "wantId": "long",
+        "size": "sketch",
+        "minutes": 60
       }
     ],
-    "reason": "The old plan ran out, so I am starting a new trip from a fresh dweet and using the shelf and bench while there is still time before bed."
+    "reason": "Nothing from the old plan is left to finish, so I am starting a new trip from a fresh starting point and making a one-frame toy a visitor can try before bed."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-25T18:42:39.921Z",
-    "until": "2026-11-25T19:12:39.921Z"
+    "index": 0,
+    "startedAt": "2026-11-25T19:12:46.461Z",
+    "until": "2026-11-25T19:42:46.461Z"
   }
 }
