@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-25T18:55:03.417Z",
+  "updatedAt": "2026-11-25T19:10:21.842Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T18:55:03.417Z",
+    "at": "2026-11-25T19:10:21.842Z",
     "asleep": false,
-    "summary": "",
+    "summary": "sync",
     "think": null,
     "triggers": [],
     "callsFailed": 0
@@ -23,27 +23,29 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1220,
+    "ticks": 1236,
     "decideCalls": 9,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 7,
-      "thought": 20,
+      "thought": 21,
       "read": 9,
       "tend": 4,
       "sketch": 3,
-      "art": 2
+      "art": 2,
+      "goalreview": 1
     },
     "spendByKind": {
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
       "decide": 0.01167475,
-      "thought": 0.010495370000000002,
+      "thought": 0.011058145000000002,
       "read": 0.0025274,
       "tend": 0.0056855000000000004,
       "sketch": 0.10971149999999999,
-      "art": 0.0010388
+      "art": 0.0010388,
+      "goalreview": 0.0142895
     },
     "triggersByKind": {
       "newDay": 1,
@@ -95,11 +97,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 164
+    "minutes": 179
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.72621835,
+    "monthUsd": 3.74107063,
     "capUsd": 15,
     "paceUsd": 12.5
   },
