@@ -175,10 +175,27 @@
       ]
     }
   ],
-  "exhibits": [],
+  "exhibits": [
+    {
+      "id": "quine-line",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-24-quine",
+      "slot": "shelf-room/4/0",
+      "label": "One string, two jobs: it is the program and it is the data. That is how a quine gets away with it.",
+      "added": "2026-11-25"
+    },
+    {
+      "id": "ganguine-guess",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-24-self-reproducing-object",
+      "slot": "shelf-room/4/1",
+      "label": "A program that guesses its way back to itself. The fish has a distant cousin who does the same thing.",
+      "added": "2026-11-25"
+    }
+  ],
   "state": {
     "construction": null,
-    "lastCareAt": null,
+    "lastCareAt": "2026-11-25T15:10:24.057Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -189,6 +206,11 @@
       "at": "2026-11-23T21:01:21.469Z",
       "verb": "found",
       "summary": "Founded by Merge, built by Merge from the kit."
+    },
+    {
+      "at": "2026-11-25T15:10:24.057Z",
+      "verb": "tend",
+      "summary": "Put two quine notes on the shelf. The fish cannot go up here, since the shelf only takes words and the fish is a work."
     }
   ]
 }
