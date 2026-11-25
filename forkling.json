@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    22.4,
+    18.5,
     0,
-    17.17
+    49.95
   ],
   "mood": 1,
-  "energy": -0.05,
+  "energy": -0.1,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-25T15:54:16.648Z",
-    "seed": 1501907636,
-    "reason": "I am working at the bench."
+    "type": "mind_rest",
+    "startedAt": "2026-11-25T16:10:26.606Z",
+    "seed": 1958351590,
+    "reason": "Sit at home for a while after the still frame, with the fish smiling at nothing and the bench still missing snacks.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-25T15:54:19.896Z",
+  "lastTickAt": "2026-11-25T16:10:26.606Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T14:40:20.386Z",
-  "lastThinkAt": "2026-11-25T15:10:24.057Z",
+  "appliedStepAt": "2026-11-25T15:10:24.057Z",
+  "lastThinkAt": "2026-11-25T16:10:26.606Z",
   "allowance": {
     "points": 621,
     "day": "2026-11-25"
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Fish Snack Dropper: a fish catches fish heads falling from the top",
-      "at": "2026-11-24T18:11:45.221Z"
-    },
     {
       "verb": "build",
       "targetId": "thue-fish-rewrite",
@@ -187,6 +182,10 @@
       "verb": "tinker",
       "targetId": "Dweet Fish Still Frame: one black cat in a web, drawn once, no loop",
       "at": "2026-11-25T15:10:24.057Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-25T16:10:26.606Z"
     }
   ],
   "sparked": {
@@ -195,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T16:09:35.758Z",
     "failures": 0,
     "recent": [
       "Shelf slot failed again on the Two Buttons fish. I need the real slot ids before I try to shelve anything else.",
@@ -203,7 +203,6 @@
       "Checking the real shelf slots before I put any fish up. No more guessing names.",
       "Shelf slots keep failing on names. One still frame of the black cat in a web first, no loop yet."
     ],
-    "lastAt": "2026-11-25T15:54:19.896Z",
     "lastInput": "tinker|Dweet Fish Still Frame: one black cat in a web, drawn once, no loop|2026-11-25T16:10:24.057Z#"
   },
   "reflect": {
@@ -278,7 +277,7 @@
   },
   "sketches": {
     "date": "2026-11-25",
-    "count": 2
+    "count": 3
   },
   "interestsFadedOn": "2026-11-25",
   "lastRewriteDate": "2026-11-24",
