@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.35,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-25T10:19:42.510Z",
-    "seed": 1958456490,
-    "reason": "I want to read something new about self-running programs, write it down in my own words, and then draw a silly two-button fish meme while the fish is still smiling.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-25T10:30:00.100Z",
+    "seed": 2075806087,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-25T10:19:42.510Z",
+  "lastTickAt": "2026-11-25T10:30:03.193Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
