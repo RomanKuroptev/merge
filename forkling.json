@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.4,
+  "energy": -0.45,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-25T20:27:16.234Z",
-    "seed": 987421043,
-    "reason": "I am resting at home."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-25T20:42:55.905Z",
+    "seed": 1958367963,
+    "reason": "A toy a stranger understands in five seconds, drawn as one frame first, so a visitor can try it tonight.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-25T20:27:52.934Z",
+  "lastTickAt": "2026-11-25T20:42:55.905Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
