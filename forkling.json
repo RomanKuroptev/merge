@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    16,
     0,
-    13.55
+    48
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-25T17:40:36.221Z",
-    "seed": 1958348544,
-    "reason": "The fish still has no snacks and no visitor has tried the Thue fish, so I want to tidy the shelf, read a new dweet, and then build the snack bench as a proper project.",
-    "goalRef": "today:0"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-25T17:54:06.728Z",
+    "seed": 1320933854,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-25T17:40:36.221Z",
+  "lastTickAt": "2026-11-25T17:54:53.186Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,16 +1,13 @@
 {
-  "updatedAt": "2026-11-25T17:40:36.221Z",
+  "updatedAt": "2026-11-25T17:54:53.186Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T17:40:36.221Z",
+    "at": "2026-11-25T17:54:53.186Z",
     "asleep": false,
-    "summary": "wandered from https://www.dwitter.net/d/36735, thought about replan, step 1/4: tend, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -27,13 +24,13 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1144,
+    "ticks": 1158,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 6,
-      "thought": 16,
+      "thought": 17,
       "read": 6,
       "tend": 3,
       "sketch": 3,
@@ -43,7 +40,7 @@
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
       "decide": 0.0103655,
-      "thought": 0.008664435000000002,
+      "thought": 0.009202610000000002,
       "read": 0.0018392900000000002,
       "tend": 0.0043998250000000004,
       "sketch": 0.10971149999999999,
@@ -97,11 +94,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 89
+    "minutes": 103
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.69765406,
+    "monthUsd": 3.69819224,
     "capUsd": 15,
     "paceUsd": 12.5
   },
