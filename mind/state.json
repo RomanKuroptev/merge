@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T15:10:24.057Z",
+  "appliedStepAt": "2026-11-25T16:10:26.606Z",
   "lastThinkAt": "2026-11-25T16:10:26.606Z",
   "allowance": {
-    "points": 621,
+    "points": 617,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "thue-fish-rewrite",
-      "at": "2026-11-24T19:11:47.426Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-24T19:14:26.822Z"
@@ -186,6 +181,11 @@
     {
       "verb": "rest",
       "at": "2026-11-25T16:10:26.606Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36735",
+      "at": "2026-11-25T17:10:28.150Z"
     }
   ],
   "sparked": {
@@ -194,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T17:10:07.984Z",
     "failures": 0,
     "recent": [
       "A black cat drawn in a dweet, so few bytes. Read it, then one still frame, no loops yet.",
@@ -202,7 +203,6 @@
       "Shelf slots keep failing on names. One still frame of the black cat in a web first, no loop yet.",
       "Sketch failed to photograph. Sit still a bit, then one still frame of the black cat before anything with loops."
     ],
-    "lastAt": "2026-11-25T16:55:15.379Z",
     "lastInput": "rest||2026-11-25T17:10:26.606Z#"
   },
   "reflect": {

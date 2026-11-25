@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": -0.1,
+  "energy": -0.15,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-25T16:54:16.753Z",
-    "seed": 99172979,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-25T17:10:28.150Z",
+    "seed": 1958349840,
+    "reason": "A second dweet from a new start, to see whether the cat trick works with a different taupelink line.",
+    "goalRef": "today:5"
   },
-  "lastTickAt": "2026-11-25T16:55:15.379Z",
+  "lastTickAt": "2026-11-25T17:10:28.150Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

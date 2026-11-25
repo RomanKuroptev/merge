@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-25T16:55:15.379Z",
+  "updatedAt": "2026-11-25T17:10:28.150Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T16:55:15.379Z",
+    "at": "2026-11-25T17:10:28.150Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 6/6: wander",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:2521c831",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-25T17:10:26.606Z",
+      "index": 5,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36735",
+      "until": "2026-11-25T17:40:28.150Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T13:40:07.429Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1097,
+    "ticks": 1113,
     "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
@@ -48,7 +51,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 3,
-      "stepDone": 14,
+      "stepDone": 15,
       "buildResult": 1,
       "reflected": 1
     },
@@ -67,7 +70,8 @@
       "tinker Two Buttons Fish: snacks or loops": 1,
       "wander https://www.dwitter.net/d/36734": 1,
       "write Dweets": 1,
-      "tinker Dweet Fish Still Frame: one black cat in a web, drawn once,…": 1
+      "tinker Dweet Fish Still Frame: one black cat in a web, drawn once,…": 1,
+      "wander https://www.dwitter.net/d/36735": 1
     },
     "longestGapMinutes": 3
   },
@@ -85,14 +89,14 @@
     }
   },
   "allowance": {
-    "points": 621,
+    "points": 617,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 44
+    "minutes": 59
   },
   "needsCritical": {},
   "spend": {
