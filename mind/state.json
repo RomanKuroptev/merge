@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T07:44:28.228Z",
-  "lastThinkAt": "2026-11-25T07:49:25.931Z",
+  "appliedStepAt": "2026-11-25T07:49:25.931Z",
+  "lastThinkAt": "2026-11-25T08:19:29.703Z",
   "allowance": {
-    "points": 722,
+    "points": 699,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Dweet Fish: the fish decodes its own mess before it faints",
-      "at": "2026-11-24T10:43:59.734Z"
-    },
     {
       "verb": "write",
       "targetId": "esolang-shelf",
@@ -187,6 +182,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T07:49:25.931Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Fish Snack Pile: one still frame of snacks on the bench, loop later",
+      "at": "2026-11-25T08:19:29.703Z"
     }
   ],
   "sparked": {
@@ -197,17 +197,17 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Quine trip gave me a self-printing fish idea. One joke, then back to the Thue build.",
       "Thue Fish now fits the page, and loops make it sad. Good enough for a joke. Back to the build.",
       "Snack page first, then the quine fish. One joke, then back to the Thue build.",
       "Quine fish is a silly build worth finishing. Snacks can wait for the Thue bench. One joke, then back to the code.",
-      "Quine fish built and matches itself. Checking shelf slots before I put it up, one joke, then back to Thue."
+      "Quine fish built and matches itself. Checking shelf slots before I put it up, one joke, then back to Thue.",
+      "Snack page is still blank, but the shelf tend failed on a slot name. Fix that first, then the snacks."
     ],
-    "lastAt": "2026-11-25T08:13:10.516Z",
-    "lastInput": "tend|esolang-shelf|2026-11-25T08:19:25.931Z#"
+    "lastAt": "2026-11-25T08:28:25.064Z",
+    "lastInput": "tinker|Fish Snack Pile: one still frame of snacks on the bench, loop later|2026-11-25T09:19:29.703Z#"
   },
   "reflect": {
-    "sum": 30,
+    "sum": 37,
     "lastAt": "2026-11-25T06:14:20.193Z",
     "date": "2026-11-25",
     "today": 1,

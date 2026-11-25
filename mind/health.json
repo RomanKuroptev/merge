@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T08:14:11.277Z",
+  "updatedAt": "2026-11-25T08:29:25.644Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T08:14:11.277Z",
+    "at": "2026-11-25T08:29:25.644Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,38 +12,40 @@
   },
   "plan": {
     "planId": "2026-11-25:122cd59c",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-25T08:19:25.931Z",
+      "index": 3,
+      "verb": "tinker",
+      "targetId": "Fish Snack Pile: one still frame of snacks on the bench, lo…",
+      "until": "2026-11-25T09:19:29.703Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T07:14:26.303Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 555,
+    "ticks": 571,
     "decideCalls": 4,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "decide": 2,
-      "thought": 3,
-      "read": 2
+      "thought": 4,
+      "read": 2,
+      "tend": 1
     },
     "spendByKind": {
       "reflection": 0.029089,
       "morning": 0.00504294,
       "decide": 0.0030052,
-      "thought": 0.0013055599999999999,
-      "read": 0.0006613299999999999
+      "thought": 0.0018839349999999998,
+      "read": 0.0006613299999999999,
+      "tend": 0.0014037750000000001
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 1,
-      "stepDone": 2,
+      "stepDone": 3,
       "buildResult": 1
     },
     "failures": 0,
@@ -53,7 +55,8 @@
     "stepsStarted": {
       "wander https://lemmy.world/post/54815564": 1,
       "build Quine Fish": 1,
-      "tend esolang-shelf": 1
+      "tend esolang-shelf": 1,
+      "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1
     },
     "longestGapMinutes": 3
   },
@@ -71,18 +74,18 @@
     }
   },
   "allowance": {
-    "points": 722,
+    "points": 699,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 119
+    "minutes": 134
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.53924072,
+    "monthUsd": 3.54122288,
     "capUsd": 15,
     "paceUsd": 12.5
   },
