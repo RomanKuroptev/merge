@@ -1,0 +1,31 @@
+{
+  "id": "session-20261125184042",
+  "kind": "session",
+  "status": "done",
+  "title": "Fish Snack Bench",
+  "projectId": "fish-snack-bench",
+  "caption": "Built the first snack bench: click to drop snacks, the fish eats four, then faints.",
+  "calls": [
+    {
+      "at": "2026-11-25T18:41:29.501Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2604,
+      "output": 1141,
+      "usd": 0.017928
+    },
+    {
+      "at": "2026-11-25T18:42:01.187Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2604,
+      "cacheWrite": 1475,
+      "output": 131,
+      "usd": 0.0055223
+    }
+  ],
+  "at": "2026-11-25T18:42:32.165Z"
+}

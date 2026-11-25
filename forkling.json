@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    13.55
+    16
   ],
   "mood": 1,
-  "energy": -0.3,
+  "energy": -0.25,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-25T18:40:42.844Z",
-    "seed": 1958359358,
-    "reason": "The bench still has no snacks. A small project to make snacks that the fish can take without fainting.",
-    "goalRef": "today:2"
+    "type": "mind_rest",
+    "targetId": "home",
+    "startedAt": "2026-11-25T18:53:21.923Z",
+    "seed": 956951705,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-25T18:40:42.844Z",
+  "lastTickAt": "2026-11-25T18:54:02.902Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
