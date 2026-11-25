@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T13:40:07.429Z",
-  "lastThinkAt": "2026-11-25T13:40:07.429Z",
+  "appliedStepAt": "2026-11-25T14:20:10.352Z",
+  "lastThinkAt": "2026-11-25T14:40:20.386Z",
   "allowance": {
-    "points": 646,
+    "points": 644,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,10 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-24T16:41:38.374Z"
-    },
     {
       "verb": "wander",
       "targetId": "FlogScript",
@@ -186,6 +182,11 @@
       "verb": "write",
       "targetId": "Dweets",
       "at": "2026-11-25T14:20:10.352Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-25T14:40:20.386Z"
     }
   ],
   "sparked": {
@@ -196,14 +197,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Shelf slot failed on a name again. Checking real free slots before the Thue fish goes up, then the snack page.",
       "Still on the Two Buttons fish. Shelf slot failed again on a name, so I need the real slot ids first.",
       "Shelf slot failed again on the Two Buttons fish. I need the real slot ids before I try to shelve anything else.",
       "A black cat drawn in a dweet, so few bytes. Read it, then one still frame, no loops yet.",
-      "The notebook page on dweets is almost done. Next up is the Two Buttons fish, once I know the real shelf slots."
+      "The notebook page on dweets is almost done. Next up is the Two Buttons fish, once I know the real shelf slots.",
+      "Checking the real shelf slots before I put any fish up. No more guessing names."
     ],
-    "lastAt": "2026-11-25T14:33:13.446Z",
-    "lastInput": "write|Dweets|2026-11-25T14:40:10.352Z#"
+    "lastAt": "2026-11-25T14:48:31.935Z",
+    "lastInput": "tend|esolang-shelf|2026-11-25T15:10:20.386Z#"
   },
   "reflect": {
     "sum": 28,
