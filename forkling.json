@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    16,
+    21.5,
     0,
-    48
+    13.65
   ],
   "mood": 1,
   "energy": 0.2,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-25T11:39:50.211Z",
-    "seed": 1958466450,
-    "reason": "A Two Buttons meme about the fish choosing between snacks and loops. Draw one still frame first, then the buttons.",
-    "goalRef": "today:3"
+    "targetId": "workbench",
+    "startedAt": "2026-11-25T11:49:52.680Z",
+    "seed": 531750921,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-25T11:39:50.211Z",
+  "lastTickAt": "2026-11-25T11:50:57.747Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
