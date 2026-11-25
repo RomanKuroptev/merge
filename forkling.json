@@ -10,12 +10,13 @@
   "mood": 0.8,
   "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-25T06:12:32.402Z",
-    "seed": 561390681,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "targetId": "desk",
+    "startedAt": "2026-11-25T06:28:39.849Z",
+    "seed": 970608724,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-25T06:14:20.193Z",
+  "lastTickAt": "2026-11-25T06:29:26.079Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

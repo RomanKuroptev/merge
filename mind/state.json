@@ -203,7 +203,7 @@
       "Quine trip gave me a self-printing fish idea. One joke, then back to the Thue build.",
       "Thue Fish now fits the page, and loops make it sad. Good enough for a joke. Back to the build."
     ],
-    "lastAt": "2026-11-25T06:14:20.193Z",
+    "lastAt": "2026-11-25T06:29:26.079Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -312,6 +312,10 @@
       "mood": 1
     }
   ],
+  "planRejects": {
+    "count": 1,
+    "lastAt": "2026-11-25T06:14:20.193Z"
+  },
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-24",
@@ -916,9 +920,5 @@
         "step 1: today no trip has started from one of the starting points (listed above, with the doors), and at least one a day does: start a wander from one of them, by its address, not from a topic you chose"
       ]
     }
-  ],
-  "planRejects": {
-    "count": 1,
-    "lastAt": "2026-11-25T06:14:20.193Z"
-  }
+  ]
 }
