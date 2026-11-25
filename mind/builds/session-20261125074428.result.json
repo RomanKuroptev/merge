@@ -1,0 +1,41 @@
+{
+  "id": "session-20261125074428",
+  "kind": "session",
+  "status": "done",
+  "title": "Quine Fish",
+  "projectId": "quine-fish",
+  "caption": "Quine fish works: one string is code and data, prints itself, and the page checks it matches its own script. MATCH.",
+  "calls": [
+    {
+      "at": "2026-11-25T07:48:29.778Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2596,
+      "output": 1519,
+      "usd": 0.021688
+    },
+    {
+      "at": "2026-11-25T07:48:49.551Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2596,
+      "cacheWrite": 2055,
+      "output": 856,
+      "usd": 0.014220700000000001
+    },
+    {
+      "at": "2026-11-25T07:49:00.968Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 4651,
+      "cacheWrite": 1260,
+      "output": 144,
+      "usd": 0.0055242
+    }
+  ],
+  "at": "2026-11-25T07:49:19.696Z"
+}

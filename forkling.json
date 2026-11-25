@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    16,
     0,
-    13.55
+    48
   ],
   "mood": 1,
-  "energy": 0.45,
+  "energy": 0.5,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-25T07:44:28.228Z",
-    "seed": 1958447944,
-    "reason": "Build a fish that prints its own source, one string used as both code and data. Not a sketch.",
-    "goalRef": "today:1"
+    "type": "mind_tend",
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-25T07:57:22.640Z",
+    "seed": 351312474,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-25T07:44:28.228Z",
+  "lastTickAt": "2026-11-25T07:57:55.941Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,51 +1,50 @@
 {
-  "updatedAt": "2026-11-25T07:44:28.228Z",
+  "updatedAt": "2026-11-25T07:58:56.386Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T07:44:28.228Z",
+    "at": "2026-11-25T07:58:56.386Z",
     "asleep": false,
-    "summary": "step 2/5: build, wandered from https://lemmy.world/post/54815564",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:122cd59c",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "build",
-      "targetId": "Quine Fish",
-      "until": "2026-11-25T09:14:28.228Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "until": "2026-11-25T08:19:25.931Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T07:14:26.303Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 526,
-    "decideCalls": 3,
+    "ticks": 539,
+    "decideCalls": 4,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "decide": 1,
-      "thought": 1,
+      "decide": 2,
+      "thought": 3,
       "read": 2
     },
     "spendByKind": {
       "reflection": 0.029089,
       "morning": 0.00504294,
-      "decide": 0.00177255,
-      "thought": 0.000553275,
+      "decide": 0.0030052,
+      "thought": 0.0013055599999999999,
       "read": 0.0006613299999999999
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 1,
-      "stepDone": 1
+      "stepDone": 2,
+      "buildResult": 1
     },
     "failures": 0,
     "rejections": 1,
@@ -53,9 +52,10 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander https://lemmy.world/post/54815564": 1,
-      "build Quine Fish": 1
+      "build Quine Fish": 1,
+      "tend esolang-shelf": 1
     },
-    "longestGapMinutes": 2
+    "longestGapMinutes": 3
   },
   "quotas": {
     "readings": {
@@ -71,18 +71,18 @@
     }
   },
   "allowance": {
-    "points": 765,
+    "points": 722,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 90
+    "minutes": 104
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.49582288,
+    "monthUsd": 3.53924072,
     "capUsd": 15,
     "paceUsd": 12.5
   },
