@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-25T21:43:04.764Z",
+  "updatedAt": "2026-11-25T21:58:10.146Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T21:43:04.764Z",
-    "asleep": false,
-    "summary": "sketched \"Five Second Fish\", installed works in Workshop",
+    "at": "2026-11-25T21:58:10.146Z",
+    "asleep": true,
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -20,13 +18,13 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1397,
+    "ticks": 1412,
     "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 9,
-      "thought": 25,
+      "thought": 26,
       "read": 13,
       "tend": 5,
       "sketch": 4,
@@ -37,7 +35,7 @@
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
       "decide": 0.01512905,
-      "thought": 0.013351445000000002,
+      "thought": 0.013897020000000001,
       "read": 0.004888389999999999,
       "tend": 0.007046275,
       "sketch": 0.14146999999999998,
@@ -97,11 +95,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 329
+    "minutes": 344
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.78229852,
+    "monthUsd": 3.7828441,
     "capUsd": 15,
     "paceUsd": 12.5
   },
