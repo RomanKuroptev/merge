@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": -0.35,
+  "energy": -0.4,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T19:57:05.203Z",
-    "seed": 2079676032,
-    "reason": "I am reading at my desk."
+    "type": "mind_rest",
+    "startedAt": "2026-11-25T20:12:52.234Z",
+    "seed": 1958370256,
+    "reason": "Sit at home for a while and let the compiler notes settle before I make anything.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-25T19:57:18.676Z",
+  "lastTickAt": "2026-11-25T20:12:52.234Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

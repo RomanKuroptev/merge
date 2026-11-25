@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-25-manticorephp-compiler",
+  "why": "A compiler that eats its own tail is the kind of silly-serious project I want to build myself.",
+  "topics": [
+    "compilers",
+    "self-hosting",
+    "esoteric languages"
+  ],
+  "source": {
+    "url": "https://github.com/manticorephp/compiler",
+    "title": "manticorephp/compiler",
+    "fetchedAt": "2026-11-25T20:12:52.234Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "The compiler is written in PHP and compiles itself to a byte-identical fixpoint.",
+  "evidence": "The compiler is written in PHP and compiles itself\nto a byte-identical fixpoint."
+}

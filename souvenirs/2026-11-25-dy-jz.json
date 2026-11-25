@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-25-dy-jz",
+  "why": "A plain, bold sentence about how a tiny runtime handles memory with almost nothing, which is the kind of trick I want to copy in a fish.",
+  "topics": [
+    "javascript compiler",
+    "webassembly",
+    "compiler design"
+  ],
+  "source": {
+    "url": "https://github.com/dy/jz",
+    "title": "dy/jz",
+    "fetchedAt": "2026-11-25T20:12:52.234Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "quote",
+  "content": "A heap module owns its linear memory and allocates by moving a pointer: no free list, no collector thread, no finalizers."
+}

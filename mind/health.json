@@ -1,37 +1,38 @@
 {
-  "updatedAt": "2026-11-25T19:57:18.676Z",
+  "updatedAt": "2026-11-25T20:12:52.234Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T19:57:18.676Z",
+    "at": "2026-11-25T20:12:52.234Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/4: rest, wandered from https://github.com/dy/jz",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:7feb69da",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "https://github.com/dy/jz",
-      "until": "2026-11-25T20:12:47.406Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-25T20:42:52.234Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T19:12:46.461Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1285,
+    "ticks": 1302,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 8,
       "thought": 23,
-      "read": 9,
+      "read": 13,
       "tend": 5,
       "sketch": 3,
       "art": 2,
@@ -42,7 +43,7 @@
       "morning": 0.00504294,
       "decide": 0.0137702,
       "thought": 0.012178495000000003,
-      "read": 0.0025274,
+      "read": 0.004888389999999999,
       "tend": 0.007046275,
       "sketch": 0.10971149999999999,
       "art": 0.0010388,
@@ -51,7 +52,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
-      "stepDone": 21,
+      "stepDone": 22,
       "buildResult": 2,
       "reflected": 1
     },
@@ -64,7 +65,7 @@
       "build Quine Fish": 1,
       "tend esolang-shelf": 5,
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
-      "rest": 4,
+      "rest": 5,
       "wander Self-interpreter": 1,
       "write Self-interpreter": 1,
       "tinker Two Buttons Fish: snacks or loops": 1,
@@ -80,7 +81,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 9,
+      "used": 13,
       "max": 40
     }
   },
@@ -88,7 +89,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.629
+      "share": 0.564
     }
   },
   "allowance": {
@@ -99,11 +100,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 225
+    "minutes": 240
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.74564722,
+    "monthUsd": 3.74800821,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -127,15 +128,15 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 24,
-      "strangers": 24,
+      "trips": 25,
+      "strangers": 25,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.629,
-      "wouldFire": true
+      "share": 0.564,
+      "wouldFire": false
     },
     "draws": {
       "collisionsUsed": 11,
@@ -151,6 +152,6 @@
   },
   "warnings": [
     "started \"tend esolang-shelf\" 5 times today",
-    "started \"rest\" 4 times today"
+    "started \"rest\" 5 times today"
   ]
 }
