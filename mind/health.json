@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-25T19:42:47.406Z",
+  "updatedAt": "2026-11-25T19:57:18.676Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T19:42:47.406Z",
+    "at": "2026-11-25T19:57:18.676Z",
     "asleep": false,
-    "summary": "step 2/4: wander, tended Esolang Shelf",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,13 +24,13 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1270,
+    "ticks": 1285,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 8,
-      "thought": 22,
+      "thought": 23,
       "read": 9,
       "tend": 5,
       "sketch": 3,
@@ -43,7 +41,7 @@
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
       "decide": 0.0137702,
-      "thought": 0.011614120000000002,
+      "thought": 0.012178495000000003,
       "read": 0.0025274,
       "tend": 0.007046275,
       "sketch": 0.10971149999999999,
@@ -101,11 +99,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 211
+    "minutes": 225
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.74508284,
+    "monthUsd": 3.74564722,
     "capUsd": 15,
     "paceUsd": 12.5
   },

@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    15.99,
+    5.5,
     0,
-    48.11
+    13.55
   ],
   "mood": 1,
   "energy": -0.35,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-25T19:42:47.406Z",
-    "seed": 1958355107,
-    "reason": "A new door from today's list, a small compiler, to see how a tiny language is built from inside.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-25T19:57:05.203Z",
+    "seed": 2079676032,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-25T19:42:47.406Z",
+  "lastTickAt": "2026-11-25T19:57:18.676Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
