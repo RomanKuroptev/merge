@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": -0.15,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-25T17:10:28.150Z",
-    "seed": 1958349840,
-    "reason": "A second dweet from a new start, to see whether the cat trick works with a different taupelink line.",
-    "goalRef": "today:5"
+    "targetId": "desk",
+    "startedAt": "2026-11-25T17:24:15.910Z",
+    "seed": 1671420596,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-25T17:10:28.150Z",
+  "lastTickAt": "2026-11-25T17:24:21.867Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
