@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": -0.25,
+  "energy": -0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T18:24:21.121Z",
-    "seed": 611843624,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-25T18:40:42.844Z",
+    "seed": 1958359358,
+    "reason": "The bench still has no snacks. A small project to make snacks that the fish can take without fainting.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-25T18:25:25.853Z",
+  "lastTickAt": "2026-11-25T18:40:42.844Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

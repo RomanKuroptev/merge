@@ -1,37 +1,39 @@
 {
-  "updatedAt": "2026-11-25T18:25:25.853Z",
+  "updatedAt": "2026-11-25T18:40:42.844Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T18:25:25.853Z",
+    "at": "2026-11-25T18:40:42.844Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/4: build, wandered from https://www.dwitter.net/d/36726",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:532e9a02",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36726",
-      "until": "2026-11-25T18:40:38.903Z",
+      "index": 2,
+      "verb": "build",
+      "targetId": "Fish Snack Bench",
+      "until": "2026-11-25T20:10:42.844Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T17:40:36.221Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1189,
+    "ticks": 1205,
     "decideCalls": 8,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
       "decide": 6,
       "thought": 18,
-      "read": 6,
+      "read": 9,
       "tend": 4,
       "sketch": 3,
       "art": 2
@@ -41,7 +43,7 @@
       "morning": 0.00504294,
       "decide": 0.0103655,
       "thought": 0.009777885000000002,
-      "read": 0.0018392900000000002,
+      "read": 0.0025274,
       "tend": 0.0056855000000000004,
       "sketch": 0.10971149999999999,
       "art": 0.0010388
@@ -49,7 +51,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 4,
-      "stepDone": 17,
+      "stepDone": 18,
       "buildResult": 1,
       "reflected": 1
     },
@@ -70,13 +72,14 @@
       "write Dweets": 1,
       "tinker Dweet Fish Still Frame: one black cat in a web, drawn once,…": 1,
       "wander https://www.dwitter.net/d/36735": 1,
-      "wander https://www.dwitter.net/d/36726": 1
+      "wander https://www.dwitter.net/d/36726": 1,
+      "build Fish Snack Bench": 1
     },
     "longestGapMinutes": 3
   },
   "quotas": {
     "readings": {
-      "used": 6,
+      "used": 9,
       "max": 40
     }
   },
@@ -84,7 +87,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.594
+      "share": 0.629
     }
   },
   "allowance": {
@@ -95,11 +98,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 134
+    "minutes": 150
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.7000532,
+    "monthUsd": 3.70074131,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -123,15 +126,15 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 23,
-      "strangers": 23,
+      "trips": 24,
+      "strangers": 24,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.594,
-      "wouldFire": false
+      "share": 0.629,
+      "wouldFire": true
     },
     "draws": {
       "collisionsUsed": 11,

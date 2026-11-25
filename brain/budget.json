@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 3.7000532,
+  "spentUsd": 3.70074131,
   "calls": [
-    {
-      "at": "2026-11-18T09:04:53.577Z",
-      "kind": "decide",
-      "model": "claude-haiku-5-5",
-      "input": 4008,
-      "cacheRead": 0,
-      "cacheWrite": 3176,
-      "output": 1800,
-      "usd": 0.0016978
-    },
-    {
-      "at": "2026-11-18T09:07:32.260Z",
-      "kind": "thought",
-      "model": "claude-haiku-5-5",
-      "input": 635,
-      "cacheRead": 0,
-      "cacheWrite": 3049,
-      "output": 95,
-      "usd": 0.000492125
-    },
-    {
-      "at": "2026-11-18T09:35:02.887Z",
-      "kind": "read",
-      "model": "claude-haiku-5-5",
-      "input": 2540,
-      "cacheRead": 0,
-      "cacheWrite": 1710,
-      "output": 233,
-      "usd": 0.00058425
-    },
     {
       "at": "2026-11-18T09:38:14.826Z",
       "kind": "thought",
@@ -5003,6 +4973,36 @@
       "cacheWrite": 3611,
       "output": 105,
       "usd": 0.000575275
+    },
+    {
+      "at": "2026-11-25T18:40:42.844Z",
+      "kind": "read",
+      "model": "claude-haiku-5-5",
+      "input": 587,
+      "cacheRead": 0,
+      "cacheWrite": 1878,
+      "output": 167,
+      "usd": 0.00037695
+    },
+    {
+      "at": "2026-11-25T18:40:42.844Z",
+      "kind": "read",
+      "model": "claude-haiku-5-5",
+      "input": 636,
+      "cacheRead": 1878,
+      "cacheWrite": 0,
+      "output": 144,
+      "usd": 0.00015438
+    },
+    {
+      "at": "2026-11-25T18:40:42.844Z",
+      "kind": "read",
+      "model": "claude-haiku-5-5",
+      "input": 580,
+      "cacheRead": 1878,
+      "cacheWrite": 0,
+      "output": 160,
+      "usd": 0.00015678
     }
   ],
   "byKind": {
@@ -5039,12 +5039,12 @@
       "usd": 0.0431303
     },
     "read": {
-      "calls": 152,
-      "input": 460745,
-      "cacheRead": 186664,
-      "cacheWrite": 81239,
-      "output": 34739,
-      "usd": 0.07546557
+      "calls": 155,
+      "input": 462548,
+      "cacheRead": 190420,
+      "cacheWrite": 83117,
+      "output": 35210,
+      "usd": 0.07615368
     },
     "decide": {
       "calls": 125,

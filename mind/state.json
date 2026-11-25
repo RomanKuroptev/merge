@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T17:40:36.221Z",
+  "appliedStepAt": "2026-11-25T18:10:38.903Z",
   "lastThinkAt": "2026-11-25T18:10:38.903Z",
   "allowance": {
     "points": 611,
@@ -92,11 +92,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "Quine",
-      "at": "2026-11-24T20:44:33.511Z"
-    },
-    {
       "verb": "build",
       "targetId": "thue-fish-rewrite",
       "at": "2026-11-24T21:14:36.708Z"
@@ -187,6 +182,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36726",
       "at": "2026-11-25T18:10:38.903Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "Fish Snack Bench",
+      "at": "2026-11-25T18:40:42.844Z"
     }
   ],
   "sparked": {
@@ -195,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T18:39:41.355Z",
     "failures": 0,
     "recent": [
       "Shelf slots keep failing on names. One still frame of the black cat in a web first, no loop yet.",
@@ -203,7 +204,6 @@
       "Shelf slots keep failing on names. Check the real free slots first, then one still frame before anything with loops.",
       "Shelf slots keep failing on names. Still frame of the black cat first, no loops, then check the real slots."
     ],
-    "lastAt": "2026-11-25T18:25:25.853Z",
     "lastInput": "wander|https://www.dwitter.net/d/36726|2026-11-25T18:40:38.903Z#"
   },
   "reflect": {
@@ -218,7 +218,9 @@
       "Is a fish that prints itself funnier than a fish that is sad about loops?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261125184042": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -319,14 +321,15 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-25",
-    "reads": 6,
-    "trips": 4,
+    "reads": 9,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://lemmy.world/post/54815564",
       "self interpreter",
       "https://www.dwitter.net/d/36734",
-      "https://www.dwitter.net/d/36735"
+      "https://www.dwitter.net/d/36735",
+      "https://www.dwitter.net/d/36726"
     ]
   },
   "doorDays": [
@@ -352,23 +355,11 @@
     },
     {
       "date": "2026-11-25",
-      "trips": 4,
-      "strangers": 4
+      "trips": 5,
+      "strangers": 5
     }
   ],
   "seen": [
-    {
-      "title": "GolfScript",
-      "url": "https://esolangs.org/wiki/GolfScript"
-    },
-    {
-      "title": "Factorial",
-      "url": "https://esolangs.org/wiki/Factorial"
-    },
-    {
-      "title": "99 bottles of beer",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer"
-    },
     {
       "title": "BrainFuck",
       "url": "https://esolangs.org/wiki/BrainFuck"
@@ -622,10 +613,6 @@
       "url": "https://imgflip.com/meme/222403160"
     },
     {
-      "title": "Dweet 36726 by Axioplase",
-      "url": "https://www.dwitter.net/d/36726"
-    },
-    {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
     },
@@ -756,6 +743,22 @@
     {
       "title": "Dweet 36722 by taupelink",
       "url": "https://www.dwitter.net/d/36722"
+    },
+    {
+      "title": "Dweet 36736 by Axioplase",
+      "url": "https://www.dwitter.net/d/36736"
+    },
+    {
+      "title": "Dweet 36727 by Axioplase",
+      "url": "https://www.dwitter.net/d/36727"
+    },
+    {
+      "title": "Dweet 36720 by Axioplase",
+      "url": "https://www.dwitter.net/d/36720"
+    },
+    {
+      "title": "Dweet 36726 by Axioplase",
+      "url": "https://www.dwitter.net/d/36726"
     }
   ],
   "points": {
