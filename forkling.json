@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    16,
+    18.5,
     0,
-    48
+    49.95
   ],
   "mood": 1,
   "energy": -0.05,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-25T15:10:24.057Z",
-    "seed": 1958469876,
-    "reason": "A toy a stranger sees in five seconds. Draw one still frame of the cat in the web first, and leave the loop out.",
-    "goalRef": "today:3"
+    "targetId": "workbench",
+    "startedAt": "2026-11-25T15:23:30.998Z",
+    "seed": 1279059803,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-25T15:10:24.057Z",
+  "lastTickAt": "2026-11-25T15:23:53.674Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
