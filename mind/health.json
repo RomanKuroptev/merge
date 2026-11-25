@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-25T10:34:04.939Z",
+  "updatedAt": "2026-11-25T10:49:44.646Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T10:34:04.939Z",
+    "at": "2026-11-25T10:49:44.646Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: write, looked for Self-interpreter, read nothing",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:919b7f26",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
+      "index": 1,
+      "verb": "write",
       "targetId": "Self-interpreter",
-      "until": "2026-11-25T10:49:42.510Z",
+      "until": "2026-11-25T11:09:44.646Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T10:19:42.510Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 703,
+    "ticks": 719,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
@@ -47,7 +49,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 5,
+      "stepDone": 6,
       "buildResult": 1
     },
     "failures": 0,
@@ -60,7 +62,8 @@
       "tend esolang-shelf": 1,
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
       "rest": 1,
-      "wander Self-interpreter": 1
+      "wander Self-interpreter": 1,
+      "write Self-interpreter": 1
     },
     "longestGapMinutes": 3
   },
@@ -78,14 +81,14 @@
     }
   },
   "allowance": {
-    "points": 695,
+    "points": 685,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 261
+    "label": "very good, steady",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
@@ -113,8 +116,8 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 20,
-      "strangers": 20,
+      "trips": 21,
+      "strangers": 21,
       "share": 1,
       "noDoorDays": 0
     },

@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T10:30:00.100Z",
-    "seed": 2075806087,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-25T10:49:44.646Z",
+    "seed": 1958455260,
+    "reason": "Write a short notebook page on what I read, in plain words, with a joke about a fish that runs itself.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-25T10:30:03.193Z",
+  "lastTickAt": "2026-11-25T10:49:44.646Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

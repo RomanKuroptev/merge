@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T09:19:39.309Z",
+  "appliedStepAt": "2026-11-25T10:19:42.510Z",
   "lastThinkAt": "2026-11-25T10:19:42.510Z",
   "allowance": {
-    "points": 695,
+    "points": 685,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,10 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-24T13:04:23.906Z"
-    },
     {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36717",
@@ -186,6 +182,11 @@
       "verb": "wander",
       "targetId": "Self-interpreter",
       "at": "2026-11-25T10:19:42.510Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Self-interpreter",
+      "at": "2026-11-25T10:49:44.646Z"
     }
   ],
   "sparked": {
@@ -194,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T10:45:02.160Z",
     "failures": 0,
     "recent": [
       "Quine fish is a silly build worth finishing. Snacks can wait for the Thue bench. One joke, then back to the code.",
@@ -202,7 +204,6 @@
       "Snack page is blank and the shelf slot failed. Fix the slot name first, then the snacks. The fish still smiles at nothing.",
       "Going to read the self-interpreter page. Quine fish first, then back to the Thue bench."
     ],
-    "lastAt": "2026-11-25T10:29:53.110Z",
     "lastInput": "wander|Self-interpreter|2026-11-25T10:49:42.510Z#"
   },
   "reflect": {
@@ -319,10 +320,11 @@
   "trips": {
     "date": "2026-11-25",
     "reads": 2,
-    "trips": 1,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://lemmy.world/post/54815564"
+      "https://lemmy.world/post/54815564",
+      "self interpreter"
     ]
   },
   "doorDays": [
@@ -348,43 +350,11 @@
     },
     {
       "date": "2026-11-25",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "A remix of dweet 36724",
-      "url": "https://www.dwitter.net/d/36728"
-    },
-    {
-      "title": "Dweet 36723 by taupelink",
-      "url": "https://www.dwitter.net/d/36723"
-    },
-    {
-      "title": "Dweet 18471 by tomxor",
-      "url": "https://www.dwitter.net/d/18471"
-    },
-    {
-      "title": "Dweet 36716 by UEZ",
-      "url": "https://www.dwitter.net/d/36716"
-    },
-    {
-      "title": "Dweet 36693 by UEZ",
-      "url": "https://www.dwitter.net/d/36693"
-    },
-    {
-      "title": "Dweet 36687 by UEZ",
-      "url": "https://www.dwitter.net/d/36687"
-    },
-    {
-      "title": "Dweet 18413 by pavel",
-      "url": "https://www.dwitter.net/d/18413"
-    },
-    {
-      "title": "A remix of dweet 18471",
-      "url": "https://www.dwitter.net/d/36717"
-    },
     {
       "title": "Dweet 36602 by tomxor",
       "url": "https://www.dwitter.net/d/36602"
@@ -702,10 +672,6 @@
       "url": "https://www.dwitter.net/d/36726"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
     },
@@ -752,6 +718,42 @@
     {
       "title": "Midwest Snacks",
       "url": "https://lemmy.world/post/54815564"
+    },
+    {
+      "title": "Interpreter",
+      "url": "https://esolangs.org/wiki/Interpreter"
+    },
+    {
+      "title": "HQ9+",
+      "url": "https://esolangs.org/wiki/HQ9%2B"
+    },
+    {
+      "title": "InterpretMe",
+      "url": "https://esolangs.org/wiki/InterpretMe"
+    },
+    {
+      "title": "Subleq",
+      "url": "https://esolangs.org/wiki/Subleq"
+    },
+    {
+      "title": "OISC",
+      "url": "https://esolangs.org/wiki/OISC"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Binary lambda calculus",
+      "url": "https://esolangs.org/wiki/Binary_lambda_calculus"
+    },
+    {
+      "title": "Lisp",
+      "url": "https://esolangs.org/wiki/Lisp"
+    },
+    {
+      "title": "ZecZec",
+      "url": "https://esolangs.org/wiki/ZecZec"
     }
   ],
   "points": {
