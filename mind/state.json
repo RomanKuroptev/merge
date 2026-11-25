@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T18:42:39.921Z",
-  "lastThinkAt": "2026-11-25T19:12:46.461Z",
+  "appliedStepAt": "2026-11-25T19:12:46.461Z",
+  "lastThinkAt": "2026-11-25T19:42:47.406Z",
   "allowance": {
-    "points": 586,
+    "points": 582,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "build",
-      "targetId": "Quine Fish",
-      "at": "2026-11-25T07:44:28.228Z"
-    },
     {
       "verb": "tend",
       "targetId": "esolang-shelf",
@@ -186,6 +181,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T19:12:46.461Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/dy/jz",
+      "at": "2026-11-25T19:42:47.406Z"
     }
   ],
   "sparked": {
@@ -194,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T19:40:56.243Z",
     "failures": 0,
     "recent": [
       "Shelf slots keep failing on names. Still frame of the black cat first, no loops, then check the real slots.",
@@ -202,7 +203,6 @@
       "Snack bench is built and the fish is sitting still. Let it settle before bed, then try a small still frame tomorrow.",
       "Shelf slots keep failing on names. Check the real free slots first, then a still frame before any loops."
     ],
-    "lastAt": "2026-11-25T19:26:43.850Z",
     "lastInput": "tend|esolang-shelf|2026-11-25T19:42:46.461Z#"
   },
   "reflect": {

@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-25T19:27:44.581Z",
+  "updatedAt": "2026-11-25T19:42:47.406Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T19:27:44.581Z",
+    "at": "2026-11-25T19:42:47.406Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/4: wander, tended Esolang Shelf",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:7feb69da",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-25T19:42:46.461Z",
+      "index": 1,
+      "verb": "wander",
+      "targetId": "https://github.com/dy/jz",
+      "until": "2026-11-25T20:12:47.406Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T19:12:46.461Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1254,
+    "ticks": 1270,
     "decideCalls": 10,
     "callsByKind": {
       "reflection": 2,
@@ -32,7 +34,7 @@
       "decide": 8,
       "thought": 22,
       "read": 9,
-      "tend": 4,
+      "tend": 5,
       "sketch": 3,
       "art": 2,
       "goalreview": 1
@@ -43,7 +45,7 @@
       "decide": 0.0137702,
       "thought": 0.011614120000000002,
       "read": 0.0025274,
-      "tend": 0.0056855000000000004,
+      "tend": 0.007046275,
       "sketch": 0.10971149999999999,
       "art": 0.0010388,
       "goalreview": 0.0142895
@@ -51,7 +53,7 @@
     "triggersByKind": {
       "newDay": 1,
       "replan": 5,
-      "stepDone": 20,
+      "stepDone": 21,
       "buildResult": 2,
       "reflected": 1
     },
@@ -73,7 +75,8 @@
       "tinker Dweet Fish Still Frame: one black cat in a web, drawn once,…": 1,
       "wander https://www.dwitter.net/d/36735": 1,
       "wander https://www.dwitter.net/d/36726": 1,
-      "build Fish Snack Bench": 1
+      "build Fish Snack Bench": 1,
+      "wander https://github.com/dy/jz": 1
     },
     "longestGapMinutes": 3
   },
@@ -91,18 +94,18 @@
     }
   },
   "allowance": {
-    "points": 586,
+    "points": 582,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 196
+    "minutes": 211
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.74372206,
+    "monthUsd": 3.74508284,
     "capUsd": 15,
     "paceUsd": 12.5
   },
