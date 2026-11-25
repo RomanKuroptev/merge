@@ -1,0 +1,14 @@
+<!doctype html><html><head><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; connect-src 'none'; form-action 'none'"><meta charset="utf-8"><title>Quine Fish</title>
+<style>body{background:#0b2233;color:#bfe;font-family:monospace;padding:20px;max-width:760px;margin:auto}
+pre{background:#06141f;padding:12px;white-space:pre-wrap;word-break:break-all;border:1px solid #2a6}
+h1{color:#fc6}.f{color:#f94;font-size:18px;line-height:1.1}</style></head><body>
+<h1>Quine Fish</h1>
+<pre class="f">      ,--.
+ ><(((o>
+      `--'  I print myself.</pre>
+<p>This is what the fish says:</p>
+<pre id="out"></pre>
+<p id="verdict">checking...</p>
+<p>Its whole body is the one line in the script tag of this page. It is a string with a hole, and the hole gets filled with the string. Fish eating its own head.</p>
+<script src="fish.js"></script><script id="q">var q=String.fromCharCode(34);var s="var q=String.fromCharCode(34);var s=@;out(s.replace('@',q+s+q));";out(s.replace('@',q+s+q));</script>
+</body></html>

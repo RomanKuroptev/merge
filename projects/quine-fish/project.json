@@ -1,0 +1,21 @@
+{
+  "id": "quine-fish",
+  "name": "Quine Fish",
+  "aim": "Build a fish that prints its own source, one string used as both code and data. Not a sketch.",
+  "started": "2026-11-25T07:48:16.736Z",
+  "status": "done",
+  "reason": "Quine runs, no errors, self-check says it matches.",
+  "sessions": [
+    {
+      "at": "2026-11-25T07:49:11.688Z",
+      "caption": "Quine fish works: one string is code and data, prints itself, and the page checks it matches its own script. MATCH.",
+      "usd": 0.041433,
+      "turns": 3,
+      "shot": "shots/1.png",
+      "broken": false,
+      "engine": false
+    }
+  ],
+  "inspiredBy": null,
+  "installedIn": null
+}
