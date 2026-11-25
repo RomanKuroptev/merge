@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-25T22:58:30.909Z",
+  "updatedAt": "2026-11-25T23:13:35.135Z",
   "engine": "v0.19.4",
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-25T22:58:30.909Z",
+    "at": "2026-11-25T23:13:35.135Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,67 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1472,
-    "decideCalls": 11,
-    "callsByKind": {
-      "reflection": 2,
-      "morning": 2,
-      "decide": 9,
-      "thought": 26,
-      "read": 13,
-      "tend": 5,
-      "sketch": 4,
-      "art": 2,
-      "goalreview": 1,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "reflection": 0.056455000000000005,
-      "morning": 0.00504294,
-      "decide": 0.01512905,
-      "thought": 0.013897020000000001,
-      "read": 0.004888389999999999,
-      "tend": 0.007046275,
-      "sketch": 0.14146999999999998,
-      "art": 0.0010388,
-      "goalreview": 0.0142895,
-      "sleep": 0.02000475
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "replan": 5,
-      "stepDone": 24,
-      "buildResult": 2,
-      "reflected": 1,
-      "sparked": 1
-    },
+    "ticks": 14,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
-    "rejections": 1,
+    "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://lemmy.world/post/54815564": 1,
-      "build Quine Fish": 1,
-      "tend esolang-shelf": 5,
-      "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
-      "rest": 5,
-      "wander Self-interpreter": 1,
-      "write Self-interpreter": 1,
-      "tinker Two Buttons Fish: snacks or loops": 1,
-      "wander https://www.dwitter.net/d/36734": 1,
-      "write Dweets": 1,
-      "tinker Dweet Fish Still Frame: one black cat in a web, drawn once,…": 1,
-      "wander https://www.dwitter.net/d/36735": 1,
-      "wander https://www.dwitter.net/d/36726": 1,
-      "build Fish Snack Bench": 1,
-      "wander https://github.com/dy/jz": 1,
-      "tinker Five Second Fish: one still frame, click the fish once, no…": 1
-    },
-    "longestGapMinutes": 3
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 13,
+      "used": 0,
       "max": 40
     }
   },
@@ -97,13 +51,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 404
+    "minutes": 419
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 3.80284885,
     "capUsd": 15,
-    "paceUsd": 12.5
+    "paceUsd": 13
   },
   "openBuild": null,
   "credit": "ok",
@@ -147,8 +101,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"tend esolang-shelf\" 5 times today",
-    "started \"rest\" 5 times today"
-  ]
+  "warnings": []
 }
