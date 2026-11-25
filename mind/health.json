@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-25T20:12:52.234Z",
+  "updatedAt": "2026-11-25T20:27:52.934Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T20:12:52.234Z",
+    "at": "2026-11-25T20:27:52.934Z",
     "asleep": false,
-    "summary": "step 3/4: rest, wandered from https://github.com/dy/jz",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,13 +23,13 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1302,
-    "decideCalls": 10,
+    "ticks": 1318,
+    "decideCalls": 11,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "decide": 8,
-      "thought": 23,
+      "decide": 9,
+      "thought": 24,
       "read": 13,
       "tend": 5,
       "sketch": 3,
@@ -41,8 +39,8 @@
     "spendByKind": {
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
-      "decide": 0.0137702,
-      "thought": 0.012178495000000003,
+      "decide": 0.01512905,
+      "thought": 0.012796870000000002,
       "read": 0.004888389999999999,
       "tend": 0.007046275,
       "sketch": 0.10971149999999999,
@@ -54,7 +52,8 @@
       "replan": 5,
       "stepDone": 22,
       "buildResult": 2,
-      "reflected": 1
+      "reflected": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 1,
@@ -100,11 +99,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 240
+    "minutes": 255
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.74800821,
+    "monthUsd": 3.74998544,
     "capUsd": 15,
     "paceUsd": 12.5
   },
