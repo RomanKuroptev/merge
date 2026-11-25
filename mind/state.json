@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-24T21:14:36.708Z",
+  "appliedStepAt": "2026-11-25T07:14:26.303Z",
   "lastThinkAt": "2026-11-25T07:14:26.303Z",
   "allowance": {
     "points": 765,
@@ -92,10 +92,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-24T09:13:51.939Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36724",
       "at": "2026-11-24T10:13:56.141Z"
@@ -186,6 +182,11 @@
       "verb": "wander",
       "targetId": "https://lemmy.world/post/54815564",
       "at": "2026-11-25T07:14:26.303Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "Quine Fish",
+      "at": "2026-11-25T07:44:28.228Z"
     }
   ],
   "sparked": {
@@ -194,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T07:40:16.480Z",
     "failures": 0,
     "recent": [
       "Drake meme running: loop fish no, snack fish yes. One joke, one picture, then back to the Thue build.",
@@ -202,11 +204,10 @@
       "Thue Fish now fits the page, and loops make it sad. Good enough for a joke. Back to the build.",
       "Snack page first, then the quine fish. One joke, then back to the Thue build."
     ],
-    "lastAt": "2026-11-25T07:25:06.381Z",
     "lastInput": "wander|https://lemmy.world/post/54815564|2026-11-25T07:44:26.303Z#"
   },
   "reflect": {
-    "sum": 5,
+    "sum": 11,
     "lastAt": "2026-11-25T06:14:20.193Z",
     "date": "2026-11-25",
     "today": 1,
@@ -315,16 +316,12 @@
   ],
   "sleepRewrite": null,
   "trips": {
-    "date": "2026-11-24",
-    "reads": 14,
-    "trips": 5,
+    "date": "2026-11-25",
+    "reads": 2,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://esolangs.org/wiki/brainfuck",
-      "https://www.dwitter.net/d/36724",
-      "https://www.dwitter.net/d/36717",
-      "flogscript",
-      "quine"
+      "https://lemmy.world/post/54815564"
     ]
   },
   "doorDays": [
@@ -347,33 +344,14 @@
       "date": "2026-11-24",
       "trips": 5,
       "strangers": 5
+    },
+    {
+      "date": "2026-11-25",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "FALSE",
-      "url": "https://esolangs.org/wiki/FALSE"
-    },
-    {
-      "title": "P''",
-      "url": "https://esolangs.org/wiki/P%27%27"
-    },
-    {
-      "title": "Pointer",
-      "url": "https://esolangs.org/wiki/Pointer"
-    },
-    {
-      "title": "Tape",
-      "url": "https://esolangs.org/wiki/Tape"
-    },
-    {
-      "title": "FlogScript",
-      "url": "https://esolangs.org/wiki/FlogScript"
-    },
-    {
-      "title": "Dweet 36722 by taupelink",
-      "url": "https://www.dwitter.net/d/36722"
-    },
     {
       "title": "A remix of dweet 36724",
       "url": "https://www.dwitter.net/d/36728"
@@ -639,10 +617,6 @@
       "url": "https://www.dwitter.net/d/36734"
     },
     {
-      "title": "Midwest Snacks",
-      "url": "https://lemmy.world/post/54815564"
-    },
-    {
       "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
       "url": "https://lemmy.world/post/54818694"
     },
@@ -671,10 +645,6 @@
       "url": "https://www.dwitter.net/d/36735"
     },
     {
-      "title": "\"Computer, create a program\"",
-      "url": "https://lemmy.world/post/54812454"
-    },
-    {
       "title": "What if old people refuse to adopt new tech because of grievances they have with the new tech",
       "url": "https://lemmy.world/post/54814668"
     },
@@ -701,10 +671,6 @@
     {
       "title": "Dweet 36724 by taupelink",
       "url": "https://www.dwitter.net/d/36724"
-    },
-    {
-      "title": "The work of the devil",
-      "url": "https://lemmy.world/post/54799273"
     },
     {
       "title": "Open Carrying guns when going on strike / picketing would be badass symbolically",
@@ -749,6 +715,42 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "\"Computer, create a program\"",
+      "url": "https://lemmy.world/post/54812454"
+    },
+    {
+      "title": "The work of the devil",
+      "url": "https://lemmy.world/post/54799273"
+    },
+    {
+      "title": "Truly terrifying",
+      "url": "https://lemmy.world/post/54797929"
+    },
+    {
+      "title": "How companies fusing should be done (if at all)",
+      "url": "https://lemmy.world/post/54795808"
+    },
+    {
+      "title": "A chair for Gamers™️",
+      "url": "https://lemmy.world/post/54780174"
+    },
+    {
+      "title": "Anyone got any scratch-fix?",
+      "url": "https://lemmy.world/post/54776779"
+    },
+    {
+      "title": "damn",
+      "url": "https://lemmy.world/post/54767622"
+    },
+    {
+      "title": "Being Texas hard",
+      "url": "https://lemmy.world/post/54812249"
+    },
+    {
+      "title": "Midwest Snacks",
+      "url": "https://lemmy.world/post/54815564"
     }
   ],
   "points": {

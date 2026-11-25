@@ -1,59 +1,65 @@
 {
-  "updatedAt": "2026-11-25T07:29:08.173Z",
+  "updatedAt": "2026-11-25T07:44:28.228Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T07:29:08.173Z",
+    "at": "2026-11-25T07:44:28.228Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: build, wandered from https://lemmy.world/post/54815564",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:122cd59c",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://lemmy.world/post/54815564",
-      "until": "2026-11-25T07:44:26.303Z",
+      "index": 1,
+      "verb": "build",
+      "targetId": "Quine Fish",
+      "until": "2026-11-25T09:14:28.228Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T07:14:26.303Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 509,
+    "ticks": 526,
     "decideCalls": 3,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
       "decide": 1,
-      "thought": 1
+      "thought": 1,
+      "read": 2
     },
     "spendByKind": {
       "reflection": 0.029089,
       "morning": 0.00504294,
       "decide": 0.00177255,
-      "thought": 0.000553275
+      "thought": 0.000553275,
+      "read": 0.0006613299999999999
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 1
+      "replan": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 1,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://lemmy.world/post/54815564": 1
+      "wander https://lemmy.world/post/54815564": 1,
+      "build Quine Fish": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 2,
       "max": 40
     }
   },
@@ -61,7 +67,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.577
+      "share": 0.536
     }
   },
   "allowance": {
@@ -72,11 +78,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 75
+    "minutes": 90
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.49516155,
+    "monthUsd": 3.49582288,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -100,14 +106,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 19,
-      "strangers": 19,
+      "trips": 20,
+      "strangers": 20,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.577,
+      "share": 0.536,
       "wouldFire": false
     },
     "draws": {

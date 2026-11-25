@@ -2,27 +2,15 @@
   "version": 2,
   "topics": {
     "internet humour": {
-      "weight": 15.252,
+      "weight": 29.252,
       "firstSeen": "2026-11-21T15:29:11.865Z",
-      "lastFed": "2026-11-24T06:23:32.055Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
       "sources": [
         {
           "id": "trail:2026-11-21-1",
           "title": "Two Buttons",
           "url": "https://imgflip.com/meme/87743020",
           "at": "2026-11-21T15:29:11.865Z"
-        },
-        {
-          "id": "trail:2026-11-21-2",
-          "title": "Deadfish",
-          "url": "https://esolangs.org/wiki/Deadfish",
-          "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "2026-11-21-deadfish",
-          "title": "Deadfish",
-          "url": "https://esolangs.org/wiki/Deadfish",
-          "at": "2026-11-21T15:59:14.114Z"
         },
         {
           "id": "trail:2026-11-22-6",
@@ -35,6 +23,18 @@
           "title": "Brianfuck",
           "url": "https://esolangs.org/wiki/Brianfuck",
           "at": "2026-11-24T06:23:32.055Z"
+        },
+        {
+          "id": "trail:2026-11-25-1",
+          "title": "A chair for Gamers™️",
+          "url": "https://lemmy.world/post/54780174",
+          "at": "2026-11-25T07:44:28.228Z"
+        },
+        {
+          "id": "2026-11-25-a-chair-for-gamers",
+          "title": "A chair for Gamers™️",
+          "url": "https://lemmy.world/post/54780174",
+          "at": "2026-11-25T07:44:28.228Z"
         }
       ],
       "history": [
@@ -67,6 +67,18 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-24-1"
+        },
+        {
+          "at": "2026-11-25T07:44:28.228Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-25-1"
+        },
+        {
+          "at": "2026-11-25T07:44:28.228Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-1"
         }
       ]
     },
@@ -844,39 +856,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-24-1"
-        }
-      ]
-    },
-    "two-dimensional programming": {
-      "weight": 8.598,
-      "firstSeen": "2026-11-22T07:34:24.769Z",
-      "lastFed": "2026-11-22T07:34:24.769Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-22-1",
-          "title": "Funciton",
-          "url": "https://esolangs.org/wiki/Funciton",
-          "at": "2026-11-22T07:34:24.769Z"
-        },
-        {
-          "id": "2026-11-22-funciton",
-          "title": "Funciton",
-          "url": "https://esolangs.org/wiki/Funciton",
-          "at": "2026-11-22T07:34:24.769Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-22T07:34:24.769Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-1"
-        },
-        {
-          "at": "2026-11-22T07:34:24.769Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-22-1"
         }
       ]
     },
@@ -1870,48 +1849,6 @@
         }
       ]
     },
-    "popular problem": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-24T18:11:45.221Z",
-      "lastFed": "2026-11-24T18:11:45.221Z",
-      "sources": [
-        {
-          "id": "2026-11-24-popular-problem",
-          "title": "Popular problem",
-          "url": "https://esolangs.org/wiki/Popular_problem",
-          "at": "2026-11-24T18:11:45.221Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-24T18:11:45.221Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-24-4"
-        }
-      ]
-    },
-    "fizzbuzz": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-24T18:11:45.221Z",
-      "lastFed": "2026-11-24T18:11:45.221Z",
-      "sources": [
-        {
-          "id": "2026-11-24-popular-problem",
-          "title": "Popular problem",
-          "url": "https://esolangs.org/wiki/Popular_problem",
-          "at": "2026-11-24T18:11:45.221Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-24T18:11:45.221Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-24-4"
-        }
-      ]
-    },
     "quines": {
       "weight": 20.4,
       "firstSeen": "2026-11-24T21:14:36.708Z",
@@ -1957,45 +1894,108 @@
         }
       ]
     },
-    "self-reproduction": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-24T21:14:36.708Z",
-      "lastFed": "2026-11-24T21:14:36.708Z",
+    "fried food": {
+      "weight": 10,
+      "firstSeen": "2026-11-25T07:44:28.228Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
       "sources": [
         {
-          "id": "2026-11-24-quine",
-          "title": "Quine",
-          "url": "https://esolangs.org/wiki/Quine",
-          "at": "2026-11-24T21:14:36.708Z"
+          "id": "2026-11-25-midwest-snacks",
+          "title": "Midwest Snacks",
+          "url": "https://lemmy.world/post/54815564",
+          "at": "2026-11-25T07:44:28.228Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-24T21:14:36.708Z",
+          "at": "2026-11-25T07:44:28.228Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-24-5"
+          "trail": "2026-11-25-1"
         }
       ]
     },
-    "self-reproducing programs": {
-      "weight": 8.5,
-      "firstSeen": "2026-11-24T21:14:36.708Z",
-      "lastFed": "2026-11-24T21:14:36.708Z",
+    "midwest snacks": {
+      "weight": 10,
+      "firstSeen": "2026-11-25T07:44:28.228Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
       "sources": [
         {
-          "id": "2026-11-24-self-reproducing-object",
-          "title": "Self-reproducing object",
-          "url": "https://esolangs.org/wiki/Self-reproducing_object",
-          "at": "2026-11-24T21:14:36.708Z"
+          "id": "2026-11-25-midwest-snacks",
+          "title": "Midwest Snacks",
+          "url": "https://lemmy.world/post/54815564",
+          "at": "2026-11-25T07:44:28.228Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-24T21:14:36.708Z",
+          "at": "2026-11-25T07:44:28.228Z",
           "change": 10,
           "event": "souvenir",
-          "trail": "2026-11-24-5"
+          "trail": "2026-11-25-1"
+        }
+      ]
+    },
+    "ranch dressing": {
+      "weight": 10,
+      "firstSeen": "2026-11-25T07:44:28.228Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
+      "sources": [
+        {
+          "id": "2026-11-25-midwest-snacks",
+          "title": "Midwest Snacks",
+          "url": "https://lemmy.world/post/54815564",
+          "at": "2026-11-25T07:44:28.228Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-25T07:44:28.228Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-1"
+        }
+      ]
+    },
+    "gaming chairs": {
+      "weight": 10,
+      "firstSeen": "2026-11-25T07:44:28.228Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
+      "sources": [
+        {
+          "id": "2026-11-25-a-chair-for-gamers",
+          "title": "A chair for Gamers™️",
+          "url": "https://lemmy.world/post/54780174",
+          "at": "2026-11-25T07:44:28.228Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-25T07:44:28.228Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-1"
+        }
+      ]
+    },
+    "furniture prices": {
+      "weight": 10,
+      "firstSeen": "2026-11-25T07:44:28.228Z",
+      "lastFed": "2026-11-25T07:44:28.228Z",
+      "sources": [
+        {
+          "id": "2026-11-25-a-chair-for-gamers",
+          "title": "A chair for Gamers™️",
+          "url": "https://lemmy.world/post/54780174",
+          "at": "2026-11-25T07:44:28.228Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-25T07:44:28.228Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-25-1"
         }
       ]
     }

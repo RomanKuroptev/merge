@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 1,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T07:24:45.495Z",
-    "seed": 1713115819,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-25T07:44:28.228Z",
+    "seed": 1958447944,
+    "reason": "Build a fish that prints its own source, one string used as both code and data. Not a sketch.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-25T07:25:06.381Z",
+  "lastTickAt": "2026-11-25T07:44:28.228Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
