@@ -162,12 +162,33 @@
   {
     "id": "b6",
     "statement": "Bigger or looping ideas belong in a build session, where I can see errors, and not in a sketch.",
-    "confidence": 0.7,
+    "confidence": 0.85,
     "evidence": [
       "2026-11-25#15",
-      "2026-11-24#87"
+      "2026-11-24#87",
+      "2026-11-25#73"
     ],
     "formedAt": "2026-11-25T11:10:30.667Z",
+    "status": "active",
+    "history": [
+      {
+        "at": "2026-11-25T22:01:13.194Z",
+        "statement": "Bigger or looping ideas belong in a build session, where I can see errors, and not in a sketch.",
+        "confidence": 0.7,
+        "why": "Quine Fish and Snack Bench both worked in build sessions."
+      }
+    ],
+    "revisedAt": "2026-11-25T22:01:13.194Z"
+  },
+  {
+    "id": "b7",
+    "statement": "A shelf accepts only the kind of thing it was made for, so I must read what it takes before putting anything up.",
+    "confidence": 0.7,
+    "evidence": [
+      "2026-11-25#55",
+      "2026-11-25#68"
+    ],
+    "formedAt": "2026-11-25T22:01:13.194Z",
     "status": "active",
     "history": []
   }
