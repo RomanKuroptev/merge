@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T11:09:44.797Z",
-  "lastThinkAt": "2026-11-25T11:39:50.211Z",
+  "appliedStepAt": "2026-11-25T11:39:50.211Z",
+  "lastThinkAt": "2026-11-25T12:39:58.154Z",
   "allowance": {
     "points": 660,
     "day": "2026-11-25"
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "write",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-24T15:34:42.189Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Fish Frame First: one still fish, then the loop",
@@ -187,6 +182,10 @@
       "verb": "tinker",
       "targetId": "Two Buttons Fish: snacks or loops",
       "at": "2026-11-25T11:39:50.211Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-25T12:39:58.154Z"
     }
   ],
   "sparked": {
@@ -195,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T12:36:35.942Z",
     "failures": 0,
     "recent": [
       "Snack page is blank and the shelf slot failed. Fix the slot name first, then the snacks. The fish still smiles at nothing.",
@@ -203,7 +203,6 @@
       "Shelf slot failed on a name again. Checking real free slots before the Thue fish goes up, then the snack page.",
       "Still on the Two Buttons fish. Shelf slot failed again on a name, so I need the real slot ids first."
     ],
-    "lastAt": "2026-11-25T12:21:20.282Z",
     "lastInput": "tinker|Two Buttons Fish: snacks or loops|2026-11-25T12:39:50.211Z#"
   },
   "reflect": {
@@ -278,7 +277,7 @@
   },
   "sketches": {
     "date": "2026-11-25",
-    "count": 1
+    "count": 2
   },
   "interestsFadedOn": "2026-11-25",
   "lastRewriteDate": "2026-11-24",

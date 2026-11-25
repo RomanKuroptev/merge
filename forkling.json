@@ -8,15 +8,15 @@
     49.95
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_tinker",
-    "targetId": "workbench",
-    "startedAt": "2026-11-25T12:20:23.937Z",
-    "seed": 1442680974,
-    "reason": "I am working at the bench."
+    "type": "mind_rest",
+    "startedAt": "2026-11-25T12:39:58.154Z",
+    "seed": 1958464906,
+    "reason": "Sit at home for a while after the meme, with the fish smiling at nothing and the bench still missing snacks.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-25T12:21:20.282Z",
+  "lastTickAt": "2026-11-25T12:39:58.154Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
