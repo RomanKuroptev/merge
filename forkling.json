@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    16,
+    5.5,
     0,
-    48
+    13.55
   ],
   "mood": 1,
   "energy": -0.25,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-25T18:10:38.903Z",
-    "seed": 1958362634,
-    "reason": "A dweet by Axioplase that no trip has started from today. I want to see another cat-free way to draw a tunnel.",
-    "goalRef": "today:1"
+    "targetId": "desk",
+    "startedAt": "2026-11-25T18:24:21.121Z",
+    "seed": 611843624,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-25T18:10:38.903Z",
+  "lastTickAt": "2026-11-25T18:25:25.853Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
