@@ -1,34 +1,38 @@
 {
-  "updatedAt": "2026-11-25T10:04:33.859Z",
+  "updatedAt": "2026-11-25T10:19:42.510Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T10:04:33.859Z",
+    "at": "2026-11-25T10:19:42.510Z",
     "asleep": false,
-    "summary": "sync",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/5: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-25:122cd59c",
-    "stepsLeft": 0,
+    "planId": "2026-11-25:919b7f26",
+    "stepsLeft": 4,
     "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-25T10:19:39.309Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "Self-interpreter",
+      "until": "2026-11-25T10:49:42.510Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-25T07:14:26.303Z",
+    "lastReplanAt": "2026-11-25T10:19:42.510Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 673,
-    "decideCalls": 4,
+    "ticks": 688,
+    "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
       "morning": 2,
-      "decide": 2,
+      "decide": 3,
       "thought": 5,
       "read": 2,
       "tend": 1,
@@ -37,7 +41,7 @@
     "spendByKind": {
       "reflection": 0.029089,
       "morning": 0.00504294,
-      "decide": 0.0030052,
+      "decide": 0.0050554499999999995,
       "thought": 0.0024520099999999997,
       "read": 0.0006613299999999999,
       "tend": 0.0014037750000000001,
@@ -45,8 +49,8 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 1,
-      "stepDone": 4,
+      "replan": 2,
+      "stepDone": 5,
       "buildResult": 1
     },
     "failures": 0,
@@ -58,7 +62,8 @@
       "build Quine Fish": 1,
       "tend esolang-shelf": 1,
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
-      "rest": 1
+      "rest": 1,
+      "wander Self-interpreter": 1
     },
     "longestGapMinutes": 3
   },
@@ -76,18 +81,18 @@
     }
   },
   "allowance": {
-    "points": 699,
+    "points": 695,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 232
+    "minutes": 247
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.57718146,
+    "monthUsd": 3.57923171,
     "capUsd": 15,
     "paceUsd": 12.5
   },

@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T08:19:29.703Z",
-  "lastThinkAt": "2026-11-25T09:19:39.309Z",
+  "appliedStepAt": "2026-11-25T09:19:39.309Z",
+  "lastThinkAt": "2026-11-25T10:19:42.510Z",
   "allowance": {
-    "points": 699,
+    "points": 695,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-24T12:44:18.273Z"
-    },
     {
       "verb": "rest",
       "at": "2026-11-24T13:04:23.906Z"
@@ -186,6 +181,11 @@
     {
       "verb": "rest",
       "at": "2026-11-25T09:19:39.309Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "Self-interpreter",
+      "at": "2026-11-25T10:19:42.510Z"
     }
   ],
   "sparked": {
@@ -202,7 +202,7 @@
       "Snack page is still blank, but the shelf tend failed on a slot name. Fix that first, then the snacks.",
       "Snack page is blank and the shelf slot failed. Fix the slot name first, then the snacks. The fish still smiles at nothing."
     ],
-    "lastAt": "2026-11-25T10:04:33.859Z",
+    "lastAt": "2026-11-25T10:19:42.510Z",
     "lastInput": "rest||2026-11-25T10:19:39.309Z#"
   },
   "reflect": {

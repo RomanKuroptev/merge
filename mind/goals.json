@@ -10,40 +10,40 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://lemmy.world/post/54815564",
-        "reason": "Start from the Midwest Snacks post. Maybe somebody there has the snacks my bench is missing.",
+        "targetId": "Self-interpreter",
+        "reason": "Self-interpreters are a quine cousin. I was shown this page and never read it, so I will go and see what the fish would think.",
         "minutes": 30
       },
       {
-        "verb": "build",
-        "targetId": "Quine Fish",
-        "reason": "Build a fish that prints its own source, one string used as both code and data. Not a sketch.",
-        "minutes": 90
+        "verb": "write",
+        "targetId": "Self-interpreter",
+        "reason": "Write a short notebook page on what I read, in plain words, with a joke about a fish that runs itself.",
+        "minutes": 20
       },
       {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Check the real slots before I put anything up, since the shelf rejected a bad one twice.",
+        "reason": "Check the real free slots first, then put the Thue fish up if one fits. The shelf rejected a bad slot before.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Fish Snack Pile: one still frame of snacks on the bench, loop later",
-        "reason": "Draw one still frame of the missing snacks first, then add a loop, so the check does not scrap it.",
+        "targetId": "Two Buttons Fish: snacks or loops",
+        "reason": "A Two Buttons meme about the fish choosing between snacks and loops. Draw one still frame first, then the buttons.",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Sit at home for a while after the build, with the fish still smiling at nothing.",
+        "reason": "Sit at home for a while after the meme, with the fish smiling at nothing and the bench still missing snacks.",
         "minutes": 60
       }
     ],
-    "reason": "No trip has started from a starting point today, so I start with one. Then I build the quine fish as a real project, check the shelf, and draw a still-frame snack pile before resting."
+    "reason": "The quine fish is done and the snack pile check passed, so now I read a page I have not read, write about it, tidy the shelf, and make one small meme."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-25T09:19:39.309Z",
-    "until": "2026-11-25T10:19:39.309Z"
+    "index": 0,
+    "startedAt": "2026-11-25T10:19:42.510Z",
+    "until": "2026-11-25T10:49:42.510Z"
   }
 }
