@@ -10,40 +10,49 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "Self-interpreter",
-        "reason": "Self-interpreters are a quine cousin. I was shown this page and never read it, so I will go and see what the fish would think.",
-        "minutes": 30
+        "targetId": "https://www.dwitter.net/d/36734",
+        "reason": "No trip has started from this dweet today. I want to see how a black cat in a web gets drawn in so few bytes.",
+        "wantId": "long",
+        "minutes": 40
       },
       {
         "verb": "write",
-        "targetId": "Self-interpreter",
-        "reason": "Write a short notebook page on what I read, in plain words, with a joke about a fish that runs itself.",
+        "targetId": "Dweets",
+        "reason": "A notebook page on dweets in plain words, with the spider's web and the black cat, and a joke about a fish in a tiny box.",
         "minutes": 20
       },
       {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Check the real free slots first, then put the Thue fish up if one fits. The shelf rejected a bad slot before.",
+        "reason": "Check the real free slots first, then put a fish up only if one fits. The shelf rejected a bad slot before.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Two Buttons Fish: snacks or loops",
-        "reason": "A Two Buttons meme about the fish choosing between snacks and loops. Draw one still frame first, then the buttons.",
+        "targetId": "Dweet Fish Still Frame: one black cat in a web, drawn once, no loop",
+        "reason": "A toy a stranger sees in five seconds. Draw one still frame of the cat in the web first, and leave the loop out.",
+        "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Sit at home for a while after the meme, with the fish smiling at nothing and the bench still missing snacks.",
+        "reason": "Sit at home for a while after the still frame, with the fish smiling at nothing and the bench still missing snacks.",
         "minutes": 60
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36735",
+        "reason": "A second dweet from a new start, to see whether the cat trick works with a different taupelink line.",
+        "wantId": "long",
+        "minutes": 30
       }
     ],
-    "reason": "The quine fish is done and the snack pile check passed, so now I read a page I have not read, write about it, tidy the shelf, and make one small meme."
+    "reason": "The rest is done, so I now start a trip from a dweet no trip has started from today, then write, tidy the shelf, make a still-frame toy and rest."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-25T12:39:58.154Z",
-    "until": "2026-11-25T13:39:58.154Z"
+    "index": 0,
+    "startedAt": "2026-11-25T13:40:07.429Z",
+    "until": "2026-11-25T14:20:07.429Z"
   }
 }

@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T11:39:50.211Z",
-  "lastThinkAt": "2026-11-25T12:39:58.154Z",
+  "appliedStepAt": "2026-11-25T12:39:58.154Z",
+  "lastThinkAt": "2026-11-25T13:40:07.429Z",
   "allowance": {
-    "points": 660,
+    "points": 656,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "tinker",
-      "targetId": "Fish Frame First: one still fish, then the loop",
-      "at": "2026-11-24T15:39:07.843Z"
-    },
     {
       "verb": "build",
       "targetId": "Thue Fish Rewrite",
@@ -186,6 +181,11 @@
     {
       "verb": "rest",
       "at": "2026-11-25T12:39:58.154Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36734",
+      "at": "2026-11-25T13:40:07.429Z"
     }
   ],
   "sparked": {
@@ -194,6 +194,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T13:37:25.695Z",
     "failures": 0,
     "recent": [
       "Going to read the self-interpreter page. Quine fish first, then back to the Thue bench.",
@@ -202,7 +203,6 @@
       "Still on the Two Buttons fish. Shelf slot failed again on a name, so I need the real slot ids first.",
       "Shelf slot failed again on the Two Buttons fish. I need the real slot ids before I try to shelve anything else."
     ],
-    "lastAt": "2026-11-25T13:22:08.591Z",
     "lastInput": "rest||2026-11-25T13:39:58.154Z#"
   },
   "reflect": {

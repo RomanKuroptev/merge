@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-25T13:21:23.655Z",
-    "seed": 1708857430,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-25T13:40:07.429Z",
+    "seed": 1958477731,
+    "reason": "The rest has run its time, so I'll read a dweet I haven't seen, write about it, and make one still-frame toy.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-25T13:22:08.591Z",
+  "lastTickAt": "2026-11-25T13:40:07.429Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

@@ -1,34 +1,38 @@
 {
-  "updatedAt": "2026-11-25T13:25:10.109Z",
+  "updatedAt": "2026-11-25T13:40:07.429Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T13:25:10.109Z",
+    "at": "2026-11-25T13:40:07.429Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/6: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-25:919b7f26",
-    "stepsLeft": 0,
+    "planId": "2026-11-25:2521c831",
+    "stepsLeft": 5,
     "current": {
-      "index": 4,
-      "verb": "rest",
-      "until": "2026-11-25T13:39:58.154Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36734",
+      "until": "2026-11-25T14:20:07.429Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-25T10:19:42.510Z",
+    "lastReplanAt": "2026-11-25T13:40:07.429Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 880,
-    "decideCalls": 6,
+    "ticks": 896,
+    "decideCalls": 7,
     "callsByKind": {
       "reflection": 2,
       "morning": 2,
-      "decide": 4,
+      "decide": 5,
       "thought": 10,
       "read": 2,
       "tend": 2,
@@ -38,7 +42,7 @@
     "spendByKind": {
       "reflection": 0.056455000000000005,
       "morning": 0.00504294,
-      "decide": 0.0062489,
+      "decide": 0.00835215,
       "thought": 0.005281885,
       "read": 0.0006613299999999999,
       "tend": 0.0029333500000000004,
@@ -47,8 +51,8 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "replan": 2,
-      "stepDone": 9,
+      "replan": 3,
+      "stepDone": 10,
       "buildResult": 1,
       "reflected": 1
     },
@@ -64,7 +68,8 @@
       "rest": 2,
       "wander Self-interpreter": 1,
       "write Self-interpreter": 1,
-      "tinker Two Buttons Fish: snacks or loops": 1
+      "tinker Two Buttons Fish: snacks or loops": 1,
+      "wander https://www.dwitter.net/d/36734": 1
     },
     "longestGapMinutes": 3
   },
@@ -82,18 +87,18 @@
     }
   },
   "allowance": {
-    "points": 660,
+    "points": 656,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 154
+    "minutes": 169
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.64757449,
+    "monthUsd": 3.64967774,
     "capUsd": 15,
     "paceUsd": 12.5
   },
