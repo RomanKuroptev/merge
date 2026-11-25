@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    18.5,
+    8,
     0,
-    49.95
+    16
   ],
   "mood": 1,
   "energy": 0.15,
   "intention": {
     "type": "mind_rest",
-    "startedAt": "2026-11-25T12:39:58.154Z",
-    "seed": 1958464906,
-    "reason": "Sit at home for a while after the meme, with the fish smiling at nothing and the bench still missing snacks.",
-    "goalRef": "today:4"
+    "targetId": "home",
+    "startedAt": "2026-11-25T12:51:35.054Z",
+    "seed": 68549882,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-25T12:39:58.154Z",
+  "lastTickAt": "2026-11-25T12:51:42.253Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
