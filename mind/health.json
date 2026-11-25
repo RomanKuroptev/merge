@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-25T11:04:18.536Z",
+  "updatedAt": "2026-11-25T11:09:44.797Z",
   "engine": "v0.19.4",
   "date": "2026-11-25",
   "lastTick": {
-    "at": "2026-11-25T11:04:18.536Z",
+    "at": "2026-11-25T11:09:44.797Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: tend, wrote \"Self-interpreter, Not Found\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-25:919b7f26",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "write",
-      "targetId": "Self-interpreter",
-      "until": "2026-11-25T11:09:44.646Z",
+      "index": 2,
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "until": "2026-11-25T11:39:44.797Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-25T10:19:42.510Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 735,
+    "ticks": 741,
     "decideCalls": 5,
     "callsByKind": {
       "reflection": 1,
@@ -33,7 +35,8 @@
       "thought": 7,
       "read": 2,
       "tend": 1,
-      "sketch": 1
+      "sketch": 1,
+      "art": 1
     },
     "spendByKind": {
       "reflection": 0.029089,
@@ -42,12 +45,13 @@
       "thought": 0.0035601599999999997,
       "read": 0.0006613299999999999,
       "tend": 0.0014037750000000001,
-      "sketch": 0.0353905
+      "sketch": 0.0353905,
+      "art": 0.00049735
     },
     "triggersByKind": {
       "newDay": 1,
       "replan": 2,
-      "stepDone": 6,
+      "stepDone": 7,
       "buildResult": 1
     },
     "failures": 0,
@@ -57,7 +61,7 @@
     "stepsStarted": {
       "wander https://lemmy.world/post/54815564": 1,
       "build Quine Fish": 1,
-      "tend esolang-shelf": 1,
+      "tend esolang-shelf": 2,
       "tinker Fish Snack Pile: one still frame of snacks on the bench, lo…": 1,
       "rest": 1,
       "wander Self-interpreter": 1,
@@ -79,18 +83,18 @@
     }
   },
   "allowance": {
-    "points": 685,
+    "points": 683,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 14
+    "minutes": 19
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.58033987,
+    "monthUsd": 3.58083722,
     "capUsd": 15,
     "paceUsd": 12.5
   },
@@ -108,8 +112,8 @@
       }
     },
     "texts": {
-      "texts": 14,
-      "meanMaxSimilarity": 0.009698559022845254,
+      "texts": 15,
+      "meanMaxSimilarity": 0.010235420373984961,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },

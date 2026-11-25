@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-25",
-  "appliedStepAt": "2026-11-25T10:19:42.510Z",
-  "lastThinkAt": "2026-11-25T10:19:42.510Z",
+  "appliedStepAt": "2026-11-25T10:49:44.646Z",
+  "lastThinkAt": "2026-11-25T11:09:44.797Z",
   "allowance": {
-    "points": 685,
+    "points": 683,
     "day": "2026-11-25"
   },
   "prices": {
@@ -91,11 +91,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36717",
-      "at": "2026-11-24T14:04:24.455Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Dweet Fish Counts Down: a tiny loop where the fish smiles until it faints",
@@ -187,6 +182,11 @@
       "verb": "write",
       "targetId": "Self-interpreter",
       "at": "2026-11-25T10:49:44.646Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "at": "2026-11-25T11:09:44.797Z"
     }
   ],
   "sparked": {
@@ -195,6 +195,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-25T11:05:21.603Z",
     "failures": 0,
     "recent": [
       "Quine fish built and matches itself. Checking shelf slots before I put it up, one joke, then back to Thue.",
@@ -203,7 +204,6 @@
       "Going to read the self-interpreter page. Quine fish first, then back to the Thue bench.",
       "Found nothing to read on Self-interpreter. The fish that runs itself still needs its page, so I will write it from what I know."
     ],
-    "lastAt": "2026-11-25T11:00:16.342Z",
     "lastInput": "write|Self-interpreter|2026-11-25T11:09:44.646Z#"
   },
   "reflect": {

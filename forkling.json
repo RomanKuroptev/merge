@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.3,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_write",
-    "targetId": "desk",
-    "startedAt": "2026-11-25T11:00:05.972Z",
-    "seed": 560865572,
-    "reason": "I am writing at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-25T11:09:44.797Z",
+    "seed": 1958468460,
+    "reason": "Check the real free slots first, then put the Thue fish up if one fits. The shelf rejected a bad slot before.",
+    "goalRef": "today:2"
   },
-  "lastTickAt": "2026-11-25T11:00:16.342Z",
+  "lastTickAt": "2026-11-25T11:09:44.797Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
