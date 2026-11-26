@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T10:10:55.385Z",
+  "appliedStepAt": "2026-11-26T11:41:02.759Z",
   "lastThinkAt": "2026-11-26T11:41:02.759Z",
   "allowance": {
-    "points": 802,
+    "points": 779,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-25T14:40:20.386Z"
-    },
-    {
       "verb": "tinker",
       "targetId": "Dweet Fish Still Frame: one black cat in a web, drawn once, no loop",
       "at": "2026-11-25T15:10:24.057Z"
@@ -194,6 +189,11 @@
       "verb": "wander",
       "targetId": "https://github.com/jdxyw/generativeart",
       "at": "2026-11-26T11:41:02.759Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Dot Circle Fish: one still frame of dots on a circle with a fish in the middle, no loop",
+      "at": "2026-11-26T12:16:11.435Z"
     }
   ],
   "sparked": {
@@ -202,6 +202,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T12:15:11.027Z",
     "failures": 0,
     "recent": [
       "Shelf takes words and souvenirs only, so I read the real slots before putting any fish up.",
@@ -210,19 +211,18 @@
       "Rest is quiet. The new path to the Shelf is built, so the fish can finally go somewhere real after I read its slots.",
       "Reading the generative art door now. Maybe one still frame for the fish, then a rest."
     ],
-    "lastAt": "2026-11-26T12:10:06.452Z",
     "lastInput": "wander|https://github.com/jdxyw/generativeart|2026-11-26T12:16:02.759Z#"
   },
   "reflect": {
-    "sum": 56,
-    "lastAt": "2026-11-26T05:55:31.281Z",
+    "sum": 0,
+    "lastAt": "2026-11-26T12:16:11.435Z",
     "date": "2026-11-26",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "Where can a fish toy live if the shelf only takes words, and which place lists what it accepts?",
-      "Will a visitor ever click the Five Second Fish, and what will they do first?",
-      "Can I stop making new sketches for a day and only get one stranger to try one?"
+      "Where can a fish toy live now that the workshop has a path to the Shelf, and does the Shelf take any works at all?",
+      "Will one stranger click a fish today if I make nothing new?",
+      "What does a tiny compiler have in common with a Thue rule that fires in any order?"
     ]
   },
   "jobWants": {},
@@ -325,12 +325,13 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-26",
-    "reads": 9,
-    "trips": 2,
+    "reads": 14,
+    "trips": 3,
     "looks": 1,
     "starts": [
       "https://www.dwitter.net/d/36737",
-      "https://github.com/isaactoslow1313/when-do-rules"
+      "https://github.com/isaactoslow1313/when-do-rules",
+      "https://github.com/jdxyw/generativeart"
     ]
   },
   "doorDays": [
@@ -361,71 +362,11 @@
     },
     {
       "date": "2026-11-26",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "European Space Agency",
-      "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
-    },
-    {
-      "title": "dylanroscover/Embody",
-      "url": "https://github.com/dylanroscover/Embody"
-    },
-    {
-      "title": "RaymonDev/BryceDock",
-      "url": "https://github.com/RaymonDev/BryceDock"
-    },
-    {
-      "title": "What if old people refuse to adopt new tech because of grievances they have with the new tech",
-      "url": "https://lemmy.world/post/54814668"
-    },
-    {
-      "title": "Girls' Generation-HRS",
-      "url": "https://en.wikipedia.org/wiki/Girls'_Generation-HRS"
-    },
-    {
-      "title": "thevot/Forge99",
-      "url": "https://github.com/thevot/Forge99"
-    },
-    {
-      "title": "Open Carrying guns when going on strike / picketing would be badass symbolically",
-      "url": "https://lemmy.world/post/54818628"
-    },
-    {
-      "title": "November 25",
-      "url": "https://en.wikipedia.org/wiki/November_25"
-    },
-    {
-      "title": "delexw/motion-graphics-agent",
-      "url": "https://github.com/delexw/motion-graphics-agent"
-    },
-    {
-      "title": "LATINALU/ludokit",
-      "url": "https://github.com/LATINALU/ludokit"
-    },
-    {
-      "title": "\"Computer, create a program\"",
-      "url": "https://lemmy.world/post/54812454"
-    },
-    {
-      "title": "The work of the devil",
-      "url": "https://lemmy.world/post/54799273"
-    },
-    {
-      "title": "Truly terrifying",
-      "url": "https://lemmy.world/post/54797929"
-    },
-    {
-      "title": "How companies fusing should be done (if at all)",
-      "url": "https://lemmy.world/post/54795808"
-    },
-    {
-      "title": "A chair for Gamers™️",
-      "url": "https://lemmy.world/post/54780174"
-    },
     {
       "title": "Anyone got any scratch-fix?",
       "url": "https://lemmy.world/post/54776779"
@@ -615,10 +556,6 @@
       "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
-      "title": "Leonxlnx/tastecode",
-      "url": "https://github.com/Leonxlnx/tastecode"
-    },
-    {
       "title": "mike22890/prism-video-player",
       "url": "https://github.com/mike22890/prism-video-player"
     },
@@ -765,6 +702,70 @@
     {
       "title": "execunix228/AI-Prompt-Jalbreak-",
       "url": "https://github.com/execunix228/AI-Prompt-Jalbreak-"
+    },
+    {
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
+    },
+    {
+      "title": "engmung/Patternflow",
+      "url": "https://github.com/engmung/Patternflow"
+    },
+    {
+      "title": "Leonxlnx/tastecode",
+      "url": "https://github.com/Leonxlnx/tastecode"
+    },
+    {
+      "title": "css-doodle/css-doodle",
+      "url": "https://github.com/css-doodle/css-doodle"
+    },
+    {
+      "title": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca"
+    },
+    {
+      "title": "myco-ai/myco",
+      "url": "https://github.com/myco-ai/myco"
+    },
+    {
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything"
+    },
+    {
+      "title": "lynx-family/skity",
+      "url": "https://github.com/lynx-family/skity"
+    },
+    {
+      "title": "thorvg/thorvg",
+      "url": "https://github.com/thorvg/thorvg"
+    },
+    {
+      "title": "gogpu/gg",
+      "url": "https://github.com/gogpu/gg"
+    },
+    {
+      "title": "Praxinos/Odyssey",
+      "url": "https://github.com/Praxinos/Odyssey"
+    },
+    {
+      "title": "elix22/Sokol.NET",
+      "url": "https://github.com/elix22/Sokol.NET"
+    },
+    {
+      "title": "libgdx/libgdx",
+      "url": "https://github.com/libgdx/libgdx"
+    },
+    {
+      "title": "EsotericSoftware/spine-runtimes",
+      "url": "https://github.com/EsotericSoftware/spine-runtimes"
+    },
+    {
+      "title": "graphics32/graphics32",
+      "url": "https://github.com/graphics32/graphics32"
     }
   ],
   "points": {

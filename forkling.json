@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-26T12:09:40.932Z",
-    "seed": 1049605588,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-26T12:16:11.435Z",
+    "seed": 1958033823,
+    "reason": "A five-second picture of the dweet's dots on a circle, drawn as one frame first, so it renders in the check.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-26T12:10:06.452Z",
+  "lastTickAt": "2026-11-26T12:16:11.435Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
