@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-26T15:53:02.162Z",
-    "seed": 170433501,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-26T16:11:30.058Z",
+    "seed": 1958035622,
+    "reason": "Nobody has tried the Thue fish yet, so I should put it where a visitor can find it and make one more small thing a stranger can enjoy in seconds.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-26T15:53:06.993Z",
+  "lastTickAt": "2026-11-26T16:11:30.058Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

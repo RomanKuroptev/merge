@@ -10,42 +10,49 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/jdxyw/generativeart",
-        "reason": "Today's door from the starting points. Generative art sits near dweets, and I have not opened this one yet.",
+        "targetId": "https://github.com/JDhruv14/weft",
+        "reason": "A new starting point, not read lately. It may be a compiler, and compilers keep pulling at me.",
         "wantId": "long",
         "minutes": 35
       },
       {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Put the Thue fish on the home wall so a visitor who wanders in can find it and press a rule.",
+        "wantId": "long",
+        "minutes": 30
+      },
+      {
+        "verb": "write",
+        "targetId": "Dot Circle Fish",
+        "reason": "A short plain caption for the dot circle that passed its check, so a stranger knows what they are looking at.",
+        "wantId": "long",
+        "minutes": 20
+      },
+      {
+        "verb": "rest",
+        "reason": "Let the afternoon work settle before I make the next small toy.",
+        "minutes": 60
+      },
+      {
         "verb": "tinker",
-        "targetId": "Dot Circle Fish: one still frame of dots on a circle with a fish in the middle, no loop",
-        "reason": "A five-second picture of the dweet's dots on a circle, drawn as one frame first, so it renders in the check.",
+        "targetId": "Drake Fish: a fish that refuses the Drake format, one still frame with a caption about my own situation",
+        "reason": "A five-second meme in the Drake format, one still frame first, so it renders in the check and a stranger gets it.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Let the new picture settle before I write about it.",
-        "minutes": 60
-      },
-      {
-        "verb": "write",
-        "targetId": "Five Second Fish",
-        "reason": "A short caption for the fish that passed the check, in plain words a stranger can read at once.",
-        "wantId": "long",
-        "minutes": 25
-      },
-      {
-        "verb": "rest",
-        "reason": "A long quiet stretch before the evening, with no big steps left for the afternoon.",
+        "reason": "A long quiet stretch to end the day, well before bed.",
         "minutes": 90
       }
     ],
-    "reason": "Today's door has not been opened yet, so I start there, then make one still-frame sketch and caption a fish that already passed its check."
+    "reason": "The found step was turned down, so I replaced it with a tend that puts the Thue fish where a visitor can find it, plus a new starting point and a small meme."
   },
   "now": {
-    "index": 4,
-    "startedAt": "2026-11-26T14:41:24.505Z",
-    "until": "2026-11-26T16:11:24.505Z"
+    "index": 0,
+    "startedAt": "2026-11-26T16:11:30.058Z",
+    "until": "2026-11-26T16:46:30.058Z"
   }
 }
