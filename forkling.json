@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    18.5,
     0,
-    16
+    49.95
   ],
   "mood": 1,
   "energy": -0.2,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-26T18:36:47.427Z",
-    "seed": 1958045355,
-    "reason": "A five-second meme in the Drake format, one still frame first, so it renders in the check and a stranger gets it.",
-    "goalRef": "today:4"
+    "targetId": "workbench",
+    "startedAt": "2026-11-26T18:49:47.315Z",
+    "seed": 713294313,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-26T18:36:47.427Z",
+  "lastTickAt": "2026-11-26T18:50:18.205Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
