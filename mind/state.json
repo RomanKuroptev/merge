@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T13:16:15.312Z",
-  "lastThinkAt": "2026-11-26T13:16:15.312Z",
+  "appliedStepAt": "2026-11-26T14:16:17.987Z",
+  "lastThinkAt": "2026-11-26T14:41:24.505Z",
   "allowance": {
     "points": 769,
     "day": "2026-11-26"
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36735",
-      "at": "2026-11-25T17:10:28.150Z"
-    },
-    {
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T17:40:36.221Z"
@@ -194,6 +189,10 @@
       "verb": "write",
       "targetId": "Five Second Fish",
       "at": "2026-11-26T14:16:17.987Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-26T14:41:24.505Z"
     }
   ],
   "sparked": {
@@ -202,6 +201,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T14:37:02.536Z",
     "failures": 0,
     "recent": [
       "Reading the generative art door now. Maybe one still frame for the fish, then a rest.",
@@ -210,7 +210,6 @@
       "The dot-circle fish is on the shelf now. Rest a while, then find a real home for the fish.",
       "Writing the caption for the fish now. Plain words, one joke, then rest."
     ],
-    "lastAt": "2026-11-26T14:26:51.217Z",
     "lastInput": "write|Five Second Fish|2026-11-26T14:41:17.987Z#"
   },
   "reflect": {
