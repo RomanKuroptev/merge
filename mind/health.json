@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-26T22:53:19.815Z",
+  "updatedAt": "2026-11-26T23:08:24.594Z",
   "engine": "v0.19.4",
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-26T22:53:19.815Z",
+    "at": "2026-11-26T23:08:24.594Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,63 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1459,
-    "decideCalls": 6,
-    "callsByKind": {
-      "reflection": 2,
-      "morning": 1,
-      "thought": 20,
-      "read": 20,
-      "vision": 1,
-      "decide": 5,
-      "sketch": 3,
-      "tend": 2,
-      "art": 2,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "reflection": 0.054057499999999994,
-      "morning": 0.00273755,
-      "thought": 0.010947189999999999,
-      "read": 0.00884906,
-      "vision": 0.000241925,
-      "decide": 0.008507210000000001,
-      "sketch": 0.11288999999999999,
-      "tend": 0.0025902,
-      "art": 0.00098115,
-      "sleep": 0.0180915
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 18,
-      "sparked": 1,
-      "buildResult": 1,
-      "replan": 2
-    },
+    "ticks": 9,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://www.dwitter.net/d/36737": 1,
-      "tinker Distracted Boyfriend Dweet: one still frame, a cat stares a…": 1,
-      "rest": 6,
-      "tend esolang-shelf": 1,
-      "wander https://github.com/isaactoslow1313/when-do-rules": 1,
-      "expand workshop": 1,
-      "wander https://github.com/jdxyw/generativeart": 1,
-      "tinker Dot Circle Fish: one still frame of dots on a circle with a…": 1,
-      "write Five Second Fish": 1,
-      "wander https://github.com/JDhruv14/weft": 1,
-      "tend home": 1,
-      "write Dot Circle Fish": 1,
-      "tinker Drake Fish: a fish that refuses the Drake format, one still…": 1
-    },
-    "longestGapMinutes": 2
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 20,
+      "used": 0,
       "max": 40
     }
   },
@@ -93,13 +51,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 333
+    "minutes": 348
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 4.05823588,
     "capUsd": 15,
-    "paceUsd": 13
+    "paceUsd": 13.5
   },
   "openBuild": null,
   "credit": "ok",
@@ -143,7 +101,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 6 times today"
-  ]
+  "warnings": []
 }
