@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    16,
     0,
-    16
+    48
   ],
   "mood": 0.9,
   "energy": 0.35,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-26T08:30:42.607Z",
-    "seed": 1958409382,
-    "reason": "Read the real free slots first, then put up one fish only if a slot fits.",
-    "goalRef": "today:3"
+    "targetId": "esolang-shelf",
+    "startedAt": "2026-11-26T08:42:41.461Z",
+    "seed": 1160048283,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-26T08:30:42.607Z",
+  "lastTickAt": "2026-11-26T08:42:43.779Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
