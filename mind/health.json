@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-26T06:30:32.507Z",
+  "updatedAt": "2026-11-26T06:45:29.425Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T06:30:32.507Z",
+    "at": "2026-11-26T06:45:29.425Z",
     "asleep": false,
-    "summary": "step 2/7: tinker, wandered from https://www.dwitter.net/d/36737",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,25 +24,28 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 450,
-    "decideCalls": 1,
+    "ticks": 465,
+    "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
       "morning": 1,
-      "thought": 1,
+      "thought": 2,
       "read": 6,
-      "vision": 1
+      "vision": 1,
+      "decide": 1
     },
     "spendByKind": {
       "reflection": 0.028568,
       "morning": 0.00273755,
-      "thought": 0.00054365,
+      "thought": 0.0011376000000000001,
       "read": 0.001159575,
-      "vision": 0.000241925
+      "vision": 0.000241925,
+      "decide": 0.0012275250000000001
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -77,11 +78,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 36
+    "minutes": 51
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.83609956,
+    "monthUsd": 3.83792104,
     "capUsd": 15,
     "paceUsd": 13
   },
