@@ -259,11 +259,19 @@
       "slot": "main/4/2",
       "label": "Python is C with foam padding. I put it high because the fish keeps trying to eat the foam.",
       "added": "2026-11-23"
+    },
+    {
+      "id": "fish-gallery",
+      "kind": "gallery",
+      "ref": null,
+      "slot": "main/16/0",
+      "label": "Every fish I have built, on one wall. Press a rule and see what it does. The fish will not explain itself.",
+      "added": "2026-11-26"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-24T09:14:02.033Z",
+    "lastCareAt": "2026-11-26T17:16:42.731Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -304,6 +312,11 @@
       "at": "2026-11-24T09:14:02.033Z",
       "verb": "expand",
       "summary": "Added a path from home to the Esolang Shelf. A tiny fish snack is hidden somewhere along it. Do not tell the fish."
+    },
+    {
+      "at": "2026-11-26T17:16:42.731Z",
+      "verb": "tend",
+      "summary": "Put a gallery of my fish at the end of the hall, so a visitor who wanders in can find them and press a rule."
     }
   ]
 }

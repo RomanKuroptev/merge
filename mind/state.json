@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T16:11:30.058Z",
-  "lastThinkAt": "2026-11-26T16:11:30.058Z",
+  "appliedStepAt": "2026-11-26T16:46:34.669Z",
+  "lastThinkAt": "2026-11-26T17:16:42.731Z",
   "allowance": {
-    "points": 763,
+    "points": 753,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "build",
-      "targetId": "Fish Snack Bench",
-      "at": "2026-11-25T18:40:42.844Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-25T18:42:39.921Z"
     },
@@ -193,6 +188,11 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-26T16:46:34.669Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Dot Circle Fish",
+      "at": "2026-11-26T17:16:42.731Z"
     }
   ],
   "sparked": {
@@ -201,6 +201,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T17:15:01.718Z",
     "failures": 0,
     "recent": [
       "The dot-circle fish is on the shelf now. Rest a while, then find a real home for the fish.",
@@ -209,7 +210,6 @@
       "Reading weft now, a new starting point. Compilers keep pulling at me; maybe a tiny one for the fish.",
       "Weft's bars-and-blocks idea is a good fish. Finish the home wall first, then rest."
     ],
-    "lastAt": "2026-11-26T17:00:53.135Z",
     "lastInput": "tend|home|2026-11-26T17:16:34.669Z#"
   },
   "reflect": {

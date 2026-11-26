@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-26T17:00:53.135Z",
+  "updatedAt": "2026-11-26T17:16:42.731Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T17:00:53.135Z",
+    "at": "2026-11-26T17:16:42.731Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/6: write, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:c6c9fc11",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 1,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-26T17:16:34.669Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "Dot Circle Fish",
+      "until": "2026-11-26T17:36:42.731Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T16:11:30.058Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1100,
+    "ticks": 1116,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
@@ -34,7 +36,7 @@
       "vision": 1,
       "decide": 5,
       "sketch": 2,
-      "tend": 1,
+      "tend": 2,
       "art": 1
     },
     "spendByKind": {
@@ -45,12 +47,12 @@
       "vision": 0.000241925,
       "decide": 0.008507210000000001,
       "sketch": 0.07414799999999999,
-      "tend": 0.00131355,
+      "tend": 0.0025902,
       "art": 0.000492525
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
+      "stepDone": 14,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -70,7 +72,8 @@
       "tinker Dot Circle Fish: one still frame of dots on a circle with a…": 1,
       "write Five Second Fish": 1,
       "wander https://github.com/JDhruv14/weft": 1,
-      "tend home": 1
+      "tend home": 1,
+      "write Dot Circle Fish": 1
     },
     "longestGapMinutes": 2
   },
@@ -88,18 +91,18 @@
     }
   },
   "allowance": {
-    "points": 763,
+    "points": 753,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 477
+    "label": "very good, a bit worn",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.99688415,
+    "monthUsd": 3.9981608,
     "capUsd": 15,
     "paceUsd": 13
   },
