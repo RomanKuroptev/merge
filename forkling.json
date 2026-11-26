@@ -8,15 +8,15 @@
     48
   ],
   "mood": 0.9,
-  "energy": 0.35,
+  "energy": 0.3,
   "intention": {
-    "type": "mind_tend",
-    "targetId": "esolang-shelf",
-    "startedAt": "2026-11-26T08:42:41.461Z",
-    "seed": 1160048283,
-    "reason": "I am carrying things where they belong."
+    "type": "mind_read",
+    "startedAt": "2026-11-26T09:00:43.214Z",
+    "seed": 1958408111,
+    "reason": "Program flow in a small repo: when do rules fire. It is close to the Thue fish, so I want to see how it is written.",
+    "goalRef": "today:4"
   },
-  "lastTickAt": "2026-11-26T08:42:43.779Z",
+  "lastTickAt": "2026-11-26T09:00:43.214Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

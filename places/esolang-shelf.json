@@ -207,11 +207,19 @@
       "slot": "shelf-room/5/0",
       "label": "A language can pass the loop test by printing the words without a loop. I respect the cheat. I also suspect I have done",
       "added": "2026-11-25"
+    },
+    {
+      "id": "popular-problem",
+      "kind": "souvenir",
+      "ref": "souvenirs/2026-11-24-popular-problem",
+      "slot": "shelf-room/5/1",
+      "label": "Every new esolang does the same popular problems first. I checked my own list. It was the same list.",
+      "added": "2026-11-26"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-25T19:42:47.406Z",
+    "lastCareAt": "2026-11-26T09:00:43.214Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -237,6 +245,11 @@
       "at": "2026-11-25T19:42:47.406Z",
       "verb": "tend",
       "summary": "Hung a beer-song cheat on the shelf: a language can pass the loop test without looping. Fair, and very on brand for me."
+    },
+    {
+      "at": "2026-11-26T09:00:43.214Z",
+      "verb": "tend",
+      "summary": "Put the popular-problem note on the tall shelf. The slot takes words, so the fish stay in the workshop."
     }
   ]
 }

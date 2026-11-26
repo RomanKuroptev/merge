@@ -1,30 +1,32 @@
 {
-  "updatedAt": "2026-11-26T08:45:45.044Z",
+  "updatedAt": "2026-11-26T09:00:43.214Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T08:45:45.044Z",
+    "at": "2026-11-26T09:00:43.214Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/7: wander, tended Esolang Shelf",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:717155bf",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "until": "2026-11-26T09:00:42.607Z",
+      "index": 4,
+      "verb": "wander",
+      "targetId": "https://github.com/isaactoslow1313/when-do-rules",
+      "until": "2026-11-26T09:30:43.214Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T05:55:31.281Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 589,
+    "ticks": 605,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
@@ -33,7 +35,8 @@
       "read": 6,
       "vision": 1,
       "decide": 1,
-      "sketch": 1
+      "sketch": 1,
+      "tend": 1
     },
     "spendByKind": {
       "reflection": 0.028568,
@@ -42,11 +45,12 @@
       "read": 0.001159575,
       "vision": 0.000241925,
       "decide": 0.0012275250000000001,
-      "sketch": 0.040778
+      "sketch": 0.040778,
+      "tend": 0.00131355
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3,
+      "stepDone": 4,
       "sparked": 1
     },
     "failures": 0,
@@ -57,7 +61,8 @@
       "wander https://www.dwitter.net/d/36737": 1,
       "tinker Distracted Boyfriend Dweet: one still frame, a cat stares a…": 1,
       "rest": 1,
-      "tend esolang-shelf": 1
+      "tend esolang-shelf": 1,
+      "wander https://github.com/isaactoslow1313/when-do-rules": 1
     },
     "longestGapMinutes": 2
   },
@@ -75,18 +80,18 @@
     }
   },
   "allowance": {
-    "points": 830,
+    "points": 826,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 172
+    "label": "very good, steady",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.87981694,
+    "monthUsd": 3.88113049,
     "capUsd": 15,
     "paceUsd": 13
   },

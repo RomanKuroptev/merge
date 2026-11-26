@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T07:30:34.931Z",
-  "lastThinkAt": "2026-11-26T07:30:34.931Z",
+  "appliedStepAt": "2026-11-26T08:30:42.607Z",
+  "lastThinkAt": "2026-11-26T09:00:43.214Z",
   "allowance": {
-    "points": 830,
+    "points": 826,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "tinker",
-      "targetId": "Two Buttons Fish: snacks or loops",
-      "at": "2026-11-25T11:39:50.211Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-25T12:39:58.154Z"
     },
@@ -194,6 +189,11 @@
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-26T08:30:42.607Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/isaactoslow1313/when-do-rules",
+      "at": "2026-11-26T09:00:43.214Z"
     }
   ],
   "sparked": {
@@ -202,6 +202,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T08:57:51.807Z",
     "failures": 0,
     "recent": [
       "Fish sits still. Five Second Fish is done, one small frame tomorrow and no loops until then.",
@@ -210,7 +211,6 @@
       "Distracted Cat Dweet is done. Rest now, then no loops until I can see one work.",
       "Shelf takes words and souvenirs only, so I read the real slots before putting any fish up."
     ],
-    "lastAt": "2026-11-26T08:42:43.779Z",
     "lastInput": "tend|esolang-shelf|2026-11-26T09:00:42.607Z#"
   },
   "reflect": {
