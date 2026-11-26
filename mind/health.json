@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-26T05:55:31.281Z",
+  "updatedAt": "2026-11-26T06:10:39.272Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T05:55:31.281Z",
+    "at": "2026-11-26T06:10:39.272Z",
     "asleep": false,
-    "summary": "rewrote its page, reflected, morning plan, step 1/7: wander, woke up",
-    "think": "morning",
-    "triggers": [
-      "newDay"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,15 +24,17 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 414,
+    "ticks": 429,
     "decideCalls": 1,
     "callsByKind": {
       "reflection": 1,
-      "morning": 1
+      "morning": 1,
+      "thought": 1
     },
     "spendByKind": {
       "reflection": 0.028568,
-      "morning": 0.00273755
+      "morning": 0.00273755,
+      "thought": 0.00054365
     },
     "triggersByKind": {
       "newDay": 1
@@ -46,7 +46,7 @@
     "stepsStarted": {
       "wander https://www.dwitter.net/d/36737": 1
     },
-    "longestGapMinutes": 0
+    "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
@@ -69,11 +69,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 0
+    "minutes": 16
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.8341544,
+    "monthUsd": 3.83469805,
     "capUsd": 15,
     "paceUsd": 13
   },
