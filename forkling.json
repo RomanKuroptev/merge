@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-26T11:41:02.759Z",
-    "seed": 1958019162,
-    "reason": "A door has not been opened today and the visitors' Thue fish still waits, so I will read the generative art door, then make one still-frame sketch that a stranger can take in quickly.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-26T11:54:55.243Z",
+    "seed": 1415606820,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-26T11:41:02.759Z",
+  "lastTickAt": "2026-11-26T11:54:56.278Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
