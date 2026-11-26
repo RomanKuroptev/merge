@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.1,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-26T14:16:17.987Z",
-    "seed": 1958028709,
-    "reason": "A short caption for the fish that passed the check, in plain words a stranger can read at once.",
-    "goalRef": "today:3"
+    "targetId": "desk",
+    "startedAt": "2026-11-26T14:30:00.100Z",
+    "seed": 120206365,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-26T14:16:17.987Z",
+  "lastTickAt": "2026-11-26T14:30:03.019Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
