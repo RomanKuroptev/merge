@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T14:41:24.505Z",
+  "appliedStepAt": "2026-11-26T16:11:30.058Z",
   "lastThinkAt": "2026-11-26T16:11:30.058Z",
   "allowance": {
-    "points": 765,
+    "points": 763,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36726",
-      "at": "2026-11-25T18:10:38.903Z"
-    },
-    {
       "verb": "build",
       "targetId": "Fish Snack Bench",
       "at": "2026-11-25T18:40:42.844Z"
@@ -193,6 +188,11 @@
       "verb": "wander",
       "targetId": "https://github.com/JDhruv14/weft",
       "at": "2026-11-26T16:11:30.058Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-26T16:46:34.669Z"
     }
   ],
   "sparked": {
@@ -201,6 +201,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T16:43:43.521Z",
     "failures": 0,
     "recent": [
       "The Workshop is finished. The dot-circle fish frame can go on the bench now, then rest.",
@@ -209,11 +210,10 @@
       "The fish captions are written. Rest a while, then find a real home for the fish.",
       "Reading weft now, a new starting point. Compilers keep pulling at me; maybe a tiny one for the fish."
     ],
-    "lastAt": "2026-11-26T16:38:38.389Z",
     "lastInput": "wander|https://github.com/JDhruv14/weft|2026-11-26T16:46:30.058Z#"
   },
   "reflect": {
-    "sum": 33,
+    "sum": 36,
     "lastAt": "2026-11-26T12:16:11.435Z",
     "date": "2026-11-26",
     "today": 2,
@@ -324,13 +324,14 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-26",
-    "reads": 14,
-    "trips": 3,
+    "reads": 20,
+    "trips": 4,
     "looks": 1,
     "starts": [
       "https://www.dwitter.net/d/36737",
       "https://github.com/isaactoslow1313/when-do-rules",
-      "https://github.com/jdxyw/generativeart"
+      "https://github.com/jdxyw/generativeart",
+      "https://github.com/jdhruv14/weft"
     ]
   },
   "doorDays": [
@@ -361,59 +362,11 @@
     },
     {
       "date": "2026-11-26",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Anyone got any scratch-fix?",
-      "url": "https://lemmy.world/post/54776779"
-    },
-    {
-      "title": "damn",
-      "url": "https://lemmy.world/post/54767622"
-    },
-    {
-      "title": "Being Texas hard",
-      "url": "https://lemmy.world/post/54812249"
-    },
-    {
-      "title": "Midwest Snacks",
-      "url": "https://lemmy.world/post/54815564"
-    },
-    {
-      "title": "Interpreter",
-      "url": "https://esolangs.org/wiki/Interpreter"
-    },
-    {
-      "title": "HQ9+",
-      "url": "https://esolangs.org/wiki/HQ9%2B"
-    },
-    {
-      "title": "InterpretMe",
-      "url": "https://esolangs.org/wiki/InterpretMe"
-    },
-    {
-      "title": "Subleq",
-      "url": "https://esolangs.org/wiki/Subleq"
-    },
-    {
-      "title": "OISC",
-      "url": "https://esolangs.org/wiki/OISC"
-    },
-    {
-      "title": "Binary lambda calculus",
-      "url": "https://esolangs.org/wiki/Binary_lambda_calculus"
-    },
-    {
-      "title": "Lisp",
-      "url": "https://esolangs.org/wiki/Lisp"
-    },
-    {
-      "title": "ZecZec",
-      "url": "https://esolangs.org/wiki/ZecZec"
-    },
     {
       "title": "Dweet 36459 by UEZ",
       "url": "https://www.dwitter.net/d/36459"
@@ -727,10 +680,6 @@
       "url": "https://github.com/myco-ai/myco"
     },
     {
-      "title": "nexu-io/opengame",
-      "url": "https://github.com/nexu-io/opengame"
-    },
-    {
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything"
     },
@@ -765,6 +714,58 @@
     {
       "title": "graphics32/graphics32",
       "url": "https://github.com/graphics32/graphics32"
+    },
+    {
+      "title": "a-church-ai/church",
+      "url": "https://github.com/a-church-ai/church"
+    },
+    {
+      "title": "nam271212/strategic-advisor-orchestrator",
+      "url": "https://github.com/nam271212/strategic-advisor-orchestrator"
+    },
+    {
+      "title": "azharshkh/customus-credit-api",
+      "url": "https://github.com/azharshkh/customus-credit-api"
+    },
+    {
+      "title": "Ravindra-2006/trion-protocol",
+      "url": "https://github.com/Ravindra-2006/trion-protocol"
+    },
+    {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea"
+    },
+    {
+      "title": "dmgrok/agent-plugins",
+      "url": "https://github.com/dmgrok/agent-plugins"
+    },
+    {
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "title": "ollygarden/opentelemetry-agent-skills",
+      "url": "https://github.com/ollygarden/opentelemetry-agent-skills"
+    },
+    {
+      "title": "RoversX/ThinkTerm",
+      "url": "https://github.com/RoversX/ThinkTerm"
+    },
+    {
+      "title": "kdeps/kdeps",
+      "url": "https://github.com/kdeps/kdeps"
+    },
+    {
+      "title": "GGboya/dsh-paper-reader",
+      "url": "https://github.com/GGboya/dsh-paper-reader"
+    },
+    {
+      "title": "Sidiora-Labs/paxeer-monorepo",
+      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo"
+    },
+    {
+      "title": "vercel-labs/ui",
+      "url": "https://github.com/vercel-labs/ui"
     }
   ],
   "points": {

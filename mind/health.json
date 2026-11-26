@@ -1,36 +1,38 @@
 {
-  "updatedAt": "2026-11-26T16:41:40.077Z",
+  "updatedAt": "2026-11-26T16:46:34.669Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T16:41:40.077Z",
+    "at": "2026-11-26T16:46:34.669Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/6: tend, wandered from https://github.com/JDhruv14/weft",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:c6c9fc11",
-    "stepsLeft": 5,
+    "stepsLeft": 4,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/JDhruv14/weft",
-      "until": "2026-11-26T16:46:30.058Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-26T17:16:34.669Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T16:11:30.058Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1079,
+    "ticks": 1084,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
       "morning": 1,
       "thought": 14,
-      "read": 14,
+      "read": 20,
       "vision": 1,
       "decide": 5,
       "sketch": 2,
@@ -41,7 +43,7 @@
       "reflection": 0.054057499999999994,
       "morning": 0.00273755,
       "thought": 0.0076200899999999995,
-      "read": 0.005692085,
+      "read": 0.00884906,
       "vision": 0.000241925,
       "decide": 0.008507210000000001,
       "sketch": 0.07414799999999999,
@@ -50,7 +52,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 12,
+      "stepDone": 13,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -69,13 +71,14 @@
       "wander https://github.com/jdxyw/generativeart": 1,
       "tinker Dot Circle Fish: one still frame of dots on a circle with a…": 1,
       "write Five Second Fish": 1,
-      "wander https://github.com/JDhruv14/weft": 1
+      "wander https://github.com/JDhruv14/weft": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 14,
+      "used": 20,
       "max": 40
     }
   },
@@ -83,22 +86,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.528
+      "share": 0.475
     }
   },
   "allowance": {
-    "points": 765,
+    "points": 763,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 458
+    "minutes": 463
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.99315302,
+    "monthUsd": 3.99631,
     "capUsd": 15,
     "paceUsd": 13
   },
@@ -122,14 +125,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 28,
-      "strangers": 28,
+      "trips": 29,
+      "strangers": 29,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.528,
+      "share": 0.475,
       "wouldFire": false
     },
     "draws": {
