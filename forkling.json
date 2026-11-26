@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": -0.1,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-26T17:16:42.731Z",
-    "seed": 1958048750,
-    "reason": "A short plain caption for the dot circle that passed its check, so a stranger knows what they are looking at.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-26T17:30:09.672Z",
+    "seed": 1409616183,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-26T17:16:42.731Z",
+  "lastTickAt": "2026-11-26T17:31:20.072Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
