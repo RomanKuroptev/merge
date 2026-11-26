@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.15,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-26T14:00:00.100Z",
-    "seed": 1997518002,
-    "reason": "I am resting at home."
+    "type": "mind_write",
+    "startedAt": "2026-11-26T14:16:17.987Z",
+    "seed": 1958028709,
+    "reason": "A short caption for the fish that passed the check, in plain words a stranger can read at once.",
+    "goalRef": "today:3"
   },
-  "lastTickAt": "2026-11-26T14:00:07.139Z",
+  "lastTickAt": "2026-11-26T14:16:17.987Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
