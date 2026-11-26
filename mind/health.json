@@ -1,54 +1,55 @@
 {
-  "updatedAt": "2026-11-26T13:11:48.473Z",
+  "updatedAt": "2026-11-26T13:16:15.312Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T13:11:48.473Z",
+    "at": "2026-11-26T13:16:15.312Z",
     "asleep": false,
-    "summary": "Workshop is finished",
+    "summary": "step 3/5: rest, sketched \"Dot Circle Fish\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:f3016528",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Dot Circle Fish: one still frame of dots on a circle with a…",
-      "until": "2026-11-26T13:16:11.435Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-26T14:16:15.312Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T11:41:02.759Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 862,
+    "ticks": 867,
     "decideCalls": 4,
     "callsByKind": {
       "reflection": 2,
       "morning": 1,
-      "thought": 9,
+      "thought": 10,
       "read": 14,
       "vision": 1,
       "decide": 3,
-      "sketch": 1,
+      "sketch": 2,
       "tend": 1
     },
     "spendByKind": {
       "reflection": 0.054057499999999994,
       "morning": 0.00273755,
-      "thought": 0.00524805,
+      "thought": 0.0058013,
       "read": 0.005692085,
       "vision": 0.000241925,
       "decide": 0.0046689750000000006,
-      "sketch": 0.040778,
+      "sketch": 0.07414799999999999,
       "tend": 0.00131355
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "sparked": 1,
       "buildResult": 1,
       "replan": 1
@@ -60,7 +61,7 @@
     "stepsStarted": {
       "wander https://www.dwitter.net/d/36737": 1,
       "tinker Distracted Boyfriend Dweet: one still frame, a cat stares a…": 1,
-      "rest": 2,
+      "rest": 3,
       "tend esolang-shelf": 1,
       "wander https://github.com/isaactoslow1313/when-do-rules": 1,
       "expand workshop": 1,
@@ -90,11 +91,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 250
+    "minutes": 254
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.95308022,
+    "monthUsd": 3.98700347,
     "capUsd": 15,
     "paceUsd": 13
   },
@@ -102,12 +103,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 16,
+      "made": 17,
       "wouldFire": 1,
       "byKind": {
         "meme": 5,
         "tool": 4,
-        "art": 6,
+        "art": 7,
         "game": 1
       }
     },
@@ -129,8 +130,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 13,
-      "constraintsOffered": 16,
+      "collisionsUsed": 14,
+      "constraintsOffered": 17,
       "constraintsRefused": 0
     },
     "places": {
@@ -140,5 +141,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }
