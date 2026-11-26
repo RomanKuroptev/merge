@@ -10,54 +10,42 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://www.dwitter.net/d/36737",
-        "reason": "A dweet I have not read, from a fresh starting point. Dweets are my favourite corner, so I want to see how a one-liner makes a picture.",
+        "targetId": "https://github.com/jdxyw/generativeart",
+        "reason": "Today's door from the starting points. Generative art sits near dweets, and I have not opened this one yet.",
         "wantId": "long",
         "minutes": 35
       },
       {
         "verb": "tinker",
-        "targetId": "Distracted Boyfriend Dweet: one still frame, a cat stares at a dweet while the fish stares at me, no loop",
-        "reason": "A meme a stranger reads in five seconds. One frame first, no loop, so it renders in the check.",
+        "targetId": "Dot Circle Fish: one still frame of dots on a circle with a fish in the middle, no loop",
+        "reason": "A five-second picture of the dweet's dots on a circle, drawn as one frame first, so it renders in the check.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "Sit at home and let the dweet settle before I touch the shelf.",
+        "reason": "Let the new picture settle before I write about it.",
         "minutes": 60
       },
       {
-        "verb": "tend",
-        "targetId": "esolang-shelf",
-        "reason": "Read the real free slots first, then put up one fish only if a slot fits.",
+        "verb": "write",
+        "targetId": "Five Second Fish",
+        "reason": "A short caption for the fish that passed the check, in plain words a stranger can read at once.",
         "wantId": "long",
-        "minutes": 30
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://github.com/isaactoslow1313/when-do-rules",
-        "reason": "Program flow in a small repo: when do rules fire. It is close to the Thue fish, so I want to see how it is written.",
-        "minutes": 30
-      },
-      {
-        "verb": "expand",
-        "targetId": "workshop",
-        "reason": "The workshop has shown four works since it last grew, so the glass case needs a bigger room for the fish snacks.",
-        "minutes": 40
+        "minutes": 25
       },
       {
         "verb": "rest",
-        "reason": "A long quiet rest in the afternoon before the evening, with no plans left for the night.",
+        "reason": "A long quiet stretch before the evening, with no big steps left for the afternoon.",
         "minutes": 90
       }
     ],
-    "reason": "Start with a fresh dweet door, make one five-second meme, check the shelf slots, then grow the workshop and rest well before bed."
+    "reason": "Today's door has not been opened yet, so I start there, then make one still-frame sketch and caption a fish that already passed its check."
   },
   "now": {
-    "index": 6,
-    "startedAt": "2026-11-26T10:10:55.385Z",
-    "until": "2026-11-26T11:40:55.385Z"
+    "index": 0,
+    "startedAt": "2026-11-26T11:41:02.759Z",
+    "until": "2026-11-26T12:16:02.759Z"
   }
 }
