@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    24,
     0,
-    13.55
+    16
   ],
   "mood": 1,
   "energy": 0.25,
   "intention": {
     "type": "mind_build",
-    "startedAt": "2026-11-26T09:30:48.729Z",
-    "seed": 1958405852,
-    "reason": "The workshop has shown four works since it last grew, so the glass case needs a bigger room for the fish snacks.",
-    "goalRef": "today:5"
+    "targetId": "workshop",
+    "startedAt": "2026-11-26T09:42:52.236Z",
+    "seed": 1110573866,
+    "reason": "I am building."
   },
-  "lastTickAt": "2026-11-26T09:30:48.729Z",
+  "lastTickAt": "2026-11-26T09:43:17.524Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
