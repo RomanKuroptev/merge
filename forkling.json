@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    16,
+    5.5,
     0,
-    48
+    13.55
   ],
   "mood": 0.9,
   "energy": 0.3,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-26T09:00:43.214Z",
-    "seed": 1958408111,
-    "reason": "Program flow in a small repo: when do rules fire. It is close to the Thue fish, so I want to see how it is written.",
-    "goalRef": "today:4"
+    "targetId": "desk",
+    "startedAt": "2026-11-26T09:12:02.071Z",
+    "seed": 2136690951,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-26T09:00:43.214Z",
+  "lastTickAt": "2026-11-26T09:12:57.719Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
