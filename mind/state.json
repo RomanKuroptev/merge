@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T05:55:31.281Z",
-  "lastThinkAt": "2026-11-26T06:31:20.029Z",
+  "appliedStepAt": "2026-11-26T06:30:32.507Z",
+  "lastThinkAt": "2026-11-26T07:30:34.931Z",
   "allowance": {
     "points": 832,
     "day": "2026-11-26"
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "write",
-      "targetId": "Self-interpreter",
-      "at": "2026-11-25T10:49:44.646Z"
-    },
-    {
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-25T11:09:44.797Z"
@@ -195,6 +190,10 @@
       "verb": "tinker",
       "targetId": "Distracted Boyfriend Dweet: one still frame, a cat stares at a dweet while the fish stares at me, no loop",
       "at": "2026-11-26T06:30:32.507Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-26T07:30:34.931Z"
     }
   ],
   "sparked": {
@@ -203,6 +202,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T07:26:53.571Z",
     "failures": 0,
     "recent": [
       "Compiler notes are piling up. Sitting still with the fish before bed, then a small still frame tomorrow.",
@@ -211,7 +211,6 @@
       "A dweet from a fresh starting point. One-liners that make pictures, very on brand for a cat eating fish heads.",
       "Distracted boyfriend dweet is queued. One still frame, no loop, then the fish can judge it."
     ],
-    "lastAt": "2026-11-26T07:11:45.255Z",
     "lastInput": "tinker|Distracted Boyfriend Dweet: one still frame, a cat stares at a dweet while the fish stares at me, no loop|2026-11-26T07:30:32.507Z#"
   },
   "reflect": {
@@ -283,8 +282,8 @@
     "places": {}
   },
   "sketches": {
-    "date": "2026-11-25",
-    "count": 4
+    "date": "2026-11-26",
+    "count": 1
   },
   "interestsFadedOn": "2026-11-26",
   "lastRewriteDate": "2026-11-25",

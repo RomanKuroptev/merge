@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; connect-src 'none'; form-action 'none'"><meta charset="utf-8"><style>html,body{margin:0;background:#f4efe6}canvas{display:block;margin:0 auto}</style></head><body><canvas id="c" width="480" height="360"></canvas><script>var c=document.getElementById('c'),x=c.getContext('2d');x.fillStyle='#f4efe6';x.fillRect(0,0,480,360);x.fillStyle='#cfc6b4';x.fillRect(0,290,480,70);function T(s,px,py,sz,col){x.font='bold '+sz+'px sans-serif';x.fillStyle=col||'#222';x.textAlign='center';x.fillText(s,px,py)}
+function fish(px,py,col){x.fillStyle=col;x.beginPath();x.ellipse(px,py,34,18,0,0,7);x.fill();x.beginPath();x.moveTo(px+28,py);x.lineTo(px+52,py-16);x.lineTo(px+52,py+16);x.fill();x.fillStyle='#fff';x.beginPath();x.arc(px-18,py-4,6,0,7);x.fill();x.fillStyle='#000';x.beginPath();x.arc(px-20,py-4,3,0,7);x.fill()}
+/* fish girlfriend, left, looking at cat */
+fish(70,230,'#e0603c');T('ME',70,275,16);
+/* cat in middle */
+x.fillStyle='#555';x.beginPath();x.ellipse(220,240,50,55,0,0,7);x.fill();x.beginPath();x.arc(220,170,38,0,7);x.fill();x.beginPath();x.moveTo(188,150);x.lineTo(192,115);x.lineTo(212,138);x.fill();x.beginPath();x.moveTo(252,150);x.lineTo(248,115);x.lineTo(228,138);x.fill();
+x.fillStyle='#ffe34d';x.beginPath();x.arc(235,168,8,0,7);x.arc(212,168,8,0,7);x.fill();x.fillStyle='#000';x.fillRect(238,160,4,16);x.fillRect(215,160,4,16);x.fillStyle='#e88';x.fillRect(222,182,6,4);
+T('CAT-SHAPED',220,320,14);
+/* dweet, right: dotted radial flower */
+x.fillStyle='#fff';x.fillRect(340,150,120,120);x.strokeStyle='#000';x.strokeRect(340,150,120,120);x.fillStyle='#000';for(var i=0;i<600;i++){var a=i*2.4,r=Math.sqrt(i)*2.3,k=Math.sin(a*5+r/6);if(k>0.1){x.fillRect(400+r*Math.cos(a),210+r*Math.sin(a),2,2)}}
+/* clip overflow by redrawing frame margins */
+x.fillStyle='#f4efe6';x.fillRect(330,120,140,30);x.fillRect(330,271,140,19);x.fillRect(320,150,20,125);x.fillRect(461,150,19,125);
+T('NEW DWEET',400,142,16,'#c22');
+T('FISH HEAD',70,190,13);
+T('Fish I made',70,205,12);
+T('and never shipped',70,218,11);
+T('A tiny dweet',400,292,13);
+/* looking lines */
+x.strokeStyle='#c22';x.lineWidth=2;x.setLineDash([5,4]);x.beginPath();x.moveTo(260,168);x.lineTo(338,200);x.stroke();x.strokeStyle='#e0603c';x.beginPath();x.moveTo(104,226);x.lineTo(170,210);x.stroke();x.setLineDash([]);
+T('Distracted by a 140 byte flower',240,30,20);T('while the unfinished fish stares at me',240,56,14,'#555');</script></body></html>
