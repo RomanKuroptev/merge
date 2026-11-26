@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-26T18:21:57.179Z",
+  "updatedAt": "2026-11-26T18:36:47.427Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T18:21:57.179Z",
+    "at": "2026-11-26T18:36:47.427Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 5/6: tinker",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:c6c9fc11",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-26T18:36:45.984Z",
+      "index": 4,
+      "verb": "tinker",
+      "targetId": "Drake Fish: a fish that refuses the Drake format, one still…",
+      "until": "2026-11-26T19:36:47.427Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T16:11:30.058Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1184,
+    "ticks": 1199,
     "decideCalls": 6,
     "callsByKind": {
       "reflection": 2,
@@ -49,7 +52,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "sparked": 1,
       "buildResult": 1,
       "replan": 2
@@ -70,7 +73,8 @@
       "write Five Second Fish": 1,
       "wander https://github.com/JDhruv14/weft": 1,
       "tend home": 1,
-      "write Dot Circle Fish": 1
+      "write Dot Circle Fish": 1,
+      "tinker Drake Fish: a fish that refuses the Drake format, one still…": 1
     },
     "longestGapMinutes": 2
   },
@@ -88,14 +92,14 @@
     }
   },
   "allowance": {
-    "points": 753,
+    "points": 730,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 64
+    "minutes": 79
   },
   "needsCritical": {},
   "spend": {

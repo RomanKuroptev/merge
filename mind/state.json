@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T17:16:42.731Z",
+  "appliedStepAt": "2026-11-26T17:36:45.984Z",
   "lastThinkAt": "2026-11-26T17:36:45.984Z",
   "allowance": {
-    "points": 753,
+    "points": 730,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-25T19:12:46.461Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://github.com/dy/jz",
       "at": "2026-11-25T19:42:47.406Z"
@@ -193,6 +188,11 @@
     {
       "verb": "rest",
       "at": "2026-11-26T17:36:45.984Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Drake Fish: a fish that refuses the Drake format, one still frame with a caption about my own situation",
+      "at": "2026-11-26T18:36:47.427Z"
     }
   ],
   "sparked": {
@@ -201,6 +201,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T18:36:07.069Z",
     "failures": 0,
     "recent": [
       "The fish captions are written. Rest a while, then find a real home for the fish.",
@@ -209,7 +210,6 @@
       "Caption for the dot circle is nearly done. Then rest, and find the fish a real home.",
       "Caption for the dot circle is done. Resting now, then I will find a real home for the fish."
     ],
-    "lastAt": "2026-11-26T18:21:57.179Z",
     "lastInput": "rest||2026-11-26T18:36:45.984Z#"
   },
   "reflect": {
