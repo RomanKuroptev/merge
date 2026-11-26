@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    13.55
+    16
   ],
   "mood": 1,
   "energy": -0.05,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-26T16:46:34.669Z",
-    "seed": 1958050046,
-    "reason": "Put the Thue fish on the home wall so a visitor who wanders in can find it and press a rule.",
-    "goalRef": "today:1"
+    "targetId": "home",
+    "startedAt": "2026-11-26T17:00:02.514Z",
+    "seed": 338617134,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-26T16:46:34.669Z",
+  "lastTickAt": "2026-11-26T17:00:53.135Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
