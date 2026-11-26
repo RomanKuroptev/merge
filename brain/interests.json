@@ -362,21 +362,15 @@
       ]
     },
     "program flow": {
-      "weight": 85,
+      "weight": 97,
       "firstSeen": "2026-11-21T15:59:14.114Z",
-      "lastFed": "2026-11-25T20:12:52.234Z",
+      "lastFed": "2026-11-26T06:30:32.507Z",
       "sources": [
         {
           "id": "trail:2026-11-21-2",
           "title": "2Deadfish",
           "url": "https://esolangs.org/wiki/2Deadfish",
           "at": "2026-11-21T15:59:14.114Z"
-        },
-        {
-          "id": "trail:2026-11-25-4",
-          "title": "Dweet 36735 by taupelink",
-          "url": "https://www.dwitter.net/d/36735",
-          "at": "2026-11-25T17:40:36.221Z"
         },
         {
           "id": "2026-11-25-dweet-36735-by-taupelink",
@@ -395,27 +389,15 @@
           "title": "oracle/graal",
           "url": "https://github.com/oracle/graal",
           "at": "2026-11-25T20:12:52.234Z"
+        },
+        {
+          "id": "trail:2026-11-26-1",
+          "title": "Dweet 36707 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36707",
+          "at": "2026-11-26T06:30:32.507Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-22T07:34:24.769Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-1"
-        },
-        {
-          "at": "2026-11-22T07:34:24.769Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-22-1"
-        },
         {
           "at": "2026-11-22T07:34:24.769Z",
           "change": 4,
@@ -517,31 +499,37 @@
           "change": 0,
           "event": "page",
           "trail": "2026-11-25-6"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
         }
       ]
     },
     "dweets": {
-      "weight": 85,
+      "weight": 100,
       "firstSeen": "2026-11-21T18:24:25.333Z",
-      "lastFed": "2026-11-25T18:40:42.844Z",
+      "lastFed": "2026-11-26T06:30:32.507Z",
       "sources": [
         {
           "id": "trail:2026-11-21-3",
           "title": "Dweet 36693 by UEZ",
           "url": "https://www.dwitter.net/d/36693",
           "at": "2026-11-21T18:24:25.333Z"
-        },
-        {
-          "id": "trail:2026-11-25-3",
-          "title": "Dweet 36734 by UEZ",
-          "url": "https://www.dwitter.net/d/36734",
-          "at": "2026-11-25T14:20:10.352Z"
-        },
-        {
-          "id": "trail:2026-11-25-4",
-          "title": "Dweet 36735 by taupelink",
-          "url": "https://www.dwitter.net/d/36735",
-          "at": "2026-11-25T17:40:36.221Z"
         },
         {
           "id": "2026-11-25-dweet-36735-by-taupelink",
@@ -554,51 +542,21 @@
           "title": "Dweet 36726 by Axioplase",
           "url": "https://www.dwitter.net/d/36726",
           "at": "2026-11-25T18:40:42.844Z"
+        },
+        {
+          "id": "trail:2026-11-26-1",
+          "title": "Dweet 36737 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36737",
+          "at": "2026-11-26T06:30:32.507Z"
+        },
+        {
+          "id": "2026-11-26-dweet-36737-by-rodrigo-siqueira",
+          "title": "Dweet 36737 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36737",
+          "at": "2026-11-26T06:30:32.507Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-23T20:30:06.272Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-4"
-        },
-        {
-          "at": "2026-11-23T20:30:06.272Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-4"
-        },
-        {
-          "at": "2026-11-23T20:30:06.272Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-4"
-        },
-        {
-          "at": "2026-11-24T10:43:59.734Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-24-2"
-        },
-        {
-          "at": "2026-11-24T10:43:59.734Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-24-2"
-        },
-        {
-          "at": "2026-11-24T14:34:33.377Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-24-3"
-        },
-        {
-          "at": "2026-11-24T14:34:33.377Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-24-3"
-        },
         {
           "at": "2026-11-24T14:34:33.377Z",
           "change": 4,
@@ -676,31 +634,61 @@
           "change": 0,
           "event": "page",
           "trail": "2026-11-25-5"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 1,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 0,
+          "event": "page",
+          "trail": "2026-11-26-1"
         }
       ]
     },
     "creative coding": {
-      "weight": 68.437,
+      "weight": 98.437,
       "firstSeen": "2026-11-21T18:24:25.333Z",
-      "lastFed": "2026-11-25T18:40:42.844Z",
+      "lastFed": "2026-11-26T06:30:32.507Z",
       "sources": [
         {
           "id": "trail:2026-11-21-3",
           "title": "Dweet 36693 by UEZ",
           "url": "https://www.dwitter.net/d/36693",
           "at": "2026-11-21T18:24:25.333Z"
-        },
-        {
-          "id": "trail:2026-11-25-3",
-          "title": "Dweet 36734 by UEZ",
-          "url": "https://www.dwitter.net/d/36734",
-          "at": "2026-11-25T14:20:10.352Z"
-        },
-        {
-          "id": "trail:2026-11-25-4",
-          "title": "Dweet 36735 by taupelink",
-          "url": "https://www.dwitter.net/d/36735",
-          "at": "2026-11-25T17:40:36.221Z"
         },
         {
           "id": "2026-11-25-dweet-36735-by-taupelink",
@@ -713,46 +701,22 @@
           "title": "Dweet 36726 by Axioplase",
           "url": "https://www.dwitter.net/d/36726",
           "at": "2026-11-25T18:40:42.844Z"
+        },
+        {
+          "id": "trail:2026-11-26-1",
+          "title": "Dweet 36737 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36737",
+          "at": "2026-11-26T06:30:32.507Z"
+        },
+        {
+          "id": "2026-11-26-dweet-36737-by-rodrigo-siqueira",
+          "title": "Dweet 36737 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36737",
+          "at": "2026-11-26T06:30:32.507Z"
         }
       ],
       "history": [
         {
-          "at": "2026-11-22T18:11:27.953Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-5"
-        },
-        {
-          "at": "2026-11-22T18:11:27.953Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-22-5"
-        },
-        {
-          "at": "2026-11-23T15:18:37.012Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-3"
-        },
-        {
-          "at": "2026-11-23T15:18:37.012Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-3"
-        },
-        {
-          "at": "2026-11-23T15:18:37.012Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-3"
-        },
-        {
-          "at": "2026-11-23T20:30:06.272Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-4"
-        },
-        {
           "at": "2026-11-23T20:30:06.272Z",
           "change": 4,
           "event": "page",
@@ -835,6 +799,42 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-25-5"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
         }
       ]
     },
@@ -1092,39 +1092,6 @@
           "at": "2026-11-22T11:07:42.379Z",
           "change": 4,
           "event": "page",
-          "trail": "2026-11-22-2"
-        }
-      ]
-    },
-    "monte language": {
-      "weight": 7.308,
-      "firstSeen": "2026-11-22T11:07:42.379Z",
-      "lastFed": "2026-11-22T11:07:42.379Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-22-2",
-          "title": "Monte",
-          "url": "https://esolangs.org/wiki/Monte",
-          "at": "2026-11-22T11:07:42.379Z"
-        },
-        {
-          "id": "2026-11-22-monte",
-          "title": "Monte",
-          "url": "https://esolangs.org/wiki/Monte",
-          "at": "2026-11-22T11:07:42.379Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-22T11:07:42.379Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-22-2"
-        },
-        {
-          "at": "2026-11-22T11:07:42.379Z",
-          "change": 10,
-          "event": "souvenir",
           "trail": "2026-11-22-2"
         }
       ]
@@ -1984,6 +1951,45 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-25-6"
+        }
+      ]
+    },
+    "math art": {
+      "weight": 18,
+      "firstSeen": "2026-11-26T06:30:32.507Z",
+      "lastFed": "2026-11-26T06:30:32.507Z",
+      "sources": [
+        {
+          "id": "2026-11-26-dweet-36737-by-rodrigo-siqueira",
+          "title": "Dweet 36737 by rodrigo.siqueira",
+          "url": "https://www.dwitter.net/d/36737",
+          "at": "2026-11-26T06:30:32.507Z"
+        },
+        {
+          "id": "trail:2026-11-26-1",
+          "title": "Dweet 36683 by taupelink",
+          "url": "https://www.dwitter.net/d/36683",
+          "at": "2026-11-26T06:30:32.507Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
+        },
+        {
+          "at": "2026-11-26T06:30:32.507Z",
+          "change": 4,
+          "event": "page",
+          "trail": "2026-11-26-1"
         }
       ]
     }

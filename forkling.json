@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 0.9,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-26T06:25:01.839Z",
-    "seed": 1131209934,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-26T06:30:32.507Z",
+    "seed": 1958398108,
+    "reason": "A meme a stranger reads in five seconds. One frame first, no loop, so it renders in the check.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-26T06:25:47.474Z",
+  "lastTickAt": "2026-11-26T06:30:32.507Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
