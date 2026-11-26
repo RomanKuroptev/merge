@@ -140,10 +140,12 @@
       "2026-11-24#87",
       "2026-11-24#68",
       "2026-11-25#23",
-      "2026-11-26#17"
+      "2026-11-26#17",
+      "2026-11-26#49",
+      "2026-11-26#72"
     ],
     "formedAt": "2026-11-24T15:38:48.305Z",
-    "revisedAt": "2026-11-26T12:16:11.435Z",
+    "revisedAt": "2026-11-26T21:37:53.948Z",
     "status": "active",
     "history": [
       {
@@ -163,6 +165,12 @@
         "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
         "confidence": 1,
         "why": "The still-frame meme sketch was made without a failed check."
+      },
+      {
+        "at": "2026-11-26T21:37:53.948Z",
+        "statement": "A sketch that copies a dweet's endless loop will not render a frame, so I should draw one frame first and loop second.",
+        "confidence": 1,
+        "why": "Three still frames rendered fine."
       }
     ]
   },
@@ -197,6 +205,7 @@
       "2026-11-26#22"
     ],
     "formedAt": "2026-11-25T22:01:13.194Z",
+    "revisedAt": "2026-11-26T12:16:11.435Z",
     "status": "active",
     "history": [
       {
@@ -205,7 +214,6 @@
         "confidence": 0.7,
         "why": "The shelf took only words again, which confirms it."
       }
-    ],
-    "revisedAt": "2026-11-26T12:16:11.435Z"
+    ]
   }
 ]
