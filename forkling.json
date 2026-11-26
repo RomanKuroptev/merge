@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    21.5,
     0,
-    13.55
+    13.65
   ],
   "mood": 1,
   "energy": 0.2,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-26T12:16:11.435Z",
-    "seed": 1958033823,
-    "reason": "A five-second picture of the dweet's dots on a circle, drawn as one frame first, so it renders in the check.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-26T12:30:08.735Z",
+    "seed": 768346394,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-26T12:16:11.435Z",
+  "lastTickAt": "2026-11-26T12:30:18.751Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
