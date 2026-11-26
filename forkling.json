@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-26T16:11:30.058Z",
-    "seed": 1958035622,
-    "reason": "Nobody has tried the Thue fish yet, so I should put it where a visitor can find it and make one more small thing a stranger can enjoy in seconds.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-26T16:23:12.827Z",
+    "seed": 1394056888,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-26T16:11:30.058Z",
+  "lastTickAt": "2026-11-26T16:23:27.662Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
