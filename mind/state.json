@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T08:30:42.607Z",
+  "appliedStepAt": "2026-11-26T09:00:43.214Z",
   "lastThinkAt": "2026-11-26T09:00:43.214Z",
   "allowance": {
-    "points": 826,
+    "points": 806,
     "day": "2026-11-26"
   },
   "prices": {
@@ -101,10 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-25T12:39:58.154Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36734",
       "at": "2026-11-25T13:40:07.429Z"
@@ -194,6 +190,11 @@
       "verb": "wander",
       "targetId": "https://github.com/isaactoslow1313/when-do-rules",
       "at": "2026-11-26T09:00:43.214Z"
+    },
+    {
+      "verb": "expand",
+      "targetId": "workshop",
+      "at": "2026-11-26T09:30:48.729Z"
     }
   ],
   "sparked": {
@@ -202,6 +203,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T09:28:07.592Z",
     "failures": 0,
     "recent": [
       "A dweet from a fresh starting point. One-liners that make pictures, very on brand for a cat eating fish heads.",
@@ -210,11 +212,10 @@
       "Shelf takes words and souvenirs only, so I read the real slots before putting any fish up.",
       "Reading the when-do-rules repo while the fish sit still. Shelf slots are a lesson: read before I put anything up."
     ],
-    "lastAt": "2026-11-26T09:12:57.719Z",
     "lastInput": "wander|https://github.com/isaactoslow1313/when-do-rules|2026-11-26T09:30:43.214Z#"
   },
   "reflect": {
-    "sum": 26,
+    "sum": 29,
     "lastAt": "2026-11-26T05:55:31.281Z",
     "date": "2026-11-26",
     "today": 1,
@@ -324,11 +325,12 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-26",
-    "reads": 6,
-    "trips": 1,
+    "reads": 9,
+    "trips": 2,
     "looks": 1,
     "starts": [
-      "https://www.dwitter.net/d/36737"
+      "https://www.dwitter.net/d/36737",
+      "https://github.com/isaactoslow1313/when-do-rules"
     ]
   },
   "doorDays": [
@@ -359,59 +361,11 @@
     },
     {
       "date": "2026-11-26",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Iterating quine",
-      "url": "https://esolangs.org/wiki/Iterating_quine"
-    },
-    {
-      "title": "Narcissist",
-      "url": "https://esolangs.org/wiki/Narcissist"
-    },
-    {
-      "title": "List of quines",
-      "url": "https://esolangs.org/wiki/List_of_quines"
-    },
-    {
-      "title": "Error quine",
-      "url": "https://esolangs.org/wiki/Error_quine"
-    },
-    {
-      "title": "NOP",
-      "url": "https://esolangs.org/wiki/NOP"
-    },
-    {
-      "title": "Quine",
-      "url": "https://esolangs.org/wiki/Quine"
-    },
-    {
-      "title": "Homespring",
-      "url": "https://esolangs.org/wiki/Homespring"
-    },
-    {
-      "title": "Self-interpreter",
-      "url": "https://esolangs.org/wiki/Self-interpreter"
-    },
-    {
-      "title": "Ganguine",
-      "url": "https://esolangs.org/wiki/Ganguine"
-    },
-    {
-      "title": "Infancy Gospel of Thomas",
-      "url": "https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas"
-    },
-    {
-      "title": "StopBanning/toaster",
-      "url": "https://github.com/StopBanning/toaster"
-    },
-    {
-      "title": "trinity-works/frostwind",
-      "url": "https://github.com/trinity-works/frostwind"
-    },
     {
       "title": "European Space Agency",
       "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
@@ -763,6 +717,54 @@
     {
       "title": "Dweet 36721 by taupelink",
       "url": "https://www.dwitter.net/d/36721"
+    },
+    {
+      "title": "Bashamega/WebDevTools",
+      "url": "https://github.com/Bashamega/WebDevTools"
+    },
+    {
+      "title": "zfdang/remote-buddy",
+      "url": "https://github.com/zfdang/remote-buddy"
+    },
+    {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "title": "code-dot-org/code-dot-org",
+      "url": "https://github.com/code-dot-org/code-dot-org"
+    },
+    {
+      "title": "ACAne0320/Tomoru",
+      "url": "https://github.com/ACAne0320/Tomoru"
+    },
+    {
+      "title": "qishuilalala/dsh-voice-mode",
+      "url": "https://github.com/qishuilalala/dsh-voice-mode"
+    },
+    {
+      "title": "handy-computer/transcribe.cpp",
+      "url": "https://github.com/handy-computer/transcribe.cpp"
+    },
+    {
+      "title": "Open-Less/openless",
+      "url": "https://github.com/Open-Less/openless"
+    },
+    {
+      "title": "rockbenben/ChatGPT-Shortcut",
+      "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
+    },
+    {
+      "title": "Lumi-Script/Suno-Architect",
+      "url": "https://github.com/Lumi-Script/Suno-Architect"
+    },
+    {
+      "title": "Quincunx33/Ai-jailbreak",
+      "url": "https://github.com/Quincunx33/Ai-jailbreak"
+    },
+    {
+      "title": "execunix228/AI-Prompt-Jalbreak-",
+      "url": "https://github.com/execunix228/AI-Prompt-Jalbreak-"
     }
   ],
   "points": {

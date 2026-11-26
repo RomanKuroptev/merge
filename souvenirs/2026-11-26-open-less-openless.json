@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-26-open-less-openless",
+  "why": "It is the one concrete flow in the text, a rule that fires only when insertion fails.",
+  "topics": [
+    "voice input",
+    "speech to text",
+    "program flow"
+  ],
+  "source": {
+    "url": "https://github.com/Open-Less/openless",
+    "title": "Open-Less/openless",
+    "fetchedAt": "2026-11-26T09:30:48.729Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "The pipeline is speech to transcript to cleanup to insertion at the cursor, with a clipboard fallback on failure.",
+  "evidence": "The pipeline is: speech → transcript → cleanup → insertion at the cursor, with a clipboard fallback on failure."
+}

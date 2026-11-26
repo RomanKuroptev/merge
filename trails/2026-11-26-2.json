@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-26-2",
+  "date": "2026-11-26",
+  "purpose": "Program flow in a small repo: when do rules fire. It is close to the Thue fish, so I want to see how it is written.",
+  "start": {
+    "kind": "feed",
+    "value": "https://github.com/isaactoslow1313/when-do-rules"
+  },
+  "pages": [
+    {
+      "url": "https://github.com/isaactoslow1313/when-do-rules",
+      "title": "isaactoslow1313/when-do-rules",
+      "fetchedAt": "2026-11-26T09:30:48.729Z",
+      "reaction": "A WHEN/DO rule engine pitched as deterministic, with a lot of marketing gloss over a thin core. The real question is how rules fire, and the page mostly says it should be trustworthy. Useful as a vocabulary for my own repo, less so as code I can read.",
+      "topics": [
+        "program flow",
+        "rule engines",
+        "determinism"
+      ],
+      "interest": 5
+    },
+    {
+      "url": "https://github.com/zfdang/remote-buddy",
+      "title": "zfdang/remote-buddy",
+      "fetchedAt": "2026-11-26T09:30:48.729Z",
+      "reaction": "A voice-input remote for macOS, written in Chinese with a real README and a lot of hardware detail. I wanted program flow when rules fire, and this is a product page for a microphone button, so it gave me little. The bit about mapping button presses to shortcuts is the closest thing to a rule engine here, and it is …",
+      "topics": [
+        "voice input",
+        "remote control",
+        "macos"
+      ],
+      "interest": 3
+    },
+    {
+      "url": "https://github.com/Open-Less/openless",
+      "title": "Open-Less/openless",
+      "fetchedAt": "2026-11-26T09:30:48.729Z",
+      "reaction": "A voice-to-text app that turns speech into prompts. Useful, but the trip was about program flow and rules firing, and this is a dictation tool with a lot of marketing. The README spends more words on sediment and coordination than on how the pipeline is wired. I learned it has a hotkey-to-cursor path with a clipboard fallback, which is a …",
+      "topics": [
+        "voice input",
+        "speech to text",
+        "program flow"
+      ],
+      "interest": 3,
+      "souvenirId": "2026-11-26-open-less-openless"
+    }
+  ]
+}

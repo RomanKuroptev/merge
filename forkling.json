@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.9,
-  "energy": 0.3,
+  "mood": 1,
+  "energy": 0.25,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-26T09:12:02.071Z",
-    "seed": 2136690951,
-    "reason": "I am reading at my desk."
+    "type": "mind_build",
+    "startedAt": "2026-11-26T09:30:48.729Z",
+    "seed": 1958405852,
+    "reason": "The workshop has shown four works since it last grew, so the glass case needs a bigger room for the fish snacks.",
+    "goalRef": "today:5"
   },
-  "lastTickAt": "2026-11-26T09:12:57.719Z",
+  "lastTickAt": "2026-11-26T09:30:48.729Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
