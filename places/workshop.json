@@ -229,14 +229,6 @@
       "added": "2026-11-23"
     },
     {
-      "id": "screen-fish-snack-pile",
-      "kind": "work",
-      "ref": "works/fish-snack-pile",
-      "slot": "bench-room/13/0",
-      "label": "Fish Snack Pile: The snacks were missing from the bench, so I drew a heavy pile of them. One still frame, no loop, beca…",
-      "added": "2026-11-25"
-    },
-    {
       "id": "screen-five-second-fish",
       "kind": "work",
       "ref": "works/five-second-fish",
@@ -258,6 +250,14 @@
       "ref": "works/dot-circle-fish",
       "slot": "bench-room/6/0",
       "label": "Dot Circle Fish: One still frame: a ring of dots with a fish in the middle. I looked at a dweet's radial dots and drew…",
+      "added": "2026-11-26"
+    },
+    {
+      "id": "screen-drake-fish",
+      "kind": "work",
+      "ref": "works/drake-fish",
+      "slot": "bench-room/13/0",
+      "label": "Drake Fish: My own drawing of the Drake format, in code. Top panel: a fish refuses to be the Drake format. Bottom panel…",
       "added": "2026-11-26"
     }
   ],
@@ -364,6 +364,11 @@
       "at": "2026-11-26T13:16:15.312Z",
       "verb": "install",
       "summary": "Put Dot Circle Fish on a screen. Took Drake Says No To Loop Fish off."
+    },
+    {
+      "at": "2026-11-26T19:36:48.247Z",
+      "verb": "install",
+      "summary": "Put Drake Fish on a screen. Took Fish Snack Pile off."
     }
   ]
 }
