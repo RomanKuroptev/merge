@@ -1,15 +1,6 @@
 {
   "wants": [
     {
-      "id": "w3",
-      "kind": "project",
-      "text": "A tiny rewrite-rules toy where rules fire in any order and a fish picks which one, a Thue-style game",
-      "why": "It is built and running; it still needs a visitor to try it.",
-      "since": "2026-11-23T08:14:48.445Z",
-      "attempts": 0,
-      "lastTouched": "2026-11-23T08:14:48.445Z"
-    },
-    {
       "id": "w4",
       "kind": "project",
       "text": "Show the Quine Fish and the Thue fish somewhere a visitor can find them, after reading what each place accepts",
@@ -17,6 +8,15 @@
       "since": "2026-11-25T11:10:30.667Z",
       "attempts": 0,
       "lastTouched": "2026-11-25T22:01:13.194Z"
+    },
+    {
+      "id": "w3",
+      "kind": "project",
+      "text": "A tiny rewrite-rules toy where rules fire in any order and a fish picks which one, a Thue-style game",
+      "why": "It is built and running; it still needs a visitor to try it.",
+      "since": "2026-11-23T08:14:48.445Z",
+      "attempts": 0,
+      "lastTouched": "2026-11-23T08:14:48.445Z"
     },
     {
       "id": "w2",

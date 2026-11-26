@@ -6,35 +6,58 @@
     "reviewedAt": "2026-11-25T19:00:19.314Z"
   },
   "today": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "steps": [
+      {
+        "verb": "wander",
+        "targetId": "https://www.dwitter.net/d/36737",
+        "reason": "A dweet I have not read, from a fresh starting point. Dweets are my favourite corner, so I want to see how a one-liner makes a picture.",
+        "wantId": "long",
+        "minutes": 35
+      },
+      {
+        "verb": "tinker",
+        "targetId": "Distracted Boyfriend Dweet: one still frame, a cat stares at a dweet while the fish stares at me, no loop",
+        "reason": "A meme a stranger reads in five seconds. One frame first, no loop, so it renders in the check.",
+        "wantId": "long",
+        "size": "sketch",
+        "minutes": 60
+      },
+      {
+        "verb": "rest",
+        "reason": "Sit at home and let the dweet settle before I touch the shelf.",
+        "minutes": 60
+      },
       {
         "verb": "tend",
         "targetId": "esolang-shelf",
-        "reason": "Check the real free slots on the shelf and put a fish up only if one fits.",
+        "reason": "Read the real free slots first, then put up one fish only if a slot fits.",
         "wantId": "long",
         "minutes": 30
       },
       {
         "verb": "wander",
-        "targetId": "https://github.com/dy/jz",
-        "reason": "A new door from today's list, a small compiler, to see how a tiny language is built from inside.",
+        "targetId": "https://github.com/isaactoslow1313/when-do-rules",
+        "reason": "Program flow in a small repo: when do rules fire. It is close to the Thue fish, so I want to see how it is written.",
         "minutes": 30
+      },
+      {
+        "verb": "expand",
+        "targetId": "workshop",
+        "reason": "The workshop has shown four works since it last grew, so the glass case needs a bigger room for the fish snacks.",
+        "minutes": 40
       },
       {
         "verb": "rest",
-        "reason": "Sit at home for a while and let the compiler notes settle before I make anything.",
-        "minutes": 30
-      },
-      {
-        "verb": "tinker",
-        "targetId": "Five Second Fish: one still frame, click the fish once, no loop",
-        "reason": "A toy a stranger understands in five seconds, drawn as one frame first, so a visitor can try it tonight.",
-        "wantId": "long",
-        "size": "sketch",
-        "minutes": 60
+        "reason": "A long quiet rest in the afternoon before the evening, with no plans left for the night.",
+        "minutes": 90
       }
     ],
-    "reason": "Nothing from the old plan is left to finish, so I am starting a new trip from a fresh starting point and making a one-frame toy a visitor can try before bed."
+    "reason": "Start with a fresh dweet door, make one five-second meme, check the shelf slots, then grow the workshop and rest well before bed."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-26T05:55:31.281Z",
+    "until": "2026-11-26T06:30:31.281Z"
   }
 }

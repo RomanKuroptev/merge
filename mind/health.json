@@ -1,33 +1,51 @@
 {
-  "updatedAt": "2026-11-26T05:45:28.082Z",
+  "updatedAt": "2026-11-26T05:55:31.281Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T05:45:28.082Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-26T05:55:31.281Z",
+    "asleep": false,
+    "summary": "rewrote its page, reflected, morning plan, step 1/7: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-25:7feb69da",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-25T19:12:46.461Z",
+    "planId": "2026-11-26:717155bf",
+    "stepsLeft": 6,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36737",
+      "until": "2026-11-26T06:30:31.281Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-26T05:55:31.281Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 404,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {},
+    "ticks": 414,
+    "decideCalls": 1,
+    "callsByKind": {
+      "reflection": 1,
+      "morning": 1
+    },
+    "spendByKind": {
+      "reflection": 0.028568,
+      "morning": 0.00273755
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://www.dwitter.net/d/36737": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -44,18 +62,18 @@
     }
   },
   "allowance": {
-    "points": 559,
+    "points": 855,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, a bit worn",
-    "minutes": 809
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 3.80284885,
+    "monthUsd": 3.8341544,
     "capUsd": 15,
     "paceUsd": 13
   },

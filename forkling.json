@@ -7,15 +7,16 @@
     0,
     13.55
   ],
-  "mood": 1,
-  "energy": -0.5,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-26T05:30:00.100Z",
-    "seed": 1766940968,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-26T05:55:31.281Z",
+    "seed": 1958400839,
+    "reason": "Morning, rested. A new starting point is the rule for today, so I begin with the dweet 36737 door. I want a toy a stranger can see in five seconds, then a shelf check before I put anything up.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-26T05:30:23.213Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-26T05:55:31.281Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

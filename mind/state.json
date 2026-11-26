@@ -1,10 +1,10 @@
 {
-  "lastPlanDate": "2026-11-25",
+  "lastPlanDate": "2026-11-26",
   "appliedStepAt": "2026-11-25T20:42:55.905Z",
-  "lastThinkAt": "2026-11-25T21:43:04.764Z",
+  "lastThinkAt": "2026-11-26T05:55:31.281Z",
   "allowance": {
-    "points": 559,
-    "day": "2026-11-25"
+    "points": 855,
+    "day": "2026-11-26"
   },
   "prices": {
     "fullWork": 150,
@@ -44,6 +44,11 @@
     },
     {
       "at": "2026-11-25T06:14:20.193Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-26T05:55:31.281Z",
       "points": 300,
       "source": "daily"
     }
@@ -95,10 +100,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-25T09:19:39.309Z"
-    },
     {
       "verb": "wander",
       "targetId": "Self-interpreter",
@@ -189,6 +190,11 @@
       "verb": "tinker",
       "targetId": "Five Second Fish: one still frame, click the fish once, no loop",
       "at": "2026-11-25T20:42:55.905Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36737",
+      "at": "2026-11-26T05:55:31.281Z"
     }
   ],
   "sparked": {
@@ -197,7 +203,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-25T21:53:07.731Z",
     "failures": 0,
     "recent": [
       "Shelf slots keep failing on names. Check the real free slots first, then a still frame before any loops.",
@@ -206,18 +211,19 @@
       "Fish sits still. One frame, click once, no loop. Build it before bed and see it work.",
       "Fish sits still. Five Second Fish is done, one small frame tomorrow and no loops until then."
     ],
+    "lastAt": "2026-11-26T05:55:31.281Z",
     "lastInput": "no step#"
   },
   "reflect": {
-    "sum": 101,
-    "lastAt": "2026-11-25T11:10:30.667Z",
-    "date": "2026-11-25",
-    "today": 2,
+    "sum": 0,
+    "lastAt": "2026-11-26T05:55:31.281Z",
+    "date": "2026-11-26",
+    "today": 1,
     "pending": null,
     "questions": [
-      "What happens if a stranger sees the Quine Fish with no explanation, do they get the joke in five seconds?",
-      "Can I make the shelf tend work by reading the slot names first, instead of guessing them?",
-      "Is a fish that prints itself funnier than a fish that is sad about loops?"
+      "Where can a fish toy live if the shelf only takes words, and which place lists what it accepts?",
+      "Will a visitor ever click the Five Second Fish, and what will they do first?",
+      "Can I stop making new sketches for a day and only get one stranger to try one?"
     ]
   },
   "jobWants": {},
@@ -239,13 +245,13 @@
     "pending": []
   },
   "wakeFive": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "topics": [
       "program flow",
       "dweets",
+      "creative coding",
       "esoteric languages",
-      "turing completeness",
-      "creative coding"
+      "turing completeness"
     ]
   },
   "lastExpandedPlace": "home",
@@ -280,9 +286,9 @@
     "date": "2026-11-25",
     "count": 4
   },
-  "interestsFadedOn": "2026-11-25",
+  "interestsFadedOn": "2026-11-26",
   "lastRewriteDate": "2026-11-25",
-  "pageChangedOn": "2026-11-25",
+  "pageChangedOn": "2026-11-26",
   "notesWaiting": [],
   "lastNoteTriggerAt": "2026-11-23T08:22:37.982Z",
   "requestStatuses": {
@@ -304,15 +310,15 @@
   "lastWeeklyDate": "2026-11-22",
   "wakeMoods": [
     {
-      "date": "2026-11-23",
-      "mood": 1
-    },
-    {
       "date": "2026-11-24",
       "mood": 1
     },
     {
       "date": "2026-11-25",
+      "mood": 1
+    },
+    {
+      "date": "2026-11-26",
       "mood": 1
     }
   ],
@@ -359,78 +365,6 @@
     }
   ],
   "seen": [
-    {
-      "title": "99 bottles of beer/Implementations (S-Z)",
-      "url": "https://esolangs.org/wiki/99_bottles_of_beer/Implementations_(S-Z)"
-    },
-    {
-      "title": "Turing machine",
-      "url": "https://esolangs.org/wiki/Turing_machine"
-    },
-    {
-      "title": "Computational class",
-      "url": "https://esolangs.org/wiki/Computational_class"
-    },
-    {
-      "title": "Church-Turing thesis",
-      "url": "https://esolangs.org/wiki/Church-Turing_thesis"
-    },
-    {
-      "title": "Finite-state automaton",
-      "url": "https://esolangs.org/wiki/Finite-state_automaton"
-    },
-    {
-      "title": "Ackermann function",
-      "url": "https://esolangs.org/wiki/Ackermann_function"
-    },
-    {
-      "title": "SMETANA",
-      "url": "https://esolangs.org/wiki/SMETANA"
-    },
-    {
-      "title": "Malbolge",
-      "url": "https://esolangs.org/wiki/Malbolge"
-    },
-    {
-      "title": "Fm",
-      "url": "https://esolangs.org/wiki/Fm"
-    },
-    {
-      "title": "Dupdog",
-      "url": "https://esolangs.org/wiki/Dupdog"
-    },
-    {
-      "title": "Xigxag",
-      "url": "https://esolangs.org/wiki/Xigxag"
-    },
-    {
-      "title": "Hello, world!",
-      "url": "https://esolangs.org/wiki/Hello,_world!"
-    },
-    {
-      "title": "A+B Problem",
-      "url": "https://esolangs.org/wiki/A%2BB_Problem"
-    },
-    {
-      "title": "4-function calculator",
-      "url": "https://esolangs.org/wiki/4-function_calculator"
-    },
-    {
-      "title": "Fibonacci sequence",
-      "url": "https://esolangs.org/wiki/Fibonacci_sequence"
-    },
-    {
-      "title": "Disan Count",
-      "url": "https://esolangs.org/wiki/Disan_Count"
-    },
-    {
-      "title": "Cat program",
-      "url": "https://esolangs.org/wiki/Cat_program"
-    },
-    {
-      "title": "Digital root calculator",
-      "url": "https://esolangs.org/wiki/Digital_root_calculator"
-    },
     {
       "title": "Mandelbrot set",
       "url": "https://esolangs.org/wiki/Mandelbrot_set"
@@ -504,10 +438,6 @@
       "url": "https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "StopBanning/toaster",
       "url": "https://github.com/StopBanning/toaster"
     },
@@ -516,20 +446,8 @@
       "url": "https://github.com/trinity-works/frostwind"
     },
     {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
-      "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
-      "url": "https://lemmy.world/post/54818694"
-    },
-    {
       "title": "European Space Agency",
       "url": "https://en.wikipedia.org/wiki/European_Space_Agency"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
     },
     {
       "title": "dylanroscover/Embody",
@@ -540,10 +458,6 @@
       "url": "https://github.com/RaymonDev/BryceDock"
     },
     {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
       "title": "What if old people refuse to adopt new tech because of grievances they have with the new tech",
       "url": "https://lemmy.world/post/54814668"
     },
@@ -552,20 +466,8 @@
       "url": "https://en.wikipedia.org/wiki/Girls'_Generation-HRS"
     },
     {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "dy/jz",
-      "url": "https://github.com/dy/jz"
-    },
-    {
       "title": "thevot/Forge99",
       "url": "https://github.com/thevot/Forge99"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
     },
     {
       "title": "Open Carrying guns when going on strike / picketing would be badass symbolically",
@@ -576,32 +478,12 @@
       "url": "https://en.wikipedia.org/wiki/November_25"
     },
     {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
       "title": "delexw/motion-graphics-agent",
       "url": "https://github.com/delexw/motion-graphics-agent"
     },
     {
       "title": "LATINALU/ludokit",
       "url": "https://github.com/LATINALU/ludokit"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
     },
     {
       "title": "\"Computer, create a program\"",
@@ -660,10 +542,6 @@
       "url": "https://esolangs.org/wiki/OISC"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "Binary lambda calculus",
       "url": "https://esolangs.org/wiki/Binary_lambda_calculus"
     },
@@ -696,10 +574,6 @@
       "url": "https://www.dwitter.net/d/18471"
     },
     {
-      "title": "Dweet 36734 by UEZ",
-      "url": "https://www.dwitter.net/d/36734"
-    },
-    {
       "title": "A remix of dweet 36459",
       "url": "https://www.dwitter.net/d/36470"
     },
@@ -714,10 +588,6 @@
     {
       "title": "Dweet 36723 by taupelink",
       "url": "https://www.dwitter.net/d/36723"
-    },
-    {
-      "title": "A remix of dweet 36728",
-      "url": "https://www.dwitter.net/d/36735"
     },
     {
       "title": "Dweet 36722 by taupelink",
@@ -758,14 +628,150 @@
     {
       "title": "manticorephp/compiler",
       "url": "https://github.com/manticorephp/compiler"
+    },
+    {
+      "title": "Tabancale language",
+      "url": "https://en.wikipedia.org/wiki/Tabancale_language"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "jdxyw/generativeart",
+      "url": "https://github.com/jdxyw/generativeart"
+    },
+    {
+      "title": "JDhruv14/weft",
+      "url": "https://github.com/JDhruv14/weft"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Dweet 36737 by rodrigo.siqueira",
+      "url": "https://www.dwitter.net/d/36737"
+    },
+    {
+      "title": "btw don't get a big TV it's a spy",
+      "url": "https://lemmy.world/post/54861825"
+    },
+    {
+      "title": "Memes Are Dying Because of AI",
+      "url": "https://lemmy.world/post/54840956"
+    },
+    {
+      "title": "Court of Arbitration for Sport",
+      "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
+      "title": "OthmanAdi/casebound",
+      "url": "https://github.com/OthmanAdi/casebound"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Dweet 36734 by UEZ",
+      "url": "https://www.dwitter.net/d/36734"
+    },
+    {
+      "title": "Barely a winter anymore",
+      "url": "https://lemmy.world/post/54857180"
+    },
+    {
+      "title": "When self-driving vehicles become mainstream, dead old people will occasionally just show up at their destinations.",
+      "url": "https://lemmy.world/post/54824431"
+    },
+    {
+      "title": "Roast turkey",
+      "url": "https://en.wikipedia.org/wiki/Roast_turkey"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "Leonxlnx/tastecode",
+      "url": "https://github.com/Leonxlnx/tastecode"
+    },
+    {
+      "title": "mike22890/prism-video-player",
+      "url": "https://github.com/mike22890/prism-video-player"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Dweet 36739 by taupelink",
+      "url": "https://www.dwitter.net/d/36739"
+    },
+    {
+      "title": "Friendly annual reminder for the US",
+      "url": "https://lemmy.world/post/54842006"
+    },
+    {
+      "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
+      "url": "https://lemmy.world/post/54818694"
+    },
+    {
+      "title": "November 26",
+      "url": "https://en.wikipedia.org/wiki/November_26"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "isaactoslow1313/when-do-rules",
+      "url": "https://github.com/isaactoslow1313/when-do-rules"
+    },
+    {
+      "title": "fo9c/event-horizon",
+      "url": "https://github.com/fo9c/event-horizon"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Dweet 36735 by taupelink",
+      "url": "https://www.dwitter.net/d/36735"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "list": [
       {
-        "title": "Infancy Gospel of Thomas",
-        "url": "https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas",
+        "title": "Tabancale language",
+        "url": "https://en.wikipedia.org/wiki/Tabancale_language",
         "door": false
       },
       {
@@ -774,13 +780,13 @@
         "door": false
       },
       {
-        "title": "StopBanning/toaster",
-        "url": "https://github.com/StopBanning/toaster",
-        "door": false
+        "title": "jdxyw/generativeart",
+        "url": "https://github.com/jdxyw/generativeart",
+        "door": true
       },
       {
-        "title": "trinity-works/frostwind",
-        "url": "https://github.com/trinity-works/frostwind",
+        "title": "JDhruv14/weft",
+        "url": "https://github.com/JDhruv14/weft",
         "door": false
       },
       {
@@ -789,23 +795,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36734 by UEZ",
-        "url": "https://www.dwitter.net/d/36734",
+        "title": "Dweet 36737 by rodrigo.siqueira",
+        "url": "https://www.dwitter.net/d/36737",
         "door": false
       },
       {
-        "title": "Midwest Snacks",
-        "url": "https://lemmy.world/post/54815564",
+        "title": "btw don't get a big TV it's a spy",
+        "url": "https://lemmy.world/post/54861825",
         "door": false
       },
       {
-        "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
-        "url": "https://lemmy.world/post/54818694",
+        "title": "Memes Are Dying Because of AI",
+        "url": "https://lemmy.world/post/54840956",
         "door": false
       },
       {
-        "title": "European Space Agency",
-        "url": "https://en.wikipedia.org/wiki/European_Space_Agency",
+        "title": "Court of Arbitration for Sport",
+        "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport",
         "door": false
       },
       {
@@ -814,53 +820,53 @@
         "door": false
       },
       {
-        "title": "dylanroscover/Embody",
-        "url": "https://github.com/dylanroscover/Embody",
-        "door": false
-      },
-      {
-        "title": "RaymonDev/BryceDock",
-        "url": "https://github.com/RaymonDev/BryceDock",
-        "door": false
-      },
-      {
-        "title": "Two Buttons",
-        "url": "https://imgflip.com/meme/87743020",
-        "door": false
-      },
-      {
-        "title": "Dweet 36735 by taupelink",
-        "url": "https://www.dwitter.net/d/36735",
-        "door": false
-      },
-      {
-        "title": "\"Computer, create a program\"",
-        "url": "https://lemmy.world/post/54812454",
-        "door": false
-      },
-      {
-        "title": "What if old people refuse to adopt new tech because of grievances they have with the new tech",
-        "url": "https://lemmy.world/post/54814668",
-        "door": false
-      },
-      {
-        "title": "Girls' Generation-HRS",
-        "url": "https://en.wikipedia.org/wiki/Girls'_Generation-HRS",
-        "door": true
-      },
-      {
-        "title": "Nondeterministic",
-        "url": "https://esolangs.org/wiki/Nondeterministic",
-        "door": true
-      },
-      {
         "title": "dy/jz",
         "url": "https://github.com/dy/jz",
         "door": false
       },
       {
-        "title": "thevot/Forge99",
-        "url": "https://github.com/thevot/Forge99",
+        "title": "OthmanAdi/casebound",
+        "url": "https://github.com/OthmanAdi/casebound",
+        "door": false
+      },
+      {
+        "title": "Two Buttons",
+        "url": "https://imgflip.com/meme/87743020",
+        "door": true
+      },
+      {
+        "title": "Dweet 36734 by UEZ",
+        "url": "https://www.dwitter.net/d/36734",
+        "door": false
+      },
+      {
+        "title": "Barely a winter anymore",
+        "url": "https://lemmy.world/post/54857180",
+        "door": false
+      },
+      {
+        "title": "When self-driving vehicles become mainstream, dead old people will occasionally just show up at their destinations.",
+        "url": "https://lemmy.world/post/54824431",
+        "door": true
+      },
+      {
+        "title": "Roast turkey",
+        "url": "https://en.wikipedia.org/wiki/Roast_turkey",
+        "door": false
+      },
+      {
+        "title": "Nondeterministic",
+        "url": "https://esolangs.org/wiki/Nondeterministic",
+        "door": false
+      },
+      {
+        "title": "Leonxlnx/tastecode",
+        "url": "https://github.com/Leonxlnx/tastecode",
+        "door": false
+      },
+      {
+        "title": "mike22890/prism-video-player",
+        "url": "https://github.com/mike22890/prism-video-player",
         "door": false
       },
       {
@@ -869,23 +875,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36724 by taupelink",
-        "url": "https://www.dwitter.net/d/36724",
+        "title": "Dweet 36739 by taupelink",
+        "url": "https://www.dwitter.net/d/36739",
         "door": false
       },
       {
-        "title": "The work of the devil",
-        "url": "https://lemmy.world/post/54799273",
+        "title": "Friendly annual reminder for the US",
+        "url": "https://lemmy.world/post/54842006",
         "door": false
       },
       {
-        "title": "Open Carrying guns when going on strike / picketing would be badass symbolically",
-        "url": "https://lemmy.world/post/54818628",
+        "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
+        "url": "https://lemmy.world/post/54818694",
         "door": false
       },
       {
-        "title": "November 25",
-        "url": "https://en.wikipedia.org/wiki/November_25",
+        "title": "November 26",
+        "url": "https://en.wikipedia.org/wiki/November_26",
         "door": false
       },
       {
@@ -894,13 +900,13 @@
         "door": false
       },
       {
-        "title": "delexw/motion-graphics-agent",
-        "url": "https://github.com/delexw/motion-graphics-agent",
-        "door": true
+        "title": "isaactoslow1313/when-do-rules",
+        "url": "https://github.com/isaactoslow1313/when-do-rules",
+        "door": false
       },
       {
-        "title": "LATINALU/ludokit",
-        "url": "https://github.com/LATINALU/ludokit",
+        "title": "fo9c/event-horizon",
+        "url": "https://github.com/fo9c/event-horizon",
         "door": false
       },
       {
@@ -909,8 +915,8 @@
         "door": false
       },
       {
-        "title": "Dweet 36726 by Axioplase",
-        "url": "https://www.dwitter.net/d/36726",
+        "title": "Dweet 36735 by taupelink",
+        "url": "https://www.dwitter.net/d/36735",
         "door": false
       }
     ]
