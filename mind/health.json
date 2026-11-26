@@ -1,29 +1,32 @@
 {
-  "updatedAt": "2026-11-26T08:15:23.136Z",
+  "updatedAt": "2026-11-26T08:30:42.607Z",
   "engine": "v0.19.4",
   "date": "2026-11-26",
   "lastTick": {
-    "at": "2026-11-26T08:15:23.136Z",
+    "at": "2026-11-26T08:30:42.607Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 4/7: tend",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-26:717155bf",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-26T08:30:34.931Z",
+      "index": 3,
+      "verb": "tend",
+      "targetId": "esolang-shelf",
+      "until": "2026-11-26T09:00:42.607Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-26T05:55:31.281Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 558,
+    "ticks": 574,
     "decideCalls": 2,
     "callsByKind": {
       "reflection": 1,
@@ -45,7 +48,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2,
+      "stepDone": 3,
       "sparked": 1
     },
     "failures": 0,
@@ -55,7 +58,8 @@
     "stepsStarted": {
       "wander https://www.dwitter.net/d/36737": 1,
       "tinker Distracted Boyfriend Dweet: one still frame, a cat stares a…": 1,
-      "rest": 1
+      "rest": 1,
+      "tend esolang-shelf": 1
     },
     "longestGapMinutes": 2
   },
@@ -73,14 +77,14 @@
     }
   },
   "allowance": {
-    "points": 832,
+    "points": 830,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 141
+    "minutes": 157
   },
   "needsCritical": {},
   "spend": {
