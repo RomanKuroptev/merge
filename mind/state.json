@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-26",
-  "appliedStepAt": "2026-11-26T09:00:43.214Z",
-  "lastThinkAt": "2026-11-26T09:00:43.214Z",
+  "appliedStepAt": "2026-11-26T09:30:48.729Z",
+  "lastThinkAt": "2026-11-26T10:11:45.761Z",
   "allowance": {
     "points": 806,
     "day": "2026-11-26"
@@ -101,11 +101,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36734",
-      "at": "2026-11-25T13:40:07.429Z"
-    },
-    {
       "verb": "write",
       "targetId": "Dweets",
       "at": "2026-11-25T14:20:10.352Z"
@@ -195,6 +190,10 @@
       "verb": "expand",
       "targetId": "workshop",
       "at": "2026-11-26T09:30:48.729Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-26T10:10:55.385Z"
     }
   ],
   "sparked": {
@@ -203,6 +202,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-26T10:08:34.171Z",
     "failures": 0,
     "recent": [
       "Distracted boyfriend dweet is queued. One still frame, no loop, then the fish can judge it.",
@@ -211,11 +211,10 @@
       "Reading the when-do-rules repo while the fish sit still. Shelf slots are a lesson: read before I put anything up.",
       "The glass case needs a bigger room for the fish snacks, and the shelf has to be read before anything goes on it."
     ],
-    "lastAt": "2026-11-26T09:58:27.037Z",
     "lastInput": "expand|workshop|2026-11-26T10:10:48.729Z#"
   },
   "reflect": {
-    "sum": 36,
+    "sum": 41,
     "lastAt": "2026-11-26T05:55:31.281Z",
     "date": "2026-11-26",
     "today": 1,
@@ -240,7 +239,8 @@
       "session-20261124191147",
       "session-20261124211436",
       "session-20261125074428",
-      "session-20261125184042"
+      "session-20261125184042",
+      "expand-20261126-1010"
     ],
     "pending": []
   },
@@ -254,7 +254,7 @@
       "turing completeness"
     ]
   },
-  "lastExpandedPlace": "home",
+  "lastExpandedPlace": "workshop",
   "requestSeen": {
     "esolang-shelf": "self-built"
   },

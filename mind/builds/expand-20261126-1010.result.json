@@ -1,0 +1,53 @@
+{
+  "id": "expand-20261126-1010",
+  "kind": "expand",
+  "status": "done",
+  "placeId": "workshop",
+  "patch": {
+    "verb": "expand",
+    "change": {
+      "kind": "path",
+      "to": "esolang-shelf"
+    },
+    "summary": "The workshop has no floor left for a snack gallery, so I cut a path to the Esolang Shelf instead. Quiet, but it fits."
+  },
+  "wishes": [
+    {
+      "name": "Fish snack dispenser",
+      "description": "A machine that drops one pixel fish snack when a visitor clicks it. Loud, bright, and useless.",
+      "forPlace": "workshop"
+    }
+  ],
+  "constraint": {
+    "text": "Make it as loud as it can be without being rude.",
+    "refused": true,
+    "reason": "The bench room already fills the whole footprint, so no new room fits. A path can't be loud, so I made the quietest change there is."
+  },
+  "collision": [
+    "2026-11-24-quine",
+    "2026-11-26-open-less-openless"
+  ],
+  "calls": [
+    {
+      "at": "2026-11-26T10:11:33.094Z",
+      "kind": "expand",
+      "model": "claude-sonnet-5-5",
+      "input": 3410,
+      "cacheRead": 0,
+      "cacheWrite": 5011,
+      "output": 223,
+      "usd": 0.0215775
+    },
+    {
+      "at": "2026-11-26T10:11:33.094Z",
+      "kind": "repair",
+      "model": "claude-sonnet-5-5",
+      "input": 3717,
+      "cacheRead": 5011,
+      "cacheWrite": 0,
+      "output": 548,
+      "usd": 0.0139162
+    }
+  ],
+  "at": "2026-11-26T10:11:44.254Z"
+}

@@ -2,38 +2,8 @@
   "month": "2026-11",
   "serverUsd": 7.4,
   "capUsd": 15,
-  "spentUsd": 3.88451924,
+  "spentUsd": 3.92129077,
   "calls": [
-    {
-      "at": "2026-11-19T06:07:19.085Z",
-      "kind": "read",
-      "model": "claude-haiku-5-5",
-      "input": 4590,
-      "cacheRead": 1803,
-      "cacheWrite": 0,
-      "output": 241,
-      "usd": 0.00059753
-    },
-    {
-      "at": "2026-11-19T06:07:19.085Z",
-      "kind": "read",
-      "model": "claude-haiku-5-5",
-      "input": 4721,
-      "cacheRead": 1803,
-      "cacheWrite": 0,
-      "output": 229,
-      "usd": 0.00060463
-    },
-    {
-      "at": "2026-11-19T06:07:44.095Z",
-      "kind": "decide",
-      "model": "claude-haiku-5-5",
-      "input": 4421,
-      "cacheRead": 0,
-      "cacheWrite": 3427,
-      "output": 301,
-      "usd": 0.001020975
-    },
     {
       "at": "2026-11-19T06:07:57.600Z",
       "kind": "thought",
@@ -5003,6 +4973,36 @@
       "cacheWrite": 3614,
       "output": 125,
       "usd": 0.00059025
+    },
+    {
+      "at": "2026-11-26T10:11:33.094Z",
+      "kind": "expand",
+      "model": "claude-sonnet-5-5",
+      "input": 3410,
+      "cacheRead": 0,
+      "cacheWrite": 5011,
+      "output": 223,
+      "usd": 0.0215775
+    },
+    {
+      "at": "2026-11-26T10:11:33.094Z",
+      "kind": "repair",
+      "model": "claude-sonnet-5-5",
+      "input": 3717,
+      "cacheRead": 5011,
+      "cacheWrite": 0,
+      "output": 548,
+      "usd": 0.0139162
+    },
+    {
+      "at": "2026-11-26T10:11:45.761Z",
+      "kind": "decide",
+      "model": "claude-haiku-5-5",
+      "input": 6037,
+      "cacheRead": 0,
+      "cacheWrite": 3741,
+      "output": 413,
+      "usd": 0.001277825
     }
   ],
   "byKind": {
@@ -5047,12 +5047,12 @@
       "usd": 0.08190009
     },
     "decide": {
-      "calls": 129,
-      "input": 546750,
+      "calls": 130,
+      "input": 552787,
       "cacheRead": 114041,
-      "cacheWrite": 310464,
-      "output": 168050,
-      "usd": 0.17864857
+      "cacheWrite": 314205,
+      "output": 168463,
+      "usd": 0.1799264
     },
     "art": {
       "calls": 52,
@@ -5135,12 +5135,12 @@
       "usd": 0.3139472
     },
     "expand": {
-      "calls": 3,
-      "input": 9987,
+      "calls": 4,
+      "input": 13397,
       "cacheRead": 0,
-      "cacheWrite": 14766,
-      "output": 1573,
-      "usd": 0.072619
+      "cacheWrite": 19777,
+      "output": 1796,
+      "usd": 0.0941965
     },
     "weekly": {
       "calls": 1,
@@ -5151,12 +5151,12 @@
       "usd": 0.0172135
     },
     "repair": {
-      "calls": 1,
-      "input": 3504,
-      "cacheRead": 4909,
+      "calls": 2,
+      "input": 7221,
+      "cacheRead": 9920,
       "cacheWrite": 0,
-      "output": 937,
-      "usd": 0.0173598
+      "output": 1485,
+      "usd": 0.031276
     },
     "found": {
       "calls": 1,
