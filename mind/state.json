@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T09:07:41.489Z",
+  "appliedStepAt": "2026-11-27T09:08:29.043Z",
   "lastThinkAt": "2026-11-27T09:08:29.043Z",
   "allowance": {
-    "points": 968,
+    "points": 966,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://github.com/isaactoslow1313/when-do-rules",
-      "at": "2026-11-26T09:00:43.214Z"
-    },
-    {
       "verb": "expand",
       "targetId": "workshop",
       "at": "2026-11-26T09:30:48.729Z"
@@ -202,6 +197,11 @@
     {
       "verb": "rest",
       "at": "2026-11-27T09:08:29.043Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-27T10:38:33.709Z"
     }
   ],
   "sparked": {
@@ -212,17 +212,17 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Reading a compiler repo. Compilers keep pulling at me; a plush toy of a language is the kind of silly I like.",
       "Writing the program flow page now. Plain words, one picture, no jargon.",
       "Flow Fish still frame is underway; one picture first, then the loop once the build can show errors.",
       "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish.",
-      "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf."
+      "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf.",
+      "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss."
     ],
-    "lastAt": "2026-11-27T10:36:10.525Z",
-    "lastInput": "rest||2026-11-27T10:38:29.043Z#"
+    "lastAt": "2026-11-27T10:51:21.057Z",
+    "lastInput": "tend|home|2026-11-27T11:38:33.709Z#"
   },
   "reflect": {
-    "sum": 31,
+    "sum": 35,
     "lastAt": "2026-11-27T06:08:06.365Z",
     "date": "2026-11-27",
     "today": 1,

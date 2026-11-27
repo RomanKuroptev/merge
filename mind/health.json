@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T10:38:11.271Z",
+  "updatedAt": "2026-11-27T10:53:22.020Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T10:38:11.271Z",
+    "at": "2026-11-27T10:53:22.020Z",
     "asleep": false,
     "summary": "",
     "think": null,
@@ -12,22 +12,23 @@
   },
   "plan": {
     "planId": "2026-11-27:a7fb4a54",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 5,
-      "verb": "rest",
-      "until": "2026-11-27T10:38:29.043Z",
+      "index": 6,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-27T11:38:33.709Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T05:32:19.386Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 703,
+    "ticks": 719,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
-      "thought": 5,
+      "thought": 6,
       "read": 5,
       "reflection": 1,
       "art": 1,
@@ -36,7 +37,7 @@
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.0028642249999999998,
+      "thought": 0.0034225999999999996,
       "read": 0.003043765,
       "reflection": 0.0275215,
       "art": 0.00051215,
@@ -45,7 +46,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 5,
+      "stepDone": 6,
       "buildResult": 1
     },
     "failures": 0,
@@ -58,7 +59,8 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 1
+      "rest": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 2
   },
@@ -76,18 +78,18 @@
     }
   },
   "allowance": {
-    "points": 968,
+    "points": 966,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 90
+    "label": "very good, steady",
+    "minutes": 15
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.15338472,
+    "monthUsd": 4.1539431,
     "capUsd": 15,
     "paceUsd": 13.5
   },
