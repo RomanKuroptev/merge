@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-27T18:32:48.675Z",
+  "updatedAt": "2026-11-27T18:47:38.161Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T18:32:48.675Z",
+    "at": "2026-11-27T18:47:38.161Z",
     "asleep": false,
-    "summary": "step 4/4: rest, wandered from https://en.wikipedia.org/wiki/November_27",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -25,11 +23,11 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1191,
+    "ticks": 1206,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 1,
-      "thought": 14,
+      "thought": 15,
       "read": 8,
       "reflection": 2,
       "art": 1,
@@ -39,7 +37,7 @@
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.007603515,
+      "thought": 0.00818659,
       "read": 0.004532825,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
@@ -92,11 +90,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 473
+    "minutes": 488
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.23634154,
+    "monthUsd": 4.23692461,
     "capUsd": 15,
     "paceUsd": 13.5
   },
