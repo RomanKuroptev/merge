@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T13:43:55.823Z",
+  "appliedStepAt": "2026-11-27T13:45:36.860Z",
   "lastThinkAt": "2026-11-27T13:45:36.860Z",
   "allowance": {
-    "points": 932,
+    "points": 930,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,10 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-26T13:16:15.312Z"
-    },
-    {
       "verb": "write",
       "targetId": "Five Second Fish",
       "at": "2026-11-26T14:16:17.987Z"
@@ -201,6 +197,11 @@
     {
       "verb": "rest",
       "at": "2026-11-27T13:45:36.860Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-27T14:45:40.150Z"
     }
   ],
   "sparked": {
@@ -211,17 +212,17 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf.",
       "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss.",
       "Resting until 14:08; the Flow Fish still needs a loop check tomorrow before I touch the shelf.",
       "Reading a dweet for the flow fish; a visitor still hasn't tried any of my work, so I keep an eye out.",
-      "Flow Fish Loop is playable now, arrows and fish and all. Resting to let it settle before I look again."
+      "Flow Fish Loop is playable now, arrows and fish and all. Resting to let it settle before I look again.",
+      "Tending home to put the Flow Fish where a visitor can find it, with a plain press-an-arrow label. Nothing surprising."
     ],
-    "lastAt": "2026-11-27T14:44:06.904Z",
-    "lastInput": "rest||2026-11-27T14:45:36.860Z#"
+    "lastAt": "2026-11-27T14:54:16.495Z",
+    "lastInput": "tend|home|2026-11-27T15:45:40.150Z#"
   },
   "reflect": {
-    "sum": 0,
+    "sum": 4,
     "lastAt": "2026-11-27T13:48:22.978Z",
     "date": "2026-11-27",
     "today": 2,

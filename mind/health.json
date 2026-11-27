@@ -1,33 +1,34 @@
 {
-  "updatedAt": "2026-11-27T14:44:06.904Z",
+  "updatedAt": "2026-11-27T14:58:18.006Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T14:44:06.904Z",
+    "at": "2026-11-27T14:58:18.006Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "",
     "think": null,
     "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:ef9e0537",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-27T14:45:36.860Z",
+      "index": 3,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-27T15:45:40.150Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T13:08:46.661Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 953,
+    "ticks": 968,
     "decideCalls": 4,
     "callsByKind": {
       "morning": 1,
-      "thought": 9,
+      "thought": 10,
       "read": 7,
       "reflection": 2,
       "art": 1,
@@ -37,7 +38,7 @@
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.0051629250000000005,
+      "thought": 0.0057267,
       "read": 0.003580475,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
@@ -47,7 +48,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 10,
+      "stepDone": 11,
       "buildResult": 2,
       "replan": 1
     },
@@ -62,7 +63,7 @@
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
       "rest": 3,
-      "tend home": 1,
+      "tend home": 2,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 1
     },
@@ -82,18 +83,18 @@
     }
   },
   "allowance": {
-    "points": 932,
+    "points": 930,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 245
+    "minutes": 260
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.21672982,
+    "monthUsd": 4.2172936,
     "capUsd": 15,
     "paceUsd": 13.5
   },
