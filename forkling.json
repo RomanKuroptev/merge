@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    18.5,
+    5.5,
     0,
-    49.95
+    13.55
   ],
   "mood": 0.9,
   "energy": 0.35,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-27T08:32:37.267Z",
-    "seed": 1957976753,
-    "reason": "A second start from an esolang page I have not read lately, to compare how a tiny language moves control from one step to the next.",
-    "goalRef": "today:3"
+    "targetId": "desk",
+    "startedAt": "2026-11-27T08:44:20.310Z",
+    "seed": 1428078549,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-27T08:32:37.267Z",
+  "lastTickAt": "2026-11-27T08:44:56.363Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
