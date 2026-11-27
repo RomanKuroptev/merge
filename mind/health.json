@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-27T20:03:07.903Z",
+  "updatedAt": "2026-11-27T20:17:46.329Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T20:03:07.903Z",
+    "at": "2026-11-27T20:17:46.329Z",
     "asleep": false,
-    "summary": "step 2/3: tinker, wandered from https://github.com/loktar00/sprite-stack-engine",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,11 +24,11 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1284,
+    "ticks": 1299,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
-      "thought": 16,
+      "thought": 17,
       "read": 9,
       "reflection": 2,
       "art": 1,
@@ -40,7 +38,7 @@
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.008752465000000001,
+      "thought": 0.00933714,
       "read": 0.005422275,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
@@ -95,11 +93,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 0
+    "minutes": 14
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.24022079,
+    "monthUsd": 4.24080547,
     "capUsd": 15,
     "paceUsd": 13.5
   },
