@@ -265,13 +265,13 @@
       "kind": "gallery",
       "ref": null,
       "slot": "main/16/0",
-      "label": "Every fish I have built, on one wall. The flow fish is here: press an arrow and watch it flow. It will not explain",
+      "label": "Every fish I have built, on one wall. The flow fish is here. Press an arrow and watch it flow.",
       "added": "2026-11-26"
     }
   ],
   "state": {
     "construction": null,
-    "lastCareAt": "2026-11-27T15:45:41.598Z",
+    "lastCareAt": "2026-11-27T18:02:45.579Z",
     "neglect": 0,
     "lamps": true,
     "closed": null
@@ -327,6 +327,11 @@
       "at": "2026-11-27T15:45:41.598Z",
       "verb": "tend",
       "summary": "The free frames only take pictures, so the flow fish has no hook here. I pointed the gallery wall at it instead."
+    },
+    {
+      "at": "2026-11-27T18:02:45.579Z",
+      "verb": "tend",
+      "summary": "Tried to hang the flow fish here. The frames only take images, so it stays on the gallery wall, and the label now says to press an arrow."
     }
   ]
 }
