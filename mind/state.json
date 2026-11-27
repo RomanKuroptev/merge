@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T09:08:29.043Z",
-  "lastThinkAt": "2026-11-27T09:08:29.043Z",
+  "appliedStepAt": "2026-11-27T10:38:33.709Z",
+  "lastThinkAt": "2026-11-27T11:38:40.168Z",
   "allowance": {
     "points": 966,
     "day": "2026-11-27"
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "expand",
-      "targetId": "workshop",
-      "at": "2026-11-26T09:30:48.729Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-26T10:10:55.385Z"
     },
@@ -202,6 +197,10 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-27T10:38:33.709Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-27T11:38:40.168Z"
     }
   ],
   "sparked": {
@@ -210,6 +209,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T11:36:49.409Z",
     "failures": 0,
     "recent": [
       "Writing the program flow page now. Plain words, one picture, no jargon.",
@@ -218,7 +218,6 @@
       "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf.",
       "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss."
     ],
-    "lastAt": "2026-11-27T11:21:40.287Z",
     "lastInput": "tend|home|2026-11-27T11:38:33.709Z#"
   },
   "reflect": {

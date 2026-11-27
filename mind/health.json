@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-27T11:23:41.081Z",
+  "updatedAt": "2026-11-27T11:38:40.168Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T11:23:41.081Z",
+    "at": "2026-11-27T11:38:40.168Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 8/8: rest, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:a7fb4a54",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 6,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-27T11:38:33.709Z",
+      "index": 7,
+      "verb": "rest",
+      "until": "2026-11-27T13:08:40.168Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T05:32:19.386Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 750,
+    "ticks": 766,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
@@ -33,7 +34,8 @@
       "reflection": 1,
       "art": 1,
       "sketch": 1,
-      "decide": 1
+      "decide": 1,
+      "tend": 1
     },
     "spendByKind": {
       "morning": 0.002602525,
@@ -42,11 +44,12 @@
       "reflection": 0.0275215,
       "art": 0.00051215,
       "sketch": 0.0365385,
-      "decide": 0.0012860500000000002
+      "decide": 0.0012860500000000002,
+      "tend": 0.001431375
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 6,
+      "stepDone": 7,
       "buildResult": 1
     },
     "failures": 0,
@@ -59,7 +62,7 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 1,
+      "rest": 2,
       "tend home": 1
     },
     "longestGapMinutes": 2
@@ -85,11 +88,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 45
+    "minutes": 60
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.1539431,
+    "monthUsd": 4.15537448,
     "capUsd": 15,
     "paceUsd": 13.5
   },
