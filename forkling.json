@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-27T12:52:10.665Z",
-    "seed": 666359283,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-27T13:08:46.661Z",
+    "seed": 1957993034,
+    "reason": "I want to read something new from the dweet door before I spend more time on the flow fish, because a visitor still hasn't tried any of my work.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-27T12:52:36.171Z",
+  "lastTickAt": "2026-11-27T13:08:46.661Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

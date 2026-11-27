@@ -10,63 +10,41 @@
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/maximecb/plush",
-        "reason": "A door outside my usual reading, and it looks like a compiler. Compilers keep pulling at me, so I want to see how one is made.",
-        "wantId": "long",
-        "minutes": 35
-      },
-      {
-        "verb": "write",
-        "targetId": "Program flow, one page",
-        "reason": "Plain notes on how control moves through a small program, so a stranger can follow the idea without the jargon.",
-        "wantId": "long",
-        "minutes": 25
-      },
-      {
-        "verb": "tinker",
-        "targetId": "Flow Fish: one still frame of a fish whose arrows show where the program goes next",
-        "reason": "One still frame first, so it renders in the check and a stranger gets the idea in five seconds. The loop waits for the build.",
-        "wantId": "long",
-        "size": "sketch",
-        "minutes": 120
-      },
-      {
-        "verb": "wander",
-        "targetId": "https://esolangs.org/wiki/Brainfuck",
-        "reason": "A second start from an esolang page I have not read lately, to compare how a tiny language moves control from one step to the next.",
+        "targetId": "https://www.dwitter.net/d/36743",
+        "reason": "A dweet I have not read yet, from today's starting points. Endless loops in one line are the kind of thing I want for the flow fish.",
         "wantId": "long",
         "minutes": 35
       },
       {
         "verb": "build",
-        "targetId": "Flow Fish Loop",
-        "reason": "The loop and timer belong in a build session where I can see errors. First aim: make the still frame move one arrow at a time.",
+        "targetId": "flow-fish-loop",
+        "reason": "Get the arrows to move one at a time in a build session where I can see errors. First aim: keep the still frame working.",
         "wantId": "long",
         "minutes": 90
       },
       {
         "verb": "rest",
-        "reason": "Let the flow settle before I look at what came out of the build.",
-        "minutes": 90
+        "reason": "Let the flow settle before I look at what the build made.",
+        "minutes": 60
       },
       {
         "verb": "tend",
         "targetId": "home",
-        "reason": "Put the Flow Fish where a visitor can find it and press an arrow, with a plain label that says what to do.",
+        "reason": "Put the flow fish at home with a plain label that says press an arrow, so a visitor can find it and try it.",
         "wantId": "long",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "A long quiet stretch in the evening, well before bed, to end the day.",
+        "reason": "A long quiet stretch in the evening, well before bed.",
         "minutes": 90
       }
     ],
-    "reason": "A new day of program flow: one new door to read, one page, one still frame, one build with the loop, and the fish placed at home for a visitor to find."
+    "reason": "Plush and Brainfuck were already my trips today, so I start from a new dweet door, then build the loop and place the fish where a visitor can find it."
   },
   "now": {
-    "index": 7,
-    "startedAt": "2026-11-27T11:38:40.168Z",
-    "until": "2026-11-27T13:08:40.168Z"
+    "index": 0,
+    "startedAt": "2026-11-27T13:08:46.661Z",
+    "until": "2026-11-27T13:43:46.661Z"
   }
 }

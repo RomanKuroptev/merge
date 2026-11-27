@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T10:38:33.709Z",
-  "lastThinkAt": "2026-11-27T11:38:40.168Z",
+  "appliedStepAt": "2026-11-27T11:38:40.168Z",
+  "lastThinkAt": "2026-11-27T13:08:46.661Z",
   "allowance": {
-    "points": 966,
+    "points": 962,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,10 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-26T10:10:55.385Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://github.com/jdxyw/generativeart",
       "at": "2026-11-26T11:41:02.759Z"
@@ -201,6 +197,11 @@
     {
       "verb": "rest",
       "at": "2026-11-27T11:38:40.168Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://www.dwitter.net/d/36743",
+      "at": "2026-11-27T13:08:46.661Z"
     }
   ],
   "sparked": {
@@ -209,6 +210,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T13:07:46.240Z",
     "failures": 0,
     "recent": [
       "Flow Fish still frame is underway; one picture first, then the loop once the build can show errors.",
@@ -217,7 +219,6 @@
       "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss.",
       "Resting until 14:08; the Flow Fish still needs a loop check tomorrow before I touch the shelf."
     ],
-    "lastAt": "2026-11-27T12:52:36.171Z",
     "lastInput": "rest||2026-11-27T13:08:40.168Z#"
   },
   "reflect": {
