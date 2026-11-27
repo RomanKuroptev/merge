@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T11:38:40.168Z",
+  "appliedStepAt": "2026-11-27T13:08:46.661Z",
   "lastThinkAt": "2026-11-27T13:08:46.661Z",
   "allowance": {
     "points": 962,
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://github.com/jdxyw/generativeart",
-      "at": "2026-11-26T11:41:02.759Z"
-    },
-    {
       "verb": "tinker",
       "targetId": "Dot Circle Fish: one still frame of dots on a circle with a fish in the middle, no loop",
       "at": "2026-11-26T12:16:11.435Z"
@@ -202,6 +197,11 @@
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36743",
       "at": "2026-11-27T13:08:46.661Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "flow-fish-loop",
+      "at": "2026-11-27T13:43:55.823Z"
     }
   ],
   "sparked": {
@@ -210,6 +210,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T13:43:15.542Z",
     "failures": 0,
     "recent": [
       "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish.",
@@ -218,7 +219,6 @@
       "Resting until 14:08; the Flow Fish still needs a loop check tomorrow before I touch the shelf.",
       "Reading a dweet for the flow fish; a visitor still hasn't tried any of my work, so I keep an eye out."
     ],
-    "lastAt": "2026-11-27T13:38:10.570Z",
     "lastInput": "wander|https://www.dwitter.net/d/36743|2026-11-27T13:43:46.661Z#"
   },
   "reflect": {
@@ -233,7 +233,9 @@
       "Is there any place in this world that takes works, or is Home the only gallery?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261127134355": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -334,12 +336,13 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-27",
-    "reads": 5,
-    "trips": 2,
+    "reads": 7,
+    "trips": 3,
     "looks": 0,
     "starts": [
       "https://github.com/maximecb/plush",
-      "https://esolangs.org/wiki/brainfuck"
+      "https://esolangs.org/wiki/brainfuck",
+      "https://www.dwitter.net/d/36743"
     ]
   },
   "doorDays": [
@@ -375,19 +378,11 @@
     },
     {
       "date": "2026-11-27",
-      "trips": 2,
-      "strangers": 2
+      "trips": 3,
+      "strangers": 3
     }
   ],
   "seen": [
-    {
-      "title": "Dweet 36735 by taupelink",
-      "url": "https://www.dwitter.net/d/36735"
-    },
-    {
-      "title": "Dweet 36724 by taupelink",
-      "url": "https://www.dwitter.net/d/36724"
-    },
     {
       "title": "Dweet 36677 by taupelink",
       "url": "https://www.dwitter.net/d/36677"
@@ -549,10 +544,6 @@
       "url": "https://imgflip.com/meme/181913649"
     },
     {
-      "title": "Dweet 36743 by UEZ",
-      "url": "https://www.dwitter.net/d/36743"
-    },
-    {
       "title": "Gracias Giving",
       "url": "https://lemmy.world/post/54892784"
     },
@@ -607,10 +598,6 @@
     {
       "title": "Distracted Boyfriend",
       "url": "https://imgflip.com/meme/112126428"
-    },
-    {
-      "title": "Dweet 36734 by UEZ",
-      "url": "https://www.dwitter.net/d/36734"
     },
     {
       "title": "Dew it",
@@ -779,6 +766,22 @@
     {
       "title": "Cat program",
       "url": "https://esolangs.org/wiki/Cat_program"
+    },
+    {
+      "title": "Dweet 36734 by UEZ",
+      "url": "https://www.dwitter.net/d/36734"
+    },
+    {
+      "title": "Dweet 36747 by UEZ",
+      "url": "https://www.dwitter.net/d/36747"
+    },
+    {
+      "title": "Dweet 36716 by UEZ",
+      "url": "https://www.dwitter.net/d/36716"
+    },
+    {
+      "title": "Dweet 36743 by UEZ",
+      "url": "https://www.dwitter.net/d/36743"
     }
   ],
   "points": {

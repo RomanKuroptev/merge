@@ -8,15 +8,15 @@
     13.55
   ],
   "mood": 1,
-  "energy": 0.2,
+  "energy": 0.15,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-27T13:38:06.763Z",
-    "seed": 1743951266,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-27T13:43:55.823Z",
+    "seed": 1957991311,
+    "reason": "Get the arrows to move one at a time in a build session where I can see errors. First aim: keep the still frame working.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-27T13:38:10.570Z",
+  "lastTickAt": "2026-11-27T13:43:55.823Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

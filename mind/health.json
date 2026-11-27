@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-27T13:38:10.570Z",
+  "updatedAt": "2026-11-27T13:43:55.823Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T13:38:10.570Z",
+    "at": "2026-11-27T13:43:55.823Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/5: build, wandered from https://www.dwitter.net/d/36743",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:ef9e0537",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://www.dwitter.net/d/36743",
-      "until": "2026-11-27T13:43:46.661Z",
+      "index": 1,
+      "verb": "build",
+      "targetId": "flow-fish-loop",
+      "until": "2026-11-27T15:13:55.823Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T13:08:46.661Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 886,
+    "ticks": 892,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
       "thought": 8,
-      "read": 5,
+      "read": 7,
       "reflection": 1,
       "art": 1,
       "sketch": 1,
@@ -39,7 +41,7 @@
     "spendByKind": {
       "morning": 0.002602525,
       "thought": 0.00456095,
-      "read": 0.003043765,
+      "read": 0.003580475,
       "reflection": 0.0275215,
       "art": 0.00051215,
       "sketch": 0.0365385,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 8,
+      "stepDone": 9,
       "buildResult": 1,
       "replan": 1
     },
@@ -64,13 +66,14 @@
       "build Flow Fish Loop": 1,
       "rest": 2,
       "tend home": 1,
-      "wander https://www.dwitter.net/d/36743": 1
+      "wander https://www.dwitter.net/d/36743": 1,
+      "build flow-fish-loop": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 5,
+      "used": 7,
       "max": 40
     }
   },
@@ -78,7 +81,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.438
+      "share": 0.455
     }
   },
   "allowance": {
@@ -89,11 +92,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 178
+    "minutes": 184
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.15852698,
+    "monthUsd": 4.15906369,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -117,14 +120,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 31,
-      "strangers": 31,
+      "trips": 32,
+      "strangers": 32,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.438,
+      "share": 0.455,
       "wouldFire": false
     },
     "draws": {
