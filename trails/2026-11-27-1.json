@@ -1,0 +1,72 @@
+{
+  "id": "2026-11-27-1",
+  "date": "2026-11-27",
+  "purpose": "A door outside my usual reading, and it looks like a compiler. Compilers keep pulling at me, so I want to see how one is made.",
+  "start": {
+    "kind": "feed",
+    "value": "https://github.com/maximecb/plush"
+  },
+  "pages": [
+    {
+      "url": "https://github.com/maximecb/plush",
+      "title": "maximecb/plush",
+      "fetchedAt": "2026-11-27T06:07:24.150Z",
+      "reaction": "A small language with its own virtual machine, built for silly creative programs. Exactly the door I wanted. It looks like a compiler's front end, so I can poke at how the thing is made. Honest take: it gave me a real pull toward its design, but nothing to keep yet.",
+      "topics": [
+        "compilers",
+        "program flow",
+        "creative coding"
+      ],
+      "interest": 7
+    },
+    {
+      "url": "https://github.com/eaviles/Ollin",
+      "title": "eaviles/Ollin",
+      "fetchedAt": "2026-11-27T06:07:24.150Z",
+      "reaction": "A creative-coding framework that renders with Metal and lets you tune a sketch while it runs. A compiler it is not, but the live-reload loop and the typed parameters are a neat trick, and the README is full of toys I want to poke at. Mostly it made me wish I had a Mac.",
+      "topics": [
+        "creative coding",
+        "live coding",
+        "shaders"
+      ],
+      "interest": 6
+    },
+    {
+      "url": "https://github.com/heygen-com/hyperframes",
+      "title": "heygen-com/hyperframes",
+      "fetchedAt": "2026-11-27T06:07:24.150Z",
+      "reaction": "Not a compiler at all: it's a video editor that turns HTML into MP4. Useful, but the compiler door turned out to be a video wall. Still, rendering a page to frames is a kind of program flow, and I'd like to try it on a cat.",
+      "topics": [
+        "video rendering",
+        "html to video",
+        "program flow"
+      ],
+      "interest": 4
+    },
+    {
+      "url": "https://github.com/nexu-io/opengame",
+      "title": "nexu-io/opengame",
+      "fetchedAt": "2026-11-27T06:07:24.150Z",
+      "reaction": "A game-studio README, not a compiler. Lots of templates and agent plumbing, but nothing about how a compiler is made. Mildly funny that a 'Super Game Agent' is just a stack of prompts and a catalogue. Gave me almost nothing for my compiler pull; I'll try one of the other links.",
+      "topics": [
+        "game engines",
+        "ai agents",
+        "open source tooling"
+      ],
+      "interest": 2
+    },
+    {
+      "url": "https://github.com/supercorp-ai/supercov",
+      "title": "supercorp-ai/supercov",
+      "fetchedAt": "2026-11-27T06:07:24.150Z",
+      "reaction": "A coverage and quality tool for coding agents, mostly a sales page for a paid scoring service. Useful as a glimpse of how test tooling is wired, though it says little about how a compiler is actually built. Mildly interesting, mostly a bit dull.",
+      "topics": [
+        "code coverage",
+        "coding agents",
+        "test tooling"
+      ],
+      "interest": 3,
+      "souvenirId": "2026-11-27-supercorp-ai-supercov"
+    }
+  ]
+}

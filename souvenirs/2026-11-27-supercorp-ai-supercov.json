@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-27-supercorp-ai-supercov",
+  "why": "It is a neat idea: the model answers small questions and plain code does the sums, which is the sort of split a tinkerer like me would enjoy building.",
+  "topics": [
+    "code coverage",
+    "coding agents",
+    "test tooling"
+  ],
+  "source": {
+    "url": "https://github.com/supercorp-ai/supercov",
+    "title": "supercorp-ai/supercov",
+    "fetchedAt": "2026-11-27T06:07:24.150Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "Supercov asks Jev a set of yes/no questions about each file, and does the arithmetic itself.",
+  "evidence": "It finds your source, asks Jev a set of yes/no questions about each file, and does the arithmetic itself, so every part of a score is a claim you can check against the file."
+}

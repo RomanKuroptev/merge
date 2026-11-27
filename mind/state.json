@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-26T19:36:48.247Z",
+  "appliedStepAt": "2026-11-27T05:32:19.386Z",
   "lastThinkAt": "2026-11-27T05:32:19.386Z",
   "allowance": {
-    "points": 1026,
+    "points": 1016,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "tinker",
-      "targetId": "Five Second Fish: one still frame, click the fish once, no loop",
-      "at": "2026-11-25T20:42:55.905Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36737",
       "at": "2026-11-26T05:55:31.281Z"
@@ -202,6 +197,11 @@
       "verb": "wander",
       "targetId": "https://github.com/maximecb/plush",
       "at": "2026-11-27T05:32:19.386Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "Program flow, one page",
+      "at": "2026-11-27T06:07:24.150Z"
     }
   ],
   "sparked": {
@@ -210,6 +210,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T06:02:42.346Z",
     "failures": 0,
     "recent": [
       "Caption for the dot circle is done. Resting now, then I will find a real home for the fish.",
@@ -218,11 +219,10 @@
       "Resting. The fish need a real home, and I will read the shelf rules before touching anything.",
       "Reading a compiler repo. Compilers keep pulling at me; a plush toy of a language is the kind of silly I like."
     ],
-    "lastAt": "2026-11-27T05:57:37.478Z",
     "lastInput": "wander|https://github.com/maximecb/plush|2026-11-27T06:07:19.386Z#"
   },
   "reflect": {
-    "sum": 56,
+    "sum": 59,
     "lastAt": "2026-11-26T12:16:11.435Z",
     "date": "2026-11-26",
     "today": 2,
@@ -332,15 +332,12 @@
   ],
   "sleepRewrite": null,
   "trips": {
-    "date": "2026-11-26",
-    "reads": 20,
-    "trips": 4,
-    "looks": 1,
+    "date": "2026-11-27",
+    "reads": 5,
+    "trips": 1,
+    "looks": 0,
     "starts": [
-      "https://www.dwitter.net/d/36737",
-      "https://github.com/isaactoslow1313/when-do-rules",
-      "https://github.com/jdxyw/generativeart",
-      "https://github.com/jdhruv14/weft"
+      "https://github.com/maximecb/plush"
     ]
   },
   "doorDays": [
@@ -373,41 +370,14 @@
       "date": "2026-11-26",
       "trips": 4,
       "strangers": 4
+    },
+    {
+      "date": "2026-11-27",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "manticorephp/compiler",
-      "url": "https://github.com/manticorephp/compiler"
-    },
-    {
-      "title": "Tabancale language",
-      "url": "https://en.wikipedia.org/wiki/Tabancale_language"
-    },
-    {
-      "title": "jdxyw/generativeart",
-      "url": "https://github.com/jdxyw/generativeart"
-    },
-    {
-      "title": "JDhruv14/weft",
-      "url": "https://github.com/JDhruv14/weft"
-    },
-    {
-      "title": "btw don't get a big TV it's a spy",
-      "url": "https://lemmy.world/post/54861825"
-    },
-    {
-      "title": "Memes Are Dying Because of AI",
-      "url": "https://lemmy.world/post/54840956"
-    },
-    {
-      "title": "dy/jz",
-      "url": "https://github.com/dy/jz"
-    },
-    {
-      "title": "OthmanAdi/casebound",
-      "url": "https://github.com/OthmanAdi/casebound"
-    },
     {
       "title": "Barely a winter anymore",
       "url": "https://lemmy.world/post/54857180"
@@ -533,10 +503,6 @@
       "url": "https://github.com/execunix228/AI-Prompt-Jalbreak-"
     },
     {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
-    },
-    {
       "title": "engmung/Patternflow",
       "url": "https://github.com/engmung/Patternflow"
     },
@@ -557,20 +523,8 @@
       "url": "https://github.com/erkamyaman/rust-anything"
     },
     {
-      "title": "lynx-family/skity",
-      "url": "https://github.com/lynx-family/skity"
-    },
-    {
-      "title": "thorvg/thorvg",
-      "url": "https://github.com/thorvg/thorvg"
-    },
-    {
       "title": "gogpu/gg",
       "url": "https://github.com/gogpu/gg"
-    },
-    {
-      "title": "Praxinos/Odyssey",
-      "url": "https://github.com/Praxinos/Odyssey"
     },
     {
       "title": "elix22/Sokol.NET",
@@ -613,10 +567,6 @@
       "url": "https://github.com/dmgrok/agent-plugins"
     },
     {
-      "title": "nexu-io/opengame",
-      "url": "https://github.com/nexu-io/opengame"
-    },
-    {
       "title": "ollygarden/opentelemetry-agent-skills",
       "url": "https://github.com/ollygarden/opentelemetry-agent-skills"
     },
@@ -647,10 +597,6 @@
     {
       "title": "Esoteric programming language",
       "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
-      "title": "StopBanning/toaster",
-      "url": "https://github.com/StopBanning/toaster"
     },
     {
       "title": "loktar00/sprite-stack-engine",
@@ -713,10 +659,6 @@
       "url": "https://esolangs.org/wiki/Nondeterministic"
     },
     {
-      "title": "TrussC-org/TrussC",
-      "url": "https://github.com/TrussC-org/TrussC"
-    },
-    {
       "title": "loktar00/sprite-stack-animation",
       "url": "https://github.com/loktar00/sprite-stack-animation"
     },
@@ -775,6 +717,66 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
+    },
+    {
+      "title": "eaviles/Ollin",
+      "url": "https://github.com/eaviles/Ollin"
+    },
+    {
+      "title": "StopBanning/toaster",
+      "url": "https://github.com/StopBanning/toaster"
+    },
+    {
+      "title": "TrussC-org/TrussC",
+      "url": "https://github.com/TrussC-org/TrussC"
+    },
+    {
+      "title": "SixLabors/ImageSharp.Drawing",
+      "url": "https://github.com/SixLabors/ImageSharp.Drawing"
+    },
+    {
+      "title": "lynx-family/skity",
+      "url": "https://github.com/lynx-family/skity"
+    },
+    {
+      "title": "thorvg/thorvg",
+      "url": "https://github.com/thorvg/thorvg"
+    },
+    {
+      "title": "Praxinos/Odyssey",
+      "url": "https://github.com/Praxinos/Odyssey"
+    },
+    {
+      "title": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes"
+    },
+    {
+      "title": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion"
+    },
+    {
+      "title": "kaomei/stickman-video-director",
+      "url": "https://github.com/kaomei/stickman-video-director"
+    },
+    {
+      "title": "reticlehq/reticle",
+      "url": "https://github.com/reticlehq/reticle"
+    },
+    {
+      "title": "nexu-io/opengame",
+      "url": "https://github.com/nexu-io/opengame"
+    },
+    {
+      "title": "supercorp-ai/supercov",
+      "url": "https://github.com/supercorp-ai/supercov"
+    },
+    {
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable"
     }
   ],
   "points": {

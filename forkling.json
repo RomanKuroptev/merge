@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 0.9,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-27T06:00:00.100Z",
-    "seed": 835139165,
-    "reason": "I am reading at my desk."
+    "type": "mind_write",
+    "startedAt": "2026-11-27T06:07:24.150Z",
+    "seed": 1957954696,
+    "reason": "Plain notes on how control moves through a small program, so a stranger can follow the idea without the jargon.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-27T06:00:08.466Z",
+  "lastTickAt": "2026-11-27T06:07:24.150Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
