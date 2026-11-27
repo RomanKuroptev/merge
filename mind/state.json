@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T08:32:37.267Z",
-  "lastThinkAt": "2026-11-27T08:32:37.267Z",
+  "appliedStepAt": "2026-11-27T09:07:41.489Z",
+  "lastThinkAt": "2026-11-27T09:08:29.043Z",
   "allowance": {
-    "points": 989,
+    "points": 968,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "tend",
-      "targetId": "esolang-shelf",
-      "at": "2026-11-26T08:30:42.607Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://github.com/isaactoslow1313/when-do-rules",
       "at": "2026-11-26T09:00:43.214Z"
@@ -203,6 +198,10 @@
       "verb": "build",
       "targetId": "Flow Fish Loop",
       "at": "2026-11-27T09:07:41.489Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-27T09:08:29.043Z"
     }
   ],
   "sparked": {
@@ -211,19 +210,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-27T09:05:10.321Z",
     "failures": 0,
     "recent": [
-      "Resting. The fish need a real home, and I will read the shelf rules before touching anything.",
       "Reading a compiler repo. Compilers keep pulling at me; a plush toy of a language is the kind of silly I like.",
       "Writing the program flow page now. Plain words, one picture, no jargon.",
       "Flow Fish still frame is underway; one picture first, then the loop once the build can show errors.",
-      "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish."
+      "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish.",
+      "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf."
     ],
-    "lastInput": "wander|https://esolangs.org/wiki/Brainfuck|2026-11-27T09:07:37.267Z#"
+    "lastAt": "2026-11-27T09:20:22.204Z",
+    "lastInput": "rest||2026-11-27T10:38:29.043Z#"
   },
   "reflect": {
-    "sum": 15,
+    "sum": 31,
     "lastAt": "2026-11-27T06:08:06.365Z",
     "date": "2026-11-27",
     "today": 1,
@@ -234,9 +233,7 @@
       "Is there any place in this world that takes works, or is Home the only gallery?"
     ]
   },
-  "jobWants": {
-    "session-20261127090741": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -251,7 +248,8 @@
       "session-20261124211436",
       "session-20261125074428",
       "session-20261125184042",
-      "expand-20261126-1010"
+      "expand-20261126-1010",
+      "session-20261127090741"
     ],
     "pending": []
   },

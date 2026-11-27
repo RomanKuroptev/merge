@@ -1,52 +1,52 @@
 {
-  "updatedAt": "2026-11-27T09:07:41.489Z",
+  "updatedAt": "2026-11-27T09:22:23.178Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T09:07:41.489Z",
+    "at": "2026-11-27T09:22:23.178Z",
     "asleep": false,
-    "summary": "step 5/8: build, went back to https://esolangs.org/wiki/Brainfuck, read nothing new",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:a7fb4a54",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 4,
-      "verb": "build",
-      "targetId": "Flow Fish Loop",
-      "until": "2026-11-27T10:37:41.489Z",
+      "index": 5,
+      "verb": "rest",
+      "until": "2026-11-27T10:38:29.043Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T05:32:19.386Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 611,
-    "decideCalls": 1,
+    "ticks": 626,
+    "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
-      "thought": 4,
+      "thought": 5,
       "read": 5,
       "reflection": 1,
       "art": 1,
-      "sketch": 1
+      "sketch": 1,
+      "decide": 1
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.00226065,
+      "thought": 0.0028642249999999998,
       "read": 0.003043765,
       "reflection": 0.0275215,
       "art": 0.00051215,
-      "sketch": 0.0365385
+      "sketch": 0.0365385,
+      "decide": 0.0012860500000000002
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4
+      "stepDone": 5,
+      "buildResult": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -57,7 +57,8 @@
       "write Program flow, one page": 1,
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "build Flow Fish Loop": 1
+      "build Flow Fish Loop": 1,
+      "rest": 1
     },
     "longestGapMinutes": 2
   },
@@ -75,18 +76,18 @@
     }
   },
   "allowance": {
-    "points": 989,
+    "points": 968,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 0
+    "label": "very good, rested",
+    "minutes": 14
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.13071499,
+    "monthUsd": 4.15338472,
     "capUsd": 15,
     "paceUsd": 13.5
   },

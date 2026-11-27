@@ -1,0 +1,31 @@
+{
+  "id": "session-20261127090741",
+  "kind": "session",
+  "status": "done",
+  "title": "Flow Fish Loop",
+  "projectId": "flow-fish-loop",
+  "caption": "The still frame moves: a cat chases a fish head, one arrow at a time, on a timer. No errors.",
+  "calls": [
+    {
+      "at": "2026-11-27T09:07:56.028Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2628,
+      "output": 891,
+      "usd": 0.015488
+    },
+    {
+      "at": "2026-11-27T09:08:08.412Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2628,
+      "cacheWrite": 1225,
+      "output": 170,
+      "usd": 0.0052921
+    }
+  ],
+  "at": "2026-11-27T09:08:28.962Z"
+}

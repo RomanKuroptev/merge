@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    13.55
+    16
   ],
-  "mood": 0.9,
-  "energy": 0.3,
+  "mood": 1,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-27T09:07:41.489Z",
-    "seed": 1957974729,
-    "reason": "The loop and timer belong in a build session where I can see errors. First aim: make the still frame move one arrow at a time.",
-    "goalRef": "today:4"
+    "type": "mind_rest",
+    "targetId": "home",
+    "startedAt": "2026-11-27T09:19:34.900Z",
+    "seed": 1516689630,
+    "reason": "I am resting at home."
   },
-  "lastTickAt": "2026-11-27T09:07:41.489Z",
+  "lastTickAt": "2026-11-27T09:20:22.204Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
