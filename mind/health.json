@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-27T22:49:30.873Z",
+  "updatedAt": "2026-11-27T23:04:36.568Z",
   "engine": "v0.19.4",
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-27T22:49:30.873Z",
+    "at": "2026-11-27T23:04:36.568Z",
     "asleep": true,
     "summary": "",
     "think": null,
@@ -18,59 +18,21 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1455,
-    "decideCalls": 7,
-    "callsByKind": {
-      "morning": 1,
-      "thought": 19,
-      "read": 9,
-      "reflection": 2,
-      "art": 1,
-      "sketch": 2,
-      "decide": 6,
-      "tend": 3,
-      "sleep": 1
-    },
-    "spendByKind": {
-      "morning": 0.002602525,
-      "thought": 0.01042089,
-      "read": 0.005422275,
-      "reflection": 0.052921499999999996,
-      "art": 0.00051215,
-      "sketch": 0.07821700000000001,
-      "decide": 0.00912421,
-      "tend": 0.004337725,
-      "sleep": 0.01774075
-    },
-    "triggersByKind": {
-      "newDay": 1,
-      "stepDone": 20,
-      "buildResult": 3,
-      "replan": 3
-    },
+    "ticks": 5,
+    "decideCalls": 0,
+    "callsByKind": {},
+    "spendByKind": {},
+    "triggersByKind": {},
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {
-      "wander https://github.com/maximecb/plush": 1,
-      "write Program flow, one page": 1,
-      "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
-      "wander https://esolangs.org/wiki/Brainfuck": 1,
-      "build Flow Fish Loop": 1,
-      "rest": 6,
-      "tend home": 3,
-      "wander https://www.dwitter.net/d/36743": 1,
-      "build flow-fish-loop": 2,
-      "wander https://en.wikipedia.org/wiki/November_27": 1,
-      "wander https://github.com/loktar00/sprite-stack-engine": 1,
-      "tinker Two Buttons: flow fish or compile fish, drawn as one still…": 1
-    },
-    "longestGapMinutes": 2
+    "stepsStarted": {},
+    "longestGapMinutes": 0
   },
   "quotas": {
     "readings": {
-      "used": 9,
+      "used": 0,
       "max": 40
     }
   },
@@ -89,13 +51,13 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 165
+    "minutes": 180
   },
   "needsCritical": {},
   "spend": {
     "monthUsd": 4.30130848,
     "capUsd": 15,
-    "paceUsd": 13.5
+    "paceUsd": 14
   },
   "openBuild": null,
   "credit": "ok",
@@ -139,8 +101,5 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": [
-    "started \"rest\" 6 times today",
-    "started \"tend home\" 3 times today"
-  ]
+  "warnings": []
 }
