@@ -1,15 +1,22 @@
-<!doctype html><html><head><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; connect-src 'none'; form-action 'none'"><meta charset="utf-8"><style>body{margin:0;background:#112;color:#fc8;font:16px monospace;text-align:center}canvas{display:block;margin:0 auto}</style></head><body><canvas id="c" width="480" height="270"></canvas><div id="t">fish head loop: one arrow at a time</div><script>
+<!doctype html><html><head><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' data: blob:; connect-src 'none'; form-action 'none'"><meta charset="utf-8"><style>body{margin:0;background:#112;color:#fc8;font:16px monospace;text-align:center}canvas{display:block;margin:0 auto}</style></head><body><canvas id="c" width="480" height="270"></canvas><div id="t">press the arrow the screen asks for. one at a time. (or click the buttons below)</div>
+<div><button data-k="0">←</button> <button data-k="1">↑</button> <button data-k="2">↓</button> <button data-k="3">→</button></div><script>
 const c=document.getElementById('c'),x=c.getContext('2d');
-const steps=['→','↓','←','↑'];let i=0,fx=60,fy=60,eaten=0;
-const pos=[[60,60],[380,60],[380,190],[60,190]];
+const names=['ArrowLeft','ArrowUp','ArrowDown','ArrowRight'],sym=['←','↑','↓','→'];
+let want=3,eaten=0,fx=300,fy=150,cx=60,cy=150,msg='';
+const W=480,H=270;
 function fish(a,b){x.fillStyle='#6cf';x.beginPath();x.ellipse(a,b,28,14,0,0,7);x.fill();x.beginPath();x.moveTo(a+24,b);x.lineTo(a+44,b-14);x.lineTo(a+44,b+14);x.fill();x.fillStyle='#000';x.fillRect(a-16,b-5,5,5)}
 function cat(a,b){x.fillStyle='#fa4';x.fillRect(a-18,b-18,36,32);x.beginPath();x.moveTo(a-18,b-18);x.lineTo(a-18,b-34);x.lineTo(a-4,b-18);x.moveTo(a+18,b-18);x.lineTo(a+18,b-34);x.lineTo(a+4,b-18);x.fill();x.fillStyle='#000';x.fillRect(a-10,b-8,5,5);x.fillRect(a+5,b-8,5,5)}
-let cx=60,cy=150,tx=60,ty=150;
-function draw(){x.fillStyle='#112';x.fillRect(0,0,480,270);
-x.fillStyle='#fc8';x.font='28px monospace';x.fillText(steps[i]+'  eaten: '+eaten,170,40);
-const p=pos[i];fish(p[0]+40,p[1]+60);
-cx+=(tx-cx)*.15;cy+=(ty-cy)*.15;cat(cx,cy);
-requestAnimationFrame(draw)}
-setInterval(()=>{i=(i+1)%4;const p=pos[i];tx=p[0]+10;ty=p[1]+60;eaten++},1200);
+function press(k){
+ if(k===want){const d=[[-50,0],[0,-40],[0,40],[50,0]][k];tx=Math.max(30,Math.min(W-30,tx+d[0]));ty=Math.max(60,Math.min(H-30,ty+d[1]));msg='';
+  if(Math.abs(tx-fx)<30&&Math.abs(ty-fy)<30){eaten++;fx=70+Math.random()*340;fy=80+Math.random()*160;msg='crunch'}}
+ else msg='wrong arrow. cat is unimpressed.';
+ want=Math.floor(Math.random()*4)}
+let tx=60,ty=150;
+addEventListener('keydown',e=>{const k=names.indexOf(e.key);if(k>=0){e.preventDefault();press(k)}});
+document.querySelectorAll('button').forEach(b=>b.onclick=()=>press(+b.dataset.k));
+function draw(){x.fillStyle='#112';x.fillRect(0,0,W,H);
+x.fillStyle='#fc8';x.font='28px monospace';x.fillText(sym[want]+'  eaten: '+eaten,170,40);
+x.font='14px monospace';x.fillText(msg,170,60);
+fish(fx,fy);cx+=(tx-cx)*.2;cy+=(ty-cy)*.2;cat(cx,cy);requestAnimationFrame(draw)}
 draw();
 </script></body></html>
