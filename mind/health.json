@@ -1,57 +1,54 @@
 {
-  "updatedAt": "2026-11-27T13:43:55.823Z",
+  "updatedAt": "2026-11-27T13:58:34.795Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T13:43:55.823Z",
+    "at": "2026-11-27T13:58:34.795Z",
     "asleep": false,
-    "summary": "step 2/5: build, wandered from https://www.dwitter.net/d/36743",
+    "summary": "sync",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:ef9e0537",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "build",
-      "targetId": "flow-fish-loop",
-      "until": "2026-11-27T15:13:55.823Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-27T14:45:36.860Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T13:08:46.661Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 892,
-    "decideCalls": 3,
+    "ticks": 907,
+    "decideCalls": 4,
     "callsByKind": {
       "morning": 1,
-      "thought": 8,
+      "thought": 9,
       "read": 7,
-      "reflection": 1,
+      "reflection": 2,
       "art": 1,
       "sketch": 1,
-      "decide": 2,
+      "decide": 3,
       "tend": 1
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.00456095,
+      "thought": 0.0051629250000000005,
       "read": 0.003580475,
-      "reflection": 0.0275215,
+      "reflection": 0.052921499999999996,
       "art": 0.00051215,
       "sketch": 0.0365385,
-      "decide": 0.0033002000000000005,
+      "decide": 0.004493250000000001,
       "tend": 0.001431375
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 9,
-      "buildResult": 1,
+      "stepDone": 10,
+      "buildResult": 2,
       "replan": 1
     },
     "failures": 0,
@@ -64,7 +61,7 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 2,
+      "rest": 3,
       "tend home": 1,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 1
@@ -85,18 +82,18 @@
     }
   },
   "allowance": {
-    "points": 962,
+    "points": 932,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 184
+    "minutes": 199
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.15906369,
+    "monthUsd": 4.21672982,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -142,5 +139,7 @@
       "weekendRevisit": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "started \"rest\" 3 times today"
+  ]
 }

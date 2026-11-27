@@ -1,0 +1,41 @@
+{
+  "id": "session-20261127134355",
+  "kind": "session",
+  "status": "done",
+  "title": "Flow Fish Loop",
+  "projectId": "flow-fish-loop",
+  "caption": "Now playable: the screen demands one arrow, the cat steps, wrong arrows get judged, fish get eaten. Buttons too.",
+  "calls": [
+    {
+      "at": "2026-11-27T13:44:51.432Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2913,
+      "output": 49,
+      "usd": 0.0077805
+    },
+    {
+      "at": "2026-11-27T13:44:59.085Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2913,
+      "cacheWrite": 962,
+      "output": 1356,
+      "usd": 0.0165516
+    },
+    {
+      "at": "2026-11-27T13:45:21.917Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 3875,
+      "cacheWrite": 1688,
+      "output": 114,
+      "usd": 0.006139
+    }
+  ],
+  "at": "2026-11-27T13:45:36.840Z"
+}

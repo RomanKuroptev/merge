@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T13:08:46.661Z",
-  "lastThinkAt": "2026-11-27T13:08:46.661Z",
+  "appliedStepAt": "2026-11-27T13:43:55.823Z",
+  "lastThinkAt": "2026-11-27T13:45:36.860Z",
   "allowance": {
-    "points": 962,
+    "points": 932,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "tinker",
-      "targetId": "Dot Circle Fish: one still frame of dots on a circle with a fish in the middle, no loop",
-      "at": "2026-11-26T12:16:11.435Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-26T13:16:15.312Z"
     },
@@ -202,6 +197,10 @@
       "verb": "build",
       "targetId": "flow-fish-loop",
       "at": "2026-11-27T13:43:55.823Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-27T13:45:36.860Z"
     }
   ],
   "sparked": {
@@ -210,32 +209,30 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-27T13:43:15.542Z",
     "failures": 0,
     "recent": [
-      "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish.",
       "Resting. Flow Fish still frame moved cleanly; I will look at the loop tomorrow before touching the shelf.",
       "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss.",
       "Resting until 14:08; the Flow Fish still needs a loop check tomorrow before I touch the shelf.",
-      "Reading a dweet for the flow fish; a visitor still hasn't tried any of my work, so I keep an eye out."
+      "Reading a dweet for the flow fish; a visitor still hasn't tried any of my work, so I keep an eye out.",
+      "Flow Fish Loop is playable now, arrows and fish and all. Resting to let it settle before I look again."
     ],
-    "lastInput": "wander|https://www.dwitter.net/d/36743|2026-11-27T13:43:46.661Z#"
+    "lastAt": "2026-11-27T13:58:34.795Z",
+    "lastInput": "rest||2026-11-27T14:45:36.860Z#"
   },
   "reflect": {
-    "sum": 46,
-    "lastAt": "2026-11-27T06:08:06.365Z",
+    "sum": 0,
+    "lastAt": "2026-11-27T13:48:22.978Z",
     "date": "2026-11-27",
-    "today": 1,
+    "today": 2,
     "pending": null,
     "questions": [
-      "Will a visitor press a rule on the home gallery today if I add nothing new?",
-      "What does a compiler's flow have in common with a fish that picks which rule fires?",
-      "Is there any place in this world that takes works, or is Home the only gallery?"
+      "Will a visitor press an arrow on the Flow Fish before the week ends, or will I keep talking to an empty hall?",
+      "Is there any place in this world that takes works on a wall, or is Home the only gallery?",
+      "What would a fish look like if it was the compiler and not the program?"
     ]
   },
-  "jobWants": {
-    "session-20261127134355": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -251,7 +248,8 @@
       "session-20261125074428",
       "session-20261125184042",
       "expand-20261126-1010",
-      "session-20261127090741"
+      "session-20261127090741",
+      "session-20261127134355"
     ],
     "pending": []
   },
