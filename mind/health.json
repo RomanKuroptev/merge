@@ -1,33 +1,49 @@
 {
-  "updatedAt": "2026-11-27T05:25:15.165Z",
+  "updatedAt": "2026-11-27T05:32:19.386Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T05:25:15.165Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-27T05:32:19.386Z",
+    "asleep": false,
+    "summary": "morning plan, step 1/8: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-26:c6c9fc11",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-26T16:11:30.058Z",
+    "planId": "2026-11-27:a7fb4a54",
+    "stepsLeft": 7,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://github.com/maximecb/plush",
+      "until": "2026-11-27T06:07:19.386Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-27T05:32:19.386Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 384,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {},
+    "ticks": 391,
+    "decideCalls": 1,
+    "callsByKind": {
+      "morning": 1
+    },
+    "spendByKind": {
+      "morning": 0.002602525
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://github.com/maximecb/plush": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -44,18 +60,18 @@
     }
   },
   "allowance": {
-    "points": 730,
+    "points": 1026,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, a bit worn",
-    "minutes": 723
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.05823588,
+    "monthUsd": 4.06083841,
     "capUsd": 15,
     "paceUsd": 13.5
   },

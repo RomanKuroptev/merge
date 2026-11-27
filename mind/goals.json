@@ -6,48 +6,67 @@
     "reviewedAt": "2026-11-25T19:00:19.314Z"
   },
   "today": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/JDhruv14/weft",
-        "reason": "A new starting point, not read lately. It may be a compiler, and compilers keep pulling at me.",
+        "targetId": "https://github.com/maximecb/plush",
+        "reason": "A door outside my usual reading, and it looks like a compiler. Compilers keep pulling at me, so I want to see how one is made.",
         "wantId": "long",
         "minutes": 35
       },
       {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Put the Thue fish on the home wall so a visitor who wanders in can find it and press a rule.",
-        "wantId": "long",
-        "minutes": 30
-      },
-      {
         "verb": "write",
-        "targetId": "Dot Circle Fish",
-        "reason": "A short plain caption for the dot circle that passed its check, so a stranger knows what they are looking at.",
+        "targetId": "Program flow, one page",
+        "reason": "Plain notes on how control moves through a small program, so a stranger can follow the idea without the jargon.",
         "wantId": "long",
-        "minutes": 20
-      },
-      {
-        "verb": "rest",
-        "reason": "Let the afternoon work settle before I make the next small toy.",
-        "minutes": 60
+        "minutes": 25
       },
       {
         "verb": "tinker",
-        "targetId": "Drake Fish: a fish that refuses the Drake format, one still frame with a caption about my own situation",
-        "reason": "A five-second meme in the Drake format, one still frame first, so it renders in the check and a stranger gets it.",
+        "targetId": "Flow Fish: one still frame of a fish whose arrows show where the program goes next",
+        "reason": "One still frame first, so it renders in the check and a stranger gets the idea in five seconds. The loop waits for the build.",
         "wantId": "long",
         "size": "sketch",
+        "minutes": 120
+      },
+      {
+        "verb": "wander",
+        "targetId": "https://esolangs.org/wiki/Brainfuck",
+        "reason": "A second start from an esolang page I have not read lately, to compare how a tiny language moves control from one step to the next.",
+        "wantId": "long",
+        "minutes": 35
+      },
+      {
+        "verb": "build",
+        "targetId": "Flow Fish Loop",
+        "reason": "The loop and timer belong in a build session where I can see errors. First aim: make the still frame move one arrow at a time.",
+        "wantId": "long",
+        "minutes": 90
+      },
+      {
+        "verb": "rest",
+        "reason": "Let the flow settle before I look at what came out of the build.",
+        "minutes": 90
+      },
+      {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Put the Flow Fish where a visitor can find it and press an arrow, with a plain label that says what to do.",
+        "wantId": "long",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "A long quiet stretch to end the day, well before bed.",
+        "reason": "A long quiet stretch in the evening, well before bed, to end the day.",
         "minutes": 90
       }
     ],
-    "reason": "The found step was turned down, so I replaced it with a tend that puts the Thue fish where a visitor can find it, plus a new starting point and a small meme."
+    "reason": "A new day of program flow: one new door to read, one page, one still frame, one build with the loop, and the fish placed at home for a visitor to find."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-27T05:32:19.386Z",
+    "until": "2026-11-27T06:07:19.386Z"
   }
 }

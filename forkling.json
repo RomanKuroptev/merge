@@ -7,15 +7,16 @@
     0,
     13.55
   ],
-  "mood": 1,
-  "energy": -0.3,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-27T05:00:00.100Z",
-    "seed": 1401227257,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-27T05:32:19.386Z",
+    "seed": 1957957495,
+    "reason": "Today I want to follow program flow. I start with a trip from a door I have not read, maximecb/plush, which is a compiler-like project. A compiler is the pull I keep coming back to, and a door is a n…",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-27T05:00:07.535Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-27T05:32:19.386Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

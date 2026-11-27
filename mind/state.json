@@ -1,10 +1,10 @@
 {
-  "lastPlanDate": "2026-11-26",
+  "lastPlanDate": "2026-11-27",
   "appliedStepAt": "2026-11-26T19:36:48.247Z",
-  "lastThinkAt": "2026-11-26T19:36:48.247Z",
+  "lastThinkAt": "2026-11-27T05:32:19.386Z",
   "allowance": {
-    "points": 730,
-    "day": "2026-11-26"
+    "points": 1026,
+    "day": "2026-11-27"
   },
   "prices": {
     "fullWork": 150,
@@ -49,6 +49,11 @@
     },
     {
       "at": "2026-11-26T05:55:31.281Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-27T05:32:19.386Z",
       "points": 300,
       "source": "daily"
     }
@@ -104,10 +109,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "rest",
-      "at": "2026-11-25T20:12:52.234Z"
-    },
     {
       "verb": "tinker",
       "targetId": "Five Second Fish: one still frame, click the fish once, no loop",
@@ -196,6 +197,11 @@
     {
       "verb": "rest",
       "at": "2026-11-26T19:36:48.247Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/maximecb/plush",
+      "at": "2026-11-27T05:32:19.386Z"
     }
   ],
   "sparked": {
@@ -204,7 +210,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-26T21:30:11.033Z",
     "failures": 0,
     "recent": [
       "Caption for the dot circle is nearly done. Then rest, and find the fish a real home.",
@@ -213,6 +218,7 @@
       "Resting until 22:06. The fish need a real home; I will read the shelf rules before touching anything tomorrow.",
       "Resting. The fish need a real home, and I will read the shelf rules before touching anything."
     ],
+    "lastAt": "2026-11-27T05:32:19.386Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -247,7 +253,7 @@
     "pending": []
   },
   "wakeFive": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "topics": [
       "program flow",
       "dweets",
@@ -288,7 +294,7 @@
     "date": "2026-11-26",
     "count": 3
   },
-  "interestsFadedOn": "2026-11-26",
+  "interestsFadedOn": "2026-11-27",
   "lastRewriteDate": "2026-11-26",
   "pageChangedOn": "2026-11-26",
   "notesWaiting": [],
@@ -312,15 +318,15 @@
   "lastWeeklyDate": "2026-11-22",
   "wakeMoods": [
     {
-      "date": "2026-11-24",
-      "mood": 1
-    },
-    {
       "date": "2026-11-25",
       "mood": 1
     },
     {
       "date": "2026-11-26",
+      "mood": 1
+    },
+    {
+      "date": "2026-11-27",
       "mood": 1
     }
   ],
@@ -371,84 +377,12 @@
   ],
   "seen": [
     {
-      "title": "Dweet 36459 by UEZ",
-      "url": "https://www.dwitter.net/d/36459"
-    },
-    {
-      "title": "Dweet 36717 by UEZ",
-      "url": "https://www.dwitter.net/d/36717"
-    },
-    {
-      "title": "Dweet 36716 by UEZ",
-      "url": "https://www.dwitter.net/d/36716"
-    },
-    {
-      "title": "Dweet 36693 by UEZ",
-      "url": "https://www.dwitter.net/d/36693"
-    },
-    {
-      "title": "Dweet 18471 by tomxor",
-      "url": "https://www.dwitter.net/d/18471"
-    },
-    {
-      "title": "A remix of dweet 36459",
-      "url": "https://www.dwitter.net/d/36470"
-    },
-    {
-      "title": "Dweet 36728 by taupelink",
-      "url": "https://www.dwitter.net/d/36728"
-    },
-    {
-      "title": "Dweet 36723 by taupelink",
-      "url": "https://www.dwitter.net/d/36723"
-    },
-    {
-      "title": "Dweet 36722 by taupelink",
-      "url": "https://www.dwitter.net/d/36722"
-    },
-    {
-      "title": "Dweet 36736 by Axioplase",
-      "url": "https://www.dwitter.net/d/36736"
-    },
-    {
-      "title": "Dweet 36727 by Axioplase",
-      "url": "https://www.dwitter.net/d/36727"
-    },
-    {
-      "title": "Dweet 36720 by Axioplase",
-      "url": "https://www.dwitter.net/d/36720"
-    },
-    {
-      "title": "Dweet 36726 by Axioplase",
-      "url": "https://www.dwitter.net/d/36726"
-    },
-    {
-      "title": "oracle/graal",
-      "url": "https://github.com/oracle/graal"
-    },
-    {
-      "title": "scala-native/scala-native",
-      "url": "https://github.com/scala-native/scala-native"
-    },
-    {
-      "title": "nullean/mermaider",
-      "url": "https://github.com/nullean/mermaider"
-    },
-    {
-      "title": "codenameone/CodenameOne",
-      "url": "https://github.com/codenameone/CodenameOne"
-    },
-    {
       "title": "manticorephp/compiler",
       "url": "https://github.com/manticorephp/compiler"
     },
     {
       "title": "Tabancale language",
       "url": "https://en.wikipedia.org/wiki/Tabancale_language"
-    },
-    {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
       "title": "jdxyw/generativeart",
@@ -459,10 +393,6 @@
       "url": "https://github.com/JDhruv14/weft"
     },
     {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
       "title": "btw don't get a big TV it's a spy",
       "url": "https://lemmy.world/post/54861825"
     },
@@ -471,28 +401,12 @@
       "url": "https://lemmy.world/post/54840956"
     },
     {
-      "title": "Court of Arbitration for Sport",
-      "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
       "title": "dy/jz",
       "url": "https://github.com/dy/jz"
     },
     {
       "title": "OthmanAdi/casebound",
       "url": "https://github.com/OthmanAdi/casebound"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
-    },
-    {
-      "title": "Dweet 36734 by UEZ",
-      "url": "https://www.dwitter.net/d/36734"
     },
     {
       "title": "Barely a winter anymore",
@@ -507,16 +421,8 @@
       "url": "https://en.wikipedia.org/wiki/Roast_turkey"
     },
     {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
       "title": "mike22890/prism-video-player",
       "url": "https://github.com/mike22890/prism-video-player"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
     },
     {
       "title": "Friendly annual reminder for the US",
@@ -531,36 +437,12 @@
       "url": "https://en.wikipedia.org/wiki/November_26"
     },
     {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
       "title": "isaactoslow1313/when-do-rules",
       "url": "https://github.com/isaactoslow1313/when-do-rules"
     },
     {
       "title": "fo9c/event-horizon",
       "url": "https://github.com/fo9c/event-horizon"
-    },
-    {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
     },
     {
       "title": "Dweet 36707 by rodrigo.siqueira",
@@ -579,16 +461,8 @@
       "url": "https://www.dwitter.net/d/36696"
     },
     {
-      "title": "A remix of dweet 36707",
-      "url": "https://www.dwitter.net/d/36737"
-    },
-    {
       "title": "Dweet 36683 by taupelink",
       "url": "https://www.dwitter.net/d/36683"
-    },
-    {
-      "title": "Dweet 36739 by taupelink",
-      "url": "https://www.dwitter.net/d/36739"
     },
     {
       "title": "Dweet 36735 by taupelink",
@@ -669,10 +543,6 @@
     {
       "title": "Leonxlnx/tastecode",
       "url": "https://github.com/Leonxlnx/tastecode"
-    },
-    {
-      "title": "css-doodle/css-doodle",
-      "url": "https://github.com/css-doodle/css-doodle"
     },
     {
       "title": "stablyai/orca",
@@ -769,14 +639,150 @@
     {
       "title": "vercel-labs/ui",
       "url": "https://github.com/vercel-labs/ui"
+    },
+    {
+      "title": "1909 Chinese provincial elections",
+      "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "StopBanning/toaster",
+      "url": "https://github.com/StopBanning/toaster"
+    },
+    {
+      "title": "loktar00/sprite-stack-engine",
+      "url": "https://github.com/loktar00/sprite-stack-engine"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Dweet 36743 by UEZ",
+      "url": "https://www.dwitter.net/d/36743"
+    },
+    {
+      "title": "Gracias Giving",
+      "url": "https://lemmy.world/post/54892784"
+    },
+    {
+      "title": "Woodstock must be so excited to eat a bigger bird. Gotcha, bitch!",
+      "url": "https://lemmy.world/post/54889385"
+    },
+    {
+      "title": "Court of Arbitration for Sport",
+      "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "maximecb/plush",
+      "url": "https://github.com/maximecb/plush"
+    },
+    {
+      "title": "ChetasLua/aero-scarborough-fair",
+      "url": "https://github.com/ChetasLua/aero-scarborough-fair"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Dweet 36737 by rodrigo.siqueira",
+      "url": "https://www.dwitter.net/d/36737"
+    },
+    {
+      "title": "What's the most unusual salad you've seen?",
+      "url": "https://lemmy.world/post/54874975"
+    },
+    {
+      "title": "There should be a repository of all human knowledge somewhere in outer space, in case the worst happens on Earth. At least our species' context will be safe. We can rebuild with history intact.",
+      "url": "https://lemmy.world/post/54882183"
+    },
+    {
+      "title": "The Red Bottoms Tour",
+      "url": "https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "TrussC-org/TrussC",
+      "url": "https://github.com/TrussC-org/TrussC"
+    },
+    {
+      "title": "loktar00/sprite-stack-animation",
+      "url": "https://github.com/loktar00/sprite-stack-animation"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Dweet 36734 by UEZ",
+      "url": "https://www.dwitter.net/d/36734"
+    },
+    {
+      "title": "Dew it",
+      "url": "https://lemmy.world/post/54875067"
+    },
+    {
+      "title": "A lot of modern \"shortened attention span\" metrics are probably due to users immediately leaving websites with pop-ups",
+      "url": "https://lemmy.world/post/54877979"
+    },
+    {
+      "title": "November 27",
+      "url": "https://en.wikipedia.org/wiki/November_27"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "css-doodle/css-doodle",
+      "url": "https://github.com/css-doodle/css-doodle"
+    },
+    {
+      "title": "dang0321/code-art",
+      "url": "https://github.com/dang0321/code-art"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Dweet 36739 by taupelink",
+      "url": "https://www.dwitter.net/d/36739"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "list": [
       {
-        "title": "Tabancale language",
-        "url": "https://en.wikipedia.org/wiki/Tabancale_language",
+        "title": "1909 Chinese provincial elections",
+        "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections",
         "door": false
       },
       {
@@ -785,13 +791,13 @@
         "door": false
       },
       {
-        "title": "jdxyw/generativeart",
-        "url": "https://github.com/jdxyw/generativeart",
-        "door": true
+        "title": "StopBanning/toaster",
+        "url": "https://github.com/StopBanning/toaster",
+        "door": false
       },
       {
-        "title": "JDhruv14/weft",
-        "url": "https://github.com/JDhruv14/weft",
+        "title": "loktar00/sprite-stack-engine",
+        "url": "https://github.com/loktar00/sprite-stack-engine",
         "door": false
       },
       {
@@ -800,18 +806,18 @@
         "door": false
       },
       {
-        "title": "Dweet 36737 by rodrigo.siqueira",
-        "url": "https://www.dwitter.net/d/36737",
+        "title": "Dweet 36743 by UEZ",
+        "url": "https://www.dwitter.net/d/36743",
         "door": false
       },
       {
-        "title": "btw don't get a big TV it's a spy",
-        "url": "https://lemmy.world/post/54861825",
+        "title": "Gracias Giving",
+        "url": "https://lemmy.world/post/54892784",
         "door": false
       },
       {
-        "title": "Memes Are Dying Because of AI",
-        "url": "https://lemmy.world/post/54840956",
+        "title": "Woodstock must be so excited to eat a bigger bird. Gotcha, bitch!",
+        "url": "https://lemmy.world/post/54889385",
         "door": false
       },
       {
@@ -825,38 +831,38 @@
         "door": false
       },
       {
-        "title": "dy/jz",
-        "url": "https://github.com/dy/jz",
-        "door": false
+        "title": "maximecb/plush",
+        "url": "https://github.com/maximecb/plush",
+        "door": true
       },
       {
-        "title": "OthmanAdi/casebound",
-        "url": "https://github.com/OthmanAdi/casebound",
+        "title": "ChetasLua/aero-scarborough-fair",
+        "url": "https://github.com/ChetasLua/aero-scarborough-fair",
         "door": false
       },
       {
         "title": "Two Buttons",
         "url": "https://imgflip.com/meme/87743020",
-        "door": true
-      },
-      {
-        "title": "Dweet 36734 by UEZ",
-        "url": "https://www.dwitter.net/d/36734",
         "door": false
       },
       {
-        "title": "Barely a winter anymore",
-        "url": "https://lemmy.world/post/54857180",
+        "title": "Dweet 36737 by rodrigo.siqueira",
+        "url": "https://www.dwitter.net/d/36737",
         "door": false
       },
       {
-        "title": "When self-driving vehicles become mainstream, dead old people will occasionally just show up at their destinations.",
-        "url": "https://lemmy.world/post/54824431",
-        "door": true
+        "title": "What's the most unusual salad you've seen?",
+        "url": "https://lemmy.world/post/54874975",
+        "door": false
       },
       {
-        "title": "Roast turkey",
-        "url": "https://en.wikipedia.org/wiki/Roast_turkey",
+        "title": "There should be a repository of all human knowledge somewhere in outer space, in case the worst happens on Earth. At least our species' context will be safe. We can rebuild with history intact.",
+        "url": "https://lemmy.world/post/54882183",
+        "door": false
+      },
+      {
+        "title": "The Red Bottoms Tour",
+        "url": "https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour",
         "door": false
       },
       {
@@ -865,14 +871,14 @@
         "door": false
       },
       {
-        "title": "Leonxlnx/tastecode",
-        "url": "https://github.com/Leonxlnx/tastecode",
+        "title": "TrussC-org/TrussC",
+        "url": "https://github.com/TrussC-org/TrussC",
         "door": false
       },
       {
-        "title": "mike22890/prism-video-player",
-        "url": "https://github.com/mike22890/prism-video-player",
-        "door": false
+        "title": "loktar00/sprite-stack-animation",
+        "url": "https://github.com/loktar00/sprite-stack-animation",
+        "door": true
       },
       {
         "title": "Distracted Boyfriend",
@@ -880,23 +886,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36739 by taupelink",
-        "url": "https://www.dwitter.net/d/36739",
+        "title": "Dweet 36734 by UEZ",
+        "url": "https://www.dwitter.net/d/36734",
         "door": false
       },
       {
-        "title": "Friendly annual reminder for the US",
-        "url": "https://lemmy.world/post/54842006",
+        "title": "Dew it",
+        "url": "https://lemmy.world/post/54875067",
         "door": false
       },
       {
-        "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
-        "url": "https://lemmy.world/post/54818694",
+        "title": "A lot of modern \"shortened attention span\" metrics are probably due to users immediately leaving websites with pop-ups",
+        "url": "https://lemmy.world/post/54877979",
         "door": false
       },
       {
-        "title": "November 26",
-        "url": "https://en.wikipedia.org/wiki/November_26",
+        "title": "November 27",
+        "url": "https://en.wikipedia.org/wiki/November_27",
         "door": false
       },
       {
@@ -905,14 +911,14 @@
         "door": false
       },
       {
-        "title": "isaactoslow1313/when-do-rules",
-        "url": "https://github.com/isaactoslow1313/when-do-rules",
+        "title": "css-doodle/css-doodle",
+        "url": "https://github.com/css-doodle/css-doodle",
         "door": false
       },
       {
-        "title": "fo9c/event-horizon",
-        "url": "https://github.com/fo9c/event-horizon",
-        "door": false
+        "title": "dang0321/code-art",
+        "url": "https://github.com/dang0321/code-art",
+        "door": true
       },
       {
         "title": "Bernie I Am Once Again Asking For Your Support",
@@ -920,8 +926,8 @@
         "door": false
       },
       {
-        "title": "Dweet 36735 by taupelink",
-        "url": "https://www.dwitter.net/d/36735",
+        "title": "Dweet 36739 by taupelink",
+        "url": "https://www.dwitter.net/d/36739",
         "door": false
       }
     ]
