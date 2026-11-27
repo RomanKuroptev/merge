@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-27T15:43:48.582Z",
+  "updatedAt": "2026-11-27T15:45:41.598Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T15:43:48.582Z",
+    "at": "2026-11-27T15:45:41.598Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 5/5: rest, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:ef9e0537",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 3,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-27T15:45:40.150Z",
+      "index": 4,
+      "verb": "rest",
+      "until": "2026-11-27T17:15:41.598Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T13:08:46.661Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1015,
+    "ticks": 1017,
     "decideCalls": 4,
     "callsByKind": {
       "morning": 1,
@@ -34,7 +35,7 @@
       "art": 1,
       "sketch": 1,
       "decide": 3,
-      "tend": 1
+      "tend": 2
     },
     "spendByKind": {
       "morning": 0.002602525,
@@ -44,11 +45,11 @@
       "art": 0.00051215,
       "sketch": 0.0365385,
       "decide": 0.004493250000000001,
-      "tend": 0.001431375
+      "tend": 0.00276115
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 11,
+      "stepDone": 12,
       "buildResult": 2,
       "replan": 1
     },
@@ -62,7 +63,7 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 3,
+      "rest": 4,
       "tend home": 2,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 1
@@ -90,11 +91,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 305
+    "minutes": 307
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.2172936,
+    "monthUsd": 4.21862338,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -141,6 +142,6 @@
     }
   },
   "warnings": [
-    "started \"rest\" 3 times today"
+    "started \"rest\" 4 times today"
   ]
 }

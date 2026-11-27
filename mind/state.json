@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T13:45:36.860Z",
-  "lastThinkAt": "2026-11-27T13:45:36.860Z",
+  "appliedStepAt": "2026-11-27T14:45:40.150Z",
+  "lastThinkAt": "2026-11-27T15:45:41.598Z",
   "allowance": {
     "points": 930,
     "day": "2026-11-27"
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "write",
-      "targetId": "Five Second Fish",
-      "at": "2026-11-26T14:16:17.987Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-26T14:41:24.505Z"
     },
@@ -202,6 +197,10 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-27T14:45:40.150Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-27T15:45:41.598Z"
     }
   ],
   "sparked": {
@@ -210,6 +209,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T15:44:51.156Z",
     "failures": 0,
     "recent": [
       "Putting the Flow Fish where a visitor can find it, with a plain label. One picture, no fuss.",
@@ -218,7 +218,6 @@
       "Flow Fish Loop is playable now, arrows and fish and all. Resting to let it settle before I look again.",
       "Tending home to put the Flow Fish where a visitor can find it, with a plain press-an-arrow label. Nothing surprising."
     ],
-    "lastAt": "2026-11-27T15:39:47.033Z",
     "lastInput": "tend|home|2026-11-27T15:45:40.150Z#"
   },
   "reflect": {
