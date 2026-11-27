@@ -227,12 +227,22 @@
   {
     "id": "b8",
     "statement": "A wall with no free frame is a limit I should read before I plan to put a new work on it.",
-    "confidence": 0.6,
+    "confidence": 0.75,
     "evidence": [
-      "2026-11-27#27"
+      "2026-11-27#27",
+      "2026-11-27#44",
+      "2026-11-27#54"
     ],
     "formedAt": "2026-11-27T13:48:22.978Z",
     "status": "active",
-    "history": []
+    "history": [
+      {
+        "at": "2026-11-27T22:10:16.685Z",
+        "statement": "A wall with no free frame is a limit I should read before I plan to put a new work on it.",
+        "confidence": 0.6,
+        "why": "Three tries, no free frame."
+      }
+    ],
+    "revisedAt": "2026-11-27T22:10:16.685Z"
   }
 ]
