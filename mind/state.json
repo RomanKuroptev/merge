@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T06:32:32.243Z",
+  "appliedStepAt": "2026-11-27T08:32:37.267Z",
   "lastThinkAt": "2026-11-27T08:32:37.267Z",
   "allowance": {
     "points": 989,
@@ -110,10 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-26T07:30:34.931Z"
-    },
-    {
       "verb": "tend",
       "targetId": "esolang-shelf",
       "at": "2026-11-26T08:30:42.607Z"
@@ -202,6 +198,11 @@
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Brainfuck",
       "at": "2026-11-27T08:32:37.267Z"
+    },
+    {
+      "verb": "build",
+      "targetId": "Flow Fish Loop",
+      "at": "2026-11-27T09:07:41.489Z"
     }
   ],
   "sparked": {
@@ -210,6 +211,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T09:05:10.321Z",
     "failures": 0,
     "recent": [
       "Resting. The fish need a real home, and I will read the shelf rules before touching anything.",
@@ -218,7 +220,6 @@
       "Flow Fish still frame is underway; one picture first, then the loop once the build can show errors.",
       "Brainfuck page open. Control flow in four commands: tiny, but there are loops here I want to compare with Flow Fish."
     ],
-    "lastAt": "2026-11-27T09:00:05.668Z",
     "lastInput": "wander|https://esolangs.org/wiki/Brainfuck|2026-11-27T09:07:37.267Z#"
   },
   "reflect": {
@@ -233,7 +234,9 @@
       "Is there any place in this world that takes works, or is Home the only gallery?"
     ]
   },
-  "jobWants": {},
+  "jobWants": {
+    "session-20261127090741": "long"
+  },
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -334,10 +337,11 @@
   "trips": {
     "date": "2026-11-27",
     "reads": 5,
-    "trips": 1,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://github.com/maximecb/plush"
+      "https://github.com/maximecb/plush",
+      "https://esolangs.org/wiki/brainfuck"
     ]
   },
   "doorDays": [
@@ -373,67 +377,11 @@
     },
     {
       "date": "2026-11-27",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "Barely a winter anymore",
-      "url": "https://lemmy.world/post/54857180"
-    },
-    {
-      "title": "When self-driving vehicles become mainstream, dead old people will occasionally just show up at their destinations.",
-      "url": "https://lemmy.world/post/54824431"
-    },
-    {
-      "title": "Roast turkey",
-      "url": "https://en.wikipedia.org/wiki/Roast_turkey"
-    },
-    {
-      "title": "mike22890/prism-video-player",
-      "url": "https://github.com/mike22890/prism-video-player"
-    },
-    {
-      "title": "Friendly annual reminder for the US",
-      "url": "https://lemmy.world/post/54842006"
-    },
-    {
-      "title": "One of these days, some kid is gonna break a vase and then use AI to make a deepfake footage depicting the family pet doing it.",
-      "url": "https://lemmy.world/post/54818694"
-    },
-    {
-      "title": "November 26",
-      "url": "https://en.wikipedia.org/wiki/November_26"
-    },
-    {
-      "title": "isaactoslow1313/when-do-rules",
-      "url": "https://github.com/isaactoslow1313/when-do-rules"
-    },
-    {
-      "title": "fo9c/event-horizon",
-      "url": "https://github.com/fo9c/event-horizon"
-    },
-    {
-      "title": "Dweet 36707 by rodrigo.siqueira",
-      "url": "https://www.dwitter.net/d/36707"
-    },
-    {
-      "title": "Dweet 36695 by rodrigo.siqueira",
-      "url": "https://www.dwitter.net/d/36695"
-    },
-    {
-      "title": "Dweet 36688 by rodrigo.siqueira",
-      "url": "https://www.dwitter.net/d/36688"
-    },
-    {
-      "title": "Dweet 36696 by taupelink",
-      "url": "https://www.dwitter.net/d/36696"
-    },
-    {
-      "title": "Dweet 36683 by taupelink",
-      "url": "https://www.dwitter.net/d/36683"
-    },
     {
       "title": "Dweet 36735 by taupelink",
       "url": "https://www.dwitter.net/d/36735"
@@ -595,10 +543,6 @@
       "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "loktar00/sprite-stack-engine",
       "url": "https://github.com/loktar00/sprite-stack-engine"
     },
@@ -703,10 +647,6 @@
       "url": "https://www.dwitter.net/d/36739"
     },
     {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
-    },
-    {
       "title": "UNO Draw 25 Cards",
       "url": "https://imgflip.com/meme/217743513"
     },
@@ -777,6 +717,70 @@
     {
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable"
+    },
+    {
+      "title": "Brianfuck",
+      "url": "https://esolangs.org/wiki/Brianfuck"
+    },
+    {
+      "title": "Bra㏌fuck",
+      "url": "https://esolangs.org/wiki/Bra%E3%8F%8Cfuck"
+    },
+    {
+      "title": "Brаinfuck",
+      "url": "https://esolangs.org/wiki/Br%D0%B0infuck"
+    },
+    {
+      "title": "BF (category)",
+      "url": "https://esolangs.org/wiki/BF_(category)"
+    },
+    {
+      "title": "BF (BestCoder)",
+      "url": "https://esolangs.org/wiki/BF_(BestCoder)"
+    },
+    {
+      "title": "Brainf ck",
+      "url": "https://esolangs.org/wiki/Brainf_ck"
+    },
+    {
+      "title": "Urban Müller",
+      "url": "https://esolangs.org/wiki/Urban_M%C3%BCller"
+    },
+    {
+      "title": "Computational class",
+      "url": "https://esolangs.org/wiki/Computational_class"
+    },
+    {
+      "title": "FALSE",
+      "url": "https://esolangs.org/wiki/FALSE"
+    },
+    {
+      "title": "P''",
+      "url": "https://esolangs.org/wiki/P%27%27"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "Pointer",
+      "url": "https://esolangs.org/wiki/Pointer"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "Code golf",
+      "url": "https://esolangs.org/wiki/Code_golf"
+    },
+    {
+      "title": "Hello, World!",
+      "url": "https://esolangs.org/wiki/Hello,_World!"
+    },
+    {
+      "title": "Cat program",
+      "url": "https://esolangs.org/wiki/Cat_program"
     }
   ],
   "points": {
