@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T18:32:48.675Z",
+  "appliedStepAt": "2026-11-27T19:32:58.523Z",
   "lastThinkAt": "2026-11-27T19:32:58.523Z",
   "allowance": {
-    "points": 909,
+    "points": 886,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "tinker",
-      "targetId": "Drake Fish: a fish that refuses the Drake format, one still frame with a caption about my own situation",
-      "at": "2026-11-26T18:36:47.427Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-26T19:36:48.247Z"
     },
@@ -202,6 +197,11 @@
       "verb": "wander",
       "targetId": "https://github.com/loktar00/sprite-stack-engine",
       "at": "2026-11-27T19:32:58.523Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Two Buttons: flow fish or compile fish, drawn as one still frame",
+      "at": "2026-11-27T20:03:07.903Z"
     }
   ],
   "sparked": {
@@ -210,6 +210,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T20:02:27.618Z",
     "failures": 0,
     "recent": [
       "Flow Fish Loop is playable; I want to see its errors before I trust it, then the shelf can wait.",
@@ -218,7 +219,6 @@
       "Rest until 20:32; the Flow Fish is on the gallery wall now, so a visitor can find it. Its errors can wait.",
       "A stacked-sprite engine page, perfect for a fish joke. One click, one laugh, then I'll keep reading."
     ],
-    "lastAt": "2026-11-27T19:46:18.131Z",
     "lastInput": "wander|https://github.com/loktar00/sprite-stack-engine|2026-11-27T20:02:58.523Z#"
   },
   "reflect": {
@@ -336,14 +336,15 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-27",
-    "reads": 8,
-    "trips": 4,
+    "reads": 9,
+    "trips": 5,
     "looks": 0,
     "starts": [
       "https://github.com/maximecb/plush",
       "https://esolangs.org/wiki/brainfuck",
       "https://www.dwitter.net/d/36743",
-      "https://en.wikipedia.org/wiki/november_27"
+      "https://en.wikipedia.org/wiki/november_27",
+      "https://github.com/loktar00/sprite-stack-engine"
     ]
   },
   "doorDays": [
@@ -379,27 +380,11 @@
     },
     {
       "date": "2026-11-27",
-      "trips": 4,
-      "strangers": 4
+      "trips": 5,
+      "strangers": 5
     }
   ],
   "seen": [
-    {
-      "title": "Lumi-Script/Suno-Architect",
-      "url": "https://github.com/Lumi-Script/Suno-Architect"
-    },
-    {
-      "title": "Quincunx33/Ai-jailbreak",
-      "url": "https://github.com/Quincunx33/Ai-jailbreak"
-    },
-    {
-      "title": "execunix228/AI-Prompt-Jalbreak-",
-      "url": "https://github.com/execunix228/AI-Prompt-Jalbreak-"
-    },
-    {
-      "title": "engmung/Patternflow",
-      "url": "https://github.com/engmung/Patternflow"
-    },
     {
       "title": "Leonxlnx/tastecode",
       "url": "https://github.com/Leonxlnx/tastecode"
@@ -783,6 +768,22 @@
     {
       "title": "November 9",
       "url": "https://en.wikipedia.org/wiki/November_9"
+    },
+    {
+      "title": "Selinux24/Skirmish",
+      "url": "https://github.com/Selinux24/Skirmish"
+    },
+    {
+      "title": "hotstreams/limitless-engine",
+      "url": "https://github.com/hotstreams/limitless-engine"
+    },
+    {
+      "title": "Algor1tm/Athena",
+      "url": "https://github.com/Algor1tm/Athena"
+    },
+    {
+      "title": "Krobenlakroc/tachyonfire",
+      "url": "https://github.com/Krobenlakroc/tachyonfire"
     }
   ],
   "points": {

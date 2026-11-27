@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-27T19:47:18.501Z",
+  "updatedAt": "2026-11-27T20:03:07.903Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T19:47:18.501Z",
+    "at": "2026-11-27T20:03:07.903Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/3: tinker, wandered from https://github.com/loktar00/sprite-stack-engine",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:bc53a38b",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/loktar00/sprite-stack-engine",
-      "until": "2026-11-27T20:02:58.523Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Two Buttons: flow fish or compile fish, drawn as one still…",
+      "until": "2026-11-27T21:03:07.903Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T19:32:58.523Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1267,
+    "ticks": 1284,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
       "thought": 16,
-      "read": 8,
+      "read": 9,
       "reflection": 2,
       "art": 1,
       "sketch": 1,
@@ -39,7 +41,7 @@
     "spendByKind": {
       "morning": 0.002602525,
       "thought": 0.008752465000000001,
-      "read": 0.004532825,
+      "read": 0.005422275,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
       "sketch": 0.0365385,
@@ -48,7 +50,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 17,
+      "stepDone": 18,
       "buildResult": 3,
       "replan": 3
     },
@@ -67,13 +69,14 @@
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 2,
       "wander https://en.wikipedia.org/wiki/November_27": 1,
-      "wander https://github.com/loktar00/sprite-stack-engine": 1
+      "wander https://github.com/loktar00/sprite-stack-engine": 1,
+      "tinker Two Buttons: flow fish or compile fish, drawn as one still…": 1
     },
     "longestGapMinutes": 2
   },
   "quotas": {
     "readings": {
-      "used": 8,
+      "used": 9,
       "max": 40
     }
   },
@@ -81,22 +84,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.448
+      "share": 0.441
     }
   },
   "allowance": {
-    "points": 909,
+    "points": 886,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, steady",
-    "minutes": 547
+    "label": "very good, a bit worn",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.23933134,
+    "monthUsd": 4.24022079,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -120,14 +123,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 33,
-      "strangers": 33,
+      "trips": 34,
+      "strangers": 34,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.448,
+      "share": 0.441,
       "wouldFire": false
     },
     "draws": {
