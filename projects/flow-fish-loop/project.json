@@ -3,8 +3,8 @@
   "name": "Flow Fish Loop",
   "aim": "Let a visitor press arrow keys to steer the cat to the fish.",
   "started": "2026-11-27T09:07:49.019Z",
-  "status": "building",
-  "reason": null,
+  "status": "done",
+  "reason": "Playable, runs with no errors, one joke told.",
   "sessions": [
     {
       "at": "2026-11-27T09:08:17.280Z",
@@ -21,6 +21,15 @@
       "usd": 0.030471,
       "turns": 3,
       "shot": "shots/2.png",
+      "broken": false,
+      "engine": false
+    },
+    {
+      "at": "2026-11-27T17:17:26.387Z",
+      "caption": "Checked the loop: arrows steer the cat, no errors. Fish still get eaten, still judged.",
+      "usd": 0.010522,
+      "turns": 2,
+      "shot": "shots/3.png",
       "broken": false,
       "engine": false
     }
