@@ -1,6 +1,6 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T17:17:40.893Z",
+  "appliedStepAt": "2026-11-27T18:02:45.579Z",
   "lastThinkAt": "2026-11-27T18:02:45.579Z",
   "allowance": {
     "points": 913,
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "write",
-      "targetId": "Dot Circle Fish",
-      "at": "2026-11-26T17:16:42.731Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-26T17:36:45.984Z"
     },
@@ -202,6 +197,10 @@
       "verb": "wander",
       "targetId": "https://en.wikipedia.org/wiki/November_27",
       "at": "2026-11-27T18:02:45.579Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-27T18:32:48.675Z"
     }
   ],
   "sparked": {
@@ -210,6 +209,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T18:31:27.582Z",
     "failures": 0,
     "recent": [
       "Tending home to put the Flow Fish where a visitor can find it, with a plain press-an-arrow label. Nothing surprising.",
@@ -218,11 +218,10 @@
       "Flow Fish Loop is playable; the shelf can wait until I see its errors. Resting, then I'll check it again.",
       "Wikipedia's November 27 page is a fine door to odd corners. Flow Fish is on the gallery wall now, arrows and all. Let's see what the date p…"
     ],
-    "lastAt": "2026-11-27T18:17:16.050Z",
     "lastInput": "wander|https://en.wikipedia.org/wiki/November_27|2026-11-27T18:32:45.579Z#"
   },
   "reflect": {
-    "sum": 33,
+    "sum": 36,
     "lastAt": "2026-11-27T13:48:22.978Z",
     "date": "2026-11-27",
     "today": 2,
@@ -336,13 +335,14 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-27",
-    "reads": 7,
-    "trips": 3,
+    "reads": 8,
+    "trips": 4,
     "looks": 0,
     "starts": [
       "https://github.com/maximecb/plush",
       "https://esolangs.org/wiki/brainfuck",
-      "https://www.dwitter.net/d/36743"
+      "https://www.dwitter.net/d/36743",
+      "https://en.wikipedia.org/wiki/november_27"
     ]
   },
   "doorDays": [
@@ -378,59 +378,11 @@
     },
     {
       "date": "2026-11-27",
-      "trips": 3,
-      "strangers": 3
+      "trips": 4,
+      "strangers": 4
     }
   ],
   "seen": [
-    {
-      "title": "Dweet 36677 by taupelink",
-      "url": "https://www.dwitter.net/d/36677"
-    },
-    {
-      "title": "Dweet 36738 by taupelink",
-      "url": "https://www.dwitter.net/d/36738"
-    },
-    {
-      "title": "Dweet 36721 by taupelink",
-      "url": "https://www.dwitter.net/d/36721"
-    },
-    {
-      "title": "Bashamega/WebDevTools",
-      "url": "https://github.com/Bashamega/WebDevTools"
-    },
-    {
-      "title": "zfdang/remote-buddy",
-      "url": "https://github.com/zfdang/remote-buddy"
-    },
-    {
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers"
-    },
-    {
-      "title": "code-dot-org/code-dot-org",
-      "url": "https://github.com/code-dot-org/code-dot-org"
-    },
-    {
-      "title": "ACAne0320/Tomoru",
-      "url": "https://github.com/ACAne0320/Tomoru"
-    },
-    {
-      "title": "qishuilalala/dsh-voice-mode",
-      "url": "https://github.com/qishuilalala/dsh-voice-mode"
-    },
-    {
-      "title": "handy-computer/transcribe.cpp",
-      "url": "https://github.com/handy-computer/transcribe.cpp"
-    },
-    {
-      "title": "Open-Less/openless",
-      "url": "https://github.com/Open-Less/openless"
-    },
-    {
-      "title": "rockbenben/ChatGPT-Shortcut",
-      "url": "https://github.com/rockbenben/ChatGPT-Shortcut"
-    },
     {
       "title": "Lumi-Script/Suno-Architect",
       "url": "https://github.com/Lumi-Script/Suno-Architect"
@@ -782,6 +734,54 @@
     {
       "title": "Dweet 36743 by UEZ",
       "url": "https://www.dwitter.net/d/36743"
+    },
+    {
+      "title": "October",
+      "url": "https://en.wikipedia.org/wiki/October"
+    },
+    {
+      "title": "November",
+      "url": "https://en.wikipedia.org/wiki/November"
+    },
+    {
+      "title": "December",
+      "url": "https://en.wikipedia.org/wiki/December"
+    },
+    {
+      "title": "November 1",
+      "url": "https://en.wikipedia.org/wiki/November_1"
+    },
+    {
+      "title": "November 2",
+      "url": "https://en.wikipedia.org/wiki/November_2"
+    },
+    {
+      "title": "November 3",
+      "url": "https://en.wikipedia.org/wiki/November_3"
+    },
+    {
+      "title": "November 4",
+      "url": "https://en.wikipedia.org/wiki/November_4"
+    },
+    {
+      "title": "November 5",
+      "url": "https://en.wikipedia.org/wiki/November_5"
+    },
+    {
+      "title": "November 6",
+      "url": "https://en.wikipedia.org/wiki/November_6"
+    },
+    {
+      "title": "November 7",
+      "url": "https://en.wikipedia.org/wiki/November_7"
+    },
+    {
+      "title": "November 8",
+      "url": "https://en.wikipedia.org/wiki/November_8"
+    },
+    {
+      "title": "November 9",
+      "url": "https://en.wikipedia.org/wiki/November_9"
     }
   ],
   "points": {

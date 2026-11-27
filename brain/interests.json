@@ -1576,48 +1576,6 @@
         }
       ]
     },
-    "webassembly": {
-      "weight": 7.225,
-      "firstSeen": "2026-11-25T20:12:52.234Z",
-      "lastFed": "2026-11-25T20:12:52.234Z",
-      "sources": [
-        {
-          "id": "2026-11-25-dy-jz",
-          "title": "dy/jz",
-          "url": "https://github.com/dy/jz",
-          "at": "2026-11-25T20:12:52.234Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-25T20:12:52.234Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-25-6"
-        }
-      ]
-    },
-    "compiler design": {
-      "weight": 7.225,
-      "firstSeen": "2026-11-25T20:12:52.234Z",
-      "lastFed": "2026-11-25T20:12:52.234Z",
-      "sources": [
-        {
-          "id": "2026-11-25-dy-jz",
-          "title": "dy/jz",
-          "url": "https://github.com/dy/jz",
-          "at": "2026-11-25T20:12:52.234Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-25T20:12:52.234Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-25-6"
-        }
-      ]
-    },
     "compilers": {
       "weight": 21.34,
       "firstSeen": "2026-11-25T20:12:52.234Z",
@@ -1672,27 +1630,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-27-1"
-        }
-      ]
-    },
-    "scala native": {
-      "weight": 7.225,
-      "firstSeen": "2026-11-25T20:12:52.234Z",
-      "lastFed": "2026-11-25T20:12:52.234Z",
-      "sources": [
-        {
-          "id": "2026-11-25-scala-native-scala-native",
-          "title": "scala-native/scala-native",
-          "url": "https://github.com/scala-native/scala-native",
-          "at": "2026-11-25T20:12:52.234Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-25T20:12:52.234Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-25-6"
         }
       ]
     },
@@ -2008,6 +1945,69 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-27-1"
+        }
+      ]
+    },
+    "calendar dates": {
+      "weight": 10,
+      "firstSeen": "2026-11-27T18:32:48.675Z",
+      "lastFed": "2026-11-27T18:32:48.675Z",
+      "sources": [
+        {
+          "id": "2026-11-27-november-27",
+          "title": "November 27",
+          "url": "https://en.wikipedia.org/wiki/November_27",
+          "at": "2026-11-27T18:32:48.675Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-27T18:32:48.675Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-27-4"
+        }
+      ]
+    },
+    "history of firsts": {
+      "weight": 10,
+      "firstSeen": "2026-11-27T18:32:48.675Z",
+      "lastFed": "2026-11-27T18:32:48.675Z",
+      "sources": [
+        {
+          "id": "2026-11-27-november-27",
+          "title": "November 27",
+          "url": "https://en.wikipedia.org/wiki/November_27",
+          "at": "2026-11-27T18:32:48.675Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-27T18:32:48.675Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-27-4"
+        }
+      ]
+    },
+    "space exploration": {
+      "weight": 10,
+      "firstSeen": "2026-11-27T18:32:48.675Z",
+      "lastFed": "2026-11-27T18:32:48.675Z",
+      "sources": [
+        {
+          "id": "2026-11-27-november-27",
+          "title": "November 27",
+          "url": "https://en.wikipedia.org/wiki/November_27",
+          "at": "2026-11-27T18:32:48.675Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-27T18:32:48.675Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-27-4"
         }
       ]
     }

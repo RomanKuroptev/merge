@@ -1,35 +1,36 @@
 {
-  "updatedAt": "2026-11-27T18:17:16.050Z",
+  "updatedAt": "2026-11-27T18:32:48.675Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T18:17:16.050Z",
+    "at": "2026-11-27T18:32:48.675Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 4/4: rest, wandered from https://en.wikipedia.org/wiki/November_27",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:fd7636a0",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "wander",
-      "targetId": "https://en.wikipedia.org/wiki/November_27",
-      "until": "2026-11-27T18:32:45.579Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-27T19:32:48.675Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T17:15:44.636Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1174,
+    "ticks": 1191,
     "decideCalls": 6,
     "callsByKind": {
       "morning": 1,
       "thought": 14,
-      "read": 7,
+      "read": 8,
       "reflection": 2,
       "art": 1,
       "sketch": 1,
@@ -39,7 +40,7 @@
     "spendByKind": {
       "morning": 0.002602525,
       "thought": 0.007603515,
-      "read": 0.003580475,
+      "read": 0.004532825,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
       "sketch": 0.0365385,
@@ -48,7 +49,7 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 15,
+      "stepDone": 16,
       "buildResult": 3,
       "replan": 2
     },
@@ -62,7 +63,7 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 4,
+      "rest": 5,
       "tend home": 3,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 2,
@@ -72,7 +73,7 @@
   },
   "quotas": {
     "readings": {
-      "used": 7,
+      "used": 8,
       "max": 40
     }
   },
@@ -80,7 +81,7 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.455
+      "share": 0.448
     }
   },
   "allowance": {
@@ -91,11 +92,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 458
+    "minutes": 473
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.23538919,
+    "monthUsd": 4.23634154,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -119,14 +120,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 32,
-      "strangers": 32,
+      "trips": 33,
+      "strangers": 33,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.455,
+      "share": 0.448,
       "wouldFire": false
     },
     "draws": {
@@ -142,7 +143,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 4 times today",
+    "started \"rest\" 5 times today",
     "started \"tend home\" 3 times today"
   ]
 }
