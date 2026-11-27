@@ -1,54 +1,55 @@
 {
-  "updatedAt": "2026-11-27T20:48:07.453Z",
+  "updatedAt": "2026-11-27T21:03:16.349Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T20:48:07.453Z",
+    "at": "2026-11-27T21:03:16.349Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/3: rest, sketched \"Two Buttons: Flow or Compile\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:bc53a38b",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Two Buttons: flow fish or compile fish, drawn as one still…",
-      "until": "2026-11-27T21:03:07.903Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-27T21:43:16.349Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T19:32:58.523Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1330,
+    "ticks": 1346,
     "decideCalls": 7,
     "callsByKind": {
       "morning": 1,
-      "thought": 17,
+      "thought": 18,
       "read": 9,
       "reflection": 2,
       "art": 1,
-      "sketch": 1,
+      "sketch": 2,
       "decide": 6,
       "tend": 3
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.00933714,
+      "thought": 0.009881815,
       "read": 0.005422275,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
-      "sketch": 0.0365385,
+      "sketch": 0.07821700000000001,
       "decide": 0.00912421,
       "tend": 0.004337725
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 18,
+      "stepDone": 19,
       "buildResult": 3,
       "replan": 3
     },
@@ -62,7 +63,7 @@
       "tinker Flow Fish: one still frame of a fish whose arrows show wher…": 1,
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
-      "rest": 5,
+      "rest": 6,
       "tend home": 3,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 2,
@@ -93,11 +94,11 @@
   },
   "mood": {
     "label": "very good, a bit worn",
-    "minutes": 44
+    "minutes": 59
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.24080547,
+    "monthUsd": 4.28302865,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -105,10 +106,10 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 19,
+      "made": 20,
       "wouldFire": 1,
       "byKind": {
-        "meme": 6,
+        "meme": 7,
         "tool": 4,
         "art": 8,
         "game": 1
@@ -132,8 +133,8 @@
       "wouldFire": false
     },
     "draws": {
-      "collisionsUsed": 16,
-      "constraintsOffered": 19,
+      "collisionsUsed": 17,
+      "constraintsOffered": 20,
       "constraintsRefused": 0
     },
     "places": {
@@ -144,7 +145,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 5 times today",
+    "started \"rest\" 6 times today",
     "started \"tend home\" 3 times today"
   ]
 }
