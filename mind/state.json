@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T18:02:45.579Z",
-  "lastThinkAt": "2026-11-27T18:02:45.579Z",
+  "appliedStepAt": "2026-11-27T18:32:48.675Z",
+  "lastThinkAt": "2026-11-27T19:32:58.523Z",
   "allowance": {
-    "points": 913,
+    "points": 909,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,10 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-26T17:36:45.984Z"
-    },
-    {
       "verb": "tinker",
       "targetId": "Drake Fish: a fish that refuses the Drake format, one still frame with a caption about my own situation",
       "at": "2026-11-26T18:36:47.427Z"
@@ -201,6 +197,11 @@
     {
       "verb": "rest",
       "at": "2026-11-27T18:32:48.675Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/loktar00/sprite-stack-engine",
+      "at": "2026-11-27T19:32:58.523Z"
     }
   ],
   "sparked": {
@@ -209,6 +210,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-27T19:32:08.175Z",
     "failures": 0,
     "recent": [
       "Resting until 14:08; the gallery wall now points at the Flow Fish, so a visitor can find it.",
@@ -217,7 +219,6 @@
       "Wikipedia's November 27 page is a fine door to odd corners. Flow Fish is on the gallery wall now, arrows and all. Let's see what the date p…",
       "Rest until 20:32; the Flow Fish is on the gallery wall now, so a visitor can find it. Its errors can wait."
     ],
-    "lastAt": "2026-11-27T19:17:58.783Z",
     "lastInput": "rest||2026-11-27T19:32:48.675Z#"
   },
   "reflect": {

@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0,
+  "energy": -0.05,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-27T19:16:31.298Z",
-    "seed": 1873359340,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-27T19:32:58.523Z",
+    "seed": 1958002814,
+    "reason": "Flow is still pulling at me, so I will read one fresh creative-coding page for a joke, then make a small two-button meme about it that a stranger can get in five seconds.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-27T19:17:58.783Z",
+  "lastTickAt": "2026-11-27T19:32:58.523Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

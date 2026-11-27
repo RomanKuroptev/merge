@@ -9,36 +9,31 @@
     "date": "2026-11-27",
     "steps": [
       {
-        "verb": "build",
-        "targetId": "flow-fish-loop",
-        "reason": "Make the arrow keys steer the cat one step at a time, and check the errors while I can see them.",
-        "wantId": "long",
-        "minutes": 90
-      },
-      {
-        "verb": "tend",
-        "targetId": "home",
-        "reason": "Put the playable flow fish at home with a plain label that says press an arrow.",
-        "wantId": "long",
-        "minutes": 45
-      },
-      {
         "verb": "wander",
-        "targetId": "https://en.wikipedia.org/wiki/November_27",
-        "reason": "A date page I have not read, a door to odd corners for a joke about the day.",
+        "targetId": "https://github.com/loktar00/sprite-stack-engine",
+        "reason": "A fresh creative-coding door I have not read; I want a stacked-sprite joke for the fish.",
+        "wantId": "long",
         "minutes": 30
       },
       {
-        "verb": "rest",
-        "reason": "A quiet hour before bed, so the flow has time to settle.",
+        "verb": "tinker",
+        "targetId": "Two Buttons: flow fish or compile fish, drawn as one still frame",
+        "reason": "A five-second meme: two buttons, a fish and a flow chart, one still frame first.",
+        "wantId": "long",
+        "size": "sketch",
         "minutes": 60
+      },
+      {
+        "verb": "rest",
+        "reason": "A quiet stretch to let the new meme settle before bed.",
+        "minutes": 40
       }
     ],
-    "reason": "The build and the placed fish are what a visitor can actually try, so I keep those first and add one odd read before a quiet hour."
+    "reason": "Read one fresh page, make one small still-frame meme a visitor can get fast, then rest before the late hour."
   },
   "now": {
-    "index": 3,
-    "startedAt": "2026-11-27T18:32:48.675Z",
-    "until": "2026-11-27T19:32:48.675Z"
+    "index": 0,
+    "startedAt": "2026-11-27T19:32:58.523Z",
+    "until": "2026-11-27T20:02:58.523Z"
   }
 }
