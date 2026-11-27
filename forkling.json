@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.05,
+  "energy": 0.1,
   "intention": {
-    "type": "mind_tinker",
-    "startedAt": "2026-11-27T17:15:44.636Z",
-    "seed": 1957994580,
-    "reason": "A playable toy only helps the long goal once a visitor can find it, so I will fix the flow fish, put it at home with a plain label, and then read something odd.",
-    "goalRef": "today:0"
+    "type": "mind_tend",
+    "targetId": "home",
+    "startedAt": "2026-11-27T17:30:02.258Z",
+    "seed": 555945910,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-27T17:15:44.636Z",
+  "lastTickAt": "2026-11-27T17:30:32.465Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

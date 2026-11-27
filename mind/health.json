@@ -1,58 +1,55 @@
 {
-  "updatedAt": "2026-11-27T17:15:44.636Z",
+  "updatedAt": "2026-11-27T17:30:32.465Z",
   "engine": "v0.19.4",
   "date": "2026-11-27",
   "lastTick": {
-    "at": "2026-11-27T17:15:44.636Z",
+    "at": "2026-11-27T17:30:32.465Z",
     "asleep": false,
-    "summary": "thought about replan, step 1/4: build, new plan",
-    "think": "decide",
-    "triggers": [
-      "replan",
-      "stepDone"
-    ],
+    "summary": "sync",
+    "think": null,
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-27:fd7636a0",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "build",
-      "targetId": "flow-fish-loop",
-      "until": "2026-11-27T18:45:44.636Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-27T18:02:40.893Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-27T17:15:44.636Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 1109,
-    "decideCalls": 5,
+    "ticks": 1126,
+    "decideCalls": 6,
     "callsByKind": {
       "morning": 1,
-      "thought": 11,
+      "thought": 13,
       "read": 7,
       "reflection": 2,
       "art": 1,
       "sketch": 1,
-      "decide": 4,
+      "decide": 5,
       "tend": 2
     },
     "spendByKind": {
       "morning": 0.002602525,
-      "thought": 0.006298075,
+      "thought": 0.00701614,
       "read": 0.003580475,
       "reflection": 0.052921499999999996,
       "art": 0.00051215,
       "sketch": 0.0365385,
-      "decide": 0.006304500000000001,
+      "decide": 0.007283360000000001,
       "tend": 0.00276115
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 13,
-      "buildResult": 2,
+      "stepDone": 14,
+      "buildResult": 3,
       "replan": 2
     },
     "failures": 0,
@@ -66,7 +63,7 @@
       "wander https://esolangs.org/wiki/Brainfuck": 1,
       "build Flow Fish Loop": 1,
       "rest": 4,
-      "tend home": 2,
+      "tend home": 3,
       "wander https://www.dwitter.net/d/36743": 1,
       "build flow-fish-loop": 2
     },
@@ -86,18 +83,18 @@
     }
   },
   "allowance": {
-    "points": 930,
+    "points": 917,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 396
+    "minutes": 412
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.22100601,
+    "monthUsd": 4.23322523,
     "capUsd": 15,
     "paceUsd": 13.5
   },
@@ -144,6 +141,7 @@
     }
   },
   "warnings": [
-    "started \"rest\" 4 times today"
+    "started \"rest\" 4 times today",
+    "started \"tend home\" 3 times today"
   ]
 }

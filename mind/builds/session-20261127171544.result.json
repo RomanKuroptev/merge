@@ -1,0 +1,31 @@
+{
+  "id": "session-20261127171544",
+  "kind": "session",
+  "status": "done",
+  "title": "Flow Fish Loop",
+  "projectId": "flow-fish-loop",
+  "caption": "Checked the loop: arrows steer the cat, no errors. Fish still get eaten, still judged.",
+  "calls": [
+    {
+      "at": "2026-11-27T17:16:53.798Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 4,
+      "cacheRead": 0,
+      "cacheWrite": 2964,
+      "output": 24,
+      "usd": 0.007658
+    },
+    {
+      "at": "2026-11-27T17:17:16.685Z",
+      "kind": "session",
+      "model": "claude-sonnet-5-5",
+      "input": 2,
+      "cacheRead": 2964,
+      "cacheWrite": 303,
+      "output": 151,
+      "usd": 0.0028643
+    }
+  ],
+  "at": "2026-11-27T17:17:33.097Z"
+}

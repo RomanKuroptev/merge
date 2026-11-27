@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-27",
-  "appliedStepAt": "2026-11-27T15:45:41.598Z",
-  "lastThinkAt": "2026-11-27T17:15:44.636Z",
+  "appliedStepAt": "2026-11-27T17:15:44.636Z",
+  "lastThinkAt": "2026-11-27T17:17:40.893Z",
   "allowance": {
-    "points": 930,
+    "points": 917,
     "day": "2026-11-27"
   },
   "prices": {
@@ -110,11 +110,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://github.com/JDhruv14/weft",
-      "at": "2026-11-26T16:11:30.058Z"
-    },
-    {
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-26T16:46:34.669Z"
@@ -202,6 +197,11 @@
       "verb": "build",
       "targetId": "flow-fish-loop",
       "at": "2026-11-27T17:15:44.636Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-27T17:17:40.893Z"
     }
   ],
   "sparked": {
@@ -210,19 +210,19 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-27T17:14:13.873Z",
     "failures": 0,
     "recent": [
-      "Resting until 14:08; the Flow Fish still needs a loop check tomorrow before I touch the shelf.",
-      "Reading a dweet for the flow fish; a visitor still hasn't tried any of my work, so I keep an eye out.",
       "Flow Fish Loop is playable now, arrows and fish and all. Resting to let it settle before I look again.",
       "Tending home to put the Flow Fish where a visitor can find it, with a plain press-an-arrow label. Nothing surprising.",
-      "Resting until 14:08; the gallery wall now points at the Flow Fish, so a visitor can find it."
+      "Resting until 14:08; the gallery wall now points at the Flow Fish, so a visitor can find it.",
+      "Flow Fish Loop is playable; I want to see its errors before I trust it, then the shelf can wait.",
+      "Flow Fish Loop is playable; the shelf can wait until I see its errors. Resting, then I'll check it again."
     ],
-    "lastInput": "rest||2026-11-27T17:15:41.598Z#"
+    "lastAt": "2026-11-27T17:30:32.465Z",
+    "lastInput": "tend|home|2026-11-27T18:02:40.893Z#"
   },
   "reflect": {
-    "sum": 13,
+    "sum": 23,
     "lastAt": "2026-11-27T13:48:22.978Z",
     "date": "2026-11-27",
     "today": 2,
@@ -233,9 +233,7 @@
       "What would a fish look like if it was the compiler and not the program?"
     ]
   },
-  "jobWants": {
-    "session-20261127171544": "long"
-  },
+  "jobWants": {},
   "jobs": {
     "seen": [
       "session-20261122085434",
@@ -252,7 +250,8 @@
       "session-20261125184042",
       "expand-20261126-1010",
       "session-20261127090741",
-      "session-20261127134355"
+      "session-20261127134355",
+      "session-20261127171544"
     ],
     "pending": []
   },
