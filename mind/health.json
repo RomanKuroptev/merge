@@ -1,54 +1,60 @@
 {
-  "updatedAt": "2026-11-28T07:19:21.919Z",
+  "updatedAt": "2026-11-28T07:35:11.587Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T07:19:21.919Z",
+    "at": "2026-11-28T07:35:11.587Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 2/5: tinker, wandered from https://github.com/engmung/Patternflow",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-28:891770da",
-    "stepsLeft": 4,
+    "stepsLeft": 3,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/engmung/Patternflow",
-      "until": "2026-11-28T07:35:06.731Z",
+      "index": 1,
+      "verb": "tinker",
+      "targetId": "Flow Map Still: boxes and arrows, one cat sitting at the on…",
+      "until": "2026-11-28T08:35:11.587Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-28T07:05:06.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 497,
+    "ticks": 514,
     "decideCalls": 1,
     "callsByKind": {
       "morning": 1,
-      "thought": 1
+      "thought": 1,
+      "read": 2
     },
     "spendByKind": {
       "morning": 0.00221295,
-      "thought": 0.0005456749999999999
+      "thought": 0.0005456749999999999,
+      "read": 0.0012031099999999999
     },
     "triggersByKind": {
-      "newDay": 1
+      "newDay": 1,
+      "stepDone": 1
     },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
     "stepsStarted": {
-      "wander https://github.com/engmung/Patternflow": 1
+      "wander https://github.com/engmung/Patternflow": 1,
+      "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 0,
+      "used": 2,
       "max": 40
     }
   },
@@ -56,22 +62,22 @@
     "pausedHosts": {},
     "topHost": {
       "host": "www.dwitter.net",
-      "share": 0.441
+      "share": 0.429
     }
   },
   "allowance": {
-    "points": 1182,
+    "points": 1159,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 14
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.3040671,
+    "monthUsd": 4.30527021,
     "capUsd": 15,
     "paceUsd": 14
   },
@@ -95,14 +101,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 34,
-      "strangers": 34,
+      "trips": 31,
+      "strangers": 31,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
       "host": "www.dwitter.net",
-      "share": 0.441,
+      "share": 0.429,
       "wouldFire": false
     },
     "draws": {

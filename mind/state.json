@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-27T21:03:16.349Z",
+  "appliedStepAt": "2026-11-28T07:05:06.731Z",
   "lastThinkAt": "2026-11-28T07:05:06.731Z",
   "allowance": {
-    "points": 1182,
+    "points": 1159,
     "day": "2026-11-28"
   },
   "prices": {
@@ -119,11 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "write",
-      "targetId": "Program flow, one page",
-      "at": "2026-11-27T06:07:24.150Z"
-    },
-    {
       "verb": "tinker",
       "targetId": "Flow Fish: one still frame of a fish whose arrows show where the program goes next",
       "at": "2026-11-27T06:32:32.243Z"
@@ -211,14 +206,23 @@
       "verb": "wander",
       "targetId": "https://github.com/engmung/Patternflow",
       "at": "2026-11-28T07:05:06.731Z"
+    },
+    {
+      "verb": "tinker",
+      "targetId": "Flow Map Still: boxes and arrows, one cat sitting at the one loop, drawn as one still frame",
+      "at": "2026-11-28T07:35:11.587Z"
     }
   ],
   "sparked": {
-    "date": "2026-11-26",
-    "count": 1,
-    "pending": null
+    "date": "2026-11-28",
+    "count": 0,
+    "pending": {
+      "topic": "creative coding",
+      "gain": 17.549999999999997
+    }
   },
   "thought": {
+    "lastAt": "2026-11-28T07:30:29.723Z",
     "failures": 0,
     "recent": [
       "A stacked-sprite engine page, perfect for a fish joke. One click, one laugh, then I'll keep reading.",
@@ -227,11 +231,10 @@
       "Nothing new yet. The Flow Fish is on the gallery wall; I'll rest and see who comes by.",
       "Pattern flow: a stacked-sprite engine page, a fish joke waiting to be read. Reading it now."
     ],
-    "lastAt": "2026-11-28T07:15:19.907Z",
     "lastInput": "wander|https://github.com/engmung/Patternflow|2026-11-28T07:35:06.731Z#"
   },
   "reflect": {
-    "sum": 45,
+    "sum": 48,
     "lastAt": "2026-11-27T13:48:22.978Z",
     "date": "2026-11-27",
     "today": 2,
@@ -344,24 +347,15 @@
   ],
   "sleepRewrite": null,
   "trips": {
-    "date": "2026-11-27",
-    "reads": 9,
-    "trips": 5,
+    "date": "2026-11-28",
+    "reads": 2,
+    "trips": 1,
     "looks": 0,
     "starts": [
-      "https://github.com/maximecb/plush",
-      "https://esolangs.org/wiki/brainfuck",
-      "https://www.dwitter.net/d/36743",
-      "https://en.wikipedia.org/wiki/november_27",
-      "https://github.com/loktar00/sprite-stack-engine"
+      "https://github.com/engmung/patternflow"
     ]
   },
   "doorDays": [
-    {
-      "date": "2026-11-21",
-      "trips": 4,
-      "strangers": 4
-    },
     {
       "date": "2026-11-22",
       "trips": 6,
@@ -391,13 +385,14 @@
       "date": "2026-11-27",
       "trips": 5,
       "strangers": 5
+    },
+    {
+      "date": "2026-11-28",
+      "trips": 1,
+      "strangers": 1
     }
   ],
   "seen": [
-    {
-      "title": "ollygarden/opentelemetry-agent-skills",
-      "url": "https://github.com/ollygarden/opentelemetry-agent-skills"
-    },
     {
       "title": "RoversX/ThinkTerm",
       "url": "https://github.com/RoversX/ThinkTerm"
@@ -481,10 +476,6 @@
     {
       "title": "Dweet 36739 by taupelink",
       "url": "https://www.dwitter.net/d/36739"
-    },
-    {
-      "title": "GraphiteEditor/Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite"
     },
     {
       "title": "TrussC-org/TrussC",
@@ -667,10 +658,6 @@
       "url": "https://esolangs.org/wiki/Esoteric_programming_language"
     },
     {
-      "title": "yuruyurau/sketch",
-      "url": "https://github.com/yuruyurau/sketch"
-    },
-    {
       "title": "loktar00/sprite-stack-engine",
       "url": "https://github.com/loktar00/sprite-stack-engine"
     },
@@ -699,10 +686,6 @@
       "url": "https://esolangs.org/wiki/Thue"
     },
     {
-      "title": "eaviles/Ollin",
-      "url": "https://github.com/eaviles/Ollin"
-    },
-    {
       "title": "fo9c/event-horizon",
       "url": "https://github.com/fo9c/event-horizon"
     },
@@ -729,10 +712,6 @@
     {
       "title": "Nondeterministic",
       "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
-      "title": "StopBanning/toaster",
-      "url": "https://github.com/StopBanning/toaster"
     },
     {
       "title": "Arnav8452/atom",
@@ -793,6 +772,26 @@
     {
       "title": "Always Has Been",
       "url": "https://imgflip.com/meme/252600902"
+    },
+    {
+      "title": "yuruyurau/sketch",
+      "url": "https://github.com/yuruyurau/sketch"
+    },
+    {
+      "title": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite"
+    },
+    {
+      "title": "noisefactorllc/noisemaker",
+      "url": "https://github.com/noisefactorllc/noisemaker"
+    },
+    {
+      "title": "eaviles/Ollin",
+      "url": "https://github.com/eaviles/Ollin"
+    },
+    {
+      "title": "StopBanning/toaster",
+      "url": "https://github.com/StopBanning/toaster"
     }
   ],
   "points": {

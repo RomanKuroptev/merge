@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.8,
-  "energy": 0.5,
+  "mood": 0.9,
+  "energy": 0.45,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-28T07:14:56.091Z",
-    "seed": 1664623261,
-    "reason": "I am reading at my desk."
+    "type": "mind_tinker",
+    "startedAt": "2026-11-28T07:35:11.587Z",
+    "seed": 1958190779,
+    "reason": "A five-second still frame of a flow chart. One frame first, no loop, and no new fish.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-28T07:15:19.907Z",
+  "lastTickAt": "2026-11-28T07:35:11.587Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
