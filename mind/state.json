@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T07:05:06.731Z",
-  "lastThinkAt": "2026-11-28T07:35:34.515Z",
+  "appliedStepAt": "2026-11-28T07:35:11.587Z",
+  "lastThinkAt": "2026-11-28T08:35:13.786Z",
   "allowance": {
     "points": 1159,
     "day": "2026-11-28"
@@ -119,11 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "tinker",
-      "targetId": "Flow Fish: one still frame of a fish whose arrows show where the program goes next",
-      "at": "2026-11-27T06:32:32.243Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://esolangs.org/wiki/Brainfuck",
       "at": "2026-11-27T08:32:37.267Z"
@@ -211,6 +206,10 @@
       "verb": "tinker",
       "targetId": "Flow Map Still: boxes and arrows, one cat sitting at the one loop, drawn as one still frame",
       "at": "2026-11-28T07:35:11.587Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-28T08:35:13.786Z"
     }
   ],
   "sparked": {
@@ -219,6 +218,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-28T08:31:11.695Z",
     "failures": 0,
     "recent": [
       "Two Buttons is still a single still frame; the Flow Fish is up on the gallery wall. Let the frame be crooked and keep going.",
@@ -227,7 +227,6 @@
       "Pattern flow: a stacked-sprite engine page, a fish joke waiting to be read. Reading it now.",
       "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked."
     ],
-    "lastAt": "2026-11-28T08:16:02.006Z",
     "lastInput": "tinker|Flow Map Still: boxes and arrows, one cat sitting at the one loop, drawn as one still frame|2026-11-28T08:35:11.587Z#"
   },
   "reflect": {
@@ -303,8 +302,8 @@
     "places": {}
   },
   "sketches": {
-    "date": "2026-11-27",
-    "count": 2
+    "date": "2026-11-28",
+    "count": 1
   },
   "interestsFadedOn": "2026-11-28",
   "lastRewriteDate": "2026-11-27",

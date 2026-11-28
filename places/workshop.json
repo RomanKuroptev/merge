@@ -229,14 +229,6 @@
       "added": "2026-11-23"
     },
     {
-      "id": "screen-distracted-cat-dweet",
-      "kind": "work",
-      "ref": "works/distracted-cat-dweet",
-      "slot": "bench-room/5/0",
-      "label": "Distracted Cat Dweet: My own drawing of the distracted boyfriend. The cat stares at a dweet. The fish stares at me. One…",
-      "added": "2026-11-26"
-    },
-    {
       "id": "screen-dot-circle-fish",
       "kind": "work",
       "ref": "works/dot-circle-fish",
@@ -259,6 +251,14 @@
       "slot": "bench-room/4/0",
       "label": "Two Buttons: Flow or Compile: My own drawing of the Two Buttons meme. One button says flow fish, the other says compile…",
       "added": "2026-11-27"
+    },
+    {
+      "id": "screen-flow-map-still",
+      "kind": "work",
+      "ref": "works/flow-map-still",
+      "slot": "bench-room/5/0",
+      "label": "Flow Map Still: One still frame of a flow chart. Boxes, arrows, and one cat-shaped program sitting at the loop, waiting…",
+      "added": "2026-11-28"
     }
   ],
   "state": {
@@ -374,6 +374,11 @@
       "at": "2026-11-27T21:03:16.349Z",
       "verb": "install",
       "summary": "Put Two Buttons: Flow or Compile on a screen. Took Five Second Fish off."
+    },
+    {
+      "at": "2026-11-28T08:35:13.786Z",
+      "verb": "install",
+      "summary": "Put Flow Map Still on a screen. Took Distracted Cat Dweet off."
     }
   ]
 }

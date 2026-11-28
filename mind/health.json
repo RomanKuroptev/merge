@@ -1,46 +1,49 @@
 {
-  "updatedAt": "2026-11-28T08:20:04.634Z",
+  "updatedAt": "2026-11-28T08:35:13.786Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T08:20:04.634Z",
+    "at": "2026-11-28T08:35:13.786Z",
     "asleep": false,
-    "summary": "",
+    "summary": "step 3/5: rest, sketched \"Flow Map Still\", installed works in Workshop",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-28:891770da",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 1,
-      "verb": "tinker",
-      "targetId": "Flow Map Still: boxes and arrows, one cat sitting at the on…",
-      "until": "2026-11-28T08:35:11.587Z",
+      "index": 2,
+      "verb": "rest",
+      "until": "2026-11-28T09:35:13.786Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-28T07:05:06.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 560,
+    "ticks": 576,
     "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
       "thought": 2,
       "read": 2,
-      "decide": 1
+      "decide": 1,
+      "sketch": 1
     },
     "spendByKind": {
       "morning": 0.00221295,
       "thought": 0.0011348499999999997,
       "read": 0.0012031099999999999,
-      "decide": 0.00114475
+      "decide": 0.00114475,
+      "sketch": 0.0365005
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1,
+      "stepDone": 2,
       "sparked": 1
     },
     "failures": 0,
@@ -49,7 +52,8 @@
     "cutOff": 0,
     "stepsStarted": {
       "wander https://github.com/engmung/Patternflow": 1,
-      "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1
+      "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1,
+      "rest": 1
     },
     "longestGapMinutes": 1
   },
@@ -74,11 +78,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.30700414,
+    "monthUsd": 4.34350464,
     "capUsd": 15,
     "paceUsd": 14
   },
@@ -86,12 +90,12 @@
   "credit": "ok",
   "novelty": {
     "works": {
-      "made": 20,
+      "made": 21,
       "wouldFire": 1,
       "byKind": {
         "meme": 7,
         "tool": 4,
-        "art": 8,
+        "art": 9,
         "game": 1
       }
     },
@@ -114,7 +118,7 @@
     },
     "draws": {
       "collisionsUsed": 17,
-      "constraintsOffered": 20,
+      "constraintsOffered": 21,
       "constraintsRefused": 0
     },
     "places": {
