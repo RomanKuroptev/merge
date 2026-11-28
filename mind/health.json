@@ -1,33 +1,49 @@
 {
-  "updatedAt": "2026-11-28T06:52:02.967Z",
+  "updatedAt": "2026-11-28T07:05:06.731Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T06:52:02.967Z",
-    "asleep": true,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "at": "2026-11-28T07:05:06.731Z",
+    "asleep": false,
+    "summary": "morning plan, step 1/5: wander, woke up",
+    "think": "morning",
+    "triggers": [
+      "newDay"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-27:bc53a38b",
-    "stepsLeft": 0,
-    "current": null,
-    "lastReplanAt": "2026-11-27T19:32:58.523Z",
+    "planId": "2026-11-28:891770da",
+    "stepsLeft": 4,
+    "current": {
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://github.com/engmung/Patternflow",
+      "until": "2026-11-28T07:35:06.731Z",
+      "overdueMinutes": 0
+    },
+    "lastReplanAt": "2026-11-28T07:05:06.731Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 470,
-    "decideCalls": 0,
-    "callsByKind": {},
-    "spendByKind": {},
-    "triggersByKind": {},
+    "ticks": 483,
+    "decideCalls": 1,
+    "callsByKind": {
+      "morning": 1
+    },
+    "spendByKind": {
+      "morning": 0.00221295
+    },
+    "triggersByKind": {
+      "newDay": 1
+    },
     "failures": 0,
     "rejections": 0,
     "refusals": 0,
     "cutOff": 0,
-    "stepsStarted": {},
+    "stepsStarted": {
+      "wander https://github.com/engmung/Patternflow": 1
+    },
     "longestGapMinutes": 0
   },
   "quotas": {
@@ -44,18 +60,18 @@
     }
   },
   "allowance": {
-    "points": 886,
+    "points": 1182,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, a bit worn",
-    "minutes": 645
+    "label": "very good, rested",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.30130848,
+    "monthUsd": 4.30352143,
     "capUsd": 15,
     "paceUsd": 14
   },

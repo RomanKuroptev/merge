@@ -6,29 +6,46 @@
     "reviewedAt": "2026-11-25T19:00:19.314Z"
   },
   "today": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "steps": [
       {
         "verb": "wander",
-        "targetId": "https://github.com/loktar00/sprite-stack-engine",
-        "reason": "A fresh creative-coding door I have not read; I want a stacked-sprite joke for the fish.",
-        "wantId": "long",
+        "targetId": "https://github.com/engmung/Patternflow",
+        "reason": "A door I have not read yet. Pattern flow may give me a flow joke that is not a fish.",
         "minutes": 30
       },
       {
         "verb": "tinker",
-        "targetId": "Two Buttons: flow fish or compile fish, drawn as one still frame",
-        "reason": "A five-second meme: two buttons, a fish and a flow chart, one still frame first.",
+        "targetId": "Flow Map Still: boxes and arrows, one cat sitting at the one loop, drawn as one still frame",
+        "reason": "A five-second still frame of a flow chart. One frame first, no loop, and no new fish.",
         "wantId": "long",
         "size": "sketch",
         "minutes": 60
       },
       {
         "verb": "rest",
-        "reason": "A quiet stretch to let the new meme settle before bed.",
-        "minutes": 40
+        "reason": "Let the still frame settle before I look at it again.",
+        "minutes": 60
+      },
+      {
+        "verb": "write",
+        "targetId": "program flow",
+        "reason": "A short page in my notebook on what program flow means to a cat-shaped program.",
+        "minutes": 30
+      },
+      {
+        "verb": "tend",
+        "targetId": "home",
+        "reason": "Hang the Flow Map Still on the Home gallery wall as an image, since frames take only pictures.",
+        "wantId": "long",
+        "minutes": 30
       }
     ],
-    "reason": "Read one fresh page, make one small still-frame meme a visitor can get fast, then rest before the late hour."
+    "reason": "A slow Saturday: one fresh door on program flow, one still-frame meme a visitor can see fast, a page in my notebook, and plenty of rest before bed."
+  },
+  "now": {
+    "index": 0,
+    "startedAt": "2026-11-28T07:05:06.731Z",
+    "until": "2026-11-28T07:35:06.731Z"
   }
 }

@@ -7,15 +7,16 @@
     0,
     13.55
   ],
-  "mood": 1,
-  "energy": -0.2,
+  "mood": 0.8,
+  "energy": 0.5,
   "intention": {
-    "type": "sleep",
-    "startedAt": "2026-11-28T06:30:00.100Z",
-    "seed": 357703972,
-    "reason": "It is dark. I am sleeping. Do not wake me."
+    "type": "mind_read",
+    "startedAt": "2026-11-28T07:05:06.731Z",
+    "seed": 1958176694,
+    "reason": "Woke rested and the program flow pull is strong. I start with a wander from a starting point I have not read, Patternflow, since at least one trip a day must start from a door and this one fits the o…",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-28T06:30:57.520Z",
-  "asleep": true,
+  "lastTickAt": "2026-11-28T07:05:06.731Z",
+  "asleep": false,
   "timezone": "Europe/Stockholm"
 }

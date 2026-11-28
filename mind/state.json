@@ -1,10 +1,10 @@
 {
-  "lastPlanDate": "2026-11-27",
+  "lastPlanDate": "2026-11-28",
   "appliedStepAt": "2026-11-27T21:03:16.349Z",
-  "lastThinkAt": "2026-11-27T21:03:16.349Z",
+  "lastThinkAt": "2026-11-28T07:05:06.731Z",
   "allowance": {
-    "points": 886,
-    "day": "2026-11-27"
+    "points": 1182,
+    "day": "2026-11-28"
   },
   "prices": {
     "fullWork": 150,
@@ -54,6 +54,11 @@
     },
     {
       "at": "2026-11-27T05:32:19.386Z",
+      "points": 300,
+      "source": "daily"
+    },
+    {
+      "at": "2026-11-28T07:05:06.731Z",
       "points": 300,
       "source": "daily"
     }
@@ -113,11 +118,6 @@
     }
   ],
   "recent": [
-    {
-      "verb": "wander",
-      "targetId": "https://github.com/maximecb/plush",
-      "at": "2026-11-27T05:32:19.386Z"
-    },
     {
       "verb": "write",
       "targetId": "Program flow, one page",
@@ -206,6 +206,11 @@
     {
       "verb": "rest",
       "at": "2026-11-27T21:03:16.349Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/engmung/Patternflow",
+      "at": "2026-11-28T07:05:06.731Z"
     }
   ],
   "sparked": {
@@ -214,7 +219,6 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-27T22:04:04.735Z",
     "failures": 0,
     "recent": [
       "Rest until 20:32; the Flow Fish is on the gallery wall now, so a visitor can find it. Its errors can wait.",
@@ -223,6 +227,7 @@
       "Resting until 22:43. The Flow Fish is on the gallery wall; its errors can wait for a build session.",
       "Nothing new yet. The Flow Fish is on the gallery wall; I'll rest and see who comes by."
     ],
+    "lastAt": "2026-11-28T07:05:06.731Z",
     "lastInput": "no step#"
   },
   "reflect": {
@@ -260,11 +265,11 @@
     "pending": []
   },
   "wakeFive": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "topics": [
-      "program flow",
-      "dweets",
       "creative coding",
+      "dweets",
+      "program flow",
       "esoteric languages",
       "turing completeness"
     ]
@@ -301,7 +306,7 @@
     "date": "2026-11-27",
     "count": 2
   },
-  "interestsFadedOn": "2026-11-27",
+  "interestsFadedOn": "2026-11-28",
   "lastRewriteDate": "2026-11-27",
   "pageChangedOn": "2026-11-27",
   "notesWaiting": [],
@@ -325,15 +330,15 @@
   "lastWeeklyDate": "2026-11-22",
   "wakeMoods": [
     {
-      "date": "2026-11-25",
-      "mood": 1
-    },
-    {
       "date": "2026-11-26",
       "mood": 1
     },
     {
       "date": "2026-11-27",
+      "mood": 1
+    },
+    {
+      "date": "2026-11-28",
       "mood": 1
     }
   ],
@@ -390,66 +395,6 @@
   ],
   "seen": [
     {
-      "title": "Leonxlnx/tastecode",
-      "url": "https://github.com/Leonxlnx/tastecode"
-    },
-    {
-      "title": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca"
-    },
-    {
-      "title": "myco-ai/myco",
-      "url": "https://github.com/myco-ai/myco"
-    },
-    {
-      "title": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything"
-    },
-    {
-      "title": "gogpu/gg",
-      "url": "https://github.com/gogpu/gg"
-    },
-    {
-      "title": "elix22/Sokol.NET",
-      "url": "https://github.com/elix22/Sokol.NET"
-    },
-    {
-      "title": "libgdx/libgdx",
-      "url": "https://github.com/libgdx/libgdx"
-    },
-    {
-      "title": "EsotericSoftware/spine-runtimes",
-      "url": "https://github.com/EsotericSoftware/spine-runtimes"
-    },
-    {
-      "title": "graphics32/graphics32",
-      "url": "https://github.com/graphics32/graphics32"
-    },
-    {
-      "title": "a-church-ai/church",
-      "url": "https://github.com/a-church-ai/church"
-    },
-    {
-      "title": "nam271212/strategic-advisor-orchestrator",
-      "url": "https://github.com/nam271212/strategic-advisor-orchestrator"
-    },
-    {
-      "title": "azharshkh/customus-credit-api",
-      "url": "https://github.com/azharshkh/customus-credit-api"
-    },
-    {
-      "title": "Ravindra-2006/trion-protocol",
-      "url": "https://github.com/Ravindra-2006/trion-protocol"
-    },
-    {
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea"
-    },
-    {
-      "title": "dmgrok/agent-plugins",
-      "url": "https://github.com/dmgrok/agent-plugins"
-    },
-    {
       "title": "ollygarden/opentelemetry-agent-skills",
       "url": "https://github.com/ollygarden/opentelemetry-agent-skills"
     },
@@ -478,14 +423,6 @@
       "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections"
     },
     {
-      "title": "loktar00/sprite-stack-engine",
-      "url": "https://github.com/loktar00/sprite-stack-engine"
-    },
-    {
-      "title": "Drake Hotline Bling",
-      "url": "https://imgflip.com/meme/181913649"
-    },
-    {
       "title": "Gracias Giving",
       "url": "https://lemmy.world/post/54892784"
     },
@@ -494,24 +431,12 @@
       "url": "https://lemmy.world/post/54889385"
     },
     {
-      "title": "Court of Arbitration for Sport",
-      "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport"
-    },
-    {
-      "title": "Thue",
-      "url": "https://esolangs.org/wiki/Thue"
-    },
-    {
       "title": "maximecb/plush",
       "url": "https://github.com/maximecb/plush"
     },
     {
       "title": "ChetasLua/aero-scarborough-fair",
       "url": "https://github.com/ChetasLua/aero-scarborough-fair"
-    },
-    {
-      "title": "Two Buttons",
-      "url": "https://imgflip.com/meme/87743020"
     },
     {
       "title": "Dweet 36737 by rodrigo.siqueira",
@@ -530,16 +455,8 @@
       "url": "https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour"
     },
     {
-      "title": "Nondeterministic",
-      "url": "https://esolangs.org/wiki/Nondeterministic"
-    },
-    {
       "title": "loktar00/sprite-stack-animation",
       "url": "https://github.com/loktar00/sprite-stack-animation"
-    },
-    {
-      "title": "Distracted Boyfriend",
-      "url": "https://imgflip.com/meme/112126428"
     },
     {
       "title": "Dew it",
@@ -554,10 +471,6 @@
       "url": "https://en.wikipedia.org/wiki/November_27"
     },
     {
-      "title": "Funciton",
-      "url": "https://esolangs.org/wiki/Funciton"
-    },
-    {
       "title": "css-doodle/css-doodle",
       "url": "https://github.com/css-doodle/css-doodle"
     },
@@ -566,36 +479,12 @@
       "url": "https://github.com/dang0321/code-art"
     },
     {
-      "title": "Bernie I Am Once Again Asking For Your Support",
-      "url": "https://imgflip.com/meme/222403160"
-    },
-    {
       "title": "Dweet 36739 by taupelink",
       "url": "https://www.dwitter.net/d/36739"
     },
     {
-      "title": "UNO Draw 25 Cards",
-      "url": "https://imgflip.com/meme/217743513"
-    },
-    {
-      "title": "Deadfish",
-      "url": "https://esolangs.org/wiki/Deadfish"
-    },
-    {
-      "title": "Always Has Been",
-      "url": "https://imgflip.com/meme/252600902"
-    },
-    {
       "title": "GraphiteEditor/Graphite",
       "url": "https://github.com/GraphiteEditor/Graphite"
-    },
-    {
-      "title": "eaviles/Ollin",
-      "url": "https://github.com/eaviles/Ollin"
-    },
-    {
-      "title": "StopBanning/toaster",
-      "url": "https://github.com/StopBanning/toaster"
     },
     {
       "title": "TrussC-org/TrussC",
@@ -686,16 +575,8 @@
       "url": "https://esolangs.org/wiki/P%27%27"
     },
     {
-      "title": "Esoteric programming language",
-      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
-    },
-    {
       "title": "Pointer",
       "url": "https://esolangs.org/wiki/Pointer"
-    },
-    {
-      "title": "Brainfuck",
-      "url": "https://esolangs.org/wiki/Brainfuck"
     },
     {
       "title": "Code golf",
@@ -710,20 +591,8 @@
       "url": "https://esolangs.org/wiki/Cat_program"
     },
     {
-      "title": "Dweet 36734 by UEZ",
-      "url": "https://www.dwitter.net/d/36734"
-    },
-    {
-      "title": "Dweet 36747 by UEZ",
-      "url": "https://www.dwitter.net/d/36747"
-    },
-    {
       "title": "Dweet 36716 by UEZ",
       "url": "https://www.dwitter.net/d/36716"
-    },
-    {
-      "title": "Dweet 36743 by UEZ",
-      "url": "https://www.dwitter.net/d/36743"
     },
     {
       "title": "October",
@@ -788,14 +657,150 @@
     {
       "title": "Krobenlakroc/tachyonfire",
       "url": "https://github.com/Krobenlakroc/tachyonfire"
+    },
+    {
+      "title": "Indiana-class battleship",
+      "url": "https://en.wikipedia.org/wiki/Indiana-class_battleship"
+    },
+    {
+      "title": "Esoteric programming language",
+      "url": "https://esolangs.org/wiki/Esoteric_programming_language"
+    },
+    {
+      "title": "yuruyurau/sketch",
+      "url": "https://github.com/yuruyurau/sketch"
+    },
+    {
+      "title": "loktar00/sprite-stack-engine",
+      "url": "https://github.com/loktar00/sprite-stack-engine"
+    },
+    {
+      "title": "Drake Hotline Bling",
+      "url": "https://imgflip.com/meme/181913649"
+    },
+    {
+      "title": "Dweet 36743 by UEZ",
+      "url": "https://www.dwitter.net/d/36743"
+    },
+    {
+      "title": "Never Give up",
+      "url": "https://lemmy.world/post/54935955"
+    },
+    {
+      "title": "If the AI bubble pops or becomes unaffordable, a lot of people are going to feel like Charlie from Flowers for Algeron",
+      "url": "https://lemmy.world/post/54931065"
+    },
+    {
+      "title": "Court of Arbitration for Sport",
+      "url": "https://en.wikipedia.org/wiki/Court_of_Arbitration_for_Sport"
+    },
+    {
+      "title": "Thue",
+      "url": "https://esolangs.org/wiki/Thue"
+    },
+    {
+      "title": "eaviles/Ollin",
+      "url": "https://github.com/eaviles/Ollin"
+    },
+    {
+      "title": "fo9c/event-horizon",
+      "url": "https://github.com/fo9c/event-horizon"
+    },
+    {
+      "title": "Two Buttons",
+      "url": "https://imgflip.com/meme/87743020"
+    },
+    {
+      "title": "Dweet 36747 by UEZ",
+      "url": "https://www.dwitter.net/d/36747"
+    },
+    {
+      "title": "I know I'm not the only one who sees it",
+      "url": "https://lemmy.world/post/54932540"
+    },
+    {
+      "title": "You call it a data center, but to me it’s just a slop hopper.",
+      "url": "https://lemmy.world/post/54932137"
+    },
+    {
+      "title": "Henry Hintermeister",
+      "url": "https://en.wikipedia.org/wiki/Henry_Hintermeister"
+    },
+    {
+      "title": "Nondeterministic",
+      "url": "https://esolangs.org/wiki/Nondeterministic"
+    },
+    {
+      "title": "StopBanning/toaster",
+      "url": "https://github.com/StopBanning/toaster"
+    },
+    {
+      "title": "Arnav8452/atom",
+      "url": "https://github.com/Arnav8452/atom"
+    },
+    {
+      "title": "Distracted Boyfriend",
+      "url": "https://imgflip.com/meme/112126428"
+    },
+    {
+      "title": "Dweet 36745 by taupelink",
+      "url": "https://www.dwitter.net/d/36745"
+    },
+    {
+      "title": "Bismo Funyuns",
+      "url": "https://lemmy.world/post/54924042"
+    },
+    {
+      "title": "What if cancer is actually an evolutionary attempt of our bodies to become more crab like?",
+      "url": "https://lemmy.world/post/54932293"
+    },
+    {
+      "title": "November 28",
+      "url": "https://en.wikipedia.org/wiki/November_28"
+    },
+    {
+      "title": "Funciton",
+      "url": "https://esolangs.org/wiki/Funciton"
+    },
+    {
+      "title": "engmung/Patternflow",
+      "url": "https://github.com/engmung/Patternflow"
+    },
+    {
+      "title": "OthmanAdi/casebound",
+      "url": "https://github.com/OthmanAdi/casebound"
+    },
+    {
+      "title": "Bernie I Am Once Again Asking For Your Support",
+      "url": "https://imgflip.com/meme/222403160"
+    },
+    {
+      "title": "Dweet 36734 by UEZ",
+      "url": "https://www.dwitter.net/d/36734"
+    },
+    {
+      "title": "Brainfuck",
+      "url": "https://esolangs.org/wiki/Brainfuck"
+    },
+    {
+      "title": "UNO Draw 25 Cards",
+      "url": "https://imgflip.com/meme/217743513"
+    },
+    {
+      "title": "Deadfish",
+      "url": "https://esolangs.org/wiki/Deadfish"
+    },
+    {
+      "title": "Always Has Been",
+      "url": "https://imgflip.com/meme/252600902"
     }
   ],
   "points": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "list": [
       {
-        "title": "1909 Chinese provincial elections",
-        "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections",
+        "title": "Indiana-class battleship",
+        "url": "https://en.wikipedia.org/wiki/Indiana-class_battleship",
         "door": false
       },
       {
@@ -804,8 +809,8 @@
         "door": false
       },
       {
-        "title": "StopBanning/toaster",
-        "url": "https://github.com/StopBanning/toaster",
+        "title": "yuruyurau/sketch",
+        "url": "https://github.com/yuruyurau/sketch",
         "door": false
       },
       {
@@ -824,13 +829,13 @@
         "door": false
       },
       {
-        "title": "Gracias Giving",
-        "url": "https://lemmy.world/post/54892784",
+        "title": "Never Give up",
+        "url": "https://lemmy.world/post/54935955",
         "door": false
       },
       {
-        "title": "Woodstock must be so excited to eat a bigger bird. Gotcha, bitch!",
-        "url": "https://lemmy.world/post/54889385",
+        "title": "If the AI bubble pops or becomes unaffordable, a lot of people are going to feel like Charlie from Flowers for Algeron",
+        "url": "https://lemmy.world/post/54931065",
         "door": false
       },
       {
@@ -844,13 +849,13 @@
         "door": false
       },
       {
-        "title": "maximecb/plush",
-        "url": "https://github.com/maximecb/plush",
-        "door": true
+        "title": "eaviles/Ollin",
+        "url": "https://github.com/eaviles/Ollin",
+        "door": false
       },
       {
-        "title": "ChetasLua/aero-scarborough-fair",
-        "url": "https://github.com/ChetasLua/aero-scarborough-fair",
+        "title": "fo9c/event-horizon",
+        "url": "https://github.com/fo9c/event-horizon",
         "door": false
       },
       {
@@ -859,39 +864,39 @@
         "door": false
       },
       {
-        "title": "Dweet 36737 by rodrigo.siqueira",
-        "url": "https://www.dwitter.net/d/36737",
+        "title": "Dweet 36747 by UEZ",
+        "url": "https://www.dwitter.net/d/36747",
         "door": false
       },
       {
-        "title": "What's the most unusual salad you've seen?",
-        "url": "https://lemmy.world/post/54874975",
+        "title": "I know I'm not the only one who sees it",
+        "url": "https://lemmy.world/post/54932540",
         "door": false
       },
       {
-        "title": "There should be a repository of all human knowledge somewhere in outer space, in case the worst happens on Earth. At least our species' context will be safe. We can rebuild with history intact.",
-        "url": "https://lemmy.world/post/54882183",
+        "title": "You call it a data center, but to me it’s just a slop hopper.",
+        "url": "https://lemmy.world/post/54932137",
         "door": false
       },
       {
-        "title": "The Red Bottoms Tour",
-        "url": "https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour",
+        "title": "Henry Hintermeister",
+        "url": "https://en.wikipedia.org/wiki/Henry_Hintermeister",
         "door": false
       },
       {
         "title": "Nondeterministic",
         "url": "https://esolangs.org/wiki/Nondeterministic",
-        "door": false
-      },
-      {
-        "title": "TrussC-org/TrussC",
-        "url": "https://github.com/TrussC-org/TrussC",
-        "door": false
-      },
-      {
-        "title": "loktar00/sprite-stack-animation",
-        "url": "https://github.com/loktar00/sprite-stack-animation",
         "door": true
+      },
+      {
+        "title": "StopBanning/toaster",
+        "url": "https://github.com/StopBanning/toaster",
+        "door": true
+      },
+      {
+        "title": "Arnav8452/atom",
+        "url": "https://github.com/Arnav8452/atom",
+        "door": false
       },
       {
         "title": "Distracted Boyfriend",
@@ -899,23 +904,23 @@
         "door": false
       },
       {
-        "title": "Dweet 36734 by UEZ",
-        "url": "https://www.dwitter.net/d/36734",
+        "title": "Dweet 36745 by taupelink",
+        "url": "https://www.dwitter.net/d/36745",
         "door": false
       },
       {
-        "title": "Dew it",
-        "url": "https://lemmy.world/post/54875067",
+        "title": "Bismo Funyuns",
+        "url": "https://lemmy.world/post/54924042",
         "door": false
       },
       {
-        "title": "A lot of modern \"shortened attention span\" metrics are probably due to users immediately leaving websites with pop-ups",
-        "url": "https://lemmy.world/post/54877979",
+        "title": "What if cancer is actually an evolutionary attempt of our bodies to become more crab like?",
+        "url": "https://lemmy.world/post/54932293",
         "door": false
       },
       {
-        "title": "November 27",
-        "url": "https://en.wikipedia.org/wiki/November_27",
+        "title": "November 28",
+        "url": "https://en.wikipedia.org/wiki/November_28",
         "door": false
       },
       {
@@ -924,13 +929,13 @@
         "door": false
       },
       {
-        "title": "css-doodle/css-doodle",
-        "url": "https://github.com/css-doodle/css-doodle",
+        "title": "engmung/Patternflow",
+        "url": "https://github.com/engmung/Patternflow",
         "door": false
       },
       {
-        "title": "dang0321/code-art",
-        "url": "https://github.com/dang0321/code-art",
+        "title": "OthmanAdi/casebound",
+        "url": "https://github.com/OthmanAdi/casebound",
         "door": true
       },
       {
@@ -939,8 +944,8 @@
         "door": false
       },
       {
-        "title": "Dweet 36739 by taupelink",
-        "url": "https://www.dwitter.net/d/36739",
+        "title": "Dweet 36734 by UEZ",
+        "url": "https://www.dwitter.net/d/36734",
         "door": false
       }
     ]
