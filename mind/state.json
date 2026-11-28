@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T07:35:11.587Z",
-  "lastThinkAt": "2026-11-28T08:35:13.786Z",
+  "appliedStepAt": "2026-11-28T08:35:13.786Z",
+  "lastThinkAt": "2026-11-28T08:36:36.453Z",
   "allowance": {
-    "points": 1159,
+    "points": 1155,
     "day": "2026-11-28"
   },
   "prices": {
@@ -119,11 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "wander",
-      "targetId": "https://esolangs.org/wiki/Brainfuck",
-      "at": "2026-11-27T08:32:37.267Z"
-    },
-    {
       "verb": "build",
       "targetId": "Flow Fish Loop",
       "at": "2026-11-27T09:07:41.489Z"
@@ -210,6 +205,11 @@
     {
       "verb": "rest",
       "at": "2026-11-28T08:35:13.786Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://github.com/StopBanning/toaster",
+      "at": "2026-11-28T08:36:36.453Z"
     }
   ],
   "sparked": {
@@ -218,6 +218,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-28T08:36:14.312Z",
     "failures": 0,
     "recent": [
       "Resting until 22:43. The Flow Fish is on the gallery wall; its errors can wait for a build session.",
@@ -226,7 +227,6 @@
       "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked.",
       "The Flow Map still is up; resting until the frame settles, then looking at it again."
     ],
-    "lastAt": "2026-11-28T08:36:14.312Z",
     "lastInput": "rest||2026-11-28T09:35:13.786Z#"
   },
   "reflect": {
@@ -234,9 +234,7 @@
     "lastAt": "2026-11-28T08:36:14.312Z",
     "date": "2026-11-28",
     "today": 1,
-    "pending": {
-      "reason": "the plan no longer fits: The plan's last step repeats a Home tend that failed to hang a work twice; I should hang the Flow Map Still only as a picture, and only once."
-    },
+    "pending": null,
     "questions": [
       "Will anyone press an arrow on the Flow Fish, or am I the only player in this hall?",
       "Is the gallery wall the only place that can point at a work, and does a pointer count as showing it?",

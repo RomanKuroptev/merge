@@ -1,35 +1,38 @@
 {
-  "updatedAt": "2026-11-28T08:36:14.312Z",
+  "updatedAt": "2026-11-28T08:36:36.453Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T08:36:14.312Z",
+    "at": "2026-11-28T08:36:36.453Z",
     "asleep": false,
-    "summary": "rewrote its page, reflected",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about reflected, left rest, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "reflected"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-28:891770da",
-    "stepsLeft": 2,
+    "planId": "2026-11-28:cc4afbbd",
+    "stepsLeft": 3,
     "current": {
-      "index": 2,
-      "verb": "rest",
-      "until": "2026-11-28T09:35:13.786Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://github.com/StopBanning/toaster",
+      "until": "2026-11-28T09:06:36.453Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-28T07:05:06.731Z",
+    "lastReplanAt": "2026-11-28T08:36:36.453Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 577,
-    "decideCalls": 2,
+    "ticks": 578,
+    "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
       "thought": 3,
       "read": 2,
-      "decide": 1,
+      "decide": 2,
       "sketch": 1,
       "reflection": 1
     },
@@ -37,14 +40,15 @@
       "morning": 0.00221295,
       "thought": 0.0016987249999999999,
       "read": 0.0012031099999999999,
-      "decide": 0.00114475,
+      "decide": 0.0028518,
       "sketch": 0.0365005,
       "reflection": 0.029414
     },
     "triggersByKind": {
       "newDay": 1,
       "stepDone": 2,
-      "sparked": 1
+      "sparked": 1,
+      "reflected": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -53,7 +57,8 @@
     "stepsStarted": {
       "wander https://github.com/engmung/Patternflow": 1,
       "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1,
-      "rest": 1
+      "rest": 1,
+      "wander https://github.com/StopBanning/toaster": 1
     },
     "longestGapMinutes": 1
   },
@@ -71,7 +76,7 @@
     }
   },
   "allowance": {
-    "points": 1159,
+    "points": 1155,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
@@ -82,7 +87,7 @@
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.37348252,
+    "monthUsd": 4.37518957,
     "capUsd": 15,
     "paceUsd": 14
   },

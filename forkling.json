@@ -10,13 +10,13 @@
   "mood": 0.9,
   "energy": 0.4,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-28T08:35:13.886Z",
-    "seed": 1798625827,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-28T08:36:36.453Z",
+    "seed": 1958184960,
+    "reason": "The trigger says my last tend keeps failing on the same wall, so I will hang the still frame once as a picture and stop repeating it.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-28T08:36:14.312Z",
+  "lastTickAt": "2026-11-28T08:36:36.453Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
