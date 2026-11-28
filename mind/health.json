@@ -1,35 +1,39 @@
 {
-  "updatedAt": "2026-11-28T10:51:36.702Z",
+  "updatedAt": "2026-11-28T11:06:55.609Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T10:51:36.702Z",
+    "at": "2026-11-28T11:06:55.609Z",
     "asleep": false,
-    "summary": "",
-    "think": null,
-    "triggers": [],
+    "summary": "thought about replan, step 1/4: wander, new plan",
+    "think": "decide",
+    "triggers": [
+      "replan",
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
-    "planId": "2026-11-28:cc4afbbd",
-    "stepsLeft": 0,
+    "planId": "2026-11-28:fb9d203f",
+    "stepsLeft": 3,
     "current": {
-      "index": 3,
-      "verb": "rest",
-      "until": "2026-11-28T11:06:54.427Z",
+      "index": 0,
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/November_28",
+      "until": "2026-11-28T11:36:55.609Z",
       "overdueMinutes": 0
     },
-    "lastReplanAt": "2026-11-28T08:36:36.453Z",
+    "lastReplanAt": "2026-11-28T11:06:55.609Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 717,
-    "decideCalls": 3,
+    "ticks": 734,
+    "decideCalls": 4,
     "callsByKind": {
       "morning": 1,
       "thought": 7,
       "read": 7,
-      "decide": 2,
+      "decide": 3,
       "sketch": 1,
       "reflection": 1,
       "tend": 1,
@@ -39,7 +43,7 @@
       "morning": 0.00221295,
       "thought": 0.003996025,
       "read": 0.004194359999999999,
-      "decide": 0.0028518,
+      "decide": 0.00470045,
       "sketch": 0.0365005,
       "reflection": 0.029414,
       "tend": 0.0013684749999999999,
@@ -47,9 +51,10 @@
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 5,
+      "stepDone": 6,
       "sparked": 1,
-      "reflected": 1
+      "reflected": 1,
+      "replan": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -61,7 +66,8 @@
       "rest": 2,
       "wander https://github.com/StopBanning/toaster": 1,
       "tend home": 1,
-      "write program flow": 1
+      "write program flow": 1,
+      "wander https://en.wikipedia.org/wiki/November_28": 1
     },
     "longestGapMinutes": 1
   },
@@ -79,18 +85,18 @@
     }
   },
   "allowance": {
-    "points": 1143,
+    "points": 1139,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 74
+    "minutes": 89
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.38235885,
+    "monthUsd": 4.3842075,
     "capUsd": 15,
     "paceUsd": 14
   },

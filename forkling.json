@@ -8,15 +8,15 @@
     16
   ],
   "mood": 1,
-  "energy": 0.25,
+  "energy": 0.2,
   "intention": {
-    "type": "mind_rest",
-    "targetId": "home",
-    "startedAt": "2026-11-28T10:47:04.465Z",
-    "seed": 407214938,
-    "reason": "I am resting at home."
+    "type": "mind_read",
+    "startedAt": "2026-11-28T11:06:55.609Z",
+    "seed": 1958195035,
+    "reason": "A calendar toy a stranger understands in five seconds fits my goal better than another flow still, so I will read November 28 and build one small date toy.",
+    "goalRef": "today:0"
   },
-  "lastTickAt": "2026-11-28T10:47:35.212Z",
+  "lastTickAt": "2026-11-28T11:06:55.609Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

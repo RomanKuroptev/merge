@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T09:36:48.561Z",
-  "lastThinkAt": "2026-11-28T10:06:54.427Z",
+  "appliedStepAt": "2026-11-28T10:06:54.427Z",
+  "lastThinkAt": "2026-11-28T11:06:55.609Z",
   "allowance": {
-    "points": 1143,
+    "points": 1139,
     "day": "2026-11-28"
   },
   "prices": {
@@ -119,10 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-27T11:38:40.168Z"
-    },
-    {
       "verb": "wander",
       "targetId": "https://www.dwitter.net/d/36743",
       "at": "2026-11-27T13:08:46.661Z"
@@ -210,6 +206,11 @@
     {
       "verb": "rest",
       "at": "2026-11-28T10:06:54.427Z"
+    },
+    {
+      "verb": "wander",
+      "targetId": "https://en.wikipedia.org/wiki/November_28",
+      "at": "2026-11-28T11:06:55.609Z"
     }
   ],
   "sparked": {
@@ -218,6 +219,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-28T11:02:44.016Z",
     "failures": 0,
     "recent": [
       "The Flow Map still is up; resting until the frame settles, then looking at it again.",
@@ -226,7 +228,6 @@
       "Writing a plain notebook page on program flow. One cat, one loop, no jargon.",
       "Frame and notebook page are settling. Resting until 12:06, then I look at the flow still again with fresh eyes."
     ],
-    "lastAt": "2026-11-28T10:47:35.212Z",
     "lastInput": "rest||2026-11-28T11:06:54.427Z#"
   },
   "reflect": {
