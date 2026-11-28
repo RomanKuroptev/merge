@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.3,
   "intention": {
     "type": "mind_write",
-    "startedAt": "2026-11-28T09:36:48.561Z",
-    "seed": 1958197796,
-    "reason": "A short notebook page on what program flow means to a cat-shaped program, in plain words.",
-    "goalRef": "today:2"
+    "targetId": "desk",
+    "startedAt": "2026-11-28T09:51:24.970Z",
+    "seed": 478535933,
+    "reason": "I am writing at my desk."
   },
-  "lastTickAt": "2026-11-28T09:36:48.561Z",
+  "lastTickAt": "2026-11-28T09:51:56.106Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
