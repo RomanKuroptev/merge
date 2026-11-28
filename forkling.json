@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 0.9,
   "energy": 0.4,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-28T08:36:36.453Z",
-    "seed": 1958184960,
-    "reason": "The trigger says my last tend keeps failing on the same wall, so I will hang the still frame once as a picture and stop repeating it.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-28T08:50:17.336Z",
+    "seed": 131226225,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-28T08:36:36.453Z",
+  "lastTickAt": "2026-11-28T08:51:23.069Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
