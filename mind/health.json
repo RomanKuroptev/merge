@@ -1,30 +1,31 @@
 {
-  "updatedAt": "2026-11-28T09:51:56.106Z",
+  "updatedAt": "2026-11-28T10:06:54.427Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T09:51:56.106Z",
+    "at": "2026-11-28T10:06:54.427Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 4/4: rest, wrote \"Notes on Program Flow\"",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-28:cc4afbbd",
-    "stepsLeft": 1,
+    "stepsLeft": 0,
     "current": {
-      "index": 2,
-      "verb": "write",
-      "targetId": "program flow",
-      "until": "2026-11-28T10:06:48.561Z",
+      "index": 3,
+      "verb": "rest",
+      "until": "2026-11-28T11:06:54.427Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-28T08:36:36.453Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 656,
+    "ticks": 671,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
@@ -33,7 +34,8 @@
       "decide": 2,
       "sketch": 1,
       "reflection": 1,
-      "tend": 1
+      "tend": 1,
+      "art": 1
     },
     "spendByKind": {
       "morning": 0.00221295,
@@ -42,11 +44,12 @@
       "decide": 0.0028518,
       "sketch": 0.0365005,
       "reflection": 0.029414,
-      "tend": 0.0013684749999999999
+      "tend": 0.0013684749999999999,
+      "art": 0.00051225
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 4,
+      "stepDone": 5,
       "sparked": 1,
       "reflected": 1
     },
@@ -57,7 +60,7 @@
     "stepsStarted": {
       "wander https://github.com/engmung/Patternflow": 1,
       "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1,
-      "rest": 1,
+      "rest": 2,
       "wander https://github.com/StopBanning/toaster": 1,
       "tend home": 1,
       "write program flow": 1
@@ -85,11 +88,11 @@
   },
   "mood": {
     "label": "very good, steady",
-    "minutes": 15
+    "minutes": 30
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.38127712,
+    "monthUsd": 4.38178937,
     "capUsd": 15,
     "paceUsd": 14
   },
@@ -107,8 +110,8 @@
       }
     },
     "texts": {
-      "texts": 19,
-      "meanMaxSimilarity": 0.00948637323474225,
+      "texts": 20,
+      "meanMaxSimilarity": 0.009583483144433708,
       "repeatedWriting": 0,
       "repeatedDiary": 0
     },

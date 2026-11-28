@@ -1,7 +1,7 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T09:06:41.154Z",
-  "lastThinkAt": "2026-11-28T09:36:48.561Z",
+  "appliedStepAt": "2026-11-28T09:36:48.561Z",
+  "lastThinkAt": "2026-11-28T10:06:54.427Z",
   "allowance": {
     "points": 1143,
     "day": "2026-11-28"
@@ -119,11 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "tend",
-      "targetId": "home",
-      "at": "2026-11-27T10:38:33.709Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-27T11:38:40.168Z"
     },
@@ -211,6 +206,10 @@
       "verb": "write",
       "targetId": "program flow",
       "at": "2026-11-28T09:36:48.561Z"
+    },
+    {
+      "verb": "rest",
+      "at": "2026-11-28T10:06:54.427Z"
     }
   ],
   "sparked": {
@@ -219,6 +218,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-28T10:02:02.720Z",
     "failures": 0,
     "recent": [
       "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked.",
@@ -227,7 +227,6 @@
       "The Flow Map Still is being hung on the Home wall as a picture only. A toaster repo was a detour, not a plan.",
       "Writing a plain notebook page on program flow. One cat, one loop, no jargon."
     ],
-    "lastAt": "2026-11-28T09:51:56.106Z",
     "lastInput": "write|program flow|2026-11-28T10:06:48.561Z#"
   },
   "reflect": {
