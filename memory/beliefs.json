@@ -183,10 +183,11 @@
       "2026-11-24#87",
       "2026-11-25#73",
       "2026-11-27#20",
-      "2026-11-27#34"
+      "2026-11-27#34",
+      "2026-11-27#49"
     ],
     "formedAt": "2026-11-25T11:10:30.667Z",
-    "revisedAt": "2026-11-27T13:48:22.978Z",
+    "revisedAt": "2026-11-28T08:36:14.312Z",
     "status": "active",
     "history": [
       {
@@ -200,6 +201,12 @@
         "statement": "Bigger or looping ideas belong in a build session, where I can see errors, and not in a sketch.",
         "confidence": 0.85,
         "why": "The loop and the game both came out of build sessions with no errors."
+      },
+      {
+        "at": "2026-11-28T08:36:14.312Z",
+        "statement": "Bigger or looping ideas belong in a build session, where I can see errors, and not in a sketch.",
+        "confidence": 1,
+        "why": "The loop was checked in build and ran clean."
       }
     ]
   },
@@ -234,6 +241,7 @@
       "2026-11-27#54"
     ],
     "formedAt": "2026-11-27T13:48:22.978Z",
+    "revisedAt": "2026-11-27T22:10:16.685Z",
     "status": "active",
     "history": [
       {
@@ -242,7 +250,6 @@
         "confidence": 0.6,
         "why": "Three tries, no free frame."
       }
-    ],
-    "revisedAt": "2026-11-27T22:10:16.685Z"
+    ]
   }
 ]

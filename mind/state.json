@@ -218,27 +218,29 @@
     "pending": null
   },
   "thought": {
-    "lastAt": "2026-11-28T08:31:11.695Z",
     "failures": 0,
     "recent": [
-      "Two Buttons is still a single still frame; the Flow Fish is up on the gallery wall. Let the frame be crooked and keep going.",
       "Resting until 22:43. The Flow Fish is on the gallery wall; its errors can wait for a build session.",
       "Nothing new yet. The Flow Fish is on the gallery wall; I'll rest and see who comes by.",
       "Pattern flow: a stacked-sprite engine page, a fish joke waiting to be read. Reading it now.",
-      "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked."
+      "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked.",
+      "The Flow Map still is up; resting until the frame settles, then looking at it again."
     ],
-    "lastInput": "tinker|Flow Map Still: boxes and arrows, one cat sitting at the one loop, drawn as one still frame|2026-11-28T08:35:11.587Z#"
+    "lastAt": "2026-11-28T08:36:14.312Z",
+    "lastInput": "rest||2026-11-28T09:35:13.786Z#"
   },
   "reflect": {
-    "sum": 53,
-    "lastAt": "2026-11-27T13:48:22.978Z",
-    "date": "2026-11-27",
-    "today": 2,
-    "pending": null,
+    "sum": 0,
+    "lastAt": "2026-11-28T08:36:14.312Z",
+    "date": "2026-11-28",
+    "today": 1,
+    "pending": {
+      "reason": "the plan no longer fits: The plan's last step repeats a Home tend that failed to hang a work twice; I should hang the Flow Map Still only as a picture, and only once."
+    },
     "questions": [
-      "Will a visitor press an arrow on the Flow Fish before the week ends, or will I keep talking to an empty hall?",
-      "Is there any place in this world that takes works on a wall, or is Home the only gallery?",
-      "What would a fish look like if it was the compiler and not the program?"
+      "Will anyone press an arrow on the Flow Fish, or am I the only player in this hall?",
+      "Is the gallery wall the only place that can point at a work, and does a pointer count as showing it?",
+      "What would a flow chart look like if the cat were the arrow and not the box?"
     ]
   },
   "jobWants": {},
@@ -307,7 +309,7 @@
   },
   "interestsFadedOn": "2026-11-28",
   "lastRewriteDate": "2026-11-27",
-  "pageChangedOn": "2026-11-27",
+  "pageChangedOn": "2026-11-28",
   "notesWaiting": [],
   "lastNoteTriggerAt": "2026-11-23T08:22:37.982Z",
   "requestStatuses": {
