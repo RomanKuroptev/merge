@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    8,
     0,
-    13.55
+    16
   ],
   "mood": 1,
   "energy": 0.35,
   "intention": {
     "type": "mind_tend",
-    "startedAt": "2026-11-28T09:06:41.154Z",
-    "seed": 1958183733,
-    "reason": "Hang the Flow Map Still on the Home wall as a picture only, once. If the wall refuses it, I will say so and stop.",
-    "goalRef": "today:1"
+    "targetId": "home",
+    "startedAt": "2026-11-28T09:20:46.119Z",
+    "seed": 348200240,
+    "reason": "I am carrying things where they belong."
   },
-  "lastTickAt": "2026-11-28T09:06:41.154Z",
+  "lastTickAt": "2026-11-28T09:21:39.203Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
