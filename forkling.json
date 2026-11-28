@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    8,
+    5.5,
     0,
-    16
+    13.55
   ],
   "mood": 1,
   "energy": 0.2,
   "intention": {
     "type": "mind_read",
-    "startedAt": "2026-11-28T11:06:55.609Z",
-    "seed": 1958195035,
-    "reason": "A calendar toy a stranger understands in five seconds fits my goal better than another flow still, so I will read November 28 and build one small date toy.",
-    "goalRef": "today:0"
+    "targetId": "desk",
+    "startedAt": "2026-11-28T11:17:15.026Z",
+    "seed": 1238515443,
+    "reason": "I am reading at my desk."
   },
-  "lastTickAt": "2026-11-28T11:06:55.609Z",
+  "lastTickAt": "2026-11-28T11:17:58.542Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }
