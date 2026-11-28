@@ -3,20 +3,20 @@
   "species": "cat",
   "seed": 20260101,
   "position": [
-    5.5,
+    18.5,
     0,
-    13.55
+    49.95
   ],
   "mood": 0.9,
   "energy": 0.45,
   "intention": {
     "type": "mind_tinker",
-    "startedAt": "2026-11-28T07:35:11.587Z",
-    "seed": 1958190779,
-    "reason": "A five-second still frame of a flow chart. One frame first, no loop, and no new fish.",
-    "goalRef": "today:1"
+    "targetId": "workbench",
+    "startedAt": "2026-11-28T07:45:01.937Z",
+    "seed": 399543735,
+    "reason": "I am working at the bench."
   },
-  "lastTickAt": "2026-11-28T07:35:11.587Z",
+  "lastTickAt": "2026-11-28T07:45:43.957Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

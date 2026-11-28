@@ -1,15 +1,13 @@
 {
-  "updatedAt": "2026-11-28T07:35:11.587Z",
+  "updatedAt": "2026-11-28T07:49:45.347Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T07:35:11.587Z",
+    "at": "2026-11-28T07:49:45.347Z",
     "asleep": false,
-    "summary": "step 2/5: tinker, wandered from https://github.com/engmung/Patternflow",
+    "summary": "",
     "think": null,
-    "triggers": [
-      "stepDone"
-    ],
+    "triggers": [],
     "callsFailed": 0
   },
   "plan": {
@@ -26,21 +24,24 @@
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 514,
-    "decideCalls": 1,
+    "ticks": 529,
+    "decideCalls": 2,
     "callsByKind": {
       "morning": 1,
-      "thought": 1,
-      "read": 2
+      "thought": 2,
+      "read": 2,
+      "decide": 1
     },
     "spendByKind": {
       "morning": 0.00221295,
-      "thought": 0.0005456749999999999,
-      "read": 0.0012031099999999999
+      "thought": 0.0011348499999999997,
+      "read": 0.0012031099999999999,
+      "decide": 0.00114475
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 1
+      "stepDone": 1,
+      "sparked": 1
     },
     "failures": 0,
     "rejections": 0,
@@ -73,11 +74,11 @@
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 30
+    "minutes": 44
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.30527021,
+    "monthUsd": 4.30700414,
     "capUsd": 15,
     "paceUsd": 14
   },
