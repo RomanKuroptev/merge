@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T08:36:36.453Z",
-  "lastThinkAt": "2026-11-28T08:36:36.453Z",
+  "appliedStepAt": "2026-11-28T09:06:41.154Z",
+  "lastThinkAt": "2026-11-28T09:36:48.561Z",
   "allowance": {
-    "points": 1153,
+    "points": 1143,
     "day": "2026-11-28"
   },
   "prices": {
@@ -119,10 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "rest",
-      "at": "2026-11-27T09:08:29.043Z"
-    },
-    {
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-27T10:38:33.709Z"
@@ -210,6 +206,11 @@
       "verb": "tend",
       "targetId": "home",
       "at": "2026-11-28T09:06:41.154Z"
+    },
+    {
+      "verb": "write",
+      "targetId": "program flow",
+      "at": "2026-11-28T09:36:48.561Z"
     }
   ],
   "sparked": {
@@ -220,14 +221,14 @@
   "thought": {
     "failures": 0,
     "recent": [
-      "Pattern flow: a stacked-sprite engine page, a fish joke waiting to be read. Reading it now.",
       "A still frame of a flow chart with one cat at the loop. One frame first, no loop yet. The crooked frame stays crooked.",
       "The Flow Map still is up; resting until the frame settles, then looking at it again.",
       "Left rest early, and now a wander to a GitHub toaster repo. Mostly curious what a toaster project offers the fish.",
-      "The Flow Map Still is being hung on the Home wall as a picture only. A toaster repo was a detour, not a plan."
+      "The Flow Map Still is being hung on the Home wall as a picture only. A toaster repo was a detour, not a plan.",
+      "Writing a plain notebook page on program flow. One cat, one loop, no jargon."
     ],
-    "lastAt": "2026-11-28T09:21:39.203Z",
-    "lastInput": "tend|home|2026-11-28T09:36:41.154Z#"
+    "lastAt": "2026-11-28T09:36:48.561Z",
+    "lastInput": "write|program flow|2026-11-28T10:06:48.561Z#"
   },
   "reflect": {
     "sum": 21,

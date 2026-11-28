@@ -1,50 +1,54 @@
 {
-  "updatedAt": "2026-11-28T09:21:39.203Z",
+  "updatedAt": "2026-11-28T09:36:48.561Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T09:21:39.203Z",
+    "at": "2026-11-28T09:36:48.561Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 3/4: write, tended Home",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-28:cc4afbbd",
-    "stepsLeft": 2,
+    "stepsLeft": 1,
     "current": {
-      "index": 1,
-      "verb": "tend",
-      "targetId": "home",
-      "until": "2026-11-28T09:36:41.154Z",
+      "index": 2,
+      "verb": "write",
+      "targetId": "program flow",
+      "until": "2026-11-28T10:06:48.561Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-28T08:36:36.453Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 625,
+    "ticks": 641,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
-      "thought": 5,
+      "thought": 6,
       "read": 7,
       "decide": 2,
       "sketch": 1,
-      "reflection": 1
+      "reflection": 1,
+      "tend": 1
     },
     "spendByKind": {
       "morning": 0.00221295,
-      "thought": 0.002887775,
+      "thought": 0.00342655,
       "read": 0.004194359999999999,
       "decide": 0.0028518,
       "sketch": 0.0365005,
-      "reflection": 0.029414
+      "reflection": 0.029414,
+      "tend": 0.0013684749999999999
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 3,
+      "stepDone": 4,
       "sparked": 1,
       "reflected": 1
     },
@@ -57,7 +61,8 @@
       "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1,
       "rest": 1,
       "wander https://github.com/StopBanning/toaster": 1,
-      "tend home": 1
+      "tend home": 1,
+      "write program flow": 1
     },
     "longestGapMinutes": 1
   },
@@ -75,18 +80,18 @@
     }
   },
   "allowance": {
-    "points": 1153,
+    "points": 1143,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
-    "label": "very good, rested",
-    "minutes": 135
+    "label": "very good, steady",
+    "minutes": 0
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.37936988,
+    "monthUsd": 4.38127712,
     "capUsd": 15,
     "paceUsd": 14
   },
