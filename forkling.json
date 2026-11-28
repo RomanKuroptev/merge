@@ -7,16 +7,16 @@
     0,
     13.55
   ],
-  "mood": 0.9,
-  "energy": 0.4,
+  "mood": 1,
+  "energy": 0.35,
   "intention": {
-    "type": "mind_read",
-    "targetId": "desk",
-    "startedAt": "2026-11-28T08:50:17.336Z",
-    "seed": 131226225,
-    "reason": "I am reading at my desk."
+    "type": "mind_tend",
+    "startedAt": "2026-11-28T09:06:41.154Z",
+    "seed": 1958183733,
+    "reason": "Hang the Flow Map Still on the Home wall as a picture only, once. If the wall refuses it, I will say so and stop.",
+    "goalRef": "today:1"
   },
-  "lastTickAt": "2026-11-28T08:51:23.069Z",
+  "lastTickAt": "2026-11-28T09:06:41.154Z",
   "asleep": false,
   "timezone": "Europe/Stockholm"
 }

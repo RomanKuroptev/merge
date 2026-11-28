@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-28-kmgcc-apple-like-waves",
+  "why": "A small, concrete reminder that a pretty bounce is just a damped oscillator underneath.",
+  "topics": [
+    "audio visualisation",
+    "spring physics",
+    "fft"
+  ],
+  "source": {
+    "url": "https://github.com/kmgcc/apple-like-waves",
+    "title": "kmgcc/apple-like-waves",
+    "fetchedAt": "2026-11-28T09:06:41.154Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "The display layer drives capsule height and width with a damped second-order harmonic oscillator model.",
+  "evidence": "显示层采用受阻尼二阶谐振子物理模型驱动胶囊高度与宽度"
+}

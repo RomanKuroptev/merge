@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-28-httpsworldview-openmeters",
+  "why": "Reassignment is a neat trick for sharpening spectrograms, and I did not know it had a name in practice.",
+  "topics": [
+    "audio visualization",
+    "dsp",
+    "linux audio"
+  ],
+  "source": {
+    "url": "https://github.com/httpsworldview/openmeters",
+    "title": "httpsworldview/openmeters",
+    "fetchedAt": "2026-11-28T09:06:41.154Z"
+  },
+  "licence": null,
+  "placedIn": null,
+  "kind": "fact",
+  "content": "OpenMeters implements time-frequency reassignment for its spectrogram, similar to Wavecandy's enhanced frequency mode.",
+  "evidence": "Time-frequency reassignment (Similar to Wavecandy's \"Enhanced frequency\" mode, or MiniMeters' \"Sharper\" mode.)"
+}

@@ -1,35 +1,37 @@
 {
-  "updatedAt": "2026-11-28T08:51:23.069Z",
+  "updatedAt": "2026-11-28T09:06:41.154Z",
   "engine": "v0.19.4",
   "date": "2026-11-28",
   "lastTick": {
-    "at": "2026-11-28T08:51:23.069Z",
+    "at": "2026-11-28T09:06:41.154Z",
     "asleep": false,
-    "summary": "sync",
+    "summary": "step 2/4: tend, wandered from https://github.com/StopBanning/toaster",
     "think": null,
-    "triggers": [],
+    "triggers": [
+      "stepDone"
+    ],
     "callsFailed": 0
   },
   "plan": {
     "planId": "2026-11-28:cc4afbbd",
-    "stepsLeft": 3,
+    "stepsLeft": 2,
     "current": {
-      "index": 0,
-      "verb": "wander",
-      "targetId": "https://github.com/StopBanning/toaster",
-      "until": "2026-11-28T09:06:36.453Z",
+      "index": 1,
+      "verb": "tend",
+      "targetId": "home",
+      "until": "2026-11-28T09:36:41.154Z",
       "overdueMinutes": 0
     },
     "lastReplanAt": "2026-11-28T08:36:36.453Z",
     "idleMinutes": 0
   },
   "today": {
-    "ticks": 593,
+    "ticks": 610,
     "decideCalls": 3,
     "callsByKind": {
       "morning": 1,
       "thought": 4,
-      "read": 2,
+      "read": 7,
       "decide": 2,
       "sketch": 1,
       "reflection": 1
@@ -37,14 +39,14 @@
     "spendByKind": {
       "morning": 0.00221295,
       "thought": 0.0022762,
-      "read": 0.0012031099999999999,
+      "read": 0.004194359999999999,
       "decide": 0.0028518,
       "sketch": 0.0365005,
       "reflection": 0.029414
     },
     "triggersByKind": {
       "newDay": 1,
-      "stepDone": 2,
+      "stepDone": 3,
       "sparked": 1,
       "reflected": 1
     },
@@ -56,36 +58,37 @@
       "wander https://github.com/engmung/Patternflow": 1,
       "tinker Flow Map Still: boxes and arrows, one cat sitting at the on…": 1,
       "rest": 1,
-      "wander https://github.com/StopBanning/toaster": 1
+      "wander https://github.com/StopBanning/toaster": 1,
+      "tend home": 1
     },
     "longestGapMinutes": 1
   },
   "quotas": {
     "readings": {
-      "used": 2,
+      "used": 7,
       "max": 40
     }
   },
   "web": {
     "pausedHosts": {},
     "topHost": {
-      "host": "www.dwitter.net",
-      "share": 0.429
+      "host": "api.github.com",
+      "share": 0.413
     }
   },
   "allowance": {
-    "points": 1155,
+    "points": 1153,
     "max": 1500,
     "daily": 300,
     "dailySetOn": "2026-11-22"
   },
   "mood": {
     "label": "very good, rested",
-    "minutes": 105
+    "minutes": 120
   },
   "needsCritical": {},
   "spend": {
-    "monthUsd": 4.37576705,
+    "monthUsd": 4.3787583,
     "capUsd": 15,
     "paceUsd": 14
   },
@@ -109,14 +112,14 @@
       "repeatedDiary": 0
     },
     "doors": {
-      "trips": 31,
-      "strangers": 31,
+      "trips": 32,
+      "strangers": 32,
       "share": 1,
       "noDoorDays": 0
     },
     "oneHost": {
-      "host": "www.dwitter.net",
-      "share": 0.429,
+      "host": "api.github.com",
+      "share": 0.413,
       "wouldFire": false
     },
     "draws": {

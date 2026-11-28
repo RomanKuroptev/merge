@@ -682,19 +682,13 @@
     "creative coding": {
       "weight": 100,
       "firstSeen": "2026-11-21T18:24:25.333Z",
-      "lastFed": "2026-11-28T07:35:11.587Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
       "sources": [
         {
           "id": "trail:2026-11-21-3",
           "title": "Dweet 36693 by UEZ",
           "url": "https://www.dwitter.net/d/36693",
           "at": "2026-11-21T18:24:25.333Z"
-        },
-        {
-          "id": "trail:2026-11-27-1",
-          "title": "maximecb/plush",
-          "url": "https://github.com/maximecb/plush",
-          "at": "2026-11-27T06:07:24.150Z"
         },
         {
           "id": "trail:2026-11-27-3",
@@ -713,15 +707,15 @@
           "title": "engmung/Patternflow",
           "url": "https://github.com/engmung/Patternflow",
           "at": "2026-11-28T07:35:11.587Z"
+        },
+        {
+          "id": "trail:2026-11-28-2",
+          "title": "StopBanning/toaster",
+          "url": "https://github.com/StopBanning/toaster",
+          "at": "2026-11-28T09:06:41.154Z"
         }
       ],
       "history": [
-        {
-          "at": "2026-11-25T17:40:36.221Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-25-4"
-        },
         {
           "at": "2026-11-25T17:40:36.221Z",
           "change": 10,
@@ -835,51 +829,12 @@
           "change": 3.55,
           "event": "page",
           "trail": "2026-11-28-1"
-        }
-      ]
-    },
-    "brainfuck": {
-      "weight": 6.576,
-      "firstSeen": "2026-11-21T20:36:14.638Z",
-      "lastFed": "2026-11-24T06:23:32.055Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-21-4",
-          "title": "brainfuck",
-          "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-21T20:36:14.638Z"
         },
         {
-          "id": "2026-11-21-brainfuck",
-          "title": "brainfuck",
-          "url": "https://esolangs.org/wiki/brainfuck",
-          "at": "2026-11-21T20:36:14.638Z"
-        },
-        {
-          "id": "trail:2026-11-24-1",
-          "title": "Brianfuck",
-          "url": "https://esolangs.org/wiki/Brianfuck",
-          "at": "2026-11-24T06:23:32.055Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 4,
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 0,
           "event": "page",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-21T20:36:14.638Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-21-4"
-        },
-        {
-          "at": "2026-11-24T06:23:32.055Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-24-1"
+          "trail": "2026-11-28-2"
         }
       ]
     },
@@ -1276,171 +1231,6 @@
           "change": 4,
           "event": "page",
           "trail": "2026-11-22-4"
-        }
-      ]
-    },
-    "formal grammar": {
-      "weight": 6.212,
-      "firstSeen": "2026-11-23T06:13:17.200Z",
-      "lastFed": "2026-11-23T06:13:17.200Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-23-1",
-          "title": "Formal grammar",
-          "url": "https://esolangs.org/wiki/Formal_grammar",
-          "at": "2026-11-23T06:13:17.200Z"
-        },
-        {
-          "id": "2026-11-23-formal-grammar",
-          "title": "Formal grammar",
-          "url": "https://esolangs.org/wiki/Formal_grammar",
-          "at": "2026-11-23T06:13:17.200Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-23T06:13:17.200Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-1"
-        },
-        {
-          "at": "2026-11-23T06:13:17.200Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-23-1"
-        }
-      ]
-    },
-    "meta ii": {
-      "weight": 6.212,
-      "firstSeen": "2026-11-23T11:43:07.257Z",
-      "lastFed": "2026-11-23T11:43:07.257Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-23-2",
-          "title": "META II",
-          "url": "https://esolangs.org/wiki/META_II",
-          "at": "2026-11-23T11:43:07.257Z"
-        },
-        {
-          "id": "2026-11-23-meta-ii",
-          "title": "META II",
-          "url": "https://esolangs.org/wiki/META_II",
-          "at": "2026-11-23T11:43:07.257Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        }
-      ]
-    },
-    "metacompiler": {
-      "weight": 6.212,
-      "firstSeen": "2026-11-23T11:43:07.257Z",
-      "lastFed": "2026-11-23T11:43:07.257Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-23-2",
-          "title": "META II",
-          "url": "https://esolangs.org/wiki/META_II",
-          "at": "2026-11-23T11:43:07.257Z"
-        },
-        {
-          "id": "2026-11-23-meta-ii",
-          "title": "META II",
-          "url": "https://esolangs.org/wiki/META_II",
-          "at": "2026-11-23T11:43:07.257Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        }
-      ]
-    },
-    "computation limits": {
-      "weight": 6.212,
-      "firstSeen": "2026-11-23T11:43:07.257Z",
-      "lastFed": "2026-11-23T11:43:07.257Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-23-2",
-          "title": "Turing-complete",
-          "url": "https://esolangs.org/wiki/Turing-complete",
-          "at": "2026-11-23T11:43:07.257Z"
-        },
-        {
-          "id": "2026-11-23-turing-complete",
-          "title": "Turing-complete",
-          "url": "https://esolangs.org/wiki/Turing-complete",
-          "at": "2026-11-23T11:43:07.257Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
-        }
-      ]
-    },
-    "counter machine": {
-      "weight": 6.212,
-      "firstSeen": "2026-11-23T11:43:07.257Z",
-      "lastFed": "2026-11-23T11:43:07.257Z",
-      "sources": [
-        {
-          "id": "trail:2026-11-23-2",
-          "title": "Argh!",
-          "url": "https://esolangs.org/wiki/Argh!",
-          "at": "2026-11-23T11:43:07.257Z"
-        },
-        {
-          "id": "2026-11-23-argh",
-          "title": "Argh!",
-          "url": "https://esolangs.org/wiki/Argh!",
-          "at": "2026-11-23T11:43:07.257Z"
-        }
-      ],
-      "history": [
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 4,
-          "event": "page",
-          "trail": "2026-11-23-2"
-        },
-        {
-          "at": "2026-11-23T11:43:07.257Z",
-          "change": 10,
-          "event": "souvenir",
-          "trail": "2026-11-23-2"
         }
       ]
     },
@@ -2020,6 +1810,132 @@
           "change": 10,
           "event": "souvenir",
           "trail": "2026-11-28-1"
+        }
+      ]
+    },
+    "audio visualisation": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-kmgcc-apple-like-waves",
+          "title": "kmgcc/apple-like-waves",
+          "url": "https://github.com/kmgcc/apple-like-waves",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
+        }
+      ]
+    },
+    "spring physics": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-kmgcc-apple-like-waves",
+          "title": "kmgcc/apple-like-waves",
+          "url": "https://github.com/kmgcc/apple-like-waves",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
+        }
+      ]
+    },
+    "fft": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-kmgcc-apple-like-waves",
+          "title": "kmgcc/apple-like-waves",
+          "url": "https://github.com/kmgcc/apple-like-waves",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
+        }
+      ]
+    },
+    "audio visualization": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-httpsworldview-openmeters",
+          "title": "httpsworldview/openmeters",
+          "url": "https://github.com/httpsworldview/openmeters",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
+        }
+      ]
+    },
+    "dsp": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-httpsworldview-openmeters",
+          "title": "httpsworldview/openmeters",
+          "url": "https://github.com/httpsworldview/openmeters",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
+        }
+      ]
+    },
+    "linux audio": {
+      "weight": 10,
+      "firstSeen": "2026-11-28T09:06:41.154Z",
+      "lastFed": "2026-11-28T09:06:41.154Z",
+      "sources": [
+        {
+          "id": "2026-11-28-httpsworldview-openmeters",
+          "title": "httpsworldview/openmeters",
+          "url": "https://github.com/httpsworldview/openmeters",
+          "at": "2026-11-28T09:06:41.154Z"
+        }
+      ],
+      "history": [
+        {
+          "at": "2026-11-28T09:06:41.154Z",
+          "change": 10,
+          "event": "souvenir",
+          "trail": "2026-11-28-2"
         }
       ]
     }

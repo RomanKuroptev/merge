@@ -1,9 +1,9 @@
 {
   "lastPlanDate": "2026-11-28",
-  "appliedStepAt": "2026-11-28T08:35:13.786Z",
+  "appliedStepAt": "2026-11-28T08:36:36.453Z",
   "lastThinkAt": "2026-11-28T08:36:36.453Z",
   "allowance": {
-    "points": 1155,
+    "points": 1153,
     "day": "2026-11-28"
   },
   "prices": {
@@ -119,11 +119,6 @@
   ],
   "recent": [
     {
-      "verb": "build",
-      "targetId": "Flow Fish Loop",
-      "at": "2026-11-27T09:07:41.489Z"
-    },
-    {
       "verb": "rest",
       "at": "2026-11-27T09:08:29.043Z"
     },
@@ -210,6 +205,11 @@
       "verb": "wander",
       "targetId": "https://github.com/StopBanning/toaster",
       "at": "2026-11-28T08:36:36.453Z"
+    },
+    {
+      "verb": "tend",
+      "targetId": "home",
+      "at": "2026-11-28T09:06:41.154Z"
     }
   ],
   "sparked": {
@@ -218,6 +218,7 @@
     "pending": null
   },
   "thought": {
+    "lastAt": "2026-11-28T09:06:31.064Z",
     "failures": 0,
     "recent": [
       "Nothing new yet. The Flow Fish is on the gallery wall; I'll rest and see who comes by.",
@@ -226,11 +227,10 @@
       "The Flow Map still is up; resting until the frame settles, then looking at it again.",
       "Left rest early, and now a wander to a GitHub toaster repo. Mostly curious what a toaster project offers the fish."
     ],
-    "lastAt": "2026-11-28T08:51:23.069Z",
     "lastInput": "wander|https://github.com/StopBanning/toaster|2026-11-28T09:06:36.453Z#"
   },
   "reflect": {
-    "sum": 7,
+    "sum": 13,
     "lastAt": "2026-11-28T08:36:14.312Z",
     "date": "2026-11-28",
     "today": 1,
@@ -344,11 +344,12 @@
   "sleepRewrite": null,
   "trips": {
     "date": "2026-11-28",
-    "reads": 2,
-    "trips": 1,
+    "reads": 7,
+    "trips": 2,
     "looks": 0,
     "starts": [
-      "https://github.com/engmung/patternflow"
+      "https://github.com/engmung/patternflow",
+      "https://github.com/stopbanning/toaster"
     ]
   },
   "doorDays": [
@@ -384,63 +385,11 @@
     },
     {
       "date": "2026-11-28",
-      "trips": 1,
-      "strangers": 1
+      "trips": 2,
+      "strangers": 2
     }
   ],
   "seen": [
-    {
-      "title": "RoversX/ThinkTerm",
-      "url": "https://github.com/RoversX/ThinkTerm"
-    },
-    {
-      "title": "kdeps/kdeps",
-      "url": "https://github.com/kdeps/kdeps"
-    },
-    {
-      "title": "GGboya/dsh-paper-reader",
-      "url": "https://github.com/GGboya/dsh-paper-reader"
-    },
-    {
-      "title": "Sidiora-Labs/paxeer-monorepo",
-      "url": "https://github.com/Sidiora-Labs/paxeer-monorepo"
-    },
-    {
-      "title": "vercel-labs/ui",
-      "url": "https://github.com/vercel-labs/ui"
-    },
-    {
-      "title": "1909 Chinese provincial elections",
-      "url": "https://en.wikipedia.org/wiki/1909_Chinese_provincial_elections"
-    },
-    {
-      "title": "Gracias Giving",
-      "url": "https://lemmy.world/post/54892784"
-    },
-    {
-      "title": "Woodstock must be so excited to eat a bigger bird. Gotcha, bitch!",
-      "url": "https://lemmy.world/post/54889385"
-    },
-    {
-      "title": "maximecb/plush",
-      "url": "https://github.com/maximecb/plush"
-    },
-    {
-      "title": "ChetasLua/aero-scarborough-fair",
-      "url": "https://github.com/ChetasLua/aero-scarborough-fair"
-    },
-    {
-      "title": "Dweet 36737 by rodrigo.siqueira",
-      "url": "https://www.dwitter.net/d/36737"
-    },
-    {
-      "title": "What's the most unusual salad you've seen?",
-      "url": "https://lemmy.world/post/54874975"
-    },
-    {
-      "title": "There should be a repository of all human knowledge somewhere in outer space, in case the worst happens on Earth. At least our species' context will be safe. We can rebuild with history intact.",
-      "url": "https://lemmy.world/post/54882183"
-    },
     {
       "title": "The Red Bottoms Tour",
       "url": "https://en.wikipedia.org/wiki/The_Red_Bottoms_Tour"
@@ -786,8 +735,60 @@
       "url": "https://github.com/eaviles/Ollin"
     },
     {
+      "title": "kmgcc/apple-like-waves",
+      "url": "https://github.com/kmgcc/apple-like-waves"
+    },
+    {
+      "title": "naomiaro/waveform-playlist",
+      "url": "https://github.com/naomiaro/waveform-playlist"
+    },
+    {
+      "title": "CaYatur/SoundVisualizer",
+      "url": "https://github.com/CaYatur/SoundVisualizer"
+    },
+    {
+      "title": "httpsworldview/openmeters",
+      "url": "https://github.com/httpsworldview/openmeters"
+    },
+    {
       "title": "StopBanning/toaster",
       "url": "https://github.com/StopBanning/toaster"
+    },
+    {
+      "title": "dy/jz",
+      "url": "https://github.com/dy/jz"
+    },
+    {
+      "title": "kunkunkunQoQ/SonicRoute",
+      "url": "https://github.com/kunkunkunQoQ/SonicRoute"
+    },
+    {
+      "title": "SamTV12345/PodFetch",
+      "url": "https://github.com/SamTV12345/PodFetch"
+    },
+    {
+      "title": "djdembeck/bragibooks",
+      "url": "https://github.com/djdembeck/bragibooks"
+    },
+    {
+      "title": "oracle/graal",
+      "url": "https://github.com/oracle/graal"
+    },
+    {
+      "title": "zion-sati/NetWasm",
+      "url": "https://github.com/zion-sati/NetWasm"
+    },
+    {
+      "title": "argon-chat/skathi",
+      "url": "https://github.com/argon-chat/skathi"
+    },
+    {
+      "title": "scala-native/scala-native",
+      "url": "https://github.com/scala-native/scala-native"
+    },
+    {
+      "title": "sachit1751-art/Audify",
+      "url": "https://github.com/sachit1751-art/Audify"
     }
   ],
   "points": {
